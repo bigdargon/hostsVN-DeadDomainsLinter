@@ -8,16 +8,16 @@ declare -A FILES=(
     ["https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/threat/hosts"]="threat.txt"
 )
 
-# Lặp qua các URL và tải tệp
+# Lặp qua các URL, tải tệp và xử lý
 for URL in "${!FILES[@]}"; do
     OUTPUT_FILE=${FILES[$URL]}
     echo "Đang tải tệp từ $URL..."
-    curl -o "$OUTPUT_FILE" "$URL"
+    curl -s "$URL" | grep -v '^#' | sed -E 's/^0\.0\.0\.0[[:space:]]+(.+)/||\1^/' > "$OUTPUT_FILE"
 
     if [ $? -eq 0 ]; then
-        echo "Tệp đã được tải thành công và lưu dưới tên '$OUTPUT_FILE'."
+        echo "Tệp '$OUTPUT_FILE' đã được tải và xử lý thành công."
     else
-        echo "Tải tệp từ $URL thất bại. Vui lòng kiểm tra URL hoặc kết nối mạng."
+        echo "Tải hoặc xử lý tệp từ $URL thất bại. Vui lòng kiểm tra URL hoặc kết nối mạng."
         exit 1
     fi
 done
