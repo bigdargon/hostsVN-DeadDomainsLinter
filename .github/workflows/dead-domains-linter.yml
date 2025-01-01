@@ -22,17 +22,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-		  
+
       - name: Install dependencies
         run: npm i -g @adguard/dead-domains-linter
-		
+
       - name: Run DeadDomainsLinter
         run: |
           dead-domains-linter -i hostsVN.txt --export=hostsVN-DeadDomains.txt
           dead-domains-linter -i adult.txt --export=adult-DeadDomains.txt
           dead-domains-linter -i gambling.txt --export=gambling-DeadDomains.txt
           dead-domains-linter -i threat.txt --export=threat-DeadDomains.txt
-		  
+
       - name: Commit and Push Changes
         run: |
           git config --local user.name "github-actions[bot]"
@@ -42,4 +42,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
