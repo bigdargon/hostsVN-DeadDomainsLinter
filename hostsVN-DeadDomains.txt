@@ -92,6 +92,7 @@ aj2066.online
 aj2113.online
 aj2125.online
 aj2129.online
+aj2131.online
 aj2141.online
 aj2208.online
 aj2210.online
@@ -225,14 +226,15 @@ sb.freeskreen.com
 static.freeskreen.com
 video.freeskreen.com
 www.freeskreen.com
-delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
+b91vip.com
 image.b91vip.com
+www.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -249,6 +251,9 @@ hostedprebid.com
 adstatic.com
 media.adstatic.com
 vip.adstatic.com
+cdn.sb4you1.com
+sb4you1.com
+www.sb4you1.com
 bidder.dev
 cdn.bidder.dev
 verblife-5.co
@@ -374,6 +379,8 @@ d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
+mautic.casso.vn
+mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 delivery.smartadnetwork.net
@@ -402,8 +409,8 @@ www.delecpuzz.com
 analytics.aita.gov.vn
 analytics.yts.vn
 api.ozui.vn
-cdn.api-connect.io
 counter.ntdvn.net
+log.vovplus.vn
 marketing.itgeek.vn
 thongke.vui.vn
 track.lapa.pub
@@ -478,12 +485,15 @@ ads.edbindex.dk
 ads.fasttrack-ignite.com
 ads.isoftmarketing.com
 ads.ontarget.mobi
+ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
 ads.toplayaffiliates.com
 ads.trinitymirror.co.uk
 ads8.com
 adscpm.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adshost1.com
 adsoldier.com
 adspleen.com
@@ -585,12 +595,14 @@ apfsujontqu.com
 apfxpuatkla.com
 aphidsclee.com
 api.ampiri.com
+api.pushspring.com
 apisq9zxs.com
 apocarpdogdom.com
 apochaeunanime.com
 apoll-amp.com
 appbetnewapp.top
 appdog.com
+appsfire.net
 apsatnlfylz.com
 aqdoxczajah.com
 aqpafqbmyg.com
@@ -605,7 +617,6 @@ argyresthia.com
 armhoopcoinage.com
 arqrzyowta.com
 arsbivqmeva.com
-arsnivyr.com
 artpever.com
 ascentmatrimonypistol.com
 asgclickpop.com
@@ -663,6 +674,7 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
+banner.mindshare.de
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -794,7 +806,6 @@ cadetrigourlegitimate.com
 cagamvnuqhuh.com
 calculatorcamera.com
 calfimmoderate.com
-cameesse.net
 campongprecant.com
 canktunkawm.com
 cannonjudo.com
@@ -1661,6 +1672,7 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
+medibaad.com
 medusaecaptan.com
 mehebborc.com
 memorycobweb.com
@@ -1702,6 +1714,7 @@ mkigmocizon.com
 mkzqqhaakt.com
 mmoatlhatz.com
 mobcrummymow.com
+mobileadvertisinghub.com
 moceanmobile.com
 modern-passenger.pro
 modifyeyes.com
@@ -1718,6 +1731,7 @@ mp3zik.net
 mpnoqwbkz.com
 mqsydgnuid.xyz
 msotdipkjtata.com
+mstrlytcs.com
 mtttvrit.com
 mudcatbreezes.space
 mulserebush.digital
@@ -1734,7 +1748,9 @@ mwopasxmiw.com
 mybettermb.com
 mydinebaster.com
 mynsystems.com
+mypagerank.ru
 mysteriousmonth.com
+mzbcdn.net
 mzobahrrugci.com
 nabfkhgvbi.xyz
 nableriptide.com
@@ -1858,7 +1874,6 @@ onzlzyf.com
 oodsotso.com
 opdvriwmixu.com
 opensdeiseal.com
-ophoacit.com
 opmvivogsb.com
 oppvcuovgda.com
 oppxzerrufhe.com
@@ -1995,6 +2010,7 @@ poucoaga.com
 ppfrlfe.com
 pqplkjwwezfrn.com
 prakritinfixed.com
+pramviable.com
 preciousawareness.pro
 preferunhair.com
 presbanise.pw
@@ -2006,7 +2022,6 @@ prewirelargy.life
 prfwpclck.com
 privateleaflet.com
 priveeyou.it
-pro-advertising.com
 proaunbulky.guru
 prodigalpromotion.com
 profbigo.com
@@ -2291,7 +2306,6 @@ spruecutworm.com
 spurioussteam.com
 spykemediatrack.com
 spymislead.com
-spywarelabs.com
 spywarenuker.com
 squirrelhands.com
 srbijacafe.org
@@ -2403,6 +2417,7 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
+thiem-csl.com
 thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
@@ -2411,7 +2426,6 @@ thrnt.com
 throattrees.com
 throngsarseno.com
 thterras.com
-thubanoa.com
 tiaraedmessing.uno
 tiarasorthose.website
 tiijdxto.com
@@ -2437,7 +2451,9 @@ tougherrancor.website
 touracostephe.com
 towardscircumscribe.com
 trabuchbignou.com
+tracker-pm2.spilleren.com
 trafficadept.com
+trafficstrategies.com
 traffictrader.net
 trahes.site
 translateoatmeal.com
@@ -2499,7 +2515,6 @@ unzipauscult.com
 uoobmvrjyjomnle.com
 updiveufos.com
 upgrownloathly.space
-upgulpinon.com
 upmoveatoms.com
 upupoidoutjazz.website
 upwaftssoland.digital
