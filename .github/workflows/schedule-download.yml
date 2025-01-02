@@ -1,0 +1,29 @@
+name: Schedule Download
+
+on:
+  schedule:
+    - cron: '5 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-download-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run download script
+        run: |
+          chmod +x ./download.sh
+          ./download.sh
+
+      - name: Commit and push results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update results from download.sh"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,37 +1,24 @@
-name: Dead Domains Linter
+name: Dead Domains Gambling
 
 on:
   schedule:
-    - cron: '10 1 * * *'
+    - cron: '10 */6 * * *'
   workflow_dispatch:
   
 jobs:
-  run-linter:
+  run-linter-gambling:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run Download Script
-        run: |
-          chmod +x download.sh
-          ./download.sh
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: latest
-
       - name: Install dependencies
         run: npm i -g @adguard/dead-domains-linter
 
       - name: Run DeadDomainsLinter
         run: |
-          dead-domains-linter -i hostsVN.txt --export=hostsVN-DeadDomains.txt
-          dead-domains-linter -i adult.txt --export=adult-DeadDomains.txt
           dead-domains-linter -i gambling.txt --export=gambling-DeadDomains.txt
-          dead-domains-linter -i threat.txt --export=threat-DeadDomains.txt
 
       - name: Commit and Push Changes
         run: |
