@@ -92,7 +92,6 @@ aj2066.online
 aj2113.online
 aj2125.online
 aj2129.online
-aj2131.online
 aj2141.online
 aj2208.online
 aj2210.online
@@ -226,15 +225,14 @@ sb.freeskreen.com
 static.freeskreen.com
 video.freeskreen.com
 www.freeskreen.com
+delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
-b91vip.com
 image.b91vip.com
-www.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -732,7 +730,6 @@ bleokerrie.com
 bletretzian.com
 blode-cpq.com
 blotburn.com
-blueadvertise.com
 bluejayfacette.com
 bluntlywrinkly.com
 blushingboundary.com
@@ -1714,7 +1711,6 @@ mkigmocizon.com
 mkzqqhaakt.com
 mmoatlhatz.com
 mobcrummymow.com
-mobileadvertisinghub.com
 moceanmobile.com
 modern-passenger.pro
 modifyeyes.com
@@ -1867,7 +1863,6 @@ oncgtaramla.com
 oncomeannuals.com
 onlineshoppin.click
 onlyadshere.info
-onlyfanssubscriber.com
 onnotcbwyz.com
 onzasmvmoom.com
 onzlzyf.com
@@ -2010,7 +2005,6 @@ poucoaga.com
 ppfrlfe.com
 pqplkjwwezfrn.com
 prakritinfixed.com
-pramviable.com
 preciousawareness.pro
 preferunhair.com
 presbanise.pw
@@ -2221,13 +2215,13 @@ scourpapless.live
 seafoodoutpipe.digital
 selectionship.com
 sellingtandays.com
-sendmepixel.com
 separate-tie.pro
 separatecolonist.com
 separatesilver.com
 separationreverttap.com
 sepiasbalkis.com
 serveddovens.digital
+servsave.com
 sexinyourcity.com
 shakesuggestion.com
 shallowsmile.com
@@ -2417,7 +2411,6 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
-thiem-csl.com
 thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
@@ -2655,6 +2648,7 @@ www.hzkachqd.com
 www.lyqpmabeddja.com
 www.pcteast.com
 www.qskvfuiywah.com
+www.servsave.com
 www.statsy.net
 www.tkickhhylnvm.com
 www.tspivyuxoowva.com
