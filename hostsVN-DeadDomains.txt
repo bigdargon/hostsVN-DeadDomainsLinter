@@ -1,3 +1,4 @@
+googleads-cn.com
 blueserving.com
 adbro.rtbid.me
 cdn.rtbid.me
@@ -404,6 +405,7 @@ syncwowsails.com
 vlxx.host
 www.delecpuzz.com
 analytics.aita.gov.vn
+analytics.amedigital.vn
 analytics.yts.vn
 counter.ntdvn.net
 log.vovplus.vn
@@ -449,6 +451,8 @@ achilles-par.com
 acloudimages.com
 acmbuwarxo.com
 acsseo.com
+ad.foxnetworks.com
+ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
@@ -470,6 +474,7 @@ adgroups.net
 adhoc4.net
 adjectivehonestly.com
 adlike.com
+admailtiser.com
 admeta.com
 admotion.com.ar
 admtpmp123.com
@@ -479,6 +484,7 @@ adqapvtrad.com
 adru.net
 ads.edbindex.dk
 ads.fasttrack-ignite.com
+ads.foxnetworks.com
 ads.isoftmarketing.com
 ads.ontarget.mobi
 ads.quasaraffiliates.com
@@ -500,6 +506,7 @@ adtrak.net
 adtruth.com
 adv-links.com
 adv.cooperhosting.net
+advantagesclotblend.com
 advantageshallwayasks.com
 adverticus.de
 advertisementafterthought.com
@@ -572,6 +579,7 @@ amputeeinvenit.space
 amsuclmqo.com
 amucksballone.com
 amzzamkawwu.com
+an.acxapi.net
 an.clhcdn.net
 an.cliphub.io
 anansao2ay8yap09.com
@@ -668,6 +676,7 @@ ballotsevicts.space
 banisterspast.com
 banner.cz
 banner.mindshare.de
+banner.penguin.cz
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -1180,6 +1189,7 @@ fpmleqdb.com
 fractiontranslate.com
 fracuqortqc.com
 frailoffer.com
+frantictrail.com
 frbyvuxzvmqpb.com
 freakishdaughter.com
 free-banners.com
@@ -1296,7 +1306,6 @@ hadesleta.com
 hadladjfeq.com
 haflinforms.top
 haggeisgael.com
-hagzuwbukmpe.com
 hainekyack.life
 hairdosslitter.casa
 halidspilau.guru
@@ -1555,6 +1564,7 @@ laughedbegnaw.com
 laversleopold.guru
 lazypeacefullyutterly.com
 lcadkutwuvt.com
+leadingedgecash.com
 leapfaucet.com
 lecap-services.fr
 leethalo.net
@@ -1729,6 +1739,7 @@ mwopasxmiw.com
 mybettermb.com
 mydinebaster.com
 mynsystems.com
+myntelligence.com
 mypagerank.ru
 mysteriousmonth.com
 mzbcdn.net
@@ -2310,7 +2321,6 @@ stunthedge.com
 styingjareed.guru
 subscribeundergoshuffle.com
 subsequentstew.com
-suffixlabores.com
 sugarcurtain.com
 sukbutnfoo.com
 sukobal.com
@@ -2552,6 +2562,7 @@ wcadlxvbjus.com
 wcofweagvafx.com
 wearinggenear.com
 webangel.ru
+webpower.com
 webproducts.click
 webtracky.com
 wegcash.com
@@ -2564,7 +2575,6 @@ wheedlehooplas.com
 wheegaulrie.net
 wheeksir.net
 whenu.com
-whereapps.com
 whinecapicha.space
 whingewost.com
 wickupbeaners.tech
@@ -2744,6 +2754,7 @@ zwygrimwothy.com
 zygenidempaper.digital
 zygomasbeaches.guru
 zzelicawwofl.com
+analytics.samdd.me
 annedouglas.com
 axmtrack.com
 bafuhotel.com
@@ -2762,6 +2773,7 @@ theirsvendor.com
 track.datetrck.com
 track.mobgc.com
 track.td3x.com
+tracker.vgame.us
 usergrid.com
 v3.fstats.xyz
 westats.dev
