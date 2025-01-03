@@ -1,3 +1,9 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -33,6 +39,15 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -152,6 +167,13 @@ rtb.adsymptotic.com
 rtbe.adsymptotic.com
 rtb-eu.adsymptotic.com
 www.adsymptotic.com
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
+cdn.bidfilter.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -239,6 +261,7 @@ clkv6.rtpdn14.com
 rtpdn14.com
 clk.rtpdn15.com
 rtpdn15.com
+asgdfasad.mm-cgnews.com
 cdn.orgxts.com
 orgxts.com
 7fb60feaa4.com
@@ -376,6 +399,7 @@ d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
+mautic.educe.vn
 mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
@@ -386,6 +410,7 @@ cdn.viraads.com
 viraads.com
 ad.chieuhoa.com
 ad.lapa.pub
+ads.laodongbinhduong.org.vn
 ads.xemtivisohd.net
 adsphim.lol
 adx.edutimes.com.vn
@@ -457,6 +482,7 @@ ad127m.com
 ad2flash.com
 adalgard-wol.com
 adblox.net
+adbrn.com
 adbuyer.com
 adcheap.network
 adchina.com
@@ -482,11 +508,14 @@ adru.net
 ads.edbindex.dk
 ads.fasttrack-ignite.com
 ads.foxnetworks.com
+ads.gradfinder.com
+ads.horyzon-media.com
 ads.isoftmarketing.com
 ads.ontarget.mobi
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
+ads.thrillsaffiliates.com
 ads.toplayaffiliates.com
 ads.trinitymirror.co.uk
 ads8.com
@@ -1406,6 +1435,7 @@ igwlfwsogwetw.com
 ilbanner.com
 ilealscathes.com
 ilusors.com
+imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
@@ -1466,6 +1496,7 @@ itineraryupper.com
 iuovbilfsf.xyz
 ivfihumeajjmbc.com
 ivypixel.com
+j6rudlybdy.com
 jaizouji.com
 jakeycorkage.digital
 janxfolcoogh.com
@@ -1661,6 +1692,7 @@ media-servers.net
 medibaad.com
 medusaecaptan.com
 mehebborc.com
+memeglobal.com
 memorycobweb.com
 menelaus-col.com
 menlithium.com
@@ -1696,6 +1728,7 @@ misdeemnormal.uno
 misosaloud.com
 mitozzwi.com
 mixandfun.com
+mixtraffic.com
 mkigmocizon.com
 mkzqqhaakt.com
 mmoatlhatz.com
@@ -2095,6 +2128,7 @@ rebillscaress.tech
 rebindmoodish.website
 recessgrimp.space
 reclinesudden.com
+record.bonniergaming.com
 redderspsiloi.guru
 redlele.com
 redrootprotyle.uno
