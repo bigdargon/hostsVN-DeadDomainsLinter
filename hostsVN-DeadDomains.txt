@@ -227,6 +227,7 @@ proxy-eu.mppmnetwork.com
 proxy-eu-ping.mppmnetwork.com
 tm.mppmnetwork.com
 c.hgbasics.com
+hgbasics.com
 m.hgbasics.com
 c.uttclimber.com
 m.uttclimber.com
@@ -398,7 +399,6 @@ j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
-mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 delivery.smartadnetwork.net
@@ -1052,6 +1052,7 @@ dsucjlwjypo.com
 dteorxchacwe.com
 duckswillsmoochyou.com
 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
+dujzuwadpaqg.com
 duzzufaxzavs.com
 dvmludkami.com
 dyeingjaun.com
@@ -1184,7 +1185,6 @@ fluffynyasquirell.com
 fmgcdgnousrww.com
 fmonawobzorb.com
 foamidsputt.com
-focoidsquos.website
 focusde.info
 focuseddroppedhoarfrost.com
 folkscombine.com
@@ -1192,6 +1192,7 @@ fomentirrite.top
 fooedgar.life
 foolishcheek.pro
 fopsoado.com
+foresawmartins.com
 forgiemaulvi.com
 formssalvagelistless.com
 forsungprosode.com
@@ -2323,6 +2324,7 @@ stihruojvag.com
 stinicf.com
 stogivpi.com
 storeslope.com
+storesurprise.com
 stoveitalianatmospheric.com
 stoveseashore.com
 stratesputta.space
@@ -2774,7 +2776,6 @@ annedouglas.com
 axmtrack.com
 bafuhotel.com
 bugsense.com
-burstly.com
 counter.yandro.ru
 d1vl8wytztdz.cloudfront.net
 dm599.com
