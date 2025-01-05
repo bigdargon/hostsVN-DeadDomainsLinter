@@ -1,4 +1,4 @@
-# Version: 2501042351
+# Version: 2501051424
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -90954,6 +90954,7 @@
 ||ad.8live.com^
 ||ad.8live.net^
 ||ad.app8.top^
+||ad.choigametip.org^
 ||ad.choigem.fun^
 ||ad.choigo88.run^
 ||ad.choingay11b.mobi^
@@ -94185,6 +94186,7 @@
 ||b5284.com^
 ||b52a.bz^
 ||b52api.net^
+||b52choi.pro^
 ||b52club.to^
 ||b52club1.click^
 ||b52d.club^
@@ -107043,6 +107045,7 @@
 ||dk.playgem.me^
 ||dk.rikkk.net^
 ||dk.sieutaixiu79.club^
+||dk.sky88vip.top^
 ||dk.thangiwin.org^
 ||dk.thethaouk88.org^
 ||dk.thethaovua.co^
@@ -113102,6 +113105,7 @@
 ||gamevipclub.fun^
 ||gamevipclub.us^
 ||gamevui.club^
+||gamevui68.live^
 ||gamevui86.com^
 ||gamewayth.com^
 ||gamewin.online^
@@ -120701,9 +120705,11 @@
 ||ipowerboat.com^
 ||ipqert.net^
 ||ipv4.closwbay9bak.org^
+||ipv4.colgagnez.org^
 ||ipv4.iptrackywin.info^
 ||ipv4.traipksgwz.info^
 ||ipv6.closwbay9bak.org^
+||ipv6.colgagnez.org^
 ||ipv6.iptrackywin.info^
 ||ipv6.traipksgwz.info^
 ||irichgames.com^
@@ -131656,11 +131662,13 @@
 ||loyal68.com^
 ||loyalfun98.com^
 ||loyalshop.net^
+||lp.b52choi.pro^
 ||lp.b52vn.info^
 ||lp.choiriikvip.today^
 ||lp.choitet.vip^
 ||lp.da88vn.win^
 ||lp.dangkywi88.org^
+||lp.gamevui68.live^
 ||lp.go8vui.info^
 ||lp.kingbillycasino.com^
 ||lp.macauclub.fun^
@@ -145030,6 +145038,7 @@
 ||sky88b.org^
 ||sky88k.com^
 ||sky88vao.club^
+||sky88vip.top^
 ||skycasino.com^
 ||skyclub.bid^
 ||skyclub.city^
@@ -152666,6 +152675,7 @@
 ||vk2b9.com^
 ||vk6868.net^
 ||vk6869.net^
+||vk88vn.info^
 ||vkcorz.com^
 ||vkgame.shop^
 ||vkgame11.site^
