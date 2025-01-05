@@ -1,9 +1,12 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -39,15 +42,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -57,6 +51,7 @@ spf3.advergine.ru
 track.advergine.ru
 ad.bnmla.com
 bnmla.com
+cdn0.bnmla.com
 cdn1.bnmla.com
 cdnfi.bnmla.com
 cdnin.bnmla.com
@@ -144,6 +139,9 @@ aj2508.online
 aj2510.online
 aj2511.online
 aj2512.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+whm.asianmedia.com
 ads.adsymptotic.com
 adsapi.adsymptotic.com
 adsymptotic.com
@@ -249,6 +247,11 @@ delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+stats.showcasethat.com
+xml.showcasethat.com
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
@@ -400,6 +403,9 @@ mautic.akhoe.vn
 mautic.educe.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
@@ -427,6 +433,7 @@ www.delecpuzz.com
 analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.yts.vn
+api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
@@ -1377,6 +1384,7 @@ hoosgowhandbow.com
 hostgrater.com
 hostingstrong.com
 hostlyacus.digital
+hosupshunk.com
 hotkeys.com
 hoverowl.com
 howtubray.com
@@ -1824,6 +1832,7 @@ oataltaul.com
 obbfpykcoa.com
 obiyoluxjjzgy.com
 oboletcart.com
+observedlily.com
 obsignphippe.com
 obvious-lesson.pro
 obvkimura.store
@@ -2779,6 +2788,7 @@ d1vl8wytztdz.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
+log.x2convert.com
 nonglirili.net
 qqkabb.com
 robinkornett.com
