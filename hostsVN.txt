@@ -1,4 +1,4 @@
-# Version: 2501032314
+# Version: 2501042356
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -17272,6 +17272,7 @@
 ||npipajajn.com^
 ||npugpilraku.com^
 ||nqmanxtemqvlne.com^
+||nqzmveaeqknylr.com^
 ||nrc.tapas.net^
 ||nrs6ffl9w.com^
 ||nryzasskidu.com^
@@ -17533,6 +17534,7 @@
 ||origunix.com^
 ||oriori.com^
 ||orlotalers.com^
+||ornpuxmucb.com^
 ||orrtweqfaa.com^
 ||ortdasctuji.com^
 ||orthitepetrous.com^
