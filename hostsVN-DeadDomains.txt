@@ -57,7 +57,6 @@ spf3.advergine.ru
 track.advergine.ru
 ad.bnmla.com
 bnmla.com
-cdn0.bnmla.com
 cdn1.bnmla.com
 cdnfi.bnmla.com
 cdnin.bnmla.com
