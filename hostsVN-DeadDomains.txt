@@ -70,7 +70,6 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
-beacon.statful.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -416,7 +415,6 @@ k8trangphim.com
 media.dabong247.com
 quangcao247.com.vn
 syncwowsails.com
-upfile16.mediaphim.com
 vlxx.host
 www.delecpuzz.com
 analytics.aita.gov.vn
@@ -2113,7 +2111,6 @@ rebillscaress.tech
 rebindmoodish.website
 recessgrimp.space
 reclinesudden.com
-record.bonniergaming.com
 redderspsiloi.guru
 redlele.com
 redrootprotyle.uno
@@ -2774,7 +2771,6 @@ dm599.com
 ethtrader.de
 glanceguide.com
 log.x2convert.com
-nonglirili.net
 qqkabb.com
 robinkornett.com
 safelyawake.com
