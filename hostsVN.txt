@@ -1,4 +1,4 @@
-# Version: 2501051424
+# Version: 2501061449
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13414,6 +13414,7 @@
 ||ak-ads-ns.prisasd.com^
 ||ak.ceegriwuwoa.net^
 ||ak.groaxonsoow.net^
+||ak.litaudrootsa.net^
 ||ak.oneegrou.net^
 ||ak.ptailadsol.net^
 ||ak.unblitzlean.com^
@@ -15819,6 +15820,7 @@
 ||guppymedia.com^
 ||gurumoppet.digital^
 ||gutackaxgo.com^
+||guvnatar.com^
 ||guwgkuaxbvuw.com^
 ||gwallet.com^
 ||gwawl-oqs.com^
@@ -16353,6 +16355,7 @@
 ||jkuadhaf.com^
 ||jkuwfofr.com^
 ||jl63v3fp1.com^
+||jljdriproubl.com^
 ||jmaomkosxfi.com^
 ||jmkujybdh.xyz^
 ||jmrnews.pro^
@@ -16970,6 +16973,7 @@
 ||mlm.de^
 ||mlsend.com^
 ||mlvgxzenoiz.com^
+||mlvmcfxt.com^
 ||mmaglobal.com^
 ||mmccint.com^
 ||mmedia.com^
