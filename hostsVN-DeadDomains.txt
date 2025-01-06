@@ -5,8 +5,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -395,6 +393,7 @@ mautic.educe.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
@@ -424,7 +423,6 @@ analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.yts.vn
 api.ozui.vn
-cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
 marketing.itgeek.vn
@@ -1042,7 +1040,6 @@ drawbrid.ge
 drawlscions.website
 driftstupidityopponent.com
 dsfjhfhyry2hh8jo09.com
-dsp.io
 dsucjlwjypo.com
 dteorxchacwe.com
 duckswillsmoochyou.com
