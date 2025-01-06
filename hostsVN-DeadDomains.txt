@@ -274,6 +274,10 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -402,6 +406,7 @@ viraads.com
 ad.chieuhoa.com
 ad.lapa.pub
 ads.laodongbinhduong.org.vn
+ads.thegioitiepthi.vn
 ads.xemtivisohd.net
 adsphim.lol
 adx.edutimes.com.vn
@@ -429,6 +434,7 @@ track.lapa.pub
 track.lemonnovel.com
 tracker.gigaphim.com
 tracking.hongtinnhanh.com
+tracking.vht.com.vn
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 03ed9035a0801f.com
 0redire.com
@@ -439,6 +445,7 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 2cnjuh34jb.com
 42d61f012e27b36d53.com
 44tdfa.com
+4d5.net
 4lhq0cplb.com
 5pykpdq7k.com
 64imux6kg.com
@@ -494,6 +501,7 @@ adnetinteractive.com
 adqapvtrad.com
 adru.net
 ads.edbindex.dk
+ads.fasttrack-ignite.com
 ads.foxnetworks.com
 ads.isoftmarketing.com
 ads.ontarget.mobi
@@ -502,6 +510,7 @@ ads.sexinyourcity.com
 ads.tahono.com
 ads.thrillsaffiliates.com
 ads.toplayaffiliates.com
+ads.trinitymirror.co.uk
 ads8.com
 adscpm.com
 adserver1.mindshare.de
@@ -684,6 +693,7 @@ ballotsevicts.space
 banisterspast.com
 banner.cz
 banner.mindshare.de
+banner.penguin.cz
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -807,6 +817,7 @@ byqymwkscobhked.com
 byrledmtscmd.com
 bzalmaodlp.com
 bzwdksdngjhay.com
+c.bigmuzzytrckr.com
 cabbagehomme.casa
 cacasilka.space
 cadetrigourlegitimate.com
@@ -2213,6 +2224,7 @@ scourpapless.live
 seafoodoutpipe.digital
 selectionship.com
 sellingtandays.com
+sendmepixel.com
 separate-tie.pro
 separatecolonist.com
 separatesilver.com
