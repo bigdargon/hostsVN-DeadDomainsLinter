@@ -395,7 +395,6 @@ mautic.educe.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 customers.fptad.com
-img.customers.fptad.com
 static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
@@ -2170,7 +2169,6 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
-rotabanner.com
 rotondahogs.com
 rowthsti.com
 rplhearvc.com
