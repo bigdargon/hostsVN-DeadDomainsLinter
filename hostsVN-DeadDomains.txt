@@ -196,9 +196,6 @@ x.atemda.com
 api.mppmnetwork.com
 click.mppmnetwork.com
 click-us.mppmnetwork.com
-dsp.mppmnetwork.com
-dsp2.mppmnetwork.com
-mppmnetwork.com
 ping.mppmnetwork.com
 ping2.mppmnetwork.com
 proxy-eu.mppmnetwork.com
@@ -232,7 +229,6 @@ ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
 image.b91vip.com
-www.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -397,6 +393,7 @@ ads.xemtivisohd.net
 adsphim.lol
 adx.edutimes.com.vn
 adx.hongtinnhanh.com
+ailamtrieuphu.com
 chiasephim.xyz
 cre-ads.com
 delecpuzz.com
@@ -519,7 +516,6 @@ adworkmedia.net
 adzones.com
 aegid-bal.com
 affiliation-france.com
-affshopp.click
 afgamvohcsc.com
 afptpyarwa.com
 afrdaqwukxu.com
@@ -1302,6 +1298,7 @@ hadesleta.com
 hadladjfeq.com
 haflinforms.top
 haggeisgael.com
+hagzuwbukmpe.com
 hainekyack.life
 hairdosslitter.casa
 halidspilau.guru
@@ -1752,7 +1749,6 @@ ncuxaqhivd.com
 nedstat.com
 nedstatpro.net
 needlewolvesdemocratic.com
-needntrusts.com
 negligencespaniardrehearse.com
 nekaujoa.net
 nestedimpages.life
@@ -2318,6 +2314,7 @@ stunthedge.com
 styingjareed.guru
 subscribeundergoshuffle.com
 subsequentstew.com
+suffixlabores.com
 sugarcurtain.com
 sukbutnfoo.com
 sukobal.com
