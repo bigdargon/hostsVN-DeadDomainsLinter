@@ -196,6 +196,9 @@ x.atemda.com
 api.mppmnetwork.com
 click.mppmnetwork.com
 click-us.mppmnetwork.com
+dsp.mppmnetwork.com
+dsp2.mppmnetwork.com
+mppmnetwork.com
 ping.mppmnetwork.com
 ping2.mppmnetwork.com
 proxy-eu.mppmnetwork.com
@@ -378,6 +381,7 @@ j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
+mautic.paa.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 delivery.smartadnetwork.net
@@ -453,6 +457,7 @@ achilles-par.com
 acloudimages.com
 acmbuwarxo.com
 acsseo.com
+ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
@@ -469,6 +474,7 @@ addealing.com
 addesktop.com
 addresseepaper.com
 addresseetransportationsyndrome.com
+adfactor.nl
 adfoglxfelak.com
 adgoto.com
 adgroups.net
@@ -516,6 +522,7 @@ adworkmedia.net
 adzones.com
 aegid-bal.com
 affiliation-france.com
+affshopp.click
 afgamvohcsc.com
 afptpyarwa.com
 afrdaqwukxu.com
@@ -592,6 +599,7 @@ apcawxgpon.com
 apcnrutpeqa.com
 apfsujontqu.com
 aphidsclee.com
+api.ampiri.com
 apisq9zxs.com
 apocarpdogdom.com
 apochaeunanime.com
@@ -832,6 +840,7 @@ chocohjuanfhdhf.com
 choirrisibly.guru
 choreincarnate.com
 chqfhbqoskq.com
+chrgtdhpwf.com
 ciddhwsjyjgip.com
 cifopjcavn.com
 cineolesloth.com
@@ -981,7 +990,6 @@ diginamis.com
 dihkstwa.com
 diketime.com
 dipaka-ead.com
-dippedharlock.com
 dipperplanets.com
 dipvpofhuosr.com
 dirdlabella.com
@@ -1337,8 +1345,10 @@ heroinslagunes.com
 hesitationvariationscanal.com
 hewawkward.com
 hexinsxekejfiyn.com
+heyos.com
 hhoxwxfxgb.com
 hhyokmmfoax.com
+hicawxojvcc.com
 hidelen.com
 hilarion-lar.com
 hitfarm.com
@@ -1578,7 +1588,6 @@ linkgenerate.click
 linkshighway.com
 lionelimburse.com
 lirateblister.com
-literalcorpulent.com
 litterago.com
 littlecutedogs.com
 livelihoodpracticaloperating.com
@@ -1656,6 +1665,7 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
+medibaad.com
 medusaecaptan.com
 mehebborc.com
 memorycobweb.com
@@ -1670,6 +1680,7 @@ meshpetrols.com
 messybusyrental.com
 metahv.xyz
 metric.cliphub.io
+mg2connext.com
 miamiahokums.com
 micmacsortes.com
 midastouchrt.com
@@ -2065,6 +2076,7 @@ quickpasss.com
 quicksandear.com
 quinctus-isb.com
 quxrrojkucwe.com
+r3adyt0download.com
 r3oodleaw5au4ssir.com
 radarurl.com
 ragboltstumble.com
@@ -2565,6 +2577,7 @@ wheedlehooplas.com
 wheegaulrie.net
 wheeksir.net
 whenu.com
+whereapps.com
 whinecapicha.space
 whingewost.com
 wickupbeaners.tech
@@ -2729,7 +2742,6 @@ znyiaxnaf.com
 zoqueanbemoil.life
 zorprhbnwbezie.com
 zosteraclumsy.website
-zouemtjzuae.com
 zpbhjatpnaovj.com
 zpidadpuhcm.com
 zrljkhcwhxhh.com
