@@ -34,6 +34,16 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
+native.propellerclick.com
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -182,6 +192,21 @@ hadskiz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+www.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 atemda.com
 az-ue2.atemda.com
 default.atemda.com
@@ -374,6 +399,9 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
+api.piads.vn
+piads.vn
+static.piads.vn
 a.t.sieu-viet.com
 d.t.sieu-viet.com
 j.t.sieu-viet.com
@@ -404,10 +432,12 @@ k8trangphim.com
 media.dabong247.com
 quangcao247.com.vn
 syncwowsails.com
+upfile16.mediaphim.com
 vlxx.host
 www.delecpuzz.com
 analytics.aita.gov.vn
 analytics.amedigital.vn
+analytics.hapo.vn
 analytics.yts.vn
 api.ozui.vn
 counter.ntdvn.net
@@ -486,6 +516,7 @@ adqapvtrad.com
 adru.net
 ads.edbindex.dk
 ads.fasttrack-ignite.com
+ads.horyzon-media.com
 ads.isoftmarketing.com
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
@@ -493,8 +524,6 @@ ads.tahono.com
 ads.toplayaffiliates.com
 ads8.com
 adscpm.com
-adserver1.mindshare.de
-adserver2.mindshare.de
 adservinginternational.com
 adshost1.com
 adsoldier.com
@@ -674,7 +703,6 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
-banner.mindshare.de
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -685,6 +713,7 @@ baradoot.com
 barbelskerugma.com
 barfsmiaowpit.com
 barkaryglaiket.uno
+basebanner.com
 bassoczardas.com
 batbuilding.com
 batteryexecutionsucceeding.com
@@ -1030,6 +1059,7 @@ drawbrid.ge
 drawlscions.website
 driftstupidityopponent.com
 dsfjhfhyry2hh8jo09.com
+dsp.io
 dsucjlwjypo.com
 dteorxchacwe.com
 duckswillsmoochyou.com
@@ -1194,7 +1224,6 @@ freeonlineusers.com
 freezelacking.com
 fretsawlekanai.com
 freychang.fun
-friendshipmale.com
 frustrationticketsfascinated.com
 fscfbfrof.com
 fteadcofpo.com
@@ -1366,6 +1395,7 @@ hostingstrong.com
 hostlyacus.digital
 hosupshunk.com
 hotkeys.com
+hoverowl.com
 howtubray.com
 hpijkah.com
 hqtfjugceattb.com
@@ -1547,7 +1577,6 @@ kotikinar2ko8tiki09.com
 ksznidltg.com
 ktokimdahar.com
 ktwnjefd.com
-kuhvkajactas.com
 kukury2hf8nd09.com
 kurlichan.com
 kwxpsdywhybmhp.com
@@ -1666,6 +1695,7 @@ media-servers.net
 medibaad.com
 medusaecaptan.com
 mehebborc.com
+memeglobal.com
 memorycobweb.com
 menelaus-col.com
 menlithium.com
@@ -1938,6 +1968,7 @@ pcispotzera.com
 pcoqraodmq.com
 pcsh-cpm.site
 pcteast.com
+pcuhppdosvwe.com
 pdxgfnnoan.com
 pelfsgarote.com
 peltastglaires.uno
@@ -2155,6 +2186,7 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
+rotabanner.com
 rotondahogs.com
 rowthsti.com
 rplhearvc.com
@@ -2289,7 +2321,9 @@ spruecutworm.com
 spurioussteam.com
 spykemediatrack.com
 spymislead.com
+spywarelabs.com
 spywarenuker.com
+spywords.com
 squirrelhands.com
 srbijacafe.org
 srodicham.com
@@ -2661,6 +2695,7 @@ xkaoxvazsh.com
 xkaxzapmewhi.com
 xmvftaoz.com
 xpblitgpg.com
+xpfxerjythj.com
 xpimupaqnanl.com
 xubrainge.live
 xucotwafxw.com
@@ -2756,12 +2791,14 @@ annedouglas.com
 axmtrack.com
 bafuhotel.com
 bugsense.com
+burstly.com
 counter.yandro.ru
 csdian.net
 d1vl8wytztdz.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
+nonglirili.net
 qqkabb.com
 robinkornett.com
 safelyawake.com
