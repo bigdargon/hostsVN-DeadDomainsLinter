@@ -224,7 +224,6 @@ sb.freeskreen.com
 static.freeskreen.com
 video.freeskreen.com
 www.freeskreen.com
-delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
@@ -473,7 +472,6 @@ addealing.com
 addesktop.com
 addresseepaper.com
 addresseetransportationsyndrome.com
-adfactor.nl
 adfoglxfelak.com
 adgoto.com
 adgroups.net
@@ -557,6 +555,7 @@ alaskan4kleeskai.com
 aldimsallow.life
 alignclamstram.com
 alkaxmogso.com
+alleleoctagon.life
 allgrjyqkemos.com
 allodiafeveret.life
 almostcomponent.com
@@ -652,6 +651,7 @@ awxdazlufot.com
 awxxfotcooh.com
 axnohscriha.com
 axzwinjabhc.com
+aylarl.com
 ayvfzwttm.com
 azbnulhupw.com
 azbobvahfokf.com
@@ -1742,7 +1742,6 @@ mydinebaster.com
 mynsystems.com
 mypagerank.ru
 mysteriousmonth.com
-mzbcdn.net
 mzobahrrugci.com
 nabfkhgvbi.xyz
 nableriptide.com
@@ -2575,7 +2574,6 @@ wheedlehooplas.com
 wheegaulrie.net
 wheeksir.net
 whenu.com
-whereapps.com
 whinecapicha.space
 whingewost.com
 wickupbeaners.tech
@@ -2772,7 +2770,6 @@ theirsvendor.com
 track.datetrck.com
 track.mobgc.com
 track.td3x.com
-tracker.vgame.us
 westats.dev
 www.ethtrader.de
 www.summerhamster.com
