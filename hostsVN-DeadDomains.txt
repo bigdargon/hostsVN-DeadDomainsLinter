@@ -272,6 +272,8 @@ id.sharedid.org
 sharedid.org
 adsmanager.ga
 view.adsmanager.ga
+delivery.taroads.com
+taroads.com
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
@@ -398,13 +400,18 @@ t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
 mautic.paa.vn
+mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
 cdn.viraads.com
 viraads.com
+ad-ndtv.3s.com.vn
 ad.chieuhoa.com
 ad.lapa.pub
 ads.xemtivisohd.net
@@ -418,6 +425,7 @@ delecpuzz.com
 hexapinow.xyz
 k8trangphim.com
 media.dabong247.com
+quangcao.baovannghe.com.vn
 quangcao247.com.vn
 syncwowsails.com
 upfile16.mediaphim.com
@@ -429,6 +437,7 @@ analytics.hapo.vn
 analytics.yts.vn
 api.ozui.vn
 counter.ntdvn.net
+log.bizlive.vn
 log.vovplus.vn
 marketing.itgeek.vn
 thongke.vui.vn
@@ -472,6 +481,7 @@ achilles-par.com
 acloudimages.com
 acmbuwarxo.com
 acsseo.com
+ad.foxnetworks.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
@@ -501,13 +511,17 @@ adqapvtrad.com
 adru.net
 ads.edbindex.dk
 ads.fasttrack-ignite.com
+ads.foxnetworks.com
 ads.horyzon-media.com
 ads.isoftmarketing.com
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
+ads.thrillsaffiliates.com
 ads.toplayaffiliates.com
+ads.trinitymirror.co.uk
 ads8.com
+adsclick.cc
 adshost1.com
 adsoldier.com
 adspleen.com
@@ -852,6 +866,7 @@ chrgtdhpwf.com
 ciddhwsjyjgip.com
 cifopjcavn.com
 cineolesloth.com
+cjbmanagement.com
 cjogbbmrgrgscp.com
 cjt3w2kxrv.com
 clarus-che.com
@@ -1685,7 +1700,6 @@ meshpetrols.com
 messybusyrental.com
 metahv.xyz
 metric.cliphub.io
-mg2connext.com
 miamiahokums.com
 micmacsortes.com
 midastouchrt.com
@@ -1714,6 +1728,7 @@ mkigmocizon.com
 mkzqqhaakt.com
 mmoatlhatz.com
 mobcrummymow.com
+mobileadvertisinghub.com
 moceanmobile.com
 modern-passenger.pro
 modifyeyes.com
@@ -1730,7 +1745,6 @@ mp3zik.net
 mpnoqwbkz.com
 mqsydgnuid.xyz
 msotdipkjtata.com
-mstrlytcs.com
 mtttvrit.com
 mudcatbreezes.space
 mulserebush.digital
@@ -1785,6 +1799,7 @@ niftpyobkap.com
 nighedmend.live
 nightfallroad.com
 nikaptwpyo.com
+ninkorant.online
 nipperathymy.life
 niqzusrumzuf.com
 niyandadengues.digital
@@ -2407,6 +2422,7 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
+thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
 thrnt.com
@@ -2438,6 +2454,7 @@ tougherrancor.website
 touracostephe.com
 towardscircumscribe.com
 trabuchbignou.com
+tracker-pm2.spilleren.com
 trafficadept.com
 trafficstrategies.com
 traffictrader.net
@@ -2471,6 +2488,7 @@ tychismfeasts.com
 typablecyclide.com
 tysteunbow.space
 tzugicohhojw.com
+u1pmt.com
 u40cc3twb.com
 uberouspolitei.com
 udwuyw.com
@@ -2623,7 +2641,6 @@ wrapacrylic.life
 wresterwoodcoc.uno
 wrynadaplbup.com
 wseojloda.com
-wtlive.com
 wugnkialbvis.com
 wugoznvast.com
 wuksaiho.net
@@ -2636,6 +2653,7 @@ www.beharmalted.info
 www.hybubehxmv.com
 www.hzkachqd.com
 www.lyqpmabeddja.com
+www.ninkorant.online
 www.pcteast.com
 www.qskvfuiywah.com
 www.statsy.net
@@ -2648,6 +2666,7 @@ wychhedgy.life
 wylecricket.com
 wyohpiohdttb.com
 wytingaerosol.uno
+wywy.com
 wyyipndemngo.com
 wzelkaekmoman.com
 wzuisptxzqbb.com
@@ -2780,6 +2799,8 @@ theirsvendor.com
 track.datetrck.com
 track.mobgc.com
 track.td3x.com
+usergrid.com
+v3.fstats.xyz
 westats.dev
 www.ethtrader.de
 www.summerhamster.com
