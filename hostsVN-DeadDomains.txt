@@ -34,15 +34,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -381,7 +372,6 @@ metrics.gammadsp.com
 trk.gammadsp.com
 www.gammadsp.com
 b.serving-system.com
-optimize.serving-system.com
 serving-system.com
 ut-static.serving-system.com
 ut.serving-system.com
@@ -459,7 +449,6 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 2cnjuh34jb.com
 42d61f012e27b36d53.com
 44tdfa.com
-4d5.net
 4lhq0cplb.com
 5pykpdq7k.com
 64imux6kg.com
@@ -1424,7 +1413,6 @@ hystericalhelp.com
 hzkachqd.com
 i-clicks.net
 i1img.com
-iam9p3eri3as5lc6hllege.com
 iason-eug.com
 iberiavihuela.guru
 icyattestation.com
@@ -2186,7 +2174,6 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
-rotabanner.com
 rotondahogs.com
 rowthsti.com
 rplhearvc.com
@@ -2498,7 +2485,6 @@ tysteunbow.space
 tzugicohhojw.com
 u40cc3twb.com
 uberouspolitei.com
-udwuyw.com
 uejwqbgtjxdw.com
 ueypzubwo.com
 uhealth.care
