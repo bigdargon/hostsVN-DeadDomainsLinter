@@ -34,7 +34,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-native.propellerclick.com
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -372,6 +371,7 @@ metrics.gammadsp.com
 trk.gammadsp.com
 www.gammadsp.com
 b.serving-system.com
+optimize.serving-system.com
 serving-system.com
 ut-static.serving-system.com
 ut.serving-system.com
@@ -1413,6 +1413,7 @@ hystericalhelp.com
 hzkachqd.com
 i-clicks.net
 i1img.com
+iam9p3eri3as5lc6hllege.com
 iason-eug.com
 iberiavihuela.guru
 icyattestation.com
@@ -2485,6 +2486,7 @@ tysteunbow.space
 tzugicohhojw.com
 u40cc3twb.com
 uberouspolitei.com
+udwuyw.com
 uejwqbgtjxdw.com
 ueypzubwo.com
 uhealth.care
