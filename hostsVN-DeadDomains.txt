@@ -276,10 +276,6 @@ taroads.com
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -402,9 +398,6 @@ mautic.paa.vn
 mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
@@ -1414,7 +1407,6 @@ hystericalhelp.com
 hzkachqd.com
 i-clicks.net
 i1img.com
-iadnet.com
 iam9p3eri3as5lc6hllege.com
 iason-eug.com
 iberiavihuela.guru
@@ -2484,7 +2476,6 @@ tychismfeasts.com
 typablecyclide.com
 tysteunbow.space
 tzugicohhojw.com
-u1pmt.com
 u40cc3twb.com
 uberouspolitei.com
 udwuyw.com
