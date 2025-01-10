@@ -1,4 +1,3 @@
-blueserving.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -435,7 +434,6 @@ analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.hapo.vn
 analytics.yts.vn
-api.ozui.vn
 counter.ntdvn.net
 log.bizlive.vn
 log.vovplus.vn
@@ -517,11 +515,9 @@ ads.isoftmarketing.com
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
-ads.thrillsaffiliates.com
 ads.toplayaffiliates.com
 ads.trinitymirror.co.uk
 ads8.com
-adsclick.cc
 adshost1.com
 adsoldier.com
 adspleen.com
@@ -1430,7 +1426,6 @@ ifintbotches.life
 igbiraintsv.com
 ignorant-union.pro
 igwlfwsogwetw.com
-ilbanner.com
 ilealscathes.com
 iloopmobile.com
 ilusors.com
@@ -1684,7 +1679,6 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
-medibaad.com
 medusaecaptan.com
 mehebborc.com
 memeglobal.com
@@ -2679,7 +2673,6 @@ xcaoatrv.com
 xcialbdmud.com
 xduenseggx.com
 xfugidnfujcy.com
-xgzyfpmfkxa.com
 xijahhhuzsr.com
 xijdiptaro.com
 xisihv12n.com
@@ -2799,7 +2792,6 @@ theirsvendor.com
 track.datetrck.com
 track.mobgc.com
 track.td3x.com
-usergrid.com
 v3.fstats.xyz
 westats.dev
 www.ethtrader.de
