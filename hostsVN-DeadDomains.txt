@@ -181,21 +181,6 @@ hadskiz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-www.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 atemda.com
 az-ue2.atemda.com
 default.atemda.com
@@ -328,7 +313,6 @@ aj2597.bid
 aj2598.bid
 aj2600.bid
 aj2601.bid
-aj2602.bid
 aj2603.bid
 aj2604.bid
 aj2606.bid
@@ -419,7 +403,6 @@ media.dabong247.com
 quangcao.baovannghe.com.vn
 quangcao247.com.vn
 syncwowsails.com
-upfile16.mediaphim.com
 vlxx.host
 www.delecpuzz.com
 analytics.aita.gov.vn
