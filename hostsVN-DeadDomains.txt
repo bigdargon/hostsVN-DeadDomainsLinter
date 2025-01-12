@@ -8,9 +8,6 @@ b.measuread.com
 measuread.com
 stg.measuread.com
 www.measuread.com
-detect-survey.effectivemeasure.net
-effectivemeasure.net
-my-ssl.effectivemeasure.net
 apxadtracking.net
 clk.apxadtracking.net
 www.apxadtracking.net
@@ -124,11 +121,6 @@ aj2508.online
 aj2510.online
 aj2511.online
 aj2512.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 ads.adsymptotic.com
 adsapi.adsymptotic.com
 adsymptotic.com
@@ -1164,6 +1156,7 @@ fiercedental.com
 fifthjournalisminadequate.com
 filagotrink.life
 fimc.net
+findcommerce.com
 findingviolent.com
 findjanupcreep.tech
 findnewline.com
@@ -1231,6 +1224,7 @@ fygocqpmcsnix.com
 fytofos.com
 g8ads.com
 gaelsdaniele.website
+galaxien.com
 galla-uev.com
 ganguebeheld.com
 ganjbqrzhkle.com
@@ -1408,7 +1402,6 @@ hystericalhelp.com
 hzkachqd.com
 i-clicks.net
 i1img.com
-iadnet.com
 iam9p3eri3as5lc6hllege.com
 iason-eug.com
 iberiavihuela.guru
