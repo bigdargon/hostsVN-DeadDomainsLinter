@@ -8,13 +8,9 @@ b.measuread.com
 measuread.com
 stg.measuread.com
 www.measuread.com
-collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
 my-ssl.effectivemeasure.net
-s.effectivemeasure.net
-sg-ssl.effectivemeasure.net
-t.effectivemeasure.net
 apxadtracking.net
 clk.apxadtracking.net
 www.apxadtracking.net
@@ -510,7 +506,6 @@ ads.trinitymirror.co.uk
 ads8.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adservinginternational.com
 adshost1.com
 adsoldier.com
 adspleen.com
@@ -1413,6 +1408,7 @@ hystericalhelp.com
 hzkachqd.com
 i-clicks.net
 i1img.com
+iadnet.com
 iam9p3eri3as5lc6hllege.com
 iason-eug.com
 iberiavihuela.guru
