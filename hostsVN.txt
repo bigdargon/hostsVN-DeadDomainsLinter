@@ -1,4 +1,4 @@
-# Version: 2501092334
+# Version: 2501112325
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -494,6 +494,7 @@
 ||ads.twitter.com^
 ||ads-twitter.com^
 ||static.ads-twitter.com^
+||ads-api.x.com^
 ||adeventtracker.spotify.com^
 ||adeventtrackermonitoring.spotify.com^
 ||log.spotify.com^
@@ -13762,6 +13763,7 @@
 ||ay.delivery^
 ||ayads.io^
 ||ayensexilic.com^
+||ayiztaefkfzs.com^
 ||aylarl.com^
 ||ayrtpmwuymzbbq.com^
 ||ayvfzwttm.com^
@@ -15128,6 +15130,7 @@
 ||dynspt.com^
 ||dyntrk.com^
 ||dzienkudrow.com^
+||dzsopgxm.com^
 ||dzuowpapvcu.com^
 ||dzuvuwtceoxf.com^
 ||e-bannerx.com^
