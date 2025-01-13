@@ -26,8 +26,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-www.adnetworktech.com
-cpanel.adnetworktech.com
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -332,6 +330,7 @@ aj2611.bid
 aj2612.bid
 aj2613.bid
 aj2617.bid
+aj2630.bid
 aj2631.bid
 aj2632.bid
 aj2633.bid
@@ -388,6 +387,7 @@ mautic.paa.vn
 mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
+piwik.tienhiep.com.vn
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
@@ -670,6 +670,7 @@ aylarl.com
 ayvfzwttm.com
 azbnulhupw.com
 azbobvahfokf.com
+azmrimo.com
 azmwhyabczw.com
 azxaqblzaw.com
 b7om8bdayac6at.com
@@ -1281,6 +1282,7 @@ glixaing.com
 glochisprp.com
 glossaunbrown.website
 glyphsmahajan.com
+gmuascfchutqkx.com
 gnathicrugal.top
 gnfoxcsgk.com
 gnqpystsiece.com
@@ -2263,7 +2265,6 @@ scourpapless.live
 seafoodoutpipe.digital
 selectionship.com
 sellingtandays.com
-sendmepixel.com
 separate-tie.pro
 separatecolonist.com
 separatesilver.com
