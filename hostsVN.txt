@@ -1,4 +1,4 @@
-# Version: 2501112325
+# Version: 2501122352
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -18213,6 +18213,7 @@
 ||qwerty24.net^
 ||qwyaqhortog.com^
 ||qxadsk.com^
+||qybaowhtl.com^
 ||qzeavzrfaoqn.com^
 ||qzs.gdtimg.com^
 ||r.leadzu.com^
