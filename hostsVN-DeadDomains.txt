@@ -118,7 +118,6 @@ aj2504.online
 aj2505.online
 aj2506.online
 aj2507.online
-aj2508.online
 aj2510.online
 aj2511.online
 aj2512.online
@@ -374,8 +373,6 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
-k8s2.testcentre.vn
-testcentre.vn
 api.piads.vn
 piads.vn
 static.piads.vn
@@ -474,7 +471,6 @@ adbuyer.com
 adcheap.network
 adchina.com
 adclaqbhad.com
-adcloud.net
 adconwghuat.com
 addealing.com
 addesktop.com
@@ -2074,7 +2070,6 @@ profbigo.com
 professionaljamangular.com
 profi-para.com
 protectedfolkssomebody.com
-proverbnoncommittalvault.com
 provexia.com
 providentsopport.site
 prozymio.com
@@ -2276,6 +2271,7 @@ separatecolonist.com
 separatesilver.com
 separationreverttap.com
 sepiasbalkis.com
+serveddovens.digital
 sexinyourcity.com
 shakesuggestion.com
 shallowsmile.com
@@ -2827,6 +2823,7 @@ zupajpvixogg.com
 zuphaips.com
 zwygrimwothy.com
 zygenidempaper.digital
+zygomasbeaches.guru
 zzelicawwofl.com
 analytics.samdd.me
 annedouglas.com
