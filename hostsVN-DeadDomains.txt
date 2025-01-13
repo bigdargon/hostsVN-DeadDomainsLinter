@@ -420,7 +420,6 @@ analytics.yts.vn
 api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
-log.bizlive.vn
 log.vovplus.vn
 marketing.itgeek.vn
 thongke.vui.vn
@@ -707,7 +706,6 @@ baradoot.com
 barbelskerugma.com
 barfsmiaowpit.com
 barkaryglaiket.uno
-basebanner.com
 bassoczardas.com
 batbuilding.com
 batteryexecutionsucceeding.com
@@ -1251,7 +1249,6 @@ fygocqpmcsnix.com
 fytofos.com
 g8ads.com
 gaelsdaniele.website
-galaxien.com
 galla-uev.com
 ganguebeheld.com
 ganjbqrzhkle.com
