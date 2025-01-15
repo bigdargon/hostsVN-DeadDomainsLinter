@@ -1,4 +1,3 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -278,10 +277,6 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -401,7 +396,6 @@ t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
 mautic.paa.vn
-mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
@@ -545,6 +539,7 @@ advantageshallwayasks.com
 adverticus.de
 advertisementafterthought.com
 advinapps.com
+advnt.com
 advojhszeat.com
 advrspromo.click
 adwhirl.com
@@ -733,6 +728,7 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
+bannerhost.com
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -1748,7 +1744,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
@@ -2980,6 +2975,7 @@ zwygrimwothy.com
 zygenidempaper.digital
 zygomasbeaches.guru
 zzelicawwofl.com
+adentify.com
 analytics.samdd.me
 annedouglas.com
 axmtrack.com
