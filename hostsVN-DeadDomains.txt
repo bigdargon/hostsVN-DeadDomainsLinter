@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -417,6 +419,7 @@ adsphim.lol
 adx.edutimes.com.vn
 adx.hongtinnhanh.com
 ailamtrieuphu.com
+bgadx.com
 chiasephim.xyz
 cre-ads.com
 delecpuzz.com
@@ -436,6 +439,7 @@ analytics.yts.vn
 api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
+log.vovplus.vn
 marketing.itgeek.vn
 thongke.vui.vn
 track.lapa.pub
@@ -505,6 +509,7 @@ adfactor.nl
 adfoglxfelak.com
 adgoto.com
 adgroups.net
+adhoc4.net
 adjectivehonestly.com
 adlike.com
 admeta.com
@@ -522,6 +527,8 @@ ads.sexinyourcity.com
 ads.toplayaffiliates.com
 ads8.com
 adscpm.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adshost1.com
 adsoldier.com
 adspleen.com
@@ -553,6 +560,7 @@ afrdaqwukxu.com
 afterpastimebottled.com
 aftontvapa.com
 aftpubkafsm.com
+agffrusilj.com
 aggestose.com
 aghastmardy.website
 agitated-potential.pro
@@ -678,6 +686,7 @@ aswgwyrmyoh.com
 athvicatfx.com
 atkffomkeaf.com
 atmnjcinews.pro
+atsabwhkox.com
 atsvheqamd.com
 attractiveafternoon.com
 atvqcediho.com
@@ -728,6 +737,7 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
+banner.mindshare.de
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -1231,6 +1241,7 @@ fencerscoelho.com
 ferritediener.tech
 fezacoox.net
 ffatzebiva.com
+fhepiqajsdap.com
 fieldofbachus.com
 fiercedental.com
 fifthjournalisminadequate.com
@@ -1573,6 +1584,7 @@ iuovbilfsf.xyz
 ivfihumeajjmbc.com
 ivypixel.com
 j6rudlybdy.com
+jacsmuvkymw.com
 jaftouja.net
 jafxirkamolt.com
 jaizouji.com
@@ -1584,6 +1596,7 @@ jeckoort.com
 jerezheroins.uno
 jessieemys.com
 jewscane.digital
+jfoaxwbatlic.com
 jgejqdddslxry.com
 jggjh.com
 jinsvestry.website
@@ -1693,11 +1706,11 @@ lichtmails.website
 lightcushion.com
 likablefix.pro
 limeclassycaption.com
-linkads.xyz
 linkerspond.com
 linkgenerate.click
 linkshighway.com
 lionelimburse.com
+liquidad.narrowcastmedia.com
 lirateblister.com
 litterago.com
 littlecutedogs.com
@@ -1798,6 +1811,7 @@ meshpetrols.com
 messybusyrental.com
 metahv.xyz
 metric.cliphub.io
+mg2connext.com
 mhemmuolcal.com
 miamiahokums.com
 micmacsortes.com
@@ -1863,6 +1877,7 @@ mwopasxmiw.com
 mybettermb.com
 mydinebaster.com
 mynsystems.com
+myntelligence.com
 mypagerank.ru
 mysteriousmonth.com
 mysweetsconnect.click
@@ -1968,6 +1983,7 @@ ofqopmnpia.com
 ofsyuxaveckulgf.com
 ofvogxvzagh.com
 oggakmsumxa.com
+ogghpaoxwv.com
 ogrmiblwov.com
 ogrqahqikxf.com
 ohfapzvhun.com
@@ -1982,6 +1998,7 @@ ojjbuxohmk.com
 ojjzpitr.com
 ojlkmijwemf.com
 ojlmkywcenhu.com
+ojtarsdukk.com
 ojtkusmitp.com
 ojtosjaqkrr.com
 okehsominous.com
@@ -2019,13 +2036,13 @@ oppvcuovgda.com
 oppxzerrufhe.com
 oqcgwyzuhn.com
 oqfpuzaltac.com
+oqnabsatfn.com
 oqnfsivlp.com
 oqnghaofps.com
 ordounireme.website
 ordzimwtaa.com
 orfraysrectory.uno
 origanfumier.digital
-orige-duo.com
 orlotalers.com
 orrtweqfaa.com
 ortdasctuji.com
@@ -2059,6 +2076,7 @@ ovhafjbup.com
 ovhodsalpm.com
 ovkmciabcpa.com
 ovmodnlmypf.com
+ovsrhikuma.com
 ovvxzagmem.com
 owcvwyacvos.com
 owlinggnomist.com
@@ -2158,7 +2176,6 @@ portybanders.digital
 poseidthewave.com
 pososrhwu2jf8jf09.com
 possessivebucket.com
-potenza.cz
 potlegcodeins.com
 poucoaga.com
 ppfrlfe.com
@@ -2212,12 +2229,14 @@ pushadve.biz
 puzojfxtaa.com
 puzsimjzuorg.com
 puzzleabsolve.com
+pweabzcatoh.com
 pwfuyqmnwau.com
 pyrrh-xbf.com
 pyxiscablese.com
 pzhuzlwjiymfos.com
 qajftiarwp.com
 qajwizsifaj.com
+qalscihrolwu.com
 qamwm5o8dlgijte.com
 qawqmoancsi.com
 qayepfgsn.com
@@ -2247,6 +2266,7 @@ quicksandear.com
 quinctus-isb.com
 qummafsivff.com
 quxrrojkucwe.com
+qwaapgxfahce.com
 r3adyt0download.com
 r3oodleaw5au4ssir.com
 radarurl.com
@@ -2327,6 +2347,7 @@ rivagesdoesnt.com
 riyawallet.org
 rkjnazpgfihz.com
 rmafpybcora.com
+rockabox.co
 rokafeg.com
 rollbaralit.com
 roolgage.com
@@ -2591,7 +2612,6 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
-thiem-csl.com
 thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
@@ -2751,10 +2771,12 @@ vpulwadrig.com
 vuhhkivuzr.com
 vukvrinitfug.com
 vuvbupanwo.com
+vuvcroguwtuk.com
 vuwmxjusucnh.com
 vxcaphujhns.com
 vzecinazg.com
 vzizatjihca.com
+vzoarcomvorz.com
 wacxipvudomh.com
 waiverscollin.guru
 wanafkxpior.com
@@ -2933,7 +2955,6 @@ zabpbhko.com
 zafreehoseman.tech
 zalovbabhgku.com
 zamiasbrouze.com
-zantracker.com
 zayac2volk11.com
 zayatr.com
 zcifapnpyaxx.com
