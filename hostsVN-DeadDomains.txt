@@ -392,7 +392,6 @@ d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
-mautic.educe.vn
 mautic.paa.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
@@ -493,7 +492,6 @@ ad127m.com
 ad2flash.com
 adalgard-wol.com
 adblox.net
-adbrn.com
 adbuyer.com
 adcheap.network
 adchina.com
@@ -522,7 +520,6 @@ ads.foxnetworks.com
 ads.isoftmarketing.com
 ads.sexinyourcity.com
 ads.toplayaffiliates.com
-ads.trinitymirror.co.uk
 ads8.com
 adscpm.com
 adshost1.com
@@ -1066,6 +1063,7 @@ dihkstwa.com
 diketime.com
 dipaka-ead.com
 dippedharlock.com
+dipperplanets.com
 dipvpofhuosr.com
 dirdlabella.com
 directivepub.com
@@ -1750,7 +1748,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
@@ -2568,6 +2565,7 @@ tarvemowhay.com
 tastyamendmentnotability.com
 tasvagaggox.com
 tawkinmotmot.digital
+taxedborley.com
 tcaochocskid.com
 tcplpasdiiepsl.com
 tcybijzpejz.com
@@ -3005,7 +3003,6 @@ track.datetrck.com
 track.mobgc.com
 track.td3x.com
 tracker.vgame.us
-usergrid.com
 v3.fstats.xyz
 westats.dev
 www.ethtrader.de
