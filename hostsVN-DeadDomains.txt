@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -32,15 +26,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -1753,7 +1738,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
@@ -1804,7 +1788,6 @@ meshpetrols.com
 messybusyrental.com
 metahv.xyz
 metric.cliphub.io
-mg2connext.com
 mhemmuolcal.com
 miamiahokums.com
 micmacsortes.com
@@ -2471,7 +2454,6 @@ soopukib.net
 soredistinguishedaffable.com
 sorelyafric.com
 souvenirsdisgust.com
-spakkoorbamz.com
 specialstatement.com
 spectacularremissboastful.com
 speechfountaindigestion.com
@@ -2678,7 +2660,6 @@ uberouspolitei.com
 udwuyw.com
 uejwqbgtjxdw.com
 ueypzubwo.com
-uhealth.care
 uhland24.de
 uhxmyqyevkcvit.com
 uiowarvxpeni.com
