@@ -57,7 +57,6 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
-beacon.statful.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -426,7 +425,6 @@ track.lapa.pub
 track.lemonnovel.com
 tracker.gigaphim.com
 tracking.hongtinnhanh.com
-tracking.vht.com.vn
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 03ed9035a0801f.com
 0redire.com
@@ -520,7 +518,6 @@ adtruth.com
 adv-links.com
 adv.cooperhosting.net
 advantageshallwayasks.com
-advariant.com
 adverticus.de
 advertisementafterthought.com
 advinapps.com
@@ -1302,7 +1299,6 @@ fytofos.com
 fzontuovkown.com
 g8ads.com
 gaelsdaniele.website
-galaxien.com
 galla-uev.com
 ganguebeheld.com
 ganjbqrzhkle.com
