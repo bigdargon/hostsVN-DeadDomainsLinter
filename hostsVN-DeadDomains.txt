@@ -418,8 +418,6 @@ analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.hapo.vn
 analytics.yts.vn
-api.ozui.vn
-cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
 marketing.itgeek.vn
