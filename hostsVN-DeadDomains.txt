@@ -369,8 +369,6 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
-k8s2.testcentre.vn
-testcentre.vn
 api.piads.vn
 piads.vn
 static.piads.vn
@@ -471,7 +469,6 @@ acloudimages.com
 acmaknoxwo.com
 acmbuwarxo.com
 acsseo.com
-ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
@@ -510,7 +507,6 @@ ads.sexinyourcity.com
 ads.thrillsaffiliates.com
 ads.toplayaffiliates.com
 ads8.com
-adscpm.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adservinginternational.com
@@ -631,7 +627,6 @@ apcnrutpeqa.com
 apcpaxwfej.com
 apfsujontqu.com
 aphidsclee.com
-api.ampiri.com
 apisq9zxs.com
 apocarpdogdom.com
 apochaeunanime.com
@@ -1755,7 +1750,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
