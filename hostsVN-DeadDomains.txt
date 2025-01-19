@@ -211,10 +211,6 @@ adsloads.com
 in.adsloads.com
 us.adsloads.com
 vn.adsloads.com
-ei.imstks.com
-i.imstks.com
-t.imstks.com
-www.imstks.com
 c.huerty.site
 huerty.site
 m.huerty.site
@@ -487,13 +483,11 @@ admeta.com
 admotion.com.ar
 admtpmp123.com
 admtpmp124.com
-adnet-media.net
 adnetinteractive.com
 adqapvtrad.com
 adru.net
 ads.edbindex.dk
 ads.fasttrack-ignite.com
-ads.gradfinder.com
 ads.isoftmarketing.com
 ads.ontarget.mobi
 ads.quasaraffiliates.com
@@ -1783,7 +1777,6 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
-medibaad.com
 medusaecaptan.com
 mehebborc.com
 memeglobal.com
@@ -2343,7 +2336,6 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
-rotabanner.com
 rotondahogs.com
 roughroll.com
 rowthsti.com
@@ -2684,7 +2676,6 @@ uberouspolitei.com
 udwuyw.com
 uejwqbgtjxdw.com
 ueypzubwo.com
-uhland24.de
 uhxmyqyevkcvit.com
 uiowarvxpeni.com
 ujlrvzfws.com
