@@ -76,7 +76,6 @@ aj1602.online
 aj1621.online
 aj1622.online
 aj1686.online
-aj1754.online
 aj1775.online
 aj1937.online
 aj1939.online
@@ -104,7 +103,6 @@ aj2404.online
 aj2410.online
 aj2424.online
 aj2426.online
-aj2430.online
 aj2431.online
 aj2432.online
 aj2493.online
@@ -226,7 +224,6 @@ sb.freeskreen.com
 static.freeskreen.com
 video.freeskreen.com
 www.freeskreen.com
-delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
@@ -490,6 +487,7 @@ admeta.com
 admotion.com.ar
 admtpmp123.com
 admtpmp124.com
+adnet-media.net
 adnetinteractive.com
 adqapvtrad.com
 adru.net
@@ -1750,7 +1748,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
@@ -2904,6 +2901,7 @@ xubrainge.live
 xucashntaghy.com
 xucotwafxw.com
 xuqosdvmizko.com
+xvdifvuro.com
 xwagtyhujov.com
 xwewabodwhud.com
 xxmaqoupnd.com
