@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -56,6 +58,7 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
+beacon.statful.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -219,6 +222,7 @@ t.easyads28.info
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
+image.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -266,7 +270,6 @@ aj2529.bid
 aj2530.bid
 aj2531.bid
 aj2533.bid
-aj2534.bid
 aj2536.bid
 aj2537.bid
 aj2544.bid
@@ -379,6 +382,7 @@ tracking.smartadnetwork.net
 cdn.viraads.com
 viraads.com
 ad.lapa.pub
+ad.vkoolzzz.net
 adjusts.info
 ads.laodongbinhduong.org.vn
 ads.xemtivisohd.net
@@ -402,6 +406,7 @@ analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.hapo.vn
 analytics.yts.vn
+cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
 marketing.itgeek.vn
@@ -410,6 +415,7 @@ track.lapa.pub
 track.lemonnovel.com
 tracker.gigaphim.com
 tracking.hongtinnhanh.com
+tracking.vht.com.vn
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 03ed9035a0801f.com
 0redire.com
@@ -452,12 +458,14 @@ acmaknoxwo.com
 acmbuwarxo.com
 acsseo.com
 ad.foxnetworks.com
+ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
 ad2flash.com
 adalgard-wol.com
 adblox.net
+adbrn.com
 adbuyer.com
 adcheap.network
 adchina.com
@@ -486,7 +494,9 @@ ads.isoftmarketing.com
 ads.sexinyourcity.com
 ads.tahono.com
 ads.toplayaffiliates.com
+ads.trinitymirror.co.uk
 ads8.com
+adscpm.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adservinginternational.com
@@ -881,6 +891,7 @@ ciddhwsjyjgip.com
 cifbhopfaon.com
 cifopjcavn.com
 cineolesloth.com
+cjbmanagement.com
 cjogbbmrgrgscp.com
 cjt3w2kxrv.com
 ckojwaarrruc.com
@@ -1441,6 +1452,7 @@ hostingstrong.com
 hostlyacus.digital
 hosupshunk.com
 hotkeys.com
+hoverowl.com
 howtubray.com
 hpijkah.com
 hqtfjugceattb.com
@@ -1487,8 +1499,8 @@ igbiraintsv.com
 ignorant-union.pro
 igwlfwsogwetw.com
 ilealscathes.com
-iloopmobile.com
 ilusors.com
+imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
@@ -1839,7 +1851,6 @@ mvdwjofacq.com
 mvlvxzhxjci.com
 mwmqtisxndbjdr.com
 mwopasxmiw.com
-mybettermb.com
 mydinebaster.com
 mynsystems.com
 mypagerank.ru
@@ -2866,7 +2877,6 @@ xmvftaoz.com
 xpblitgpg.com
 xpfxerjythj.com
 xpimupaqnanl.com
-xplusone.com
 xubrainge.live
 xucashntaghy.com
 xucotwafxw.com
@@ -2970,6 +2980,7 @@ annedouglas.com
 axmtrack.com
 bafuhotel.com
 bugsense.com
+burstly.com
 counter.yandro.ru
 d1vl8wytztdz.cloudfront.net
 dm599.com
