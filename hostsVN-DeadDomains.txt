@@ -26,7 +26,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-native.propellerclick.com
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -610,7 +609,6 @@ apcnrutpeqa.com
 apcpaxwfej.com
 apfsujontqu.com
 aphidsclee.com
-api.pushspring.com
 apisq9zxs.com
 apocarpdogdom.com
 apochaeunanime.com
