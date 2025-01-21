@@ -1,3 +1,9 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 adbro.rtbid.me
@@ -28,6 +34,15 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -144,6 +159,12 @@ rtb.adsymptotic.com
 rtbe.adsymptotic.com
 rtb-eu.adsymptotic.com
 www.adsymptotic.com
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -216,6 +237,7 @@ sb.freeskreen.com
 static.freeskreen.com
 video.freeskreen.com
 www.freeskreen.com
+delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
@@ -253,6 +275,10 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -371,6 +397,7 @@ j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
+mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
@@ -385,7 +412,9 @@ viraads.com
 ad.lapa.pub
 ad.vkoolzzz.net
 adjusts.info
+ads.autonet.com.vn
 ads.laodongbinhduong.org.vn
+ads.thegioitiepthi.vn
 ads.xemtivisohd.net
 adsphim.lol
 adx.edutimes.com.vn
@@ -407,6 +436,7 @@ analytics.aita.gov.vn
 analytics.amedigital.vn
 analytics.hapo.vn
 analytics.yts.vn
+api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
@@ -475,6 +505,7 @@ adconwghuat.com
 addealing.com
 addesktop.com
 addresseetransportationsyndrome.com
+adfactor.nl
 adfoglxfelak.com
 adgoto.com
 adgroups.net
@@ -487,10 +518,13 @@ admtpmp123.com
 admtpmp124.com
 adqapvtrad.com
 adru.net
+ads.digitalmedianet.com
 ads.edbindex.dk
 ads.fasttrack-ignite.com
 ads.foxnetworks.com
+ads.horyzon-media.com
 ads.isoftmarketing.com
+ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
 ads.toplayaffiliates.com
@@ -632,6 +666,7 @@ aqrazrnivb.com
 aqrhtoonlab.com
 aquaexcoct.store
 arangoyaffing.com
+arcodpcmoa.com
 arcualstymie.com
 argotcatch.uno
 argyresthia.com
@@ -903,7 +938,6 @@ clickhype.com
 clickks.net
 clickreport.online
 clicktut.site
-clodderpickmaw.com
 cloisonprecool.uno
 cloisteredhydrant.com
 closetagitation.com
@@ -1087,6 +1121,7 @@ drawbrid.ge
 drawlscions.website
 driftstupidityopponent.com
 dsfjhfhyry2hh8jo09.com
+dsp.io
 dsucjlwjypo.com
 dteorxchacwe.com
 duckswillsmoochyou.com
@@ -1663,6 +1698,7 @@ laversleopold.guru
 lazypeacefullyutterly.com
 lcadkutwuvt.com
 leadaffiliates.com
+leadingedgecash.com
 leapfaucet.com
 lecap-services.fr
 leethalo.net
@@ -1769,6 +1805,7 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
+medibaad.com
 medusaecaptan.com
 memorycobweb.com
 menelaus-col.com
@@ -1806,6 +1843,7 @@ misdeemnormal.uno
 misosaloud.com
 mitozzwi.com
 mixandfun.com
+mixtraffic.com
 mkigmocizon.com
 mkzqqhaakt.com
 mlvmcfxt.com
@@ -2267,6 +2305,7 @@ rebillscaress.tech
 rebindmoodish.website
 recessgrimp.space
 reclinesudden.com
+record.bonniergaming.com
 redderspsiloi.guru
 redlele.com
 redrootprotyle.uno
@@ -2321,6 +2360,7 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
+rotabanner.com
 rotondahogs.com
 roughroll.com
 rowthsti.com
@@ -2583,6 +2623,7 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
+thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
 thrnt.com
@@ -2617,6 +2658,7 @@ tougherrancor.website
 touracostephe.com
 towardscircumscribe.com
 trabuchbignou.com
+tracker-pm2.spilleren.com
 trafficadept.com
 traffictrader.net
 trahes.site
@@ -2658,6 +2700,7 @@ uberouspolitei.com
 udwuyw.com
 uejwqbgtjxdw.com
 ueypzubwo.com
+uge521.com
 uhxmyqyevkcvit.com
 uiowarvxpeni.com
 ujlrvzfws.com
@@ -2971,7 +3014,7 @@ axmtrack.com
 bafuhotel.com
 bugsense.com
 counter.yandro.ru
-d1vl8wytztdz.cloudfront.net
+d3nq5jrakcyw1w.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
