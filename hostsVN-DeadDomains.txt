@@ -73,7 +73,6 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
-beacon.statful.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -401,9 +400,6 @@ mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
@@ -412,7 +408,6 @@ viraads.com
 ad.lapa.pub
 ad.vkoolzzz.net
 adjusts.info
-ads.autonet.com.vn
 ads.laodongbinhduong.org.vn
 ads.thegioitiepthi.vn
 ads.xemtivisohd.net
@@ -439,7 +434,6 @@ analytics.yts.vn
 api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
-log.vovplus.vn
 marketing.itgeek.vn
 thongke.vui.vn
 track.lapa.pub
@@ -543,7 +537,6 @@ adtruth.com
 adv-links.com
 adv.cooperhosting.net
 advantageshallwayasks.com
-advariant.com
 adverticus.de
 advertisementafterthought.com
 advinapps.com
@@ -759,7 +752,6 @@ baxotjdtesah.com
 bayirksrap.com
 bceptemujahb.com
 bcgbbzxackpk.com
-beabsolom.com
 beamincrease.com
 beastsmalefic.uno
 beatusalfred.guru
@@ -1321,7 +1313,6 @@ fytofos.com
 fzontuovkown.com
 g8ads.com
 gaelsdaniele.website
-galaxien.com
 galla-uev.com
 ganjbqrzhkle.com
 gaqracdibppu.com
@@ -1441,7 +1432,6 @@ hdboqykfajjpmc.com
 headquartersexually.com
 headstonereproofrange.com
 healthquiltesteem.com
-healthyoffers.com
 heavynotability.com
 heelseparateddistinguished.com
 heeteefu.com
@@ -1533,6 +1523,7 @@ imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
+impressionz.co.uk
 impulsehands.com
 impunekotoite.com
 inabilityovaloccasional.com
@@ -1770,6 +1761,7 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
+madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
