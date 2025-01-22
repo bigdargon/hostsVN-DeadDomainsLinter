@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -243,7 +241,6 @@ t.easyads28.info
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
-image.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -409,7 +406,6 @@ ad.lapa.pub
 ad.vkoolzzz.net
 adjusts.info
 ads.laodongbinhduong.org.vn
-ads.thegioitiepthi.vn
 ads.xemtivisohd.net
 adsphim.lol
 adx.edutimes.com.vn
@@ -593,7 +589,6 @@ alacrityprepayprecursor.com
 alaskan4kleeskai.com
 aldimsallow.life
 alignclamstram.com
-alkaxmogso.com
 alleleoctagon.life
 allgrjyqkemos.com
 allodiafeveret.life
@@ -1523,7 +1518,6 @@ imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
-impressionz.co.uk
 impulsehands.com
 impunekotoite.com
 inabilityovaloccasional.com
