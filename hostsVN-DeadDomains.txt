@@ -388,13 +388,11 @@ ad.vnnayngaytin.vn
 api.piads.vn
 piads.vn
 static.piads.vn
-a.t.sieu-viet.com
 d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
 mautic.educe.vn
-mautic.paa.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
@@ -1477,7 +1475,6 @@ hostingstrong.com
 hostlyacus.digital
 hosupshunk.com
 hotkeys.com
-hoverowl.com
 howtubray.com
 hpijkah.com
 hqtfjugceattb.com
@@ -1768,7 +1765,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
