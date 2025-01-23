@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -177,21 +171,6 @@ hadskiz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-www.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 atemda.com
 az-ue2.atemda.com
 default.atemda.com
@@ -272,10 +251,6 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -488,7 +463,6 @@ ad127m.com
 ad2flash.com
 adalgard-wol.com
 adblox.net
-adbrn.com
 adbuyer.com
 adcheap.network
 adchina.com
@@ -1463,6 +1437,7 @@ hizopforkajf.com
 hjfmaukf.com
 hkamixrrot.com
 hkoxlirf.com
+hlvndpqwiwnyq.com
 hollekeamboina.com
 holshistoricbulky.com
 home2up.com
@@ -1765,6 +1740,7 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
+madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
