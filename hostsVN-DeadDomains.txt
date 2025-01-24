@@ -403,7 +403,6 @@ analytics.hapo.vn
 analytics.molistar.com
 analytics.yts.vn
 api.ozui.vn
-cdn.api-connect.io
 counter.ntdvn.net
 marketing.itgeek.vn
 thongke.vui.vn
@@ -1852,7 +1851,6 @@ mwmqtisxndbjdr.com
 mwopasxmiw.com
 mydinebaster.com
 mynsystems.com
-myntelligence.com
 mypagerank.ru
 mysteriousmonth.com
 mysweetsconnect.click
