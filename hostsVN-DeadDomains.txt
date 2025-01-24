@@ -220,6 +220,7 @@ t.easyads28.info
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
+image.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -370,6 +371,9 @@ mautic.akhoe.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 delivery.smartadnetwork.net
 smartadnetwork.net
 tracking.smartadnetwork.net
@@ -392,6 +396,7 @@ k8trangphim.com
 media.dabong247.com
 quangcao.baovannghe.com.vn
 quangcao247.com.vn
+sda.tamdiem247.com
 syncwowsails.com
 vlxx.host
 www.delecpuzz.com
@@ -402,7 +407,9 @@ analytics.molistar.com
 analytics.yts.vn
 api.ozui.vn
 counter.ntdvn.net
+log.vovplus.vn
 marketing.itgeek.vn
+stats.tamdiem247.com
 thongke.vui.vn
 track.lapa.pub
 track.lemonnovel.com
@@ -420,6 +427,7 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 42d61f012e27b36d53.com
 44tdfa.com
 4lhq0cplb.com
+587tuchuang.com
 5pykpdq7k.com
 64imux6kg.com
 7c0616849b.com
@@ -430,6 +438,7 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 9purdfe9xg.com
 aappgaxtvybn.com
 ab3yssin4i6an.com
+abackchain.com
 abandonedaction.com
 abbeyintervalfetched.com
 abbeysrustled.uno
@@ -440,6 +449,7 @@ abqhafpada.com
 abqlultasvf.com
 abqnupogcwhi.com
 abrhydona.com
+absentstream.com
 abwmitcuzp.com
 acbbpadizl.com
 accomplicepeach.com
@@ -476,11 +486,12 @@ admeta.com
 admotion.com.ar
 admtpmp123.com
 admtpmp124.com
+adnetinteractive.com
 adqapvtrad.com
-adrock.com.ua
 adru.net
 ads-click.com
 ads.edbindex.dk
+ads.fasttrack-ignite.com
 ads.foxnetworks.com
 ads.horyzon-media.com
 ads.isoftmarketing.com
@@ -627,6 +638,7 @@ aquaexcoct.store
 arangoyaffing.com
 arcodpcmoa.com
 arcualstymie.com
+ardschatota.com
 argotcatch.uno
 argyresthia.com
 armhoopcoinage.com
@@ -699,6 +711,7 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
+banner.penguin.cz
 bannerlandia.com.ar
 bannermarkt.nl
 banners.isoftmarketing.com
@@ -706,6 +719,7 @@ bannersgomlm.com
 bantercubicle.com
 bantgoau.com
 baradoot.com
+barbarousnerve.com
 barbelskerugma.com
 barfsmiaowpit.com
 barkaryglaiket.uno
@@ -754,7 +768,6 @@ binarymoney.site
 bipkzeczia.com
 birlerskababs.com
 birxhitinhiv.com
-blackbrake.com
 blackmailshoot.com
 blackviewpartners.shop
 bleokerrie.com
@@ -912,6 +925,7 @@ collectresourcefulabound.com
 colomboyees.com
 commencesue.com
 commonswing.com
+compactdiverse.com
 compearbravoes.store
 completecabbage.com
 complextoad.com
@@ -1298,6 +1312,7 @@ geneticallyadjoinpayoff.com
 gentlypromote.com
 get2m5sgstohne.com
 getalinkandshare.com
+getoptad360.com
 ghfkoxaubnrdgg.com
 ghostedridotto.com
 ghyhwiscizax.com
@@ -1400,6 +1415,7 @@ hdboqykfajjpmc.com
 headquartersexually.com
 headstonereproofrange.com
 healthquiltesteem.com
+healthyoffers.com
 heavynotability.com
 heelseparateddistinguished.com
 heeteefu.com
@@ -1729,7 +1745,6 @@ mabsargral.com
 mabtcaraqdho.com
 mabwuwhrugro.com
 machineattitudeace.com
-madisonavenue.com
 magicclassifiedstiffen.com
 magnificentmist.com
 magotschnell.uno
@@ -1919,6 +1934,7 @@ nutletcorvees.com
 nuttyorganization.com
 nwmqhgeixqan.com
 nyalacornily.cam
+nzaza.com
 nzilixqaxocl.com
 oahaurti.com
 oataltaul.com
@@ -2467,13 +2483,13 @@ spruecutworm.com
 spykemediatrack.com
 spymislead.com
 spywarelabs.com
-spywarenuker.com
 squirrelhands.com
 srbijacafe.org
 srodicham.com
 stagroam.net
 stakingscrew.com
 stakingslope.com
+standingnest.com
 starvegingerwaist.com
 statsy.net
 stazumik.net
@@ -2572,6 +2588,7 @@ tendencyaccounting.com
 tennubifaces.com
 terfezhogback.uno
 termadodad.com
+terrificgoose.com
 tfapatncea.com
 tgvbwjbnxz.com
 tgzobwoutuwn.com
@@ -2843,6 +2860,7 @@ wychhedgy.life
 wylecricket.com
 wyohpiohdttb.com
 wytingaerosol.uno
+wywy.com
 wyyipndemngo.com
 wzelkaekmoman.com
 wzohfyhiptz.com
@@ -2949,6 +2967,7 @@ zisquvwavswo.com
 zivagppwiga.com
 zlbdvgjlxm.com
 zlotychhoggery.com
+zmedia.com
 zmekihobkru.com
 znyiaxnaf.com
 zoqueanbemoil.life
@@ -2981,6 +3000,7 @@ d1vl8wytztdz.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
+nonglirili.net
 qqkabb.com
 robinkornett.com
 safelyawake.com
