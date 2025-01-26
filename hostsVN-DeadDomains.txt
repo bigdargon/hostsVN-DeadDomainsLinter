@@ -379,6 +379,7 @@ a.t.sieu-viet.com
 d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
+adx.vn
 mautic.akhoe.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
@@ -418,6 +419,7 @@ analytics.aita.gov.vn
 analytics.hapo.vn
 analytics.molistar.com
 analytics.yts.vn
+cdn.api-connect.io
 counter.ntdvn.net
 log.vovplus.vn
 marketing.itgeek.vn
@@ -427,6 +429,7 @@ track.lapa.pub
 track.lemonnovel.com
 tracker.gigaphim.com
 tracking.hongtinnhanh.com
+vietnamdaily-log.trithuccuocsong.vn
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 03ed9035a0801f.com
 0redire.com
@@ -438,6 +441,7 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 2cnjuh34jb.com
 42d61f012e27b36d53.com
 44tdfa.com
+4d5.net
 4lhq0cplb.com
 587tuchuang.com
 5pykpdq7k.com
@@ -472,6 +476,7 @@ acloudimages.com
 acmaknoxwo.com
 acmbuwarxo.com
 acsseo.com
+ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
 ad127m.com
@@ -504,11 +509,14 @@ adru.net
 ads-click.com
 ads.edbindex.dk
 ads.fasttrack-ignite.com
+ads.gradfinder.com
 ads.isoftmarketing.com
+ads.jewishfriendfinder.com
 ads.ontarget.mobi
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
+ads.thrillsaffiliates.com
 ads.trinitymirror.co.uk
 ads8.com
 adscpm.com
@@ -569,6 +577,7 @@ ailalbapt.club
 ailpielei.com
 aircraftsplendid.com
 airlinerappetizingcoast.com
+ajar-substance.com
 ajfmiqxugc.com
 ajkdtajpaw.com
 ajkoplopnza.com
@@ -824,6 +833,7 @@ braveryinherited.com
 breedwaste.com
 briarsbarrer.guru
 bridelydishley.space
+brightcriticism.com
 brightgluttony.com
 brije-cor.info
 british-banners.com
@@ -983,6 +993,7 @@ cswloxhjge.com
 ctiotjobkfu.com
 ctoosqtuxgaq.com
 cubbakawwxzy.com
+cuddleangkhak.com
 cuedinkles.guru
 cuisineradiusrobust.com
 cukkcelafr.com
@@ -1012,6 +1023,7 @@ dameadept.com
 danban.com
 dartonim.com
 dashingdirt.com
+dashingsweater.com
 daughterstinyprevailed.com
 dauntslip.com
 davaifoa.com
@@ -1020,6 +1032,7 @@ daz3rw5a5k4h.com
 dcyaglnhuvf.com
 deadpantruck.com
 deanreadiness.com
+debonairway.com
 debtbusterloans.com
 decalogsdeign.uno
 decentpatent.com
@@ -1031,7 +1044,6 @@ defectivesun.com
 defrostjudica.com
 defyraspypuke.com
 deltoidviragin.com
-denetsuk.com
 dentesbromios.live
 depirsmandk5.com
 deplorableuniverse.com
@@ -1133,8 +1145,10 @@ earthycopy.com
 earwheatnotary.com
 eatencurvature.com
 ebbetsgourded.com
+ebuzzing.com
 ebvkmavxibi.com
 echehalids.guru
+economicpizzas.com
 ecstaticeat.com
 ectopyhurrah.com
 eczemagrison.uno
@@ -1161,6 +1175,7 @@ enchantmentconsisteddime.com
 enchaseys.website
 endshiptigrina.com
 enduingdama.space
+endurableshop.com
 englandhogmane.com
 enki-mit.com
 ensetepoggies.com
@@ -1188,6 +1203,7 @@ ewebcounter.com
 exaltationdelayedplague.com
 excuseparen.com
 exonymayuyu.com
+expdirclk.com
 expensepurpose.com
 experteerads.com
 exploreannihilationquicker.com
@@ -1198,6 +1214,7 @@ eyrarjassid.website
 ezozojawg.com
 facilitategrandfather.com
 facilitateinn.com
+fadedprofit.com
 fadingamendable.com
 fadverdirect.com
 fagovwnavab.com
@@ -1206,12 +1223,14 @@ faithiqs.com
 fajstasfubit.com
 fakeerupriser.com
 falsarywaybung.com
+famousquarter.com
 famularfaucal.tech
 fanydourer.com
 faracoon.com
 fardelbungo.com
 fardingsoiling.com
 farmagegaudful.com
+fascinatedfeather.com
 fast-adv.it
 fastpopunder.com
 fatavkvusju.com
@@ -1270,6 +1289,7 @@ formssalvagelistless.com
 forsungprosode.com
 forzslodge.com
 fountainsuperior.com
+fourarithmetic.com
 foutyoxyaena.website
 fpmleqdb.com
 fpujadwzowa.com
@@ -1347,6 +1367,7 @@ gliffyfreaked.com
 glixaing.com
 glochisprp.com
 glossaunbrown.website
+glossysense.com
 glyphsmahajan.com
 gmuascfchutqkx.com
 gnathicrugal.top
@@ -1448,6 +1469,7 @@ hidelen.com
 highfalutinroom.com
 hilarion-lar.com
 hinowlfuhrz.com
+historicalrequest.com
 hitfarm.com
 hizopforkajf.com
 hjfmaukf.com
@@ -1514,7 +1536,9 @@ ignorant-union.pro
 igwlfwsogwetw.com
 ilbanner.com
 ilealscathes.com
+illfatedsnail.com
 ilusors.com
+imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
@@ -1702,7 +1726,6 @@ lichtmails.website
 lightcushion.com
 likablefix.pro
 limeclassycaption.com
-linkads.xyz
 linkerspond.com
 linkgenerate.click
 linkshighway.com
@@ -1774,6 +1797,7 @@ manivalyrid.com
 mapolxzunakq.com
 marathonkennumber.com
 markedcrayon.com
+markedpail.com
 market-buster.com
 markofathenaluk.com
 massive-dark.pro
@@ -1792,7 +1816,9 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
+medialets.com
 medusaecaptan.com
+mehebborc.com
 memorycobweb.com
 menelaus-col.com
 menlithium.com
@@ -1829,6 +1855,7 @@ misdeemnormal.uno
 misosaloud.com
 mitozzwi.com
 mixandfun.com
+mixtraffic.com
 mkigmocizon.com
 mkzqqhaakt.com
 mlvmcfxt.com
@@ -2047,7 +2074,6 @@ otrxazmcal.com
 ottcukqifam.com
 ottdhysral.com
 otthcyhruaz.com
-oustoope.com
 outburnkrakens.space
 outdoesvimen.uno
 outgateniceish.com
@@ -2099,6 +2125,7 @@ papayaburbles.com
 paradoxfactor.com
 paralysispluck.com
 paraproetid.top
+parchedangle.com
 parkedcheerful.com
 parrallforums.top
 parriedcubelet.top
@@ -2265,6 +2292,7 @@ rama-bac.com
 rameejour.com
 ranhealthy.com
 rank-master.de
+rapidkittens.com
 rashtifunster.store
 raspberrybandage.com
 rasrtorukzuq.com
@@ -2425,6 +2453,7 @@ shulskerbaya.top
 shyhuetub.site
 sidenoteconcern.com
 sifjfirunmi.com
+sigherdoless.com
 signalsparfum.uno
 silkysquirrel.com
 simblotusitate.com
@@ -2524,6 +2553,7 @@ sugarcurtain.com
 sukarmbzeqf.com
 sukbutnfoo.com
 sukobal.com
+sulkybutter.com
 summonedessencetrap.com
 sumpingaksic.com
 sunglassesinsular.com
@@ -2563,6 +2593,7 @@ tafovzxhufhe.com
 tahastpkuosq.com
 tahpucqudab.com
 takableprotext.com
+talentedsteel.com
 tapechronicfairytale.com
 tapulneumic.store
 tarriesthetine.digital
@@ -2579,6 +2610,7 @@ teasimilarman.com
 teazlestddmp.store
 tebadu.com
 tedescaseamers.space
+teenyvolcano.com
 teeponuy.com
 teethfan.com
 teeveetakahe.space
@@ -2598,8 +2630,10 @@ theelrou.net
 theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
+thinkablerice.com
 thlaspigoonch.digital
 thongsalhagi.com
+threechurch.com
 thrnt.com
 throattrees.com
 throngsarseno.com
@@ -2707,6 +2741,7 @@ urrimsaswti.com
 usapromotravel.com
 uthyr-que.com
 utimg.ru
+uttermosthobbies.com
 uyyksmmlipvcvj.com
 v2s7q3m2o.com
 vacationlodgingnetwork.com
@@ -2736,6 +2771,7 @@ vijbaghitlhi.com
 vilercarpetfolk.com
 vilpujzmyhu.com
 vinegarfactorelevator.com
+visualrevenue.com
 vitrealmandola.com
 vixmwnivtbqk.com
 vizofnwufqme.com
@@ -2931,6 +2967,7 @@ yragcvgrtfsuafy.com
 yukatabarter.store
 yulunanews.name
 yumkelis.com
+yummy-repeat.com
 yurthexers.uno
 yxpmtdzlsv.com
 z2ifwgjhu.com
@@ -2997,6 +3034,7 @@ d1vl8wytztdz.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
+proftrafficcounter.com
 qqkabb.com
 robinkornett.com
 safelyawake.com
