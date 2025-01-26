@@ -150,12 +150,6 @@ rtb.adsymptotic.com
 rtbe.adsymptotic.com
 rtb-eu.adsymptotic.com
 www.adsymptotic.com
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -232,11 +226,6 @@ delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
@@ -1320,6 +1309,7 @@ fzontuovkown.com
 g8ads.com
 gaelsdaniele.website
 galla-uev.com
+ganguebeheld.com
 ganjbqrzhkle.com
 gaqracdibppu.com
 garagesewe.com
@@ -1437,7 +1427,6 @@ hdboqykfajjpmc.com
 headquartersexually.com
 headstonereproofrange.com
 healthquiltesteem.com
-healthyoffers.com
 heavynotability.com
 heelseparateddistinguished.com
 heeteefu.com
