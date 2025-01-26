@@ -430,7 +430,6 @@ analytics.aita.gov.vn
 analytics.hapo.vn
 analytics.molistar.com
 analytics.yts.vn
-api.ozui.vn
 counter.ntdvn.net
 log.vovplus.vn
 marketing.itgeek.vn
@@ -497,7 +496,6 @@ adbuyer.com
 adcheap.network
 adchina.com
 adclaqbhad.com
-adcloud.net
 adconwghuat.com
 addealing.com
 addesktop.com
@@ -1808,7 +1806,6 @@ measlesjack.com
 measurecaption.com
 mechanicengagementdelivering.com
 media-servers.net
-medibaad.com
 medusaecaptan.com
 memeglobal.com
 memorycobweb.com
@@ -1885,6 +1882,7 @@ mvdwjofacq.com
 mvlvxzhxjci.com
 mwmqtisxndbjdr.com
 mwopasxmiw.com
+mydinebaster.com
 mynsystems.com
 mypagerank.ru
 mysteriousmonth.com
@@ -2304,7 +2302,6 @@ rebillscaress.tech
 rebindmoodish.website
 recessgrimp.space
 reclinesudden.com
-record.bonniergaming.com
 redderspsiloi.guru
 redlele.com
 redrootprotyle.uno
