@@ -150,6 +150,7 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+cdn.bidfilter.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -180,6 +181,21 @@ hadskiz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+www.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 atemda.com
 az-ue2.atemda.com
 default.atemda.com
@@ -260,6 +276,9 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -343,6 +362,18 @@ aj3016.bid
 aj3019.bid
 adswin.net
 aff.adswin.net
+adnetwork.vn
+client-pages.adnetwork.vn
+conv.adnetwork.vn
+delivery.adnetwork.vn
+imp.adnetwork.vn
+media.adnetwork.vn
+member.adnetwork.vn
+metrics.adnetwork.vn
+retg.adnetwork.vn
+s-cm.send.adnetwork.vn
+track.adnetwork.vn
+www.adnetwork.vn
 clk.gammadsp.com
 cm.gammadsp.com
 gammadsp.com
@@ -355,6 +386,13 @@ optimize.serving-system.com
 serving-system.com
 ut-static.serving-system.com
 ut.serving-system.com
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
 mediad.asia
 www.mediad.asia
 yoads.network
@@ -417,6 +455,7 @@ analytics.aita.gov.vn
 analytics.hapo.vn
 analytics.molistar.com
 analytics.yts.vn
+api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
 marketing.itgeek.vn
@@ -437,6 +476,7 @@ rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 2cnjuh34jb.com
 42d61f012e27b36d53.com
 44tdfa.com
+4d5.net
 4lhq0cplb.com
 587tuchuang.com
 5pykpdq7k.com
@@ -471,6 +511,7 @@ acloudimages.com
 acmaknoxwo.com
 acmbuwarxo.com
 ad.apl318.me
+ad.foxnetworks.com
 ad.hodomobile.com
 ad.nozonedata.com
 ad120m.com
@@ -493,6 +534,7 @@ adgroups.net
 adhoc4.net
 adjectivehonestly.com
 adlike.com
+admailtiser.com
 admeta.com
 admotion.com.ar
 admtpmp123.com
@@ -504,15 +546,20 @@ adrock.com.ua
 adru.net
 ads-click.com
 ads.edbindex.dk
+ads.fasttrack-ignite.com
+ads.foxnetworks.com
 ads.horyzon-media.com
 ads.isoftmarketing.com
+ads.kabooaffiliates.com
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
 ads.toplayaffiliates.com
 ads8.com
+adscpm.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adservinginternational.com
 adshost1.com
 adshost2.com
 adsoldier.com
@@ -565,6 +612,7 @@ ahura-maz.com
 aihoasso.net
 ailalbapt.club
 ailpielei.com
+airaujoog.com
 aircraftsplendid.com
 airlinerappetizingcoast.com
 ajar-substance.com
@@ -676,6 +724,7 @@ attractiveafternoon.com
 atvqcediho.com
 audiblysunny.com
 augu3yhd485st.com
+aulseewhie.com
 autohits.dk
 automaticflock.com
 autumncamping.com
@@ -901,6 +950,7 @@ choirrisibly.guru
 choreincarnate.com
 chqfhbqoskq.com
 chrgtdhpwf.com
+chuptuwais.com
 ciddhwsjyjgip.com
 cifbhopfaon.com
 cifopjcavn.com
@@ -991,7 +1041,6 @@ cunealfume.shop
 cupmidnithe.com
 curvierannexa.com
 cutecushion.com
-cutepopcorn.com
 cuteturkey.com
 cybermonitor.com
 czyazwvifoxc.com
@@ -1109,6 +1158,7 @@ draftcarli.com
 dragzebra.com
 drawbrid.ge
 drawlscions.website
+drawnperink.com
 driftstupidityopponent.com
 dsfjhfhyry2hh8jo09.com
 dsp.io
@@ -1171,7 +1221,6 @@ englandhogmane.com
 enki-mit.com
 ensetepoggies.com
 entereddebt.com
-entertainingeyes.com
 enthusiasticdad.com
 entunebagman.space
 enzymsucuuba.com
@@ -1190,6 +1239,7 @@ esoussatsie.xyz
 etoet.icu
 eumenesgigsman.com
 euroclick.com
+euros4click.de
 ewebcounter.com
 exaltationdelayedplague.com
 excuseparen.com
@@ -1335,6 +1385,7 @@ geneticallyadjoinpayoff.com
 gentlypromote.com
 get2m5sgstohne.com
 getalinkandshare.com
+getoptad360.com
 ghfkoxaubnrdgg.com
 ghostedridotto.com
 ghyhwiscizax.com
@@ -1356,6 +1407,8 @@ glixaing.com
 glochisprp.com
 glossaunbrown.website
 glossysense.com
+glugreez.com
+glutchoaksa.com
 glyphsmahajan.com
 gmuascfchutqkx.com
 gnathicrugal.top
@@ -1376,6 +1429,7 @@ gporkecpyttu.com
 gqsufwoasgfmex.com
 gracefulsock.com
 graceofnoon.com
+grachouss.com
 gramashmonthly.website
 grammaracorn.com
 grannysteer.com
@@ -1439,6 +1493,7 @@ healthquiltesteem.com
 healthyoffers.com
 heavynotability.com
 heelseparateddistinguished.com
+heeroogleph.com
 heeteefu.com
 heily-nin.com
 hejazicaribe.guru
@@ -1491,6 +1546,7 @@ huhabrjruo.com
 hukojlbrijtu.com
 humilityanytime.com
 hundiantick.com
+hundredscultureenjoyed.com
 hunlikeswanned.digital
 huradisbud.com
 hurtteeth.com
@@ -1526,6 +1582,7 @@ igwlfwsogwetw.com
 ilealscathes.com
 illfatedsnail.com
 ilusors.com
+imatmobile.com
 impededhaeing.com
 impelhowmumble.com
 impossibleglue.com
@@ -1610,6 +1667,7 @@ jjvnlfpywgbxgt.com
 jljdriproubl.com
 jmaomkosxfi.com
 jmkujybdh.xyz
+joaglouwulin.com
 jogytuuey.com
 joinmysite.online
 jointshindigtempt.com
@@ -1625,6 +1683,7 @@ jtokaxswunka.com
 jtujmyhhuo.com
 jullurdpysu.com
 jungianoxamide.space
+junmediadirect1.com
 junotherome.com
 juratoroutsees.uno
 juringupstage.com
@@ -1880,7 +1939,9 @@ mvdwjofacq.com
 mvlvxzhxjci.com
 mwmqtisxndbjdr.com
 mwopasxmiw.com
+myactualblog.com
 mydinebaster.com
+myfreshposts.com
 mynsystems.com
 mypagerank.ru
 mysteriousmonth.com
@@ -1941,6 +2002,7 @@ nolrougn.com
 nomadtricesurfing.com
 nomnemtalions.com
 nondescriptsmile.com
+nootapsouth.com
 nothingmethod.com
 npugpilraku.com
 nqmanxtemqvlne.com
@@ -1976,6 +2038,7 @@ odgmafoqrag.com
 odpdipabmq.com
 odylespiacle.com
 oebadu.com
+oewabox.at
 offerlink.monster
 offerstimeads.com
 offwurqzia.com
@@ -2020,6 +2083,7 @@ omclyzyapf.com
 omjitjlhx.com
 omkxadadsh.com
 ommaqnopxh.com
+omvenusaurchan.com
 omxstakuvh.com
 onccahdawa.com
 oncgtaramla.com
@@ -2166,6 +2230,7 @@ plodpicture.com
 plosaztduojwbe.com
 plugmanparts.life
 pmeduhamndax.com
+poacauceecoz.com
 pocketymuckily.uno
 pollstover.guru
 poppinhelodes.store
@@ -2179,6 +2244,7 @@ pososrhwu2jf8jf09.com
 possessivebucket.com
 potlegcodeins.com
 poucoaga.com
+pouptouch.com
 ppfrlfe.com
 ppixufsalgm.com
 ppoommhizazn.com
@@ -2205,6 +2271,8 @@ proverbnoncommittalvault.com
 providentsopport.site
 prozymio.com
 ps7894.com
+psaugourtauy.com
+psaumpoum.com
 pseekree.com
 psirdain.com
 psychologicalchristmasdistant.com
@@ -2353,6 +2421,7 @@ rollbaralit.com
 roolgage.com
 ropedsawwort.com
 rosymap.pro
+rotabanner.com
 rotondahogs.com
 roughroll.com
 rowthsti.com
@@ -2646,8 +2715,10 @@ tonicliquidoversight.com
 toothbrushnote.com
 tooyeobui.mom
 top-advertise.com
+topforall.com
 toprebates.com
 tougherrancor.website
+touptaisu.com
 touracostephe.com
 towardscircumscribe.com
 trabuchbignou.com
@@ -2658,6 +2729,7 @@ tranazgimvpy.com
 translateoatmeal.com
 trashywallowgloom.com
 trawibosxlc.com
+trendcounter.com
 trendedsegged.com
 trhunt.com
 trickerseasan.top
@@ -2809,6 +2881,8 @@ wheeksir.net
 whenu.com
 whinecapicha.space
 whingewost.com
+wholewowblog.com
+whonaiwu.com
 wickupbeaners.tech
 wiediceberg.uno
 wigfulchiack.com
@@ -2839,6 +2913,7 @@ woredi.com
 worn-brown.pro
 wotlinkmeatmen.digital
 woubitpopess.life
+wouhaugiby.com
 wowhugoo.com
 wowserskersey.digital
 woyisopag.life
@@ -3012,6 +3087,7 @@ annedouglas.com
 axmtrack.com
 bafuhotel.com
 bugsense.com
+burstly.com
 counter.yandro.ru
 d1vl8wytztdz.cloudfront.net
 dm599.com
