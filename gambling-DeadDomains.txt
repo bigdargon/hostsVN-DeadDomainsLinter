@@ -197,7 +197,6 @@
 00400099.com
 00402.net
 00402244.com
-004044.com
 00408822.com
 0040bb.com
 0040k.com
@@ -530,7 +529,6 @@
 00jj5357.com
 00psb.com
 00ss5357.com
-00uu5357.com
 00yy.xyz
 010105.com
 0101155.com
@@ -815,7 +813,6 @@
 02399y.com
 02399z.com
 023k365.com
-023wns666.com
 0241155.com
 02430.top
 024368.com
@@ -826,7 +823,11 @@
 02459t.com
 0249999.com
 024d486f.com
+<<<<<<< Updated upstream
 024wns666.com
+=======
+025056.net
+>>>>>>> Stashed changes
 0251155.com
 0251432.com
 0252999.com
@@ -926,7 +927,6 @@
 02999.xyz
 0299973.com
 029k365.com
-029wns666.com
 02bestk8.com
 02d88.net
 02gamek8.com
@@ -1265,7 +1265,6 @@
 04712y.com
 04712z.com
 04719991.com
-0471wns666.com
 0475239.com
 047612.com
 04761429.com
@@ -1548,7 +1547,6 @@
 05702004.com
 0571155.com
 05715.biz
-0571wns666.com
 05722004.com
 057274.com
 0572999.com
@@ -1989,7 +1987,6 @@
 07911.vip
 0791428.com
 0791k365.com
-0791wns666.com
 079202.com
 079266.org
 079284.com
@@ -3915,6 +3912,7 @@
 12202.biz
 1220n.com
 1220yh.com
+1221155.com
 12212a.com
 122134.com
 122141.com
@@ -4496,6 +4494,7 @@
 132yh2.com
 133073.com
 1330v.com
+1331155.com
 1331336.com
 133140.com
 13317s.com
@@ -6614,6 +6613,7 @@
 17699.org
 1769j.com
 176ks.net
+176qy.com
 176yh2.com
 177060.com
 17713.vip
@@ -7669,6 +7669,7 @@
 198amhg.com
 1990720.com
 19910317.vip
+1991155.com
 19912v.com
 199140.com
 199147.com
@@ -7900,6 +7901,7 @@
 1xbetparlay.com
 1xbetstavim.ru
 1xbetter29.xyz
+1xbetwin.top
 1xbetzerkalo-mobile.ru
 1xbuk.ru
 1xcafgame.com
@@ -10353,7 +10355,6 @@
 23999js.com
 2399w.com
 2399x.com
-239k8.com
 239kyty.bet
 23csj.com
 23df.bet
@@ -10396,7 +10397,6 @@
 24185.org
 241hgvip.com
 241kyty.bet
-242019.com
 2420242.vip
 2421.us
 242111.vip
@@ -10409,7 +10409,6 @@
 2421aomen.com
 2421beijing.com
 2421bj.com
-2421chongqing.com
 2421fj.com
 2421fujian.com
 2421gansu.com
@@ -10938,7 +10937,6 @@
 25658.org
 25659.vip
 2566.us
-25663y.com
 25665v.com
 2566655.com
 25667v.com
@@ -11052,7 +11050,6 @@
 2588795.com
 2588897.com
 2588a.com
-2588bet.com
 25895.top
 258950.com
 2589677.com
@@ -11210,6 +11207,7 @@
 2621155.com
 262180.com
 2621s.com
+262267.com
 2622x.com
 26237.com
 262419.com
@@ -11287,8 +11285,6 @@
 2655003.com
 2655004.com
 2655005.com
-2655008.com
-2655009.com
 265505.com
 26551122.com
 26553344.com
@@ -11309,6 +11305,7 @@
 2655lts.com
 2655s.com
 2655vip.com
+2655zr.com
 2656023.com
 26565.biz
 26565.net
@@ -12284,6 +12281,7 @@
 28885n.com
 288868.app
 28893v.com
+288949.com
 2889v.com
 288ahc.com
 288ce.com
@@ -12332,7 +12330,6 @@
 28dhzy.com
 28ds.vip
 28f99.com
-28k66.com
 28p.live
 28p456.com
 28s138.com
@@ -12355,7 +12352,6 @@
 29115.xyz
 29118.xyz
 29119.xyz
-2911v.com
 29123.org
 2913h.com
 2913n.com
@@ -13601,7 +13597,6 @@
 3225w.com
 32277.org
 3227u.com
-3227v.com
 3227w.com
 3227x.com
 32288h.com
@@ -16298,7 +16293,6 @@
 365e8.com
 365e9.com
 365ed.vip
-365f.vip
 365f01.com
 365f02.com
 365f03.com
@@ -16509,6 +16503,7 @@
 36899v.com
 3689j.com
 3689n.com
+3691155.com
 36914725.com
 3691n.com
 3692j.com
@@ -18169,6 +18164,7 @@
 400qq.wang
 400yb.com
 40110.vip
+4011155.com
 4011t.com
 4012288.com
 40126.org
@@ -18220,6 +18216,7 @@
 403ky.com
 403kyty.net
 4040mgm.com
+4041155.com
 4041792.com
 4041988.com
 40426.biz
@@ -18253,6 +18250,7 @@
 40603.org
 406033.com
 40605.biz
+4061155.com
 40615229.com
 4061649.com
 4062704.com
@@ -18296,6 +18294,7 @@
 408va.org
 4090.world
 4090155.com
+4091155.com
 40915.org
 4092288.com
 40929.wang
@@ -18386,6 +18385,7 @@
 4128t.com
 4128x.com
 41290.org
+4131155.com
 4132x.com
 413652.com
 41366.org
@@ -18395,6 +18395,7 @@
 413ty.xyz
 41401.org
 41411524.com
+4141155.com
 4141mgm.com
 4142t.com
 4143t.com
@@ -18410,6 +18411,7 @@
 414wns.com
 41507.org
 4151010.com
+4151155.com
 41518.org
 4151x.com
 4153t.com
@@ -18441,6 +18443,7 @@
 4159105.com
 4160413.com
 416101.com
+4161155.com
 41613.vip
 41616.top
 4161x.com
@@ -18459,6 +18462,7 @@
 41691d.com
 41691g.com
 416970.com
+4171155.com
 4171t.com
 41720.biz
 41727.org
@@ -18482,6 +18486,7 @@
 4177w.com
 41799.org
 417sjb.com
+4181155.com
 41824.top
 41835.wang
 4183x.com
@@ -18496,6 +18501,7 @@
 41891.biz
 4189501.com
 41900.biz
+4191155.com
 41920.vip
 4192t.com
 4192x.com
@@ -18516,6 +18522,7 @@
 41p456.com
 420042004.com
 4200t.com
+4201155.com
 420155.org
 42026.vip
 420288.com
@@ -18560,6 +18567,7 @@
 42198j.com
 421ky.com
 4220t.com
+4221155.com
 422138.com
 4221n.com
 422253.com
@@ -18753,6 +18761,7 @@
 4286666.com
 428969.com
 429019.site
+4291155.com
 42919.org
 42932.cn
 4293642.com
@@ -18778,6 +18787,7 @@
 42p.live
 42p456.com
 42qge9.com
+4301155.com
 43015.org
 4301906.com
 43025.vip
@@ -18807,6 +18817,7 @@
 4318120.com
 43185.vip
 431998.com
+4321155.com
 43212.org
 43219.xyz
 4322n.com
@@ -18828,6 +18839,7 @@
 4329t.com
 433083.com
 4330v.com
+4331155.com
 43327.org
 433329.com
 433341.com
@@ -18944,6 +18956,7 @@
 434vc.net
 43502.cn
 43503.org
+4351155.com
 4352288.com
 4353x.com
 4355v.com
@@ -18957,6 +18970,7 @@
 435rz.org
 4360188.com
 43603.org
+4361155.com
 436176.com
 4361cc.com
 436273666999.com
@@ -19115,6 +19129,7 @@
 44292.biz
 442izg.com
 4430v.com
+4431155.com
 44317a.com
 4431n.com
 4431t.com
@@ -19188,7 +19203,6 @@
 4446774.com
 4446784.com
 4446t.com
-4447338.com
 44475.biz
 44475a.com
 4447894.com
@@ -19232,6 +19246,7 @@
 4459n.com
 4459t.com
 44601.site
+4461155.com
 4461t.com
 4462t.com
 4463t.com
@@ -19275,6 +19290,7 @@
 4478t.com
 4479n.com
 4479t.com
+4481155.com
 44817.wang
 4481t.com
 44820.org
@@ -19308,6 +19324,7 @@
 4490n.com
 4490s.com
 4490t.com
+4491155.com
 4491948.com
 4491t.com
 4492323.com
@@ -19362,6 +19379,7 @@
 44ww0880.com
 44ww5357.com
 45009.wang
+4501155.com
 45013.vip
 45016.org
 45016a.com
@@ -19405,6 +19423,7 @@
 4509666.com
 45097.wang
 45109.org
+4511155.com
 45111a.com
 451183.com
 451184.com
@@ -19476,6 +19495,7 @@
 45401.org
 4540934.com
 45409999.com
+4541155.com
 45416.digital
 45416.org
 45416.tech
@@ -19513,6 +19533,7 @@
 454866.com
 4548777.com
 454wns.com
+4551155.com
 4551777.com
 4551t.com
 45529999.com
@@ -19603,6 +19624,7 @@
 45795.org
 457nu.org
 4580777.com
+4581155.com
 4581t.com
 45821.shop
 4582777.com
@@ -19624,6 +19646,7 @@
 45900.org
 459003.com
 45906.wang
+4591155.com
 4591479.com
 4591777.com
 4592777.com
@@ -19668,6 +19691,7 @@
 46079.biz
 460809.site
 461019.com
+4611155.com
 46132.org
 4613t.com
 46142.wang
@@ -19708,6 +19732,7 @@
 463906.com
 46399a.com
 463ky.com
+4641155.com
 4643232.net
 46435.xyz
 4643946.com
@@ -19723,6 +19748,7 @@
 464il.wang
 464ky.com
 4650t.com
+4651155.com
 4651475.com
 46524.vip
 46527.vip
@@ -19771,6 +19797,7 @@
 46596.space
 465ky.com
 466059.site
+4661155.com
 4661818.com
 4661t.com
 466233.com
@@ -19796,6 +19823,7 @@
 466ky.com
 46701.vip
 46705.biz
+4671155.com
 46723.site
 4672t.com
 46736.biz
@@ -19826,6 +19854,7 @@
 467ky.com
 46808.org
 46808.vip
+4681155.com
 46820.org
 46822.biz
 46841.org
@@ -19843,6 +19872,7 @@
 468898.com
 46895.org
 46910.net
+4691155.com
 46913.biz
 46916.shop
 4692t.com
@@ -19868,6 +19898,7 @@
 470674.com
 470749.com
 47097.org
+4711155.com
 47122.wang
 4714t.com
 47157p.com
@@ -19881,6 +19912,7 @@
 4719611.com
 4719t.com
 4720050.com
+4721155.com
 47213.wang
 4721t.com
 47220.org
@@ -19917,6 +19949,7 @@
 472rhw.com
 47308.org
 47308.top
+4731155.com
 4733n.com
 4733v.com
 47364.org
@@ -19963,6 +19996,7 @@
 47504.vip
 4750820.com
 47511.vip
+4751155.com
 47512.vip
 47514.vip
 47515.vip
@@ -20050,6 +20084,7 @@
 4779t.com
 477cj.org
 477yl.com
+4781155.com
 47830.org
 47833.vip
 478444.app
@@ -20091,6 +20126,7 @@
 47p456.com
 4800t.com
 4801152.com
+4801155.com
 48034.shop
 48037.org
 48053.net
@@ -20173,11 +20209,18 @@
 48564.org
 485750.com
 48578.org
+<<<<<<< Updated upstream
 4858jjj.com
 4858ooo.com
 4858qqq.com
 4858sss.com
 4858z.com
+=======
+4858f.com
+4858n.com
+4858ooo.com
+4858r.com
+>>>>>>> Stashed changes
 4859002.com
 4859004.com
 4859005.com
@@ -20213,7 +20256,6 @@
 4859ii.com
 4859iii.com
 4859j.com
-4859jjj.com
 4859k.com
 4859kkk.com
 4859l.com
@@ -20322,7 +20364,6 @@
 49056.wang
 49061.biz
 490655.com
-490677.com
 490750.com
 4908501.com
 490860305.com
@@ -20538,7 +20579,6 @@
 4995n.com
 4995p.com
 4995s.com
-499655.com
 499659.com
 49969.org
 49976.org
@@ -28825,7 +28865,6 @@
 678113y.com
 678113z.com
 6781680.com
-678239.com
 678246.vip
 6783k.com
 6783n.com
@@ -29543,7 +29582,6 @@
 69779ww.com
 69779xx.com
 69779yy.com
-69779zz.com
 697800.com
 69788v.com
 69789ok.vip
@@ -29958,7 +29996,6 @@
 6sbm5q.com
 6sgk.com
 6spbo1.com
-6ssvip.com
 6sx0.com
 6t337.xyz
 6t356.xyz
@@ -32412,7 +32449,6 @@
 77224t.com
 77225.net
 772277.net
-77228.net
 7722dabao.com
 7722n.com
 7723388.com
@@ -32516,7 +32552,6 @@
 7749v.com
 775.gold
 77503.top
-77503.vip
 77504.biz
 7751155.com
 77515.vip
@@ -32528,7 +32563,6 @@
 7752936.com
 7752ky.com
 7753105.com
-7753388.com
 7753ky.com
 7753n.com
 7753s.com
@@ -37033,7 +37067,6 @@
 88663412.com
 88664.live
 88665.live
-886655.com
 88665566.com
 88667.live
 88667n.com
@@ -37090,6 +37123,7 @@
 8868e.app
 8868hk.org
 8868i.app
+8868i6.app
 8868ii.app
 8868k25.com
 8868k26.com
@@ -39223,14 +39257,12 @@
 918xxy.com
 918xxz.com
 918yaa.com
-918ydd.com
 918yff.com
 918ygg.com
 918ynn.com
 918yoo.com
 918ypp.com
 918yqq.com
-918yrr.com
 918yuu.com
 918yww.com
 918yya.com
@@ -40101,7 +40133,6 @@
 93df.bet
 93vip0a2b1.vip
 93yyy.cn
-94.vip
 94000sc.com
 94000su.com
 9400239.com
@@ -41445,7 +41476,6 @@
 9888z.com
 988941.com
 98897.biz
-988989.xyz
 988mg.com
 988qy.com
 988yule.net
@@ -43237,7 +43267,6 @@ aomen8800.com
 aomen8900.com
 aomenylc.xyz
 aomswoefgy.com
-aounjung.com
 aowin888.com
 aoya365.com
 aoyi1111.com
@@ -43291,7 +43320,6 @@ api.i9bet32.com
 api.i9bet36.com
 api.i9bet38.com
 api.i9bet39.com
-api.jun88.tv
 api.jun889.vip
 api.kingbet86.info
 api.linhtolinhtinh.com
@@ -44406,17 +44434,21 @@ b65557.com
 b65559.com
 b6585.com
 b658834.com
+b6607.com
 b66332.com
 b6634.com
 b6640.com
 b66553.com
 b66556.com
+b6657.com
 b66613.com
 b66616.com
 b66627.com
 b66632.com
 b6693.com
 b6697.com
+b6712.com
+b6717.com
 b6722.com
 b6755.com
 b6781.com
@@ -45242,6 +45274,7 @@ bc7777.net
 bc7787.net
 bc7891.com
 bc7899.com
+bc8003.com
 bc8992.com
 bc8993.com
 bc8994.com
@@ -45770,8 +45803,6 @@ bg9bet.com
 bgaeg198.com
 bgbafr.com
 bgcp665.com
-bgcp667.com
-bgcp668.com
 bgcp669.com
 bgcp866.com
 bgcp867.com
@@ -45927,7 +45958,6 @@ biwei662.com
 biwei663.com
 biwei665.com
 biwei667.com
-biwei6688.com
 biwei689.com
 biwei776.com
 biwei777.com
@@ -46021,7 +46051,6 @@ bm698.com
 bm798.com
 bm8008.com
 bmc02.com
-bmc03.com
 bmc04.com
 bmc06.com
 bmc07.com
@@ -47689,7 +47718,6 @@ bwbongda.com
 bwbongda88.com
 bwbongda88.net
 bwbw168.com
-bwbw188.com
 bwbw6868.com
 bwbwvnd888.com
 bwchaoxuan.com
@@ -48186,7 +48214,6 @@ cb820055.com
 cb82006.com
 cb820066.com
 cb82007.com
-cb82008.com
 cb820088.com
 cb82009.com
 cba66.com
@@ -49102,7 +49129,6 @@ d2fa2.com
 d2rty.com
 d3.com
 d3.debet.info
-d3089.com
 d32g5x.com
 d333666.com
 d35jkw94sz9cnk4oxfn3lx0c3.com
@@ -49186,7 +49212,6 @@ d88d99.com
 d88siteintro.com
 d8fzva.vip
 d8ka8.com
-d90901.com
 d91hg.com
 d93z8a0p9p1.com
 d999233.com
@@ -49277,6 +49302,7 @@ dagatructiep24h.net
 dailiw66.com
 daily78win0921.com
 dailybet365vn.com
+dailybong88.bet
 dailyjbocm.com
 dailyjbolm.com
 dailyk8.com
@@ -49584,7 +49610,6 @@ df8355.com
 df8356.com
 df8357.com
 df881.com
-df884.com
 df88789zz.com
 df922.com
 df977.com
@@ -52641,7 +52666,6 @@ gnuam.com
 gnvwc.com
 go.bcb80.com
 go.beb77.com
-go.tq88.org
 go011.com
 go015.com
 go036.com
@@ -54599,7 +54623,15 @@ hr66.fun
 hr6606.com
 hr6607.com
 hr6609.com
+hr8751.com
+hr8752.com
+hr8753.com
+hr8754.com
+hr8755.com
 hr8756.com
+hr8757.com
+hr8758.com
+hr8759.com
 hr8761.com
 hr8762.com
 hr8763.com
@@ -55189,6 +55221,7 @@ iwerg.org
 iwin.net
 iwin.uk
 iwin5888.com
+iwon1800.net
 iwon30173.com
 iwon41876.com
 iwon42562.com
@@ -55354,7 +55387,6 @@ j5944.com
 j5984.com
 j5gpb.com
 j5vmp7s6.com
-j6.app
 j61122.com
 j61133.com
 j61155.com
@@ -55822,7 +55854,6 @@ jbo023.com
 jbo039.com
 jbo104.com
 jbo2323.com
-jbo35.com
 jbo40.com
 jbo70.com
 jbogame22.com
@@ -58444,7 +58475,6 @@ k8vn89.net
 k8vn96.net
 k8vn98.net
 k8vn99.com
-k8vn999.com
 k8vn9999.com
 k8vnaff.com
 k8vnapp01.com
@@ -59558,6 +59588,7 @@ krf99001.com
 krgamed.com
 krgamedc.com
 krgj8.com
+krissana1994.vip
 krtoto.com
 ks016.com
 ks0288.com
@@ -59567,7 +59598,6 @@ ks0878.com
 ks119.vip
 ks122.vip
 ks2127.com
-ks2129.com
 ks2133.com
 ks215.com
 ks2156.com
@@ -60055,7 +60085,6 @@ linkvaobw.info
 linkvaoku.mobi
 linkvaokubiz.live
 linkvaom88.xyz
-linkw88dn.com
 linlinh.com
 linr2.com
 linry.info
@@ -60532,7 +60561,6 @@ maibo2022.net
 maiboapp.com
 mail.kubet-kucasino.site
 mailingcent.site
-mailingcent.xyz
 main678.com
 mainaja55.com
 mainaja77.com
@@ -62964,7 +62992,6 @@ pg2666.com
 pg2sj.com
 pg4333.com
 pg476.com
-pg514.com
 pg5333.com
 pg548.com
 pg564.com
@@ -65105,6 +65132,7 @@ shuijinggong88.com
 shunmin888.com
 shwuan.net
 shxwa.win
+shxx021.com
 sieubomtan.com
 sieubong88.info
 sifmd.win
@@ -65549,7 +65577,6 @@ sxsxs0880.com
 sxvfc.site
 sxx2023.com
 sxxamnr.click
-sy3355.com
 sy66sy.com
 sy70.com
 sy77sy.com
@@ -65583,7 +65610,6 @@ syp5jyhpvd.vip
 syy8g.com
 syys.one
 sz333.net
-sz3uasuj.vip
 sz66.fun
 sz66666.vip
 sz7777.com
@@ -65707,7 +65733,6 @@ t4439.com
 t4451.com
 t4452.com
 t4453.com
-t4454.com
 t4457.com
 t4458.com
 t4460.com
@@ -65727,10 +65752,8 @@ t4475.com
 t4476.com
 t4478.com
 t4479.com
-t4480.com
 t4481.com
 t4482.com
-t4483.com
 t4484.com
 t4485.com
 t4487.com
@@ -65788,7 +65811,6 @@ t6122.com
 t6155.com
 t6177.com
 t6184.com
-t6211.com
 t6311.com
 t6314.com
 t6388.com
@@ -65798,7 +65820,6 @@ t6411.com
 t6422.com
 t6433.com
 t6477.com
-t6511.com
 t65hash.com
 t6612.com
 t6613.com
@@ -65900,7 +65921,6 @@ t9449.com
 t9455.com
 t9477.com
 t9483.com
-t9511.com
 t9546.com
 t9678.com
 t9813.com
@@ -67783,7 +67803,10 @@ v996.vip
 v99715.com
 v99783.com
 v99826.com
+<<<<<<< Updated upstream
 v9987.com
+=======
+>>>>>>> Stashed changes
 v999.uk
 v999233.com
 v999win.com
@@ -68131,7 +68154,6 @@ vmsufbhpwnxgxsjm--488--537.casino
 vmzcz.com
 vn.bway88vietnam.com
 vn.ku6107.net
-vn.ku6110.net
 vn.ku611111.net
 vn.qh690.com
 vn.qh780.com
@@ -68446,7 +68468,6 @@ vuagiaitri.win
 vui.fun
 vuicungk8.com
 vuigiaitri.org
-vuixoso88.com
 vv019.wang
 vv146.net
 vv16888.vip
@@ -69251,7 +69272,6 @@ win88-03.com
 win88.me
 win88988.com
 win88az.top
-win88y.com
 win8ph.com
 win8pinas.live
 win9528.com
@@ -69593,6 +69613,7 @@ www-bmc66.com
 www-bvbbet.com
 www-c30005.com
 www-da9999.com
+www-dy37b.com
 www-dyjcp.app
 www-h100.club
 www-lswjs.app
@@ -72095,7 +72116,6 @@ y52255.com
 y52277.com
 y52288.com
 y52299.com
-y5233.com
 y52333.com
 y53111.com
 y53311.com
