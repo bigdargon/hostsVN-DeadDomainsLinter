@@ -1,3 +1,4 @@
+blueserving.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -26,6 +27,15 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -57,6 +67,7 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
+static.cbsileads.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -191,6 +202,7 @@ s.atemda.com
 ue.atemda.com
 www.atemda.com
 x.atemda.com
+lalaping.com
 api.mppmnetwork.com
 click.mppmnetwork.com
 click-us.mppmnetwork.com
@@ -213,6 +225,9 @@ adsloads.com
 in.adsloads.com
 us.adsloads.com
 vn.adsloads.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
 c.huerty.site
 huerty.site
 m.huerty.site
@@ -226,6 +241,11 @@ delivery.adsterra.org
 cdn.easyads28.info
 easyads28.info
 t.easyads28.info
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+stats.showcasethat.com
+xml.showcasethat.com
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
@@ -257,12 +277,15 @@ id.sharedid.org
 sharedid.org
 adsmanager.ga
 view.adsmanager.ga
+delivery.taroads.com
+taroads.com
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
+ads.livetv687.me
 ads.livetv723.me
 ads.livetv817.me
 aj2513.bid
@@ -380,6 +403,8 @@ yoads.network
 hc.viam.com.vn
 viam.com.vn
 www.viam.com.vn
+cdn.hbplatform.com
+hbplatform.com
 cheap-ads.net
 verycheap.cheap-ads.net
 www.cheap-ads.net
@@ -388,6 +413,8 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
+k8s2.testcentre.vn
+testcentre.vn
 api.piads.vn
 piads.vn
 static.piads.vn
@@ -395,9 +422,11 @@ a.t.sieu-viet.com
 d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
+adx.vn
 mautic.akhoe.vn
 mautic.educe.vn
 mautic.paa.vn
+mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
@@ -409,6 +438,8 @@ smartadnetwork.net
 tracking.smartadnetwork.net
 cdn.viraads.com
 viraads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.lapa.pub
 ad.vkoolzzz.net
 adjusts.info
@@ -427,6 +458,7 @@ hexapinow.xyz
 k8trangphim.com
 link.cado.pro
 media.dabong247.com
+quangcao.baovannghe.com.vn
 quangcao247.com.vn
 sda.tamdiem247.com
 syncwowsails.com
@@ -446,7 +478,7 @@ track.lapa.pub
 track.lemonnovel.com
 tracker.gigaphim.com
 tracking.hongtinnhanh.com
-tracking.tvet-vietnam.org
+tracking.vht.com.vn
 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 03ed9035a0801f.com
 0redire.com
@@ -529,14 +561,18 @@ ads-click.com
 ads.edbindex.dk
 ads.fasttrack-ignite.com
 ads.foxnetworks.com
+ads.gradfinder.com
 ads.horyzon-media.com
 ads.isoftmarketing.com
 ads.kabooaffiliates.com
+ads.ontarget.mobi
 ads.quasaraffiliates.com
 ads.sexinyourcity.com
 ads.tahono.com
 ads.toplayaffiliates.com
+ads.trinitymirror.co.uk
 ads8.com
+adsclick.cc
 adscpm.com
 adservinginternational.com
 adshost1.com
@@ -546,6 +582,7 @@ adspleen.com
 adsprime.click
 adsrevenue.net
 adswitcher.com
+adtoma.com
 adtrackingflow.pro
 adtrak.net
 adtruth.com
@@ -656,6 +693,7 @@ apcnrutpeqa.com
 apcpaxwfej.com
 apfsujontqu.com
 aphidsclee.com
+api.pushspring.com
 apisq9zxs.com
 apocarpdogdom.com
 apochaeunanime.com
@@ -780,6 +818,7 @@ begintrain.com
 beharmalted.info
 beholdascared.com
 behootpokeys.com
+bejirachir.com
 bellyindulge.com
 belyyeusy.com
 benzolescabrin.com
@@ -1193,6 +1232,7 @@ encouragingwilderness.com
 endshiptigrina.com
 enduingdama.space
 endurableshop.com
+engagebdr.com
 englandhogmane.com
 enki-mit.com
 ensetepoggies.com
@@ -1275,6 +1315,7 @@ fimc.net
 findingviolent.com
 findjanupcreep.tech
 findnewline.com
+finkyepbows.com
 firearmtire.com
 fishyscalpelweight.com
 fitchedgiveth.com
@@ -1550,6 +1591,7 @@ iddpop.com
 ideliv.net
 idelv.net
 iditolshewn.com
+idtargeting.com
 iedivhtgisumbsy.com
 ifintbotches.life
 igbiraintsv.com
@@ -1558,6 +1600,7 @@ igwlfwsogwetw.com
 ilealscathes.com
 illfatedsnail.com
 ilusors.com
+imageshh.com
 imatmobile.com
 impededhaeing.com
 impelhowmumble.com
@@ -1591,6 +1634,7 @@ inshootdeyship.website
 insolencemanipulative.com
 insomn.pro
 inspectorclick.com
+install.365-stream.com
 instantresp.com
 insularattacks.com
 insultingsmartly.com
@@ -1793,7 +1837,6 @@ lwtwopauo.com
 lwupidcivzam.com
 lyqpmabeddja.com
 lysimachus-aur.com
-lyssapebble.com
 lzyjcooxsodz.com
 ma2gs3wne3gfej70osium.com
 mabamsamxfp.com
@@ -1824,7 +1867,6 @@ marketing.hearstmagazines.nl
 markofathenaluk.com
 massive-dark.pro
 matqqagvkaaftr.com
-mattockpackall.com
 matzohshoey.com
 maw5r7y9s9helley.com
 mawkydewan.digital
@@ -1839,6 +1881,7 @@ mechanicengagementdelivering.com
 media-servers.net
 medibaad.com
 mehebborc.com
+memeglobal.com
 memorycobweb.com
 menelaus-col.com
 menlithium.com
@@ -1878,6 +1921,7 @@ mixtraffic.com
 mkigmocizon.com
 mkzqqhaakt.com
 mlvmcfxt.com
+mmismm.com
 mmoatlhatz.com
 mobcrummymow.com
 mobileadvertisinghub.com
@@ -2243,6 +2287,7 @@ protectedfolkssomebody.com
 proverbnoncommittalvault.com
 providentsopport.site
 prozymio.com
+prsitecheck.com
 ps7894.com
 psaugourtauy.com
 psaumpoum.com
@@ -2389,6 +2434,7 @@ riyawallet.org
 rkjnazpgfihz.com
 rmafpybcora.com
 robotreplay.com
+rockabox.co
 rokafeg.com
 rollbaralit.com
 roolgage.com
@@ -2460,6 +2506,7 @@ separatesilver.com
 separationreverttap.com
 sepiasbalkis.com
 serveddovens.digital
+servsave.com
 sexinyourcity.com
 shakesuggestion.com
 shallowsmile.com
@@ -2538,6 +2585,7 @@ springaftermath.com
 spruecutworm.com
 spykemediatrack.com
 spymislead.com
+spywords.com
 squirrelhands.com
 srbijacafe.org
 srodicham.com
@@ -2628,8 +2676,10 @@ tastyamendmentnotability.com
 tasvagaggox.com
 tawkinmotmot.digital
 taxedborley.com
+taxismaned.top
 tcaochocskid.com
 tcplpasdiiepsl.com
+tcxt.app
 tcybijzpejz.com
 tdwvknudt.com
 teasimilarman.com
@@ -2695,6 +2745,7 @@ touptaisu.com
 touracostephe.com
 towardscircumscribe.com
 trabuchbignou.com
+track.trafficdarmcap.com
 trafficadept.com
 traffictrader.net
 trahes.site
@@ -2778,6 +2829,7 @@ vaguiosfurors.top
 valiumabaris.live
 vapgfeazdjax.com
 variationsgovernment.com
+vasgenerete.site
 vattingbalak.com
 vcuobpfisalm.com
 vegashizoku.digital
@@ -2834,7 +2886,6 @@ wartletkenn.com
 waryfog.com
 wasplighthouse.com
 waxpigbaa.com
-waymarkgentiin.com
 wazsfiawqca.com
 wcadlxvbjus.com
 wcofweagvafx.com
@@ -2852,6 +2903,7 @@ wheedlehooplas.com
 wheegaulrie.net
 wheeksir.net
 whenu.com
+whereapps.com
 whinecapicha.space
 whingewost.com
 wholewowblog.com
@@ -2915,7 +2967,6 @@ www.lyqpmabeddja.com
 www.ninkorant.online
 www.pcteast.com
 www.qskvfuiywah.com
-www.servsave.com
 www.statsy.net
 www.tkickhhylnvm.com
 www.tspivyuxoowva.com
@@ -2926,6 +2977,7 @@ wychhedgy.life
 wylecricket.com
 wyohpiohdttb.com
 wytingaerosol.uno
+wywy.com
 wyyipndemngo.com
 wzelkaekmoman.com
 wzohfyhiptz.com
@@ -3063,11 +3115,14 @@ bafuhotel.com
 bugsense.com
 counter.yandro.ru
 d1vl8wytztdz.cloudfront.net
+d3nq5jrakcyw1w.cloudfront.net
 dm599.com
 ethtrader.de
 glanceguide.com
+nonglirili.net
 proftrafficcounter.com
 qqkabb.com
+richmetrics.com
 robinkornett.com
 safelyawake.com
 summerhamster.com
@@ -3076,6 +3131,7 @@ track.datetrck.com
 track.mobgc.com
 track.td3x.com
 tracker.vgame.us
+usergrid.com
 v3.fstats.xyz
 westats.dev
 www.ethtrader.de
