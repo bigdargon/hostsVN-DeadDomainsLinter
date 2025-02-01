@@ -411,8 +411,6 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
-k8s2.testcentre.vn
-testcentre.vn
 api.piads.vn
 piads.vn
 static.piads.vn
@@ -1910,10 +1908,8 @@ mixtraffic.com
 mkigmocizon.com
 mkzqqhaakt.com
 mlvmcfxt.com
-mmismm.com
 mmoatlhatz.com
 mobcrummymow.com
-mobileadvertisinghub.com
 moceanmobile.com
 modern-passenger.pro
 modifyeyes.com
@@ -2494,6 +2490,7 @@ separatesilver.com
 separationreverttap.com
 sepiasbalkis.com
 serveddovens.digital
+servsave.com
 sexinyourcity.com
 shakesuggestion.com
 shallowsmile.com
