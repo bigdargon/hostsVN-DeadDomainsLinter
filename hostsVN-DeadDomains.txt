@@ -1,3 +1,4 @@
+googleads-cn.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -42,6 +43,16 @@ spf1.advergine.ru
 spf2.advergine.ru
 spf3.advergine.ru
 track.advergine.ru
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 ad.bnmla.com
 bnmla.com
 cdn0.bnmla.com
@@ -130,6 +141,14 @@ aj2508.online
 aj2510.online
 aj2511.online
 aj2512.online
+admin.runative.com
+api.runative.com
+auth.runative.com
+pusher.staging.runative.com
+rotator.staging.runative.com
+single.runative.com
+staging.runative.com
+static.runative.com
 ads.adsymptotic.com
 adsapi.adsymptotic.com
 adsymptotic.com
@@ -159,6 +178,9 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+brand.ad
+a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 d.exit-ad.com
 exit-ad.com
@@ -227,6 +249,7 @@ vn.adsloads.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+pgmcdn.com
 c.huerty.site
 huerty.site
 m.huerty.site
@@ -256,12 +279,17 @@ clkv6.rtpdn14.com
 rtpdn14.com
 clk.rtpdn15.com
 rtpdn15.com
+asgdfasad.mm-cgnews.com
 cdn.orgxts.com
 orgxts.com
+ad-track.adiiix.com
+ads.adiiix.com
 7fb60feaa4.com
 e7a875c424.7fb60feaa4.com
 1004.hostedprebid.com
 hostedprebid.com
+qa.samsungtvads.com
+v2.samsungtvads.com
 adstatic.com
 media.adstatic.com
 vip.adstatic.com
@@ -411,6 +439,25 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
+cworth.smartconvert.co
+growth.smartconvert.co
+plo.smartconvert.co
+promo.smartconvert.co
+promo-stage.smartconvert.co
+promo-staging.smartconvert.co
+promo-v2.smartconvert.co
+recsite.smartconvert.co
+site-dev.smartconvert.co
+st.smartconvert.co
+worth.smartconvert.co
+wsite.smartconvert.co
+www.smartconvert.co
+kabbmedia.com
 api.piads.vn
 piads.vn
 static.piads.vn
@@ -422,7 +469,6 @@ adx.vn
 mautic.akhoe.vn
 mautic.educe.vn
 mautic.paa.vn
-mautic.serverhub.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
@@ -439,6 +485,7 @@ imgs2.aanetwork.vn
 ad.lapa.pub
 ad.vkoolzzz.net
 adjusts.info
+ads.autonet.com.vn
 ads.laodongbinhduong.org.vn
 ads.thegioitiepthi.vn
 ads.xemtivisohd.net
@@ -458,6 +505,7 @@ quangcao.baovannghe.com.vn
 quangcao247.com.vn
 sda.tamdiem247.com
 syncwowsails.com
+upfile16.mediaphim.com
 vlxx.host
 www.delecpuzz.com
 analytics.aita.gov.vn
@@ -467,6 +515,7 @@ analytics.yts.vn
 api.ozui.vn
 cdn.api-connect.io
 counter.ntdvn.net
+log.vovplus.vn
 marketing.itgeek.vn
 stats.tamdiem247.com
 thongke.vui.vn
@@ -550,9 +599,11 @@ admtpmp124.com
 adnetinteractive.com
 adqapvtrad.com
 adrenalpop.com
+adrevolver.com
 adrock.com.ua
 adru.net
 ads-click.com
+ads.digitalmedianet.com
 ads.edbindex.dk
 ads.fasttrack-ignite.com
 ads.isoftmarketing.com
@@ -572,6 +623,7 @@ adsoldier.com
 adspleen.com
 adsprime.click
 adsrevenue.net
+adsrv.wtf
 adswitcher.com
 adtrackingflow.pro
 adtrak.net
@@ -588,6 +640,7 @@ adwhirl.com
 adworkmedia.net
 adzones.com
 aegid-bal.com
+affiliation-france.com
 affshopp.click
 afgamvohcsc.com
 afgzipohma.com
@@ -683,6 +736,7 @@ apcnrutpeqa.com
 apcpaxwfej.com
 apfsujontqu.com
 aphidsclee.com
+api.ampiri.com
 api.pushspring.com
 apisq9zxs.com
 apocarpdogdom.com
@@ -714,6 +768,7 @@ arsbivqmeva.com
 artpever.com
 ascentmatrimonypistol.com
 asgccummig.com
+asgclickpop.com
 ashadofe.com
 asjaxpovgnk.com
 asjlupacvjw.com
@@ -779,6 +834,8 @@ balloontexture.com
 ballotsevicts.space
 banisterspast.com
 banner.cz
+banner.nixnet.cz
+bannerconnect.net
 bannerlandia.com.ar
 banners.isoftmarketing.com
 bannersgomlm.com
@@ -899,6 +956,7 @@ bunyipbasaree.space
 buqajvxicma.com
 burgledgypsums.uno
 burlydeclined.com
+burstmedia.com
 burtonsugar.com
 bushicitrals.com
 businessbells.com
@@ -1081,6 +1139,7 @@ decalogsdeign.uno
 decentpatent.com
 decptynhipdrkrg.com
 deddyenthral.website
+dedicatedmedia.com
 deecqem892bg5er.com
 deepermagnes.com
 defectivesun.com
@@ -1261,6 +1320,7 @@ fadedprofit.com
 fadingamendable.com
 fadverdirect.com
 fagovwnavab.com
+fagywalu.pro
 faidoud.com
 faithiqs.com
 fajstasfubit.com
@@ -1459,6 +1519,7 @@ guwgkuaxbvuw.com
 gwawl-oqs.com
 gweluwaggoc.com
 gycqna.com
+h2aek6rv0ard.com
 h4aock41f.com
 h4r7dvewa.com
 habitsdemise.com
@@ -1585,6 +1646,7 @@ ifintbotches.life
 igbiraintsv.com
 ignorant-union.pro
 igwlfwsogwetw.com
+ilbanner.com
 ilealscathes.com
 illfatedsnail.com
 ilusors.com
@@ -1761,6 +1823,7 @@ laversleopold.guru
 lazypeacefullyutterly.com
 lcadkutwuvt.com
 leadaffiliates.com
+leadingedgecash.com
 leapfaucet.com
 lecap-services.fr
 leethalo.net
@@ -1880,6 +1943,7 @@ mesallysavor.tech
 meshpetrols.com
 messybusyrental.com
 metric.cliphub.io
+mg2connext.com
 mhemmuolcal.com
 miamiahokums.com
 micmacsortes.com
@@ -1946,6 +2010,7 @@ myactualblog.com
 mydinebaster.com
 myfreshposts.com
 mynsystems.com
+myntelligence.com
 mypagerank.ru
 mysteriousmonth.com
 mysweetsconnect.click
@@ -1958,6 +2023,7 @@ nableriptide.com
 nahccnovft.com
 nailyhexones.uno
 nakirfettle.com
+namol.xyz
 nastymetus.com
 nbbplbiyjhg.com
 nbjmp.com
@@ -2022,6 +2088,7 @@ nuttyorganization.com
 nwmqhgeixqan.com
 nyalacornily.cam
 nzilixqaxocl.com
+oahaurti.com
 oataltaul.com
 obbfpykcoa.com
 obbkucbipw.com
@@ -2112,6 +2179,7 @@ ordounireme.website
 ordzimwtaa.com
 orfraysrectory.uno
 origanfumier.digital
+orlotalers.com
 orrtweqfaa.com
 ortdasctuji.com
 orthitepetrous.com
@@ -2220,6 +2288,7 @@ pitifulconcise.com
 pitonlocmna.com
 pitpastraja.com
 pitypericu.com
+pixel.personagraph.com
 pjvbxndyx.com
 pkakalbtukal.com
 pkerusphot.com
@@ -2330,7 +2399,9 @@ quadrupleclick.com
 qualificationdishliquidate.com
 quallyrimers.com
 quarterbean.com
+quarterserver.de
 qudlroasvoqp.com
+quenchskirmishcohere.com
 quhupyni2.com
 quickpasss.com
 quinctus-isb.com
@@ -2490,7 +2561,6 @@ separatesilver.com
 separationreverttap.com
 sepiasbalkis.com
 serveddovens.digital
-servsave.com
 sexinyourcity.com
 shakesuggestion.com
 shallowsmile.com
@@ -2569,6 +2639,7 @@ springaftermath.com
 spruecutworm.com
 spykemediatrack.com
 spymislead.com
+spywarelabs.com
 spywords.com
 squirrelhands.com
 srbijacafe.org
@@ -2578,6 +2649,7 @@ stakingscrew.com
 stakingslope.com
 standingnest.com
 starvegingerwaist.com
+static.scptpx.com
 statsy.net
 stazumik.net
 steelickier.uno
@@ -2691,7 +2763,6 @@ theftcontractorphysique.com
 thelemontreeinn.com
 thetarhaw.com
 thinkablerice.com
-thinkupfront.com
 thlaspigoonch.digital
 thongsalhagi.com
 threechurch.com
@@ -2835,6 +2906,7 @@ vijbaghitlhi.com
 vilercarpetfolk.com
 vilpujzmyhu.com
 vinegarfactorelevator.com
+visualrevenue.com
 vitrealmandola.com
 vixmwnivtbqk.com
 vizofnwufqme.com
@@ -2899,6 +2971,7 @@ wihaqbfumjaj.com
 wilcooxcheek.com
 willetslibbet.digital
 windofaeolus.com
+window.nixnet.cz
 winsomenetsman.website
 wiresticky.website
 wiseguypedicab.digital
@@ -2999,6 +3072,7 @@ xwagtyhujov.com
 xwewabodwhud.com
 xxmaqoupnd.com
 xxmtlqwwox.com
+xxxmyself.com
 xylenylyetapa.uno
 xylidingrewia.life
 xzezapozghp.com
@@ -3016,6 +3090,7 @@ yellow-record.pro
 yepteaswont.com
 yglakvfejwqrbqi.com
 yhbngqpiag.com
+yieldads.com
 yieldmanager.com
 yilpkosxa.com
 yimpolis.com
