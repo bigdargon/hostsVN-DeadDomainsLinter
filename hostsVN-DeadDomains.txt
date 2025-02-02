@@ -67,6 +67,7 @@ sj11.bnmla.com
 soundwave.bnmla.com
 video.bnmla.com
 vsb.bnmla.com
+beacon.statful.com
 adsfactor.net
 cdn.adsfactor.net
 cdn-html.adsfactor.net
@@ -153,12 +154,6 @@ rtb.adsymptotic.com
 rtbe.adsymptotic.com
 rtb-eu.adsymptotic.com
 www.adsymptotic.com
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -269,6 +264,9 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
@@ -420,10 +418,11 @@ smartadnetwork.net
 tracking.smartadnetwork.net
 cdn.viraads.com
 viraads.com
-upfile16.mediaphim.com
 log.vovplus.vn
 asgclickpop.com
 banner.nixnet.cz
+dckifhpovvbpb.com
+deligrassdull.com
 h2aek6rv0ard.com
 mg2connext.com
 myntelligence.com
@@ -432,6 +431,12 @@ orlotalers.com
 pixel.personagraph.com
 quarterserver.de
 quenchskirmishcohere.com
+reinvigorate.net
+ruwertur.com
+sendmepixel.com
+sponsors.thoughtsmedia.com
 visualrevenue.com
+vstvstsa.com
 window.nixnet.cz
 yieldads.com
+zeegreen.net
