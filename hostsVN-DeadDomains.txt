@@ -171,7 +171,6 @@ www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -462,7 +461,6 @@ ads.digitalmedianet.com
 adsrv.wtf
 asgclickpop.com
 banner.nixnet.cz
-bannerconnect.net
 burstmedia.com
 dedicatedmedia.com
 h2aek6rv0ard.com
@@ -480,5 +478,4 @@ spywarelabs.com
 static.scptpx.com
 visualrevenue.com
 window.nixnet.cz
-xxxmyself.com
 yieldads.com
