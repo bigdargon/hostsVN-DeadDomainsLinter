@@ -27,15 +27,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.ru
 go.advergine.ru
@@ -245,9 +236,6 @@ adsloads.com
 in.adsloads.com
 us.adsloads.com
 vn.adsloads.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 pgmcdn.com
 c.huerty.site
 huerty.site
@@ -337,7 +325,6 @@ aj2562.bid
 aj2567.bid
 aj2568.bid
 aj2569.bid
-aj2571.bid
 aj2572.bid
 aj2573.bid
 aj2574.bid
@@ -474,12 +461,10 @@ smartadnetwork.net
 tracking.smartadnetwork.net
 cdn.viraads.com
 viraads.com
-ads.autonet.com.vn
 upfile16.mediaphim.com
 log.vovplus.vn
 ads.digitalmedianet.com
 adsrv.wtf
-api.ampiri.com
 asgclickpop.com
 banner.nixnet.cz
 bannerconnect.net
