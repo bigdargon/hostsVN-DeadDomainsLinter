@@ -1,4 +1,3 @@
-googleads-cn.com
 adbro.rtbid.me
 cdn.rtbid.me
 ide.rtbid.me
@@ -168,9 +167,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 d.exit-ad.com
 exit-ad.com
 i.exit-ad.com
@@ -212,7 +208,6 @@ s.atemda.com
 ue.atemda.com
 www.atemda.com
 x.atemda.com
-lalaping.com
 api.mppmnetwork.com
 click.mppmnetwork.com
 click-us.mppmnetwork.com
@@ -264,7 +259,6 @@ clkv6.rtpdn14.com
 rtpdn14.com
 clk.rtpdn15.com
 rtpdn15.com
-asgdfasad.mm-cgnews.com
 cdn.orgxts.com
 orgxts.com
 7fb60feaa4.com
@@ -410,8 +404,6 @@ yoads.network
 hc.viam.com.vn
 viam.com.vn
 www.viam.com.vn
-cdn.hbplatform.com
-hbplatform.com
 cheap-ads.net
 verycheap.cheap-ads.net
 www.cheap-ads.net
@@ -458,17 +450,13 @@ viraads.com
 upfile16.mediaphim.com
 log.vovplus.vn
 ads.digitalmedianet.com
-adsrv.wtf
 asgclickpop.com
 banner.nixnet.cz
-burstmedia.com
-dedicatedmedia.com
 h2aek6rv0ard.com
 ilbanner.com
 leadingedgecash.com
 mg2connext.com
 myntelligence.com
-namol.xyz
 oahaurti.com
 orlotalers.com
 pixel.personagraph.com
@@ -476,6 +464,7 @@ quarterserver.de
 quenchskirmishcohere.com
 spywarelabs.com
 static.scptpx.com
+therichkids.com
 visualrevenue.com
 window.nixnet.cz
 yieldads.com
