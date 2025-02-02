@@ -258,7 +258,6 @@ xml.showcasethat.com
 ads.rvadnet.com
 partner.rvadnet.com
 rvadnet.com
-image.b91vip.com
 clk.rtpdn12.com
 rtpdn12.com
 clk.rtpdn14.com
@@ -325,6 +324,7 @@ aj2562.bid
 aj2567.bid
 aj2568.bid
 aj2569.bid
+aj2571.bid
 aj2572.bid
 aj2573.bid
 aj2574.bid
@@ -421,11 +421,6 @@ sporttv.today
 www.sporttv.today
 vnnayngaytin.vn
 ad.vnnayngaytin.vn
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 cworth.smartconvert.co
 growth.smartconvert.co
 plo.smartconvert.co
