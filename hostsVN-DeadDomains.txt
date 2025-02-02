@@ -376,13 +376,6 @@ optimize.serving-system.com
 serving-system.com
 ut-static.serving-system.com
 ut.serving-system.com
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 mediad.asia
 www.mediad.asia
 yoads.network
@@ -432,7 +425,6 @@ log.vovplus.vn
 asgclickpop.com
 banner.nixnet.cz
 h2aek6rv0ard.com
-leadingedgecash.com
 mg2connext.com
 myntelligence.com
 oahaurti.com
