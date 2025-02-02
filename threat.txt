@@ -1,4 +1,4 @@
-# Version: 2501162253
+# Version: 2502012327
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -3287,6 +3287,7 @@
 ||telaagam.maxisl.vip^
 ||telegram.app0w.ltd^
 ||teleway.top^
+||tempisite.com^
 ||tescoshop.shop^
 ||tet-lienquangarenavn.com^
 ||tet2023.shop^
@@ -4756,6 +4757,7 @@
 ||zingshop.net^
 ||zla653.top^
 ||zla963.top^
+||zloweb.me^
 ||zmomo.cc^
 ||znavidsde.cfd^
 ||zoneshewa.net^
