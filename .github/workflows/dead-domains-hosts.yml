@@ -2,7 +2,7 @@ name: Dead Domains hostsVN
 
 on:
   schedule:
-    - cron: '20 */3 * * *'
+    - cron: '17 */1 * * *'
   workflow_dispatch:
   
 jobs:
