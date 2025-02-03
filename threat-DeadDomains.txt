@@ -858,7 +858,6 @@ igoda.shop
 ihgatms.cfd
 iisacombank.com
 ilsacombank.com
-images.emldn.com
 indush.cfd
 inet-ebank.com
 info-ebank.com
@@ -3455,7 +3454,6 @@ wmail-blog.xyz
 wmail-cdn.xyz
 wmail-chat.xyz
 woorivn.online
-word.emldn.com
 wutienitme247.info
 wvietcombank.com
 wviietcombank.com
