@@ -405,7 +405,6 @@ d.t.sieu-viet.com
 j.t.sieu-viet.com
 t.sieu-viet.com
 mautic.akhoe.vn
-mautic.paa.vn
 mautic.thietkexaynhadep.vn
 piwik.softonic.vn
 piwik.tienhiep.com.vn
