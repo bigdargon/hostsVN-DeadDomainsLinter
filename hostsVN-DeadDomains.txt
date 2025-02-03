@@ -264,15 +264,13 @@ view.adsmanager.ga
 couponinu.net
 track.couponinu.net
 revboostprocdnadsprod.azureedge.net
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv314.me
 ads.livetv636.me
 ads.livetv638.me
 ads.livetv723.me
 ads.livetv817.me
 aj2513.bid
+aj2514.bid
 aj2518.bid
 aj2521.bid
 aj2522.bid
@@ -419,10 +417,8 @@ cdn.viraads.com
 viraads.com
 log.vovplus.vn
 asgclickpop.com
-banner.nixnet.cz
 deligrassdull.com
 h2aek6rv0ard.com
-myntelligence.com
 oahaurti.com
 orlotalers.com
 pixel.personagraph.com
@@ -434,6 +430,5 @@ sendmepixel.com
 sponsors.thoughtsmedia.com
 visualrevenue.com
 vstvstsa.com
-window.nixnet.cz
 yieldads.com
 zeegreen.net
