@@ -26,7 +26,6 @@ content-ad.net
 push.content-ad.net
 pushrev.content-ad.net
 px.content-ad.net
-native.propellerclick.com
 advergine.ru
 go.advergine.ru
 spf1.advergine.ru
@@ -423,11 +422,11 @@ oahaurti.com
 orlotalers.com
 quarterserver.de
 quenchskirmishcohere.com
+qxadsk.com
 reinvigorate.net
 ruwertur.com
 sendmepixel.com
 sponsors.thoughtsmedia.com
-therichkids.com
 visualrevenue.com
 vstvstsa.com
 yieldads.com
