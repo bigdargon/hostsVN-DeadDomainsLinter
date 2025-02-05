@@ -1,4 +1,4 @@
-# Version: 2502031554
+# Version: 2502050934
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -4751,7 +4751,9 @@
 ||yunduofei.xyz^
 ||yxjsibeugmmj.com^
 ||zSmhlV.zgbv.tech^
+||zalo-web.me^
 ||zalorashop.com^
+||zaloweb.pro^
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
