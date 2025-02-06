@@ -290,7 +290,6 @@
 396667.com
 39999.fun
 3hgdl.com
-3vvv66.com
 414777.com
 420288.com
 423445.com
@@ -311,7 +310,10 @@
 4466ddd9.com
 4513999.com
 45312.xyz
+<<<<<<< Updated upstream
 4590777.com
+=======
+>>>>>>> Stashed changes
 46212a.com
 46212b.com
 46212c.com
@@ -359,7 +361,10 @@
 56160.vip
 58039175.com
 58178.bet
+<<<<<<< Updated upstream
 5849u.com
+=======
+>>>>>>> Stashed changes
 585858.site
 5898comapp-one.com
 5898f.com
@@ -507,8 +512,11 @@
 8x8bet.asia
 91111003.com
 922731.com
+<<<<<<< Updated upstream
 9262000.com
 926575.com
+=======
+>>>>>>> Stashed changes
 93997hd.com
 94.vip
 952164.com
@@ -576,8 +584,13 @@ b7783.com
 b89181.com
 bbo88vip.com
 bc1002.com
+<<<<<<< Updated upstream
 bc1011.com
 bc3033.com
+=======
+bc1003.com
+bc8817.com
+>>>>>>> Stashed changes
 bd8600.com
 bet365dl.org
 bet365dl.xyz
@@ -627,7 +640,10 @@ choidonclub.club
 choigamedons.club
 choigamevua.club
 cjycp00.com
+<<<<<<< Updated upstream
 cp2sj.com
+=======
+>>>>>>> Stashed changes
 cp38438.com
 csj332.com
 d1.debet.info
@@ -635,7 +651,10 @@ d3.debet.info
 d34034.com
 d90901.com
 dabao77.com
+<<<<<<< Updated upstream
 dafa666666.com
+=======
+>>>>>>> Stashed changes
 df077.com
 df8352.com
 df8356.com
@@ -687,7 +706,6 @@ h1280.com
 h34034.com
 h83138.com
 haowinapp000haowinapp.com
-haowinapp111haowinapp.com
 haowinapp333haowinapp.com
 hb95992.com
 hb95992.net
@@ -761,7 +779,6 @@ lode365.online
 love89.net
 lovefun32.com
 lovefun69.com
-luckappde.com
 lucky799.com
 lucky88.org
 m.v9betasia.com
@@ -785,7 +802,6 @@ p034034.com
 p34034.com
 p3650.com
 pg514.com
-phbet.com
 phslot10.bet
 phslot11.bet
 phslot12.bet
@@ -858,7 +874,6 @@ phslot74.bet
 phslot75.bet
 phslot8.bet
 phslot9.bet
-play.go88j.com
 play.yo88.net
 playstar77.website
 prod.goal68.com
@@ -878,6 +893,10 @@ r34034.com
 raybetvip.net
 reg.playiwin.site
 rw625a.com
+<<<<<<< Updated upstream
+=======
+s1051.com
+>>>>>>> Stashed changes
 s34034.com
 s8611.com
 saibo2.com
@@ -886,6 +905,10 @@ saibo5566.com
 sbobetfun.org
 sdrg9.com
 sdy666.com
+<<<<<<< Updated upstream
+=======
+shxx021.com
+>>>>>>> Stashed changes
 slotmania333.com
 ss9448.com
 ssgj007.com
@@ -945,14 +968,14 @@ www.tai789.net
 x34034.com
 xhdh10.com
 xinyb.com
+<<<<<<< Updated upstream
 xpj1958.com
+=======
+>>>>>>> Stashed changes
 xuanle88.com
 xv68660.com
 xv68663.com
-xv694.com
-xv711.com
 y2207.com
-y2533.com
 y34034.com
 y5233.com
 y5433.com
