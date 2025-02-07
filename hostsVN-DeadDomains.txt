@@ -56,10 +56,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -76,10 +72,7 @@ mobileads.dieuviet.com
 alexajstrack.com
 analytics.amedigital.vn
 1-1ads.com
-adbrn.com
-adcloud.net
 ads.horyzon-media.com
-ads.smartclick.com
 adsclick.cc
 adsrv.wtf
 afcnuchxgo.com
