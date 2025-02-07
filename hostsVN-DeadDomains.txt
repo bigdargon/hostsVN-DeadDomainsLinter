@@ -14,7 +14,6 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 beacon.statful.com
-static.cbsileads.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -74,12 +73,11 @@ analytics.amedigital.vn
 1-1ads.com
 ads.horyzon-media.com
 adsclick.cc
-adsrv.wtf
 afcnuchxgo.com
+allstarmediagroup.com
 asgclickpop.com
 awaps.net
 b5e75c56.com
-bannerconnect.net
 bestadbid.com
 cjbmanagement.com
 dckifhpovvbpb.com
@@ -87,7 +85,6 @@ deligrassdull.com
 ebuzzing.com
 euros4click.de
 eyeblaster.com
-fagywalu.pro
 go.mobisla.com
 go.padstm.com
 gyfumobo.com
