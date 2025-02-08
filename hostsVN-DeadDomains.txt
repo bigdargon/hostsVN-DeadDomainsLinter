@@ -13,11 +13,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
