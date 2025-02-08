@@ -60,10 +60,6 @@ delivery.adsterra.org
 image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
