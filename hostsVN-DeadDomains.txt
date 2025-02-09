@@ -32,7 +32,6 @@ xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
-lalaping.com
 zetadeo.com
 ei.imstks.com
 i.imstks.com
@@ -76,7 +75,6 @@ b5e75c56.com
 beklefkiom.com
 bestadbid.com
 dckifhpovvbpb.com
-dedicatedmedia.com
 deligrassdull.com
 eyeblaster.com
 fagywalu.pro
@@ -89,7 +87,6 @@ lowseelan.com
 metahv.xyz
 mobisla.com
 myntelligence.com
-namol.xyz
 newstarads.com
 oahaurti.com
 oewabox.at
@@ -114,5 +111,4 @@ yonomastara.com
 zmedia.com
 burstly.com
 go.ad1data.com
-showbiz.owndata.network
 usergrid.com
