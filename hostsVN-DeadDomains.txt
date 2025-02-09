@@ -44,7 +44,6 @@ aixq-streamlit.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-pgmcdn.com
 delivery.adsterra.org
 image.b91vip.com
 ad-track.adiiix.com
