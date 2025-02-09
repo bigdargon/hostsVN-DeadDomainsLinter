@@ -1,4 +1,4 @@
-# Version: 2502050934
+# Version: 2502092303
 ||0-bbs.com^
 ||0.xxx-cdn.com^
 ||0000114.com^
@@ -6102,6 +6102,7 @@
 ||buom.tv^
 ||buomdep.pro^
 ||buomhay.com^
+||buomngon.com^
 ||buomsex.com^
 ||buomtube.tv^
 ||buomtv.io^
@@ -9551,6 +9552,7 @@
 ||gadit.pro^
 ||gagici.top^
 ||gagww.com^
+||gai2.buomngon.com^
 ||gai35.com^
 ||gaicantho.xyz^
 ||gaicaocap.xyz^
