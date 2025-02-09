@@ -4,15 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 classic.marketolive.com
 infor.marketolive.com
@@ -102,6 +93,7 @@ dckifhpovvbpb.com
 dedicatedmedia.com
 deligrassdull.com
 eyeblaster.com
+fagywalu.pro
 go.mobisla.com
 go.padstm.com
 h2aek6rv0ard.com
