@@ -11,9 +11,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 advinci.net
 count.advinci.net
@@ -114,6 +111,7 @@ uzxkuwalnjp.com
 vibrantmedia.com
 vstvstsa.com
 www.money4exit.de
+www.servsave.com
 yieldads.com
 ylcziaipyztvv.com
 yonomastara.com
