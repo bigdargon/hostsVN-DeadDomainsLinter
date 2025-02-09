@@ -58,13 +58,6 @@ ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -93,7 +86,6 @@ dckifhpovvbpb.com
 dedicatedmedia.com
 deligrassdull.com
 eyeblaster.com
-fagywalu.pro
 go.mobisla.com
 go.padstm.com
 h2aek6rv0ard.com
