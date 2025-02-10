@@ -25,11 +25,6 @@ www.imstks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
@@ -87,9 +82,11 @@ tccnqgnmeveay.com
 upgastlyr.com
 uzxkuwalnjp.com
 vibrantmedia.com
+virleth.com
 vstvstsa.com
 window.nixnet.cz
 www.money4exit.de
+www.servsave.com
 yieldads.com
 ylcziaipyztvv.com
 yonomastara.com
