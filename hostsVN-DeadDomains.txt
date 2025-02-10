@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 native.propellerclick.com
-spf2.advergine.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -39,9 +38,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 delivery.adsterra.org
-image.b91vip.com
-ad-track.adiiix.com
-ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -67,7 +63,6 @@ upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 1-1ads.com
-4d5.net
 ad.foxnetworks.com
 ads.foxnetworks.com
 ads.horyzon-media.com
@@ -86,7 +81,6 @@ dckifhpovvbpb.com
 deligrassdull.com
 euros4click.de
 eyeblaster.com
-fagywalu.pro
 go.mobisla.com
 go.padstm.com
 greatlove.pro
@@ -94,6 +88,7 @@ h2aek6rv0ard.com
 ilbanner.com
 js.xzjhome.cc
 leadingedgecash.com
+liquidad.narrowcastmedia.com
 lowseelan.com
 metahv.xyz
 mg2connext.com
@@ -113,6 +108,7 @@ ruwertur.com
 sendmepixel.com
 sitegoto.com
 speakspurink.com
+stat.cliche.se
 supapush.net
 tccnqgnmeveay.com
 upgastlyr.com
