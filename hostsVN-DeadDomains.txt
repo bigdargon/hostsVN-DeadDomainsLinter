@@ -56,8 +56,6 @@ mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -79,6 +77,7 @@ dckifhpovvbpb.com
 deligrassdull.com
 euros4click.de
 eyeblaster.com
+fagywalu.pro
 go.mobisla.com
 go.padstm.com
 greatlove.pro
@@ -105,7 +104,6 @@ ruwertur.com
 sendmepixel.com
 sitegoto.com
 speakspurink.com
-stat.cliche.se
 supapush.net
 tccnqgnmeveay.com
 upgastlyr.com
