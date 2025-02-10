@@ -30,7 +30,6 @@ mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 1-1ads.com
 ad.foxnetworks.com
@@ -56,6 +55,7 @@ go.padstm.com
 greatlove.pro
 h2aek6rv0ard.com
 ilbanner.com
+impressionz.co.uk
 js.xzjhome.cc
 leadingedgecash.com
 lowseelan.com
@@ -79,7 +79,6 @@ sitegoto.com
 speakspurink.com
 supapush.net
 tccnqgnmeveay.com
-therichkids.com
 upgastlyr.com
 uzxkuwalnjp.com
 vibrantmedia.com
