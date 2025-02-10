@@ -54,8 +54,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
