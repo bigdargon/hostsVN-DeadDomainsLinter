@@ -69,6 +69,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+mobileads.dieuviet.com
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -96,7 +97,6 @@ deligrassdull.com
 euros4click.de
 expdirclk.com
 eyeblaster.com
-fagywalu.pro
 go.mobisla.com
 go.padstm.com
 greatlove.pro
