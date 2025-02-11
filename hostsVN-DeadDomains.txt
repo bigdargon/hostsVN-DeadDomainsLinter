@@ -1,11 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
-native.propellerclick.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -34,7 +27,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-www.wensixuetang.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -53,7 +45,6 @@ asgclickpop.com
 aulteeby.net
 awaps.net
 b5e75c56.com
-banner.nixnet.cz
 banner.penguin.cz
 beklefkiom.com
 bestadbid.com
@@ -76,7 +67,6 @@ myntelligence.com
 nauzaphoay.net
 newstarads.com
 oahaurti.com
-openads.org
 padstm.com
 pasheeheghie.net
 pixel.personagraph.com
@@ -100,7 +90,6 @@ uzxkuwalnjp.com
 vibrantmedia.com
 virleth.com
 vstvstsa.com
-window.nixnet.cz
 www.money4exit.de
 yieldads.com
 ylcziaipyztvv.com
