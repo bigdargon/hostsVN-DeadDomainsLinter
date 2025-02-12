@@ -1,4 +1,4 @@
-# Version: 2502110956
+# Version: 2502121745
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -143,11 +143,13 @@
 ||optimize.google.com^
 ||googleoptimize.com^
 ||www.googleoptimize.com^
+||ad-creatives-public.commondatastorage.googleapis.com^
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||clientmetrics-pa.googleapis.com^
 ||clouderrorreporting.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||ogads-pa.googleapis.com^
 ||pagead-googlehosted.l.google.com^
@@ -9809,6 +9811,7 @@
 ||g2afse.com^
 ||aditmedia.g2afse.com^
 ||adstartmedia.g2afse.com^
+||s2stracking.g2afse.com^
 ||1l-hit.mail.ru^
 ||1l-view.mail.ru^
 ||ad.mail.ru^
@@ -12801,6 +12804,7 @@
 ||adz2you.net^
 ||adzbazar.com^
 ||aeffe3nhrua5hua.com^
+||aerodynomach.com^
 ||af-ad.co.uk^
 ||afcnuchxgo.com^
 ||afearprevoid.com^
@@ -13225,6 +13229,7 @@
 ||benonblkd.xyz^
 ||benzeinlune.com^
 ||bepansaer.com^
+||beplusleor.com^
 ||bergculpae.life^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
@@ -14303,6 +14308,7 @@
 ||friendlyduck.com^
 ||friendshipmale.com^
 ||frightenedpotato.com^
+||frllfmjaku.com^
 ||fryawlauk.com^
 ||ftte.xyz^
 ||fubmalafdti.com^
@@ -15745,6 +15751,7 @@
 ||plusungratefulinstruction.com^
 ||plutothejewel.com^
 ||pnuhondppw.com^
+||poawooptugroo.com^
 ||pocitadlo.cz^
 ||pocrd.cc^
 ||pocrowpush.com^
@@ -15868,6 +15875,7 @@
 ||ptaixout.net^
 ||ptauxofi.net^
 ||ptawehex.net^
+||pteemsolrirgegi.com^
 ||ptewarin.net^
 ||ptipsixo.com^
 ||ptoahaistais.com^
@@ -15970,6 +15978,7 @@
 ||qwerfdx.com^
 ||qwertize.com^
 ||qwerty24.net^
+||qwuopcbilw.com^
 ||qwyaqhortog.com^
 ||qxadsk.com^
 ||qzeavzrfaoqn.com^
@@ -16707,6 +16716,7 @@
 ||tornbed.pro^
 ||toroadvertisingmedia.com^
 ||tosfeed.com^
+||tospointor.com^
 ||total-fee.com^
 ||totemcash.com^
 ||touchads.com^

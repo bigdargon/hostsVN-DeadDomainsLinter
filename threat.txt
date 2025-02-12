@@ -1,4 +1,4 @@
-# Version: 2502092303
+# Version: 2502121744
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -506,6 +506,7 @@
 ||continue.dasboard965-account.com^
 ||continue.dasboard966-account.com^
 ||continue.dasboard974-account.com^
+||cooknove.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
