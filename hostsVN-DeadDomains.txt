@@ -1,4 +1,3 @@
-blueserving.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -27,7 +26,6 @@ partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
-cdn.bidfilter.com
 advinci.net
 count.advinci.net
 www.advinci.net
