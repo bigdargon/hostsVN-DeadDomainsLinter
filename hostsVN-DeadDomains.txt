@@ -37,7 +37,6 @@ mautic.educe.vn
 mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
-vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 adsclick.cc
 afcnuchxgo.com
