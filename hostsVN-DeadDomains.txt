@@ -9,8 +9,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 aj1754.online
-jp.marketolive.com
-magento.marketolive.com
 advinci.net
 count.advinci.net
 www.advinci.net
