@@ -16,8 +16,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -36,11 +34,6 @@ netund.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -51,7 +44,6 @@ mautic.educe.vn
 mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
-upfile16.mediaphim.com
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 adsclick.cc
