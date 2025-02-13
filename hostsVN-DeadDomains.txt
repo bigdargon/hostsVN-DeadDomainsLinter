@@ -34,8 +34,6 @@ bidadx.com
 image.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
-ad-track.adiiix.com
-ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -88,7 +86,6 @@ padstm.com
 pasheeheghie.net
 quenchskirmishcohere.com
 qxadsk.com
-reflushneuma.com
 resolvedswordlinked.com
 rjkrefyqrixk.com
 ruwertur.com
