@@ -77,7 +77,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adserversolutions.com
-advariant.com
 afcnuchxgo.com
 allstarmediagroup.com
 api.ampiri.com
