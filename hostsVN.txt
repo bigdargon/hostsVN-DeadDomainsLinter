@@ -1,4 +1,4 @@
-# Version: 2502131621
+# Version: 2502141019
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14039,6 +14039,7 @@
 ||dummieseardrum.com^
 ||dustyhammer.com^
 ||duzcujquzl.com^
+||dv.pictunoctette.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dynamicadx.com^
 ||dynspt.com^
@@ -14292,6 +14293,7 @@
 ||fossorplumper.com^
 ||foundinggulfsaturate.com^
 ||foxpush.com^
+||fpqwpqiyq.com^
 ||fpukxcinlf.com^
 ||fpyhuktuwatn.com^
 ||fractionfridgejudiciary.com^
@@ -14788,6 +14790,7 @@
 ||jfiwzimupbt.com^
 ||jfjle4g5l.com^
 ||jhukfaosdjfa.com^
+||jhxakdmdlz.com^
 ||jighucme.com^
 ||jinkads.de^
 ||jioads.akamaized.net^
@@ -16894,6 +16897,7 @@
 ||uptimecdn.com^
 ||uptrendsdata.com^
 ||urechar.com^
+||urgerrebasis.com^
 ||urimnugocfr.com^
 ||urlcash.net^
 ||uruswan.com^
