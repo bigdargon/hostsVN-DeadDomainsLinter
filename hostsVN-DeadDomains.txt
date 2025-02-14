@@ -69,8 +69,6 @@ mautic.educe.vn
 mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 mobileads.dieuviet.com
 alexajstrack.com
 1-1ads.com
