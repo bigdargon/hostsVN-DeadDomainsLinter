@@ -69,6 +69,7 @@ mautic.educe.vn
 mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
+mobileads.dieuviet.com
 alexajstrack.com
 1-1ads.com
 adcloud.net
@@ -76,6 +77,7 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adserversolutions.com
+advariant.com
 afcnuchxgo.com
 allstarmediagroup.com
 api.ampiri.com
@@ -97,7 +99,6 @@ dckifhpovvbpb.com
 deligrassdull.com
 denetsuk.com
 eyeblaster.com
-fagywalu.pro
 fixespreoccupation.com
 go.mobisla.com
 go.padstm.com
@@ -108,7 +109,6 @@ ilbanner.com
 impressionz.co.uk
 js.xzjhome.cc
 klkchits.com
-leadingedgecash.com
 lowseelan.com
 metahv.xyz
 mkkvprwskq.com
@@ -123,7 +123,6 @@ onmarshtompor.com
 padstm.com
 pasheeheghie.net
 petasusawber.com
-pixel.personagraph.com
 quenchskirmishcohere.com
 qxadsk.com
 resolvedswordlinked.com
