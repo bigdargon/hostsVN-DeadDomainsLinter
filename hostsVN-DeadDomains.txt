@@ -75,8 +75,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
