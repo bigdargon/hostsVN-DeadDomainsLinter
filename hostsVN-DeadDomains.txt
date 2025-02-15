@@ -91,12 +91,10 @@ cdn.wataads.com
 wataads.com
 mobileads.dieuviet.com
 upfile16.mediaphim.com
-alexajstrack.com
 analytics.amedigital.vn
 1-1ads.com
 ad.foxnetworks.com
 adbrn.com
-adcloud.net
 ads.foxnetworks.com
 adsclick.cc
 adserver1.mindshare.de
@@ -165,6 +163,7 @@ static.scptpx.com
 stichaur.net
 supapush.net
 svkmxwssih.com
+tagmngrs.com
 tccnqgnmeveay.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
