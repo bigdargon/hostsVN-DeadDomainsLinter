@@ -71,9 +71,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -89,7 +86,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -163,7 +159,6 @@ static.scptpx.com
 stichaur.net
 supapush.net
 svkmxwssih.com
-tagmngrs.com
 tccnqgnmeveay.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
