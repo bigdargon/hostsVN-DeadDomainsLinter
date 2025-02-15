@@ -92,6 +92,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
+mobileads.dieuviet.com
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -127,7 +128,6 @@ deligrassdull.com
 denetsuk.com
 dsp.io
 euros4click.de
-eyeblaster.com
 fixespreoccupation.com
 go.mobisla.com
 go.padstm.com
@@ -168,6 +168,7 @@ static.scptpx.com
 stichaur.net
 supapush.net
 svkmxwssih.com
+tagmngrs.com
 tccnqgnmeveay.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
