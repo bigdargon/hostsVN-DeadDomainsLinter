@@ -62,8 +62,8 @@ engine.bitmedianetwork.com
 www.bitmedianetwork.com
 pgmcdn.com
 delivery.adsterra.org
-bidadx.com
 image.b91vip.com
+www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 cdn.ggsfq.com
@@ -93,15 +93,14 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 1-1ads.com
+2explore.com
 ad.foxnetworks.com
 adbrn.com
 adcloud.net
-ads.bumq.com
 ads.foxnetworks.com
 adsclick.cc
 adserver1.mindshare.de
@@ -111,6 +110,7 @@ afcnuchxgo.com
 allstarmediagroup.com
 api.ampiri.com
 apprebates.com
+artistestate.com
 asgclickpop.com
 aulteeby.net
 autjaetpxhj.com
@@ -128,6 +128,8 @@ dckifhpovvbpb.com
 dedicatedmedia.com
 deligrassdull.com
 denetsuk.com
+donaldsvogel.com
+donaldvogel.com
 dsp.io
 euros4click.de
 eyeblaster.com
@@ -139,6 +141,7 @@ gyfumobo.com
 h2aek6rv0ard.com
 ilbanner.com
 impressionz.co.uk
+jackadamo.com
 js.xzjhome.cc
 klkchits.com
 lowseelan.com
@@ -172,6 +175,7 @@ stichaur.net
 supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
+tginspections.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 trendcounter.com
@@ -179,7 +183,9 @@ u1pmt.com
 unphionetor.com
 unstoutgolfs.com
 upgastlyr.com
+usmilitarylawyer.com
 uzxkuwalnjp.com
+valleyhousegallery.com
 valuationbothertoo.com
 vibrantmedia.com
 virleth.com
