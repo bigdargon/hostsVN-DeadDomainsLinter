@@ -92,7 +92,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
