@@ -35,7 +35,6 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 aj1754.online
-aj2430.online
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -121,6 +120,7 @@ dsp.io
 euros4click.de
 eyeblaster.com
 fixespreoccupation.com
+framestighterauthorize.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
