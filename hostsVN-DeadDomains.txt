@@ -115,7 +115,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adtoma.com
-advariant.com
 afcnuchxgo.com
 allstarmediagroup.com
 api.ampiri.com
@@ -158,7 +157,6 @@ eyeblaster.com
 fixespreoccupation.com
 frightenedpotato.com
 futuristicfairies.com
-galaxien.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
