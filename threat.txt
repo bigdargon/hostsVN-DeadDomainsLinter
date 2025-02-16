@@ -1,4 +1,4 @@
-# Version: 2502151720
+# Version: 2502161602
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -262,6 +262,7 @@
 ||bankvn1s.com^
 ||banthang.me^
 ||banvoucher-vn.weeblysite.com^
+||bao-moi.pro^
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
@@ -4633,6 +4634,7 @@
 ||www.abc-vay.com^
 ||www.acs84.com^
 ||www.amadbfk.vip^
+||www.bao-moi.pro^
 ||www.baovietvc.top^
 ||www.bapoder.com^
 ||www.checkaccff.com^
