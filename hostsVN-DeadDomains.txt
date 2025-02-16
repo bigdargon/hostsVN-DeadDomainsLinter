@@ -36,7 +36,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-aj2430.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -51,7 +50,6 @@ count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
-lalaping.com
 o.wowreality.info
 r.wowreality.info
 wowreality.info
@@ -67,7 +65,6 @@ aixq-streamlit.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-pgmcdn.com
 delivery.adsterra.org
 click.showcasethat.com
 images.showcasethat.com
@@ -75,8 +72,6 @@ push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
 image.b91vip.com
-asgdfasad.mm-cgnews.com
-cdn.ggsfq.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -150,13 +145,13 @@ euros4click.de
 exclusivebrass.com
 eyeblaster.com
 fixespreoccupation.com
+framestighterauthorize.com
 frightenedpotato.com
 futuristicfairies.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
 greyinstrument.com
-gyfumobo.com
 h2aek6rv0ard.com
 h78xb.pw
 ilbanner.com
@@ -177,7 +172,6 @@ mobisla.com
 moodokay.com
 moomenog.com
 myntelligence.com
-namol.xyz
 nauzaphoay.net
 newstarads.com
 nwhnzkbfsnpf.com
