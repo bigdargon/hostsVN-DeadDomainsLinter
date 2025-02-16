@@ -36,6 +36,7 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
+aj2274.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -66,14 +67,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 delivery.adsterra.org
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 image.b91vip.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -145,7 +139,6 @@ euros4click.de
 exclusivebrass.com
 eyeblaster.com
 fixespreoccupation.com
-framestighterauthorize.com
 frightenedpotato.com
 futuristicfairies.com
 go.mobisla.com
@@ -201,12 +194,12 @@ sitegoto.com
 smilingwaves.com
 speakspurink.com
 spywarelabs.com
-static.scptpx.com
 stichaur.net
 stormyachiever.com
 strivesidewalk.com
 supapush.net
 svkmxwssih.com
+tagmngrs.com
 tccnqgnmeveay.com
 thirstytwig.com
 tracker-pm2.spilleren.com
