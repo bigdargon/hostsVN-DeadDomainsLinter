@@ -81,10 +81,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -154,6 +150,7 @@ euros4click.de
 exclusivebrass.com
 eyeblaster.com
 fixespreoccupation.com
+framestighterauthorize.com
 frightenedpotato.com
 futuristicfairies.com
 go.mobisla.com
@@ -218,6 +215,7 @@ stormyachiever.com
 strivesidewalk.com
 supapush.net
 svkmxwssih.com
+tagmngrs.com
 tccnqgnmeveay.com
 thirstytwig.com
 tracker-pm2.spilleren.com
