@@ -47,6 +47,8 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
+aj2274.online
+aj2430.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -211,6 +213,7 @@ stormyachiever.com
 strivesidewalk.com
 supapush.net
 svkmxwssih.com
+tagmngrs.com
 tccnqgnmeveay.com
 thirstytwig.com
 tracker-pm2.spilleren.com
