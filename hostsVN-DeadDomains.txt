@@ -47,6 +47,7 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
+aj2430.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -149,7 +150,6 @@ ejyymghi.com
 elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
-fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 futuristicfairies.com
@@ -216,7 +216,6 @@ tccnqgnmeveay.com
 thirstytwig.com
 tracker-pm2.spilleren.com
 tranquilside.com
-trendcounter.com
 u1pmt.com
 unknowntray.com
 unphionetor.com
