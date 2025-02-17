@@ -31,7 +31,6 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
-s.kau.li
 y.kau.li
 native.propellerclick.com
 api.sociaplus.com
@@ -91,8 +90,6 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
@@ -103,7 +100,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -159,14 +155,11 @@ elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
 fixespreoccupation.com
-frightenedpotato.com
 futuristicfairies.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
-greyinstrument.com
 h2aek6rv0ard.com
-h78xb.pw
 ilbanner.com
 importedincrease.com
 impressionz.co.uk
@@ -190,7 +183,6 @@ newstarads.com
 nwhnzkbfsnpf.com
 oahaurti.com
 oarouwousti.com
-observantice.com
 oewabox.at
 offvmuf.com
 onmarshtompor.com
@@ -206,7 +198,6 @@ quarterserver.de
 quenchskirmishcohere.com
 qxadsk.com
 receptiveink.com
-resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
 rsalcau.com
@@ -233,12 +224,10 @@ untidyquestion.com
 upgastlyr.com
 uzxkuwalnjp.com
 valuationbothertoo.com
-vibrantmedia.com
 virleth.com
 visualrevenue.com
 vstvstsa.com
 wateryvan.com
-webpower.com
 wellmadefrog.com
 www.money4exit.de
 xovq5nemr.com
