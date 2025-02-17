@@ -100,8 +100,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 log.vnfinance.vn
@@ -156,6 +154,7 @@ fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 futuristicfairies.com
+galaxien.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
