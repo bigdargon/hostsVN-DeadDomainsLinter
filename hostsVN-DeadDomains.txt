@@ -47,7 +47,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-aj2430.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -151,7 +150,6 @@ elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
 fixespreoccupation.com
-framestighterauthorize.com
 frightenedpotato.com
 futuristicfairies.com
 go.mobisla.com
