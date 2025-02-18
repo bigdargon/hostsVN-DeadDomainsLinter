@@ -34,16 +34,6 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 aj1754.online
