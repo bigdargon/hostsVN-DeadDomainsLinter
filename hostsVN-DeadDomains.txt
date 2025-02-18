@@ -107,6 +107,7 @@ static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ads.autonet.com.vn
+an.dongphim.net
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -142,7 +143,6 @@ chickensstation.com
 chinsnakes.com
 consciouschairs.com
 cyjprljyvgqeg.com
-dckifhpovvbpb.com
 decisiveducks.com
 delegatediscussion.com
 deligrassdull.com
@@ -171,7 +171,6 @@ ilbanner.com
 importedincrease.com
 impressionz.co.uk
 innocentwax.com
-ivwbox.de
 jadeitite.com
 jhxakdmdlz.com
 jncdvibhdaddmu.com
@@ -228,6 +227,7 @@ strivesidewalk.com
 supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
+thiem-csl.com
 thirstytwig.com
 tracker-pm2.spilleren.com
 tranquilside.com
