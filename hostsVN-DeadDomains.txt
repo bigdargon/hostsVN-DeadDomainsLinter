@@ -107,7 +107,6 @@ static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ads.autonet.com.vn
-an.dongphim.net
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -227,7 +226,6 @@ strivesidewalk.com
 supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
-thiem-csl.com
 thirstytwig.com
 tracker-pm2.spilleren.com
 tranquilside.com
