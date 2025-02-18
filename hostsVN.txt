@@ -1,4 +1,4 @@
-# Version: 2502171519
+# Version: 2502180941
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -16688,6 +16688,8 @@
 ||tipslyrev.com^
 ||tirosagalite.com^
 ||tixoxzfpur.com^
+||tkivhuluzcwi.com^
+||tkoqgxnvt.com^
 ||tlvmedia.com^
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^

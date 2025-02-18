@@ -1,4 +1,4 @@
-# Version: 2502161602
+# Version: 2502180941
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -88592,6 +88592,7 @@
 ||www.chance.cz^
 ||www.chicken88.me^
 ||www.chicken88.xyz^
+||www.chplay-chrome.com^
 ||www.cmd368.live^
 ||www.cmd368.online^
 ||www.cmd368t.com^
