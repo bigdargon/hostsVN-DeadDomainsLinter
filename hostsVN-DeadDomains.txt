@@ -94,6 +94,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
+mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -103,7 +104,6 @@ ad1.emediate.dk
 adbrn.com
 ads.foxnetworks.com
 adtoma.com
-advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -128,7 +128,6 @@ carscannon.com
 chickensstation.com
 chinsnakes.com
 consciouschairs.com
-crowdgravity.com
 cyjprljyvgqeg.com
 decisiveducks.com
 delegatediscussion.com
@@ -141,13 +140,11 @@ ejyymghi.com
 elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
-findcommerce.com
 fixespreoccupation.com
 frightenedpotato.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
-galaxien.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
@@ -165,7 +162,6 @@ js.xzjhome.cc
 klkchits.com
 lowseelan.com
 lp3tdqle.com
-mathcountryside.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
