@@ -100,9 +100,6 @@ track.atdnetwork.com
 kabbmedia.com
 mautic.educe.vn
 mautic.serverhub.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -149,6 +146,7 @@ broadboundary.com
 broaddoor.com
 calculatingtoothbrush.com
 carscannon.com
+casalmedia.com
 chickensstation.com
 chinsnakes.com
 consciouschairs.com
@@ -172,6 +170,7 @@ frightenedpotato.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
+gloalrie.com
 go.mobisla.com
 go.padstm.com
 greatlove.pro
