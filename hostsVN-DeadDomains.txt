@@ -59,8 +59,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 pgmcdn.com
-cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 delivery.adsterra.org
 ad-track.adiiix.com
 ads.adiiix.com
@@ -91,6 +89,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
+ad.chieuhoa.com
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -110,7 +109,6 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
-banner.casino.net
 bawdybeast.com
 baypops.com
 beklefkiom.com
