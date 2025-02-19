@@ -25,15 +25,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 beacon.statful.com
 static.cbsileads.com
@@ -106,7 +97,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-ads.autonet.com.vn
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -153,7 +143,6 @@ ejyymghi.com
 elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
-fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 ftte.xyz
