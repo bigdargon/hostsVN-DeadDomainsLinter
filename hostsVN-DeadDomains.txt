@@ -23,8 +23,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 beacon.statful.com
 static.cbsileads.com
 aj1754.online
