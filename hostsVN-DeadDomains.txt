@@ -86,8 +86,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
@@ -96,7 +94,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -142,7 +139,6 @@ ejyymghi.com
 elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
-fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 ftte.xyz
