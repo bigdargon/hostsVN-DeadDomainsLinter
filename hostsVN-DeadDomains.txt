@@ -25,7 +25,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-native.propellerclick.com
 beacon.statful.com
 static.cbsileads.com
 aj1754.online
@@ -143,6 +142,7 @@ ejyymghi.com
 elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
+fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 ftte.xyz
@@ -155,7 +155,6 @@ greyinstrument.com
 gyfumobo.com
 h2aek6rv0ard.com
 h78xb.pw
-ilbanner.com
 importedincrease.com
 impressionz.co.uk
 innocentwax.com
