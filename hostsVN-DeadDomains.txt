@@ -24,7 +24,6 @@ aj1863.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
-server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -97,6 +96,7 @@ ads.inetgroup.vn
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
+tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 abruptroad.com
@@ -226,7 +226,6 @@ u1pmt.com
 uktwvhfezyvxn.com
 unknowntray.com
 unphionetor.com
-unstoutgolfs.com
 untidyquestion.com
 upgastlyr.com
 uzxkuwalnjp.com
