@@ -17,12 +17,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 beacon.statful.com
 static.cbsileads.com
 aj1754.online
@@ -185,7 +179,6 @@ js.xzjhome.cc
 klkchits.com
 lowseelan.com
 lp3tdqle.com
-mathcountryside.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
@@ -194,7 +187,6 @@ mobisla.com
 moodokay.com
 moomenog.com
 myntelligence.com
-namol.xyz
 naturalistsbumpmystic.com
 nauzaphoay.net
 newstarads.com
@@ -221,7 +213,6 @@ rjkrefyqrixk.com
 rsalcau.com
 ruwertur.com
 sendmepixel.com
-shakytaste.com
 sitegoto.com
 smilingwaves.com
 speakspurink.com
