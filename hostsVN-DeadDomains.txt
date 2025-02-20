@@ -86,11 +86,6 @@ wakeup.klick.vn
 wakeup247.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 kabbmedia.com
 mautic.educe.vn
 mautic.serverhub.vn
@@ -175,6 +170,7 @@ jadeitite.com
 jhxakdmdlz.com
 jncdvibhdaddmu.com
 js.xzjhome.cc
+katukaunamiss.com
 klkchits.com
 lowseelan.com
 lp3tdqle.com
