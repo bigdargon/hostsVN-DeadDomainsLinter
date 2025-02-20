@@ -24,6 +24,7 @@ aj1863.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
+server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -141,7 +142,6 @@ dendranthe4edm7um.com
 denetsuk.com
 dk4ywix.com
 drydrum.com
-dsp.io
 efyglwbapki.com
 ejyymghi.com
 elephantqueue.com
