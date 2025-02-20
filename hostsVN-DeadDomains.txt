@@ -84,8 +84,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 kabbmedia.com
 mautic.educe.vn
 mautic.serverhub.vn
