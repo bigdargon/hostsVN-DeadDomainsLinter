@@ -17,7 +17,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
@@ -170,10 +169,11 @@ katukaunamiss.com
 klkchits.com
 lowseelan.com
 lp3tdqle.com
-mallogrow.com
+mathcountryside.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
+mgbid.net
 mkkvprwskq.com
 mobisla.com
 moodokay.com
