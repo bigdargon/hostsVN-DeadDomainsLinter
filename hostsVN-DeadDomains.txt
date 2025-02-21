@@ -30,11 +30,6 @@ zalorasg.api.sociaplus.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 admin.runative.com
 api.runative.com
 auth.runative.com
@@ -167,7 +162,6 @@ chickensstation.com
 chinsnakes.com
 cjbmanagement.com
 consciouschairs.com
-craveandlamb.com
 cyjprljyvgqeg.com
 decisiveducks.com
 delegatediscussion.com
@@ -206,7 +200,6 @@ katukaunamiss.com
 klkchits.com
 lowseelan.com
 lp3tdqle.com
-mallogrow.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
