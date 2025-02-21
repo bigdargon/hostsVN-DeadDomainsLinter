@@ -78,7 +78,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-image.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 appcloud.ironbeast.io
@@ -198,6 +197,7 @@ katukaunamiss.com
 klkchits.com
 lowseelan.com
 lp3tdqle.com
+mallogrow.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
