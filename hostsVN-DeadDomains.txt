@@ -121,6 +121,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
+mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -129,7 +130,6 @@ ad.foxnetworks.com
 adcloud.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -198,10 +198,10 @@ katukaunamiss.com
 klkchits.com
 lowseelan.com
 lp3tdqle.com
-mallogrow.com
 messagenovice.com
 metahv.xyz
 mg2connext.com
+mgbid.net
 mkkvprwskq.com
 mobisla.com
 moodokay.com
@@ -222,6 +222,8 @@ pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
+pr-ten.de
+praddpro.de
 quaintcan.com
 quenchskirmishcohere.com
 qxadsk.com
