@@ -78,8 +78,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -110,6 +108,7 @@ ad.chieuhoa.com
 ads.inetgroup.vn
 analytics.amedigital.vn
 1-1ads.com
+228tuchuang.com
 abruptroad.com
 ad.foxnetworks.com
 adcloud.net
@@ -222,6 +221,7 @@ resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
 rsalcau.com
+rtbpopd.com
 ruwertur.com
 shakytaste.com
 sitegoto.com
