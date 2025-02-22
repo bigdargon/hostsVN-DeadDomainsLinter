@@ -71,9 +71,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -128,7 +125,6 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
@@ -251,7 +247,6 @@ shakytaste.com
 sitegoto.com
 smilingwaves.com
 speakspurink.com
-spywarelabs.com
 static-ads.akamaized.net
 stichaur.net
 stormyachiever.com
