@@ -17,15 +17,8 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -114,7 +107,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -125,7 +117,6 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
-upfile16.mediaphim.com
 analytics.amedigital.vn
 1-1ads.com
 abruptroad.com
