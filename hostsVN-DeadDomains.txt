@@ -31,14 +31,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -116,6 +108,7 @@ ads.foxnetworks.com
 adsclick.cc
 afcnuchxgo.com
 agxoxnyum.com
+alebrinkfed.com
 allstarmediagroup.com
 apprebates.com
 asgclickpop.com
@@ -139,6 +132,7 @@ chickensstation.com
 chinsnakes.com
 consciouschairs.com
 cyjprljyvgqeg.com
+dalysb.com
 dckifhpovvbpb.com
 decisiveducks.com
 delegatediscussion.com
@@ -180,6 +174,7 @@ jozowgldpc.com
 js.xzjhome.cc
 katukaunamiss.com
 klkchits.com
+ligeia-gip.com
 lowseelan.com
 lp3tdqle.com
 mallogrow.com
@@ -228,6 +223,7 @@ stormyachiever.com
 strivesidewalk.com
 supapush.net
 svkmxwssih.com
+syndetstermine.com
 tccnqgnmeveay.com
 thhwzyuktk.com
 thirstytwig.com
