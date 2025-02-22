@@ -58,7 +58,6 @@ t.imstks.com
 www.imstks.com
 c.netund.com
 netund.com
-pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 delivery.adsterra.org
@@ -90,9 +89,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -108,7 +104,6 @@ ads.foxnetworks.com
 adsclick.cc
 afcnuchxgo.com
 agxoxnyum.com
-alebrinkfed.com
 allstarmediagroup.com
 apprebates.com
 asgclickpop.com
@@ -132,7 +127,6 @@ chickensstation.com
 chinsnakes.com
 consciouschairs.com
 cyjprljyvgqeg.com
-dalysb.com
 dckifhpovvbpb.com
 decisiveducks.com
 delegatediscussion.com
@@ -174,7 +168,6 @@ jozowgldpc.com
 js.xzjhome.cc
 katukaunamiss.com
 klkchits.com
-ligeia-gip.com
 lowseelan.com
 lp3tdqle.com
 mallogrow.com
@@ -223,7 +216,6 @@ stormyachiever.com
 strivesidewalk.com
 supapush.net
 svkmxwssih.com
-syndetstermine.com
 tccnqgnmeveay.com
 thhwzyuktk.com
 thirstytwig.com
