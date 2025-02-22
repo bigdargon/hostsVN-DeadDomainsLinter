@@ -17,8 +17,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-clk.kau.li
-js.kau.li
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -75,7 +73,6 @@ bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
-stats.showcasethat.com
 xml.showcasethat.com
 network.adclickmedia.com
 tracking.adclickmedia.com
@@ -86,7 +83,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-cdn.ggsfq.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
