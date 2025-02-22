@@ -69,11 +69,6 @@ engine.bitmedianetwork.com
 www.bitmedianetwork.com
 pgmcdn.com
 delivery.adsterra.org
-bidadx.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-xml.showcasethat.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 appcloud.ironbeast.io
@@ -118,7 +113,6 @@ analytics.amedigital.vn
 abruptroad.com
 ad.foxnetworks.com
 adcloud.net
-ads.bumq.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 adsclick.cc
