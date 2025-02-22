@@ -64,18 +64,10 @@ t.imstks.com
 www.imstks.com
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 pgmcdn.com
 delivery.adsterra.org
 network.adclickmedia.com
 tracking.adclickmedia.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 fp-cdn.azureedge.net
@@ -108,7 +100,6 @@ ad.chieuhoa.com
 ads.inetgroup.vn
 analytics.amedigital.vn
 1-1ads.com
-228tuchuang.com
 abruptroad.com
 ad.foxnetworks.com
 adcloud.net
@@ -221,7 +212,6 @@ resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
 rsalcau.com
-rtbpopd.com
 ruwertur.com
 shakytaste.com
 sitegoto.com
