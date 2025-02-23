@@ -59,8 +59,6 @@ www.imstks.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 delivery.adsterra.org
-network.adclickmedia.com
-tracking.adclickmedia.com
 ad-track.adiiix.com
 ads.adiiix.com
 fp-cdn.azureedge.net
@@ -71,6 +69,7 @@ pssy.xyz
 r.pssy.xyz
 s.pssy.xyz
 www.pssy.xyz
+aj2570.bid
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
