@@ -53,6 +53,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 delivery.adsterra.org
+image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
 fp-cdn.azureedge.net
@@ -70,6 +71,8 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -77,6 +80,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -87,8 +91,10 @@ analytics.amedigital.vn
 1-1ads.com
 abruptroad.com
 ad.foxnetworks.com
+adrevolver.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+adsage.com
 adsclick.cc
 afcnuchxgo.com
 agxoxnyum.com
@@ -100,6 +106,7 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
+bannerconnect.net
 bawdybeast.com
 baypops.com
 beklefkiom.com
@@ -183,6 +190,7 @@ petasusawber.com
 petiteumbrella.com
 photographpan.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qxadsk.com
 receptiveink.com
@@ -207,8 +215,10 @@ thhwzyuktk.com
 thirstytwig.com
 tkoqgxnvt.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 trendcounter.com
+trustisimportant.fun
 u1pmt.com
 uktwvhfezyvxn.com
 unknowntray.com
@@ -222,6 +232,7 @@ vibrantmedia.com
 virleth.com
 vstvstsa.com
 wateryvan.com
+webpower.com
 wellmadefrog.com
 www.money4exit.de
 xovq5nemr.com
