@@ -26,7 +26,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-static.cbsileads.com
 aj1754.online
 aj1863.online
 classic.marketolive.com
