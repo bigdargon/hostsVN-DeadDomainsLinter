@@ -26,7 +26,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
@@ -49,7 +48,6 @@ static.lalaping.com
 o.wowreality.info
 r.wowreality.info
 wowreality.info
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
