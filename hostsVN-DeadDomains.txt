@@ -87,7 +87,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -236,6 +235,7 @@ vibrantmedia.com
 virleth.com
 vstvstsa.com
 wateryvan.com
+wauthaik.net
 wellmadefrog.com
 www.money4exit.de
 xovq5nemr.com
