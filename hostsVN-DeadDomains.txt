@@ -88,7 +88,6 @@ track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-mautic.educe.vn
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -143,6 +142,7 @@ elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
 facebookad.for88vn.com
+fagywalu.pro
 fixespreoccupation.com
 frightenedpotato.com
 frllfmjaku.com
