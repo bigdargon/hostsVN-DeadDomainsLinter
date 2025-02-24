@@ -16,16 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 aj1754.online
 aj1863.online
 classic.marketolive.com
