@@ -1,4 +1,4 @@
-# Version: 2502250944
+# Version: 2502251403
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10195,6 +10195,8 @@
 ||tpstelemetry.tencent.com^
 ||privacy-policy.truste.com^
 ||trackerapi.truste.com^
+||go.goadserver.com^
+||goadserver.com^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -12991,6 +12993,7 @@
 ||aps.hearstnp.com^
 ||apture.com^
 ||apusx.com^
+||apxszeaj.com^
 ||apzdfakiso.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqncinxrexa.com^
@@ -14357,6 +14360,7 @@
 ||galaxien.com^
 ||galepush.net^
 ||galopelikeantelope.com^
+||gaseousgeneral.com^
 ||gatetodisplaycontent.com^
 ||gaunchdelimes.com^
 ||gaut-hil.com^
@@ -14425,6 +14429,7 @@
 ||go.padstm.com^
 ||go.rmishe.com^
 ||go.xlivrdr.com^
+||go1.reacheffecti.work^
 ||go2affise.com^
 ||go6shde9nj2itle.com^
 ||goadservices.com^
@@ -15196,6 +15201,7 @@
 ||mintegral.com^
 ||mintrace.com^
 ||mirohqodlf.com^
+||miserablenobody.com^
 ||misguidedclotpensioner.com^
 ||missitzantiot.com^
 ||misstrends.com^
@@ -17073,6 +17079,7 @@
 ||waufooke.com^
 ||waust.at^
 ||wauthaik.net^
+||waxa-direct.info^
 ||waymarkgentiin.com^
 ||wbilvnmool.com^
 ||wcuamsmakq.com^
@@ -17347,6 +17354,7 @@
 ||yougotacheck.com^
 ||youradexchange.com^
 ||yovqnwnmpzz.com^
+||ypmtvlaktm.com^
 ||yqmxfz.com^
 ||yrhnw7h63.com^
 ||yrumdfslwabv.com^
