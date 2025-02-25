@@ -64,8 +64,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 k8s2.testcentre.vn
 testcentre.vn
 cdn.wataads.com
