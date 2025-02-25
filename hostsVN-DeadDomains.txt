@@ -66,11 +66,6 @@ wakeup.klick.vn
 wakeup247.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 cdn.wataads.com
@@ -239,4 +234,3 @@ zbwp6ghm.com
 zeegreen.net
 burstly.com
 go.ad1data.com
-richmetrics.com
