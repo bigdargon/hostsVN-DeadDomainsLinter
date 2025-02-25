@@ -1,4 +1,4 @@
-# Version: 2502241413
+# Version: 2502250944
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14340,6 +14340,7 @@
 ||futurehybrid.tech^
 ||futuristicapparatus.com^
 ||futuristicfairies.com^
+||fuwalrnce.com^
 ||fwilmdact.com^
 ||fxclix.com^
 ||fxstyle.net^
@@ -15381,6 +15382,7 @@
 ||nicksstevmark.com^
 ||nicohgokppuj.com^
 ||nightmareirene.com^
+||niltelreekrofik.net^
 ||nimhuemark.com^
 ||nimrute.com^
 ||nipplelair.com^
@@ -16391,6 +16393,7 @@
 ||smopy.com^
 ||smowtion.com^
 ||smsecure-ad.com^
+||smstcksjn.com^
 ||snailthreatenedinvited.com^
 ||snakeslang.com^
 ||snapgiant.com^
@@ -16945,6 +16948,7 @@
 ||utarget.ru^
 ||utils.mediageneral.net^
 ||utubepwhml.com^
+||uuomdlaslopcrx.com^
 ||uwoaptee.com^
 ||uyunad.com^
 ||uzxkuwalnjp.com^
