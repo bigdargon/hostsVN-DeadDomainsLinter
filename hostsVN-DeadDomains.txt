@@ -92,8 +92,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 analytics.amedigital.vn
@@ -201,16 +199,13 @@ observantice.com
 oewabox.at
 offvmuf.com
 onmarshtompor.com
-orige-duo.com
 padstm.com
-parentlargevia.com
 pasheeheghie.net
 pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
 pixel.personagraph.com
-pramviable.com
 quaintcan.com
 quenchskirmishcohere.com
 qxadsk.com
@@ -235,7 +230,6 @@ supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
 thhwzyuktk.com
-thiem-csl.com
 thirstytwig.com
 tkoqgxnvt.com
 tranquilside.com
