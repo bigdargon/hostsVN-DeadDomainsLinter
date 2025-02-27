@@ -1,4 +1,3 @@
-googleads-cn.com
 activity.serving-sys.com
 bs.serving-sys.com
 bsch.serving-sys.com
