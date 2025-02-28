@@ -60,7 +60,6 @@ bidadx.com
 image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-wensixuetang.com
 cdn.ggsfq.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -93,7 +92,6 @@ ad.foxnetworks.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-adsage.cn
 adsage.com
 adsclick.cc
 adsrv.wtf
