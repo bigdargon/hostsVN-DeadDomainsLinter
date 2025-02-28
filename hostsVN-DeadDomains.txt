@@ -16,6 +16,8 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+beacon.statful.com
+static.cbsileads.com
 aj1754.online
 aj1863.online
 admin.runative.com
@@ -26,6 +28,12 @@ rotator.staging.runative.com
 single.runative.com
 staging.runative.com
 static.runative.com
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -52,6 +60,8 @@ c.netund.com
 netund.com
 bidadx.com
 image.b91vip.com
+network.adclickmedia.com
+tracking.adclickmedia.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.ggsfq.com
@@ -66,6 +76,11 @@ www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -79,15 +94,20 @@ ad.chieuhoa.com
 ads.inetgroup.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
+vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 4d5.net
 abruptroad.com
 ad.foxnetworks.com
+adcloud.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 adsage.com
 adsclick.cc
+adserver1.mindshare.de
+adserver2.mindshare.de
+adshostnet.com
 adsrv.wtf
 adxpose.com
 afcnuchxgo.com
@@ -101,6 +121,8 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
+banner.casino.net
+banner.mindshare.de
 bawdybeast.com
 baypops.com
 beklefkiom.com
@@ -114,6 +136,7 @@ calculatingtoothbrush.com
 carscannon.com
 chickensstation.com
 chinsnakes.com
+cjbmanagement.com
 consciouschairs.com
 cyjprljyvgqeg.com
 dckifhpovvbpb.com
@@ -122,6 +145,7 @@ delegatediscussion.com
 deligrassdull.com
 deliver.vkcdnservice.com
 dendranthe4edm7um.com
+diedstubbornforge.com
 dk4ywix.com
 drydrum.com
 dzienkudrow.com
@@ -133,6 +157,7 @@ exclusivebrass.com
 eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+fagywalu.pro
 fixespreoccupation.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -165,6 +190,7 @@ klkchits.com
 knurleddeblock.guru
 lowseelan.com
 lp3tdqle.com
+marasgumpus.com
 messagenovice.com
 messenger-notify.digital
 metahv.xyz
@@ -195,6 +221,7 @@ quaintcan.com
 quenchskirmishcohere.com
 qxadsk.com
 receptiveink.com
+reinvigorate.net
 resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
@@ -222,6 +249,7 @@ tracker-pm2.spilleren.com
 tranquilside.com
 trustisimportant.fun
 u1pmt.com
+uhealth.care
 uktwvhfezyvxn.com
 unknowntray.com
 unphionetor.com
@@ -232,12 +260,12 @@ uzxkuwalnjp.com
 valuationbothertoo.com
 vibrantmedia.com
 virleth.com
+visualrevenue.com
 vstvstsa.com
 wateryvan.com
 wellmadefrog.com
 www.money4exit.de
 xovq5nemr.com
-xxxmyself.com
 xymhdmqrjxwl.com
 ycxajdcpesguqh.com
 ylcziaipyztvv.com
