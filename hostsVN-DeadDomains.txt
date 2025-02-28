@@ -55,9 +55,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 delivery.adsterra.org
 bidadx.com
 image.b91vip.com
@@ -96,10 +93,10 @@ ad.foxnetworks.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+adsage.cn
 adsage.com
 adsclick.cc
 adsrv.wtf
-advariant.com
 adxpose.com
 afcnuchxgo.com
 agxoxnyum.com
@@ -232,7 +229,6 @@ thirstytwig.com
 tkoqgxnvt.com
 tracker-pm2.spilleren.com
 tranquilside.com
-trendcounter.com
 trustisimportant.fun
 u1pmt.com
 uktwvhfezyvxn.com
