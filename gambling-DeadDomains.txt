@@ -786,6 +786,7 @@
 472355.com
 47253e.com
 4775641.com
+47769.com
 479yb.com
 481yb.com
 482138.com
@@ -1708,7 +1709,6 @@
 8jbet03.com
 8jbet04.com
 8jbet05.com
-8jbet06.com
 8jbet07.com
 8jbet08.com
 8jbet09.com
@@ -1966,6 +1966,7 @@ am5136.com
 ambcw3.com
 ambcw4.com
 ambcw5.com
+amjs6.net
 amp-slots.com
 ap-009-llkkl-11922.com
 ap66ap77.com
@@ -1975,7 +1976,10 @@ api.118kbet.com
 api.go88r.pro
 api.i9bet108.com
 api.i9bet34.com
+<<<<<<< Updated upstream
 api.i9bet36.com
+=======
+>>>>>>> Stashed changes
 api.mu88.mu
 api.ok689d.com
 api.ok689f.com
@@ -2006,7 +2010,11 @@ b5211.com
 b5530.com
 b58882.com
 b6411.com
+<<<<<<< Updated upstream
 b6610.com
+=======
+b6653.com
+>>>>>>> Stashed changes
 b697.net
 b69779.com
 b7783.com
@@ -2259,6 +2267,7 @@ five-88.net
 five-appyuming.com
 fjd6677.com
 fjiafggr.com
+for881476.com
 for88vn.com
 fun136.com
 fun2221.com
@@ -2384,7 +2393,11 @@ iwin8686.com
 iwintanthu.club
 iwintanthu.com
 iwintanthu.net
+<<<<<<< Updated upstream
 iwontest.vip
+=======
+iwon40514.xyz
+>>>>>>> Stashed changes
 iyuyd.xyz
 j34034.com
 j697.net
@@ -2448,7 +2461,6 @@ k8cc.plus
 k8cc.today
 k8cc11.com
 k8ccbanca.com
-k8ccc.com
 k8ccnohu.com
 k8city.com
 k8dl10.com
@@ -2511,6 +2523,8 @@ kty0615.com
 ktyadq.com
 ku11.icu
 ku19.net
+ku193.net
+ku238.com
 ku5722.net
 ku6108.icu
 kurpantila.com
@@ -3051,6 +3065,7 @@ y6club.com
 y82d.com
 y99vip1.com
 yab360.com
+yabet44.com
 ybh33333.vip
 ybh99999.vip
 ybl-7777.com
@@ -3102,5 +3117,6 @@ zbo9c.com
 zf39660.com
 zhichengyq.net
 zippo2kc9.vip
+zp80360.com
 zr2566.com
 zrwxjyjxt.com
