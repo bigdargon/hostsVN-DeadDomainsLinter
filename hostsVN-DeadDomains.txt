@@ -50,8 +50,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-ad-track.adiiix.com
-ads.adiiix.com
 cdn.ggsfq.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -72,7 +70,6 @@ track.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
