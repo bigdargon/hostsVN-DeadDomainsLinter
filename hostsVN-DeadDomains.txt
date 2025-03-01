@@ -20,14 +20,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -108,7 +100,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrv.wtf
-adxpose.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -182,7 +173,6 @@ jncdvibhdaddmu.com
 jozowgldpc.com
 js.xzjhome.cc
 jucysh.com
-jugjetwok.com
 katukaunamiss.com
 klkchits.com
 knurleddeblock.guru
@@ -214,6 +204,7 @@ pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
+pr-ten.de
 pushazer.com
 quaintcan.com
 quenchskirmishcohere.com
@@ -263,7 +254,6 @@ vstvstsa.com
 wateryvan.com
 wellmadefrog.com
 www.money4exit.de
-www.servsave.com
 xovq5nemr.com
 xymhdmqrjxwl.com
 ycxajdcpesguqh.com
@@ -271,4 +261,3 @@ ylcziaipyztvv.com
 yonomastara.com
 zbwp6ghm.com
 go.ad1data.com
-usergrid.com
