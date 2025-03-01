@@ -20,12 +20,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -48,7 +42,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-bidadx.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 ad-track.adiiix.com
@@ -94,7 +87,6 @@ adsage.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -142,6 +134,7 @@ exclusivebrass.com
 eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+fagywalu.pro
 fixespreoccupation.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -149,7 +142,6 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
-galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -176,7 +168,6 @@ knurleddeblock.guru
 lowseelan.com
 lp3tdqle.com
 marasgumpus.com
-mathcountryside.com
 messagenovice.com
 messenger-notify.digital
 metahv.xyz
