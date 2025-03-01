@@ -42,8 +42,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-network.adclickmedia.com
-tracking.adclickmedia.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.ggsfq.com
@@ -181,6 +179,7 @@ namol.xyz
 naturalistsbumpmystic.com
 nauzaphoay.net
 newstarads.com
+nvcrcf.com
 nwhnzkbfsnpf.com
 oahaurti.com
 oarouwousti.com
