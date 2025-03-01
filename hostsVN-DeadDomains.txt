@@ -8,7 +8,6 @@ dh.serving-sys.com
 ds.serving-sys.com
 ds-ll.serving-sys.com
 ds-vn.serving-sys.com
-gs.serving-sys.com
 gizmo.serving-sys.com
 gizmo-s.serving-sys.com
 lm.serving-sys.com
@@ -145,7 +144,6 @@ exclusivebrass.com
 eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
-fagywalu.pro
 fixespreoccupation.com
 frameworkdeserve.com
 frightenedpotato.com
