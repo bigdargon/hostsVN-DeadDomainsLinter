@@ -56,11 +56,6 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 aj3007.bid
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 mautic.educe.vn
