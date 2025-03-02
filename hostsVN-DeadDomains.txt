@@ -67,7 +67,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 mautic.educe.vn
@@ -96,7 +95,6 @@ adserver2.mindshare.de
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
-api.ampiri.com
 apprebates.com
 asgclickpop.com
 aulteeby.net
@@ -141,7 +139,6 @@ exclusivebrass.com
 eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
-fagywalu.pro
 fixespreoccupation.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -199,6 +196,7 @@ oarouwousti.com
 observantice.com
 offvmuf.com
 onmarshtompor.com
+ovlliiwtxgjlz.com
 padstm.com
 pasheeheghie.net
 pebadu.com
