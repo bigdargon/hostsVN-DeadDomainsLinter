@@ -21,9 +21,6 @@ beacon.statful.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-brand.ad
-a.brand.ad
-www.brand.ad
 madsecz.com
 advinci.net
 count.advinci.net
@@ -40,9 +37,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 click.showcasethat.com
@@ -62,6 +56,7 @@ www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+aj3007.bid
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -112,6 +107,7 @@ bestadbid.com
 blacknesskeepplan.com
 broadboundary.com
 broaddoor.com
+btcadtop.com
 calculatingtoothbrush.com
 carscannon.com
 chickensstation.com
@@ -173,6 +169,7 @@ katukaunamiss.com
 klkchits.com
 knurleddeblock.guru
 leadingedgecash.com
+liquidad.narrowcastmedia.com
 lowseelan.com
 lp3tdqle.com
 marasgumpus.com
@@ -196,7 +193,6 @@ oarouwousti.com
 observantice.com
 offvmuf.com
 onmarshtompor.com
-ovlliiwtxgjlz.com
 padstm.com
 pasheeheghie.net
 pebadu.com
