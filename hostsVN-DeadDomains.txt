@@ -37,10 +37,6 @@ t.imstks.com
 www.imstks.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-click.showcasethat.com
-images.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -101,7 +97,6 @@ calculatingtoothbrush.com
 carscannon.com
 chickensstation.com
 chinsnakes.com
-cjbmanagement.com
 consciouschairs.com
 cyjprljyvgqeg.com
 dckifhpovvbpb.com
@@ -130,7 +125,6 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
-galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -149,7 +143,6 @@ jadeitite.com
 jhxakdmdlz.com
 jncdvibhdaddmu.com
 jozowgldpc.com
-jpjmpqaupc.com
 js.xzjhome.cc
 jucysh.com
 jugjetwok.com
@@ -157,7 +150,6 @@ katukaunamiss.com
 klkchits.com
 knurleddeblock.guru
 leadingedgecash.com
-loopassume.com
 lowseelan.com
 lp3tdqle.com
 marasgumpus.com
@@ -179,16 +171,12 @@ oarouwousti.com
 observantice.com
 offvmuf.com
 onmarshtompor.com
-ovlliiwtxgjlz.com
 padstm.com
-parentlargevia.com
 pasheeheghie.net
-passion-4.net
 pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
-prosecutioncredulity.com
 pushazer.com
 quaintcan.com
 quarterserver.de
@@ -219,7 +207,6 @@ supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
 thhwzyuktk.com
-thiem-csl.com
 thirstytwig.com
 tkoqgxnvt.com
 tranquilside.com
@@ -240,7 +227,6 @@ visualrevenue.com
 vstvstsa.com
 wateryvan.com
 wellmadefrog.com
-wholesaletraffic.info
 www.money4exit.de
 xovq5nemr.com
 xymhdmqrjxwl.com
@@ -250,4 +236,3 @@ yonomastara.com
 zbwp6ghm.com
 zeegreen.net
 go.ad1data.com
-smart-dmp.com
