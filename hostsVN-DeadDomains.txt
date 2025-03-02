@@ -17,7 +17,6 @@ origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
 beacon.statful.com
-static.cbsileads.com
 aj1754.online
 aj1863.online
 madsecz.com
@@ -43,7 +42,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-cdn.ggsfq.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -133,6 +131,7 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
+galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -158,6 +157,7 @@ katukaunamiss.com
 klkchits.com
 knurleddeblock.guru
 leadingedgecash.com
+loopassume.com
 lowseelan.com
 lp3tdqle.com
 marasgumpus.com
@@ -170,7 +170,6 @@ mobisla.com
 moodokay.com
 moomenog.com
 munchenviableski.com
-myntelligence.com
 namol.xyz
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -182,11 +181,14 @@ observantice.com
 offvmuf.com
 onmarshtompor.com
 padstm.com
+parentlargevia.com
 pasheeheghie.net
+passion-4.net
 pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
+prosecutioncredulity.com
 pushazer.com
 quaintcan.com
 quarterserver.de
@@ -217,6 +219,7 @@ supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
 thhwzyuktk.com
+thiem-csl.com
 thirstytwig.com
 tkoqgxnvt.com
 tranquilside.com
@@ -247,3 +250,4 @@ zbwp6ghm.com
 zeegreen.net
 go.ad1data.com
 showbiz.owndata.network
+smart-dmp.com
