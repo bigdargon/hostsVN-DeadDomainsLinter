@@ -71,10 +71,8 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
-mobileads.dieuviet.com
 analytics.amedigital.vn
 log.bizlive.vn
-tracking.tvet-vietnam.org
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 abruptroad.com
@@ -139,6 +137,7 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
+galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -178,6 +177,7 @@ moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+netpool.netbookia.net
 newstarads.com
 nwhnzkbfsnpf.com
 oahaurti.com
@@ -220,7 +220,6 @@ tccnqgnmeveay.com
 thhwzyuktk.com
 thirstytwig.com
 tkoqgxnvt.com
-trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
 u1pmt.com
@@ -246,7 +245,6 @@ ycxajdcpesguqh.com
 yieldads.com
 ylcziaipyztvv.com
 yonomastara.com
-zantracker.com
 zbwp6ghm.com
 zeegreen.net
 zmedia.com
