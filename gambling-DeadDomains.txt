@@ -133,7 +133,6 @@
 1106yb.com
 1107yb.com
 111133718.com
-1111yh5.com
 1112yb.com
 1118567.com
 111hch.com
@@ -649,7 +648,6 @@
 388637.com
 388751.com
 388936.com
-388corona.com
 39087.wang
 39339bb.com
 39339cc.com
@@ -2104,6 +2102,7 @@
 951yb.com
 952631.com
 952yb.com
+96317.vip
 963302.com
 9658vip.com
 9659922.com
@@ -2184,7 +2183,10 @@ ap-009-llkkl-11922.com
 ap66ap77.com
 ap6868.com
 ap6999.com
+<<<<<<< Updated upstream
 api.118kbet.com
+=======
+>>>>>>> Stashed changes
 api.go88r.pro
 api.i9bet108.com
 api.i9bet36.com
@@ -2261,6 +2263,10 @@ bbc899.com
 bc1002.com
 bc1011.com
 bc8819.com
+<<<<<<< Updated upstream
+=======
+bc9969.com
+>>>>>>> Stashed changes
 bck188.com
 bck2.com
 bck423.com
@@ -2614,7 +2620,6 @@ hy3353.com
 hy3363.com
 hy3373.com
 hy3383.com
-i.go88.org
 i0309.com
 i34034.com
 i697.net
@@ -2993,7 +2998,6 @@ playland88z.com
 pokerk8cc.com
 portal.xinloiduocchua.co
 pp9448.com
-prod.goal68.com
 q0309.com
 q034034.com
 q1800.com
@@ -3068,7 +3072,6 @@ saibo5.com
 saibo55.com
 saibo5566.com
 saibo6688.com
-saibo7788.com
 saibo8.vip
 saibo888.vip
 saibo8899.com
@@ -3339,7 +3342,6 @@ wt2985.com
 wwurfhet4iltjvfghpo785y.com
 www.58cc.live
 www.big88.one
-www.ebet.com
 www.eurofun88.com
 www.gi8vn.vip
 www.kubet77.win
