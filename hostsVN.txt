@@ -1,4 +1,4 @@
-# Version: 2503030944
+# Version: 2503031359
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -12905,6 +12905,7 @@
 ||ak0gsh40.com^
 ||akmxts.com^
 ||akunamapro.com^
+||akxopgjuw.com^
 ||alas4kanmfa6a4mubte.com^
 ||alclick.com^
 ||alebrinkfed.com^
@@ -14629,6 +14630,7 @@
 ||hotlog.ru^
 ||hotrank.com.tw^
 ||howdoesin.net^
+||hpdvgejc.com^
 ||hpikarkucasz.com^
 ||hpimavpico.com^
 ||hppvkbfcuq.com^
