@@ -16,9 +16,21 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 beacon.statful.com
 aj1754.online
 aj1863.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -77,6 +89,7 @@ log.bizlive.vn
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 abruptroad.com
+ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 adsage.com
@@ -93,8 +106,9 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
-banner.casino.net
 banner.mindshare.de
+banner.penguin.cz
+basebanner.com
 bawdybeast.com
 baypops.com
 beklefkiom.com
@@ -177,6 +191,7 @@ nwhnzkbfsnpf.com
 oahaurti.com
 oarouwousti.com
 observantice.com
+oewabox.at
 offvmuf.com
 onmarshtompor.com
 padstm.com
@@ -195,6 +210,7 @@ resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
 rngpaluydont.com
+rockabox.co
 rsalcau.com
 ruwertur.com
 sendmepixel.com
@@ -214,6 +230,7 @@ tccnqgnmeveay.com
 thhwzyuktk.com
 thirstytwig.com
 tkoqgxnvt.com
+tracker-pm2.spilleren.com
 tranquilside.com
 trustisimportant.fun
 u1pmt.com
@@ -224,6 +241,7 @@ unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
 upgastlyr.com
+uuomdlaslopcrx.com
 uzxkuwalnjp.com
 valuationbothertoo.com
 vibrantmedia.com
@@ -239,7 +257,9 @@ ycxajdcpesguqh.com
 yieldads.com
 ylcziaipyztvv.com
 yonomastara.com
+ypmtvlaktm.com
 zbwp6ghm.com
 zeegreen.net
 zmedia.com
 go.ad1data.com
+usergrid.com
