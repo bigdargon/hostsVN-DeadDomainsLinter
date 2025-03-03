@@ -1,4 +1,4 @@
-# Version: 2503021040
+# Version: 2503030944
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -179,12 +179,14 @@
 ||googlevads-cn.com^
 ||app-measurement.com^
 ||region1.app-measurement.com^
+||beacons-handoff.gcp.gvt2.com^
 ||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||beacons2.gvt2.com^
 ||beacons3.gvt2.com^
 ||beacons4.gvt2.com^
 ||beacons5.gvt2.com^
+||beacons6.gvt2.com^
 ||beacons5.gvt3.com^
 ||beacons6.gvt3.com^
 ||adtrafficquality.google^
@@ -6463,6 +6465,21 @@
 ||h-adashx.ut.taobao.com^
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
+||abtest.alibaba.com^
+||cmap.alibaba.com^
+||dmtracking.alibaba.com^
+||dmtracking2.alibaba.com^
+||fourier.alibaba.com^
+||hydra.alibaba.com^
+||stat.alibaba.com^
+||adashx.ut.alibaba.com^
+||h-adashx.ut.alibaba.com^
+||adservice.aliexpress.com^
+||fourier.aliexpress.com^
+||moduleanalysis.aliexpress.com^
+||pcookie.aliexpress.com^
+||click.aliexpress.com^
+||s.click.aliexpress.com^
 ||assets.instant.page^
 ||instant.page^
 ||serversidestats.instant.page^
@@ -12375,7 +12392,6 @@
 ||ads.advance.net^
 ||ads.adverline.com^
 ||ads.affiliates.match.com^
-||ads.alibaba.com^
 ||ads.allizom.org^
 ||ads.alt.com^
 ||ads.amdmb.com^
@@ -13999,8 +14015,6 @@
 ||dlrioxg1637dk.cloudfront.net^
 ||dmp.starbolt.io^
 ||dmtracker.com^
-||dmtracking.alibaba.com^
-||dmtracking2.alibaba.com^
 ||dmxleo.dailymotion.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dnemkhkbsdbl.com^
@@ -14351,6 +14365,7 @@
 ||fwilmdact.com^
 ||fxclix.com^
 ||fxstyle.net^
+||fyljifajkqe.com^
 ||fziwzaalp.com^
 ||g0push.com^
 ||ga-ads.com^
@@ -14411,6 +14426,7 @@
 ||glizauvo.net^
 ||gloalrie.com^
 ||gloaphoo.net^
+||gloarteegnu.com^
 ||globalismedia.com^
 ||globaltakeoff.net^
 ||globaltrack.com^
@@ -14636,7 +14652,6 @@
 ||hxgqqxopf.com^
 ||hxpohplms.com^
 ||hybrid.ai^
-||hydra.alibaba.com^
 ||hydramedia.com^
 ||hydraulzonure.com^
 ||hypelab.com^
@@ -14913,6 +14928,7 @@
 ||ku42hjr2e.com^
 ||kueezrtb.com^
 ||kuglcibhyhuj.com^
+||kugmisawqo.com^
 ||kuno-gae.com^
 ||kupona.de^
 ||kuqfudazkn.com^
@@ -16237,6 +16253,7 @@
 ||safestgatetocontent.com^
 ||sageanalyst.net^
 ||saggrowledetc.com^
+||saigopooramee.net^
 ||sailif.com^
 ||saimifoa.net^
 ||saipsoan.net^
@@ -17350,6 +17367,7 @@
 ||yieldoptimizer.com^
 ||yieldtraffic.com^
 ||yiopse.com^
+||ykqcsawnlnvsgo.com^
 ||ylcziaipyztvv.com^
 ||yldbt.com^
 ||yllaris.com^
