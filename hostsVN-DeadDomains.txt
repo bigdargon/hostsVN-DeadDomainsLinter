@@ -71,14 +71,13 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
+mobileads.dieuviet.com
 analytics.amedigital.vn
 log.bizlive.vn
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 abruptroad.com
-ad.foxnetworks.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.thrillsaffiliates.com
 adsage.com
 adsclick.cc
@@ -177,7 +176,6 @@ moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-netpool.netbookia.net
 newstarads.com
 nwhnzkbfsnpf.com
 oahaurti.com
