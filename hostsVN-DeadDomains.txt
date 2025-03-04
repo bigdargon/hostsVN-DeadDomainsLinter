@@ -24,12 +24,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 aj1754.online
 aj1863.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -46,8 +40,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 delivery.adsterra.org
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -82,7 +74,6 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
-mobileads.dieuviet.com
 analytics.amedigital.vn
 log.bizlive.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -106,7 +97,6 @@ awaps.net
 axiomaticalley.com
 b5e75c56.com
 banner.mindshare.de
-banner.penguin.cz
 basebanner.com
 bawdybeast.com
 baypops.com
@@ -254,7 +244,6 @@ ycxajdcpesguqh.com
 yieldads.com
 ylcziaipyztvv.com
 yonomastara.com
-ypmtvlaktm.com
 zbwp6ghm.com
 zeegreen.net
 zmedia.com
