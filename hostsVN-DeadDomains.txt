@@ -22,7 +22,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-beacon.statful.com
 aj1754.online
 aj1863.online
 classic.marketolive.com
