@@ -65,7 +65,6 @@ m.clevernet.vn
 www.clevernet.vn
 k8s2.testcentre.vn
 testcentre.vn
-mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
