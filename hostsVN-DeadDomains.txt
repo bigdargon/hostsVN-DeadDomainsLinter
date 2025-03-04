@@ -85,6 +85,7 @@ ads.inetgroup.vn
 mobileads.dieuviet.com
 analytics.amedigital.vn
 log.bizlive.vn
+tracking.tvet-vietnam.org
 vietnamdaily-log.trithuccuocsong.vn
 1-1ads.com
 abruptroad.com
