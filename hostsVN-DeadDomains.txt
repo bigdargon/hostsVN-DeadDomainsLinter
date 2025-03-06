@@ -49,12 +49,6 @@ aixq-streamlit.appier.xyz
 bidadx.com
 network.adclickmedia.com
 tracking.adclickmedia.com
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -91,6 +85,7 @@ adsage.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -203,7 +198,6 @@ quaintcan.com
 quenchskirmishcohere.com
 qxadsk.com
 receptiveink.com
-reinvigorate.net
 resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
