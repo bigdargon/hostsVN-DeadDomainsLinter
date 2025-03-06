@@ -16,6 +16,7 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+static.cbsileads.com
 aj1754.online
 aj1863.online
 articles.asianmedia.com
@@ -24,6 +25,12 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -46,6 +53,8 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+ad-track.adiiix.com
+ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -66,15 +75,18 @@ wakeup247.klick.vn
 clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
+adx.vn
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
+mobileads.dieuviet.com
 alexajstrack.com
 analytics.amedigital.vn
 log.bizlive.vn
 1-1ads.com
 abruptroad.com
+adbrn.com
 ads.expat-blog.biz
 adsage.com
 adsclick.cc
@@ -105,6 +117,7 @@ chickensstation.com
 chinsnakes.com
 coappreciate.com
 consciouschairs.com
+cpxadroit.com
 craveandlamb.com
 cyjprljyvgqeg.com
 dckifhpovvbpb.com
@@ -116,6 +129,7 @@ dendranthe4edm7um.com
 diedstubbornforge.com
 dk4ywix.com
 drydrum.com
+dsp.io
 dzienkudrow.com
 efyglwbapki.com
 ehiibetu.com
@@ -179,6 +193,7 @@ observantice.com
 oewabox.at
 offvmuf.com
 onmarshtompor.com
+openads.org
 padstm.com
 pasheeheghie.net
 pebadu.com
