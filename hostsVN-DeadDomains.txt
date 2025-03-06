@@ -73,8 +73,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
