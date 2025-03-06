@@ -82,7 +82,6 @@ k8s2.testcentre.vn
 testcentre.vn
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
@@ -159,9 +158,7 @@ gnenuelnn.com
 go.mobisla.com
 go.padstm.com
 grandioseguide.com
-grewquartersupporting.com
 greyinstrument.com
-grooksom.com
 h2aek6rv0ard.com
 h78xb.pw
 iifvcfwiqi.com
