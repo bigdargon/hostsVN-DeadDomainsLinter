@@ -75,11 +75,8 @@ wakeup.klick.vn
 wakeup247.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
@@ -104,7 +101,6 @@ adsage.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
