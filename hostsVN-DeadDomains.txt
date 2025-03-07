@@ -19,12 +19,6 @@ serving-sys.com
 static.cbsileads.com
 aj1754.online
 aj1863.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
