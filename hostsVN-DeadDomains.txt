@@ -16,7 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-static.cbsileads.com
 aj1754.online
 aj1863.online
 brand.ad
@@ -41,6 +40,7 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+delivery.adsterra.org
 ad-track.adiiix.com
 ads.adiiix.com
 fp-cdn.azureedge.net
@@ -72,14 +72,18 @@ analytics.amedigital.vn
 1-1ads.com
 abruptroad.com
 adbrn.com
+ads.clickdigisol.net
 ads.expat-blog.biz
+ads.horyzon-media.com
 adsage.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
+an.cliphub.net
 apprebates.com
 asgclickpop.com
 aulteeby.net
@@ -87,6 +91,7 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
+banner.casino.net
 banner.mindshare.de
 bawdybeast.com
 baypops.com
@@ -100,6 +105,7 @@ calculatingtoothbrush.com
 carscannon.com
 chickensstation.com
 chinsnakes.com
+cjbmanagement.com
 coappreciate.com
 consciouschairs.com
 cpxadroit.com
@@ -143,6 +149,7 @@ ilbanner.com
 importedincrease.com
 impressionz.co.uk
 innocentwax.com
+instrumentsponge.com
 intnotif.club
 irncdn.com
 jadeitite.com
@@ -170,6 +177,7 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 newstarads.com
 nwhnzkbfsnpf.com
+nzaza.com
 oahaurti.com
 oarouwousti.com
 observantice.com
@@ -183,12 +191,15 @@ pebadu.com
 petasusawber.com
 petiteumbrella.com
 photographpan.com
+pietexture.com
 pixel.personagraph.com
 pushazer.com
 quaintcan.com
 quenchskirmishcohere.com
+quicksandear.com
 qxadsk.com
 receptiveink.com
+resolutekey.com
 resolvedswordlinked.com
 ritzykey.com
 rjkrefyqrixk.com
@@ -230,6 +241,7 @@ vnwtjgaqlsui.com
 vstvstsa.com
 wateryvan.com
 wellmadefrog.com
+wibtntmvox.com
 www.money4exit.de
 xovq5nemr.com
 xymhdmqrjxwl.com
@@ -238,4 +250,5 @@ ylcziaipyztvv.com
 yonomastara.com
 ypmtvlaktm.com
 zbwp6ghm.com
+burstly.com
 go.ad1data.com
