@@ -18,9 +18,6 @@ secure-ds.serving-sys.com
 serving-sys.com
 aj1754.online
 aj1863.online
-brand.ad
-a.brand.ad
-www.brand.ad
 madsecz.com
 advinci.net
 count.advinci.net
@@ -40,7 +37,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-delivery.adsterra.org
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -51,13 +47,6 @@ s.pssy.xyz
 www.pssy.xyz
 aj3007.bid
 aj3017.bid
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
@@ -65,7 +54,6 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
-mobileads.dieuviet.com
 analytics.amedigital.vn
 1-1ads.com
 abruptroad.com
@@ -75,7 +63,6 @@ adsage.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -132,7 +119,6 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
-galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -179,6 +165,7 @@ oarouwousti.com
 observantice.com
 oewabox.at
 offvmuf.com
+onlyfanssubscriber.com
 onmarshtompor.com
 openads.org
 padstm.com
