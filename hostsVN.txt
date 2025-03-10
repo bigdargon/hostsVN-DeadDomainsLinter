@@ -1,4 +1,4 @@
-# Version: 2503071405
+# Version: 2503101014
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -9521,10 +9521,14 @@
 ||netu.wiztube.xyz^
 ||wiztube.xyz^
 ||www.wiztube.xyz^
+||an.avast.com^
+||ans.avast.com^
+||mobile-campaigns.avast.com^
+||oms.avast.com^
 ||analytics.ff.avast.com^
-||analytics-prod-gcp.ff.avast.com^
 ||ip-info.ff.avast.com^
 ||ipm-provider.ff.avast.com^
+||shepherd.ff.avast.com^
 ||stats.avast.com^
 ||v7event.stats.avast.com^
 ||explorads.com^
@@ -12223,6 +12227,7 @@
 ||ad6media.fr^
 ||adacado.com^
 ||adaction.de^
+||adaftegloomto.com^
 ||adapt.tv^
 ||adaptationreconsider.com^
 ||adasiatagmanager.appspot.com^
@@ -12890,6 +12895,7 @@
 ||aibsgc.com^
 ||aickeebsi.com^
 ||aiglaidra.com^
+||aigretsulaups.net^
 ||aim4media.com^
 ||aimaniape.club^
 ||aiqidwcfrm.com^
@@ -13358,6 +13364,7 @@
 ||bookpostponemoreover.com^
 ||boom.ro^
 ||boomads.com^
+||boozoomamesha.net^
 ||bordeaux.futurecdn.net^
 ||boredcrown.com^
 ||boudja.com^
@@ -13970,6 +13977,7 @@
 ||desertsfraze.com^
 ||desirelibel.com^
 ||despicablereporthusband.com^
+||destisheem.com^
 ||detachmentoccasionedarena.com^
 ||detailedgovernment.com^
 ||detailedkitten.com^
@@ -14322,6 +14330,7 @@
 ||flyingsquirellsmooch.com^
 ||fnbauniukvi.com^
 ||foliumumu.com^
+||foogeetoary.net^
 ||fopteefteex.com^
 ||for-j.com^
 ||forearmthrobjanuary.com^
@@ -14334,6 +14343,7 @@
 ||forlumineoner.com^
 ||formalitydetached.com^
 ||forshrd.com^
+||forspearowor.com^
 ||forter.com^
 ||fortvision.com^
 ||fossorplumper.com^
@@ -14425,6 +14435,7 @@
 ||gimoqwmikakv.com^
 ||ginchoirblessed.com^
 ||ginpithed.live^
+||girls-only.online^
 ||gishejuy.com^
 ||gk79a2oup.com^
 ||gkbhrj49a.com^
@@ -14556,6 +14567,7 @@
 ||harrenmedia.com^
 ||harrenmedianetwork.com^
 ||hasanjbam.com^
+||haufeechaukept.com^
 ||hawkyeye5ssnd.com^
 ||haxbyq.com^
 ||hayforkminbu.com^
@@ -14805,6 +14817,7 @@
 ||ipredictive.com^
 ||ipro.com^
 ||ipromote.com^
+||ipyefimivc.com^
 ||iqm.com^
 ||ireklama.cz^
 ||irncdn.com^
@@ -14913,6 +14926,7 @@
 ||ketchapp.org^
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
+||kighoadouk.net^
 ||kiklazopnqce.com^
 ||kindads.com^
 ||kindly-face.pro^
@@ -14974,6 +14988,7 @@
 ||lassampy.com^
 ||laughcloth.com^
 ||laughedaffront.com^
+||lauloajaiph.net^
 ||launchbit.com^
 ||laxativestuckunclog.com^
 ||layer-ad.de^
@@ -15362,6 +15377,7 @@
 ||nan46ysangt28eec.com^
 ||nangalupeose.com^
 ||nappyattack.com^
+||nastedsuglu.com^
 ||nastinessreplicaupload.com^
 ||nastydollars.com^
 ||nationalgausewatrust.com^
@@ -15484,7 +15500,6 @@
 ||nygwcwsvnu.com^
 ||nzaza.com^
 ||nzurlmq.com^
-||o0bc.com^
 ||o3sxhw5ad.com^
 ||o4uxrk33.com^
 ||oackoubs.com^
@@ -15619,6 +15634,7 @@
 ||oranegfodnd.com^
 ||orangeads.fr^
 ||orbsclawand.com^
+||orcpfawzuvfe.com^
 ||orest-vlv.com^
 ||orfabfbu.com^
 ||organicbonus.com^
@@ -15781,6 +15797,7 @@
 ||pgpartner.com^
 ||phaibeertou.com^
 ||phamsacm.net^
+||phaubsunsi.com^
 ||pheedo.com^
 ||phicmune.net^
 ||phinsebsou.com^
@@ -16341,6 +16358,7 @@
 ||seeablywitness.com^
 ||seedtag.com^
 ||seekoflol.com^
+||seemoovojezy.net^
 ||seethisinaction.com^
 ||seguingjungled.com^
 ||selectivesummer.com^
@@ -16454,6 +16472,7 @@
 ||smetrics.walgreens.com^
 ||smileoffennec.com^
 ||smilingwaves.com^
+||smnyayzhv.com^
 ||smopy.com^
 ||smowtion.com^
 ||smsecure-ad.com^
@@ -16754,6 +16773,7 @@
 ||thor-pom.com^
 ||thougnoangi.com^
 ||thoungoofeed.net^
+||thounookra.com^
 ||thripelbertie.website^
 ||thruport.com^
 ||thubanoa.com^
@@ -17024,6 +17044,7 @@
 ||uzxkuwalnjp.com^
 ||v6rxv5coo5.com^
 ||vacationmonday.com^
+||vaitoasaut.net^
 ||vaizeedy.com^
 ||validclick.com^
 ||valleyhouse.com^
@@ -17104,6 +17125,7 @@
 ||vmuid.com^
 ||vmweb.net^
 ||vnwtjgaqlsui.com^
+||voakulophy.com^
 ||voicedstart.com^
 ||voopsookie.net^
 ||voredi.com^
@@ -17131,6 +17153,7 @@
 ||waeshana.com^
 ||wagenerfevers.com^
 ||wagersinging.com^
+||waigoakauhou.com^
 ||wairowomoaps.com^
 ||waisheph.com^
 ||walkingtutor.com^
@@ -17376,6 +17399,7 @@
 ||xq1.net^
 ||xrea.com^
 ||xruamzpanbca.com^
+||xsaeafkfilbcur.com^
 ||xszpuvwr7.com^
 ||xtendmedia.com^
 ||xtremeserve.xyz^
@@ -17517,6 +17541,7 @@
 ||analytics.alright.network^
 ||analytics.amazing-media.com^
 ||analytics.archive.org^
+||analytics.avcdn.net^
 ||analytics.bitrix.info^
 ||analytics.ccgateway.net^
 ||analytics.cdn.live^
