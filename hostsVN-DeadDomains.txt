@@ -54,6 +54,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 image.b91vip.com
+www.b91vip.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
