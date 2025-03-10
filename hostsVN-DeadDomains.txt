@@ -50,7 +50,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-image.b91vip.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -72,7 +71,6 @@ analytics.amedigital.vn
 1-1ads.com
 abruptroad.com
 abyocawlfe.com
-ads.clickdigisol.net
 ads.digitalmedianet.com
 ads.expat-blog.biz
 adsage.com
