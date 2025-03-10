@@ -65,9 +65,6 @@ aj3017.bid
 clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
