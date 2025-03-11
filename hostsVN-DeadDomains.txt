@@ -25,12 +25,6 @@ px.cdn.creative.medialytics.com
 beacon.statful.com
 aj1754.online
 aj1863.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -214,7 +208,6 @@ rjkrefyqrixk.com
 rngpaluydont.com
 rsalcau.com
 ruwertur.com
-sendmepixel.com
 sermonoccupied.com
 shakytaste.com
 sickflock.com
