@@ -1,4 +1,4 @@
-# Version: 2503121404
+# Version: 2503122302
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13099,6 +13099,7 @@
 ||auto-bannertausch.de^
 ||automatedrepsturmoil.com^
 ||avalancheofnews.com^
+||aveguijdwp.com^
 ||avehistoric.com^
 ||avenaryconcent.com^
 ||avenuea.com^
@@ -17214,6 +17215,7 @@
 ||wellmadefrog.com^
 ||werbung.meteoxpress.com^
 ||wetrack.it^
+||weuppwrlcper.com^
 ||wfuhkyardawh.com^
 ||whairtoa.com^
 ||whaleads.com^
