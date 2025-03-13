@@ -1,3 +1,4 @@
+googleads-cn.com
 activity.serving-sys.com
 bs.serving-sys.com
 bsch.serving-sys.com
@@ -61,6 +62,9 @@ clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
 mautic.educe.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
@@ -89,6 +93,7 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
+banner.coza.com
 banner.mindshare.de
 bawdybeast.com
 baypops.com
@@ -97,6 +102,7 @@ beshucklean.com
 bestadbid.com
 blackbrake.com
 blacknesskeepplan.com
+brightcriticism.com
 broadboundary.com
 broaddoor.com
 calculatingtoothbrush.com
@@ -106,7 +112,6 @@ chinsnakes.com
 circularnothing.com
 cjbmanagement.com
 coappreciate.com
-communicatequietboost.com
 connect.scroll.com
 consciouschairs.com
 cpxadroit.com
@@ -121,6 +126,7 @@ dendranthe4edm7um.com
 diedstubbornforge.com
 dk4ywix.com
 drydrum.com
+dsp.io
 dzienkudrow.com
 efyglwbapki.com
 ehiibetu.com
@@ -185,6 +191,7 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 newstarads.com
 nwhnzkbfsnpf.com
+nzaza.com
 oahaurti.com
 oarouwousti.com
 observantice.com
@@ -252,6 +259,7 @@ unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
+updatedbut.com
 upgastlyr.com
 urigagxnji.com
 uselnk.com
