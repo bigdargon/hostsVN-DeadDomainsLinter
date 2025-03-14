@@ -1,4 +1,3 @@
-activity.serving-sys.com
 bs.serving-sys.com
 bsch.serving-sys.com
 datacapture.serving-sys.com
@@ -54,7 +53,6 @@ www.imstks.com
 image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-click.expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -89,7 +87,6 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 adsage.com
 adsclick.cc
-advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -143,7 +140,6 @@ elephantqueue.com
 exclusivebrass.com
 eyeblaster.com
 ezxevghchjltrm.com
-findcommerce.com
 fixespreoccupation.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -151,7 +147,6 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
-galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -187,7 +182,6 @@ lowseelan.com
 lp3tdqle.com
 lzexnxwjsmof.com
 marasgumpus.com
-mathcountryside.com
 mediamind.com
 messagenovice.com
 messenger-notify.digital
@@ -208,7 +202,6 @@ oarouwousti.com
 observantice.com
 oewabox.at
 offvmuf.com
-olzlmemumcwe.com
 omniscientspark.com
 onmarshtompor.com
 padstm.com
@@ -219,6 +212,7 @@ petiteumbrella.com
 photographpan.com
 pietexture.com
 pq8ithtdw.com
+pro-ads.club
 publicunloadbags.com
 pushazer.com
 quaintcan.com
@@ -234,7 +228,6 @@ rkksbrkwdqbop.com
 rngpaluydont.com
 rsalcau.com
 ruwertur.com
-saimifoa.net
 sermonoccupied.com
 shakytaste.com
 sickflock.com
@@ -288,7 +281,6 @@ wateryvan.com
 wellmadefrog.com
 wibtntmvox.com
 www.money4exit.de
-www.servsave.com
 xovq5nemr.com
 xsaeafkfilbcur.com
 xymhdmqrjxwl.com
