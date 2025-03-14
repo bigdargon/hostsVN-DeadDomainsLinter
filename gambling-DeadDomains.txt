@@ -122,6 +122,10 @@
 086868.cn
 0871saibo.com
 087808.cn
+<<<<<<< Updated upstream
+=======
+088808.cn
+>>>>>>> Stashed changes
 088828.cn
 089808.cn
 0898yy.net
@@ -789,6 +793,7 @@
 288949.com
 2899dd.com
 28ld.vip
+28yabo.com
 29116.xyz
 2911v.com
 291yb.com
@@ -816,7 +821,11 @@
 312107.com
 3138m.com
 318051.com
+<<<<<<< Updated upstream
 3181g.com
+=======
+31967.wang
+>>>>>>> Stashed changes
 3199dd.com
 31ld.vip
 3227v.com
@@ -884,6 +893,7 @@
 35784777.com
 35788777.com
 358255.com
+359658.com
 35ld.vip
 36088843.com
 36088844.com
@@ -1113,9 +1123,14 @@
 482138.com
 482yb.com
 484yb.com
+<<<<<<< Updated upstream
 4858o.com
 4858ooo.com
 4858qqq.com
+=======
+4858e.com
+4858kkk.com
+>>>>>>> Stashed changes
 4859jjj.com
 4859lll.com
 4859x.xyz
@@ -1248,7 +1263,6 @@
 5849ttt.com
 5849u.com
 5849v.com
-585858.site
 5870.app
 58703.org
 58708.org
@@ -1256,6 +1270,7 @@
 5878003.com
 5888567.com
 5888678.com
+589729.com
 5898comapp-one.com
 5898g.com
 5898i.com
@@ -1406,6 +1421,7 @@
 6686c7.com
 6686c8.com
 6686c9.com
+6686vn2.tv
 668827.com
 66993a.com
 66ap77ap.com
@@ -1559,6 +1575,7 @@
 68gbapp18.com
 68gbweb15.com
 68gbweb26.com
+68yabo.com
 690h.com
 691f.com
 692h.com
@@ -3033,6 +3050,7 @@ eaa888.com
 ebb666.com
 ebb888.com
 ee1488.com
+ee1499.com
 ee67825.com
 ee67828.com
 ee67840.com
@@ -3222,7 +3240,6 @@ hjcp211.com
 honda999.xyz
 hoopnamyb88.com
 hrgj41.com
-hsx64.com
 huaxilian.com
 hy3313.com
 hy3323.com
@@ -3482,8 +3499,10 @@ kty0530.com
 kty0615.com
 ktyadq.com
 ku11.icu
+ku1169.net
 ku5722.net
 ku6108.icu
+ku6182.net
 kurpantila.com
 ky4111.com
 ky6629.com
@@ -3513,6 +3532,7 @@ landpage.xocdia778.com
 landpage.yallogame.com
 lc68690.com
 lc8.com
+lcfc.bet
 ld777.net
 linkw88dn.com
 lixi88.kim
@@ -4110,6 +4130,13 @@ vnxoso58.vip
 vnxoso59.vip
 vnxoso60.vip
 vnxoso61.vip
+vnxoso62.vip
+vnxoso63.vip
+vnxoso65.vip
+vnxoso67.vip
+vnxoso68.vip
+vnxoso69.vip
+vnxoso70.vip
 vs3979.net
 vscore.online
 vscore88.com
@@ -4209,6 +4236,7 @@ xjc896.com
 xl288.fun
 xmty.app
 xn--12ca0hfa9b5bg8jf9k.com
+xoso66com.com.co
 xosok8cc.com
 xpdl51.com
 xpj1958.com
@@ -4239,7 +4267,11 @@ y6club.com
 y82d.com
 y99vip1.com
 yab360.com
+<<<<<<< Updated upstream
 yabo610.com
+=======
+yabo6611.com
+>>>>>>> Stashed changes
 ybh33333.vip
 ybh99999.vip
 ybl-7777.com
@@ -4336,3 +4368,7 @@ zr80360.com
 zrbjlxz.com
 zrwxjyjxt.com
 zz9448.com
+zzgame6.com
+zzgame7.com
+zzwin66.com
+zzwin8.com
