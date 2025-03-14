@@ -1,4 +1,3 @@
-googleads-cn.com
 activity.serving-sys.com
 bs.serving-sys.com
 bsch.serving-sys.com
@@ -26,7 +25,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-beacon.statful.com
 aj1754.online
 aj1863.online
 madsecz.com
