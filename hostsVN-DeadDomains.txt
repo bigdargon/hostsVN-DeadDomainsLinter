@@ -27,6 +27,14 @@ s.kau.li
 y.kau.li
 aj1754.online
 aj1863.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -60,6 +68,7 @@ clevernet.vn
 m.clevernet.vn
 www.clevernet.vn
 mautic.educe.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -68,14 +77,18 @@ wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
 upfile16.mediaphim.com
+4d5.net
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
+ad.foxnetworks.com
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.horyzon-media.com
 adsage.com
 adsclick.cc
+advariant.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -87,6 +100,7 @@ autjaetpxhj.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
+banner.casino.net
 banner.coza.com
 bawdybeast.com
 baypops.com
@@ -136,6 +150,7 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
+galaxien.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -146,8 +161,10 @@ greyinstrument.com
 gsnb048lj.com
 h78xb.pw
 heraldet.com
+hrjbylofyso.com
 iaglkpracviogn.com
 iifvcfwiqi.com
+ilbanner.com
 importedincrease.com
 impressionz.co.uk
 innocentwax.com
@@ -222,6 +239,7 @@ sitegoto.com
 sljtqfcyi.com
 smileoffennec.com
 smilingwaves.com
+smnyayzhv.com
 speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
@@ -268,6 +286,7 @@ wellmadefrog.com
 wibtntmvox.com
 www.money4exit.de
 xovq5nemr.com
+xsaeafkfilbcur.com
 xymhdmqrjxwl.com
 ycxajdcpesguqh.com
 ykqcsawnlnvsgo.com
@@ -276,4 +295,5 @@ yonomastara.com
 ypmtvlaktm.com
 zbwp6ghm.com
 zeepmedia.com
+zmedia.com
 go.ad1data.com
