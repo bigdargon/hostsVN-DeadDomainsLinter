@@ -33,8 +33,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -82,7 +80,6 @@ abruptroad.com
 abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
-adrastos-eli.com
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -107,7 +104,6 @@ baypops.com
 beklefkiom.com
 beshucklean.com
 bestadbid.com
-besthealthblog.pro
 blackbrake.com
 blacknesskeepplan.com
 brightcriticism.com
@@ -120,6 +116,7 @@ chinsnakes.com
 circularnothing.com
 cjbmanagement.com
 coappreciate.com
+coniesnitch.com
 connect.scroll.com
 consciouschairs.com
 cpxadroit.com
