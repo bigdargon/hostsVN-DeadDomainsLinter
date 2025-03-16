@@ -1,7 +1,6 @@
 00008040.com
 0002244.com
 00112007.com
-00222005.com
 00577i.com
 0060gt.com
 0060y.com
@@ -284,7 +283,6 @@
 126686.app
 128166.com
 128167.com
-128252.com
 128292.com
 12betasia.net
 12betcs.com
@@ -477,7 +475,6 @@
 20054477.com
 20070003.com
 20070011.com
-20070033.com
 20070044.com
 20070088.com
 20071100.com
@@ -501,14 +498,16 @@
 20074411.com
 20074433.com
 20074441.com
-20074488.com
 20074499.com
 20075556.com
 20075557.com
 20075558.com
 20075559.com
 20076660.com
+<<<<<<< Updated upstream
 20076669.com
+=======
+>>>>>>> Stashed changes
 20077772.com
 20077773.com
 20077774.com
@@ -1127,7 +1126,11 @@
 482138.com
 482yb.com
 484yb.com
+<<<<<<< Updated upstream
 4858s.com
+=======
+4858ppp.com
+>>>>>>> Stashed changes
 4859jjj.com
 4859lll.com
 4859x.xyz
@@ -1272,7 +1275,6 @@
 5898f.com
 5898g.com
 5898i.com
-5898m.com
 5898o.com
 5898q.com
 5898r.com
@@ -2936,6 +2938,7 @@ cp0730.com
 cp22h.com
 cp2sj.com
 cp36h.com
+cp5sj.com
 cp66ck.com
 cps-123.vip
 cpz899.com
@@ -3751,6 +3754,7 @@ pinbo95.com
 pinbo98.com
 pj6p5.com
 pj6yp.com
+pj77vip10.com
 play.go88cx.com
 play.go88j.com
 play.hitclub.blue
@@ -3763,7 +3767,10 @@ pq88vn.com
 q0309.com
 q034034.com
 q15572917796.com
+<<<<<<< Updated upstream
 q1800.com
+=======
+>>>>>>> Stashed changes
 q1822.com
 q34034.com
 q697.net
@@ -4219,7 +4226,6 @@ www.mu88.uk
 www.phbet.com
 www.sv66s.com
 www.tai789.net
-www.u888vip0.com
 www.vn138viet.com
 www.vngame123.com
 www.vnxoso30.net
