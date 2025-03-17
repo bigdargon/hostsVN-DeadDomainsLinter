@@ -16,11 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 native.propellerclick.com
 beacon.statful.com
 aj1754.online
@@ -42,9 +37,6 @@ static.lalaping.com
 o.wowreality.info
 r.wowreality.info
 wowreality.info
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -124,7 +116,6 @@ carscannon.com
 chickensstation.com
 chinsnakes.com
 circularnothing.com
-claroadsclick.com
 clkads.com
 coappreciate.com
 connect.scroll.com
@@ -299,7 +290,6 @@ vstvstsa.com
 wateryvan.com
 wellmadefrog.com
 wibtntmvox.com
-www.claroadsclick.com
 www.money4exit.de
 xovq5nemr.com
 xsaeafkfilbcur.com
@@ -313,5 +303,4 @@ zbwp6ghm.com
 zeepmedia.com
 zmedia.com
 go.ad1data.com
-metrics.sdkbox.com
 usergrid.com
