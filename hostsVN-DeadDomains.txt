@@ -73,8 +73,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 upfile16.mediaphim.com
@@ -94,7 +92,6 @@ an.cliphub.net
 api.ampiri.com
 apprebates.com
 asgclickpop.com
-aslau-cre.info
 aulteeby.net
 autjaetpxhj.com
 awaps.net
