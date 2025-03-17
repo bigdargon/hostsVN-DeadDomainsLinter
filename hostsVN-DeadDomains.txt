@@ -20,6 +20,7 @@ native.propellerclick.com
 beacon.statful.com
 aj1754.online
 aj1863.online
+aj2498.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -59,6 +60,10 @@ pssy.xyz
 r.pssy.xyz
 s.pssy.xyz
 www.pssy.xyz
+ads.livetv623.me
+ads.livetv625.me
+ads.livetv626.me
+ads.livetv630.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -68,9 +73,6 @@ www.clevernet.vn
 mautic.educe.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
@@ -80,10 +82,14 @@ abruptroad.com
 abyocawlfe.com
 achieverknee.com
 ads.clickdigisol.net
+ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsage.com
 adsclick.cc
+adserver1.mindshare.de
+adserver2.mindshare.de
+adsrveys.com
 advariant.com
 afcnuchxgo.com
 agxoxnyum.com
@@ -97,6 +103,8 @@ awaps.net
 axiomaticalley.com
 b5e75c56.com
 banner.coza.com
+banner.mindshare.de
+banner.nixnet.cz
 bawdybeast.com
 baypops.com
 beklefkiom.com
@@ -113,6 +121,7 @@ carscannon.com
 chickensstation.com
 chinsnakes.com
 circularnothing.com
+cjbmanagement.com
 clkads.com
 coappreciate.com
 connect.scroll.com
@@ -156,6 +165,7 @@ go.mobisla.com
 go.padstm.com
 gogglemessenger.com
 grandioseguide.com
+greatlove.pro
 grewquartersupporting.com
 greyinstrument.com
 gsnb048lj.com
@@ -183,6 +193,7 @@ junmediadirect1.com
 katukaunamiss.com
 klkchits.com
 knurleddeblock.guru
+leadingedgecash.com
 likedstring.com
 lowseelan.com
 lp3tdqle.com
@@ -193,6 +204,7 @@ mediamind.com
 messagenovice.com
 messenger-notify.digital
 metahv.xyz
+mg2connext.com
 mkkvprwskq.com
 mobisla.com
 moodokay.com
@@ -229,6 +241,7 @@ qxadsk.com
 receptiveink.com
 resolutekey.com
 resolvedswordlinked.com
+ringedtusher.com
 ritzykey.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -243,6 +256,7 @@ sljtqfcyi.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
+soliads.net
 speakspurink.com
 spurioussteam.com
 spywarelabs.com
@@ -253,6 +267,7 @@ stichaur.net
 stormyachiever.com
 strivesidewalk.com
 subsequentstew.com
+sunnycategoryopening.com
 supapush.net
 svkmxwssih.com
 tccnqgnmeveay.com
@@ -287,6 +302,8 @@ vstvstsa.com
 wateryvan.com
 wellmadefrog.com
 wibtntmvox.com
+window.nixnet.cz
+witch-counter.de
 www.money4exit.de
 xovq5nemr.com
 xsaeafkfilbcur.com
