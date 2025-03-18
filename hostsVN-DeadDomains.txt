@@ -16,6 +16,15 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 native.propellerclick.com
 beacon.statful.com
 aj1754.online
@@ -73,6 +82,8 @@ wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
 upfile16.mediaphim.com
+228tuchuang.com
+4d5.net
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
@@ -134,6 +145,7 @@ defensive-living.com
 delegatediscussion.com
 deligrassdull.com
 dendranthe4edm7um.com
+denetsuk.com
 diedstubbornforge.com
 dk4ywix.com
 drydrum.com
@@ -142,6 +154,7 @@ efyglwbapki.com
 ehiibetu.com
 ejyymghi.com
 elephantqueue.com
+encodehelped.com
 entertainingeyes.com
 exclusivebrass.com
 eyeblaster.com
@@ -155,6 +168,7 @@ frllfmjaku.com
 ftte.xyz
 futuristicfairies.com
 fxclix.com
+geephugagee.com
 gnenuelnn.com
 go.mobisla.com
 go.padstm.com
@@ -170,6 +184,7 @@ iaglkpracviogn.com
 iifvcfwiqi.com
 ilbanner.com
 importedincrease.com
+impractical-award.com
 impressionz.co.uk
 innocentwax.com
 instrumentsponge.com
@@ -197,6 +212,7 @@ messagenovice.com
 messenger-notify.digital
 metahv.xyz
 mg2connext.com
+microstatic.pl
 mkkvprwskq.com
 mobisla.com
 moodokay.com
@@ -222,6 +238,7 @@ petiteumbrella.com
 photographpan.com
 pietexture.com
 pistolsizehoe.com
+pixel.personagraph.com
 politegoldfish.com
 pq8ithtdw.com
 publicunloadbags.com
@@ -249,6 +266,7 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 soliads.net
+spanuletubings.com
 speakspurink.com
 spurioussteam.com
 spywarelabs.com
@@ -276,7 +294,6 @@ trustisimportant.fun
 tzhrmcnidxqwrb.com
 u1pmt.com
 uhealth.care
-uktwvhfezyvxn.com
 unknowntray.com
 unphionetor.com
 unstoutgolfs.com
@@ -306,5 +323,6 @@ yonomastara.com
 ypmtvlaktm.com
 zbwp6ghm.com
 zeepmedia.com
+burstly.com
 go.ad1data.com
 usergrid.com
