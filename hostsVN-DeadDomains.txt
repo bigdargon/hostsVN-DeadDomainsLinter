@@ -94,7 +94,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
 advariant.com
-adverdirect.com
 afcnuchxgo.com
 agxoxnyum.com
 allstarmediagroup.com
@@ -322,4 +321,3 @@ zbwp6ghm.com
 zeepmedia.com
 burstly.com
 go.ad1data.com
-usergrid.com
