@@ -97,7 +97,6 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsage.com
-adserver.pl
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
@@ -139,7 +138,6 @@ circularnothing.com
 cjbmanagement.com
 clkads.com
 coappreciate.com
-compactbanner.com
 connect.scroll.com
 consciouschairs.com
 constructpoll.com
@@ -331,7 +329,6 @@ wateryvan.com
 wellmadefrog.com
 wibtntmvox.com
 window.nixnet.cz
-witch-counter.de
 woamowhoastoup.net
 www.money4exit.de
 xovq5nemr.com
@@ -346,4 +343,3 @@ ypmtvlaktm.com
 zbwp6ghm.com
 zeepmedia.com
 go.ad1data.com
-suriflowers.com
