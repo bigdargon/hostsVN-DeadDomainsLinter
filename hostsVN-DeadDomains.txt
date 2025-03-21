@@ -86,8 +86,6 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsage.com
-adserver1.mindshare.de
-adserver2.mindshare.de
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
@@ -106,7 +104,6 @@ aveguijdwp.com
 awaps.net
 axiomaticalley.com
 b5e75c56.com
-banner.mindshare.de
 bawdybeast.com
 baypops.com
 beklefkiom.com
