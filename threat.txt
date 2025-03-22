@@ -1,4 +1,4 @@
-# Version: 2503182348
+# Version: 2503221716
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -1247,6 +1247,7 @@
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
+||icswdocmv.on-ke.tech^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||idapple.com^
@@ -4780,6 +4781,7 @@
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
+||zkika.okyla.de^
 ||zla653.top^
 ||zla963.top^
 ||zloweb.me^
