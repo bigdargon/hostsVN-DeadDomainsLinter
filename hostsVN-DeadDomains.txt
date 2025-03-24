@@ -68,9 +68,6 @@ ads.livetv630.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
@@ -89,7 +86,6 @@ adsclick.cc
 adserver.quizdingo.com
 adsmart.co.uk
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -166,7 +162,6 @@ eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faukeeshie.com
-findcommerce.com
 fixespreoccupation.com
 fopteefteex.com
 frameworkdeserve.com
@@ -259,6 +254,7 @@ pistolsizehoe.com
 poggdgdwutcmbx.com
 politegoldfish.com
 pq8ithtdw.com
+praddpro.de
 proposedpartly.com
 ptukasti.com
 publicunloadbags.com
