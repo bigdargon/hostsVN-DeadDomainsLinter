@@ -1,3 +1,4 @@
+000068.com
 00008040.com
 0001004.com
 0002244.com
@@ -89,7 +90,6 @@
 034034p.com
 034034s.com
 034034v.com
-034034x.com
 0351saibo.com
 037vip.com
 038df.com
@@ -1051,7 +1051,6 @@
 437138.com
 437yb.com
 440yb.com
-44445app.com
 444win456.com
 44571.com
 4466ddd1.com
@@ -1144,6 +1143,8 @@
 48235.vip
 482yb.com
 484yb.com
+4858gg.com
+4858qqq.com
 4859jjj.com
 4859lll.com
 4859x.xyz
@@ -1185,7 +1186,6 @@
 500760.com
 502yb.com
 503yb.com
-50555.pro
 505yb.com
 506yb.com
 507911.xyz
@@ -1901,6 +1901,7 @@
 7889788.com
 7889799.com
 7890333.com
+78919.org
 7891yb.com
 7892yb.com
 789678789.com
@@ -2581,6 +2582,7 @@
 963302.com
 9658vip.com
 9659922.com
+96613.vip
 9679z.com
 9680277.com
 9688s.com
@@ -3432,7 +3434,6 @@ junbet88.com
 jxf2012vip.com
 k34034.com
 k36000.com
-k6821.com
 k69779.com
 k8.cc
 k81111.com
@@ -3604,7 +3605,9 @@ ktyadq.com
 ku11.icu
 ku11.pro
 ku5722.net
+ku6102.net
 ku6108.icu
+ku6120.net
 kurpantila.com
 kwfkp.com
 ky4111.com
@@ -3912,7 +3915,10 @@ q0309.com
 q034034.com
 q15572917796.com
 q1800.com
+<<<<<<< Updated upstream
 q1822.com
+=======
+>>>>>>> Stashed changes
 q34034.com
 q697.net
 q69779.com
@@ -3981,6 +3987,7 @@ rt0018.com
 rw625a.com
 rwcuan.com
 ry23.fun
+s11110.com
 s15357.com
 s15357.net
 s2373.com
@@ -4446,6 +4453,7 @@ y68shengji.com
 y69779.com
 y6club.com
 y82d.com
+yab26.com
 yab360.com
 yabo3.cn
 ybh33333.vip
