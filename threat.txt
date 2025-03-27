@@ -1,4 +1,4 @@
-# Version: 2503221716
+# Version: 2503272259
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -6,6 +6,7 @@
 ||0fb.co^
 ||0fb.info^
 ||0fb.ltd^
+||1125bgg.teknikad.com^
 ||113-bca.online^
 ||11promax.xakhohangtrungbay.site^
 ||11tiki.com^
@@ -1244,6 +1245,7 @@
 ||ibankingshopee.vn^
 ||ibkbank.net^
 ||ibmgroup.co.uk^
+||icloud-vietnam.info^
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
@@ -2517,6 +2519,7 @@
 ||sadm26.com^
 ||saifcrack.com^
 ||salu.gq^
+||samcenter-vn.com^
 ||sandealshopee.com^
 ||sanduon.com^
 ||sanmomo.me^
@@ -4684,6 +4687,7 @@
 ||www.lottevn999.com^
 ||www.lottevn9999.com^
 ||www.naptheffx2.com^
+||www.samcenter-vn.com^
 ||www.sc0mvn.com^
 ||www.seleeashopee.com^
 ||www.sgxcoin.net^
@@ -4754,6 +4758,7 @@
 ||xn--shopmllutv-cx3e.vn^
 ||xn--shoptienzombe-mw2g.vn^
 ||xn--shptruongstar-4w2g.com^
+||xn--wvvw-icoud-rw3e.com^
 ||xnqwuwlq.org^
 ||xosomomo.co^
 ||xosomomo.me^
