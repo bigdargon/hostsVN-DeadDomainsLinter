@@ -488,7 +488,6 @@
 20070044.com
 20070055.com
 20070066.com
-20070088.com
 20071100.com
 20071113.com
 20071166.com
@@ -532,7 +531,6 @@
 2007kkk.com
 2007mmm.com
 2007nnn.com
-2007ppp.com
 2007tt.com
 2007ttt.com
 2007vvv.com
@@ -640,6 +638,7 @@
 210yb.com
 21123.xyz
 21124.xyz
+2118012.com
 213806.com
 21467.net
 217yb.com
@@ -851,7 +850,6 @@
 32273.org
 3227v.com
 323yb.com
-324324.com
 326667.com
 326686.app
 3289b.com
@@ -899,6 +897,7 @@
 35656b.com
 35656c.com
 356yb.com
+357712.com
 35784777.com
 358255.com
 35963.shop
@@ -945,7 +944,10 @@
 365f88.vip
 365fgaosu1.com
 365playkr.com
+<<<<<<< Updated upstream
 366682.com
+=======
+>>>>>>> Stashed changes
 368162.app
 3683388.com
 36ld.vip
@@ -1242,14 +1244,21 @@
 546yb.com
 5500365.com
 55233.biz
+<<<<<<< Updated upstream
 555073.com
+=======
+>>>>>>> Stashed changes
 5555yh5.com
 555c59.com
+555ug.com
 555win456.com
 55778899.com
 558355.com
 558786.com
+<<<<<<< Updated upstream
 558830.com
+=======
+>>>>>>> Stashed changes
 5589qp.com
 55hjd.com
 55rfk.com
@@ -1663,6 +1672,7 @@
 6s789.com
 701466.com
 7017208.com
+705712.com
 70674.vip
 708212.com
 711851.com
@@ -1938,6 +1948,7 @@
 7878188.com
 7878388.com
 7878688.com
+787879.com
 7879yb.com
 7880yb.com
 7881yb.com
@@ -2013,7 +2024,6 @@
 8207qq.net
 8207ss.net
 8207t.net
-8207z.net
 820yb.com
 821159.com
 82169.org
@@ -2212,7 +2222,6 @@
 86782777.com
 86783777.com
 86784777.com
-86785777.com
 86786777.com
 86787777.com
 86788777.com
@@ -2445,7 +2454,6 @@
 8jbet06.com
 8jbet07.com
 8jbet08.com
-8jbet09.com
 8jbet10.com
 8kbet08.com
 8m.com
@@ -2651,6 +2659,7 @@
 952631.com
 952yb.com
 9544bet.com
+9567bet.com
 96317.vip
 963302.com
 9652xpj.com
@@ -2735,6 +2744,7 @@ affk8vn.com
 ag.ce888.net
 agent.tbsbet.com
 agra-sys.com
+aigw235ur.xyz
 ak36t.com
 ak99t.com
 alsjfrcphrinkfjruzbmzpnjgabbfi.com
@@ -3228,6 +3238,7 @@ dh333333.com
 dh777777.com
 dk.choitet.vip
 dk801.com
+dk86.vip
 dk8888.vip
 dkbet8casino.com
 dltbr.com
@@ -3328,7 +3339,6 @@ for885161.com
 for885982.com
 for888349.com
 for888767.com
-for889.com
 for889961.com
 for88vn.com
 fun1118.com
@@ -3420,6 +3430,7 @@ hahabet131.com
 haowinapp000haowinapp.com
 haowinapp111haowinapp.com
 haowinapp333haowinapp.com
+harrystinaja.com
 hb1165.com
 hb1911.com
 hb6132.com
@@ -3840,6 +3851,7 @@ new8847.com
 new8848.com
 new8849.com
 new8866.vip
+new887.com
 new8877.vip
 new8888.vip
 newstar3.com
@@ -4020,6 +4032,10 @@ pt66.vip
 q0309.com
 q15572917796.com
 q1800.com
+<<<<<<< Updated upstream
+=======
+q1822.com
+>>>>>>> Stashed changes
 q34034.com
 q697.net
 q69779.com
@@ -4507,6 +4523,10 @@ win456999.com
 win88y.com
 winaa1.com
 winbet91.com
+<<<<<<< Updated upstream
+=======
+winbet99.co
+>>>>>>> Stashed changes
 wingo88.vin
 winner88club.info
 wintbr.com
