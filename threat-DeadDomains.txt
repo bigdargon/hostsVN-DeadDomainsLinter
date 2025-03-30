@@ -430,6 +430,7 @@ dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.tgovn.cc
 dichvucong.thongtindancu.org
+dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.xgovn.net
 dichvucong.zvgov.com
@@ -783,7 +784,6 @@ hethongbank.com
 hethongbank24h.com
 hethongbhx.com
 hethonggiaodichvidientu247.com
-hethongquatang.vn
 hethongtikicareers24.com
 hethongtikicareers24h.com
 hethongviet99.com
@@ -2476,7 +2476,6 @@ thichanhmoney.store
 thietbidiennang.online
 thirdcitybank.com
 thisinhthanhlich.cf
-thisinhthanhlich.com
 thisinhthanhlich2022.com
 thisinhthanhlich2024.com
 thongtincutru.org
@@ -2540,7 +2539,6 @@ tiki94.com
 tiki98.com
 tiki9833.com
 tikia.vip
-tikib.vip
 tikictv.com
 tikictv1.com
 tikictv12.com
