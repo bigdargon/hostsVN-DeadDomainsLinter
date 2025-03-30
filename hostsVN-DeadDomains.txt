@@ -16,6 +16,12 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 beacon.statful.com
 aj1754.online
 aj1863.online
@@ -65,6 +71,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
+upfile16.mediaphim.com
 track.winigroup.vn
 0redird.com
 228tuchuang.com
@@ -102,6 +109,7 @@ axiomaticalley.com
 b0oie4xjeb4ite.com
 b5e75c56.com
 baivideewou.com
+banner.casino.net
 banner.mindshare.de
 bawdybeast.com
 baypops.com
@@ -121,6 +129,7 @@ c43a3cd8f99413891.com
 calculatingtoothbrush.com
 canangafierier.uno
 carscannon.com
+chertouz.net
 chickensstation.com
 chinsnakes.com
 circularnothing.com
@@ -185,6 +194,7 @@ gnenuelnn.com
 go.mobisla.com
 go.padstm.com
 gogglemessenger.com
+gouthoat.com
 grandioseguide.com
 greatlove.pro
 grewquartersupporting.com
@@ -220,6 +230,7 @@ jugjetwok.com
 junkieswudge.com
 junmediadirect1.com
 katukaunamiss.com
+kauleeci.com
 klkchits.com
 knurleddeblock.guru
 leestoptee.com
@@ -241,6 +252,7 @@ moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+netcommunities.com
 newstarads.com
 nwhnzkbfsnpf.com
 oahaurti.com
@@ -255,12 +267,14 @@ onmarshtompor.com
 ostaigukeshoak.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
+oxthrilled.com
 p.hogmc.net
 padstm.com
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
 petiteumbrella.com
+phamsacm.net
 phocmogo.com
 photographpan.com
 pietexture.com
@@ -272,13 +286,16 @@ politegoldfish.com
 pq8ithtdw.com
 proposedpartly.com
 ptukasti.com
+ptumsess.com
 publicunloadbags.com
 pushazer.com
+pzshzhja.com
 qtpwgglrohgp.com
 quaintcan.com
 quicksandear.com
 qxadsk.com
 receptiveink.com
+record.bonniergaming.com
 reflushneuma.com
 regnow.com
 resolutekey.com
@@ -347,7 +364,6 @@ unugilpcyxoep.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
-upspinarakor.com
 urigagxnji.com
 uselnk.com
 uuomdlaslopcrx.com
@@ -357,6 +373,7 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 virleth.com
 vnwtjgaqlsui.com
+voopsookie.net
 wagersinging.com
 wateryvan.com
 wellmadefrog.com
@@ -380,5 +397,7 @@ yougotacheck.com
 ypmtvlaktm.com
 zbwp6ghm.com
 zeepmedia.com
+bjdxhs.com
 burstly.com
 go.ad1data.com
+usergrid.com
