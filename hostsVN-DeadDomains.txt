@@ -48,8 +48,6 @@ aixq-streamlit.appier.xyz
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
@@ -230,7 +228,6 @@ katukaunamiss.com
 kauleeci.com
 klkchits.com
 knurleddeblock.guru
-kvtaaa.top
 leestoptee.com
 lessemujust.live
 lowseelan.com
