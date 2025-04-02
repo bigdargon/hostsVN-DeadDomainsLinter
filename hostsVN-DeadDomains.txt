@@ -16,12 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -62,8 +56,6 @@ www.asdpoi.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-ad.samsungadhub.com
-samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -133,7 +125,6 @@ broaddoor.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
-c43a3cd8f99413891.com
 calculatingtoothbrush.com
 canangafierier.uno
 carscannon.com
@@ -143,6 +134,7 @@ chinsnakes.com
 circularnothing.com
 clckysudks.com
 clicklink.jp
+clicktag.de
 clkads.com
 clkofafcbk.com
 coappreciate.com
@@ -243,6 +235,7 @@ kauleeci.com
 klkchits.com
 klsdee.com
 knurleddeblock.guru
+kvtaaa.top
 leadingedgecash.com
 leestoptee.com
 lessemujust.live
