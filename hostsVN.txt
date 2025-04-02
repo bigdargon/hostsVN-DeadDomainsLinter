@@ -1,4 +1,4 @@
-# Version: 2503311039
+# Version: 2504021048
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13157,6 +13157,7 @@
 ||baithoph.net^
 ||baitpros.net^
 ||baivideewou.com^
+||bajavdafwafp.com^
 ||balancebreath.com^
 ||balor-ghn.com^
 ||balphyra.com^
@@ -14178,6 +14179,7 @@
 ||ehiibetu.com^
 ||ejyymghi.com^
 ||ekgloczbsblg.com^
+||ekkrgsqygqp.com^
 ||elasticchange.com^
 ||elderlybean.com^
 ||elderlytown.com^
@@ -14984,6 +14986,7 @@
 ||kixgpapwia.com^
 ||kiynew.com^
 ||kjdvn1340-ads.blogspot.com^
+||kkoobzmirh.com^
 ||klclick1.com^
 ||kliks.nl^
 ||klkchits.com^
@@ -15921,6 +15924,7 @@
 ||playvideoclub.com^
 ||plinsaqhsu.com^
 ||plista.com^
+||pltraffic8.com^
 ||plufdsb.com^
 ||plugrush.com^
 ||plusungratefulinstruction.com^
@@ -16084,6 +16088,7 @@
 ||puffyloss.com^
 ||puffypull.com^
 ||puffypurpose.com^
+||pukqysdsgt.com^
 ||pulse360.com^
 ||pulseadnetwork.com^
 ||pulvinioreodon.com^
@@ -16342,6 +16347,7 @@
 ||roxr.net^
 ||rozamimo9za10.com^
 ||rprinc6etodn9kunjiv.com^
+||rqaefhvkkxls.com^
 ||rsalcau.com^
 ||rsalcch.com^
 ||rtb.gamoshi.io^
