@@ -16,13 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-ad.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 aj1549.online
 aj1754.online
 aj1863.online
@@ -88,6 +81,7 @@ ads.thrillsaffiliates.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
@@ -384,7 +378,6 @@ vnwtjgaqlsui.com
 voopsookie.net
 vstvstsa.com
 wagersinging.com
-warlog.info
 wateryvan.com
 wellmadefrog.com
 wheensamufouk.net
