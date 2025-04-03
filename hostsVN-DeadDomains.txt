@@ -80,6 +80,7 @@ ads.thrillsaffiliates.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
@@ -404,4 +405,5 @@ zeegreen.net
 zeepmedia.com
 bjdxhs.com
 go.ad1data.com
+suriflowers.com
 usergrid.com
