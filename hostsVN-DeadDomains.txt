@@ -16,6 +16,8 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
+native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -54,6 +56,13 @@ ads.livetv623.me
 ads.livetv625.me
 ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
+ads.livetv633.me
+ads.livetv637.me
+ads.livetv639.me
+ads.livetv640.me
+ads.livetv643.me
+ads.livetv644.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -65,16 +74,16 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
+log.bizlive.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
 228tuchuang.com
+4info.com
 abyocawlfe.com
 achieverknee.com
-ad.foxnetworks.com
 adminshop.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adserver.quizdingo.com
@@ -85,6 +94,7 @@ adsrveys.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
+an.cliphub.net
 apprebates.com
 artax-evn.com
 asgclickpop.com
@@ -93,6 +103,7 @@ aulteeby.net
 autjaetpxhj.com
 aveguijdwp.com
 awaps.net
+axiabanners.exodus.gr
 axiomaticalley.com
 b0oie4xjeb4ite.com
 b5e75c56.com
@@ -140,7 +151,6 @@ cvvczlcg.com
 cyjprljyvgqeg.com
 dangerouswinter.com
 daufouwhoag.net
-decisiveducks.com
 deewansturacin.com
 defensive-living.com
 delegatediscussion.com
@@ -176,7 +186,6 @@ frameworkdeserve.com
 frightenedpotato.com
 frllfmjaku.com
 ftte.xyz
-futuristicfairies.com
 ga-ads.com
 galaxien.com
 geephugagee.com
@@ -236,6 +245,7 @@ lvtuucmyfpz.com
 lzexnxwjsmof.com
 mamsauphoachoap.net
 marasgumpus.com
+mathcountryside.com
 maximumcash.com
 mediamind.com
 messagenovice.com
@@ -257,6 +267,7 @@ observantice.com
 oewabox.at
 offgalvantulaom.com
 offvmuf.com
+ojgzyztrmr.com
 omniscientspark.com
 onenetworkdirect.com
 onmarshtompor.com
@@ -267,10 +278,10 @@ ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
 padstm.com
+pagerank-server7.de
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
-petiteumbrella.com
 phamsacm.net
 phocmogo.com
 photographpan.com
@@ -306,6 +317,7 @@ roacheenazak.com
 rockabox.co
 rqaefhvkkxls.com
 rsalcau.com
+rundsp.com
 ruwertur.com
 sermonoccupied.com
 setypckq.com
@@ -332,7 +344,6 @@ static.scroll.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
-stormyachiever.com
 strivesidewalk.com
 subsequentstew.com
 sunnycategoryopening.com
@@ -348,6 +359,8 @@ thirstytwig.com
 tkoqgxnvt.com
 top-casting-termine.de
 total-fee.com
+tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 tzhrmcnidxqwrb.com
@@ -362,6 +375,7 @@ unugilpcyxoep.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upspinarakor.com
 urigagxnji.com
 uselnk.com
 uuomdlaslopcrx.com
@@ -403,3 +417,5 @@ zeegreen.net
 zeepmedia.com
 bjdxhs.com
 go.ad1data.com
+metrics.sdkbox.com
+umeng.co
