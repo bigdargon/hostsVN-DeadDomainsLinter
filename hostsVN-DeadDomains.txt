@@ -45,6 +45,8 @@ www.imstks.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
+ad-track.adiiix.com
+ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -65,18 +67,23 @@ aj3017.bid
 mautic.educe.vn
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
+upfile16.mediaphim.com
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
 228tuchuang.com
+aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
 adminshop.com
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
+adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -86,6 +93,7 @@ adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
 an.cliphub.net
+api.ampiri.com
 apprebates.com
 artax-evn.com
 asgclickpop.com
@@ -113,6 +121,7 @@ blacknesskeepplan.com
 blueswordksh.com
 brightcriticism.com
 broaddoor.com
+btcadtop.com
 burgerbrush.com
 burgoastougregy.net
 calculatingtoothbrush.com
@@ -183,6 +192,7 @@ go.padstm.com
 gogglemessenger.com
 gouthoat.com
 grandioseguide.com
+greatlove.pro
 grewquartersupporting.com
 gsnb048lj.com
 h78xb.pw
@@ -283,6 +293,7 @@ quenchskirmishcohere.com
 quicksandear.com
 qxadsk.com
 receptiveink.com
+record.bonniergaming.com
 reflushneuma.com
 regnow.com
 resolutekey.com
@@ -332,6 +343,7 @@ that-muscle.com
 thedevband.com
 thhwzyuktk.com
 thirstytwig.com
+tidy-mark.com
 tkoqgxnvt.com
 top-casting-termine.de
 total-fee.com
@@ -389,4 +401,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 bjdxhs.com
+burstly.com
 go.ad1data.com
+ilogs.bytefence.com
+logs.bytefence.com
