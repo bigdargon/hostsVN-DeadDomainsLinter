@@ -67,14 +67,10 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 mautic.educe.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
-log.bizlive.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
@@ -175,7 +171,6 @@ eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faukeeshie.com
-findcommerce.com
 fixespreoccupation.com
 fopteefteex.com
 frameworkdeserve.com
