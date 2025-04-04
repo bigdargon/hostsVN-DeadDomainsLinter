@@ -17,7 +17,6 @@ origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
 native.propellerclick.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -258,7 +257,6 @@ ojgzyztrmr.com
 omniscientspark.com
 onenetworkdirect.com
 onmarshtompor.com
-openads.org
 ostaigukeshoak.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -323,7 +321,6 @@ speakspurink.com
 spurioussteam.com
 spywarelabs.com
 static-ads.akamaized.net
-static.scptpx.com
 static.scroll.com
 steinfqwe6782beck.com
 stichaur.net
