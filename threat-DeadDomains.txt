@@ -865,7 +865,6 @@ igoda.shop
 ihgatms.cfd
 iisacombank.com
 ilsacombank.com
-images.emldn.com
 indush.cfd
 inet-ebank.com
 info-ebank.com
@@ -1208,6 +1207,7 @@ member-gaarena.com
 member-garena-lienquan.com
 member-lienquan-garena.com
 member.sso-garena.vn
+member.sukien-lienquanmobile.com
 membergarenaviet.com
 memberr-garenaa.com
 memberrship-ff-garena.com
@@ -2099,7 +2099,6 @@ shopgamelq247.com
 shopgamepubg.com
 shopgamere.com
 shopgau.me
-shopgcaothu.vn
 shopgenshin247h.com
 shopgenshin360.com
 shopgo188.com
@@ -3617,7 +3616,6 @@ yeumomo.me
 yl0sj9.cyou
 ymx33.com
 yunduofei.xyz
-zeroshop.cc
 zingmp3.pro
 zla653.top
 zmomo.cc
