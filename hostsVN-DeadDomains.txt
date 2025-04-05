@@ -59,8 +59,6 @@ aj3017.bid
 mautic.educe.vn
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 track.winigroup.vn
@@ -80,7 +78,6 @@ adsrveys.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
-an.cliphub.net
 apprebates.com
 artax-evn.com
 asgclickpop.com
@@ -264,7 +261,6 @@ phocmogo.com
 photographpan.com
 pietexture.com
 pistolsizehoe.com
-pixel.personagraph.com
 poggdgdwutcmbx.com
 politegoldfish.com
 pq8ithtdw.com
