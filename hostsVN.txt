@@ -1,4 +1,4 @@
-# Version: 2504040944
+# Version: 2504061721
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10202,8 +10202,6 @@
 ||os-mon.zijieapi.com^
 ||pc-mon.zijieapi.com^
 ||vcs.zijieapi.com^
-||umdc.aliapp.org^
-||ynuf.aliapp.org^
 ||log1.cmpassport.com^
 ||log2.cmpassport.com^
 ||ad.weibo.com^
@@ -10221,6 +10219,8 @@
 ||goadserver.com^
 ||linksprf.com^
 ||r.linksprf.com^
+||aso1.net^
+||srv.aso1.net^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -11443,6 +11443,8 @@
 ||delivery.vda.viettel.vn^
 ||log.vda.viettel.vn^
 ||vda.viettel.vn^
+||log.tv360.vn^
+||pubads-wiinvent.tv360.vn^
 ||12signup.com^
 ||ad-admin.vnay.vn^
 ||ad-ndtv.3s.com.vn^
@@ -11821,7 +11823,6 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
-||log.tv360.vn^
 ||log.viettimes.vn^
 ||log.vnay.vn^
 ||log.vneconomy.vn^
@@ -13068,7 +13069,6 @@
 ||asiacpx.com^
 ||aslau-cre.info^
 ||asnwish.com^
-||aso1.net^
 ||asp.animelab.com^
 ||aspiringtoy.com^
 ||assets.purch.com^
@@ -14466,6 +14466,7 @@
 ||getmytralala.com^
 ||getsthis.com^
 ||getwisdom.io^
+||gfugafoz.com^
 ||ggimg.tapas.net^
 ||ggreatstuff.com^
 ||ggz48pxys.com^
@@ -16154,6 +16155,7 @@
 ||qquhzi4f3.com^
 ||qrodufobzbav.com^
 ||qruqon.com^
+||qtoeofqazggu.com^
 ||qtpwgglrohgp.com^
 ||qtspkqzn.com^
 ||quaintcan.com^
@@ -18019,6 +18021,7 @@
 ||mktoresp.com^
 ||mlog.appguard.co.kr^
 ||moatpixel.com^
+||mobile-events.eservice.emarsys.net^
 ||mobiletelemetry.ebay.com^
 ||monitoring.youronlinechoices.com^
 ||monorail-edge.shopifysvc.com^
@@ -18087,6 +18090,7 @@
 ||push4site.com^
 ||pv.medialead.de^
 ||pv.sohu.com^
+||px.effirst.com^
 ||pxlctl.elpais.com^
 ||pymx5.com^
 ||q.quora.com^
