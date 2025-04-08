@@ -16,11 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
@@ -103,12 +98,14 @@ track.winigroup.vn
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+adaction.de
 adminshop.com
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adserver.quizdingo.com
+adshostnet.com
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
@@ -160,6 +157,7 @@ clicklink.jp
 clkads.com
 clkofafcbk.com
 coappreciate.com
+compactbanner.com
 connect.scroll.com
 consciouschairs.com
 constructpoll.com
@@ -227,6 +225,7 @@ hbwncbwgyvgt.com
 heraldet.com
 hppvkbfcuq.com
 hrjbylofyso.com
+iadnet.com
 iaglkpracviogn.com
 ichachoakiglop.com
 idyllteapots.com
@@ -258,6 +257,7 @@ klkchits.com
 klsdee.com
 knurleddeblock.guru
 kuno-gae.com
+kvtaaa.top
 leestoptee.com
 lessemujust.live
 lowseelan.com
@@ -274,6 +274,7 @@ metahv.xyz
 mkkvprwskq.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
@@ -375,6 +376,7 @@ tkoqgxnvt.com
 top-casting-termine.de
 total-fee.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 tzhrmcnidxqwrb.com
