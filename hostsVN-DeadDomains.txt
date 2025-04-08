@@ -23,7 +23,6 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-native.propellerclick.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -94,11 +93,9 @@ log.bizlive.vn
 track.winigroup.vn
 0redird.com
 228tuchuang.com
-4d5.net
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
-adbunker.com
 adminshop.com
 ads.clickdigisol.net
 ads.expat-blog.biz
@@ -111,7 +108,6 @@ advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
-an.cliphub.net
 apprebates.com
 artax-evn.com
 asgclickpop.com
@@ -200,6 +196,7 @@ eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faukeeshie.com
+findcommerce.com
 fixespreoccupation.com
 fopteefteex.com
 frameworkdeserve.com
