@@ -16,13 +16,6 @@ msn.serving-sys.com
 origin-gizmo.serving-sys.com
 secure-ds.serving-sys.com
 serving-sys.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -90,7 +83,6 @@ track.winigroup.vn
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
-ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
@@ -108,7 +100,6 @@ aulteeby.net
 autjaetpxhj.com
 aveguijdwp.com
 awaps.net
-axiabanners.exodus.gr
 axiomaticalley.com
 b0oie4xjeb4ite.com
 b5e75c56.com
@@ -186,7 +177,6 @@ eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faukeeshie.com
-findcommerce.com
 fixespreoccupation.com
 fopteefteex.com
 frameworkdeserve.com
@@ -194,7 +184,6 @@ frightenedpotato.com
 frllfmjaku.com
 ftte.xyz
 ga-ads.com
-galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
@@ -245,6 +234,7 @@ knurleddeblock.guru
 kuno-gae.com
 leestoptee.com
 lessemujust.live
+links-ranking.de
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
@@ -260,6 +250,7 @@ metahv.xyz
 mkkvprwskq.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
@@ -361,6 +352,7 @@ tkoqgxnvt.com
 top-casting-termine.de
 total-fee.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 tzhrmcnidxqwrb.com
@@ -415,5 +407,4 @@ zeegreen.net
 zeepmedia.com
 bjdxhs.com
 go.ad1data.com
-metrics.sdkbox.com
 yoursitestatstube.ru
