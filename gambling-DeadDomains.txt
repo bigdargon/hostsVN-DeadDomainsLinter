@@ -300,7 +300,6 @@
 118-7heh.site
 118-7p1a.site
 118-9l28.site
-118-b1sv.site
 118-c7cu.site
 118-cjt7.site
 118-dqqg.site
@@ -440,6 +439,7 @@
 1622v.com
 162390.com
 16271.net
+165187.com
 165390.com
 166686.app
 16736.cn
@@ -979,10 +979,12 @@
 262yb.com
 26316.org
 26364j.com
+26399.org
 263yb.com
 264390.com
 265689.com
 266526.com
+266693.com
 266859.com
 266870.com
 266873.com
@@ -1007,7 +1009,6 @@
 271390.com
 272yb.com
 274390.com
-27461.org
 27469.org
 274yb.com
 27545.org
@@ -1097,7 +1098,6 @@
 332319.com
 333123.vip
 3331ms.com
-33332005.com
 33442007.com
 33552005.com
 33567.wang
@@ -1344,7 +1344,6 @@
 414777.com
 417007.com
 417yb.com
-418yb.com
 41c426.com
 42031.shop
 421dd.com
@@ -1473,10 +1472,15 @@
 474390.com
 4775641.com
 479yb.com
+47yabo.com
 481yb.com
 48235.vip
 482yb.com
 484yb.com
+<<<<<<< Updated upstream
+=======
+4858ooo.com
+>>>>>>> Stashed changes
 4859jjj.com
 4859lll.com
 4859x.xyz
@@ -1856,7 +1860,6 @@
 670493.com
 670494.com
 670495.com
-670497.com
 670498.com
 670h.com
 670nn.com
@@ -1998,6 +2001,7 @@
 68gbapp18.com
 68gbweb15.com
 68gbweb26.com
+68lottery.com
 6911hd.app
 69319.vip
 69365.org
@@ -2191,6 +2195,7 @@
 7712yb.com
 771378.com
 771389.com
+771397.com
 7713yb.com
 7714yb.com
 771792.com
@@ -3204,6 +3209,7 @@ ap66ap77.com
 ap6868.com
 ap6999.com
 api.123bhh.com
+api.449917.com
 api.go88r.pro
 api.i9bet108.com
 api.i9bet34.com
@@ -3241,6 +3247,7 @@ b0822.com
 b0859.com
 b1125.com
 b1126.com
+b1700.com
 b2271.com
 b2272.com
 b4833.com
@@ -3373,6 +3380,9 @@ bckbet03.net
 bckbet04.net
 bcr34.com
 bcr67.com
+bcw105.com
+bcw17.com
+bcw2015.com
 bd8600.com
 beerli827.vip
 beis666.com
@@ -3532,6 +3542,7 @@ bw9070.com
 bway991.com
 bwbiwei.com
 bwbw886.com
+bwei109.com
 bwingmkt7.com
 by11121.com
 by11126.com
@@ -3580,7 +3591,6 @@ cdn.cfvn66.com
 cdntoos.3676pay.com
 cdntoos.8jbet08.com
 cermat4d.live
-cf68.app
 cf68.club
 cf68.fun
 cf68.in
@@ -3952,6 +3962,7 @@ hd95611.app
 hdgbh1.com
 hdgbh3.com
 hdgbh8.com
+heji06.com
 heji2022.com
 hg0204.com
 hg0443.com
@@ -4558,7 +4569,6 @@ pq88vn.com
 pt66.vip
 q0309.com
 q15572917796.com
-q1800.com
 q697.net
 q69779.com
 q8qth.com
@@ -4673,6 +4683,7 @@ s22223.com
 s22225.com
 s22228.com
 s2373.com
+s26betc.cc
 s27282.com
 s27282.net
 s2a68z56q.top
@@ -5090,6 +5101,7 @@ wintbr.com
 wintime.fun
 wjthrtjvb.com
 wnsqt7722.com
+wnsr8829.com
 won888.cn
 wp.sky88.fun
 wq202.com
@@ -5106,7 +5118,11 @@ wt3569.com
 wt3586.com
 ww88.tw
 ww8888.xyz
+<<<<<<< Updated upstream
 ww88u.com
+=======
+ww88p.vip
+>>>>>>> Stashed changes
 www.58cc.live
 www.ae788.bet
 www.aw8vn2.com
