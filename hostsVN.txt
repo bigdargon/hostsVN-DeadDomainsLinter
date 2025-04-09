@@ -1,4 +1,4 @@
-# Version: 2504090933
+# Version: 2504092236
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -17374,6 +17374,7 @@
 ||wistfulbalmy.com^
 ||witch-counter.de^
 ||witnessremovalsoccer.com^
+||wiwqhootrf.com^
 ||wizaly.com^
 ||wizkrdxivl.com^
 ||wlmarketing.com^
