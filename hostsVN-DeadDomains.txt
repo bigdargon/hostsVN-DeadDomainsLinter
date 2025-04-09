@@ -50,6 +50,8 @@ widgets.asdpoi.com
 www.asdpoi.com
 ad-track.adiiix.com
 ads.adiiix.com
+ad.samsungadhub.com
+samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -68,11 +70,17 @@ ads.livetv643.me
 ads.livetv644.me
 ads.livetv701.me
 ads.livetv703.me
+ads.livetv705.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 demopage.me
@@ -89,6 +97,7 @@ achieverknee.com
 ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.horyzon-media.com
+ads.jewishfriendfinder.com
 ads.thrillsaffiliates.com
 adsclick.cc
 adserver.quizdingo.com
@@ -117,9 +126,11 @@ beklefkiom.com
 beshucklean.com
 bestadbid.com
 betmagnezonea.com
+bezzzxoscu.com
 blackbrake.com
 blacknesskeepplan.com
 blueswordksh.com
+brechtembrowd.com
 brightcriticism.com
 broaddoor.com
 btcadtop.com
@@ -157,6 +168,7 @@ deligrassdull.com
 demtaudeeg.com
 dendranthe4edm7um.com
 denetsuk.com
+despicablereporthusband.com
 dhuimjkivb.com
 diedstubbornforge.com
 digyniahuffle.com
@@ -165,6 +177,7 @@ directtrack.com
 dk4ywix.com
 doaglunoupa.net
 drydrum.com
+dsp.io
 dzienkudrow.com
 dzvuvtwbp.com
 efyglwbapki.com
@@ -177,6 +190,7 @@ encounterboastful.com
 entertainingeyes.com
 eqgmnmqlz.com
 esellerate.net
+exxohwvxupjv.com
 eyeblaster.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -200,6 +214,7 @@ grandioseguide.com
 grewquartersupporting.com
 gsnb048lj.com
 h78xb.pw
+handkerchiefpersonnel.com
 hbwncbwgyvgt.com
 heraldet.com
 hppvkbfcuq.com
@@ -222,6 +237,7 @@ jadeitite.com
 jhxakdmdlz.com
 jncdvibhdaddmu.com
 jozowgldpc.com
+jpjmpqaupc.com
 js.xzjhome.cc
 jucysh.com
 jugjetwok.com
@@ -243,7 +259,6 @@ lp3tdqle.com
 lvtuucmyfpz.com
 lzexnxwjsmof.com
 mamsauphoachoap.net
-mathcountryside.com
 maximumcash.com
 mediamind.com
 messagenovice.com
@@ -256,6 +271,7 @@ moomenog.com
 munchenviableski.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nefdcnmvbt.com
 netcommunities.com
 newstarads.com
 noerwe5gianfor19e4st.com
@@ -286,6 +302,7 @@ phocmogo.com
 photographpan.com
 pietexture.com
 pistolsizehoe.com
+pixel.personagraph.com
 poggdgdwutcmbx.com
 politegoldfish.com
 pq8ithtdw.com
@@ -318,6 +335,7 @@ rqaefhvkkxls.com
 rsalcau.com
 ruckingefs.com
 ruwertur.com
+sendmepixel.com
 sermonoccupied.com
 setypckq.com
 shakytaste.com
@@ -337,6 +355,7 @@ spanuletubings.com
 speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
+static.scptpx.com
 static.scroll.com
 steinfqwe6782beck.com
 stichaur.net
@@ -390,6 +409,7 @@ whoonseepoutche.net
 wibtntmvox.com
 woamowhoastoup.net
 www.money4exit.de
+www.servsave.com
 xdiwbc.com
 xeiidlkuxsos.com
 xovq5nemr.com
@@ -410,4 +430,5 @@ zeegreen.net
 zeepmedia.com
 bjdxhs.com
 go.ad1data.com
+usergrid.com
 yoursitestatstube.ru
