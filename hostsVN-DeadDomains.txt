@@ -77,8 +77,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 demopage.me
@@ -256,7 +254,6 @@ lp3tdqle.com
 lvtuucmyfpz.com
 lzexnxwjsmof.com
 mamsauphoachoap.net
-mathcountryside.com
 maximumcash.com
 mediamind.com
 messagenovice.com
