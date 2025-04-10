@@ -122,14 +122,12 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
-adserver.beggarspromo.com
 adserver.quizdingo.com
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
-alebrinkfed.com
 an.cliphub.net
 api.ampiri.com
 armoursviolino.com
@@ -370,6 +368,7 @@ ruckingefs.com
 ruwertur.com
 sendmepixel.com
 sermonoccupied.com
+servsave.com
 setypckq.com
 shakytaste.com
 shestour.net
