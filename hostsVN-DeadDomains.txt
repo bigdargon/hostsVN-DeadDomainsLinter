@@ -79,7 +79,6 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adsmart.co.uk
 adsrveys.com
@@ -114,7 +113,6 @@ bezzzxoscu.com
 blackbrake.com
 blacknesskeepplan.com
 blueswordksh.com
-boom.ro
 brechtembrowd.com
 brightcriticism.com
 broaddoor.com
@@ -363,7 +361,6 @@ tidy-mark.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
