@@ -38,8 +38,6 @@ ads.adiiix.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv625.me
 ads.livetv626.me
@@ -51,7 +49,6 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv689.me
 ads.livetv701.me
@@ -85,6 +82,7 @@ adsclick.cc
 adserver.quizdingo.com
 adsmart.co.uk
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
@@ -116,7 +114,6 @@ bezzzxoscu.com
 blackbrake.com
 blacknesskeepplan.com
 blueswordksh.com
-boom.ro
 brechtembrowd.com
 brightcriticism.com
 broaddoor.com
@@ -242,13 +239,11 @@ kuno-gae.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
-linkads.xyz
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
 lzexnxwjsmof.com
 mamsauphoachoap.net
-mathcountryside.com
 maximumcash.com
 mediamind.com
 messagenovice.com
@@ -268,7 +263,6 @@ noerwe5gianfor19e4st.com
 nwhnzkbfsnpf.com
 oahaurti.com
 oarouwousti.com
-objectionsunited.com
 observantice.com
 oewabox.at
 offgalvantulaom.com
@@ -284,7 +278,6 @@ ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
 papaneecorche.com
-parentlargevia.com
 pasheeheghie.net
 passion-4.net
 petchesa.net
@@ -363,7 +356,6 @@ terrapsps.com
 that-muscle.com
 thedevband.com
 thhwzyuktk.com
-thiem-csl.com
 thirstytwig.com
 tidy-mark.com
 tkoqgxnvt.com
