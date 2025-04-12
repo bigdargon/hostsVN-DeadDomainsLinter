@@ -78,6 +78,7 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
+adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -223,7 +224,6 @@ impressionz.co.uk
 innocentwax.com
 instrumentsponge.com
 intnotif.club
-irncdn.com
 ixyyijop.com
 jadeitite.com
 jhxakdmdlz.com
@@ -423,7 +423,6 @@ zeegreen.net
 zeepmedia.com
 zmedia.com
 bjdxhs.com
-burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
 yoursitestatstube.ru
