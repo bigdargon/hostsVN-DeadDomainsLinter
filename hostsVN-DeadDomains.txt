@@ -78,7 +78,6 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -424,5 +423,6 @@ zeepmedia.com
 zmedia.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
+d4n.platformd.com
 go.ad1data.com
 yoursitestatstube.ru
