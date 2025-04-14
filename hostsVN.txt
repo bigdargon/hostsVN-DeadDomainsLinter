@@ -1,4 +1,4 @@
-# Version: 2504092236
+# Version: 2504141119
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -7103,7 +7103,6 @@
 ||analytics.us.tiktok.com^
 ||business-api.tiktok.com^
 ||mcs-sg.tiktok.com^
-||mssdk-sg.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
