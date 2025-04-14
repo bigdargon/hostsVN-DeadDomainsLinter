@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -320,7 +318,6 @@ phamsacm.net
 phocmogo.com
 photographpan.com
 pistolsizehoe.com
-pixel.personagraph.com
 poggdgdwutcmbx.com
 politegoldfish.com
 pompadawe.com
