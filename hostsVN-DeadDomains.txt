@@ -1,6 +1,5 @@
 native.propellerclick.com
 beacon.statful.com
-static.cbsileads.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -68,9 +67,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
@@ -105,7 +101,6 @@ adsrveys.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
-alebrinkfed.com
 api.ampiri.com
 armoursviolino.com
 artax-evn.com
@@ -324,7 +319,6 @@ p.hogmc.net
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
-patro-sfe.com
 pc2ads.com
 pefsustazvzgop.com
 petchesa.net
@@ -447,7 +441,7 @@ vnwtjgaqlsui.com
 voopsookie.net
 vstvstsa.com
 wagersinging.com
-wcuamsmakq.com
+webpushdirect.biz
 wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
