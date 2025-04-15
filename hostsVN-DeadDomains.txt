@@ -1,4 +1,3 @@
-redirectpopads.com
 native.propellerclick.com
 beacon.statful.com
 static.cbsileads.com
@@ -72,7 +71,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -102,7 +100,6 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.ngz-network.de
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -448,7 +445,6 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 ventivmedia.com
 verninchange.com
-view4cash.de
 virleth.com
 vnwtjgaqlsui.com
 voopsookie.net
@@ -458,7 +454,6 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
 www.money4exit.de
