@@ -47,10 +47,6 @@ ads.livetv643.me
 ads.livetv644.me
 ads.livetv681.me
 ads.livetv689.me
-ads.livetv701.me
-ads.livetv703.me
-ads.livetv705.me
-ads.livetv708.me
 ads.livetv785.me
 aj2566.bid
 aj3007.bid
@@ -64,7 +60,6 @@ mautic.educe.vn
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
-ads.autonet.com.vn
 ads.inetgroup.vn
 demopage.me
 upfile16.mediaphim.com
@@ -92,13 +87,10 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.co.uk
 adsrveys.com
-adverdirect.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
-alebrinkfed.com
 api.ampiri.com
-aries-nbl.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -145,10 +137,8 @@ circularnothing.com
 cjbmanagement.com
 clckysudks.com
 clicklink.jp
-clickthrutraffic.com
 clkads.com
 clkofafcbk.com
-clodderpickmaw.com
 coappreciate.com
 connect.scroll.com
 consciouschairs.com
@@ -283,7 +273,6 @@ mkkvprwskq.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
-moolahmedia.com
 moomenog.com
 munchenviableski.com
 myntelligence.com
@@ -315,11 +304,9 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
-pagerank-server7.de
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
-pc2ads.com
 pefsustazvzgop.com
 petchesa.net
 phamsacm.net
@@ -471,6 +458,5 @@ zmedia.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 usergrid.com
 yoursitestatstube.ru
