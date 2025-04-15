@@ -56,7 +56,6 @@ cdn.hbplatform.com
 hbplatform.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 mautic.educe.vn
 cdn.wataads.com
 wataads.com
@@ -258,7 +257,6 @@ kuno-gae.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
-ligeia-gip.com
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
@@ -277,6 +275,7 @@ mkkvprwskq.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 munchenviableski.com
 myntelligence.com
