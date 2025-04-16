@@ -109,7 +109,6 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -232,7 +231,6 @@ geephugagee.com
 glaignicmo.com
 glaingotseemt.net
 gnenuelnn.com
-go-clicks.de
 go.mobisla.com
 gogglemessenger.com
 gouthoat.com
@@ -317,7 +315,6 @@ nauzaphoay.net
 navelfletch.com
 nefdcnmvbt.com
 neocounter.neoworx-blog-tools.net
-netcommunities.com
 newstarads.com
 noerwe5gianfor19e4st.com
 nwhnzkbfsnpf.com
