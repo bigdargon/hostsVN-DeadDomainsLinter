@@ -79,8 +79,6 @@ aj3007.bid
 aj3017.bid
 cdn.hbplatform.com
 hbplatform.com
-k8s2.testcentre.vn
-testcentre.vn
 mautic.educe.vn
 cdn.wataads.com
 wataads.com
@@ -170,7 +168,6 @@ clicklink.jp
 clkads.com
 clkofafcbk.com
 coappreciate.com
-compactbanner.com
 connect.scroll.com
 consciouschairs.com
 constructpoll.com
@@ -178,6 +175,7 @@ convertedhorace.com
 cousesheethain.net
 cpxadroit.com
 craveandlamb.com
+croniesobli.com
 curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
@@ -236,7 +234,6 @@ geephugagee.com
 glaignicmo.com
 glaingotseemt.net
 gnenuelnn.com
-go-clicks.de
 go.mobisla.com
 gogglemessenger.com
 gouthoat.com
@@ -251,6 +248,7 @@ hbwncbwgyvgt.com
 heraldet.com
 hppvkbfcuq.com
 hrjbylofyso.com
+huppontic.com
 hydraulzonure.com
 iaglkpracviogn.com
 ichachoakiglop.com
@@ -293,6 +291,7 @@ leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
+linkads.xyz
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
@@ -312,6 +311,7 @@ mobbersinwalls.com
 mobisla.com
 moodokay.com
 moomenog.com
+moonlitturbots.com
 munchenviableski.com
 namol.xyz
 naturalistsbumpmystic.com
@@ -497,6 +497,6 @@ zmedia.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
+smart-dmp.com
 usergrid.com
 yoursitestatstube.ru
