@@ -1,4 +1,4 @@
-# Version: 2504092236
+# Version: 2504161522
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -436,6 +436,9 @@
 ||cl247.me^
 ||claudfront.net^
 ||clb.vin^
+||click-eu-v4.mainexpclkdir.com^
+||click-v4.mainexpclkdir.com^
+||click.mainexpclkdir.com^
 ||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^

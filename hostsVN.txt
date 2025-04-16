@@ -1,4 +1,4 @@
-# Version: 2504141119
+# Version: 2504161523
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -8280,6 +8280,8 @@
 ||cachegorilla.xml.ak-is2.net^
 ||ctrtraffic.fs.ak-is2.net^
 ||danarimedia.xml.ak-is2.net^
+||explorads.xml-eu-v4.ak-is2.net^
+||explorads.xml-v4.ak-is2.net^
 ||explorads.xml.ak-is2.net^
 ||expmediadirect1.xml-eu.ak-is2.net^
 ||ezmob.fs.ak-is2.net^
@@ -10220,6 +10222,10 @@
 ||r.linksprf.com^
 ||aso1.net^
 ||srv.aso1.net^
+||daly2024.com^
+||media.daly2024.com^
+||srv.daly2024.com^
+||track.daly2024.com^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -13274,6 +13280,7 @@
 ||belstat.com^
 ||belstat.nl^
 ||bemachopor.com^
+||bemalkrmc.com^
 ||bemobtracks.com^
 ||bemobtrcks.com^
 ||bemobtrk.com^
@@ -14433,6 +14440,7 @@
 ||fziwzaalp.com^
 ||g0push.com^
 ||ga-ads.com^
+||gabanxaq.com^
 ||gagowtvi.com^
 ||gaijiglo.net^
 ||gaimauroogrou.net^
@@ -15420,6 +15428,7 @@
 ||mxptint.net^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
+||my.heloninremake.shop^
 ||myad.mitrade.com^
 ||myadsystem.com^
 ||myaffiliateprogram.com^
@@ -16133,6 +16142,7 @@
 ||pwieu.com^
 ||pwmctl.com^
 ||pwysruffoza.com^
+||py.dautedtwiny.shop^
 ||pyxiscablese.com^
 ||pzshzhja.com^
 ||q.azcentral.com^
@@ -16830,6 +16840,7 @@
 ||tb.baimgfroggd.site^
 ||tcads.net^
 ||tccnqgnmeveay.com^
+||tdpjzjpfuiis.com^
 ||tealeaf.com^
 ||tealium.com^
 ||tealiumiq.com^
@@ -17345,6 +17356,7 @@
 ||whoarguwaghu.net^
 ||whoisonline.net^
 ||wholesaletraffic.info^
+||whoockeg.top^
 ||whoonseepoutche.net^
 ||whoostoo.net^
 ||whoursie.com^
