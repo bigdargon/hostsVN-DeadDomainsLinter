@@ -109,7 +109,6 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -167,7 +166,6 @@ clicklink.jp
 clkads.com
 clkofafcbk.com
 coappreciate.com
-compactbanner.com
 connect.scroll.com
 consciouschairs.com
 constructpoll.com
@@ -339,7 +337,6 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
-pagerank-server7.de
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
