@@ -17,7 +17,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -168,7 +167,6 @@ clicklink.jp
 clkads.com
 clkofafcbk.com
 coappreciate.com
-compactbanner.com
 connect.scroll.com
 consciouschairs.com
 constructpoll.com
@@ -234,6 +232,7 @@ geephugagee.com
 glaignicmo.com
 glaingotseemt.net
 gnenuelnn.com
+go-clicks.de
 go.mobisla.com
 gogglemessenger.com
 gouthoat.com
@@ -340,14 +339,12 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
-pagerank-server7.de
 papaneecorche.com
 pasheeheghie.net
 passion-4.net
 pc2ads.com
 pefsustazvzgop.com
 petchesa.net
-pgjt26tsm.com
 phamsacm.net
 phocmogo.com
 photographpan.com
