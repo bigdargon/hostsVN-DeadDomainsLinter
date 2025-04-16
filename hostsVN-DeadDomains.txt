@@ -23,12 +23,6 @@ aj1549.online
 aj1754.online
 aj2498.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -84,6 +78,7 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv655.me
 ads.livetv681.me
 ads.livetv785.me
 ads.livetv787.me
@@ -102,7 +97,6 @@ ad.chieuhoa.com
 ads.inetgroup.vn
 bidgear-syndication.com
 demopage.me
-upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 live.vnpgroup.net
@@ -135,7 +129,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.co.uk
 adsrveys.com
-adxpose.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
@@ -197,6 +190,7 @@ convertedhorace.com
 cousesheethain.net
 cpxadroit.com
 craveandlamb.com
+crowdgravity.com
 curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
@@ -204,7 +198,6 @@ cyjprljyvgqeg.com
 dangerouswinter.com
 daufouwhoag.net
 dckifhpovvbpb.com
-dedicatedmedia.com
 deewansturacin.com
 defensive-living.com
 delegatediscussion.com
@@ -243,6 +236,7 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faukeeshie.com
+findcommerce.com
 fixespreoccupation.com
 fopteefteex.com
 frameworkdeserve.com
@@ -250,11 +244,11 @@ frightenedpotato.com
 frllfmjaku.com
 ftte.xyz
 ga-ads.com
+galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
 gnenuelnn.com
-go-clicks.de
 go.mobisla.com
 gogglemessenger.com
 gouthoat.com
@@ -311,7 +305,7 @@ leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
-liquidad.narrowcastmedia.com
+loopassume.com
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
@@ -321,6 +315,7 @@ magetrigla.com
 mamsauphoachoap.net
 maximumcash.com
 mediamind.com
+megacash.de
 messagenovice.com
 messenger-notify.digital
 metahv.xyz
@@ -330,7 +325,6 @@ mkkvprwskq.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
-moolahmedia.com
 moomenog.com
 munchenviableski.com
 namol.xyz
@@ -520,5 +514,6 @@ zmedia.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 usergrid.com
 yoursitestatstube.ru
