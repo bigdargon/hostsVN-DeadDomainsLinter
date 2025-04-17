@@ -111,7 +111,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -342,7 +341,6 @@ ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 papaneecorche.com
 pasheeheghie.net
