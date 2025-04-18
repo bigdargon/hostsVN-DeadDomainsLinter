@@ -5,6 +5,7 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -55,7 +56,9 @@ wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
 demopage.me
+serving-ad.tv24.vn
 tvc.biphim.club
+upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
 track.winigroup.vn
@@ -76,6 +79,7 @@ ad.foxnetworks.com
 adbunker.com
 adinfuse.com
 adlite.net
+ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
@@ -87,6 +91,7 @@ advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 agxoxnyum.com
+an.cliphub.net
 api.ampiri.com
 armoursviolino.com
 artax-evn.com
@@ -102,7 +107,6 @@ axkwmsivme.com
 b0oie4xjeb4ite.com
 b5e75c56.com
 baivideewou.com
-banner.casino.net
 banner.coza.com
 baresi.xyz
 bawdybeast.com
@@ -113,6 +117,7 @@ beshucklean.com
 bestadbid.com
 betmagnezonea.com
 bezzzxoscu.com
+blackbrake.com
 blacknesskeepplan.com
 blueswordksh.com
 brechtembrowd.com
@@ -141,6 +146,7 @@ constructpoll.com
 convertedhorace.com
 cousesheethain.net
 cpxadroit.com
+craveandlamb.com
 croniesobli.com
 cutepopcorn.com
 cvvczlcg.com
@@ -228,6 +234,7 @@ innocentwax.com
 instrumentsponge.com
 intnotif.club
 ionigravida.com
+irncdn.com
 ixyyijop.com
 jadeitite.com
 jhxakdmdlz.com
@@ -251,6 +258,7 @@ kuno-gae.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
+lo8ve6ygour3pea4cee.com
 lowseelan.com
 lp3tdqle.com
 lvtuucmyfpz.com
@@ -369,6 +377,7 @@ speakspurink.com
 spurioussteam.com
 spywarelabs.com
 static-ads.akamaized.net
+static.scptpx.com
 static.scroll.com
 steinfqwe6782beck.com
 stichaur.net
@@ -381,6 +390,7 @@ svkmxwssih.com
 tccnqgnmeveay.com
 terrapsps.com
 thads.cc
+tharbadir.com
 that-muscle.com
 thedevband.com
 thhwzyuktk.com
@@ -446,6 +456,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
+zmedia.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
