@@ -43,11 +43,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 pgmcdn.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
@@ -186,7 +181,6 @@ circularnothing.com
 cjbmanagement.com
 clckysudks.com
 clicklink.jp
-clicktag.de
 clkads.com
 clkofafcbk.com
 coappreciate.com
@@ -452,6 +446,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -487,7 +482,6 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
 www.money4exit.de
@@ -517,4 +511,5 @@ burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
 richmetrics.com
+suriflowers.com
 yoursitestatstube.ru
