@@ -1,4 +1,4 @@
-# Version: 2504161522
+# Version: 2504181046
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -268,6 +268,7 @@
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
+||baonhanh.online^
 ||baosaoviet24h.net^
 ||baothanhnien.top^
 ||baotienphong.net^
