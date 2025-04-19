@@ -1,4 +1,4 @@
-# Version: 2504182239
+# Version: 2504191536
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -17199,6 +17199,7 @@
 ||valvyre.com^
 ||vanfireworks.com^
 ||vantagemarketads.com^
+||vanwuqjujnf.com^
 ||variablefitness.com^
 ||varietyofdisplayformats.com^
 ||variouscreativeformats.com^
