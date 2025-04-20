@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 native.propellerclick.com
 beacon.statful.com
 aj1549.online
@@ -434,6 +428,7 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
+witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
 www.money4exit.de
@@ -448,7 +443,6 @@ ycxajdcpesguqh.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonomastara.com
-yougotacheck.com
 ypmtvlaktm.com
 ytimm.com
 z5x.net
