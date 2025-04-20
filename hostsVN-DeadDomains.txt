@@ -81,6 +81,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
+adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adsmart.co.uk
