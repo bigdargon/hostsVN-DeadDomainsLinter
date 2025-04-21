@@ -88,6 +88,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
+ads.printscr.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -144,7 +145,6 @@ circularnothing.com
 cjbmanagement.com
 clckysudks.com
 clicklink.jp
-clicktag.de
 clkofafcbk.com
 coappreciate.com
 connect.scroll.com
@@ -312,7 +312,6 @@ ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 passion-4.net
@@ -469,5 +468,4 @@ bjdxhs.com
 burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 yoursitestatstube.ru
