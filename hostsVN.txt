@@ -1,4 +1,4 @@
-# Version: 2504210922
+# Version: 2504211548
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10226,6 +10226,8 @@
 ||media.daly2024.com^
 ||srv.daly2024.com^
 ||track.daly2024.com^
+||ads.mozilla.org^
+||incoming.telemetry.mozilla.org^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -17970,7 +17972,6 @@
 ||imp.pvnsolutions.com^
 ||in.treasuredata.com^
 ||incoming-telemetry.thunderbird.net^
-||incoming.telemetry.mozilla.org^
 ||inside-graph.com^
 ||invitejs.trustpilot.com^
 ||invoca.net^
