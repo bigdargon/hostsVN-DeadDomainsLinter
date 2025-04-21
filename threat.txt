@@ -1,4 +1,4 @@
-# Version: 2504191536
+# Version: 2504210922
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -1241,6 +1241,7 @@
 ||hvay.xyz^
 ||hzmksreiuojy.ru^
 ||i-goda.shop^
+||i-j.site^
 ||i-sacombank.com^
 ||i-shopping888.com^
 ||i-vietcombank.com^

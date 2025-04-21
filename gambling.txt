@@ -1,4 +1,4 @@
-# Version: 2504191536
+# Version: 2504210922
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -55749,6 +55749,7 @@
 ||cms.staticbom88.win^
 ||cms.staticdu88.win^
 ||cms.staticga88.pro^
+||cms.statickbet.win^
 ||cms.v79top.com^
 ||cms.vh79.com^
 ||cmy.pt.cdn-bebo.com^
@@ -69909,6 +69910,7 @@
 ||kb99.net^
 ||kb999.app^
 ||kbbet.win^
+||kbet.com^
 ||kbl2019.com^
 ||kbo12.com^
 ||kbo123fnlk513sfj264fjalfj.club^
@@ -80718,6 +80720,7 @@
 ||staticbom88.win^
 ||staticdu88.win^
 ||staticga88.pro^
+||statickbet.win^
 ||staticnet88.com^
 ||staticone88.com^
 ||statictx88.win^
