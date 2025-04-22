@@ -55,11 +55,9 @@ img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 demopage.me
-tvc.biphim.club
 analytics.amedigital.vn
 live.vnpgroup.net
 track.winigroup.vn
@@ -77,7 +75,6 @@ aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
-adaction.de
 adbunker.com
 adinfuse.com
 adlite.net
@@ -440,7 +437,6 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
 www.money4exit.de
