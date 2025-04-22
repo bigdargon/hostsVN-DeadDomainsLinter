@@ -1,4 +1,4 @@
-# Version: 2504211548
+# Version: 2504220912
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13929,6 +13929,7 @@
 ||d3f4nuq5dskrej.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
 ||d3j8pfor58pj90.cloudfront.net^
+||d3jqverr.pro^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3ou4areduq72f.cloudfront.net^
@@ -15032,6 +15033,7 @@
 ||korgiejoinyou.com^
 ||kostprice.com^
 ||kqzyfj.com^
+||kraapmanmb.com^
 ||krisydark.com^
 ||krjxhvyyzp.com^
 ||kronosspell.com^
@@ -15074,6 +15076,7 @@
 ||laxativestuckunclog.com^
 ||layer-ad.de^
 ||layer-ads.de^
+||lbmqciazrpm.com^
 ||lbn.ru^
 ||lby2kd27c.com^
 ||leadbolt.net^
@@ -16241,6 +16244,7 @@
 ||raresummer.com^
 ||rate.ru^
 ||razzedwhimsic.website^
+||rcvlink.com^
 ||rcyorjkze.com^
 ||rdr.wargaming.net^
 ||rduaagcwsw.com^
@@ -16921,6 +16925,7 @@
 ||tidaltv.com^
 ||tidy-mark.com^
 ||tieszhu.com^
+||tiiytaekjajw.com^
 ||tinybar.com^
 ||tipcatscarola.com^
 ||tipsembankment.com^
