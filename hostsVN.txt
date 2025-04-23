@@ -1,4 +1,4 @@
-# Version: 2504220912
+# Version: 2504230943
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13367,6 +13367,7 @@
 ||blutrumpet.com^
 ||bm.annonce.cz^
 ||bmaahwahpofp.com^
+||bmmads.com^
 ||bmycupptafr.com^
 ||bn.bfast.com^
 ||bngpt.com^
@@ -14965,6 +14966,7 @@
 ||jpjmpqaupc.com^
 ||jpovulldaghw.com^
 ||jrbicvcnx.com^
+||js.mbidadm.com^
 ||js.wpncdn.com^
 ||js.wpnjs.com^
 ||js.wpnsrv.com^
@@ -15577,6 +15579,7 @@
 ||novemberseatsuccession.com^
 ||nowheresank.com^
 ||npipajajn.com^
+||nqucjilr.com^
 ||nrc.tapas.net^
 ||nrs6ffl9w.com^
 ||nsfwadds.com^
@@ -15968,6 +15971,7 @@
 ||plugrush.com^
 ||plusungratefulinstruction.com^
 ||plutothejewel.com^
+||pmagumovfma.com^
 ||pnuhondppw.com^
 ||poawooptugroo.com^
 ||pocitadlo.cz^
@@ -16742,6 +16746,7 @@
 ||stichaur.net^
 ||stickerchapelsailing.com^
 ||stingyshoe.com^
+||stnyirechxxi.com^
 ||stoampaliy.net^
 ||stolenforensicssausage.com^
 ||stoopfalse.com^
