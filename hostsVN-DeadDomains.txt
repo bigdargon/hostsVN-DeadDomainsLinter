@@ -104,6 +104,7 @@ adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmart.co.uk
 adsrveys.com
 adyieldoptimizer.com
@@ -140,7 +141,6 @@ beshucklean.com
 bestadbid.com
 betmagnezonea.com
 bezzzxoscu.com
-blackbrake.com
 blacknesskeepplan.com
 blueswordksh.com
 brechtembrowd.com
