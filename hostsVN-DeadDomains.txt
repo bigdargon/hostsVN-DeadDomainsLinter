@@ -1,9 +1,17 @@
+a4.tl
+sdk.a4.tl
 native.propellerclick.com
 beacon.statful.com
 aj1549.online
 aj1754.online
 aj2498.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -21,6 +29,9 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -42,10 +53,16 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv683.me
+ads.livetv687.me
+ads.livetv691.me
+ads.livetv701.me
+ads.livetv703.me
 ads.livetv788.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
+mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -54,9 +71,13 @@ wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
 demopage.me
+serving-ad.tv24.vn
+upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
+log.bizlive.vn
 track.winigroup.vn
+vietnamdaily-log.trithuccuocsong.vn
 0redird.com
 228tuchuang.com
 2433march2024.com
@@ -66,6 +87,7 @@ track.winigroup.vn
 2441march2024.com
 2447march2024.com
 2451march2024.com
+4d5.net
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
@@ -88,6 +110,7 @@ adyieldoptimizer.com
 afcnuchxgo.com
 africaewgrhdtb.com
 agxoxnyum.com
+an.cliphub.net
 api.ampiri.com
 armoursviolino.com
 artax-evn.com
@@ -95,6 +118,7 @@ asgclickpop.com
 audraghafamign.net
 aulteeby.net
 autjaetpxhj.com
+auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 awaps.net
@@ -103,6 +127,7 @@ axkwmsivme.com
 b0oie4xjeb4ite.com
 b5e75c56.com
 baivideewou.com
+banner.coza.com
 banner.mindshare.de
 baresi.xyz
 bawdybeast.com
@@ -220,6 +245,7 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
+ilbanner.com
 imageshh.com
 immerseweariness.com
 importedincrease.com
@@ -249,6 +275,7 @@ klsdee.com
 knurleddeblock.guru
 kronosspell.com
 kuno-gae.com
+leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
@@ -368,6 +395,7 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spurioussteam.com
+spywarelabs.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
@@ -431,6 +459,7 @@ wibtntmvox.com
 woamowhoastoup.net
 wreaksyolkier.com
 www.money4exit.de
+xclicks.net
 xdiwbc.com
 xeiidlkuxsos.com
 xovq5nemr.com
@@ -452,6 +481,7 @@ zeepmedia.com
 zintext.com
 zmedia.com
 bjdxhs.com
+burstly.com
 cankaowang.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
