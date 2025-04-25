@@ -24,9 +24,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -48,6 +45,9 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv655.me
+ads.livetv664.me
+ads.livetv673.me
 ads.livetv683.me
 ads.livetv687.me
 ads.livetv691.me
@@ -93,7 +93,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-ads.thrillsaffiliates.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -183,7 +182,6 @@ doaglunoupa.net
 dorkingvoust.com
 downstairsnegotiatebarren.com
 drydrum.com
-dsp.io
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
