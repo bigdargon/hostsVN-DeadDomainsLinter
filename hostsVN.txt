@@ -1,4 +1,4 @@
-# Version: 2504251100
+# Version: 2504251413
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -16567,6 +16567,7 @@
 ||shiverscissors.com^
 ||shndrktrk.com^
 ||shoordaird.com^
+||shopeevn-affiliate.blogspot.com^
 ||shoppingads.com^
 ||shopzilla.com^
 ||shorteh.com^
