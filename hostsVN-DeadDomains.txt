@@ -44,6 +44,8 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv671.me
+ads.livetv676.me
 ads.livetv683.me
 ads.livetv687.me
 ads.livetv788.me
@@ -270,7 +272,6 @@ magetrigla.com
 mamsauphoachoap.net
 maximumcash.com
 mediamind.com
-megacash.de
 messagenovice.com
 metahv.xyz
 missitzantiot.com
@@ -307,7 +308,6 @@ ovlliiwtxgjlz.com
 oxthrilled.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 passion-4.net
@@ -358,6 +358,7 @@ rsalcau.com
 ruckingefs.com
 ruwertur.com
 seaboblit.com
+sermonoccupied.com
 setypckq.com
 shakytaste.com
 shestour.net
