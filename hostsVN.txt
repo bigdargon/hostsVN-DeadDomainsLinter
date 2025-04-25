@@ -1,4 +1,4 @@
-# Version: 2504241416
+# Version: 2504251100
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -15896,6 +15896,7 @@
 ||percentmobile.com^
 ||perfectaudience.com^
 ||perfiliate.com^
+||perfoliateratchetspecial.com^
 ||performanceadexchange.com^
 ||performancerevenue.com^
 ||performancerevenues.com^
@@ -17644,6 +17645,7 @@
 ||zantracker.com^
 ||zap.buzz^
 ||zarpop.com^
+||zavawvsa.com^
 ||zazmunokpvzi.com^
 ||zazporn.com^
 ||zbwp6ghm.com^
