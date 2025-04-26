@@ -44,9 +44,7 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
-ads.livetv683.me
 ads.livetv687.me
-ads.livetv705.me
 ads.livetv788.me
 aj2566.bid
 aj3007.bid
@@ -92,6 +90,7 @@ ads.horyzon-media.com
 adsclick.cc
 adserver.quizdingo.com
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 africaewgrhdtb.com
@@ -200,6 +199,7 @@ frightenedpotato.com
 frllfmjaku.com
 ftte.xyz
 ga-ads.com
+galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
