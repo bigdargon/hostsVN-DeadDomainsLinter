@@ -1,4 +1,3 @@
-native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -30,8 +29,6 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv625.me
 ads.livetv626.me
@@ -393,6 +390,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
