@@ -4,6 +4,7 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
+aj1549.online
 aj1754.online
 aj2498.online
 ajxx91.online
@@ -82,7 +83,6 @@ adyieldoptimizer.com
 afcnuchxgo.com
 africaewgrhdtb.com
 agxoxnyum.com
-an.cliphub.net
 api.ampiri.com
 armoursviolino.com
 artax-evn.com
@@ -366,7 +366,6 @@ speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
-stichaur.net
 stickerchapelsailing.com
 stunninglover.com
 subheroalgores.com
@@ -449,4 +448,5 @@ zintext.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 yoursitestatstube.ru
