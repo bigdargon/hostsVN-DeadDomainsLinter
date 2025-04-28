@@ -44,9 +44,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
@@ -448,5 +445,4 @@ zintext.com
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 yoursitestatstube.ru
