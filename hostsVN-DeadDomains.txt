@@ -4,7 +4,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-aj1549.online
 aj1754.online
 aj2498.online
 ajxx91.online
@@ -346,7 +345,6 @@ rsalcau.com
 ruckingefs.com
 ruwertur.com
 seaboblit.com
-sendmepixel.com
 setypckq.com
 shakytaste.com
 shestour.net
