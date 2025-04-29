@@ -1,4 +1,4 @@
-# Version: 2504251413
+# Version: 2504291013
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10228,6 +10228,8 @@
 ||track.daly2024.com^
 ||ads.mozilla.org^
 ||incoming.telemetry.mozilla.org^
+||provenpixel.com^
+||upx.provenpixel.com^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -12081,6 +12083,7 @@
 ||a.sakh.com^
 ||a.xanga.com^
 ||a135.wftv.com^
+||a1b.net^
 ||a2tw6yoodsag.com^
 ||a300.adstattrack.com^
 ||a400.adstattrack.com^
@@ -12852,6 +12855,7 @@
 ||afcnuchxgo.com^
 ||afearprevoid.com^
 ||aff.bstatic.com^
+||aff2.childish2x2.fun^
 ||affbuzzads.com^
 ||affcpatrk.com^
 ||affec.tv^
@@ -12922,6 +12926,7 @@
 ||ajouter.net^
 ||ajvhagmuvfm.com^
 ||ak-ads-ns.prisasd.com^
+||ak.argrowlitheor.com^
 ||ak.atclauncheran.com^
 ||ak.bymetapodchan.com^
 ||ak.ceegriwuwoa.net^
@@ -12930,6 +12935,7 @@
 ||ak.offstaryutor.com^
 ||ak.oneegrou.net^
 ||ak.ptailadsol.net^
+||ak.stikroltiltoowi.net^
 ||ak.unblitzlean.com^
 ||ak0gsh40.com^
 ||akmxts.com^
@@ -13543,6 +13549,7 @@
 ||cbmall.com^
 ||cbx.net^
 ||cccpmo.com^
+||ccg90.com^
 ||ccjzuavqrh.com^
 ||cd-ads.com^
 ||cdn-plus.roxot-panel.com^
@@ -14610,6 +14617,7 @@
 ||guppymedia.com^
 ||gutackaxgo.com^
 ||guvnatar.com^
+||gvsnhzmjr.com^
 ||gwallet.com^
 ||gwfqxkelp.com^
 ||gwyvusam.com^
@@ -15998,6 +16006,7 @@
 ||pompadawe.com^
 ||pontiflex.com^
 ||ponysomebodymartyr.com^
+||poowucatuz.net^
 ||pop-under.ru^
 ||pop.bid^
 ||pop5sjhspear.com^
@@ -16192,6 +16201,7 @@
 ||qjwglnuwqvr.com^
 ||qlfqkjluvz.com^
 ||qlpenuxctkhwv.com^
+||qmixnhyxc.com^
 ||qnp16tstw.com^
 ||qnsr.com^
 ||qojrlxsbxvfqqx.com^
@@ -16418,6 +16428,7 @@
 ||rtbrenab.com^
 ||rtbrennab.com^
 ||rtbsystem.org^
+||rtcheajfn.com^
 ||rtk.io^
 ||rtyznd.com^
 ||ru-traffic.com^
@@ -16635,6 +16646,7 @@
 ||snebbubbled.com^
 ||snoobi.com^
 ||snowdayonline.xyz^
+||snuff-brownsprintcountry.com^
 ||snugglethesheep.com^
 ||snxewpxrhegslq.com^
 ||soaheeme.net^
@@ -17083,6 +17095,7 @@
 ||trusting-produce.com^
 ||trustisimportant.fun^
 ||trustlearningclearly.com^
+||tshfc.com^
 ||tsiwqtng8huauw30n.com^
 ||tstats-13fkh44r.com^
 ||ttgmjfgldgv9ed10.com^
@@ -17091,6 +17104,7 @@
 ||tubemogul.com^
 ||tuesdayfetidlit.com^
 ||tuffoonincaged.com^
+||tufoknaqzolp.com^
 ||tumblebit.com^
 ||tumblebit.org^
 ||tunnedlehua.com^
@@ -17207,6 +17221,7 @@
 ||uxumhgvends.com^
 ||uyledjlevq.com^
 ||uyunad.com^
+||uz.louchefunnel.shop^
 ||uzxkuwalnjp.com^
 ||v6rxv5coo5.com^
 ||vacationmonday.com^
@@ -17882,6 +17897,7 @@
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2klx87bgzngce.cloudfront.net^
+||d2o5idwacg3gyw.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2uhnetoehh304.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
@@ -17893,6 +17909,7 @@
 ||data.abebooks.com^
 ||data.adxcel-ec2.com^
 ||databerries.com^
+||db7q4jg5rkhk8.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||ddla593ymz72o.cloudfront.net^
 ||dig.bdurl.net^
