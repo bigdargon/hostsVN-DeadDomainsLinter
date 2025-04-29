@@ -4,6 +4,15 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -28,6 +37,12 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -67,6 +82,7 @@ vietnamdaily-log.trithuccuocsong.vn
 2441march2024.com
 2447march2024.com
 2451march2024.com
+4d5.net
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
@@ -75,6 +91,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
+ads.thrillsaffiliates.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -101,6 +118,7 @@ axiomaticalley.com
 axkwmsivme.com
 b5e75c56.com
 baivideewou.com
+banner.coza.com
 banner.mindshare.de
 baresi.xyz
 bawdybeast.com
@@ -120,6 +138,7 @@ broaddoor.com
 btcadtop.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buzzardcraizey.com
 calculatingtoothbrush.com
 canangafierier.uno
@@ -129,6 +148,7 @@ chertouz.net
 chinsnakes.com
 chioneflake.com
 chokedsmelt.com
+circularnothing.com
 clckysudks.com
 clicklink.jp
 clkofafcbk.com
@@ -161,6 +181,7 @@ doaglunoupa.net
 dorkingvoust.com
 downstairsnegotiatebarren.com
 drydrum.com
+dsp.io
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
@@ -216,6 +237,7 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
+ilbanner.com
 imageshh.com
 immerseweariness.com
 importedincrease.com
@@ -316,6 +338,7 @@ poggdgdwutcmbx.com
 politegoldfish.com
 pompadawe.com
 proetusbramble.com
+pronetadvertising.com
 proposedpartly.com
 providingcrechepartnership.com
 psausuck.net
@@ -335,6 +358,7 @@ record.bonniergaming.com
 reflushneuma.com
 regnow.com
 resolutekey.com
+resolvedswordlinked.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 ritzykey.com
@@ -369,7 +393,9 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spurioussteam.com
+spywarelabs.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
@@ -392,6 +418,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -449,7 +476,10 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
+zmedia.com
 bjdxhs.com
+burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+usergrid.com
 yoursitestatstube.ru
