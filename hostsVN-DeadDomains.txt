@@ -13,11 +13,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -94,7 +89,6 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 advinci.co
 adyieldoptimizer.com
 afcnuchxgo.com
@@ -159,6 +153,7 @@ croniesobli.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
+dalysb.com
 dangerouswinter.com
 daufouwhoag.net
 deewansturacin.com
@@ -208,7 +203,6 @@ frllfmjaku.com
 ftte.xyz
 ga-ads.com
 gaijiglo.net
-galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
@@ -278,7 +272,6 @@ lzexnxwjsmof.com
 made2you.com
 magetrigla.com
 mamsauphoachoap.net
-mathcountryside.com
 maximumcash.com
 mediamind.com
 messagenovice.com
@@ -319,7 +312,6 @@ oxthrilled.com
 ozmbzowg.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 pc2ads.com
@@ -399,6 +391,7 @@ subheroalgores.com
 sunnycategoryopening.com
 supapush.net
 svkmxwssih.com
+syndetstermine.com
 tccnqgnmeveay.com
 tdpjzjpfuiis.com
 terrapsps.com
@@ -447,7 +440,6 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
 www.advinci.co
@@ -476,6 +468,5 @@ bjdxhs.com
 burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 usergrid.com
 yoursitestatstube.ru
