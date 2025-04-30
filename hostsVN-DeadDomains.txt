@@ -90,6 +90,7 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+advariant.com
 advinci.co
 adyieldoptimizer.com
 afcnuchxgo.com
@@ -206,6 +207,7 @@ frllfmjaku.com
 ftte.xyz
 ga-ads.com
 gaijiglo.net
+galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
@@ -414,7 +416,6 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
