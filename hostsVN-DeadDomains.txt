@@ -42,6 +42,8 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv625.me
 ads.livetv626.me
@@ -57,12 +59,15 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+mautic.educe.vn
+mautic.serverhub.vn
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
 analytics.amedigital.vn
 live.vnpgroup.net
+log.bizlive.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
@@ -79,12 +84,12 @@ aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
 adbunker.com
+adkchtmtns.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
@@ -94,6 +99,7 @@ afcnuchxgo.com
 affiliates.devilfishpartners.com
 africaewgrhdtb.com
 agxoxnyum.com
+an.cliphub.net
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -110,6 +116,7 @@ b5e75c56.com
 baivideewou.com
 banner.coza.com
 banner.mindshare.de
+bannermarkt.nl
 baresi.xyz
 bawdybeast.com
 baypops.com
@@ -142,6 +149,7 @@ chokedsmelt.com
 circularnothing.com
 clckysudks.com
 clicklink.jp
+clicktag.de
 clkofafcbk.com
 coappreciate.com
 consciouschairs.com
@@ -149,12 +157,14 @@ constructpoll.com
 convertedhorace.com
 cousesheethain.net
 cpxadroit.com
+craveandlamb.com
 croniesobli.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
 dangerouswinter.com
 daufouwhoag.net
+dckifhpovvbpb.com
 deewansturacin.com
 defensive-bad.com
 delegatediscussion.com
@@ -271,7 +281,9 @@ lzexnxwjsmof.com
 made2you.com
 magetrigla.com
 mamsauphoachoap.net
+mathcountryside.com
 maximumcash.com
+medialets.com
 mediamind.com
 messagenovice.com
 metahv.xyz
@@ -283,6 +295,7 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 munchenviableski.com
+nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 navelfletch.com
@@ -311,7 +324,6 @@ oxthrilled.com
 ozmbzowg.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 pc2ads.com
@@ -336,11 +348,13 @@ publicunloadbags.com
 pukqysdsgt.com
 pushazer.com
 pzshzhja.com
+qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 quenchskirmishcohere.com
 qxadsk.com
 raphanysteers.com
+rbkhpjfwtmirk.com
 receptiveink.com
 reflushneuma.com
 regnow.com
@@ -354,6 +368,7 @@ rkksbrkwdqbop.com
 rkvldurquedh.com
 rngpaluydont.com
 roacheenazak.com
+rockabox.co
 romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
@@ -386,6 +401,7 @@ static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
+stnyirechxxi.com
 stunninglover.com
 subheroalgores.com
 sunnycategoryopening.com
@@ -394,6 +410,7 @@ svkmxwssih.com
 tccnqgnmeveay.com
 tdpjzjpfuiis.com
 terrapsps.com
+tharbadir.com
 that-muscle.com
 thedevband.com
 thhwzyuktk.com
@@ -404,6 +421,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
@@ -429,6 +447,7 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 ventivmedia.com
 verninchange.com
+view4cash.de
 virleth.com
 vnwtjgaqlsui.com
 voopsookie.net
@@ -439,8 +458,10 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
+witch-counter.de
 woamowhoastoup.net
 wreaksyolkier.com
+wtlive.com
 www.advinci.co
 www.money4exit.de
 xclicks.net
@@ -463,10 +484,10 @@ zeegreen.net
 zeepmedia.com
 zintext.com
 zmedia.com
+analytics.hostyour.video
 bjdxhs.com
 burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 usergrid.com
 yoursitestatstube.ru
