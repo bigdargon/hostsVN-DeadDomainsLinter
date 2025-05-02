@@ -48,14 +48,12 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
-mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
-ads.autonet.com.vn
 ads.inetgroup.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -81,6 +79,7 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
+adsage.cn
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -145,13 +144,11 @@ consciouschairs.com
 constructpoll.com
 convertedhorace.com
 cousesheethain.net
-cpxadroit.com
 croniesobli.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
 dalyai.com
-dalysh.com
 dangerouswinter.com
 daufouwhoag.net
 dckifhpovvbpb.com
@@ -200,10 +197,8 @@ frameworkdeserve.com
 frightenedpotato.com
 frllfmjaku.com
 ftte.xyz
-g0push.com
 ga-ads.com
 gaijiglo.net
-galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
@@ -212,7 +207,6 @@ go.padstm.com
 gogglemessenger.com
 gouthoat.com
 grandioseguide.com
-greatlove.pro
 grewquartersupporting.com
 grirtouy.com
 grooksom.com
@@ -312,7 +306,6 @@ onenetworkdirect.com
 onmarshtompor.com
 openads.org
 orbsclawand.com
-orige-duo.com
 ostaigukeshoak.com
 outwoodeuropa.com
 oversnubbulltor.com
@@ -322,7 +315,6 @@ ozmbzowg.com
 p.hogmc.net
 padstm.com
 panaxive.com
-parentlargevia.com
 pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
@@ -414,7 +406,6 @@ tharbadir.com
 that-muscle.com
 thedevband.com
 thhwzyuktk.com
-thiem-csl.com
 thirstytwig.com
 tidy-mark.com
 tiiytaekjajw.com
@@ -422,7 +413,6 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tracker-pm2.spilleren.com
-trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -489,5 +479,6 @@ burstly.com
 cankaowang.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 usergrid.com
 yoursitestatstube.ru
