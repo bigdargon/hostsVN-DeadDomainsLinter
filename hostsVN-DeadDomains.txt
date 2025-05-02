@@ -30,10 +30,7 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
-ads.livetv625.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -325,6 +322,7 @@ politegoldfish.com
 pompadawe.com
 proetusbramble.com
 proposedpartly.com
+prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 ptukasti.com
@@ -411,6 +409,7 @@ trustisimportant.fun
 typiconrices.com
 tzhrmcnidxqwrb.com
 ubewpjbfo.com
+ueikno.com
 uhealth.care
 uktwvhfezyvxn.com
 unknowntray.com
