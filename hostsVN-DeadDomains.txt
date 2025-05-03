@@ -78,9 +78,7 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-adsage.cn
 adsclick.cc
-adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
 advinci.co
