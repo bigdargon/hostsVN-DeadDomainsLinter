@@ -1,3 +1,6 @@
+googleads-cn.com
+native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -16,6 +19,8 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
@@ -36,13 +41,17 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+app2.jeoway.net
+jana1.jeoway.net
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.inetgroup.vn
+serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
@@ -58,11 +67,13 @@ vietnamdaily-log.trithuccuocsong.vn
 2441march2024.com
 2447march2024.com
 2451march2024.com
+4d5.net
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
 adbunker.com
+adinfuse.com
 adkchtmtns.com
 adlite.net
 ads.cdn2-img.net
@@ -79,6 +90,7 @@ afcnuchxgo.com
 affiliates.devilfishpartners.com
 africaewgrhdtb.com
 agxoxnyum.com
+an.cliphub.net
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -93,7 +105,9 @@ axiomaticalley.com
 axkwmsivme.com
 b5e75c56.com
 baivideewou.com
+banner.coza.com
 banner.mindshare.de
+banner.penguin.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -323,6 +337,7 @@ publicunloadbags.com
 pukqysdsgt.com
 pushazer.com
 pzshzhja.com
+qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -373,6 +388,7 @@ spanuletubings.com
 speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
