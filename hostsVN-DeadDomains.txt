@@ -79,6 +79,7 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 adsclick.cc
+adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
 advinci.co
