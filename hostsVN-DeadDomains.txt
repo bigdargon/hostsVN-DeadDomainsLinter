@@ -74,6 +74,7 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+adsage.cn
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -316,7 +317,6 @@ phamsacm.net
 phocmogo.com
 photographpan.com
 pistolsizehoe.com
-pixel.personagraph.com
 podsklzegshmnd.com
 poggdgdwutcmbx.com
 politegoldfish.com
