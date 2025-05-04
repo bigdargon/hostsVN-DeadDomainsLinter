@@ -1,4 +1,4 @@
-# Version: 2505031445
+# Version: 2505041552
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -9952,6 +9952,7 @@
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||log-upload-os.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
+||log-upload-os.hoyolab.com^
 ||ad-nex.com^
 ||img.ad-nex.com^
 ||pemsrv.com^
@@ -17347,6 +17348,7 @@
 ||vugnubier.com^
 ||vugpakba.com^
 ||vujdudspear.com^
+||vwahacrubri.com^
 ||vyfrxuytzn.com^
 ||w3i.com^
 ||w454n74qw.com^
@@ -17670,6 +17672,7 @@
 ||yrscfbbegumijt.com^
 ||yrumdfslwabv.com^
 ||ytimm.com^
+||ytjnpxiiqsblwb.com^
 ||yuilop.com^
 ||yume.com^
 ||yyselrqpyu.com^
