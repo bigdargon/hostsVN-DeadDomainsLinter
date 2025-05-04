@@ -1,4 +1,3 @@
-googleads-cn.com
 native.propellerclick.com
 beacon.statful.com
 aj1549.online
@@ -55,7 +54,6 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
-log.vnfinance.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
@@ -366,7 +364,6 @@ rsalcau.com
 ruckingefs.com
 ruwertur.com
 seaboblit.com
-sendmepixel.com
 setypckq.com
 shakytaste.com
 shestour.net
