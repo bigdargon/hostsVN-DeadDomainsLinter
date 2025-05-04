@@ -74,7 +74,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-adsage.cn
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -405,6 +404,7 @@ tiiytaekjajw.com
 tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -468,5 +468,6 @@ analytics.hostyour.video
 bjdxhs.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 usergrid.com
 yoursitestatstube.ru
