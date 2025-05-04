@@ -41,9 +41,6 @@ aj3017.bid
 aj101.xyz
 mautic.educe.vn
 mautic.serverhub.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
