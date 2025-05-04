@@ -1,3 +1,8 @@
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -17,6 +22,9 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+b91vip.com
+image.b91vip.com
+www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -24,6 +32,8 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -44,11 +54,14 @@ app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.inetgroup.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
+analytics.tintuc.vn
 live.vnpgroup.net
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -61,7 +74,9 @@ vietnamdaily-log.trithuccuocsong.vn
 2441march2024.com
 2447march2024.com
 2451march2024.com
+2471april2024.com
 aabtrrnspgtdi.com
+abruptroad.com
 abyocawlfe.com
 achieverknee.com
 adbunker.com
@@ -69,9 +84,11 @@ adinfuse.com
 adkchtmtns.com
 adlite.net
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
@@ -81,6 +98,7 @@ afcnuchxgo.com
 affiliates.devilfishpartners.com
 africaewgrhdtb.com
 agxoxnyum.com
+allstarmediagroup.com
 an.cliphub.net
 armoursviolino.com
 artax-evn.com
@@ -97,7 +115,6 @@ axkwmsivme.com
 b5e75c56.com
 baivideewou.com
 banner.mindshare.de
-banner.penguin.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -113,6 +130,7 @@ bezzzxoscu.com
 blacknesskeepplan.com
 blueswordksh.com
 brechtembrowd.com
+broadboundary.com
 broaddoor.com
 btcadtop.com
 bunceptsclosingh.com
@@ -128,6 +146,7 @@ chinsnakes.com
 chioneflake.com
 chokedsmelt.com
 circularnothing.com
+cjbmanagement.com
 clckysudks.com
 clicklink.jp
 clkofafcbk.com
@@ -144,6 +163,7 @@ cyjprljyvgqeg.com
 dalyai.com
 dangerouswinter.com
 daufouwhoag.net
+dckifhpovvbpb.com
 deewansturacin.com
 defensive-bad.com
 delegatediscussion.com
@@ -176,6 +196,7 @@ encounterboastful.com
 entertainingeyes.com
 eqgmnmqlz.com
 esellerate.net
+exclusivebrass.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -203,6 +224,7 @@ grewquartersupporting.com
 grirtouy.com
 grooksom.com
 gsnb048lj.com
+gvsnhzmjr.com
 handkerchiefpersonnel.com
 hbwncbwgyvgt.com
 heraldet.com
@@ -295,6 +317,7 @@ olmsoneenh.info
 omniscientspark.com
 onenetworkdirect.com
 onmarshtompor.com
+openads.org
 orbsclawand.com
 ostaigukeshoak.com
 outwoodeuropa.com
@@ -315,6 +338,7 @@ photographpan.com
 pistolsizehoe.com
 podsklzegshmnd.com
 poggdgdwutcmbx.com
+pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 proetusbramble.com
@@ -375,6 +399,7 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spurioussteam.com
+spywarelabs.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 stichaur.net
@@ -400,6 +425,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 trafficads.net
+trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -414,6 +440,7 @@ untidyquestion.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upspinarakor.com
 urigagxnji.com
 uselnk.com
 uuomdlaslopcrx.com
@@ -461,6 +488,7 @@ zeepmedia.com
 zintext.com
 analytics.hostyour.video
 bjdxhs.com
+burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
 usergrid.com
