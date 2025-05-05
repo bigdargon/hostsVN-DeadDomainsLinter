@@ -61,7 +61,6 @@ ads.inetgroup.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
-analytics.tintuc.vn
 live.vnpgroup.net
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -436,7 +435,6 @@ untidyquestion.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
-upspinarakor.com
 urigagxnji.com
 uselnk.com
 uuomdlaslopcrx.com
