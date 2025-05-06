@@ -39,8 +39,6 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -131,7 +129,6 @@ brechtembrowd.com
 broadboundary.com
 broaddoor.com
 btcadtop.com
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -275,7 +272,6 @@ leetmenllew.com
 lessemujust.live
 likedstring.com
 link4ads.com
-literalcorpulent.com
 lo8ve6ygour3pea4cee.com
 lowseelan.com
 lp3tdqle.com
@@ -340,6 +336,7 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+presidestatelycondition.com
 proetusbramble.com
 pronetadvertising.com
 proposedpartly.com
