@@ -3,7 +3,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -493,5 +492,6 @@ bjdxhs.com
 burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 usergrid.com
 yoursitestatstube.ru
