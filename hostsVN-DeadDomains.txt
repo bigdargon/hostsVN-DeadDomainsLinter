@@ -1,3 +1,8 @@
+2mdnsys.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 native.propellerclick.com
 aj1549.online
 aj1754.online
@@ -26,6 +31,7 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -34,6 +40,8 @@ www.imstks.com
 c.netund.com
 netund.com
 pgmcdn.com
+cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -60,6 +68,8 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
+ads.livetv686.me
+ads.livetv705.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -103,9 +113,11 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -127,8 +139,10 @@ axiomaticalley.com
 axkwmsivme.com
 b5e75c56.com
 baivideewou.com
+banner.casino.net
 banner.coza.com
 banner.mindshare.de
+banner.nixnet.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -172,6 +186,7 @@ cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
 dalyai.com
+dalysh.com
 dangerouswinter.com
 daufouwhoag.net
 dckifhpovvbpb.com
@@ -224,6 +239,7 @@ frllfmjaku.com
 ftte.xyz
 ga-ads.com
 gaijiglo.net
+galaxien.com
 geephugagee.com
 glaignicmo.com
 glaingotseemt.net
@@ -249,6 +265,7 @@ iaglkpracviogn.com
 ichachoakiglop.com
 idyllteapots.com
 iifvcfwiqi.com
+ilbanner.com
 imageshh.com
 immerseweariness.com
 importedincrease.com
@@ -297,6 +314,7 @@ made2you.com
 magetrigla.com
 mamsauphoachoap.net
 maximumcash.com
+medialets.com
 mediamind.com
 messagenovice.com
 metahv.xyz
@@ -318,6 +336,7 @@ newstarads.com
 noerwe5gianfor19e4st.com
 nqucjilr.com
 nwhnzkbfsnpf.com
+nzaza.com
 oahaurti.com
 oarouwousti.com
 observantice.com
@@ -349,6 +368,7 @@ phocmogo.com
 photographpan.com
 pistolsizehoe.com
 pixel.personagraph.com
+planesknob.com
 podsklzegshmnd.com
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -371,6 +391,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
+quarterserver.de
 quenchskirmishcohere.com
 qxadsk.com
 raphanysteers.com
@@ -440,7 +461,9 @@ tiiytaekjajw.com
 tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
+tpnads.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
@@ -474,6 +497,7 @@ wellmadefrog.com
 wheensamufouk.net
 whoonseepoutche.net
 wibtntmvox.com
+window.nixnet.cz
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
@@ -493,6 +517,7 @@ ylcziaipyztvv.com
 yonomastara.com
 yougotacheck.com
 ypmtvlaktm.com
+yrscfbbegumijt.com
 ytimm.com
 z5x.net
 zbwp6ghm.com
