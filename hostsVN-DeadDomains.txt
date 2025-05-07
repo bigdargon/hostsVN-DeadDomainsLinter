@@ -1,14 +1,4 @@
 native.propellerclick.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -78,11 +68,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -380,7 +365,6 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
-presidestatelycondition.com
 proetusbramble.com
 pronetadvertising.com
 proposedpartly.com
@@ -445,7 +429,6 @@ spanuletubings.com
 speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
@@ -461,6 +444,7 @@ tdpjzjpfuiis.com
 terrapsps.com
 thads.cc
 tharbadir.com
+that-muscle.com
 thedevband.com
 thhwzyuktk.com
 thirstytwig.com
@@ -507,7 +491,6 @@ woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
 www.money4exit.de
-www.servsave.com
 xclicks.net
 xeiidlkuxsos.com
 xkesalwueyz.com
