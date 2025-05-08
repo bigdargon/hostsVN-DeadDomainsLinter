@@ -113,7 +113,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
@@ -297,6 +296,7 @@ klsdee.com
 knurleddeblock.guru
 kronosspell.com
 kuno-gae.com
+kvtaaa.top
 lbmqciazrpm.com
 leestoptee.com
 leetmenllew.com
