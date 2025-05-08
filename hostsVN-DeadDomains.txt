@@ -50,8 +50,6 @@ www.b91vip.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -326,7 +324,6 @@ newstarads.com
 noerwe5gianfor19e4st.com
 nqucjilr.com
 nwhnzkbfsnpf.com
-nzaza.com
 oahaurti.com
 oarouwousti.com
 observantice.com
