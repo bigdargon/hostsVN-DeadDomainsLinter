@@ -1,4 +1,4 @@
-# Version: 2505071022
+# Version: 2505080858
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14752,7 +14752,6 @@
 ||hppvkbfcuq.com^
 ||hrjbylofyso.com^
 ||htlbid.com^
-||html-load.com^
 ||httpool.com^
 ||htyqiwzunj.com^
 ||htyzpilijhki.com^
