@@ -3,7 +3,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-native.propellerclick.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -37,8 +36,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-c.netund.com
-netund.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
@@ -87,7 +84,6 @@ ads.inetgroup.vn
 mobileads.dieuviet.com
 analytics.amedigital.vn
 live.vnpgroup.net
-log.vnfinance.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
 0redird.com
@@ -370,7 +366,6 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
-presidestatelycondition.com
 proetusbramble.com
 proposedpartly.com
 providingcrechepartnership.com
