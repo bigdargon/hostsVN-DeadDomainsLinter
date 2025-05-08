@@ -18,6 +18,7 @@ static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
+magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 gadskis.com
