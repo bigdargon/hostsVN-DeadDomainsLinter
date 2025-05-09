@@ -23,8 +23,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-push.showcasethat.com
-stats.showcasethat.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
