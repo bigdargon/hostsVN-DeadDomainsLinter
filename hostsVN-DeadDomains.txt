@@ -8,14 +8,6 @@ aj1549.online
 aj1754.online
 aj2498.online
 ajxx91.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -59,9 +51,6 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -123,7 +112,6 @@ abruptroad.com
 abyocawlfe.com
 achieverknee.com
 adbunker.com
-adcloud.net
 adinfuse.com
 adkchtmtns.com
 adlite.net
@@ -144,7 +132,6 @@ anymoresentencevirgin.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
-ataccwpdiqqnfl.com
 audraghafamign.net
 aulteeby.net
 autjaetpxhj.com
@@ -514,7 +501,6 @@ woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
 www.money4exit.de
-www.servsave.com
 xclicks.net
 xeiidlkuxsos.com
 xkesalwueyz.com
@@ -537,7 +523,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
-zmedia.com
 analytics.hostyour.video
 bjdxhs.com
 burstly.com
