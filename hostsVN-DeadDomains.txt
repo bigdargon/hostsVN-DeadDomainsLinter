@@ -29,9 +29,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-b91vip.com
-image.b91vip.com
-www.b91vip.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
