@@ -61,7 +61,6 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
-ads.livetv681.me
 ads.livetv686.me
 ads.livetv689.me
 ads.livetv697.me
@@ -122,7 +121,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 africaewgrhdtb.com
