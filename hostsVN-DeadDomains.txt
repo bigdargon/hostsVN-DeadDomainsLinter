@@ -29,7 +29,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
@@ -48,6 +47,7 @@ ads.livetv644.me
 ads.livetv686.me
 ads.livetv689.me
 aj2566.bid
+aj3007.bid
 aj3017.bid
 aj101.xyz
 adv.klick.vn
@@ -474,7 +474,6 @@ woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
 www.money4exit.de
-www.servsave.com
 xclicks.net
 xeiidlkuxsos.com
 xkesalwueyz.com
