@@ -32,11 +32,6 @@ xml.showcasethat.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -376,7 +371,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-quarterserver.de
 quenchskirmishcohere.com
 qxadsk.com
 raphanysteers.com
