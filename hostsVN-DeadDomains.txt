@@ -66,8 +66,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -444,6 +442,7 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tpnads.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
