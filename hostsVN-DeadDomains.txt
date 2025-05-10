@@ -68,7 +68,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -79,7 +78,6 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 upfile16.mediaphim.com
-alexajstrack.com
 analytics.amedigital.vn
 live.vnpgroup.net
 track.winigroup.vn
@@ -402,9 +400,7 @@ rqaefhvkkxls.com
 rsalcau.com
 ruckingefs.com
 ruwertur.com
-rvotdlvpwmynan.xyz
 seaboblit.com
-sendmepixel.com
 setypckq.com
 shakytaste.com
 shestour.net
@@ -514,6 +510,7 @@ zeepmedia.com
 zintext.com
 analytics.hostyour.video
 bjdxhs.com
+burstly.com
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
 yoursitestatstube.ru
