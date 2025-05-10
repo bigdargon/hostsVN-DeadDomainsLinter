@@ -9,7 +9,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-static.cbsileads.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -49,7 +48,6 @@ ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
 ads.livetv686.me
-ads.livetv689.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -455,7 +453,6 @@ tirosagalite.com
 tkoqgxnvt.com
 total-fee.com
 tpnads.com
-trafficads.net
 tranquilside.com
 trustisimportant.fun
 typiconrices.com
