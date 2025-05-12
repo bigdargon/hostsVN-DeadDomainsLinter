@@ -74,8 +74,6 @@ app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -132,7 +130,6 @@ axkwmsivme.com
 b5e75c56.com
 baivideewou.com
 banner.coza.com
-bannerconnect.net
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -169,6 +166,7 @@ clckysudks.com
 clicklink.jp
 clkofafcbk.com
 coappreciate.com
+compactbanner.com
 consciouschairs.com
 constructpoll.com
 convertedhorace.com
@@ -447,7 +445,6 @@ speakspurink.com
 spurioussteam.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
-stichaur.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stunninglover.com
@@ -536,6 +533,7 @@ z5x.net
 zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
+zijaipse.com
 zintext.com
 analytics.hostyour.video
 bjdxhs.com
