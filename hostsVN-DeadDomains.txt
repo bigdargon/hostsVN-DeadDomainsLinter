@@ -14,16 +14,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 aj1549.online
 aj1754.online
 aj2498.online
@@ -77,9 +67,6 @@ ads.livetv639.me
 ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
-ads.livetv681.me
-ads.livetv683.me
-ads.livetv686.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -99,7 +86,6 @@ upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
 track.winigroup.vn
-vietnamdaily-log.trithuccuocsong.vn
 0redird.com
 228tuchuang.com
 2433march2024.com
