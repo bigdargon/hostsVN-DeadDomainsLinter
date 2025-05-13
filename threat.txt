@@ -1,4 +1,4 @@
-# Version: 2505071021
+# Version: 2505130924
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -219,6 +219,7 @@
 ||apple.support-find-my-iphone.com^
 ||apple.support-maps.live^
 ||applecare-icloud.com^
+||applestorevn.com^
 ||apps-for-pc.com^
 ||appvaytien.vn^
 ||apteka-money.ru^
@@ -4671,6 +4672,7 @@
 ||www.abc-vay.com^
 ||www.acs84.com^
 ||www.amadbfk.vip^
+||www.applestorevn.com^
 ||www.bao-moi.pro^
 ||www.baovietvc.top^
 ||www.bapoder.com^
