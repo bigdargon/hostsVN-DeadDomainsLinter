@@ -42,7 +42,6 @@ t.imstks.com
 www.imstks.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-delivery.adsterra.org
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -111,7 +110,6 @@ jana1.jeoway.net
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
@@ -145,6 +143,7 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
+adserver.pl
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
@@ -216,8 +215,10 @@ circularnothing.com
 cjbmanagement.com
 clckysudks.com
 clicklink.jp
+clicktag.de
 clkofafcbk.com
 coappreciate.com
+compactbanner.com
 consciouschairs.com
 constructpoll.com
 convertedhorace.com
@@ -302,6 +303,7 @@ geephugagee.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
+gloalrie.com
 gloarteegnu.com
 gmobhnktqiur.com
 go.mobisla.com
@@ -577,6 +579,7 @@ valuationbothertoo.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 verninchange.com
+view4cash.de
 virleth.com
 vnwtjgaqlsui.com
 voopsookie.net
@@ -623,6 +626,6 @@ zmedia.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-showbiz.owndata.network
+suriflowers.com
 worldgravity.com
 yoursitestatstube.ru
