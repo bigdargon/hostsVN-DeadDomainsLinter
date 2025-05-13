@@ -57,7 +57,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 delivery.taroads.com
@@ -99,8 +98,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -143,11 +140,9 @@ ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.pl
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -215,10 +210,8 @@ circularnothing.com
 cjbmanagement.com
 clckysudks.com
 clicklink.jp
-clicktag.de
 clkofafcbk.com
 coappreciate.com
-compactbanner.com
 consciouschairs.com
 constructpoll.com
 convertedhorace.com
@@ -303,7 +296,6 @@ geephugagee.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
-gloalrie.com
 gloarteegnu.com
 gmobhnktqiur.com
 go.mobisla.com
@@ -579,7 +571,6 @@ valuationbothertoo.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 verninchange.com
-view4cash.de
 virleth.com
 vnwtjgaqlsui.com
 voopsookie.net
@@ -626,6 +617,5 @@ zmedia.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 worldgravity.com
 yoursitestatstube.ru
