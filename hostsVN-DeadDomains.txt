@@ -19,8 +19,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-n.popclck.org
-st-n.popclck.org
 cdn.bidfilter.com
 gadskis.com
 madsecz.com
@@ -36,8 +34,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -68,7 +64,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adx.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -364,7 +359,6 @@ nefdcnmvbt.com
 newstarads.com
 noerwe5gianfor19e4st.com
 nqucjilr.com
-nvcrcf.com
 nwhnzkbfsnpf.com
 oahaurti.com
 oarouwousti.com
@@ -571,5 +565,6 @@ zintext.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 worldgravity.com
 yoursitestatstube.ru
