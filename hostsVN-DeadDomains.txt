@@ -19,8 +19,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -107,6 +105,7 @@ jana1.jeoway.net
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 live.vnpgroup.net
@@ -128,7 +127,6 @@ abruptroad.com
 abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
-ad1.emediate.dk
 adbunker.com
 adinfuse.com
 adkchtmtns.com
@@ -171,7 +169,6 @@ b5e75c56.com
 baivideewou.com
 banner.casino.net
 banner.mindshare.de
-banner.nixnet.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -207,7 +204,6 @@ chioneflake.com
 chokedsmelt.com
 chullohagrode.com
 circularnothing.com
-cjbmanagement.com
 clckysudks.com
 clicklink.jp
 clkofafcbk.com
@@ -228,7 +224,6 @@ dalysh.com
 dangerouswinter.com
 daufouwhoag.net
 dckifhpovvbpb.com
-dedicatedmedia.com
 deewansturacin.com
 defensive-bad.com
 delegatediscussion.com
@@ -252,7 +247,6 @@ dummieseardrum.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
-ebuzzing.com
 ebvvvnjesjgx.com
 efyglwbapki.com
 ehiibetu.com
@@ -270,7 +264,6 @@ eogaeapolaric.com
 eqgmnmqlz.com
 erosyndc.com
 esellerate.net
-euros4click.de
 exclusivebrass.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -280,7 +273,6 @@ facebookad.for88vn.com
 fagywalu.pro
 faukeeshie.com
 febadu.com
-findcommerce.com
 fixespreoccupation.com
 flagmantensity.com
 foogeetoary.net
@@ -442,7 +434,6 @@ photographpan.com
 pienbitore.com
 pistolsizehoe.com
 planesknob.com
-pocrowpush.com
 podsklzegshmnd.com
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -585,7 +576,6 @@ wheensamufouk.net
 whoonseepoutche.net
 whuwoawain.com
 wibtntmvox.com
-window.nixnet.cz
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
