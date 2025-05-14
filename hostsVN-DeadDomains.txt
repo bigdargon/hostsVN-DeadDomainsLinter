@@ -19,9 +19,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 gadskis.com
 madsecz.com
@@ -44,9 +41,6 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
-b91vip.com
-image.b91vip.com
-www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -378,7 +372,6 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 munchenviableski.com
-namol.xyz
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -592,6 +585,5 @@ zintext.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 worldgravity.com
 yoursitestatstube.ru
