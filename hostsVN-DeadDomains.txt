@@ -50,10 +50,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -75,15 +71,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
-www.klick.vn
 adx.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -532,6 +519,7 @@ untidyquestion.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upset-project.com
 urigagxnji.com
 uselnk.com
 uuomdlaslopcrx.com
