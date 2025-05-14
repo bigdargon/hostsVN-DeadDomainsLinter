@@ -36,11 +36,6 @@ t.imstks.com
 www.imstks.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -575,6 +570,5 @@ zintext.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
-suriflowers.com
 worldgravity.com
 yoursitestatstube.ru
