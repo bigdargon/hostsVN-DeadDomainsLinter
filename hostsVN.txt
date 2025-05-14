@@ -1,4 +1,4 @@
-# Version: 2505131633
+# Version: 2505141618
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13023,6 +13023,7 @@
 ||amusingsnow.pro^
 ||an.cliphub.net^
 ||anahtars.com^
+||ancotvpaxoz.com^
 ||anewfeedliberty.com^
 ||anglemarrowoccurs.com^
 ||anjzallkoomb.com^
@@ -13873,6 +13874,7 @@
 ||cpaconvtrk.net^
 ||cpalead.com^
 ||cpays.com^
+||cpfqsubp.com^
 ||cpm-ad.com^
 ||cpmaffiliation.com^
 ||cpmrevenuegate.com^
@@ -14161,6 +14163,7 @@
 ||doubleclickbygoogle.com^
 ||doublepimpads.com^
 ||douglasjamestraining.com^
+||dowerlesssightseehow.com^
 ||downstairsnegotiatebarren.com^
 ||dozubatan.com^
 ||dpyabvkadg.com^
@@ -17684,6 +17687,7 @@
 ||xius.com^
 ||xjrwxfdphc.com^
 ||xkesalwueyz.com^
+||xldncyivwazvfy.com^
 ||xlviiirdr.com^
 ||xlwaluyw.com^
 ||xlx1.com^
