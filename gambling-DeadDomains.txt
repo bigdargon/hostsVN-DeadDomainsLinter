@@ -433,10 +433,12 @@
 127488.com
 127744.com
 127hgv.com
-128166.com
 128167.com
 128252.com
+<<<<<<< Updated upstream
 128292.com
+=======
+>>>>>>> Stashed changes
 12964.net
 12smartbet.com
 1314bg.com
@@ -885,6 +887,7 @@
 1xbetbet.icu
 1xbetbrasil.net
 1xbetcorp.com
+1xbetindo.net
 1xbetlp.com
 1xbetonline.in
 1xbetplay.com
@@ -1198,7 +1201,6 @@
 2340i5.com
 2340j1.com
 2340j4.com
-2340k2.com
 2340p1.com
 2340r1.com
 2340s9.com
@@ -2171,7 +2173,6 @@
 5898m.com
 5898p.com
 5898r.com
-5898s.com
 5898u.com
 5898w.com
 5898z.com
@@ -3506,6 +3507,7 @@
 8868az2.com
 8868yabo.com
 8870099.com
+887093.com
 887194.com
 8871yabo.com
 88739.org
@@ -3572,7 +3574,6 @@
 8913yabo.com
 8914yabo.com
 8915yabo.com
-8917390.com
 891yb.com
 892056.com
 8922yabo.com
@@ -3660,9 +3661,7 @@
 8x8bet.asia
 8xbet.agency
 8xbet.net
-8xbet333.com
 8xbet365.site
-8xbet444.com
 8xbet666.com
 8xbet789.com
 8xbet868.com
@@ -3945,6 +3944,7 @@
 97882.wang
 9789bet.com
 978yb.com
+97916.com
 979238.com
 98311.wang
 9838a3.com
@@ -4988,7 +4988,6 @@ fucai04.com
 fucai06.com
 fucai07.com
 fucai09.com
-fun129.com
 fun2221.com
 fun309.com
 fun8728.com
@@ -5037,6 +5036,7 @@ gbh93.com
 gbnl8iu.com
 genvip88.com
 gff23.com
+gg288.net
 gg8.website
 ggg6732.com
 gh5550029.com
@@ -5261,9 +5261,13 @@ i9bet.tw
 i9betmedia1.com
 ichadoh55.vip
 idr6644.com
+iemf.net
 ig909.com
 img.hbsf888.com
+<<<<<<< Updated upstream
 in724.com
+=======
+>>>>>>> Stashed changes
 ipl365a.com
 iu667tongle.com
 ivip9game.com
@@ -6269,6 +6273,7 @@ shbet82.com
 shibet40.com
 shuntaiplastic.com
 shwe168.com
+shxx021.com
 sijiucaipiaoapp.com
 sk6225.com
 sk6226.com
