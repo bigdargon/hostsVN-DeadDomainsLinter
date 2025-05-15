@@ -35,8 +35,6 @@ t.imstks.com
 www.imstks.com
 ad.samsungadhub.com
 samsungadhub.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -184,7 +182,6 @@ dalyai.com
 dalysh.com
 dangerouswinter.com
 daufouwhoag.net
-dckifhpovvbpb.com
 deewansturacin.com
 defensive-bad.com
 delegatediscussion.com
@@ -560,4 +557,5 @@ zintext.com
 analytics.hostyour.video
 czx5eyk0exbhwp43ya.biz
 go.ad1data.com
+suriflowers.com
 yoursitestatstube.ru
