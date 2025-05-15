@@ -38,8 +38,6 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
