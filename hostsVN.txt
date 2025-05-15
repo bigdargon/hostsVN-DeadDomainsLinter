@@ -1,4 +1,4 @@
-# Version: 2505141618
+# Version: 2505151426
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -11642,6 +11642,7 @@
 ||crocopop.com^
 ||csmads.gameclick.vn^
 ||delivery.doisongphapluat.com.vn^
+||delivery.lsvn.vn^
 ||delivery.senvangvn.com^
 ||delivery.upremium.asia^
 ||demopage.me^
@@ -11984,6 +11985,7 @@
 ||tracking.fff.com.vn^
 ||tracking.gapone.vn^
 ||tracking.hapiwork.vn^
+||tracking.lsvn.vn^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
 ||tracking.saostar.vn^
@@ -13528,6 +13530,7 @@
 ||bwp.download.com^
 ||bzwo2lmwioxa.com^
 ||bzydilasq.com^
+||bzyfzusiqohk.com^
 ||c.bannerflow.net^
 ||c.bigmir.net^
 ||c.cdn-server.top^
@@ -14590,6 +14593,7 @@
 ||gloos-zus.info^
 ||glootang.net^
 ||gloriousoutfieldtrembling.com^
+||glpweawxkodtvta.com^
 ||glugherg.net^
 ||glutenmuttsensuous.com^
 ||gmads.net^
@@ -14647,6 +14651,7 @@
 ||grewquartersupporting.com^
 ||greyinstrument.com^
 ||greystripe.com^
+||gridaisefty.com^
 ||grirtouy.com^
 ||grishoussaiz.com^
 ||gristleupanaya.com^
@@ -15076,6 +15081,7 @@
 ||kaulouvaun.com^
 ||kaurieseluxate.com^
 ||kcaapxanwv.com^
+||kdpxksukngrg.com^
 ||ke.minterhazes.com^
 ||keapeiros.xyz^
 ||kedaddinfinemem.com^
@@ -15713,6 +15719,7 @@
 ||obituaryfuneral.com^
 ||objectionsunited.com^
 ||obliquecensortend.com^
+||obnoljac.com^
 ||obradjgifja.com^
 ||obscenesidewalk.com^
 ||observantice.com^
@@ -16672,6 +16679,7 @@
 ||shoppingads.com^
 ||shopzilla.com^
 ||shorteh.com^
+||shuceposhaiftoo.net^
 ||shunsipticogral.net^
 ||sibautomation.com^
 ||siccash.com^
@@ -17110,6 +17118,7 @@
 ||totemcash.com^
 ||touchads.com^
 ||touchclarity.com^
+||touphudipodou.net^
 ||tour.brazzers.com^
 ||tpnads.com^
 ||tpudapafr.com^
@@ -17613,6 +17622,7 @@
 ||www.doubleclickbygoogle.com^
 ||www.emjcd.com^
 ||www.fbcdn2.com^
+||www.gamee.forum^
 ||www.geniusdexchange.com^
 ||www.go-rillatrack.com^
 ||www.groupm.com^
