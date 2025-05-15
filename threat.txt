@@ -1,4 +1,4 @@
-# Version: 2505151403
+# Version: 2505152159
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -1616,6 +1616,7 @@
 ||luuvanquang.com^
 ||lvietcombank.com^
 ||lzd2024.com^
+||m-facebook.com.vn^
 ||m-facebookk.com.vn^
 ||m-fb.com^
 ||m-fb.site^
