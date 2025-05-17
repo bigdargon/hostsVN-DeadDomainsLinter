@@ -3,15 +3,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -33,7 +24,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -252,6 +242,7 @@ facebookad.for88vn.com
 fagywalu.pro
 faukeeshie.com
 febadu.com
+findcommerce.com
 fixespreoccupation.com
 flagmantensity.com
 foogeetoary.net
@@ -270,7 +261,6 @@ ginpithed.live
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-go-clicks.de
 go.mobisla.com
 go.padstm.com
 gogglemessenger.com
@@ -409,7 +399,6 @@ photographpan.com
 pienbitore.com
 pistolsizehoe.com
 planesknob.com
-pocrowpush.com
 podsklzegshmnd.com
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -425,7 +414,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pushazer.com
 pushmeup.art
-pushup.wtf
 puwpush.com
 pzshzhja.com
 qmixnhyxc.com
@@ -451,7 +439,6 @@ rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkvldurquedh.com
 rngpaluydont.com
-roacheenazak.com
 roashudiweeh.com
 romauntmirker.com
 rosolicdalapon.com
