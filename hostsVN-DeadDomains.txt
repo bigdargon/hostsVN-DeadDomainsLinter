@@ -57,9 +57,6 @@ aj101.xyz
 k8s2.testcentre.vn
 testcentre.vn
 mautic.serverhub.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
@@ -99,7 +96,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 adsclick.cc
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -241,7 +237,6 @@ ftte.xyz
 ga-ads.com
 gaijiglo.net
 gaiwhouvile.com
-galaxien.com
 gbbqyadej.com
 geephugagee.com
 ginpithed.live
