@@ -48,7 +48,6 @@ ads.livetv644.me
 ads.livetv683.me
 ads.livetv697.me
 ads.livetv701.me
-ads.livetv708.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -556,5 +555,4 @@ analytics.hostyour.video
 burstly.com
 go.ad1data.com
 usergrid.com
-worldgravity.com
 yoursitestatstube.ru
