@@ -51,18 +51,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
-www.klick.vn
-k8s2.testcentre.vn
-testcentre.vn
-adx.vn
 mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -71,7 +59,6 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
-bidgear-syndication.com
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -259,6 +246,7 @@ futuristicfairies.com
 ga-ads.com
 gaijiglo.net
 gaiwhouvile.com
+galaxien.com
 gbbqyadej.com
 geephugagee.com
 gelclinchfranz.com
