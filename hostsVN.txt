@@ -1,4 +1,4 @@
-# Version: 2505152159
+# Version: 2505182338
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10271,6 +10271,10 @@
 ||bid.ssp.bance.jp^
 ||js.ssp.bance.jp^
 ||tr.ssp.bance.jp^
+||prd1.personalization.centech.glulive.com^
+||prd1.revid.centech.glulive.com^
+||berryessa.stats.live-video.net^
+||player.stats.live-video.net^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -14687,6 +14691,7 @@
 ||gvsnhzmjr.com^
 ||gwallet.com^
 ||gwfqxkelp.com^
+||gwvlrourhdkp.com^
 ||gwyvusam.com^
 ||gyfumobo.com^
 ||gzefitkcep.com^
@@ -15081,6 +15086,7 @@
 ||kaulouvaun.com^
 ||kaurieseluxate.com^
 ||kcaapxanwv.com^
+||kdm8.com^
 ||kdpxksukngrg.com^
 ||ke.minterhazes.com^
 ||keapeiros.xyz^
@@ -15972,6 +15978,7 @@
 ||pc2ads.com^
 ||pcash.imlive.com^
 ||pcmclk.com^
+||pearlysweepoverface.com^
 ||pebadu.com^
 ||pectationselea.info^
 ||peelismramona.com^
@@ -16337,6 +16344,7 @@
 ||r0ckeet.com^
 ||radiate.com^
 ||radiumone.com^
+||radxabsah.com^
 ||raggedstriking.com^
 ||railingperformance.com^
 ||railwayrainstorm.com^
