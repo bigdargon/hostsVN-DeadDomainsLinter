@@ -8,14 +8,9 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
 image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
-tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -121,6 +116,7 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -130,7 +126,6 @@ aiglaidra.com
 aigretsulaups.net
 allstarmediagroup.com
 anymoresentencevirgin.com
-api.ampiri.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -276,6 +271,7 @@ futuristicfairies.com
 ga-ads.com
 gaijiglo.net
 gaiwhouvile.com
+galaxien.com
 gbbqyadej.com
 geephugagee.com
 gelclinchfranz.com
