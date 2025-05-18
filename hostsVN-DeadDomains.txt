@@ -92,7 +92,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -381,7 +380,6 @@ oxthrilled.com
 ozmbzowg.com
 p.hogmc.net
 padstm.com
-pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 pc2ads.com
