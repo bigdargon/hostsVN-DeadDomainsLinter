@@ -8,11 +8,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-image.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -79,6 +74,7 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+service.adlinknetwork.vn
 ad.chieuhoa.com
 bidgear-syndication.com
 upfile16.mediaphim.com
@@ -116,7 +112,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -271,7 +266,6 @@ futuristicfairies.com
 ga-ads.com
 gaijiglo.net
 gaiwhouvile.com
-galaxien.com
 gbbqyadej.com
 geephugagee.com
 gelclinchfranz.com
