@@ -27,15 +27,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-dsp.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -118,11 +109,13 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 adsclick.cc
+adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -266,6 +259,7 @@ facebookad.for88vn.com
 fagywalu.pro
 faukeeshie.com
 febadu.com
+findcommerce.com
 fixespreoccupation.com
 flagmantensity.com
 foogeetoary.net
@@ -374,6 +368,7 @@ made2you.com
 madriyelowd.com
 mamsauphoachoap.net
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mediacharger.com
 mediamind.com
@@ -424,6 +419,7 @@ oxthrilled.com
 ozmbzowg.com
 p.hogmc.net
 padstm.com
+pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 pc2ads.com
@@ -599,6 +595,7 @@ wheensamufouk.net
 whoonseepoutche.net
 whuwoawain.com
 wibtntmvox.com
+witch-counter.de
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
@@ -633,4 +630,5 @@ zintext.com
 analytics.hostyour.video
 go.ad1data.com
 richmetrics.com
+suriflowers.com
 yoursitestatstube.ru
