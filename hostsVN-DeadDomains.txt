@@ -99,7 +99,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -312,6 +311,7 @@ ipyefimivc.com
 ivhwlnlcgi.com
 ixyyijop.com
 izleskulked.shop
+jacadpjirs.com
 jadeitite.com
 jhxakdmdlz.com
 jighucme.com
@@ -356,7 +356,6 @@ maximumcash.com
 mediacharger.com
 medialets.com
 mediamind.com
-megacash.de
 messagenovice.com
 metahv.xyz
 mgepuynxttyi.com
@@ -567,6 +566,7 @@ waigoakauhou.com
 wairowomoaps.com
 walkingtutor.com
 wateryvan.com
+wcuamsmakq.com
 webpushdirect.biz
 wellmadefrog.com
 weuppwrlcper.com
@@ -574,7 +574,6 @@ wheensamufouk.net
 whoonseepoutche.net
 whuwoawain.com
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
@@ -594,7 +593,6 @@ xsaeafkfilbcur.com
 xtremeserve.xyz
 yawnspuker.com
 ycxajdcpesguqh.com
-yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yougotacheck.com
@@ -605,9 +603,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
-zmedia.com
 analytics.hostyour.video
 go.ad1data.com
-suriflowers.com
 usergrid.com
 yoursitestatstube.ru
