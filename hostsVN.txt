@@ -1,4 +1,4 @@
-# Version: 2505182338
+# Version: 2505192329
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14640,6 +14640,7 @@
 ||gostats.com^
 ||gouthoat.com^
 ||gp.dejanews.com^
+||gpfvumsxtbf.com^
 ||gplayer.kmpmedia.net^
 ||gpttuucg.com^
 ||gq.binesyorker.com^
@@ -15739,6 +15740,7 @@
 ||odfohvwi.com^
 ||odfsmijima.com^
 ||odgomfabcas.com^
+||odqdkealzr.com^
 ||oewa.at^
 ||oewabox.at^
 ||offclaydolon.com^
@@ -17733,6 +17735,7 @@
 ||y.ibsys.com^
 ||yaarlnk.com^
 ||yads.c.yimg.jp^
+||yakbwmncsfnqgvx.com^
 ||yawnspuker.com^
 ||ybrantdigital.com^
 ||ybs2ffs7v.com^
@@ -17740,6 +17743,7 @@
 ||ycxajdcpesguqh.com^
 ||ydworld.com^
 ||yealnk.com^
+||yeljusxttq.com^
 ||yesads.com^
 ||yesadvertising.com^
 ||yespetor.com^
