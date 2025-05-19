@@ -11,6 +11,7 @@ spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
+aj1863.online
 aj2498.online
 ajxx91.online
 classic.marketolive.com
@@ -100,6 +101,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
+adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -529,7 +531,6 @@ tkoqgxnvt.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
@@ -609,5 +610,6 @@ zintext.com
 zmedia.com
 analytics.hostyour.video
 go.ad1data.com
+suriflowers.com
 usergrid.com
 yoursitestatstube.ru
