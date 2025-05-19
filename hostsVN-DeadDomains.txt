@@ -48,8 +48,6 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -106,6 +104,7 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -353,10 +352,12 @@ made2you.com
 madriyelowd.com
 mamsauphoachoap.net
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mediacharger.com
 medialets.com
 mediamind.com
+megacash.de
 messagenovice.com
 metahv.xyz
 mgepuynxttyi.com
@@ -528,6 +529,7 @@ tkoqgxnvt.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
 trustisimportant.fun
