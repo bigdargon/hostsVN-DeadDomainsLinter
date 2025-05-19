@@ -19,8 +19,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -102,7 +100,6 @@ adbunker.com
 adinfuse.com
 adkchtmtns.com
 adlite.net
-adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
@@ -119,6 +116,7 @@ africaewgrhdtb.com
 agxoxnyum.com
 aiglaidra.com
 aigretsulaups.net
+alebrinkfed.com
 allstarmediagroup.com
 anymoresentencevirgin.com
 armoursviolino.com
@@ -139,7 +137,6 @@ baivideewou.com
 banner.casino.net
 banner.coza.com
 banner.mindshare.de
-banner.nixnet.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -365,6 +362,7 @@ maximumcash.com
 mediacharger.com
 medialets.com
 mediamind.com
+megacash.de
 messagenovice.com
 metahv.xyz
 mg2connext.com
@@ -410,6 +408,7 @@ oxthrilled.com
 ozmbzowg.com
 p.hogmc.net
 padstm.com
+pagerank-server7.de
 panaxive.com
 pasheeheghie.net
 pc2ads.com
@@ -539,9 +538,9 @@ tkoqgxnvt.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
-trendcounter.com
 trustisimportant.fun
 tygsqtkyiwxb.com
 typiconrices.com
@@ -586,7 +585,6 @@ wheensamufouk.net
 whoonseepoutche.net
 whuwoawain.com
 wibtntmvox.com
-window.nixnet.cz
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
