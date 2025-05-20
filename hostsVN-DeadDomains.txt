@@ -107,7 +107,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
@@ -587,7 +586,6 @@ wheensamufouk.net
 whoonseepoutche.net
 whuwoawain.com
 wibtntmvox.com
-witch-counter.de
 woamowhoastoup.net
 wonderlandads.com
 wreaksyolkier.com
@@ -621,5 +619,4 @@ zeepmedia.com
 zintext.com
 analytics.hostyour.video
 go.ad1data.com
-suriflowers.com
 yoursitestatstube.ru
