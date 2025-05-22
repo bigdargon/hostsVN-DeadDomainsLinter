@@ -14,12 +14,6 @@ aj1754.online
 aj1863.online
 aj2498.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -566,6 +560,7 @@ toathoule.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 trustisimportant.fun
 tygsqtkyiwxb.com
@@ -650,7 +645,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
-analytics.hostyour.video
 go.ad1data.com
 showbiz.owndata.network
 usergrid.com
