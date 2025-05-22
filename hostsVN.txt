@@ -1,4 +1,4 @@
-# Version: 2505192329
+# Version: 2505221357
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -11431,6 +11431,7 @@
 ||log-thanhnien.epicdn.me^
 ||log-thuonggiaonline.epicdn.me^
 ||log-tinnhanhchungkhoan.epicdn.me^
+||logv2-kienthuc.epicdn.me^
 ||ads.thanhnien.vn^
 ||ai.thanhnien.vn^
 ||log.thanhnien.vn^
@@ -11829,6 +11830,7 @@
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log-tamnhin.kienthuc.net.vn^
 ||log-video.baotintuc.vn^
 ||log.1vn.app^
 ||log.247post.vn^
@@ -11895,6 +11897,7 @@
 ||logs.thethaovanhoa.vn^
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
+||logv2.kienthuc.net.vn^
 ||logv3.metric.vn^
 ||ma.tgdd.vn^
 ||matomo.bantheme.xyz^
@@ -14874,6 +14877,7 @@
 ||ihhqwaurke.com^
 ||ii.decastebonise.com^
 ||iifvcfwiqi.com^
+||iiqbttkbfvgyo.com^
 ||ikahnruntx.com^
 ||ikengoti.com^
 ||ikilrategroahe.com^
@@ -15272,6 +15276,7 @@
 ||lowseelan.com^
 ||lowtyroguer.com^
 ||lp3tdqle.com^
+||lpuodgmca.com^
 ||lreapfalkguh.com^
 ||lryadsotb.com^
 ||lryofjrfogp.com^
@@ -15529,6 +15534,7 @@
 ||mrybahnw.com^
 ||mscoldness.com^
 ||msgose.com^
+||msvobeuhec.com^
 ||mt34iofvjay.com^
 ||mtree.com^
 ||mufsresuwoxg.com^
@@ -17425,6 +17431,7 @@
 ||vmmpxl.com^
 ||vmuid.com^
 ||vmweb.net^
+||vncnu.com^
 ||vnwtjgaqlsui.com^
 ||voakulophy.com^
 ||voicedstart.com^
@@ -17772,6 +17779,7 @@
 ||yougotacheck.com^
 ||youradexchange.com^
 ||yovqnwnmpzz.com^
+||yoxwrdiw.com^
 ||ypmtvlaktm.com^
 ||yqmxfz.com^
 ||yrhnw7h63.com^
