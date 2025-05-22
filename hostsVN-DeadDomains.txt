@@ -61,8 +61,6 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
@@ -136,6 +134,7 @@ aabtrrnspgtdi.com
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
+adaction.de
 adbunker.com
 adinfuse.com
 adkchtmtns.com
@@ -226,6 +225,7 @@ circularnothing.com
 civadsoo.net
 claroadsclick.com
 clicklink.jp
+clicktag.de
 clkofafcbk.com
 coacoalaum.com
 coappreciate.com
@@ -412,7 +412,6 @@ lessemujust.live
 libedgolart.com
 likedstring.com
 link4ads.com
-literalcorpulent.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
 louchees.net
@@ -438,6 +437,7 @@ missitzantiot.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 mousheebaivy.net
@@ -629,6 +629,7 @@ toathoule.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 troubledcontradiction.com
 trustisimportant.fun
@@ -686,6 +687,7 @@ whugesto.net
 whuwoawain.com
 wibtntmvox.com
 wissoony.net
+witch-counter.de
 woamowhoastoup.net
 wokseephishopty.net
 wonderlandads.com
