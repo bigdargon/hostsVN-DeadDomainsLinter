@@ -20,14 +20,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -474,7 +466,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pushazer.com
 pushmeup.art
-pushup.wtf
 puwpush.com
 pzshzhja.com
 qdfxeqhnjuknyy.com
