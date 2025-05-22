@@ -38,6 +38,7 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+cdn.appier.xyz
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -554,7 +555,6 @@ toathoule.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
-trafficads.net
 tranquilside.com
 trustisimportant.fun
 tygsqtkyiwxb.com
