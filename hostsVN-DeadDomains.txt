@@ -20,7 +20,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-cdn.bidfilter.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -111,7 +110,6 @@ adbunker.com
 adinfuse.com
 adkchtmtns.com
 adlite.net
-ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 adsclick.cc
