@@ -52,11 +52,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -94,7 +89,6 @@ www.klick.vn
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
