@@ -1636,6 +1636,7 @@
 364yb.com
 3650608.com
 3650899.com
+36511.org
 3651bet.com
 3653bet.com
 365611.net
@@ -1661,7 +1662,6 @@
 3659ppp.com
 3659ppp.net
 3659qqq.net
-3659sss.com
 365f.games
 365f88.vip
 365fgaosu1.com
@@ -2513,6 +2513,7 @@
 6563z.com
 657750.com
 657783.com
+65828a.com
 6588363.com
 6596h.com
 6596n.com
@@ -2653,7 +2654,6 @@
 669jh.com
 66ap77ap.com
 66nike.icu
-66vn.asia
 66win.bingo
 66xun.com
 66yy789.com
@@ -4180,6 +4180,7 @@
 952yb.com
 953jgj.com
 9544bet.com
+96131.com
 96149.org
 96317.vip
 963175.com
@@ -5662,6 +5663,7 @@ haiduongclub88.vip
 hakim28.vip
 haowinapp333haowinapp.com
 harrystinaja.com
+hatori888.com
 hb1911.com
 hb8529.com
 hb88f.com
@@ -5800,7 +5802,6 @@ i9betmedia1.com
 ichadoh55.vip
 idr6644.com
 ig909.com
-img.fabet.me
 info.w88banh.com
 invite.m666.link
 ipl365a.com
@@ -5938,7 +5939,6 @@ k8-nohu.com
 k811.live
 k81111.com
 k8302.com
-k8644.com
 k8646.com
 k888.pro
 k8banca.com
@@ -6345,7 +6345,6 @@ m.bty1229.com
 m.bty1283.com
 m.bty887.com
 m.casino888vn.com
-m.dibongda777.com
 m.i9bet.tw
 m.kldfs9as82j4fd.com
 m.ole76.com
@@ -6389,7 +6388,6 @@ mbo15.com
 mbo16.com
 mbx88.com
 mcj100.com
-mec0352.com
 media.1789bet.com
 meemos13317.vip
 meen0620.vip
@@ -7593,7 +7591,10 @@ ww88p.com
 ww88p.vip
 ww88q.com
 ww88r.vip
+<<<<<<< Updated upstream
 ww88ss.vip
+=======
+>>>>>>> Stashed changes
 ww88t.com
 ww88u.com
 ww88uu.vip
@@ -7629,11 +7630,9 @@ www.bty700.com
 www.bty716.com
 www.bty720.com
 www.casino888vn.com
-www.fun1118.com
 www.gamehive88.com
 www.gem88.link
 www.gi8vn.vip
-www.kubet77.win
 www.kubet79.me
 www.lg585.com
 www.mbx88.com
