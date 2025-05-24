@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -125,6 +119,7 @@ abruptroad.com
 abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
+adaction.de
 adbunker.com
 adinfuse.com
 adkchtmtns.com
@@ -221,7 +216,6 @@ circularnothing.com
 civadsoo.net
 claroadsclick.com
 clicklink.jp
-clicktag.de
 clkofafcbk.com
 coacoalaum.com
 coappreciate.com
@@ -408,6 +402,7 @@ libedgolart.com
 lidosquey.shop
 likedstring.com
 link4ads.com
+literalcorpulent.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
 louchees.net
@@ -433,6 +428,7 @@ missitzantiot.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 mousheebaivy.net
@@ -633,7 +629,6 @@ tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzwtzygxslrk.com
-u1pmt.com
 ubewpjbfo.com
 ufabsoonsijeerg.net
 ufiledsit.com
