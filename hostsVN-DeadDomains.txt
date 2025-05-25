@@ -18,12 +18,19 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -39,6 +46,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 delivery.adsterra.org
 anymad.com
 cdn.anymad.com
@@ -70,15 +81,20 @@ aj3017.bid
 aj101.xyz
 cdn.hbplatform.com
 hbplatform.com
+mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 crocopop.com
 imgcdnbet.com
+upfile16.mediaphim.com
 analytics.amedigital.vn
 track.winigroup.vn
+vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 228tuchuang.com
@@ -144,6 +160,7 @@ axkwmsivme.com
 azoaltou.com
 b5e75c56.com
 baivideewou.com
+banner.casino.net
 banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
@@ -153,7 +170,6 @@ bawdybeast.com
 baypops.com
 beabsolom.com
 bedaoibe.com
-beefoaloode.net
 beklefkiom.com
 bemalkrmc.com
 beshucklean.com
@@ -181,6 +197,7 @@ canangafierier.uno
 caribedkurukh.com
 carscannon.com
 caugrithoowhu.net
+cdn.easyads28.mobi
 chaikempakr.com
 charming-people.com
 chertouz.net
@@ -191,6 +208,7 @@ chokedsmelt.com
 chtsayil.com
 chullohagrode.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clicklink.jp
 clkofafcbk.com
@@ -211,10 +229,12 @@ cyjprljyvgqeg.com
 daintydragged.com
 dalyai.com
 dalysh.com
+dancemistake.com
 dangerouswinter.com
 daufouwhoag.net
 dckifhpovvbpb.com
 decisiveducks.com
+decoycreation.com
 deewansturacin.com
 defensive-bad.com
 delegatediscussion.com
@@ -328,6 +348,7 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
+iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
@@ -373,6 +394,7 @@ knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kronosspell.com
+kvtaaa.top
 lbmqciazrpm.com
 leestoptee.com
 leetmenllew.com
@@ -401,6 +423,7 @@ medaaebqmbpx.com
 mediacharger.com
 medialets.com
 mediamind.com
+megago.com
 meowpushnot.com
 messagenovice.com
 metahv.xyz
@@ -412,6 +435,7 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 mousheebaivy.net
+msvobeuhec.com
 munchenviableski.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -439,6 +463,8 @@ omniscientspark.com
 oneegrou.net
 onenetworkdirect.com
 onmarshtompor.com
+opdhoxor.com
+openads.org
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
@@ -452,6 +478,7 @@ oxthrilled.com
 ozmbzowg.com
 ozongees.com
 p.hogmc.net
+pagerank-server7.de
 paikoasa.tv
 panaxive.com
 pasheeheghie.net
@@ -505,6 +532,7 @@ raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
 receptiveink.com
+record.bonniergaming.com
 reecegrita.com
 regnow.com
 resolutekey.com
@@ -517,6 +545,7 @@ ritzykey.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkvldurquedh.com
+rlfvuficzdmsx.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -575,10 +604,12 @@ sunnycategoryopening.com
 supapush.net
 svkmxwssih.com
 swrggntsvmsgv.com
+t.easyads28.mobi
 tautauphaur.net
 tccnqgnmeveay.com
 tdpjzjpfuiis.com
 terrapsps.com
+thads.cc
 tharbadir.com
 that-muscle.com
 thedevband.com
@@ -595,6 +626,7 @@ toathoule.com
 total-fee.com
 tpnads.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 troubledcontradiction.com
 trustisimportant.fun
@@ -691,4 +723,5 @@ zmedia.com
 analytics.hostyour.video
 burstly.com
 go.ad1data.com
+worldgravity.com
 yoursitestatstube.ru
