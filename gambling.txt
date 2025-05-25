@@ -1,4 +1,4 @@
-# Version: 2505192324
+# Version: 2505252357
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -33109,6 +33109,8 @@
 ||6e8y.com^
 ||6f01.com^
 ||6f44.com^
+||6ff14.com^
+||6ff4.com^
 ||6fpbet.com^
 ||6fxudz.ink^
 ||6gbet3.com^
@@ -48905,6 +48907,8 @@
 ||anan6532.vip^
 ||anchenbag.com^
 ||and3cm.com^
+||andcff6.6ffapi.com^
+||andcff6.6ffcdn.com^
 ||andcniw86.68wincdn.com^
 ||andmobile.space^
 ||ang26.com^
@@ -49488,6 +49492,8 @@
 ||asset2bay.com^
 ||assetda.xyz^
 ||assets.vgjt.info^
+||assoff6.6ffokk.com^
+||assoff6.6ffoss.com^
 ||assoniw86.68winoss.com^
 ||asstook.68winapi.com^
 ||asstook.68winbin.com^
@@ -64310,6 +64316,7 @@
 ||hong388.com^
 ||hong599.com^
 ||hong88vn.pro^
+||hong88vn.win^
 ||honglianpay.com^
 ||hongpan12.com^
 ||hongpinshe.com^
@@ -64507,6 +64514,7 @@
 ||huimengly.com^
 ||hunanc7.com^
 ||hungzim1512.vip^
+||huo.pt.cdn-bebo.com^
 ||huobo202207.com^
 ||huobo33.com^
 ||huobo66.com^
@@ -65026,6 +65034,7 @@
 ||i.vip79.com^
 ||i.win79.com^
 ||i.win79.fun^
+||i.zo10.win^
 ||i0309.com^
 ||i03641.com^
 ||i10games.com^
@@ -70502,6 +70511,7 @@
 ||konduangdee.com^
 ||kong2522.vip^
 ||kong88.com^
+||kong88a.club^
 ||kontum00.vip^
 ||kor1xbet.com^
 ||korea-1xbet.com^
@@ -74116,6 +74126,7 @@
 ||mmm9416.com^
 ||mmmay021504.vip^
 ||mmn41.xyz^
+||mmoo.mobi^
 ||mmssmd.xyz^
 ||mmwin.nearom.com^
 ||mn.cdn-dysxb.com^
@@ -75823,6 +75834,8 @@
 ||onbet998.com^
 ||oncakhia.com^
 ||oncatung13.site^
+||ondcff6.6ffapi.com^
+||ondcff6.6ffcdn.com^
 ||ondona.com^
 ||one-game88.com^
 ||one.bjx6867.com^
@@ -75945,6 +75958,8 @@
 ||oss-bw18.qtmlive.com^
 ||oss.winbet.gold^
 ||oss555win1.com^
+||ossoff6.6ffokk.com^
+||ossoff6.6ffoss.com^
 ||ossone68.68winapi.com^
 ||ossone68.68winoss.com^
 ||ossoniw86.68winoss.com^
@@ -77205,6 +77220,7 @@
 ||play.hitclub.blue^
 ||play.im99.com^
 ||play.iwin.bio^
+||play.kong88a.club^
 ||play.lo88.live^
 ||play.loc789.club^
 ||play.nemo.vin^
@@ -78721,6 +78737,7 @@
 ||reg.gameta88.me^
 ||reg.lode88j.cc^
 ||reg.playiwin.site^
+||reg.sodeonline.xyz^
 ||rehonnua.org^
 ||rei777.app^
 ||rei777.com^
@@ -80548,6 +80565,7 @@
 ||soco88.com^
 ||socvip9.club^
 ||sodanum.vip^
+||sodeonline.xyz^
 ||sodo.best^
 ||sodo.bond^
 ||sodo.host^
@@ -89245,6 +89263,7 @@
 ||www.mjbtsf.com^
 ||www.mk2190.com^
 ||www.mkzaoq.xyz^
+||www.mmoo.mobi^
 ||www.mocbai.cc^
 ||www.mrazens.com^
 ||www.ms3388.com^
@@ -93873,6 +93892,7 @@
 ||znboxcdn111.com^
 ||zo.club^
 ||zo1.win^
+||zo10.win^
 ||zo2.win^
 ||zo5858.net^
 ||zo88.com^
