@@ -67,8 +67,6 @@ samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -112,9 +110,7 @@ aabtrrnspgtdi.com
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
-adaction.de
 adbunker.com
-adcenter.net
 adinfuse.com
 adkchtmtns.com
 adlite.net
@@ -323,7 +319,6 @@ glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 gmobhnktqiur.com
-go-clicks.de
 go.mobisla.com
 go.padstm.com
 gogglemessenger.com
@@ -484,7 +479,6 @@ oxthrilled.com
 ozmbzowg.com
 ozongees.com
 p.hogmc.net
-pagerank-server7.de
 paikoasa.tv
 panaxive.com
 pasheeheghie.net
@@ -735,5 +729,4 @@ zmedia.com
 analytics.hostyour.video
 burstly.com
 go.ad1data.com
-suriflowers.com
 yoursitestatstube.ru
