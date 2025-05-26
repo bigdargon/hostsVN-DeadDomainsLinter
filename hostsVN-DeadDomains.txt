@@ -37,7 +37,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -387,7 +386,6 @@ libedgolart.com
 lidosquey.shop
 likedstring.com
 link4ads.com
-literalcorpulent.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
 louchees.net
