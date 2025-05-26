@@ -98,8 +98,6 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
 adserver.quizdingo.com
-adserver1.mindshare.de
-adserver2.mindshare.de
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -140,7 +138,6 @@ b5e75c56.com
 baivideewou.com
 banner.casino.net
 banner.coza.com
-banner.mindshare.de
 bannermarkt.nl
 baresi.xyz
 basebanner.com
