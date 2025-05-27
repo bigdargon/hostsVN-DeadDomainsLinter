@@ -10,12 +10,27 @@ aj1863.online
 aj2498.online
 aj2503.online
 ajxx91.online
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -31,11 +46,17 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+ad-track.adiiix.com
+ads.adiiix.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -50,6 +71,8 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+k8s2.testcentre.vn
+testcentre.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -62,6 +85,7 @@ ad.chieuhoa.com
 crocopop.com
 imgcdnbet.com
 serving-ad.tv24.vn
+tvc.biphim.club
 analytics.amedigital.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -90,6 +114,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.thrillsaffiliates.com
 adsclick.cc
 adsmart.com
 adsrveys.com
@@ -219,6 +244,7 @@ doaglunoupa.net
 dotranquilla.com
 downstairsnegotiatebarren.com
 drydrum.com
+dsp.io
 dummieseardrum.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -238,6 +264,7 @@ encodehelped.com
 encounterboastful.com
 entertainingeyes.com
 eogaeapolaric.com
+epyqerhah.com
 eqgmnmqlz.com
 erosyndc.com
 esellerate.net
@@ -254,6 +281,7 @@ faukeeshie.com
 fauphauvuzeey.net
 febadu.com
 feevefouhe.net
+fhkfdgwtzueans.com
 fixespreoccupation.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
@@ -283,6 +311,7 @@ gloarteegnu.com
 glooroapoftus.com
 gmobhnktqiur.com
 go.mobisla.com
+go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -335,6 +364,7 @@ jadeitite.com
 jhxakdmdlz.com
 jighucme.com
 jncdvibhdaddmu.com
+jollytestpartying.com
 jomtingi.net
 joudauhee.com
 jozowgldpc.com
@@ -378,6 +408,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lzexnxwjsmof.com
 made2you.com
+madeupadoption.com
 madriyelowd.com
 mamsauphoachoap.net
 matecatenae.com
@@ -435,6 +466,7 @@ outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
+ox4h1dk85.com
 oxthrilled.com
 ozmbzowg.com
 ozongees.com
@@ -460,6 +492,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 poowucatuz.net
+potencyissuedflashlight.com
 pramviable.com
 proetusbramble.com
 profitableheavilylord.com
@@ -552,6 +585,7 @@ speakspurink.com
 specially4u.net
 spurioussteam.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stickerchapelsailing.com
 stnyirechxxi.com
