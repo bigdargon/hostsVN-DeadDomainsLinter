@@ -3,13 +3,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 native.propellerclick.com
 aj1549.online
 aj1754.online
@@ -439,7 +432,6 @@ oneegrou.net
 onenetworkdirect.com
 onmarshtompor.com
 opdhoxor.com
-openads.org
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
@@ -692,7 +684,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
-zmedia.com
 burstly.com
 go.ad1data.com
 yoursitestatstube.ru
