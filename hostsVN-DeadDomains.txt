@@ -33,8 +33,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 fp-cdn.azureedge.net
@@ -380,6 +378,7 @@ libedgolart.com
 lidosquey.shop
 likedstring.com
 link4ads.com
+literalcorpulent.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
 louchees.net
