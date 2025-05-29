@@ -3,12 +3,12 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-native.propellerclick.com
 beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
 aj2498.online
+aj2503.online
 ajxx91.online
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
