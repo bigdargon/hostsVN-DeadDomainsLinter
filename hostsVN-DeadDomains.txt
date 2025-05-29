@@ -1,8 +1,19 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -48,11 +59,13 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv686.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
+mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -60,6 +73,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.autonet.com.vn
 crocopop.com
 imgcdnbet.com
 tvc.biphim.club
@@ -78,6 +92,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
+4d5.net
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abruptroad.com
@@ -90,9 +105,14 @@ adkchtmtns.com
 adlite.net
 ads.cdn2-img.net
 ads.clickdigisol.net
+ads.digitalmedianet.com
 ads.expat-blog.biz
+ads.gsm-exchange.com
 ads.thrillsaffiliates.com
 adsclick.cc
+adserver.quizdingo.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -111,6 +131,7 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 allstarmediagroup.com
 anymoresentencevirgin.com
+api.ampiri.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -131,6 +152,7 @@ b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
 banner.coza.com
+banner.mindshare.de
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -176,6 +198,7 @@ chokedsmelt.com
 chtsayil.com
 chullohagrode.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clicklink.jp
 clkofafcbk.com
@@ -222,6 +245,7 @@ doaglunoupa.net
 dotranquilla.com
 downstairsnegotiatebarren.com
 drydrum.com
+dulrihaungy.com
 dummieseardrum.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -278,6 +302,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 geephugagee.com
 gelclinchfranz.com
@@ -305,10 +330,12 @@ gwfqxkelp.com
 h78xb.pw
 hamulustueiron.com
 handkerchiefpersonnel.com
+haufeechaukept.com
 hbwncbwgyvgt.com
 heeceeceejo.com
 heraldet.com
 hewokhn.com
+hoocaumakopaibu.com
 hpdvgejc.com
 hrjbylofyso.com
 huppontic.com
@@ -388,9 +415,11 @@ madeupadoption.com
 madriyelowd.com
 mamsauphoachoap.net
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 medaaebqmbpx.com
 mediacharger.com
+medialets.com
 mediamind.com
 meowpushnot.com
 messagenovice.com
@@ -417,7 +446,6 @@ nqucjilr.com
 ntvsw.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -456,6 +484,7 @@ pefsustazvzgop.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
+phaubsunsi.com
 phocmogo.com
 photographpan.com
 pienbitore.com
@@ -539,6 +568,7 @@ sheesoah.net
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
+shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sikrouxoopte.net
@@ -560,6 +590,7 @@ spanuletubings.com
 speakspurink.com
 specially4u.net
 spurioussteam.com
+ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 stickerchapelsailing.com
@@ -571,6 +602,7 @@ stunninglover.com
 subheroalgores.com
 sunnycategoryopening.com
 supapush.net
+surtaultathoado.com
 svkmxwssih.com
 swrggntsvmsgv.com
 t.easyads28.mobi
@@ -579,6 +611,7 @@ tautauphaur.net
 tccnqgnmeveay.com
 tdpjzjpfuiis.com
 terrapsps.com
+thads.cc
 tharbadir.com
 that-muscle.com
 thedevband.com
@@ -593,8 +626,10 @@ tiiytaekjajw.com
 tkoqgxnvt.com
 toathoule.com
 total-fee.com
+touphudipodou.net
 tpnads.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 troubledcontradiction.com
 tygsqtkyiwxb.com
@@ -640,6 +675,7 @@ wairowomoaps.com
 walkingtutor.com
 wateryvan.com
 wathoojoba.com
+webpower.com
 wellmadefrog.com
 weuppwrlcper.com
 wheensamufouk.net
@@ -686,6 +722,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zintext.com
+analytics.hostyour.video
 go.ad1data.com
 usergrid.com
 yoursitestatstube.ru
