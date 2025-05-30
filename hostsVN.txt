@@ -1,4 +1,4 @@
-# Version: 2505291417
+# Version: 2505301553
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13318,6 +13318,7 @@
 ||basepush.com^
 ||baskettexture.com^
 ||baste-znl.com^
+||batomqsmoocc.com^
 ||batteusp2hilenor.com^
 ||bawdybeast.com^
 ||baypops.com^
@@ -14555,6 +14556,7 @@
 ||gaut-hil.com^
 ||gayadnetwork.com^
 ||gbbqyadej.com^
+||gboxrthnyezkx.com^
 ||gbqofs.com^
 ||geephugagee.com^
 ||gelclinchfranz.com^
@@ -16527,7 +16529,9 @@
 ||rle.ru^
 ||rlfvuficzdmsx.com^
 ||rmedia.boston.com^
+||rmmjy.rrbzvmklrzwmk.top^
 ||rmvla.rrqwarwrewrlj.top^
+||rmxpppehecrmz.com^
 ||rndnoibattor.com^
 ||rndskittytor.com^
 ||rngpaluydont.com^
@@ -16866,6 +16870,7 @@
 ||srwww1.com^
 ||ssqyuvavse.com^
 ||stagepopkek.com^
+||stageseshoals.com^
 ||stakingsmile.com^
 ||star-advertising.com^
 ||starffa.com^
@@ -17850,6 +17855,7 @@
 ||zeroredirect1.com^
 ||zeusclicks.com^
 ||zeustechnology.com^
+||zhoyyibwywgev.one^
 ||ziffdavis.com^
 ||zihcabtkic.com^
 ||zijaipse.com^
