@@ -23,6 +23,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
@@ -116,6 +117,8 @@ www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
 mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
@@ -209,8 +212,10 @@ baivideewou.com
 banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
+baresi.xyz
 bawdybeast.com
 baypops.com
+beabsolom.com
 bedaoibe.com
 beefoaloode.net
 beklefkiom.com
@@ -251,6 +256,7 @@ chickensstation.com
 chinsnakes.com
 chioneflake.com
 chokedsmelt.com
+chtsayil.com
 chullohagrode.com
 circularnothing.com
 civadsoo.net
@@ -264,6 +270,7 @@ consciouschairs.com
 constructpoll.com
 contehos.com
 convertedhorace.com
+correlationcocktailinevitably.com
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -331,11 +338,16 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fagywalu.pro
+faukeeshie.com
+fauphauvuzeey.net
+febadu.com
 feevefouhe.net
 fhkfdgwtzueans.com
 fixespreoccupation.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+foogeetoary.net
+fopteefteex.com
 fpqwpqiyq.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -395,6 +407,7 @@ huppontic.com
 hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
+ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
@@ -483,6 +496,7 @@ mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
+mousheebaivy.net
 msvobeuhec.com
 munchenviableski.com
 myntelligence.com
@@ -681,6 +695,7 @@ thounookra.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tkoqgxnvt.com
 toathoule.com
 touphudipodou.net
 tpnads.com
@@ -718,7 +733,6 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 virleth.com
-visualrevenue.com
 vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
