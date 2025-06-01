@@ -15,16 +15,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -63,8 +53,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 image.b91vip.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -131,7 +119,6 @@ adaftegloomto.com
 adbunker.com
 adinfuse.com
 adkchtmtns.com
-adnotch.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
@@ -346,7 +333,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go-clicks.de
 go.mobisla.com
 gogglemessenger.com
 gouthoat.com
@@ -462,6 +448,7 @@ medaaebqmbpx.com
 mediacharger.com
 medialets.com
 mediamind.com
+megacash.de
 meowpushnot.com
 messagenovice.com
 metahv.xyz
@@ -739,6 +726,7 @@ wibtntmvox.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
+witch-counter.de
 woamowhoastoup.net
 wokseephishopty.net
 wonderlandads.com
