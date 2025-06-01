@@ -54,7 +54,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-delivery.adsterra.org
+cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -62,6 +63,8 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 image.b91vip.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -72,6 +75,9 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -79,11 +85,11 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv687.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-kabbmedia.com
 mautic.educe.vn
 mautic.serverhub.vn
 app2.jeoway.net
@@ -93,8 +99,10 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.autonet.com.vn
 bidgear-syndication.com
 crocopop.com
+duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 tvc.biphim.club
@@ -118,13 +126,17 @@ aabtrrnspgtdi.com
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
+ad.foxnetworks.com
 adaftegloomto.com
 adbunker.com
 adinfuse.com
 adkchtmtns.com
+adnotch.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
+ads.thrillsaffiliates.com
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -217,6 +229,7 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clicklink.jp
+clicksmint.site
 clkofafcbk.com
 coacoalaum.com
 coappreciate.com
@@ -237,6 +250,7 @@ dalyai.com
 dalysh.com
 dancemistake.com
 dangerouswinter.com
+dapper.net
 daufouwhoag.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -258,8 +272,10 @@ directtrack.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
+dorkingvoust.com
 dotranquilla.com
 drydrum.com
+dsp.io
 dulrihaungy.com
 dummieseardrum.com
 dzienkudrow.com
@@ -312,6 +328,7 @@ fudukrujoa.com
 futuristicfairies.com
 fwilmdact.com
 fyljifajkqe.com
+ga-ads.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
@@ -383,6 +400,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
+jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
 jncdvibhdaddmu.com
@@ -410,6 +428,7 @@ knurleddeblock.guru
 kogutcho.net
 kronosspell.com
 lbmqciazrpm.com
+leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -420,6 +439,7 @@ likedstring.com
 link4ads.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
+lootoshevub.net
 louchees.net
 lowseelan.com
 lp3tdqle.com
@@ -436,6 +456,7 @@ matecatenae.com
 maximumcash.com
 medaaebqmbpx.com
 mediacharger.com
+medialets.com
 mediamind.com
 meowpushnot.com
 messagenovice.com
@@ -499,6 +520,7 @@ panaxive.com
 pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
+petchesa.net
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
@@ -550,6 +572,7 @@ raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
 receptiveink.com
+record.bonniergaming.com
 reecegrita.com
 reflushneuma.com
 regnow.com
@@ -581,6 +604,7 @@ saigopooramee.net
 scammereating.com
 sdkfjxjertertry.com
 seaboblit.com
+sendmepixel.com
 serconmp.com
 setypckq.com
 shakytaste.com
@@ -610,6 +634,7 @@ spanuletubings.com
 speakspurink.com
 specially4u.net
 spurioussteam.com
+spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -641,16 +666,19 @@ thirstytwig.com
 thoungoofeed.net
 thounookra.com
 thvhjgxmyjnoqvq.com
+tidy-mark.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tkoqgxnvt.com
 toathoule.com
 touphudipodou.net
 tpnads.com
+tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 troubledcontradiction.com
 tygsqtkyiwxb.com
+typiconrices.com
 tzhrmcnidxqwrb.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -714,6 +742,7 @@ wrestcut.com
 www.claroadsclick.com
 www.money4exit.de
 www.ntvsw.com
+xclicks.net
 xebadu.com
 xeiidlkuxsos.com
 xgbsklmqm.com
