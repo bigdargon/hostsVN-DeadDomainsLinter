@@ -19,7 +19,6 @@ beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
-aj2498.online
 aj2503.online
 ajxx91.online
 brand.ad
@@ -40,12 +39,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
-cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -61,6 +54,9 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+click-v4.jadspro.live
+static.jadspro.live
+www.jadspro.live
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -73,6 +69,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv676.me
 ads.livetv687.me
 aj2566.bid
 aj3007.bid
@@ -217,11 +214,9 @@ cjbmanagement.com
 claroadsclick.com
 clicklink.jp
 clicksmint.site
-clicktag.de
 clkofafcbk.com
 coacoalaum.com
 coappreciate.com
-compactbanner.com
 consciouschairs.com
 constructpoll.com
 contehos.com
@@ -302,6 +297,7 @@ fauphauvuzeey.net
 febadu.com
 feevefouhe.net
 fhkfdgwtzueans.com
+findcommerce.com
 fixespreoccupation.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
@@ -416,7 +412,6 @@ knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kronosspell.com
-kvtaaa.top
 lbmqciazrpm.com
 leadingedgecash.com
 leestoptee.com
@@ -448,7 +443,6 @@ medaaebqmbpx.com
 mediacharger.com
 medialets.com
 mediamind.com
-megacash.de
 meowpushnot.com
 messagenovice.com
 metahv.xyz
@@ -505,7 +499,6 @@ ox4h1dk85.com
 oxthrilled.com
 ozmbzowg.com
 ozongees.com
-pagerank-server7.de
 paikoasa.tv
 pallivermis.shop
 panaxive.com
@@ -686,6 +679,7 @@ untidyquestion.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upset-project.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -726,7 +720,6 @@ wibtntmvox.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
-witch-counter.de
 woamowhoastoup.net
 wokseephishopty.net
 wonderlandads.com
@@ -764,9 +757,7 @@ zeegreen.net
 zeepmedia.com
 zintext.com
 analytics.hostyour.video
-beampulse.com
 go.ad1data.com
-suriflowers.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
