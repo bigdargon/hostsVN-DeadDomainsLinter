@@ -36,6 +36,7 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 image.b91vip.com
+www.b91vip.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
