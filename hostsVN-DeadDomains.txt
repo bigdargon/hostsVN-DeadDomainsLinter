@@ -36,7 +36,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 image.b91vip.com
-www.b91vip.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -59,9 +58,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv686.me
-ads.livetv687.me
-ads.livetv785.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -472,7 +468,6 @@ oneegrou.net
 onenetworkdirect.com
 onmarshtompor.com
 opdhoxor.com
-openads.org
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
