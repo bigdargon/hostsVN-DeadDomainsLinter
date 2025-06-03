@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -154,7 +148,6 @@ b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
 banner.coza.com
-banner.nixnet.cz
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -249,7 +242,6 @@ doaglunoupa.net
 dorkingvoust.com
 dotranquilla.com
 drydrum.com
-dsp.io
 dulrihaungy.com
 dummieseardrum.com
 dzienkudrow.com
@@ -496,6 +488,7 @@ ox4h1dk85.com
 oxthrilled.com
 ozmbzowg.com
 ozongees.com
+pagerank-server7.de
 paikoasa.tv
 pallivermis.shop
 panaxive.com
@@ -704,7 +697,6 @@ wairowomoaps.com
 walkingtutor.com
 wateryvan.com
 wathoojoba.com
-webpower.com
 wellmadefrog.com
 weuppwrlcper.com
 wheensamufouk.net
@@ -714,10 +706,10 @@ whowhipi.net
 whugesto.net
 whuwoawain.com
 wibtntmvox.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
+witch-counter.de
 woamowhoastoup.net
 wokseephishopty.net
 wonderlandads.com
