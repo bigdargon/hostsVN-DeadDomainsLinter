@@ -15,14 +15,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -42,7 +34,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-pgmcdn.com
 delivery.adsterra.org
 anymad.com
 cdn.anymad.com
@@ -52,8 +43,6 @@ stats.anymad.com
 www.anymad.com
 image.b91vip.com
 asgdfasad.mm-cgnews.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -580,6 +569,7 @@ rduaagcwsw.com
 receptiveink.com
 reecegrita.com
 reflushneuma.com
+regnow.com
 reinvigorate.net
 resolutekey.com
 resolvedswordlinked.com
