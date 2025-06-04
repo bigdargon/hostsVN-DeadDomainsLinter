@@ -3,11 +3,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -35,11 +30,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 image.b91vip.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -112,8 +102,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver.pl
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
@@ -412,7 +400,6 @@ kogutcho.net
 kqalbhgnd.com
 kronosspell.com
 lbmqciazrpm.com
-leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -768,7 +755,6 @@ zeepmedia.com
 zintext.com
 analytics.hostyour.video
 go.ad1data.com
-richmetrics.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
