@@ -1,4 +1,4 @@
-# Version: 2506021502
+# Version: 2506040939
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -271,6 +271,7 @@
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
 ||baohiemxahoi.vnagov.com^
+||baomoivn.net^
 ||baonhanh.online^
 ||baosaoviet24h.net^
 ||baothanhnien.top^
@@ -3564,6 +3565,7 @@
 ||tintinvay.com^
 ||tintrian2022.com^
 ||tintuc-24h.com^
+||tintuc24h.xyz^
 ||tintucnganhang.fun^
 ||tintucnhanh.online^
 ||tinvay.vn^
