@@ -3,12 +3,30 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+native.propellerclick.com
 beacon.statful.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 aj1549.online
 aj1754.online
 aj1863.online
+aj2142.online
 aj2503.online
 ajxx91.online
+admin.runative.com
+api.runative.com
+auth.runative.com
+pusher.staging.runative.com
+rotator.staging.runative.com
+single.runative.com
+staging.runative.com
+static.runative.com
+brand.ad
+a.brand.ad
+www.brand.ad
+cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -24,6 +42,8 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+pgmcdn.com
+delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -31,6 +51,9 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 image.b91vip.com
+asgdfasad.mm-cgnews.com
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -52,7 +75,14 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
+adx.vn
 mautic.educe.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -68,6 +98,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 tvc.biphim.club
+alexajstrack.com
 analytics.amedigital.vn
 live.vnpgroup.net
 track.winigroup.vn
@@ -93,7 +124,9 @@ adaftegloomto.com
 adbunker.com
 adinfuse.com
 adkchtmtns.com
+adrevolver.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 adsclick.cc
@@ -102,6 +135,7 @@ adsrv.wtf
 adsrveys.com
 adyieldoptimizer.com
 afcnuchxgo.com
+afearprevoid.com
 affiliates.devilfishpartners.com
 africaewgrhdtb.com
 agxoxnyum.com
@@ -135,8 +169,8 @@ azoaltou.com
 b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
+bannerconnect.net
 bannermarkt.nl
-baresi.xyz
 bawdybeast.com
 baypops.com
 beabsolom.com
@@ -210,6 +244,7 @@ dalysh.com
 dancemistake.com
 dangerouswinter.com
 daufouwhoag.net
+dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -250,6 +285,7 @@ ekvalqwmly.com
 elephantqueue.com
 ellcurvth.com
 emhnyqdeuwtnrh.com
+encloselavanga.com
 encounterboastful.com
 entertainingeyes.com
 eogaeapolaric.com
@@ -274,6 +310,7 @@ fhkfdgwtzueans.com
 fixespreoccupation.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+foliumumu.com
 foogeetoary.net
 fopteefteex.com
 fpqwpqiyq.com
@@ -315,6 +352,8 @@ grirtouy.com
 grishoussaiz.com
 grooksom.com
 groopsie.net
+grubsnuchale.com
+grudgewallet.com
 gsnb048lj.com
 gueqiwsbxp.com
 gvsnhzmjr.com
@@ -510,6 +549,7 @@ profitableheavilylord.com
 proposedpartly.com
 providingcrechepartnership.com
 psausuck.net
+psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
 ptukasti.com
@@ -540,7 +580,7 @@ rduaagcwsw.com
 receptiveink.com
 reecegrita.com
 reflushneuma.com
-regnow.com
+reinvigorate.net
 resolutekey.com
 resolvedswordlinked.com
 retryngs.com
@@ -605,6 +645,7 @@ spurioussteam.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -643,6 +684,7 @@ tkoqgxnvt.com
 toathoule.com
 touphudipodou.net
 tpnads.com
+tracker-pm2.spilleren.com
 tranquilside.com
 trendcounter.com
 troubledcontradiction.com
