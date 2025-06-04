@@ -101,8 +101,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 adsclick.cc
-adserver1.mindshare.de
-adserver2.mindshare.de
 adsmart.com
 adsrv.wtf
 adsrveys.com
@@ -142,7 +140,6 @@ b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
 banner.coza.com
-banner.mindshare.de
 bannermarkt.nl
 baresi.xyz
 bawdybeast.com
@@ -628,6 +625,7 @@ supapush.net
 surtaultathoado.com
 svkmxwssih.com
 swrggntsvmsgv.com
+syndicpop.com
 t.easyads28.mobi
 tarybabottega.com
 tautauphaur.net
