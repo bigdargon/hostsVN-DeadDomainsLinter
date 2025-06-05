@@ -1,4 +1,4 @@
-# Version: 2506041623
+# Version: 2506052219
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -556,6 +556,7 @@
 ||ctv-shopee.com^
 ||ctvay.net^
 ||ctvshopee.com^
+||ctxkfl.cndgz.link^
 ||cuocthianhmuahebeyeu.weebly.com^
 ||cuocthigionghatvietnhi2021.weebly.com^
 ||cuocthitainangnhithang12.weebly.com^
