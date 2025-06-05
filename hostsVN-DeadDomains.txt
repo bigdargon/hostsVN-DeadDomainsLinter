@@ -69,7 +69,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 adx.vn
 mautic.educe.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -228,7 +227,6 @@ dalysh.com
 dancemistake.com
 dangerouswinter.com
 daufouwhoag.net
-dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -663,7 +661,6 @@ touphudipodou.net
 tpnads.com
 tracker-pm2.spilleren.com
 tranquilside.com
-trendcounter.com
 troubledcontradiction.com
 tygsqtkyiwxb.com
 typiconrices.com
