@@ -15,10 +15,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
-cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -40,6 +36,8 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+jg.wensixuetang.com
+wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -50,6 +48,10 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -103,6 +105,7 @@ aabtrrnspgtdi.com
 abruptroad.com
 abyocawlfe.com
 achieverknee.com
+ad.foxnetworks.com
 adaftegloomto.com
 adbunker.com
 adinfuse.com
@@ -110,6 +113,7 @@ adkchtmtns.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 adsclick.cc
 adsmart.com
 adsrveys.com
@@ -129,7 +133,9 @@ ak.oneegrou.net
 ak.ptailadsol.net
 ak.unblitzlean.com
 allstarmediagroup.com
+an.cliphub.net
 anymoresentencevirgin.com
+api.ampiri.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
@@ -164,6 +170,7 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bibulustartane.guru
+bikrurda.net
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -263,6 +270,7 @@ elephantqueue.com
 ellcurvth.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
+encodehelped.com
 encounterboastful.com
 entertainingeyes.com
 eogaeapolaric.com
@@ -276,6 +284,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fagywalu.pro
 faukeeshie.com
@@ -348,6 +357,7 @@ hewokhn.com
 hoocaumakopaibu.com
 hpdvgejc.com
 hrjbylofyso.com
+hubarejnbsobic.com
 huppontic.com
 hxpohplms.com
 hydraulzonure.com
@@ -375,11 +385,13 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
+jaumevie.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
 jncdvibhdaddmu.com
 jomtingi.net
+joopaish.com
 joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
@@ -616,6 +628,7 @@ spurioussteam.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
+stichaur.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoorgel.com
@@ -702,6 +715,7 @@ wairowomoaps.com
 walkingtutor.com
 wateryvan.com
 wathoojoba.com
+wauthaik.net
 wellmadefrog.com
 weuppwrlcper.com
 wheensamufouk.net
