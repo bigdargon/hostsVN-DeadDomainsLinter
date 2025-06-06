@@ -42,7 +42,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-t.agentanalytics.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
