@@ -3,6 +3,15 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -31,6 +40,9 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+cdnativepush.com
+static.cdnativepush.com
+www.cdnativepush.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -39,6 +51,8 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -46,10 +60,21 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv681.me
+ads.livetv683.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
+www.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -67,11 +92,13 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 tvc.biphim.club
+upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 track.winigroup.vn
@@ -97,11 +124,14 @@ adaftegloomto.com
 adbunker.com
 adinfuse.com
 adkchtmtns.com
+adplus.co.id
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 adsclick.cc
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -142,6 +172,7 @@ azoaltou.com
 b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
+banner.mindshare.de
 bannermarkt.nl
 bawdybeast.com
 baypops.com
@@ -207,6 +238,7 @@ correlationcocktailinevitably.com
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+croniesobli.com
 crumplylenient.com
 cutepopcorn.com
 cvvczlcg.com
@@ -223,6 +255,7 @@ defensive-bad.com
 delegatediscussion.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
 demtaudeeg.com
 dendranthe4edm7um.com
 dependpinch.com
@@ -240,6 +273,7 @@ dotranquilla.com
 drydrum.com
 dulrihaungy.com
 dummieseardrum.com
+dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
@@ -277,6 +311,7 @@ fagywalu.pro
 faukeeshie.com
 fauphauvuzeey.net
 febadu.com
+feenyrpxyps.com
 feevefouhe.net
 fhkfdgwtzueans.com
 fixespreoccupation.com
@@ -412,6 +447,7 @@ libedgolart.com
 lidosquey.shop
 likedstring.com
 link4ads.com
+littlecdn.com
 lkhbcpwpyecs.com
 lo8ve6ygour3pea4cee.com
 lootoshevub.net
@@ -511,6 +547,7 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+ponysomebodymartyr.com
 poowucatuz.net
 potencyissuedflashlight.com
 pramviable.com
@@ -522,6 +559,7 @@ psausuck.net
 psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
+ptoahaistais.com
 ptukasti.com
 ptumsess.com
 publicunloadbags.com
@@ -649,6 +687,7 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tkoqgxnvt.com
 toathoule.com
+total-fee.com
 touphudipodou.net
 tpnads.com
 tracker-pm2.spilleren.com
@@ -751,4 +790,5 @@ zeepmedia.com
 zintext.com
 analytics.hostyour.video
 go.ad1data.com
+usergrid.com
 yoursitestatstube.ru
