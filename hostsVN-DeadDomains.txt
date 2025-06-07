@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -12,12 +14,24 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -42,6 +56,8 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -61,11 +77,15 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv681.me
 ads.livetv683.me
+ads.livetv689.me
+ads.livetv691.me
+ads.livetv788.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
+mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -80,6 +100,7 @@ tvc.biphim.club
 upfile16.mediaphim.com
 analytics.amedigital.vn
 track.winigroup.vn
+tracking.tvet-vietnam.org
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
@@ -92,6 +113,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
+4d5.net
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abruptroad.com
@@ -107,6 +129,7 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 adsclick.cc
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
@@ -149,7 +172,9 @@ azoaltou.com
 b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
+banner.coza.com
 banner.mindshare.de
+banner.penguin.cz
 bannermarkt.nl
 bawdybeast.com
 baypops.com
@@ -180,6 +205,7 @@ btcijivtsvph.com
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buzzardcraizey.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -200,6 +226,7 @@ chtsayil.com
 chullohagrode.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clicklink.jp
 clicksmint.site
@@ -225,6 +252,7 @@ dalysh.com
 dancemistake.com
 dangerouswinter.com
 daufouwhoag.net
+dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -248,6 +276,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 dorkingvoust.com
 dotranquilla.com
+downstairsnegotiatebarren.com
 drydrum.com
 dulrihaungy.com
 dummieseardrum.com
@@ -326,6 +355,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -366,6 +396,7 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -446,6 +477,7 @@ matecatenae.com
 maximumcash.com
 medaaebqmbpx.com
 mediacharger.com
+medialets.com
 mediamind.com
 meowpushnot.com
 messagenovice.com
@@ -484,11 +516,13 @@ oewabox.at
 offvmuf.com
 ojgzyztrmr.com
 olmsoneenh.info
+olmzbnuihptsw.com
 omniscientspark.com
 oneegrou.net
 onenetworkdirect.com
 onmarshtompor.com
 opdhoxor.com
+openads.org
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
@@ -502,6 +536,7 @@ ox4h1dk85.com
 oxthrilled.com
 ozmbzowg.com
 ozongees.com
+padstm.com
 paikoasa.tv
 pallivermis.shop
 panaxive.com
@@ -563,6 +598,7 @@ raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
 receptiveink.com
+record.bonniergaming.com
 reecegrita.com
 reflushneuma.com
 regnow.com
@@ -581,6 +617,7 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+rockabox.co
 romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
@@ -649,6 +686,7 @@ tautauphaur.net
 tccnqgnmeveay.com
 tdpjzjpfuiis.com
 terrapsps.com
+thads.cc
 tharbadir.com
 that-muscle.com
 thedevband.com
@@ -663,12 +701,15 @@ tidy-mark.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tkoqgxnvt.com
+tlkbfilacsw.com
 toathoule.com
 total-fee.com
 touphudipodou.net
 tpnads.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
+trendcounter.com
 troubledcontradiction.com
 tygsqtkyiwxb.com
 typiconrices.com
