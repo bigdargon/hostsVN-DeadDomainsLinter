@@ -12,7 +12,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -135,6 +134,7 @@ api.ampiri.com
 armoursviolino.com
 artax-evn.com
 asgclickpop.com
+aslau-cre.info
 ataccwpdiqqnfl.com
 atrochaxctl.shop
 audraghafamign.net
@@ -423,7 +423,6 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
-libedgolart.com
 lidosquey.shop
 likedstring.com
 link4ads.com
