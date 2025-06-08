@@ -42,9 +42,6 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-bid.adservercheck.net
-www.adservercheck.net
-xml.adservercheck.net
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -66,7 +63,6 @@ ads.livetv681.me
 ads.livetv683.me
 ads.livetv689.me
 ads.livetv691.me
-ads.livetv788.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
@@ -298,6 +294,7 @@ febadu.com
 feenyrpxyps.com
 feevefouhe.net
 fhkfdgwtzueans.com
+findcommerce.com
 fixespreoccupation.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
