@@ -42,6 +42,9 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+bid.adservercheck.net
+www.adservercheck.net
+xml.adservercheck.net
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -83,7 +86,6 @@ tvc.biphim.club
 upfile16.mediaphim.com
 analytics.amedigital.vn
 track.winigroup.vn
-tracking.tvet-vietnam.org
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
