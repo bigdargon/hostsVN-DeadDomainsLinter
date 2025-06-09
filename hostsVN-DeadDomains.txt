@@ -19,9 +19,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
@@ -95,8 +92,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-cdn.hbplatform.com
-hbplatform.com
 mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -807,6 +802,4 @@ zmedia.com
 analytics.hostyour.video
 burstly.com
 go.ad1data.com
-richmetrics.com
-worldgravity.com
 yoursitestatstube.ru
