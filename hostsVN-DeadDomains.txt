@@ -13,6 +13,7 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -52,6 +53,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -61,6 +63,7 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+image.b91vip.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -86,12 +89,23 @@ ads.livetv683.me
 ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
+www.klick.vn
+adx.vn
 mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -100,6 +114,9 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.autonet.com.vn
+ak9.6895588.com
+bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -123,8 +140,8 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+ad.bizo.com
 adaftegloomto.com
-adbrn.com
 adinfuse.com
 adkchtmtns.com
 adplus.co.id
@@ -575,6 +592,7 @@ pushmeup.art
 puwpush.com
 pzshzhja.com
 qdfxeqhnjuknyy.com
+qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -785,6 +803,7 @@ yawnspuker.com
 ycxajdcpesguqh.com
 yeljusxttq.com
 yhmfmugyq.com
+yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonomastara.com
