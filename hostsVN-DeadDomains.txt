@@ -139,6 +139,7 @@ adsclick.cc
 adserver.quizdingo.com
 adsmart.com
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afcnuchxgo.com
 afearprevoid.com
