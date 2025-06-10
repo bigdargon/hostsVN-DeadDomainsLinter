@@ -6,13 +6,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -50,12 +43,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 admin.runative.com
 api.runative.com
 auth.runative.com
@@ -136,7 +123,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv683.me
-ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -145,7 +131,6 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv760.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -197,7 +182,6 @@ tvc.biphim.club
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
-log.baobackan.com.vn
 stats.osd.vn
 track.winigroup.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -669,7 +653,6 @@ phocmogo.com
 photographpan.com
 pienbitore.com
 pistolsizehoe.com
-pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pocrowpush.com
@@ -723,7 +706,6 @@ record.bonniergaming.com
 reecegrita.com
 reflushneuma.com
 regnow.com
-reinvigorate.net
 resolutekey.com
 resolvedswordlinked.com
 retryngs.com
@@ -736,7 +718,6 @@ rkksbrkwdqbop.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -945,7 +926,6 @@ analytics.undrads.com
 burstly.com
 dolohen.com
 go.ad1data.com
-richmetrics.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
