@@ -117,7 +117,6 @@ image.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
-ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -190,9 +189,6 @@ adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
