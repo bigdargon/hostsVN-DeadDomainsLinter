@@ -44,8 +44,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -97,9 +95,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
@@ -155,7 +150,6 @@ ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
-ads.livetv689.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
@@ -881,7 +875,6 @@ ulrzovfukgkljw.com
 unknowntray.com
 unphionetor.com
 unstoutgolfs.com
-unthem.com
 untidyquestion.com
 updatedbut.com
 upgastlyr.com
