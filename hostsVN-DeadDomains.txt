@@ -70,7 +70,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 fadskiz.com
 gadskis.com
@@ -852,7 +851,6 @@ toathoule.com
 total-fee.com
 touphudipodou.net
 tpnads.com
-tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 trendcounter.com
