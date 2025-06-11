@@ -1,11 +1,4 @@
-googleads-cn.com
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -26,16 +19,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -43,14 +26,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -80,7 +55,6 @@ cdn.appier.xyz
 c.netund.com
 netund.com
 pgmcdn.com
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -99,8 +73,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -152,7 +124,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -166,7 +137,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
-ads.autonet.com.vn
 ak9.6895588.com
 bidgear-syndication.com
 crocopop.com
@@ -197,7 +167,6 @@ abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
 adaftegloomto.com
-adcloud.net
 adinfuse.com
 adkchtmtns.com
 adplus.co.id
@@ -254,7 +223,6 @@ b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
 banner.casino.net
-banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -341,7 +309,6 @@ daufouwhoag.net
 dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
-dedicatedmedia.com
 deewansturacin.com
 delegatediscussion.com
 deligrassdull.com
@@ -394,7 +361,6 @@ epyqerhah.com
 eqgmnmqlz.com
 erosyndc.com
 esellerate.net
-euros4click.de
 exclusivebrass.com
 exogripper.com
 exxohwvxupjv.com
@@ -601,7 +567,6 @@ ntvsw.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nygwcwsvnu.com
-nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -712,7 +677,6 @@ rkksbrkwdqbop.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -921,5 +885,4 @@ burstly.com
 dolohen.com
 go.ad1data.com
 usergrid.com
-worldgravity.com
 yoursitestatstube.ru
