@@ -76,10 +76,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -92,7 +88,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv701.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -339,6 +334,7 @@ ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
+elitetoplist.com
 ellcurvth.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
@@ -466,7 +462,6 @@ jaumevie.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
-jiwire.com
 jncdvibhdaddmu.com
 jomtingi.net
 joopaish.com
