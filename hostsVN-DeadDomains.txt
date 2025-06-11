@@ -1,4 +1,5 @@
 blueserving.com
+sender.megapopads.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -99,8 +100,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 mautic.educe.vn
 mautic.vmax.vn
@@ -137,7 +136,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
-ad.foxnetworks.com
 adaftegloomto.com
 adinfuse.com
 adkchtmtns.com
@@ -146,7 +144,6 @@ adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.thrillsaffiliates.com
 adsclick.cc
 adserver.quizdingo.com
@@ -154,7 +151,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
 adsrveys.com
-adtoma.com
 adyieldoptimizer.com
 afcnuchxgo.com
 afearprevoid.com
@@ -509,6 +505,7 @@ meowpushnot.com
 messagenovice.com
 metahv.xyz
 mgepuynxttyi.com
+mingledventin.com
 missitzantiot.com
 mobbersinwalls.com
 mobisla.com
@@ -717,6 +714,7 @@ supapush.net
 surtaultathoado.com
 svkmxwssih.com
 swrggntsvmsgv.com
+syndetstermine.com
 syndicpop.com
 t.easyads28.mobi
 tarybabottega.com
