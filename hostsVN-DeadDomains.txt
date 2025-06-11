@@ -101,7 +101,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 adx.vn
 mautic.educe.vn
-mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -737,7 +736,6 @@ toathoule.com
 total-fee.com
 touphudipodou.net
 tpnads.com
-trafficstrategies.com
 tranquilside.com
 trendcounter.com
 troubledcontradiction.com
