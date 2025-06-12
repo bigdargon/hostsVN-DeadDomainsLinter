@@ -1878,7 +1878,6 @@
 365299.vip
 365331.vip
 3653bet.com
-3655007.com
 365611.net
 365633.net
 36564.org
@@ -3137,7 +3136,6 @@
 670495.com
 670496.com
 670497.com
-670498.com
 670581.com
 67137.vip
 671401.com
@@ -3261,7 +3259,6 @@
 6766zj.com
 6768t.com
 6772v.com
-678239.com
 67830.vip
 678956765.com
 678956767.com
@@ -4963,7 +4960,6 @@
 952yb.com
 9535588.com
 953jgj.com
-9544.com
 9544bet.com
 9567bet.com
 95933.org
@@ -5192,7 +5188,6 @@ ambc.wang
 ambcw3.com
 ambcw4.com
 amp-slots.com
-amtiyu.com
 amx188.com
 amxj14.com
 amxj17.com
@@ -5278,7 +5273,12 @@ az888.bet
 az888v10.com
 b0822.com
 b0859.com
+<<<<<<< Updated upstream
 b1042.com
+=======
+b1045.com
+b1062.com
+>>>>>>> Stashed changes
 b1125.com
 b1126.com
 b1243.com
@@ -5301,7 +5301,10 @@ b52.vin
 b52vn.org
 b5518.com
 b5530.com
+<<<<<<< Updated upstream
 b555.vip
+=======
+>>>>>>> Stashed changes
 b5953.com
 b5adfgi88.com
 b5c8909iuj.com
@@ -5689,7 +5692,6 @@ bst84.com
 bstfa888.com
 bt6.fun
 bt666.fun
-btc365en.com
 btc365en1.com
 btt36.com
 bty06s.com
@@ -6014,10 +6016,12 @@ d2588.com
 d3.debet.info
 d3ffp.com
 d5by5.com
+d6732.com
 d697.net
 d69779.com
 d789365.com
 d79.vip
+d9353.com
 d9bet09.com
 dabao5588.com
 dabao6655.com
@@ -6372,6 +6376,7 @@ fff6732.com
 fh04.vip
 fh13.vip
 fi8881.com
+fi88880.com
 fi88blog.com
 fiba88.com
 fifa66.com
@@ -6839,11 +6844,17 @@ hitclub.blue
 hitlub.net
 hj6262.com
 hjc166.com
+<<<<<<< Updated upstream
 hjc333.com
 hjc5525.com
 hjc5617.com
 hjc666.com
 hjc77.com
+=======
+hjc5525.com
+hjc5617.com
+hjc7367.com
+>>>>>>> Stashed changes
 hjc7711.com
 hjc8080.com
 hjc879.com
@@ -8169,6 +8180,7 @@ q0309.com
 q034034.com
 q15572917796.com
 q1663.com
+q1822.com
 q188xj.com
 q2885.com
 q55nn.com
@@ -8638,6 +8650,7 @@ tai789.net
 tai789.win
 taichoihu.net
 taido99.win
+taigamehot.pro
 taigamengay.biz
 taigamengay.digital
 taigamengay.pw
