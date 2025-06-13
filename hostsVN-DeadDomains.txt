@@ -33,16 +33,24 @@ t.imstks.com
 www.imstks.com
 c.netund.com
 netund.com
+delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+stats.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 image.b91vip.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -51,6 +59,7 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+click-v4.jadspro.live
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -68,6 +77,8 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-track.net
+cdn.hbplatform.com
+hbplatform.com
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -75,6 +86,8 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 ak9.6895588.com
 crocopop.com
@@ -100,9 +113,13 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+ad1.emediate.dk
 adaftegloomto.com
+adbrn.com
 adinfuse.com
 adkchtmtns.com
+adlite.net
+admarket.network
 adplus.co.id
 adrevolver.com
 ads.cdn2-img.net
@@ -332,6 +349,7 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -343,6 +361,7 @@ grirtouy.com
 grishoussaiz.com
 grooksom.com
 groopsie.net
+groumaux.net
 grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
@@ -362,10 +381,12 @@ heukpiroot.com
 hewokhn.com
 hoocaumakopaibu.com
 hpdvgejc.com
+hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hubarejnbsobic.com
 huppontic.com
+hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
@@ -454,7 +475,6 @@ matecatenae.com
 maximumcash.com
 medaaebqmbpx.com
 mediacharger.com
-medialets.com
 mediamind.com
 meowpushnot.com
 messagenovice.com
@@ -558,6 +578,7 @@ pulvinioreodon.com
 pushazer.com
 pushmeup.art
 pzshzhja.com
+qainfcnvfensl.site
 qdfxeqhnjuknyy.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -648,6 +669,7 @@ spurioussteam.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
 stichaur.net
@@ -689,6 +711,7 @@ toathoule.com
 total-fee.com
 touphudipodou.net
 tpnads.com
+tracker-pm2.spilleren.com
 tranquilside.com
 troubledcontradiction.com
 trustisimportant.fun
@@ -756,6 +779,7 @@ wokseephishopty.net
 wonderlandads.com
 wreaksyolkier.com
 wrestcut.com
+www.admarket.network
 www.claroadsclick.com
 www.money4exit.de
 www.ntvsw.com
@@ -792,9 +816,8 @@ zeepmedia.com
 zintext.com
 zmedia.com
 analytics.hostyour.video
-analytics.undrads.com
+analytics.shivamsinghis.me
 burstly.com
 dolohen.com
 go.ad1data.com
-usergrid.com
 yoursitestatstube.ru
