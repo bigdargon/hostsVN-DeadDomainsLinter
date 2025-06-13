@@ -59,7 +59,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-click-v4.jadspro.live
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -118,7 +117,6 @@ adaftegloomto.com
 adbrn.com
 adinfuse.com
 adkchtmtns.com
-adlite.net
 admarket.network
 adplus.co.id
 adrevolver.com
