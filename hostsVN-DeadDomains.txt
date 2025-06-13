@@ -1,9 +1,4 @@
 native.propellerclick.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -20,6 +15,7 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+mstorer.net
 zetadeo.com
 ei.imstks.com
 i.imstks.com
@@ -68,7 +64,6 @@ aj101.xyz
 aff-track.net
 cdn.hbplatform.com
 hbplatform.com
-mautic.chetaomaysaigon.vn
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -504,6 +499,7 @@ onclasrv.com
 oneegrou.net
 onenetworkdirect.com
 onmarshtompor.com
+ontosocietyweary.com
 opdhoxor.com
 orbsclawand.com
 organicbonus.com
