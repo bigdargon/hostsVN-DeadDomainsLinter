@@ -31,7 +31,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -41,6 +40,7 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+bid.adservercheck.net
 image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
@@ -282,6 +282,7 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eringosdye.com
+erosyndc.com
 eryondistain.com
 escortlarbul.com
 esellerate.net
@@ -399,6 +400,7 @@ ivhwlnlcgi.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
+jacadpjirs.com
 jadeitite.com
 jaumevie.com
 jfgeuisugoekf.com
@@ -460,7 +462,6 @@ madriyelowd.com
 makqfcvs.com
 mamsauphoachoap.net
 matecatenae.com
-mathcountryside.com
 maximumcash.com
 medaaebqmbpx.com
 mediacharger.com
@@ -544,7 +545,6 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
-pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -709,7 +709,6 @@ toeapesob.com
 total-fee.com
 touphudipodou.net
 tpnads.com
-tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 troubledcontradiction.com
@@ -817,5 +816,4 @@ analytics.hostyour.video
 burstly.com
 dolohen.com
 go.ad1data.com
-showbiz.owndata.network
 yoursitestatstube.ru
