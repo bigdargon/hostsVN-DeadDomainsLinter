@@ -31,9 +31,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
@@ -70,7 +67,6 @@ aj3017.bid
 aj101.xyz
 adx.vn
 mautic.educe.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
