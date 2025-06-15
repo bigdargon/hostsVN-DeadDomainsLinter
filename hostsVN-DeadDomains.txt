@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 native.propellerclick.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -40,7 +39,6 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-bid.adservercheck.net
 image.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
@@ -400,7 +398,6 @@ ivhwlnlcgi.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
-jacadpjirs.com
 jadeitite.com
 jaumevie.com
 jfgeuisugoekf.com
