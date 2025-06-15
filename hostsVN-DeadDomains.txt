@@ -68,15 +68,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
-www.klick.vn
 adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
@@ -247,7 +238,6 @@ daintydragged.com
 dalysh.com
 dancemistake.com
 dangerouswinter.com
-dapper.net
 daufouwhoag.net
 dckifhpovvbpb.com
 decisiveducks.com
