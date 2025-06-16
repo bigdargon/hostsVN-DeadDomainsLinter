@@ -44,6 +44,7 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+www.jadspro.live
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -808,6 +809,7 @@ zeegreen.net
 zeepmedia.com
 zintext.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 dolohen.com
 go.ad1data.com
