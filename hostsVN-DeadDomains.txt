@@ -1,4 +1,5 @@
 native.propellerclick.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -55,6 +56,11 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
 adx.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -67,6 +73,7 @@ ak9.6895588.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+serving-ad.tv24.vn
 tvc.biphim.club
 alexajstrack.com
 analytics.amedigital.vn
@@ -94,8 +101,10 @@ adinfuse.com
 adkchtmtns.com
 adplus.co.id
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
@@ -140,6 +149,8 @@ b5e75c56.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bande2az.com
+banner.casino.net
+banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 bawdybeast.com
@@ -368,6 +379,7 @@ idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -382,6 +394,7 @@ ipyefimivc.com
 irritateinformantmeddle.com
 itriyokj.com
 ivhwlnlcgi.com
+ivwbox.de
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -515,6 +528,7 @@ panaxive.com
 pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
@@ -551,6 +565,7 @@ ptumsess.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
+pumywyczbks.com
 pushazer.com
 pushmeup.art
 pzshzhja.com
@@ -615,6 +630,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 serconmp.com
 setypckq.com
 shakytaste.com
@@ -780,7 +796,6 @@ yawnspuker.com
 ycxajdcpesguqh.com
 yeljusxttq.com
 yhmfmugyq.com
-yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonomastara.com
@@ -798,4 +813,6 @@ analytics.hostyour.video
 burstly.com
 dolohen.com
 go.ad1data.com
+richmetrics.com
+usergrid.com
 yoursitestatstube.ru
