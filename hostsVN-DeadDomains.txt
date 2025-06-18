@@ -67,11 +67,6 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-k8s2.testcentre.vn
-testcentre.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -112,8 +107,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
-adserver1.mindshare.de
-adserver2.mindshare.de
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -162,7 +155,6 @@ baivideewou.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.mindshare.de
 banner.penguin.cz
 bannermarkt.nl
 bawdybeast.com
@@ -415,6 +407,7 @@ ingotedbooze.com
 innocentwax.com
 instrumentsponge.com
 intnotif.club
+inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
 itriyokj.com
