@@ -23,10 +23,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -63,7 +59,6 @@ ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
