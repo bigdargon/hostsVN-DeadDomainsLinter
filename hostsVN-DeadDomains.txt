@@ -1,6 +1,7 @@
 advertica.ae
 www.advertica.ae
 native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -45,6 +46,8 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -55,12 +58,26 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv683.me
+ads.livetv686.me
+ads.livetv687.me
+ads.livetv691.me
+ads.livetv697.me
+ads.livetv701.me
+ads.livetv703.me
+ads.livetv705.me
+ads.livetv708.me
+ads.livetv782.me
+ads.livetv785.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
 k8s2.testcentre.vn
 testcentre.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -68,6 +85,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.autonet.com.vn
 ak9.6895588.com
 crocopop.com
 duamilsyr.com
@@ -177,6 +195,7 @@ blearspellaea.shop
 blueswordksh.com
 boilhumoristpacifist.com
 boozoomamesha.net
+bouncecardiganculture.com
 boyaidare.club
 brechtembrowd.com
 broadboundary.com
@@ -192,6 +211,8 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
+capitalgolfmushily.com
+capsizehatlessprude.com
 caribedkurukh.com
 casinopays.com
 caugrithoowhu.net
@@ -217,6 +238,7 @@ clonesmesopic.com
 coacoalaum.com
 coappreciate.com
 commodityshortlysurviving.com
+conformfavoredgauging.com
 consciouschairs.com
 constructpoll.com
 contehos.com
@@ -228,6 +250,7 @@ cpxadroit.com
 croniesobli.com
 crumplylenient.com
 culturalsameunbridle.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -411,6 +434,7 @@ iytsnelqs.com
 izleskulked.shop
 jadeitite.com
 jaumevie.com
+jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
@@ -490,6 +514,7 @@ mousheebaivy.net
 msvobeuhec.com
 munchenviableski.com
 nagoverpayreimburse.com
+nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 ncaxvlngll.com
@@ -601,6 +626,7 @@ raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
 receptiveink.com
+recoverystabilizevarmint.com
 reecegrita.com
 reflushneuma.com
 regnow.com
@@ -676,6 +702,7 @@ specially4u.net
 spurioussteam.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
 stichaur.net
@@ -731,6 +758,7 @@ ubewpjbfo.com
 ufabsoonsijeerg.net
 ufiledsit.com
 uhealth.care
+ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unknowntray.com
@@ -815,6 +843,7 @@ yougotacheck.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
 yrscfbbegumijt.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 zbwp6ghm.com
