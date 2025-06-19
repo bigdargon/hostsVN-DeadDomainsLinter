@@ -1252,7 +1252,6 @@ meetamate.site
 member-gaarena.com
 member-garena-lienquan.com
 member-lienquan-garena.com
-member.sso-garena.vn
 membergarenaviet.com
 memberr-garenaa.com
 memberrship-ff-garena.com
@@ -3050,6 +3049,7 @@ vcb-vaysodo.com
 vcb-vaytaichinh.com
 vcbbankdigi.com
 vcbdigeibonk.com
+vcbdigliebrnk.com
 vcbdigtylbrnk.com
 vcbdlgrcbonk.com
 vcbigdank.com
