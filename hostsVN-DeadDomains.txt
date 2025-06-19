@@ -1,6 +1,20 @@
 advertica.ae
 www.advertica.ae
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 native.propellerclick.com
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -8,6 +22,12 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -23,6 +43,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -39,6 +60,8 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -58,6 +81,7 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -89,6 +113,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+ad1.emediate.dk
 adaftegloomto.com
 adinfuse.com
 adkchtmtns.com
@@ -97,8 +122,10 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 adsclick.cc
+adserver.quizdingo.com
 adsmart.com
 adsrveys.com
+adtoma.com
 adyieldoptimizer.com
 afcnuchxgo.com
 afearprevoid.com
@@ -118,7 +145,6 @@ allodsubussu.com
 ambulanceappealingrut.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
-api.ampiri.com
 armfullitigateslate.com
 armoursviolino.com
 artax-evn.com
@@ -144,6 +170,7 @@ baivideewou.com
 bande2az.com
 banner.coza.com
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 bawdybeast.com
 baypops.com
@@ -312,6 +339,7 @@ fleshlightcash.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
+forspearowor.com
 fpqwpqiyq.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -360,6 +388,7 @@ gueqiwsbxp.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gyfumobo.com
 h78xb.pw
 hamulustueiron.com
 handkerchiefpersonnel.com
@@ -385,6 +414,7 @@ idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -409,6 +439,8 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
+jiordgxkpglzm.com
+jmrnews.pro
 jncdvibhdaddmu.com
 jomtingi.net
 joopaish.com
@@ -450,6 +482,7 @@ likedstring.com
 link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
+lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 lootoshevub.net
@@ -593,6 +626,7 @@ qumagee.com
 qwerfdx.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
@@ -717,6 +751,8 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpnads.com
+tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 troubledcontradiction.com
 trustisimportant.fun
@@ -799,6 +835,7 @@ xmkmuadkefzav.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
+xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -823,4 +860,6 @@ zintext.com
 analytics.hostyour.video
 dolohen.com
 go.ad1data.com
+showbiz.owndata.network
+usergrid.com
 yoursitestatstube.ru
