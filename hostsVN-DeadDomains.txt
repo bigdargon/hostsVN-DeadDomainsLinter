@@ -15,7 +15,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -439,7 +438,6 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
-jiordgxkpglzm.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jomtingi.net
