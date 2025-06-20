@@ -1,14 +1,5 @@
 advertica.ae
 www.advertica.ae
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -554,7 +545,6 @@ onmarshtompor.com
 ontosocietyweary.com
 opdhoxor.com
 openads.org
-opsivesh.net
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
@@ -865,7 +855,6 @@ zeepmedia.com
 zintext.com
 zmedia.com
 analytics.hostyour.video
-burstly.com
 dolohen.com
 go.ad1data.com
 showbiz.owndata.network
