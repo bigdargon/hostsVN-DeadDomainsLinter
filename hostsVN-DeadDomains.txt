@@ -1,9 +1,5 @@
 advertica.ae
 www.advertica.ae
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
