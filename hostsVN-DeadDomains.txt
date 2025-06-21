@@ -1,5 +1,9 @@
 advertica.ae
 www.advertica.ae
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -18,6 +22,7 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -43,6 +48,12 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asgdfasad.mm-cgnews.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -71,6 +82,18 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
+www.klick.vn
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -79,7 +102,9 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.autonet.com.vn
 ak9.6895588.com
+bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -104,12 +129,13 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
-ad1.emediate.dk
+ad.abctv.com
 adaftegloomto.com
 adcloud.net
 adinfuse.com
 adkchtmtns.com
 adplus.co.id
+adrevolver.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -220,6 +246,7 @@ chirpyreemergespotty.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
+chulhawakened.com
 chullohagrode.com
 circularnothing.com
 civadsoo.net
@@ -249,6 +276,7 @@ cvvczlcg.com
 cyjprljyvgqeg.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dalysh.com
 dangerouswinter.com
 dapper.net
@@ -313,6 +341,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fagywalu.pro
 faisaphoofa.net
@@ -360,6 +389,7 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -421,6 +451,7 @@ ipyefimivc.com
 irritateinformantmeddle.com
 itriyokj.com
 ivhwlnlcgi.com
+ivwbox.de
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -430,6 +461,7 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
+jiwire.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jomtingi.net
@@ -450,6 +482,7 @@ jyhlgpkn.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
+kaurieseluxate.com
 kdpxksukngrg.com
 kempucmouftordo.com
 kjqsnxibegvue.com
@@ -460,6 +493,7 @@ knurleddeblock.guru
 kogutcho.net
 kqalbhgnd.com
 kronosspell.com
+lambingsyddir.com
 lassampy.com
 lbmqciazrpm.com
 leestoptee.com
@@ -508,6 +542,7 @@ msvobeuhec.com
 munchenviableski.com
 myntelligence.com
 nagoverpayreimburse.com
+namol.xyz
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -574,6 +609,7 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
+pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -613,6 +649,7 @@ qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 qwerfdx.com
@@ -623,7 +660,6 @@ raphanysteers.com
 rbkhpjfwtmirk.com
 rduaagcwsw.com
 receptiveink.com
-record.bonniergaming.com
 recoverystabilizevarmint.com
 reecegrita.com
 reflushneuma.com
@@ -719,6 +755,7 @@ supapush.net
 surfmusik-adserver.de
 surtaultathoado.com
 svkmxwssih.com
+swarthymacula.com
 swrggntsvmsgv.com
 syndicpop.com
 t.easyads28.mobi
@@ -769,6 +806,7 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upspinarakor.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -814,6 +852,7 @@ wissoony.net
 woamowhoastoup.net
 wokseephishopty.net
 wonderlandads.com
+worstideatum.com
 wreaksyolkier.com
 wrestcut.com
 www.claroadsclick.com
@@ -856,4 +895,5 @@ dolohen.com
 go.ad1data.com
 showbiz.owndata.network
 usergrid.com
+worldgravity.com
 yoursitestatstube.ru
