@@ -273,7 +273,6 @@ checkfbviet.tk
 chientich-sinhnhat-lienquanvn.gq
 chientich-sinhnhatlienquangarenavn.ml
 chinhphu.dulieucutru.org
-chinhphu.thongtincutru.org
 chovayfecredit.com
 chovaytiengopsg.com
 chovaytieudung.online
@@ -628,6 +627,7 @@ freefire-garena-membership.tk
 freefire-membershipp-garena.com
 freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
+freefire-vietnam.com
 freefirehopqua.com
 freefiremembership-garenas.com
 freefiremembershipq.com
@@ -3731,6 +3731,7 @@ zkika.okyla.de
 zla653.top
 zmomo.cc
 znavidsde.cfd
+zutube.pro
 zvay.online
 zvc.cc
 zvietcombank.com
