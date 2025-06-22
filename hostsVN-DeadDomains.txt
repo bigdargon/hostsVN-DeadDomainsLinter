@@ -11,6 +11,14 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
+admin.runative.com
+api.runative.com
+auth.runative.com
+pusher.staging.runative.com
+rotator.staging.runative.com
+single.runative.com
+staging.runative.com
+static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -33,6 +41,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+www.mobile-10.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -67,10 +76,20 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv683.me
+ads.livetv686.me
+ads.livetv687.me
+ads.livetv691.me
+ads.livetv697.me
+ads.livetv708.me
+ads.livetv785.me
+ads.livetv787.me
+ads.livetv788.me
 aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+aff-track.net
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -88,6 +107,7 @@ bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 tvc.biphim.club
 analytics.amedigital.vn
 track.winigroup.vn
@@ -108,6 +128,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+ad.foxnetworks.com
 adaftegloomto.com
 adcloud.net
 adinfuse.com
@@ -117,11 +138,13 @@ adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.horyzon-media.com
 adsclick.cc
 adserver.quizdingo.com
 adsmart.com
 adsrveys.com
+adtoma.com
 adyieldoptimizer.com
 afcnuchxgo.com
 afearprevoid.com
@@ -166,6 +189,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bande2az.com
+banner.penguin.cz
 bannermarkt.nl
 bawdybeast.com
 baypops.com
@@ -182,7 +206,6 @@ bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
-bikrurda.net
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -274,6 +297,7 @@ despicablereporthusband.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diedstubbornforge.com
+digitalmerkat.com
 digyniahuffle.com
 directleads.com
 directtrack.com
@@ -289,6 +313,7 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
+ebuzzing.com
 ebvvvnjesjgx.com
 eemsouftas.com
 efyglwbapki.com
@@ -366,7 +391,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -554,11 +578,9 @@ onenetworkdirect.com
 onmarshtompor.com
 ontosocietyweary.com
 opdhoxor.com
-openads.org
 orbsclawand.com
 organicbonus.com
 orywrjsf.com
-ostaigukeshoak.com
 oufauthy.net
 outflednailbin.com
 outwoodeuropa.com
@@ -681,6 +703,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 serconmp.com
 setypckq.com
 shakytaste.com
