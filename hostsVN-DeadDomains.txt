@@ -68,11 +68,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv683.me
 ads.livetv687.me
-ads.livetv691.me
-ads.livetv697.me
-ads.livetv708.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
@@ -91,7 +87,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
-ads.autonet.com.vn
 ak9.6895588.com
 bidgear-syndication.com
 crocopop.com
