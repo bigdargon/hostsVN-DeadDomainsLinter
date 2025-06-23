@@ -73,7 +73,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-mautic.educe.vn
 mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -136,6 +135,7 @@ ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
 ak.unblitzlean.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 ambulanceappealingrut.com
