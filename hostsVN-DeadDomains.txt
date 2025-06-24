@@ -1,11 +1,21 @@
 advertica.ae
 www.advertica.ae
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -38,6 +48,8 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -60,6 +72,15 @@ aj2566.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
+www.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -68,6 +89,9 @@ track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 mautic.serverhub.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -81,6 +105,7 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 tvc.biphim.club
+alexajstrack.com
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -100,6 +125,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abyocawlfe.com
 achieverknee.com
+ad.abctv.com
 ad.foxnetworks.com
 adaftegloomto.com
 adinfuse.com
@@ -112,6 +138,8 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 adsclick.cc
 adserver.quizdingo.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsmart.com
 adsrveys.com
 adyieldoptimizer.com
@@ -159,7 +187,8 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bande2az.com
-banner.penguin.cz
+banner.mindshare.de
+bannerconnect.net
 bannermarkt.nl
 basebanner.com
 bawdybeast.com
@@ -511,6 +540,7 @@ moonlitturbots.com
 mousheebaivy.net
 msvobeuhec.com
 munchenviableski.com
+mybestmv.com
 myntelligence.com
 nagoverpayreimburse.com
 nastinessreplicaupload.com
@@ -576,6 +606,7 @@ photographpan.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 podsklzegshmnd.com
@@ -855,6 +886,7 @@ zeegreen.net
 zeepmedia.com
 zintext.com
 analytics.hostyour.video
+burstly.com
 dolohen.com
 go.ad1data.com
 richmetrics.com
