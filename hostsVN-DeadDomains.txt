@@ -1,14 +1,5 @@
 advertica.ae
 www.advertica.ae
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -489,7 +480,6 @@ kronosspell.com
 lambingsyddir.com
 lassampy.com
 lbmqciazrpm.com
-leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
