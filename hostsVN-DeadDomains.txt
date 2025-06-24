@@ -39,8 +39,6 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -718,7 +716,6 @@ spanuletubings.com
 speakspurink.com
 specially4u.net
 spurioussteam.com
-spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -762,7 +759,6 @@ toeapesob.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
-tpnads.com
 tranquilside.com
 trendcounter.com
 troubledcontradiction.com
@@ -872,5 +868,4 @@ burstly.com
 dolohen.com
 go.ad1data.com
 richmetrics.com
-worldgravity.com
 yoursitestatstube.ru
