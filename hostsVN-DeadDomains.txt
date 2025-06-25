@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 advertica.ae
 www.advertica.ae
 native.propellerclick.com
@@ -13,7 +15,6 @@ aj1863.online
 aj2142.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -29,6 +30,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -46,6 +51,10 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -92,6 +101,7 @@ ak9.6895588.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+serving-ad.tv24.vn
 tvc.biphim.club
 alexajstrack.com
 analytics.amedigital.vn
@@ -122,7 +132,8 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-adsclick.cc
+ads.horyzon-media.com
+ads.thrillsaffiliates.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmart.com
@@ -172,6 +183,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bande2az.com
+banner.casino.net
 banner.mindshare.de
 bannermarkt.nl
 bawdybeast.com
@@ -216,7 +228,6 @@ capitalgolfmushily.com
 capsizehatlessprude.com
 casinopays.com
 caugrithoowhu.net
-cdn.easyads28.mobi
 chaikempakr.com
 charming-people.com
 chertouz.net
@@ -252,6 +263,7 @@ cpxadroit.com
 croniesobli.com
 crumplylenient.com
 culturalsameunbridle.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -278,6 +290,7 @@ despicablereporthusband.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 directleads.com
@@ -288,6 +301,7 @@ doaglunoupa.net
 dorkingvoust.com
 dotranquilla.com
 drydrum.com
+dsp.io
 dulrihaungy.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -399,6 +413,7 @@ heeceeceejo.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
+hjbtunmh.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hpdvgejc.com
@@ -430,6 +445,7 @@ ipyefimivc.com
 irritateinformantmeddle.com
 itriyokj.com
 ivhwlnlcgi.com
+ivwbox.de
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -460,6 +476,7 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
+kcgkiumubea.com
 kdpxksukngrg.com
 kempucmouftordo.com
 kjqsnxibegvue.com
@@ -483,6 +500,7 @@ likedstring.com
 link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
+llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -527,6 +545,7 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
+news-central.org
 newstarads.com
 nhusjhrshwxvl.com
 noerwe5gianfor19e4st.com
@@ -712,6 +731,7 @@ specially4u.net
 spurioussteam.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
@@ -729,10 +749,10 @@ svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
 syndicpop.com
-t.easyads28.mobi
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdpjzjpfuiis.com
 that-muscle.com
 thedevband.com
@@ -811,7 +831,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -859,4 +878,5 @@ burstly.com
 dolohen.com
 go.ad1data.com
 richmetrics.com
+usergrid.com
 yoursitestatstube.ru
