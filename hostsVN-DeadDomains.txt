@@ -132,7 +132,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -831,6 +830,7 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
+wibtntmvox.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
