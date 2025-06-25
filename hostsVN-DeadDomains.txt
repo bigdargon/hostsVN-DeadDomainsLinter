@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 advertica.ae
 www.advertica.ae
 native.propellerclick.com
