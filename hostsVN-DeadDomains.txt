@@ -8,7 +8,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -519,6 +518,7 @@ makqfcvs.com
 mamsauphoachoap.net
 manpowerspiritualunrented.com
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 medaaebqmbpx.com
 mediamind.com
