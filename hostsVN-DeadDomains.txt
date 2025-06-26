@@ -78,12 +78,10 @@ aj101.xyz
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
-klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-www.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -275,6 +273,7 @@ curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
+cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
