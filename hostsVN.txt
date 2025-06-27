@@ -1,4 +1,4 @@
-# Version: 2506261355
+# Version: 2506272339
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14945,6 +14945,7 @@
 ||iaglkpracviogn.com^
 ||iapclick.gowadogo.com^
 ||iasds01.com^
+||iauzsghijpmq.com^
 ||ib-ibi.com^
 ||ichachoakiglop.com^
 ||iclickcdn.com^
@@ -15352,6 +15353,7 @@
 ||lj.ochreargue.shop^
 ||lkhbcpwpyecs.com^
 ||llink.site^
+||llryoelwpse.com^
 ||llzv.lzazqroyklozv.top^
 ||lmajm.lbylqerzmzlzq.top^
 ||lmmjj.lqbvjmkoozark.top^
@@ -16031,6 +16033,7 @@
 ||oxcash.com^
 ||oxen.hillcountrytexas.com^
 ||oxthrilled.com^
+||oxwlhazto.com^
 ||ozbkfuhpuolf.com^
 ||ozbnagojbop.com^
 ||ozctkohaqmc.com^
@@ -17740,6 +17743,7 @@
 ||workervanewalk.com^
 ||worldoffersdaily.com^
 ||worldwide-cash.net^
+||wormslitty.top^
 ||worriednumber.com^
 ||worshippers.store^
 ||worstideatum.com^
@@ -17878,6 +17882,7 @@
 ||xrea.com^
 ||xruamzpanbca.com^
 ||xsaeafkfilbcur.com^
+||xsaheqapygdykxq.com^
 ||xszpuvwr7.com^
 ||xtendmedia.com^
 ||xtremeserve.xyz^
@@ -18096,7 +18101,6 @@
 ||api.iterable.com^
 ||api.prooffactor.com^
 ||api.quantumgraph.com^
-||api.statsig.com^
 ||api.taps.io^
 ||api.usebutton.com^
 ||api.wipmania.com^
