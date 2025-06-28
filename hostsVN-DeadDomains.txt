@@ -1,14 +1,5 @@
 advertica.ae
 www.advertica.ae
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -248,7 +239,6 @@ chulhawakened.com
 chullohagrode.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 claroadsclick.com
 clicksmint.site
 clkofafcbk.com
@@ -289,6 +279,7 @@ deliriamorula.shop
 deloton.com
 demtaudeeg.com
 dendranthe4edm7um.com
+denetsuk.com
 dependpinch.com
 despicablereporthusband.com
 dgqlwqedzowhqb.com
