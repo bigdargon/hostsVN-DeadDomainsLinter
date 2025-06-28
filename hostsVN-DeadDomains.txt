@@ -63,8 +63,6 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -380,7 +378,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
