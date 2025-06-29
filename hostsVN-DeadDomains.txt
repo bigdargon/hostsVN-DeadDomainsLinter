@@ -14,14 +14,6 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -51,11 +43,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -274,7 +261,6 @@ cpxadroit.com
 croniesobli.com
 crumplylenient.com
 culturalsameunbridle.com
-curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -294,7 +280,6 @@ deliriamorula.shop
 deloton.com
 demtaudeeg.com
 dendranthe4edm7um.com
-denetsuk.com
 dependpinch.com
 despicablereporthusband.com
 dgqlwqedzowhqb.com
@@ -303,6 +288,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+directcpmrev.com
 directleads.com
 directtrack.com
 dk4ywix.com
@@ -640,7 +626,6 @@ pompadawe.com
 ponysomebodymartyr.com
 poowucatuz.net
 potencyissuedflashlight.com
-praddpro.de
 pramviable.com
 presidestatelycondition.com
 proetusbramble.com
@@ -764,7 +749,6 @@ specially4u.net
 spurioussteam.com
 ssqyuvavse.com
 static-ads.akamaized.net
-static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
 stichaur.net
