@@ -20,7 +20,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -210,7 +209,6 @@ btcijivtsvph.com
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buzzardcraizey.com
 bvalphaserver.com
 caiwheechous.com
@@ -408,6 +406,7 @@ heeceeceejo.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
+hh-btr.com
 hjbtunmh.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -900,6 +899,5 @@ analytics.hostyour.video
 burstly.com
 dolohen.com
 go.ad1data.com
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
