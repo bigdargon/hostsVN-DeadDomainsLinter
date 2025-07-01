@@ -32,7 +32,6 @@ t.imstks.com
 www.imstks.com
 delivery.adsterra.org
 anymad.com
-cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -141,7 +140,6 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -960,7 +958,6 @@ zintext.com
 zkyqafavdg.com
 zuqalzajno.com
 analytics.hostyour.video
-burstly.com
 dolohen.com
 go.ad1data.com
 worldgravity.com
