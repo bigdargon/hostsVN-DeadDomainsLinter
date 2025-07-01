@@ -136,7 +136,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
 adsclick.cc
 adserver.quizdingo.com
