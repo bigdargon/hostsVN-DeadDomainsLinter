@@ -1,7 +1,5 @@
 advertica.ae
 www.advertica.ae
-ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 native.propellerclick.com
@@ -44,8 +42,6 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -149,7 +145,6 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -853,7 +848,6 @@ toathoule.com
 toeapesob.com
 tomorroweducated.com
 total-fee.com
-touphudipodou.net
 tpmagqvjzgvos.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
