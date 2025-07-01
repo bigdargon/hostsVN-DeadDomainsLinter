@@ -5,11 +5,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 native.propellerclick.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -154,6 +149,7 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
