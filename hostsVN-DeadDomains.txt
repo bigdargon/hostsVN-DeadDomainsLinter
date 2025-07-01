@@ -32,6 +32,7 @@ t.imstks.com
 www.imstks.com
 delivery.adsterra.org
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
