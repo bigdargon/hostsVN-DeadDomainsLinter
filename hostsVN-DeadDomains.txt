@@ -15,6 +15,9 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+brand.ad
+a.brand.ad
+www.brand.ad
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -31,6 +34,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 delivery.adsterra.org
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -40,11 +44,16 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asgdfasad.mm-cgnews.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -79,9 +88,8 @@ wakeup.klick.vn
 wakeup247.klick.vn
 k8s2.testcentre.vn
 testcentre.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
+adx.vn
+mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
 d.watanet.work
@@ -91,6 +99,7 @@ wataads.com
 ad.chieuhoa.com
 ads.seovietnam.pro
 ak9.6895588.com
+bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -135,6 +144,7 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsrveys.com
+adtoma.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -197,6 +207,7 @@ banner.coza.com
 banner.mindshare.de
 bannerconnect.net
 bannermarkt.nl
+basebanner.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
@@ -228,7 +239,6 @@ broaddoor.com
 brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 buzzardcraizey.com
@@ -247,6 +257,7 @@ cavbildi.com
 chaikempakr.com
 charming-people.com
 chertouz.net
+chiamfxz.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -261,7 +272,9 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
+clckysudks.com
 clicksmint.site
 clkofafcbk.com
 clonesmesopic.com
@@ -281,6 +294,7 @@ croniesobli.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -426,6 +440,7 @@ guhomnfuzq.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gyfumobo.com
 gzefitkcep.com
 h78xb.pw
 hacspynha.com
@@ -579,9 +594,9 @@ morningamidamaruhal.com
 mousheebaivy.net
 msvobeuhec.com
 munchenviableski.com
+myntelligence.com
 nagoverpayreimburse.com
 nastinessreplicaupload.com
-nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 ncaxvlngll.com
@@ -599,16 +614,19 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 observantice.com
+ocixbjnnmabufn.com
 octteqlxtjagek.com
 odfohvwi.com
 oewabox.at
 offgalvantulaom.com
 offvmuf.com
+ofplredpogw.com
 ojgzyztrmr.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -659,6 +677,7 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
+pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -689,10 +708,12 @@ pumywyczbks.com
 purgavax.com
 pushazer.com
 pushmeup.art
+pushup.wtf
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qcerujcajnme.com
+qdfxeqhnjuknyy.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
@@ -700,6 +721,7 @@ qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzwteqzaabm.com
@@ -718,6 +740,7 @@ recoverystabilizevarmint.com
 reecegrita.com
 reflushneuma.com
 regnow.com
+reinvigorate.net
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
@@ -756,6 +779,7 @@ salivanmobster.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
+scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -795,6 +819,7 @@ spurioussteam.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 stichaur.net
 stickerchapelsailing.com
@@ -819,6 +844,7 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdpjzjpfuiis.com
+thads.cc
 that-muscle.com
 thedevband.com
 thhwzyuktk.com
@@ -843,6 +869,7 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -928,6 +955,7 @@ xmkmuadkefzav.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
+xsaheqapygdykxq.com
 xumamropnox.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -954,5 +982,7 @@ zuqalzajno.com
 analytics.hostyour.video
 dolohen.com
 go.ad1data.com
+richmetrics.com
+showbiz.owndata.network
 worldgravity.com
 yoursitestatstube.ru
