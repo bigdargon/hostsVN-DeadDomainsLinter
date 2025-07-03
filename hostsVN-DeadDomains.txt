@@ -19,12 +19,6 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -1002,6 +996,5 @@ zuqalzajno.com
 analytics.hostyour.video
 dolohen.com
 go.ad1data.com
-showbiz.owndata.network
 worldgravity.com
 yoursitestatstube.ru
