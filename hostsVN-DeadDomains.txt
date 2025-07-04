@@ -110,7 +110,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
