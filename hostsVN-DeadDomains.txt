@@ -85,8 +85,6 @@ ads.livetv670.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv691.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv782.me
@@ -164,6 +162,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adspace.ro
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -393,6 +392,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
