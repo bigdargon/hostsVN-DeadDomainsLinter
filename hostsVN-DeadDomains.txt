@@ -171,8 +171,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 adsclick.cc
-adserver1.mindshare.de
-adserver2.mindshare.de
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -236,7 +234,6 @@ baivideewou.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.mindshare.de
 bannermarkt.nl
 bawdybeast.com
 baypops.com
