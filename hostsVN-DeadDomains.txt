@@ -66,12 +66,8 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-image.b91vip.com
-www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -182,7 +178,6 @@ adserver2.mindshare.de
 adspace.ro
 adsrv.wtf
 adsrveys.com
-adtology.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -306,7 +301,6 @@ chtsayil.com
 chulhawakened.com
 chullohagrode.com
 cigdizwu.com
-cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
@@ -500,7 +494,6 @@ hjbtunmh.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hpdvgejc.com
-hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hubarejnbsobic.com
@@ -873,7 +866,6 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
-swuojrovqf.com
 syndicpop.com
 tagular.com
 tarybabottega.com
@@ -924,6 +916,7 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upset-project.com
 urigagxnji.com
 usounoul.com
 uuomdlaslopcrx.com
@@ -1022,6 +1015,5 @@ analytics.hostyour.video
 burstly.com
 dolohen.com
 go.ad1data.com
-richmetrics.com
 worldgravity.com
 yoursitestatstube.ru
