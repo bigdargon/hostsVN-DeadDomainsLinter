@@ -173,7 +173,6 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adspace.ro
@@ -614,7 +613,6 @@ matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 meowpushnot.com
 metahv.xyz
