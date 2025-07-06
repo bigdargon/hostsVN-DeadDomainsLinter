@@ -7,13 +7,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 advertica.ae
 www.advertica.ae
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
