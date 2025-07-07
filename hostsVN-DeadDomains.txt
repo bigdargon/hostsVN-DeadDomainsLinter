@@ -89,8 +89,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -318,7 +316,6 @@ coacoalaum.com
 coappreciate.com
 cobalten.com
 commodityshortlysurviving.com
-compactbanner.com
 conformfavoredgauging.com
 consciouschairs.com
 constructpoll.com
@@ -384,7 +381,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
-elitetoplist.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
 encodehelped.com
