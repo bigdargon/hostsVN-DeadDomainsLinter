@@ -902,7 +902,6 @@ igoda.shop
 ihgatms.cfd
 iisacombank.com
 ilsacombank.com
-images.emldn.com
 indush.cfd
 inet-ebank.com
 info-ebank.com
@@ -2852,6 +2851,7 @@ ttmomo.win
 tuanbansub.ml
 tuanlevang.vn
 tuanlocvang123.com
+tuoitre24h.info
 tututiki.com
 tuvanruttien.com
 tuyendung-shopee.com
@@ -3630,7 +3630,6 @@ wmail-blog.xyz
 wmail-chat.xyz
 wooribank.info
 woorivn.online
-word.emldn.com
 wutienitme247.info
 wvOntgd.pqmg.bid
 wvietcombank.com
