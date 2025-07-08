@@ -29,7 +29,6 @@ premium-adserver.djaxadserver.com
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -72,6 +71,7 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -134,8 +134,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.seovietnam.pro
 ak9.6895588.com
@@ -390,7 +388,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
-elitetoplist.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
 encodehelped.com
@@ -822,6 +819,7 @@ ruwertur.com
 rvotdlvpwmynan.xyz
 sackbarngroups.com
 saigopooramee.net
+saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
