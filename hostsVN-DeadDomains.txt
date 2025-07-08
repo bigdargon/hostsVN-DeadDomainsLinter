@@ -24,9 +24,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -624,6 +621,7 @@ missitzantiot.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
