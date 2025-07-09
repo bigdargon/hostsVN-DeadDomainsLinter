@@ -195,7 +195,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
 ads.wedodemos.com
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -467,6 +466,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -644,7 +644,6 @@ mediamind.com
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 missitzantiot.com
