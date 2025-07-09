@@ -1,3 +1,5 @@
+ws.amazon-adsystems.com
+z-na.amazon-adsystems.com
 blueserving.com
 advertica.ae
 www.advertica.ae
@@ -49,6 +51,7 @@ cdn.appier.xyz
 c.netund.com
 netund.com
 pgmcdn.com
+www.mobisage.cn
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -66,6 +69,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+pmp.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -138,6 +142,7 @@ mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 log.baobackan.com.vn
+log.tapchimattran.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -173,7 +178,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.websiteservices.com
+ads.socialtheater.com
 ads.wedodemos.com
 adsclick.cc
 adserver1.mindshare.de
@@ -203,7 +208,6 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 alkalizemarineprude.com
 allodsubussu.com
-allstarmediagroup.com
 alwtupwwafu.com
 ambulanceappealingrut.com
 an.cliphub.net
@@ -245,6 +249,7 @@ bande2az.com
 banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
+banner.titan-dsl.de
 bannermarkt.nl
 bawdybeast.com
 baypops.com
@@ -292,6 +297,7 @@ cashewsforlife208.com
 casinopays.com
 caugrithoowhu.net
 cavbildi.com
+cestibegster.com
 chertouz.net
 chiamfxz.com
 chickensstation.com
@@ -312,6 +318,7 @@ clckysudks.com
 clicksmint.site
 clkofafcbk.com
 clonesmesopic.com
+clutchlilts.com
 coacoalaum.com
 coappreciate.com
 cobalten.com
@@ -417,6 +424,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+filgzukroj.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -429,6 +437,7 @@ foogeetoary.net
 fopteefteex.com
 forspearowor.com
 fpqwpqiyq.com
+fpyhuktuwatn.com
 frameworkdeserve.com
 frightenedpotato.com
 frllfmjaku.com
@@ -828,6 +837,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+seguingjungled.com
 serconmp.com
 setypckq.com
 shakytaste.com
@@ -904,6 +914,7 @@ tlkbfilacsw.com
 toathoule.com
 toeapesob.com
 tomorroweducated.com
+top123.ro
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
