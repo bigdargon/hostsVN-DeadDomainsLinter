@@ -553,6 +553,7 @@ facabook.id.vn
 facebook.c0m.ltd
 facebookk.life
 facebookvni.com
+faecbooks.com
 fairu-chat.xyz
 fairu-endpoint.xyz
 fajiafu30.com
@@ -1317,7 +1318,6 @@ mobaviet.shop
 mobile-ibankingshopee.vn
 mobilebanking-shopee.vn
 mobilebankingvn.com
-mobilegamerstats.com
 mohopnhanpham-garena.com
 momo.builders
 momo10s.com
@@ -2343,7 +2343,6 @@ smsccb.com
 smtbvn.com
 snapdeal26.com
 snapdeal33.com
-snoweeanalytics.com
 sodj88.com
 softwarefpt.com
 somnio-evolve.com
@@ -2748,7 +2747,6 @@ topmomo.win
 topmomo1.net
 topmomo3s.com
 topmomo88.me
-topographyupdates.com
 totycb.cyou
 tpb-vayuudai.com
 tpbank-com.com
@@ -2882,7 +2880,6 @@ upta16theu.cfd
 uptomscan.cfd
 us.unixpop.xyz
 uslimsofbr.cfd
-uudai-tructuyen-chamsockhachhang-the.com.vn
 uudaikhachhang-chamsocthetructuyen.com
 uudaikhachhang-chamsocthetructuyen.com.vn
 uudaikhachhang-tructuyen-the.com.vn
@@ -3039,6 +3036,7 @@ vaytintam24h.vn
 vaytoanquoc24h.com
 vaytotnhat.app
 vaytpbbank.com
+vaytucthi.com
 vayvietcombank.com.vn
 vayvn247.com
 vayvnq.com
