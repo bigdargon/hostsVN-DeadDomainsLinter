@@ -108,10 +108,6 @@ ads.livetv670.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv697.me
-ads.livetv701.me
-ads.livetv703.me
-ads.livetv705.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv788.me
@@ -376,6 +372,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+dimfarlow.com
 directleads.com
 directtrack.com
 dk4ywix.com
