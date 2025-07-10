@@ -141,11 +141,6 @@ wakeup.klick.vn
 wakeup247.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -389,7 +384,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-dimfarlow.com
 directleads.com
 directtrack.com
 dk4ywix.com
