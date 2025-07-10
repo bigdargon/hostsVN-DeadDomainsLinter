@@ -67,8 +67,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 pgmcdn.com
 bidadx.com
 anymad.com
@@ -380,7 +378,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-dimfarlow.com
 directleads.com
 directtrack.com
 dk4ywix.com
