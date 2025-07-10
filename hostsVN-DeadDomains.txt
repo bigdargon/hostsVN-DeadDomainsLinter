@@ -1,6 +1,19 @@
 blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 advertica.ae
 www.advertica.ae
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -20,6 +33,14 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
+admin.runative.com
+api.runative.com
+auth.runative.com
+pusher.staging.runative.com
+rotator.staging.runative.com
+single.runative.com
+staging.runative.com
+static.runative.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -48,6 +69,7 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
+www.mobile-10.com
 pgmcdn.com
 bidadx.com
 anymad.com
@@ -56,9 +78,15 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+stats.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asgdfasad.mm-cgnews.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -80,6 +108,8 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -116,6 +146,8 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 mautic.educe.vn
 customers.fptad.com
@@ -140,6 +172,7 @@ analytics.amedigital.vn
 log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
+vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 228tuchuang.com
@@ -169,15 +202,18 @@ adincube.com
 adkchtmtns.com
 admedia.network
 adplus.co.id
+adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
 ads.wedodemos.com
+adsage.cn
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adsmogo.org
 adspace.ro
 adsrveys.com
 adxpose.com
@@ -382,6 +418,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elitetoplist.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
 encodehelped.com
@@ -393,6 +430,7 @@ eqgmnmqlz.com
 eringosdye.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
@@ -492,6 +530,7 @@ heeceeceejo.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
+hilltopads.net
 hiqbejpsiyymatl.com
 hjbtunmh.com
 hoddlegamey.com
@@ -571,6 +610,7 @@ kiltcusks.shop
 kjqsnxibegvue.com
 klkchits.com
 klsdee.com
+klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -588,6 +628,7 @@ leetmenllew.com
 lessemujust.live
 libedgolart.com
 lidosquey.shop
+lifpv.com
 likedstring.com
 link4ads.com
 littlecdn.com
@@ -617,6 +658,7 @@ matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 meowpushnot.com
 metahv.xyz
@@ -635,6 +677,8 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 munchenviableski.com
+murozwuddtow.com
+myntelligence.com
 nagoverpayreimburse.com
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
@@ -656,6 +700,7 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -714,10 +759,12 @@ phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phocmogo.com
+phoompoukoaltin.net
 photographpan.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 podsklzegshmnd.com
@@ -826,8 +873,10 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 serconmp.com
 setypckq.com
+sf960.com
 shakytaste.com
 shareadspace.com
 sheesoah.net
@@ -856,6 +905,7 @@ snxewpxrhegslq.com
 soliads.net
 songbagoozes.com
 soodejeego.net
+spacash.com
 spanuletubings.com
 speakspurink.com
 ssqyuvavse.com
@@ -890,6 +940,7 @@ thedevband.com
 thhwzyuktk.com
 thinkappetitefeud.com
 thirstytwig.com
+thootipheguph.com
 thougnoangi.com
 thoungoofeed.net
 thounookra.com
@@ -911,6 +962,7 @@ traovrjwu.com
 trendcounter.com
 troubledcontradiction.com
 trustbummler.com
+tshfc.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -919,6 +971,7 @@ ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufiledsit.com
+ufoacmocmu.net
 uhealth.care
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
@@ -932,6 +985,7 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upr90.com
 upset-project.com
 urigagxnji.com
 uselnk.com
@@ -949,6 +1003,7 @@ vekseptaufin.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
+vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
@@ -1033,7 +1088,6 @@ analytics.hostyour.video
 burstly.com
 dolohen.com
 go.ad1data.com
-richmetrics.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
