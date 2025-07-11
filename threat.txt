@@ -1,4 +1,4 @@
-# Version: 2507101045
+# Version: 2507110936
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -4234,7 +4234,6 @@
 ||vinaconex.org^
 ||vincomonevip.net^
 ||vingroup.fit^
-||vingroup.shop^
 ||vingroupinvest.com^
 ||vingroupinvestment.com^
 ||vingroupventures.shop^
