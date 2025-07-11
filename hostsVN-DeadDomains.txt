@@ -18,7 +18,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -114,7 +113,6 @@ ads.livetv670.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv782.me
 ads.livetv788.me
 aj2566.bid
 aj2578.bid
@@ -194,7 +192,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
-adspace.ro
 adsrveys.com
 adxpose.com
 adyieldoptimizer.com
@@ -375,6 +372,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+dimfarlow.com
 directtrack.com
 dk4ywix.com
 dklvqrfgvwror.com
