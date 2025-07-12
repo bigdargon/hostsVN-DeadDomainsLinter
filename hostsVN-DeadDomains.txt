@@ -56,8 +56,6 @@ static.cdnativepush.com
 www.cdnativepush.com
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -82,7 +80,6 @@ ads.livetv670.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv788.me
 aj2566.bid
 aj2578.bid
 aj3007.bid
