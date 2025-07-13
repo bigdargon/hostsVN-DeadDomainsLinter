@@ -36,7 +36,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
