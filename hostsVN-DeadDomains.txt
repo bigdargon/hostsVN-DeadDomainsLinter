@@ -31,10 +31,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -71,7 +67,6 @@ aj2578.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-mautic.educe.vn
 mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
