@@ -148,7 +148,6 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -334,7 +333,6 @@ congtacvienonline.vn
 congthongtinvidientu.com
 congtykiman.org
 congtytaichinhlotte.com
-continue.dasboard184-account.com
 continue.dasboard914-account.com
 continue.dasboard934-account.com
 continue.dasboard945-account.com
@@ -529,7 +527,6 @@ egt091102205euc.click
 egt091102207euc.click
 email-apple.support
 emodernst.cfd
-employee.mywire.org
 entbymo.cfd
 eqav33.com
 eqav77.com
@@ -559,7 +556,6 @@ facabook.id.vn
 facebook.c0m.ltd
 facebookk.life
 facebookvni.com
-faecbooks.com
 fairu-chat.xyz
 fairu-endpoint.xyz
 fajiafu30.com
@@ -821,7 +817,6 @@ hethongbhx.com
 hethongdonhang.com
 hethonggiaodichvidientu247.com
 hethongquatang.vn
-hethongtikicareers24.com
 hethongtikicareers24h.com
 hethongviet99.com
 hgff11.com
@@ -1429,9 +1424,11 @@ muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
 mualienquan.org
+muanickgiare.com
 muanicklq.com
 muasamtiki24h.com
 muaso24h.store
+muasub.com
 muathietke.com
 muatiengia.club
 muatiennhanh.com
@@ -1536,7 +1533,6 @@ nappubg.net
 nappubg.vn
 napquanhuy.cf
 napquare.com
-napquatet.com
 napsieure.store
 napsukien.vn
 naptcvng.com
@@ -1551,10 +1547,12 @@ napthecaox10.com
 napthechinhthuc.com
 naptheff.net
 naptheff.org
+naptheff.vn
 napthefffreefire.com
 naptheffx2.com
 napthefreefire.com.vn
 napthefreefire.info
+napthefreefire.mobi
 napthefreefire.vn
 napthegarena.vn
 napthehangrong.com
@@ -2190,12 +2188,10 @@ shopjindz.com
 shopjinff.tk
 shopkc247.com
 shopkcffx5.com
-shopkellygaming.net
 shopkellygaming.vn
 shoplazada.net
 shoplazada19.com
 shoplienquan.click
-shoplienquan.vn
 shoplongsegay.com
 shopmailco24h.site
 shopmall3.com
@@ -2944,7 +2940,6 @@ vaynganhang-techcombank.xyz
 vaynganhang.pro
 vaynganhang.world
 vaynganhangagribank.xyz
-vaynganhanglaisuatthap.com
 vaynganhangshinhan.com
 vaynganhangshinhan.online
 vaynganhangvcb.online
@@ -3036,7 +3031,6 @@ vaytindung-techcombank.online
 vaytindungnhanh.online
 vaytindungshinhan.net
 vaytintam24h.vn
-vaytinviet.vercel.app
 vaytoanquoc24h.com
 vaytotnhat.app
 vaytpbbank.com
@@ -3599,6 +3593,7 @@ vtvay.com
 vuabem.com
 vuacltxmomo.net
 vuamomo.com
+vui-vay.com
 vuimomo.club
 vuimomo.fun
 vuimomo.vin
@@ -3751,7 +3746,6 @@ zkika.okyla.de
 zla653.top
 zmomo.cc
 znavidsde.cfd
-zoneshewa.net
 zutube.pro
 zvay.online
 zvietcombank.com
