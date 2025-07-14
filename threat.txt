@@ -1,4 +1,4 @@
-# Version: 2507110936
+# Version: 2507141426
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -1077,6 +1077,7 @@
 ||gpay-mpos-ruttientindung.com^
 ||gpay247-mp0s-quetthetindung.com^
 ||gplxgovn.vn^
+||gqcqbpl.vneuw.online^
 ||greatvay.xyz^
 ||greenvay8.com^
 ||griefcube.cc^
