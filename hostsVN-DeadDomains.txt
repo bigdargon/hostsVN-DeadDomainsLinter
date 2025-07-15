@@ -32,7 +32,6 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -112,7 +111,6 @@ adincube.com
 adkchtmtns.com
 adlite.net
 admedia.network
-ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
@@ -122,6 +120,7 @@ ads.wedodemos.com
 adsclick.cc
 adserver.quizdingo.com
 adsmogo.org
+adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -257,7 +256,6 @@ clicksmint.site
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
-coappreciate.com
 coawujobups.com
 cobalten.com
 commodityshortlysurviving.com
