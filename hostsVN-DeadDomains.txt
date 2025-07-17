@@ -80,8 +80,6 @@ aj2578.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -105,7 +103,6 @@ ak9.6895588.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
 log.bizlive.vn
@@ -534,6 +531,7 @@ jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -553,6 +551,7 @@ kiltcusks.shop
 kjqsnxibegvue.com
 klkchits.com
 klsdee.com
+klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -781,7 +780,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
-rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -853,7 +851,6 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 static-ads.akamaized.net
-steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -861,6 +858,7 @@ stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
+stunninglover.com
 subheroalgores.com
 sunnycategoryopening.com
 surfmusik-adserver.de
@@ -1037,6 +1035,5 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-showbiz.owndata.network
 worldgravity.com
 yoursitestatstube.ru
