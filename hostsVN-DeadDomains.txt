@@ -35,9 +35,17 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+stats.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+network.adclickmedia.com
+tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -72,8 +80,21 @@ aj2578.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+cdn.hbplatform.com
+hbplatform.com
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
+mautic.serverhub.vn
+mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
+ff.imacdn.com
+sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -87,6 +108,7 @@ imgcdnbet.com
 mobileads.dieuviet.com
 upfile16.mediaphim.com
 analytics.amedigital.vn
+log.bizlive.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -118,6 +140,7 @@ adincube.com
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
@@ -192,6 +215,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bande2az.com
 bannermarkt.nl
+basebanner.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
@@ -208,6 +232,7 @@ bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
+bikrurda.net
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -229,7 +254,6 @@ burkhahemoid.com
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
-caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -361,6 +385,7 @@ farcivinage.shop
 faronqdkimah.com
 faukeeshie.com
 fauphauvuzeey.net
+fdqrfiwkaeds.com
 febadu.com
 feenyrpxyps.com
 feevefouhe.net
@@ -410,7 +435,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 gogglemessenger.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -432,6 +456,7 @@ guhomnfuzq.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gyfumobo.com
 gzefitkcep.com
 h78xb.pw
 hacspynha.com
@@ -502,13 +527,13 @@ jncdvibhdaddmu.com
 jollytestpartying.com
 jomtingi.net
 joopaish.com
+joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
-jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -528,7 +553,6 @@ kiltcusks.shop
 kjqsnxibegvue.com
 klkchits.com
 klsdee.com
-klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -672,7 +696,6 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
@@ -758,10 +781,12 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
+rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
+riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkvldurquedh.com
@@ -836,7 +861,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
-stunninglover.com
 subheroalgores.com
 sunnycategoryopening.com
 surfmusik-adserver.de
@@ -931,6 +955,7 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vstvstsa.com
 vudachisouxouk.net
+wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wapjwujfipuz.com
@@ -978,8 +1003,10 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xumamropnox.com
+xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
+yatkaddvhk.com
 yawnspuker.com
 ycxajdcpesguqh.com
 yeljusxttq.com
@@ -1005,9 +1032,11 @@ zkyqafavdg.com
 zmedia.com
 zuqalzajno.com
 analytics.hostyour.video
+burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
+showbiz.owndata.network
 worldgravity.com
 yoursitestatstube.ru
