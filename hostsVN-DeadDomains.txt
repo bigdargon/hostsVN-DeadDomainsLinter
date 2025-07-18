@@ -79,6 +79,7 @@ t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -102,7 +103,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 kabbmedia.com
-k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
@@ -171,7 +171,6 @@ adsrv.wtf
 adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -416,6 +415,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -626,6 +626,7 @@ malhfiacgx.com
 mamsauphoachoap.net
 manpowerspiritualunrented.com
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -927,7 +928,6 @@ tomorroweducated.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
-trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
