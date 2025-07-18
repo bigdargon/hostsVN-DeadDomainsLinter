@@ -1,4 +1,4 @@
-# Version: 2507150937
+# Version: 2507182303
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14414,6 +14414,7 @@
 ||eqads.com^
 ||eqgmnmqlz.com^
 ||eqworks.com^
+||eqwzfnbjbkz.com^
 ||erdreamsofcryin.info^
 ||ergadx.com^
 ||eringosdye.com^
@@ -15855,12 +15856,14 @@
 ||ntvpinp.com^
 ||ntvpwpush.com^
 ||ntvsw.com^
+||nuckinxuco.com^
 ||nuclearads.com^
 ||nudgehydrogen.com^
 ||nuffnang.com.my^
 ||nuggad.net^
 ||nui.media^
 ||numerosuffice.shop^
+||nuryotzgl.com^
 ||nuseek.com^
 ||nuzatbdmy.com^
 ||nv3tosjqd.com^
@@ -16277,6 +16280,7 @@
 ||pompadawe.com^
 ||pontiflex.com^
 ||ponysomebodymartyr.com^
+||poopelouque.com^
 ||poowucatuz.net^
 ||pop-under.ru^
 ||pop.bid^
@@ -16382,6 +16386,7 @@
 ||proximic.com^
 ||psaltauw.net^
 ||psausuck.net^
+||psipausaix.net^
 ||psootchu.net^
 ||psoroumukr.com^
 ||psstt.com^
@@ -16454,6 +16459,7 @@
 ||pusishegre.com^
 ||puwpush.com^
 ||pvclouds.com^
+||pvnocbyq.com^
 ||pwieu.com^
 ||pwmctl.com^
 ||pwysruffoza.com^
@@ -17936,6 +17942,7 @@
 ||xplosion.de^
 ||xponsor.com^
 ||xq1.net^
+||xr.staxisclivias.com^
 ||xrea.com^
 ||xruamzpanbca.com^
 ||xsaeafkfilbcur.com^
