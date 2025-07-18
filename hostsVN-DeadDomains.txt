@@ -79,7 +79,6 @@ t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -107,7 +106,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -250,6 +248,7 @@ bemalkrmc.com
 benevolencepair.com
 beshucklean.com
 bestadbid.com
+betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
