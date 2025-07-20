@@ -2,13 +2,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 native.propellerclick.com
 static.cbsileads.com
 aj1549.online
@@ -114,7 +107,6 @@ sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ad.chieuhoa.com
@@ -982,7 +974,6 @@ velsirtohoosh.net
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
-vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
