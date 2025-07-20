@@ -1,7 +1,6 @@
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
-cfa.2mdnsys.com
 native.propellerclick.com
 static.cbsileads.com
 aj1549.online
@@ -33,11 +32,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -51,8 +45,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -61,6 +53,7 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -318,7 +311,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -351,6 +343,7 @@ digyniahuffle.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
+dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
@@ -364,7 +357,6 @@ e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
 eemsouftas.com
-efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -548,6 +540,7 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
+js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
@@ -732,7 +725,6 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
-pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -766,7 +758,6 @@ pumywyczbks.com
 purgavax.com
 pushazer.com
 pushmeup.art
-pushup.wtf
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
@@ -877,7 +868,6 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -953,7 +943,6 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
-upspinarakor.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -1063,5 +1052,4 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-showbiz.owndata.network
 yoursitestatstube.ru
