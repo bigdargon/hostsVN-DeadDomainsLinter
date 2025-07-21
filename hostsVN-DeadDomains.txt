@@ -34,11 +34,7 @@ www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
 secure.ironbeast.io
-supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -100,7 +96,6 @@ bidgear-syndication.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 alexajstrack.com
@@ -225,6 +220,7 @@ beefoaloode.net
 bemalkrmc.com
 benevolencepair.com
 beshucklean.com
+bestadbid.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
@@ -664,7 +660,6 @@ ocixbjnnmabufn.com
 octteqlxtjagek.com
 odfohvwi.com
 oewabox.at
-offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ojgzyztrmr.com
