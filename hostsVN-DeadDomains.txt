@@ -1,7 +1,3 @@
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 native.propellerclick.com
 aj1549.online
 aj1754.online
@@ -320,7 +316,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 dependpinch.com
-despicablereporthusband.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diedstubbornforge.com
