@@ -51,6 +51,8 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -83,7 +85,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -113,6 +114,7 @@ motphimqq.pro
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
+log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -139,6 +141,7 @@ abkoxlikbzs.com
 abpvhymadq.com
 abyocawlfe.com
 achieverknee.com
+ad.foxnetworks.com
 adaftegloomto.com
 adincube.com
 adkchtmtns.com
@@ -147,9 +150,9 @@ admedia.network
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads.wedodemos.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -157,6 +160,7 @@ adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
+affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -178,10 +182,12 @@ ak.unblitzlean.com
 alkalizemarineprude.com
 allodsubussu.com
 alwtupwwafu.com
+ambulanceappealingrut.com
 annxwustakf.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+api.ampiri.com
 aqncinxrexa.com
 armfullitigateslate.com
 armoursviolino.com
@@ -257,6 +263,7 @@ burkhahemoid.com
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
+c.cdn-server.top
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -267,6 +274,8 @@ carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
+cdn-server.top
+ceegrevoaphail.com
 celoortdwt.com
 chertouz.net
 chiamfxz.com
@@ -390,8 +399,10 @@ farcivinage.shop
 faronqdkimah.com
 faukeeshie.com
 fauphauvuzeey.net
+fcqqbrfucuf.com
 fdqrfiwkaeds.com
 febadu.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 fhkfdgwtzueans.com
@@ -484,7 +495,6 @@ hpdvgejc.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hubarejnbsobic.com
 huppontic.com
 hvxnlmjx.com
 hxpohplms.com
@@ -506,7 +516,6 @@ impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
 instrumentsponge.com
-intnotif.club
 inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
@@ -718,6 +727,7 @@ photographpan.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 podsklzegshmnd.com
@@ -745,7 +755,6 @@ ptoahaistais.com
 ptoushoa.com
 ptukasti.com
 ptumsess.com
-public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -772,7 +781,6 @@ qvzpofgmlwlnrt.com
 qwerfdx.com
 qwykgrylxyl.com
 qxadsk.com
-ranking-links.de
 ranking-liste.de
 raphanysteers.com
 rbkhpjfwtmirk.com
@@ -855,7 +863,6 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
-smstcksjn.com
 snxewpxrhegslq.com
 soliads.net
 songbagoozes.com
@@ -876,6 +883,7 @@ subheroalgores.com
 sunnycategoryopening.com
 supapush.net
 surfmusik-adserver.de
+surtaultathoado.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -924,6 +932,7 @@ ufabsoonsijeerg.net
 ufiledsit.com
 ufoacmocmu.net
 ujqwhqjckhscl.com
+uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unknowntray.com
 unphionetor.com
@@ -980,6 +989,7 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
+widespace.com
 wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
