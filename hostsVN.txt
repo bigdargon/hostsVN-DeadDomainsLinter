@@ -1,4 +1,4 @@
-# Version: 2507220945
+# Version: 2507231037
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -8294,6 +8294,7 @@
 ||ad-maven.xml.ak-is2.net^
 ||ad-maven.xs.ak-is2.net^
 ||adfclick1.xs.ak-is2.net^
+||adflyer.xml.ak-is2.net^
 ||adop.xml-eu.ak-is2.net^
 ||adop.xs.ak-is2.net^
 ||adoptim.fs.ak-is2.net^
@@ -8341,6 +8342,7 @@
 ||pushub.xs.ak-is2.net^
 ||reacheffect.xml-eu.ak-is2.net^
 ||rtbnext.fs.ak-is2.net^
+||rtxfeed.xml.ak-is2.net^
 ||sedodna.fs.ak-is2.net^
 ||sedodna.xml.ak-is2.net^
 ||skinkexchange.fs.ak-is2.net^
@@ -10338,6 +10340,14 @@
 ||xml.popviking.com^
 ||adxnexus.com^
 ||xml.adxnexus.com^
+||rtxfeed.com^
+||filter.rtxfeed.com^
+||xml.rtxfeed.com^
+||adflyer.media^
+||xml.adflyer.media^
+||acertb.com^
+||filter.acertb.com^
+||xml.acertb.com^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
@@ -12241,7 +12251,6 @@
 ||acdcdn.com^
 ||acento.com^
 ||acerolawaists.com^
-||acertb.com^
 ||achcdn.com^
 ||achieverknee.com^
 ||acidpigs.com^
@@ -12293,6 +12302,7 @@
 ||ad.centrum.cz^
 ||ad.cgi.cz^
 ||ad.cooks.com^
+||ad.cpcstar.com^
 ||ad.digitallook.com^
 ||ad.domainfactory.de^
 ||ad.foxitsoftware.com^
@@ -14280,6 +14290,7 @@
 ||dowerlesssightseehow.com^
 ||downstairsnegotiatebarren.com^
 ||dozubatan.com^
+||dpuplet.net^
 ||dpyabvkadg.com^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
@@ -15125,6 +15136,7 @@
 ||isobeldrug.com^
 ||isolatedovercomepasted.com^
 ||istipaumophy.com^
+||iswashiscourtsh.com^
 ||itfarm.com^
 ||itgiblean.com^
 ||itheatmoran.com^
@@ -15442,6 +15454,7 @@
 ||lucidlykidney.com^
 ||lucidmedia.com^
 ||lucrinearraign.com^
+||lufdzaqcoadm.com^
 ||lugtzejkowhi.com^
 ||luloffer.com^
 ||lumpbackstage.com^
@@ -15533,6 +15546,7 @@
 ||maximumcash.com^
 ||maxonclick.com^
 ||mazbfiladr.com^
+||mbddip.com^
 ||mbid.marfeelrev.com^
 ||mbs.megaroticlive.com^
 ||mc7clurd09pla4nrtat7ion.com^
@@ -16206,6 +16220,7 @@
 ||petasusawber.com^
 ||petchesa.net^
 ||petiteumbrella.com^
+||peuru.com^
 ||pfewuzbtkr.com^
 ||pgjt26tsm.com^
 ||pgmediaserve.com^
@@ -16509,6 +16524,7 @@
 ||qquhzi4f3.com^
 ||qrodufobzbav.com^
 ||qruqon.com^
+||qs251.com^
 ||qtoeofqazggu.com^
 ||qtpwgglrohgp.com^
 ||qtspkqzn.com^
@@ -16659,6 +16675,7 @@
 ||revmob.com^
 ||revoketypes.com^
 ||revstats.com^
+||reyeshehadtwobri.com^
 ||rhiowzaht.com^
 ||rhkyufodw8ochdr3ogsite.com^
 ||rhymezebra.com^
@@ -17678,6 +17695,7 @@
 ||vtacibqzopiw.com^
 ||vteskyombq.com^
 ||vtracy.de^
+||vtvldhbbdilepes.com^
 ||vudachisouxouk.net^
 ||vugnubier.com^
 ||vugpakba.com^
@@ -17709,6 +17727,7 @@
 ||waufooke.com^
 ||waust.at^
 ||wauthaik.net^
+||wawhoufteedaksu.com^
 ||waxa-direct.info^
 ||waymarkgentiin.com^
 ||wbilvnmool.com^
@@ -18254,6 +18273,7 @@
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
 ||collector.sphgfgx.com^
+||collector.superwall.me^
 ||collector.unsplash.com^
 ||collector.xhamster.com^
 ||comscoreresearch.com^
