@@ -1,3 +1,10 @@
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -12,6 +19,17 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -38,6 +56,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -81,6 +100,7 @@ aj3017.bid
 aj101.xyz
 aff-track.net
 mautic.educe.vn
+mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -89,8 +109,11 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.seovietnam.pro
+ads.xemphimso.com
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -102,6 +125,7 @@ track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
+1frozenthrone1.com
 1slms.com
 228tuchuang.com
 2433march2024.com
@@ -116,6 +140,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2512june2024.com
 2522june2024.com
 2524june2024.com
+4d5.net
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -125,18 +150,25 @@ abpvhymadq.com
 abyocawlfe.com
 achieverknee.com
 adaftegloomto.com
+adcloud.net
 adincube.com
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads.wedodemos.com
+ads2.net-communities.co.uk
 adsclick.cc
+adserver.quizdingo.com
 adsmogo.org
+adsrv.wtf
 adsrveys.com
+adtoma.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -224,6 +256,7 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
+boom.ro
 boozoomamesha.net
 bouncecardiganculture.com
 boyaidare.club
@@ -268,8 +301,11 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
+claria.com
 claroadsclick.com
 clckysudks.com
+clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
@@ -304,6 +340,7 @@ daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
+dedicatedmedia.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
@@ -357,16 +394,19 @@ entertainingeyes.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
+expressgutterlevers.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagywalu.pro
@@ -384,6 +424,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -446,12 +487,12 @@ guhomnfuzq.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gyfumobo.com
 gzefitkcep.com
 h78xb.pw
 hacspynha.com
 hamulustueiron.com
 handkerchiefpersonnel.com
-hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
@@ -483,6 +524,7 @@ idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -557,6 +599,7 @@ lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
+leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lessemujust.live
@@ -592,6 +635,7 @@ makqfcvs.com
 malhfiacgx.com
 mamsauphoachoap.net
 matecatenae.com
+maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
@@ -604,6 +648,7 @@ missitzantiot.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -635,6 +680,7 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
+nuryotzgl.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
@@ -663,6 +709,7 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 oqdtuqat.com
 orbsclawand.com
 orfabfbu.com
@@ -703,6 +750,7 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
+pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -710,6 +758,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 popupmoney.com
 potencyissuedflashlight.com
@@ -722,6 +771,7 @@ proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
+psipausaix.net
 psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -730,6 +780,7 @@ ptoushoa.com
 ptukasti.com
 ptumsess.com
 pu4.biz
+public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -737,6 +788,7 @@ pumywyczbks.com
 purgavax.com
 pushazer.com
 pushmeup.art
+pushup.wtf
 pvnocbyq.com
 pzshzhja.com
 qainfcnvfensl.site
@@ -747,9 +799,11 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
+qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -844,6 +898,8 @@ songbagoozes.com
 soodejeego.net
 spanuletubings.com
 speakspurink.com
+spywarelabs.com
+ssqyuvavse.com
 static-ads.akamaized.net
 static.scptpx.com
 steinfqwe6782beck.com
@@ -895,6 +951,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -924,6 +981,7 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
+upspinarakor.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -942,6 +1000,7 @@ vekseptaufin.com
 velsirtohoosh.net
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -1003,8 +1062,8 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xumamropnox.com
+xxxmyself.com
 xydbpbnmo.com
-yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 ycxajdcpesguqh.com
@@ -1029,6 +1088,7 @@ zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkyqafavdg.com
+zmedia.com
 zuqalzajno.com
 analytics.hostyour.video
 burstly.com
@@ -1036,5 +1096,6 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
+showbiz.owndata.network
 usergrid.com
 yoursitestatstube.ru
