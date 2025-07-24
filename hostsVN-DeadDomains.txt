@@ -5,15 +5,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -81,7 +72,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -162,7 +152,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
-adsclick.cc
 adserver.quizdingo.com
 adsmogo.org
 adsrv.wtf
@@ -368,7 +357,6 @@ downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
 dulrihaungy.com
-dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
