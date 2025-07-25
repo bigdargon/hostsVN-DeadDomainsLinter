@@ -61,19 +61,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -349,6 +336,7 @@ claria.com
 claroadsclick.com
 clckysudks.com
 clickadin.com
+clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
 coappreciate.com
@@ -403,7 +391,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-dimfarlow.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -442,6 +429,7 @@ eringosdye.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
+exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
 exxohwvxupjv.com
@@ -656,7 +644,6 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loopassume.com
@@ -680,6 +667,7 @@ makqfcvs.com
 malhfiacgx.com
 mamsauphoachoap.net
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1143,4 +1131,5 @@ go.ad1data.com
 k6r.net
 q2melbourne.com
 richmetrics.com
+usergrid.com
 yoursitestatstube.ru
