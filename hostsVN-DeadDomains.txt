@@ -65,11 +65,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-stats.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -87,8 +82,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -135,8 +128,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 ads.seovietnam.pro
 ads.xemphimso.com
@@ -201,6 +192,7 @@ afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
+agapios-gla.com
 agghriwaz.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -263,12 +255,12 @@ backspacecomprisedgoliath.com
 bande2az.com
 banner.coza.com
 banner.mindshare.de
-bannerconnect.net
 bannermarkt.nl
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 beabsolom.com
 becketsbesogne.top
@@ -369,7 +361,6 @@ daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
-dedicatedmedia.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
@@ -385,12 +376,10 @@ dependpinch.com
 despicablereporthusband.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
-diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-dimfarlow.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -957,7 +946,6 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdpjzjpfuiis.com
-tetrylscullion.com
 that-muscle.com
 thedevband.com
 theekedgleamed.com
