@@ -1,7 +1,6 @@
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -28,7 +27,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -570,7 +568,6 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jiwire.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -612,6 +609,7 @@ knurleddeblock.guru
 kogutcho.net
 kqalbhgnd.com
 ktaehxdlf.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 labapwlkyov.com
 lambingsyddir.com
@@ -639,7 +637,6 @@ lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lryofjrfogp.com
-lstalwryflhourf.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -819,7 +816,6 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
-quarterserver.de
 quenchskirmishcohere.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
