@@ -1,6 +1,7 @@
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -111,9 +112,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
@@ -541,7 +539,6 @@ idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
-ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -637,6 +634,7 @@ lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lryofjrfogp.com
+lstalwryflhourf.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -778,7 +776,6 @@ popupmoney.com
 potencyissuedflashlight.com
 pramviable.com
 pranavafolksey.com
-presidestatelycondition.com
 proetusbramble.com
 profitableheavilylord.com
 proposedpartly.com
