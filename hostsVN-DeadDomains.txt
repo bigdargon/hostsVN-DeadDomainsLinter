@@ -5,15 +5,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -94,6 +85,7 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -183,11 +175,9 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
-adsrv.wtf
 adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -351,7 +341,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-cutepopcorn.com
 cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
@@ -622,6 +611,7 @@ knurleddeblock.guru
 kogutcho.net
 kqalbhgnd.com
 ktaehxdlf.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 labapwlkyov.com
 lambingsyddir.com
@@ -640,7 +630,6 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loopassume.com
 lootoshevub.net
@@ -712,6 +701,7 @@ nuryotzgl.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
@@ -756,7 +746,6 @@ ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 pajnutas.com
-pallet.fm
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1019,7 +1008,6 @@ valuedalludejoy.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
-vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vipicmou.net
