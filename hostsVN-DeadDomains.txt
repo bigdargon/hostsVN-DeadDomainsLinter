@@ -7,6 +7,7 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
+serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
@@ -272,7 +273,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 beabsolom.com
 becketsbesogne.top
@@ -394,6 +394,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+dimfarlow.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -913,7 +914,6 @@ shestour.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
-shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 simpliftsbefore.info
