@@ -47,7 +47,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -60,7 +59,6 @@ www.cdnativepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -70,8 +68,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -177,6 +173,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -371,7 +368,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-dimfarlow.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -478,7 +474,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 gogglemessenger.com
 goodnotification.net
 gouthoat.com
@@ -501,7 +496,6 @@ guhomnfuzq.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gyfumobo.com
 gzefitkcep.com
 h78xb.pw
 hacspynha.com
@@ -652,6 +646,7 @@ makqfcvs.com
 malhfiacgx.com
 mamsauphoachoap.net
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -933,6 +928,7 @@ swarthymacula.com
 swrggntsvmsgv.com
 tacticmarshannouncing.com
 tagular.com
+targetingnow.com
 tarsiusbaconic.com
 tarybabottega.com
 tautauphaur.net
@@ -1046,6 +1042,7 @@ wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
+woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
@@ -1111,6 +1108,5 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-showbiz.owndata.network
 usergrid.com
 yoursitestatstube.ru
