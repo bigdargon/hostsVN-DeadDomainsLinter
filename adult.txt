@@ -1,4 +1,4 @@
-# Version: 2507251504
+# Version: 2507280957
 ||0-bbs.com^
 ||0.xxx-cdn.com^
 ||0000114.com^
@@ -4046,6 +4046,7 @@
 ||adfzw.com^
 ||adictasalcibersexo.com^
 ||adrani.icu^
+||ads.nangcuc.link^
 ||adsunad.com^
 ||adukat.net^
 ||adult-boston.com^
@@ -4545,6 +4546,7 @@
 ||apap49.com^
 ||apetube.stream^
 ||aphongtai.com^
+||api-play-181024.playheovl.xyz^
 ||api-rd.playxyz.net^
 ||api.sexapi.net^
 ||api.sexapi.xyz^
@@ -11241,11 +11243,13 @@
 ||heotv.net^
 ||heoviet.com^
 ||heovl.blog^
+||heovl.bot^
 ||heovl.cc^
 ||heovl.com^
 ||heovl.fun^
 ||heovl.live^
 ||heovl.me^
+||heovl.moe^
 ||heovl.net^
 ||heovl.tube^
 ||heovl.tv^
@@ -12114,6 +12118,7 @@
 ||ihentai.li^
 ||ihentai.to^
 ||ihentai.uk^
+||ihentai.ws^
 ||ihmrirbbffss.xyz^
 ||ihottestporn.com^
 ||ihuatang.com^
@@ -12155,6 +12160,9 @@
 ||img.indexxx.com^
 ||img.javsubz.net^
 ||img.lytuchuang.com^
+||img.nangcuc.link^
+||img.nangcuc.live^
+||img.nangcucz.link^
 ||img.pornfhd.com^
 ||img.pornrangers.com^
 ||img.vl69.pro^
@@ -14046,6 +14054,7 @@
 ||lenkino.video^
 ||lenkino.xxx^
 ||lenkinom.com^
+||lenlut.blog^
 ||lenlut.info^
 ||lenlut.net^
 ||lenlut.tv^
@@ -14138,6 +14147,7 @@
 ||lgxsc.com^
 ||lh-dental.com^
 ||lh-mould.com^
+||lh1.strheovl25.cfd^
 ||lhcxw.cn^
 ||lhjzcl.com^
 ||lhmlyyeewert.xyz^
@@ -14595,6 +14605,7 @@
 ||m.vlxxvietsub.net^
 ||m.xvietsub.tv^
 ||m1.mtrafficgeo.com^
+||m3u8-play-181024.playheovl.xyz^
 ||m3u8-rd-v2.playhn.xyz^
 ||m3u8-rd.playxyz.net^
 ||m4488m.com^
@@ -16041,6 +16052,7 @@
 ||nalgonas.top^
 ||namethatporno.com^
 ||nanfeng-laser.com^
+||nangcuc.link^
 ||nangcuc.live^
 ||nangcuc.org^
 ||nanggen.com^
@@ -24726,6 +24738,7 @@
 ||vlxx.bio^
 ||vlxx.blue^
 ||vlxx.buzz^
+||vlxx.bz^
 ||vlxx.cc^
 ||vlxx.cfd^
 ||vlxx.chat^
