@@ -1,10 +1,3 @@
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -48,6 +41,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 b91vip.com
 image.b91vip.com
+www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -80,6 +74,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -157,8 +152,6 @@ ads.wedodemos.com
 ads2.net-communities.co.uk
 adsmogo.org
 adsrveys.com
-adtoma.com
-advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -761,7 +754,6 @@ poopelouque.com
 poowucatuz.net
 popupmoney.com
 potencyissuedflashlight.com
-pramviable.com
 pranavafolksey.com
 presidestatelycondition.com
 proetusbramble.com
@@ -901,7 +893,6 @@ static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
-stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
