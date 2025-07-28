@@ -11,16 +11,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -28,7 +18,6 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -89,6 +78,10 @@ ads.livetv673.me
 ads.livetv676.me
 aj2566.bid
 aj2578.bid
+aj2581.bid
+aj2582.bid
+aj2584.bid
+aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
@@ -104,11 +97,10 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-app2.jeoway.net
-jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
@@ -118,6 +110,7 @@ wataads.com
 ad.chieuhoa.com
 ads.seovietnam.pro
 ads.xemphimso.com
+ak9.6895588.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -170,6 +163,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+adtoma.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -291,6 +285,7 @@ cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
+chaikempakr.com
 chertouz.net
 chiamfxz.com
 chickensstation.com
@@ -305,6 +300,7 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clckysudks.com
 clkofafcbk.com
@@ -378,6 +374,7 @@ dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
+ebuzzing.com
 ebvvvnjesjgx.com
 eemsouftas.com
 efyglwbapki.com
@@ -449,6 +446,7 @@ fudukrujoa.com
 futuristicfairies.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fxclix.com
 fyljifajkqe.com
 ga-ads.com
 gaijiglo.net
@@ -480,6 +478,7 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
+grishoussaiz.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -545,6 +544,7 @@ inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
 itriyokj.com
+ivdjs.com
 ivhwlnlcgi.com
 ixyyijop.com
 iytsnelqs.com
@@ -674,6 +674,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -754,6 +755,7 @@ pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 podsklzegshmnd.com
@@ -856,9 +858,11 @@ rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 sackbarngroups.com
+sacmeetekremsog.com
 saigopooramee.net
 salivanmobster.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scenescrockery.com
 schoonnonform.com
@@ -952,6 +956,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -971,6 +976,7 @@ uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
+undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unstoutgolfs.com
@@ -978,14 +984,12 @@ untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
-upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
 urigagxnji.com
 uselnk.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -1002,6 +1006,7 @@ velsirtohoosh.net
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
+vmweb.net
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -1009,6 +1014,7 @@ voopsookie.net
 voosaivege.com
 vpldfujttsdfj.com
 vstvstsa.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vupurdeeks.net
 wagenerfevers.com
