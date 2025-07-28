@@ -48,8 +48,8 @@ static.cdnativepush.com
 www.cdnativepush.com
 b91vip.com
 image.b91vip.com
-www.b91vip.com
 ad-track.adiiix.com
+ads.adiiix.com
 beta.tapdb.com
 sense.tapdb.com
 ad.samsungadhub.com
@@ -80,7 +80,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aj101.xyz
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -159,6 +158,7 @@ ads2.net-communities.co.uk
 adsmogo.org
 adsrveys.com
 adtoma.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -608,6 +608,7 @@ likedstring.com
 link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
+llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -798,6 +799,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
+qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
 quzwteqzaabm.com
