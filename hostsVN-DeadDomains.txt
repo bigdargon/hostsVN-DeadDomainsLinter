@@ -18,6 +18,7 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
+brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -60,10 +61,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -101,7 +98,8 @@ mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ff.imacdn.com
+app2.jeoway.net
+jana1.jeoway.net
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
@@ -159,8 +157,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
-adserver1.mindshare.de
-adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
 adtoma.com
@@ -229,7 +225,6 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 bande2az.com
 banner.coza.com
-banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -435,7 +430,6 @@ foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 forspearowor.com
-fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -446,7 +440,6 @@ fudukrujoa.com
 futuristicfairies.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
-fxclix.com
 fyljifajkqe.com
 ga-ads.com
 gaijiglo.net
@@ -959,7 +952,6 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
-troubledcontradiction.com
 trustbummler.com
 tshfc.com
 twazzyoidwlfe.com
@@ -990,6 +982,7 @@ upset-project.com
 urigagxnji.com
 uselnk.com
 usounoul.com
+uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -1003,6 +996,7 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
+viiadr.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
