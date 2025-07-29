@@ -4,6 +4,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -35,7 +36,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 anymad.com
-cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -44,6 +44,7 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
@@ -252,6 +253,7 @@ burkhahemoid.com
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
+c.cdn-server.top
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -351,8 +353,6 @@ drubbersestia.com
 drydrum.com
 dulrihaungy.com
 dv.pictunoctette.com
-dzienkudrow.com
-dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -736,8 +736,6 @@ pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
-phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
@@ -792,7 +790,6 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qiptamcupl.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qtoeofqazggu.com
@@ -1053,7 +1050,6 @@ www.xumamropnox.com
 wywtpkeai.com
 xebadu.com
 xeiidlkuxsos.com
-xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xkesalwueyz.com
