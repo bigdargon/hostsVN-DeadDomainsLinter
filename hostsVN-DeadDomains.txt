@@ -83,6 +83,7 @@ aj101.xyz
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
+static01.atdnetwork.com
 track.atdnetwork.com
 mautic.educe.vn
 mautic.serverhub.vn
@@ -98,7 +99,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ads.seovietnam.pro
-ads.xemphimso.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -137,6 +137,7 @@ achieverknee.com
 ad.foxnetworks.com
 adaftegloomto.com
 adincube.com
+adkchtmtns.com
 adlite.net
 admedia.network
 ads.cdn2-img.net
@@ -266,7 +267,6 @@ cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
 cdn-server.top
-ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 chertouz.net
@@ -540,6 +540,7 @@ jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
+jiordgxkpglzm.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -628,6 +629,7 @@ matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
+mediamind.com
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
@@ -741,7 +743,6 @@ phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
-pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
@@ -839,7 +840,6 @@ rngpaluydont.com
 roashudiweeh.com
 rodejessie.com
 romauntmirker.com
-rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
@@ -886,7 +886,6 @@ slickaffiliate.com
 sljtqfcyi.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -1025,7 +1024,6 @@ wheensamufouk.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
-whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
