@@ -4,7 +4,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -36,10 +35,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -59,8 +54,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -173,7 +166,6 @@ ads2.net-communities.co.uk
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
-afearprevoid.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -908,7 +900,6 @@ smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soliads.net
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -963,7 +954,6 @@ tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
-tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
