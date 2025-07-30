@@ -104,8 +104,6 @@ aj101.xyz
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
@@ -283,7 +281,6 @@ c.cdn-server.top
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
@@ -293,6 +290,7 @@ cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
 cdn-server.top
+ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 chertouz.net
@@ -368,6 +366,7 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
+dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -588,7 +587,6 @@ jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
-junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
@@ -664,7 +662,6 @@ mediamind.com
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 missitzantiot.com
@@ -750,7 +747,6 @@ osrxzucira.com
 ostaigukeshoak.com
 oufauthy.net
 ouftukoo.net
-outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -936,6 +932,7 @@ soliads.net
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
+speakspurink.com
 spyokjoxdl.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -1023,6 +1020,7 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
