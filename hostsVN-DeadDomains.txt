@@ -10,9 +10,6 @@ y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -101,14 +98,8 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
 mautic.educe.vn
 mautic.serverhub.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -244,7 +235,6 @@ bbyloavu.com
 beabsolom.com
 becketsbesogne.top
 bedaoibe.com
-beefoaloode.net
 bemalkrmc.com
 benevolencepair.com
 beplusleor.com
@@ -281,6 +271,7 @@ c.cdn-server.top
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
@@ -366,7 +357,6 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
-dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -587,6 +577,7 @@ jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
+junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
@@ -690,7 +681,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-news-central.org
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -747,6 +737,7 @@ osrxzucira.com
 ostaigukeshoak.com
 oufauthy.net
 ouftukoo.net
+outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -845,7 +836,6 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
-receptiveink.com
 reecegrita.com
 reflushneuma.com
 regletsminings.shop
@@ -1041,7 +1031,6 @@ voakulophy.com
 voopsookie.net
 voosaivege.com
 vpldfujttsdfj.com
-vstvstsa.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vupurdeeks.net
@@ -1082,7 +1071,6 @@ wreaksyolkier.com
 wrestcut.com
 www.claroadsclick.com
 www.money4exit.de
-www.pcmclk.com
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
