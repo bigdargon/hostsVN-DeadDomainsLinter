@@ -88,6 +88,9 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -123,13 +126,13 @@ aj3017.bid
 aj101.xyz
 aff-track.net
 mautic.educe.vn
-mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
@@ -510,6 +513,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -603,6 +607,7 @@ hurarwjrirti.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -610,7 +615,6 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
-iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
@@ -695,6 +699,7 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kzuocxorfo.com
 kzyadnfufmif.com
+labapwlkyov.com
 lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
@@ -985,6 +990,7 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
+retryngs.com
 rev2pub.com
 rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
@@ -1124,6 +1130,7 @@ tpudapafr.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
+troubledcontradiction.com
 trustbummler.com
 tshfc.com
 tufoknaqzolp.com
@@ -1151,7 +1158,6 @@ upcomingmonkeydolphin.com
 updatedbut.com
 uphegroaglah.com
 upr90.com
-upset-project.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -1220,6 +1226,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1280,7 +1287,6 @@ zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
-zipazvzu.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
