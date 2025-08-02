@@ -30,7 +30,6 @@ api.runative.com
 auth.runative.com
 pusher.staging.runative.com
 rotator.staging.runative.com
-single.runative.com
 staging.runative.com
 static.runative.com
 classic.marketolive.com
@@ -75,6 +74,7 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -178,6 +178,7 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abyocawlfe.com
+achieverknee.com
 aclickads.com
 adaftegloomto.com
 adcloud.net
@@ -197,7 +198,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
-advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -397,6 +397,7 @@ dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
+daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -423,6 +424,7 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
+dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -915,7 +917,6 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
-ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 popupmoney.com
@@ -937,6 +938,7 @@ ptoahaistais.com
 ptoushoa.com
 ptukasti.com
 ptumsess.com
+ptuxapow.com
 ptuzrywmega.com
 ptygunjk.com
 pu4.biz
@@ -1106,6 +1108,8 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
+tdcietast.com
+tdpjzjpfuiis.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
@@ -1192,6 +1196,7 @@ virleth.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
+vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
 voosaivege.com
