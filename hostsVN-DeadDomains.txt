@@ -15,6 +15,7 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 aj1549.online
@@ -74,7 +75,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 anymad.com
-cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -178,7 +178,6 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abyocawlfe.com
-achieverknee.com
 aclickads.com
 adaftegloomto.com
 adcloud.net
@@ -398,7 +397,6 @@ dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
-daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -425,7 +423,6 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -619,7 +616,9 @@ ichachoakiglop.com
 idyllteapots.com
 ihhqwaurke.com
 iifvcfwiqi.com
+iiqbttkbfvgyo.com
 illegal-respond.pro
+imageshh.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
@@ -938,12 +937,12 @@ ptoahaistais.com
 ptoushoa.com
 ptukasti.com
 ptumsess.com
-ptuxapow.com
 ptuzrywmega.com
 ptygunjk.com
 pu4.biz
 public.wedodemos.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1073,6 +1072,7 @@ smnyayzhv.com
 smstcksjn.com
 snapgiant.com
 snitzsauteur.shop
+snxewpxrhegslq.com
 soliads.net
 songbagoozes.com
 soodejeego.net
@@ -1106,8 +1106,6 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
-tdcietast.com
-tdpjzjpfuiis.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
@@ -1194,7 +1192,6 @@ virleth.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
-vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
 voosaivege.com
@@ -1305,6 +1302,7 @@ zmedia.com
 zpefriam.com
 zuqalzajno.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 dolohen.com
 go.ad1data.com
 k6r.net
