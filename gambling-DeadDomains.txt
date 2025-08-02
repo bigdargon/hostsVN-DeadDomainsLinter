@@ -15,6 +15,7 @@
 0024n.com
 0026n.com
 0027n.com
+0027s.com
 0028n.com
 0030n.com
 0031n.com
@@ -135,6 +136,7 @@
 0112n.com
 0113t.com
 0113v.com
+0118t.com
 0118v.com
 013123.com
 0134000.com
@@ -301,6 +303,10 @@
 0422v.com
 042390.com
 0430t.com
+<<<<<<< Updated upstream
+=======
+0432222.com
+>>>>>>> Stashed changes
 043390.com
 0433n.com
 0440n.com
@@ -314,6 +320,7 @@
 045390.com
 046390.com
 0464073.com
+0465n.com
 0466p.com
 04712k.com
 0471k365.com
@@ -502,7 +509,6 @@
 0796x.com
 07kkk.cn
 080107.com
-0806543.com
 0807t.com
 0807x.com
 080vs.com
@@ -548,6 +554,7 @@
 088828.cn
 0889x.com
 0891k365.com
+089249.com
 0894t.com
 0895x.com
 0896x.com
@@ -628,6 +635,7 @@
 09638z.com
 0963x.com
 0964t.com
+096697.com
 0966x.com
 096819.com
 097156.top
@@ -927,6 +935,7 @@
 12031aa.com
 12031xj.com
 1205x.com
+12061s.com
 1206x.com
 1207t.com
 1207x.com
@@ -2199,6 +2208,7 @@
 2025a1.com
 2025a2.com
 2025a4.com
+2025hg.com
 2027442.com
 2032x.com
 2037x.com
@@ -3748,6 +3758,7 @@
 3070t.com
 3071x.com
 3072t.com
+30738.vip
 30748a.com
 30748c.com
 30748j.com
@@ -3929,6 +3940,7 @@
 3227n.com
 3227v.com
 32285v.com
+32289.vip
 3229v.com
 3231j.com
 3231t.com
@@ -4460,6 +4472,7 @@
 3593t.com
 359588.com
 35963.shop
+359658.com
 3596j.com
 3596n.com
 35975.wang
@@ -4763,7 +4776,6 @@
 3778p.com
 3778t.com
 37795v.com
-377992b.com
 377992c.com
 377992d.com
 377992f.com
@@ -5530,7 +5542,6 @@
 4234492.com
 4234d.com
 4234j.com
-4234s.com
 423655.com
 4236t.com
 4236x.com
@@ -6270,6 +6281,7 @@
 4852t.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858e.com
 4858f.com
 4858ff.com
@@ -6284,6 +6296,15 @@
 4858u.com
 4858v.com
 4858w.com
+=======
+4858f.com
+4858nnn.com
+4858o.com
+4858p.com
+4858ppp.com
+4858r.com
+4858x.com
+>>>>>>> Stashed changes
 4859o.com
 4859oo.com
 4859pp.com
@@ -6821,6 +6842,7 @@
 53368v.com
 5337n.com
 5337w.com
+53387011.com
 5338n.com
 5339n.com
 5339w.com
@@ -8007,6 +8029,7 @@
 62677y.com
 62677z.com
 6268339.com
+6268704.com
 6268wa04.top
 6269p.com
 626yb.com
@@ -12980,6 +13003,7 @@
 9499885.com
 9499886.com
 9499887.com
+9499958.com
 9499997.com
 950.ee
 9500qian.com
@@ -13681,7 +13705,6 @@ api.8922047.com
 api.betlv.com
 api.go88r.pro
 api.i9bet108.com
-api.i9bet34.com
 api.i9bet36.com
 api.jun88.tv
 api.mb664.vip
@@ -13891,6 +13914,7 @@ b2886.com
 b2891.com
 b2898.com
 b28w.com
+b2933.com
 b3178.com
 b3187.com
 b3216.com
@@ -13960,6 +13984,7 @@ b5502.com
 b5518.com
 b5530.com
 b555.com
+b555.vip
 b55535.com
 b56145.com
 b5695.com
@@ -14260,8 +14285,10 @@ bb12349.com
 bb12350.com
 bb365666.com
 bb576562.com
+bb581453.com
 bb61489.com
 bb818163.com
+bb83946.com
 bb89358.com
 bb926835.com
 bb95831.com
@@ -14632,8 +14659,6 @@ bty6208.com
 bty6215.com
 bty6216.com
 bty6219.com
-bty6221.com
-bty6222.com
 bty6225.com
 bty6226.com
 bty6228.com
@@ -14646,7 +14671,6 @@ bty6238.com
 bty6239.com
 bty6251.com
 bty6252.com
-bty6255.com
 bty6256.com
 bty6258.com
 bty6259.com
@@ -14654,17 +14678,17 @@ bty6261.com
 bty6262.com
 bty6265.com
 bty6266.com
-bty6268.com
-bty6269.com
 bty6271.com
 bty6272.com
 bty6275.com
 bty6276.com
+<<<<<<< Updated upstream
 bty6278.com
 bty6279.com
+=======
+>>>>>>> Stashed changes
 bty6281.com
 bty6282.com
-bty6285.com
 bty6288.com
 bty6298.com
 bty6300.com
@@ -15378,6 +15402,7 @@ elber2529.vip
 ellemalls.net
 elm327.net
 em42.vip
+eng28.com
 erictoey.vip
 esbvn.com
 etzhht.com
@@ -15455,6 +15480,7 @@ f8bet97.vip
 f8u86.com
 fa88btc.com
 faava.xyz
+facebook.yfjgao.buzz
 facebookad.for88vn.com
 faey2468.vip
 fai158.com
@@ -15729,7 +15755,6 @@ fun88indo1.com
 fun88win1.com
 funchina88.com
 funfunfun888.com
-funiu88n.com
 funlolo45.com
 funsky.life
 funvn88.com
@@ -16070,6 +16095,7 @@ h4194.com
 h4195.com
 h4223.com
 h4238.com
+h4337.com
 h4512.com
 h4543.com
 h4554.com
@@ -16446,11 +16472,15 @@ ichadoh55.vip
 idheksomu.com
 idr6644.com
 ihfis59y9.com
+<<<<<<< Updated upstream
 images.ku6110.net
+=======
+>>>>>>> Stashed changes
 img.fabet.me
 img.hbsf888.com
 img.oigngns6zvx3.com
 imi7bet.xyz
+in724.com
 inanh.xyz
 incarpokerv.net
 inokvip.city
@@ -16752,6 +16782,7 @@ j9681.com
 j999233.com
 janene2540.vip
 jaokheaw.vip
+jarat123456.vip
 jatdk7.vip
 jbb123.net
 jbb2006.com
@@ -17472,7 +17503,10 @@ lp.choitet.vip
 lp.taiv8.top
 lp.vip79.vip
 lp.zo.club
+<<<<<<< Updated upstream
 lq15pm.buzz
+=======
+>>>>>>> Stashed changes
 lsdy1002.com
 lt1234.online
 lt2233.online
@@ -17757,6 +17791,7 @@ mgm4900.com
 mgm5171.com
 mgm5543.com
 mgm5762.com
+mgm5817.com
 mgm6015.com
 mgm6379.com
 mgm6468.com
@@ -18182,6 +18217,7 @@ p5717.com
 p5777.com
 p5884.com
 p5886.com
+p6062.com
 p6233.com
 p6266.com
 p63555.com
@@ -18562,6 +18598,7 @@ pkwin44.com
 pkwin5.fun
 pkwin8.fun
 plae8myr8.com
+plae8php2.net
 play.b52vn.org
 play.bay789.life
 play.go88cx.com
@@ -18589,6 +18626,7 @@ playiwin.in
 playland88super.com
 playland88z.com
 playsports312.com
+playstar77.website
 playwetten.partners
 playzoo99.com
 pm16788.com
@@ -18627,7 +18665,10 @@ q0309.com
 q034034.com
 q15572917796.com
 q1663.com
+<<<<<<< Updated upstream
 q1800.com
+=======
+>>>>>>> Stashed changes
 q1886.com
 q188xj.com
 q23023.com
@@ -19722,6 +19763,10 @@ ty6699.net
 ty6xh.com
 ty725.com
 ty755.com
+<<<<<<< Updated upstream
+=======
+ty762.com
+>>>>>>> Stashed changes
 ty8133.com
 ty8xh.com
 ty8yn.com
@@ -19832,6 +19877,7 @@ v25356.club
 v25886.top
 v263888.com
 v32nmu.vip
+v3b9z5.ink
 v46gf1613.com
 v5160.com
 v5208.com
@@ -19854,6 +19900,7 @@ v8zalo.com
 v963.com
 v9987.com
 vacky.cc
+vb6159d.net
 vb777.ltd
 vb777.pw
 vb777hh.com
@@ -19866,12 +19913,12 @@ vd001-fxh9-api.czcbnnm.com
 vd001-fxh9-api.klooo.site
 vd001-np-aw03.tgtest.site
 vd001-tiger-portal.klooo.site
-vd001-universe-portal-wap.czcbnnm.com
 vdvb2muon.com
 ve001.net
 vega77kh.me
 vegas79.casino
 vegas79.group
+vfd3er.vip
 vg03.com
 vg05.com
 vg102.com
@@ -19915,8 +19962,13 @@ vipbw8858.com
 vipbw9898.com
 vipbw9988.com
 vipi.space
+<<<<<<< Updated upstream
 vipj88ac.com
 vipj88ak.com
+=======
+vipj88fj.com
+vipj88in.com
+>>>>>>> Stashed changes
 vipjbo198.com
 vipjbo199.com
 vipjxf.net
@@ -20130,8 +20182,11 @@ w188xj.com
 w227227.com
 w23023.com
 w365usdt.com
+<<<<<<< Updated upstream
 w5524.com
 w6336.com
+=======
+>>>>>>> Stashed changes
 w66mm.com
 w69779.com
 w7310j.com
@@ -21052,6 +21107,7 @@ xn--888-yw3e.com
 xn--8888-z36f.com
 xn--fjqs2a38t.com
 xn--fjqs2a91ry7aba.com
+xn--fjqvg83leqi.com
 xn--n7qz9boyn3qvzzhmp9alzm.com
 xn--n7qz9boyn3qvzzhmp9alzm.net
 xn--oy2b27l0qeivc.com
@@ -21147,6 +21203,7 @@ y69779.com
 y7688.com
 y93rvk0tr.com
 y9b9.com
+yab76.com
 yabet00.com
 yabet888.vip
 yabo-bw.com
@@ -21158,6 +21215,7 @@ yabo106.net
 yabo107.vip
 yabo109.vip
 yabo110.net
+yabo1122.com
 yabo113.vip
 yabo115.net
 yabo115.vip
@@ -21184,6 +21242,7 @@ yabo147.net
 yabo148.net
 yabo148.vip
 yabo152.vip
+yabo153.com
 yabo154.vip
 yabo155.net
 yabo155.vip
@@ -21280,6 +21339,7 @@ yabo303.net
 yabo304.vip
 yabo305.vip
 yabo308.vip
+yabo310.com
 yabo310.vip
 yabo311.net
 yabo311.vip
@@ -21362,6 +21422,7 @@ yabo429.vip
 yabo431.vip
 yabo432.net
 yabo433.vip
+yabo689.com
 yabo777.cn
 yak199.com
 ybbway.com
@@ -21420,7 +21481,6 @@ yhh8z7.com
 yhhf83.com
 yhhp64.com
 yhhy62.com
-yhn188.com
 yhy238a.com
 yhy587y.com
 yiangfensen.com
