@@ -1,14 +1,14 @@
 blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
 cdn.creative.medialytics.com
+p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-ad.kau.li
-analytics.kau.li
-rtb.kau.li
-s.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -51,7 +51,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
@@ -91,6 +90,8 @@ images.showcasethat.com
 push.showcasethat.com
 stats.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
+static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
@@ -187,6 +188,8 @@ abpvhymadq.com
 abyocawlfe.com
 achieverknee.com
 aclickads.com
+ad.abctv.com
+ad.foxnetworks.com
 adaftegloomto.com
 adcloud.net
 adkchtmtns.com
@@ -195,6 +198,7 @@ admedia.network
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads1.rne.com
@@ -205,6 +209,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -230,6 +235,7 @@ ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
 ak.unblitzlean.com
+akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
 allaqxoh.com
@@ -378,6 +384,7 @@ coawujobups.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
+conary-invered.com
 conformfavoredgauging.com
 consciouschairs.com
 constructpoll.com
@@ -482,6 +489,7 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
+fafmimgubcm.com
 fagywalu.pro
 faisaphoofa.net
 faqlikbid.com
@@ -533,6 +541,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -547,8 +556,10 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gouthoat.com
 gpfvumsxtbf.com
 gralossortoob.net
@@ -556,7 +567,6 @@ grandioseguide.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -661,7 +671,6 @@ jncdvibhdaddmu.com
 jollytestpartying.com
 jomtingi.net
 joopaish.com
-joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -733,7 +742,6 @@ lo8ve6ygour3pea4cee.com
 loopassume.com
 lootoshevub.net
 louchees.net
-lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lpuodgmca.com
@@ -760,7 +768,6 @@ maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
-megacash.de
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
@@ -785,6 +792,7 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 mwekuzaj.com
+mybestmv.com
 mylwwuqdhidkmx.com
 naishoochoh.com
 nangalupeose.com
@@ -796,7 +804,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -851,7 +858,6 @@ omniscientspark.com
 omzostzuswm.com
 onclasrv.com
 oneegrou.net
-onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -895,6 +901,7 @@ ozongees.com
 ozxakfawm.com
 pajnutas.com
 pallivermis.shop
+panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pc2ads.com
@@ -909,7 +916,6 @@ phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
-pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
@@ -1014,6 +1020,8 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
+rleibfzdny.com
 rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
@@ -1024,7 +1032,6 @@ roashudiweeh.com
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
-rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
@@ -1058,10 +1065,10 @@ sheltermilligrammillions.com
 shestour.net
 shoacmoackaugnu.com
 shoadroocoosso.com
-shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
+sikrouxoopte.net
 simojkhtia.com
 simpliftsbefore.info
 sitegoto.com
@@ -1084,6 +1091,7 @@ songbagoozes.com
 soodejeego.net
 spanuletubings.com
 speakspurink.com
+sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
@@ -1114,10 +1122,12 @@ tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
+terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
+theedreemteedro.com
 theekedgleamed.com
 thhwzyuktk.com
 thiem-csl.com
@@ -1143,6 +1153,7 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 troubledcontradiction.com
 trustbummler.com
 tshfc.com
@@ -1161,6 +1172,7 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
+ulrzovfukgkljw.com
 unknowntray.com
 unphionetor.com
 unstoutgolfs.com
@@ -1268,10 +1280,13 @@ xkesalwueyz.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
+xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
