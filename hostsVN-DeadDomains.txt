@@ -6,6 +6,7 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 advergine.com
 go.advergine.com
@@ -60,7 +61,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -79,8 +79,6 @@ image.b91vip.com
 www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -166,7 +164,6 @@ abyocawlfe.com
 achieverknee.com
 aclickads.com
 ad.abctv.com
-ad.foxnetworks.com
 adaftegloomto.com
 adkchtmtns.com
 adlite.net
@@ -174,7 +171,6 @@ admedia.network
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads1.rne.com
@@ -207,6 +203,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -376,7 +373,6 @@ cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
-dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
@@ -524,6 +520,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -585,6 +582,7 @@ hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
 hupaiowicog.com
@@ -671,7 +669,6 @@ klkchits.com
 klsdee.com
 klumn.com
 knlqdtcbi.com
-knurleddeblock.guru
 kogutcho.net
 kqalbhgnd.com
 kraapmanmb.com
@@ -816,6 +813,7 @@ ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
 olkhtegk.com
+olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 olxxugltoku.com
@@ -860,7 +858,6 @@ oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
-ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
 ozongees.com
@@ -967,6 +964,7 @@ rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
 receptiveink.com
+recoverystabilizevarmint.com
 reecegrita.com
 reflushneuma.com
 refraintupaiid.com
@@ -1094,6 +1092,7 @@ tdpjzjpfuiis.com
 terrapsps.com
 tetrylscullion.com
 thads.cc
+that-muscle.com
 thedevband.com
 theedreemteedro.com
 theekedgleamed.com
@@ -1121,7 +1120,6 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
-trendcounter.com
 troubledcontradiction.com
 trustbummler.com
 tshfc.com
@@ -1171,6 +1169,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
+vfuqivac.com
 vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
@@ -1230,6 +1229,7 @@ worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
+www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
