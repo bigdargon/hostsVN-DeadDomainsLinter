@@ -21,7 +21,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 fadskiz.com
-gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -61,7 +60,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -91,7 +89,10 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
+ads.livetv670.me
 ads.livetv671.me
+ads.livetv673.me
 ads.livetv676.me
 aj2566.bid
 aj2578.bid
@@ -776,11 +777,7 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nygwcwsvnu.com
-oackoubs.com
-oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
-oavowuftili.com
 oaxntxan.com
 obnoljac.com
 obradjgifja.com
@@ -790,6 +787,8 @@ octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
+odqdkealzr.com
+oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
@@ -963,6 +962,7 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
+retryngs.com
 rev2pub.com
 rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
@@ -1205,6 +1205,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1280,6 +1281,7 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
+suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
