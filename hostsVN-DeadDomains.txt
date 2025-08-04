@@ -6,7 +6,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 advergine.com
 go.advergine.com
@@ -20,6 +19,8 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
@@ -59,6 +60,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -111,6 +113,8 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+k8s2.testcentre.vn
+testcentre.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -130,6 +134,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+alexajstrack.com
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -149,6 +154,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2512june2024.com
 2522june2024.com
 2524june2024.com
+4d5.net
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -201,7 +207,6 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
-ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -211,6 +216,8 @@ allstarmediagroup.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
+ambulanceappealingrut.com
+an.cliphub.net
 ancotvpaxoz.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -288,6 +295,7 @@ blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
 boozoomamesha.net
+bouncecardiganculture.com
 brechtembrowd.com
 bredmykixnaj.com
 brffhnhnqc.com
@@ -441,6 +449,7 @@ eringosdye.com
 erosyndc.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
@@ -515,7 +524,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
-go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -577,7 +585,6 @@ hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
 hrjbylofyso.com
-hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
 hupaiowicog.com
@@ -723,6 +730,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -808,7 +816,6 @@ ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
 olkhtegk.com
-olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 olxxugltoku.com
@@ -960,9 +967,9 @@ rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
 receptiveink.com
-recoverystabilizevarmint.com
 reecegrita.com
 reflushneuma.com
+refraintupaiid.com
 regletsminings.shop
 relievedgeoff.com
 repeatedspotlessstrobe.com
@@ -1041,11 +1048,11 @@ slickaffiliate.com
 sljtqfcyi.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
-snapgiant.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soliads.net
@@ -1087,7 +1094,6 @@ tdpjzjpfuiis.com
 terrapsps.com
 tetrylscullion.com
 thads.cc
-that-muscle.com
 thedevband.com
 theedreemteedro.com
 theekedgleamed.com
@@ -1140,9 +1146,11 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
+updatedbut.com
 uphegroaglah.com
 upr90.com
 upset-project.com
+upspinarakor.com
 urigagxnji.com
 uselnk.com
 usounoul.com
@@ -1163,7 +1171,6 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
-vfuqivac.com
 vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
@@ -1223,7 +1230,6 @@ worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
-www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
