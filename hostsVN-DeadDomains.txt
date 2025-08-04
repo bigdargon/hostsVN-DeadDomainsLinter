@@ -35,6 +35,7 @@ rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
+static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
@@ -90,10 +91,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
-ads.livetv670.me
 ads.livetv671.me
-ads.livetv673.me
 ads.livetv676.me
 aj2566.bid
 aj2578.bid
@@ -735,6 +733,7 @@ missitzantiot.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -791,8 +790,6 @@ octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
-odqdkealzr.com
-oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
@@ -966,7 +963,6 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-retryngs.com
 rev2pub.com
 rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
