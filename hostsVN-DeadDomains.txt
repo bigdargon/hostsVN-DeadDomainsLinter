@@ -8,6 +8,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -23,9 +24,6 @@ ajxx91.online
 fadskiz.com
 gadskis.com
 madsecz.com
-advinci.net
-count.advinci.net
-www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -55,6 +53,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -80,6 +79,11 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -97,10 +101,13 @@ aj2578.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
-aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+hbplatform.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 customers.fptad.com
@@ -160,14 +167,13 @@ admedia.network
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
-ads.websiteservices.com
-ads.wedodemos.com
 ads2.net-communities.co.uk
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
+africaewgrhdtb.com
 agapios-gla.com
 agghriwaz.com
 agtamzsm.com
@@ -185,6 +191,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.oneegrou.net
 ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
@@ -259,6 +266,7 @@ beabsolom.com
 becketsbesogne.top
 bedaoibe.com
 beefoaloode.net
+beklefkiom.com
 bemalkrmc.com
 benevolencepair.com
 beplusleor.com
@@ -274,6 +282,7 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
@@ -322,6 +331,7 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clckysudks.com
 clkofafcbk.com
@@ -346,6 +356,7 @@ cpykudhagov.com
 crepedzincite.top
 croniesobli.com
 crumbrationally.com
+crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 cutepopcorn.com
@@ -520,7 +531,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
@@ -572,6 +582,7 @@ hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
 hvxnlmjx.com
+hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
@@ -714,6 +725,7 @@ mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 meowpushnot.com
 metahv.xyz
@@ -1080,7 +1092,6 @@ thedevband.com
 theedreemteedro.com
 theekedgleamed.com
 thhwzyuktk.com
-thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -1094,6 +1105,7 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
+tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -1138,6 +1150,7 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
