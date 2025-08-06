@@ -50,13 +50,16 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+asgdfasad.mm-cgnews.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -94,6 +97,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -110,7 +114,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 track.winigroup.vn
@@ -238,8 +241,8 @@ backspacecomprisedgoliath.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.mindshare.de
 bannermarkt.nl
-basebanner.com
 baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
@@ -317,7 +320,6 @@ cigdizwu.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-claroadsclick.com
 clckysudks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -375,7 +377,6 @@ despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
-diazoestmark.guru
 diedstubbornforge.com
 digitalmerkat.com
 digyniahuffle.com
@@ -426,6 +427,7 @@ escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
+exogripper.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -459,9 +461,6 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
-foliumumu.com
-foogeetoary.net
-fopteefteex.com
 forfeitsubscribe.com
 forspearowor.com
 fpqwpqiyq.com
@@ -547,9 +546,9 @@ heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
 heraldet.com
-heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -627,6 +626,7 @@ jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
+jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
 kalwundked.com
@@ -640,7 +640,6 @@ kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
-kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -821,6 +820,7 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osrxzucira.com
 osrzawox.com
@@ -934,7 +934,6 @@ quaintcan.com
 quenchskirmishcohere.com
 quzodcttub.com
 quzwteqzaabm.com
-qvzpofgmlwlnrt.com
 qwerfdx.com
 qwuopcbilw.com
 qwykgrylxyl.com
@@ -1124,6 +1123,7 @@ untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
+uphegroaglah.com
 upr90.com
 upset-project.com
 upspinarakor.com
@@ -1195,7 +1195,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
