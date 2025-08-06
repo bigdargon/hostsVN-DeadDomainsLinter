@@ -4,6 +4,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 native.propellerclick.com
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2498.online
@@ -35,8 +36,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 cdnativepush.com
-static.cdnativepush.com
-www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -48,6 +47,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -113,7 +113,6 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-serving-ad.tv24.vn
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -214,7 +213,6 @@ asgclickpop.com
 asqsphwgybanh.com
 asslfeqadv.com
 ataccwpdiqqnfl.com
-atp.io
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -276,7 +274,6 @@ blueswordksh.com
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
-breathelicense.com
 brechtembrowd.com
 bredmykixnaj.com
 brffhnhnqc.com
@@ -311,6 +308,7 @@ ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 chertouz.net
+chiamfxz.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -329,10 +327,10 @@ clckysudks.com
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
+coappreciate.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
-colonserve.com
 commodityshortlysurviving.com
 compatriotelephant.com
 conary-invered.com
@@ -424,7 +422,6 @@ encodehelped.com
 encounterboastful.com
 entertainingeyes.com
 eogaeapolaric.com
-epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -636,6 +633,8 @@ jucysh.com
 jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
+junkieswudge.com
+jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
 kalwundked.com
@@ -674,6 +673,7 @@ lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
+leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
@@ -870,7 +870,6 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 pieceredirect.com
@@ -895,7 +894,6 @@ potencyissuedflashlight.com
 pramviable.com
 pranavafolksey.com
 presidestatelycondition.com
-pro-ads.club
 proetusbramble.com
 profitableheavilylord.com
 proposedpartly.com
@@ -903,6 +901,7 @@ prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 psipausaix.net
+psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
@@ -1087,6 +1086,7 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
+theedreemteedro.com
 theekedgleamed.com
 thhwzyuktk.com
 thiem-csl.com
@@ -1143,7 +1143,6 @@ urigagxnji.com
 uselnk.com
 usounoul.com
 uuomdlaslopcrx.com
-uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
@@ -1215,7 +1214,6 @@ wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woomerapapacy.shop
-workervanewalk.com
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1280,8 +1278,11 @@ zpefriam.com
 zuqalzajno.com
 analytics.shivamsinghis.me
 dolohen.com
+go.ad1data.com
+guihua-china.com
 k6r.net
 q2melbourne.com
 richmetrics.com
+suriflowers.com
 tracking.news360.store
 yoursitestatstube.ru
