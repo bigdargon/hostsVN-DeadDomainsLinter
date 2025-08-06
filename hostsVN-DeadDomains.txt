@@ -91,8 +91,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -108,7 +106,6 @@ static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
-sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -116,10 +113,7 @@ wataads.com
 ads.seovietnam.pro
 bloggiamgia.info
 crocopop.com
-duamilsyr.com
-imgcdnbet.com
 mobileads.dieuviet.com
-motphimqq.pro
 serving-ad.tv24.vn
 analytics.amedigital.vn
 log.bizlive.vn
@@ -376,7 +370,6 @@ decisiveducks.com
 decoycreation.com
 deewansturacin.com
 defensive-bad.com
-defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -412,6 +405,8 @@ dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
+e5asyhilodice.com
+eatsbot.com
 ebvvvnjesjgx.com
 eemsouftas.com
 efyglwbapki.com
@@ -726,6 +721,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mathcountryside.com
 mawptuaz.com
 maximumcash.com
 mazbfiladr.com
@@ -1022,13 +1018,11 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-seeablywitness.com
 seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
 shakytaste.com
-shareadspace.com
 sheesoah.net
 shelfoka.com
 sheltermilligrammillions.com
@@ -1174,6 +1168,7 @@ vertadnet.com
 vfuqivac.com
 vfurwydryli.com
 vikawjobtar.com
+vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
 vmweb.net
@@ -1289,7 +1284,6 @@ zmalalxt.com
 zpefriam.com
 zuqalzajno.com
 analytics.shivamsinghis.me
-burstly.com
 dolohen.com
 go.ad1data.com
 guihua-china.com
