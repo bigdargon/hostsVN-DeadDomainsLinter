@@ -96,8 +96,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
@@ -151,6 +149,7 @@ achieverknee.com
 ad.abctv.com
 ad1.emediate.dk
 adaftegloomto.com
+adcenter.net
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -212,7 +211,6 @@ apxszeaj.com
 aqncinxrexa.com
 areamindless.com
 armfullitigateslate.com
-armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asfobftirag.com
@@ -244,7 +242,6 @@ axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
-baaomenaltho.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -379,7 +376,11 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
+demo123.info
+demtaudeeg.com
 dendranthe4edm7um.com
+dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
@@ -455,7 +456,6 @@ fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
-febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -464,7 +464,6 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -497,7 +496,7 @@ gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
-galaxien.com
+gaizoopi.net
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -512,6 +511,7 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
@@ -527,7 +527,6 @@ grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
-groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
@@ -722,7 +721,6 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
-mathcountryside.com
 mawptuaz.com
 maximumcash.com
 mazbfiladr.com
@@ -857,11 +855,13 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
+ozbnagojbop.com
 ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1082,13 +1082,13 @@ swrggntsvmsgv.com
 tagular.com
 tarsiusbaconic.com
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 terrapsps.com
 tetrylscullion.com
+textads.biz
 thads.cc
 that-muscle.com
 thedevband.com
@@ -1126,6 +1126,7 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
+ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufiledsit.com
@@ -1192,7 +1193,6 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
@@ -1238,6 +1238,8 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
+xkesalwueyz.com
+xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xovq5nemr.com
@@ -1271,7 +1273,6 @@ zavawvsa.com
 zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
-zihcabtkic.com
 zintext.com
 zipazvzu.com
 zitauptajoumti.com
