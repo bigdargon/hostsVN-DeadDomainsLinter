@@ -36,6 +36,8 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 cdnativepush.com
+static.cdnativepush.com
+www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -58,7 +60,6 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -213,6 +214,7 @@ asgclickpop.com
 asqsphwgybanh.com
 asslfeqadv.com
 ataccwpdiqqnfl.com
+atp.io
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -310,14 +312,12 @@ chaikempakr.com
 chertouz.net
 chiamfxz.com
 chickensstation.com
-chinaslauras.com
 chinsnakes.com
 chirpyreemergespotty.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
-chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
@@ -340,7 +340,6 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 corrumpsublid.top
-cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -422,6 +421,7 @@ encodehelped.com
 encounterboastful.com
 entertainingeyes.com
 eogaeapolaric.com
+epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -756,7 +756,6 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 ncaxvlngll.com
 nddjdbxwbpp.com
-neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
@@ -846,7 +845,6 @@ ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owvobdogd.com
 owxqunparw.com
-ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
@@ -870,6 +868,7 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 pieceredirect.com
@@ -952,7 +951,6 @@ qxadsk.com
 qzyztuwulo.com
 radxabsah.com
 ranking-liste.de
-raphanysteers.com
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
@@ -1143,6 +1141,7 @@ urigagxnji.com
 uselnk.com
 usounoul.com
 uuomdlaslopcrx.com
+uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
@@ -1171,7 +1170,6 @@ voakulophy.com
 voopsookie.net
 voosaivege.com
 voupsauk.com
-vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -1213,7 +1211,6 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
-woomerapapacy.shop
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1283,6 +1280,5 @@ guihua-china.com
 k6r.net
 q2melbourne.com
 richmetrics.com
-suriflowers.com
 tracking.news360.store
 yoursitestatstube.ru
