@@ -3,8 +3,13 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 adthor.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
 static.adthor.com
+v.adthor.com
 native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -12,7 +17,9 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
 infor.marketolive.com
+jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
@@ -56,7 +63,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -121,6 +127,8 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+upfile16.mediaphim.com
+vnadssb.com
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -150,6 +158,7 @@ abpvhymadq.com
 abyocawlfe.com
 achieverknee.com
 ad.abctv.com
+ad.foxnetworks.com
 ad1.emediate.dk
 adaftegloomto.com
 adkchtmtns.com
@@ -160,6 +169,8 @@ adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
+ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
@@ -175,7 +186,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkapsalz.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
@@ -198,7 +208,6 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -211,6 +220,7 @@ apdozzbkyasc.com
 api.ampiri.com
 apxszeaj.com
 aqncinxrexa.com
+areamindless.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -413,6 +423,7 @@ dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
+eechuraubsaud.com
 eemsouftas.com
 efyglwbapki.com
 egraglauvoathog.com
@@ -468,6 +479,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -481,6 +493,7 @@ forfeitsubscribe.com
 forspearowor.com
 fpqwpqiyq.com
 frameworkdeserve.com
+freakishmartyr.com
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -501,6 +514,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -597,7 +611,6 @@ ihhqwaurke.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
 ilbanner.com
-illegal-respond.pro
 imageshh.com
 immerseweariness.com
 importedincrease.com
@@ -933,7 +946,6 @@ pushazer.com
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
-pzshzhja.com
 qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
@@ -952,6 +964,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1023,6 +1036,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1055,17 +1069,20 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
+snapgiant.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soliads.net
 songbagoozes.com
 soodejeego.net
+spacash.com
 spanuletubings.com
 speakspurink.com
 spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1254,6 +1271,7 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1274,6 +1292,7 @@ yrscfbbegumijt.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
+yu225.com
 yummiergangue.shop
 zavawvsa.com
 zbwp6ghm.com
@@ -1287,6 +1306,7 @@ zkuziwzzyf.com
 zkyqafavdg.com
 zkyrzoqc.com
 zmalalxt.com
+zmedia.com
 zpefriam.com
 zuqalzajno.com
 analytics.shivamsinghis.me
