@@ -7,7 +7,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -69,7 +68,6 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
-t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -79,6 +77,7 @@ ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
@@ -100,7 +99,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 mautic.educe.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -339,7 +337,6 @@ clckysudks.com
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
-coappreciate.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
@@ -472,6 +469,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
@@ -509,7 +507,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
@@ -649,6 +646,7 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
 jyhlgpkn.com
 kalwundked.com
 katukaunamiss.com
@@ -730,6 +728,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mathcountryside.com
 mawptuaz.com
 maximumcash.com
 mazbfiladr.com
@@ -1044,6 +1043,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 simpliftsbefore.info
@@ -1115,7 +1115,6 @@ thoungoofeed.net
 thounookra.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tilqwekuszfa.com
 tixoxzfpur.com
 tkivhuluzcwi.com
