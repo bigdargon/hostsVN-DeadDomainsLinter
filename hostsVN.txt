@@ -1,4 +1,4 @@
-# Version: 2508011110
+# Version: 2508071424
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -15024,6 +15024,7 @@
 ||iauzsghijpmq.com^
 ||ib-ibi.com^
 ||ichachoakiglop.com^
+||ichdpdbpv.com^
 ||iclickcdn.com^
 ||iconcardinal.com^
 ||icptrack.com^
@@ -15166,6 +15167,7 @@
 ||ivhwlnlcgi.com^
 ||ivwbox.de^
 ||ivykiosk.com^
+||iwamwxsgnlsa.com^
 ||iwanttodeliver.com^
 ||ixyyijop.com^
 ||iyfbodn.com^
@@ -15250,6 +15252,7 @@
 ||jwuoxhjuq.com^
 ||jxjttecednvb.com^
 ||jyhlgpkn.com^
+||jyjfycnpodkjp.com^
 ||k.iinfo.cz^
 ||kaffnet.com^
 ||kaisauwoure.net^
@@ -15665,6 +15668,7 @@
 ||mitaxsodwrfu.com^
 ||miva.com^
 ||mixedreading.com^
+||mkejunomqar.com^
 ||mkkvprwskq.com^
 ||mkysuerau.com^
 ||mlm.de^
@@ -16264,6 +16268,7 @@
 ||phoossax.net^
 ||phortaub.com^
 ||photographpan.com^
+||phoucmiwashook.com^
 ||phpadsnew.wn.com^
 ||phpmyvisites.net^
 ||phumagrose.com^
@@ -18080,6 +18085,7 @@
 ||yrhnw7h63.com^
 ||yrscfbbegumijt.com^
 ||yrumdfslwabv.com^
+||ysbddgay.com^
 ||yseyxucrhjfi.com^
 ||ytimm.com^
 ||ytjnpxiiqsblwb.com^
