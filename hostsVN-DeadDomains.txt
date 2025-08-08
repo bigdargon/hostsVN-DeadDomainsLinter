@@ -8,6 +8,10 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -36,9 +40,11 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -55,6 +61,7 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -155,8 +162,6 @@ adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
-ads.foxnetworks.com
-ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
@@ -195,6 +200,7 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -329,7 +335,6 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clckysudks.com
-clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
 coappreciate.com
@@ -398,7 +403,6 @@ doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
-drubbersestia.com
 drydrum.com
 ducksintroduce.com
 dulrihaungy.com
@@ -434,7 +438,6 @@ eringosdye.com
 erosyndc.com
 eryondistain.com
 escortlarbul.com
-euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
@@ -469,7 +472,6 @@ fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
 fkabzoarsoz.com
-fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
@@ -498,7 +500,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -554,6 +555,7 @@ handkerchiefpersonnel.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
+hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
@@ -622,6 +624,7 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -988,6 +991,7 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
+rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
@@ -1218,6 +1222,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
