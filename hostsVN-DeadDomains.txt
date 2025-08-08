@@ -5,6 +5,7 @@ cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adnetasia.com
@@ -68,6 +69,7 @@ stats.anymad.com
 www.anymad.com
 cdnativepush.com
 static.cdnativepush.com
+www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -180,6 +182,7 @@ ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adserver1.mindshare.de
@@ -195,6 +198,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkapsalz.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
@@ -205,7 +209,6 @@ aimaniape.club
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
@@ -247,6 +250,7 @@ aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
+auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avhkihpfabt.com
@@ -399,7 +403,6 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
-demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 dependpinch.com
@@ -449,7 +452,6 @@ encloselavanga.com
 encodehelped.com
 encounterboastful.com
 entertainingeyes.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -601,7 +603,6 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
-hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
 hvxnlmjx.com
@@ -640,7 +641,6 @@ jadeitite.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
-jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -653,6 +653,7 @@ jmrnews.pro
 jncdvibhdaddmu.com
 jollytestpartying.com
 jomtingi.net
+joopaish.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -757,6 +758,7 @@ meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
 mgepuynxttyi.com
+mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
 missitzantiot.com
@@ -961,7 +963,6 @@ qakzfubfozaj.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qipshozipsah.com
 qiptamcupl.com
 qkcgorbrs.com
@@ -1051,6 +1052,7 @@ shakytaste.com
 shareadspace.com
 sheesoah.net
 shelfoka.com
+sheltermilligrammillions.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -1065,6 +1067,7 @@ simpliftsbefore.info
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
+slickaffiliate.com
 sljtqfcyi.com
 slopeaota.com
 slopingunrein.com
@@ -1137,7 +1140,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1149,7 +1151,6 @@ tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
-tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
@@ -1164,7 +1165,6 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
-updatedbut.com
 uphegroaglah.com
 upr90.com
 upset-project.com
@@ -1238,8 +1238,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
-wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
@@ -1251,6 +1249,7 @@ worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
+www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
@@ -1307,7 +1306,6 @@ zkyqafavdg.com
 zkyrzoqc.com
 zmalalxt.com
 zpefriam.com
-zumdivdwug.com
 zuqalzajno.com
 analytics.shivamsinghis.me
 dolohen.com
