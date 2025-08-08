@@ -8,7 +8,15 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -25,6 +33,9 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+brand.ad
+a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
@@ -39,12 +50,18 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 pgmcdn.com
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -61,6 +78,9 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+ad-track.adiiix.com
+ads.adiiix.com
+beta.tapdb.com
 sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -102,6 +122,7 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+adx.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -115,6 +136,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ads.seovietnam.pro
+ak9.6895588.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -122,6 +144,7 @@ imgcdnbet.com
 motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
+alexajstrack.com
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -141,6 +164,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2512june2024.com
 2522june2024.com
 2524june2024.com
+4d5.net
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -154,6 +178,7 @@ ad.abctv.com
 ad.foxnetworks.com
 ad1.emediate.dk
 adaftegloomto.com
+adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -162,13 +187,17 @@ adrevolver.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
+adsrv.wtf
 adsrveys.com
+advariant.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -191,16 +220,15 @@ ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
-ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
 allaqxoh.com
 allodsubussu.com
+allstarmediagroup.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -255,6 +283,7 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 banner.mindshare.de
+bannerconnect.net
 bannermarkt.nl
 baste-znl.com
 batomqsmoocc.com
@@ -335,6 +364,8 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clckysudks.com
+clickadin.com
+clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
 coappreciate.com
@@ -357,8 +388,8 @@ crepedzincite.top
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
-culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -371,6 +402,7 @@ dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
+dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -403,7 +435,9 @@ doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
+drubbersestia.com
 drydrum.com
+dsp.io
 ducksintroduce.com
 dulrihaungy.com
 dumkcuakrlka.com
@@ -468,10 +502,12 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fixespreoccupation.com
 fkabzoarsoz.com
+fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
@@ -500,6 +536,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -612,12 +649,14 @@ irritateinformantmeddle.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
 jaumevie.com
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
@@ -760,6 +799,7 @@ mwejhobumo.com
 mwekuzaj.com
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -770,6 +810,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -931,6 +972,7 @@ pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushazer.com
+pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1067,7 +1109,6 @@ spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1121,6 +1162,8 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1150,7 +1193,6 @@ untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
 uphegroaglah.com
-upr90.com
 upset-project.com
 uqkcroib.com
 urigagxnji.com
@@ -1175,7 +1217,6 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 vfurwydryli.com
-vikawjobtar.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
@@ -1214,7 +1255,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wijwunrcoo.com
 wimswuppoxan.com
@@ -1222,7 +1262,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
