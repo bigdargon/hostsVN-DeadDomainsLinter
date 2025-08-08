@@ -318,6 +318,7 @@ com-us.shop
 com.vn-hc.info
 com.vn-iy.info
 com.vn-iz.info
+com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
 com.vn-sp.xyz
@@ -819,7 +820,6 @@ hethongbhx.com
 hethongdonhang.com
 hethonggiaodichvidientu247.com
 hethongquatang.vn
-hethongtikicareers24.com
 hethongviet99.com
 hgff11.com
 hhwd68.com
@@ -1195,6 +1195,8 @@ lottevn518.com
 lottevn666.com
 lottevn896.com
 lottevn999.com
+lotttemart.store
+low-lyingwh.cfd
 lsacomban.com
 lstmoney.xyz
 luuvanquang.com
@@ -1236,7 +1238,6 @@ mayxanhsg.com
 mayyadc.cfd
 mbankingvn.com
 mbbank-vn.com
-mbbank.net.cn
 mbbank247.top
 mbbank247.xyz
 mbbankl.com
@@ -1488,6 +1489,7 @@ napff3s.com
 napffgiare.com
 napffx10.com
 napfree.net
+napfreefire.me
 napfreefiregame.com
 napfreefirenhanh.com
 napfreefirevn.com
@@ -1714,7 +1716,6 @@ phanmemgiamsat.top
 phanmemgiare.club
 phanmemgoc.net
 phanmemvip.net
-phanqua01vn.com
 phanqua365vn.com
 phanqua7979.com
 phanquavn152.com
@@ -1924,6 +1925,7 @@ scb.vn-vp.xyz
 scdienmayxanh.com
 sd0053.shop
 sd062.com
+sd092.com
 sd230.com
 sd3053.shop
 sd4034.shop
@@ -2327,6 +2329,7 @@ sieumomo.pro
 sieumomo.top
 sieumomo.win
 sieusao.lienquan-vgarena.com
+sieuthibaby24h.com
 sieuthidienmayxanh.com
 sieuthidienmayxanh247.com
 sieuthidienmayxanh24h.com
@@ -2359,13 +2362,11 @@ sp15569p.com
 sp1663p.com
 sp1776p.com
 sp315693vn.com
-sp5188.com
 sp6788.com
 sp7335p.com
 sp75193p.com
 sp7588p.com
 sp77888.com
-sp8668vn.com
 spark123.shop
 spcg.lunaticfridge.com
 spmail86.com
@@ -2880,7 +2881,11 @@ tw-shopee.store
 twshopeee.top
 tx55.vip
 txclmomo.club
+ugvietnam.net
+uhy89mb.com
 ukzdcnzp.bdtrjklaz.de
+ullis-airbrush-shop.de
+umyugu88.ru
 undertheguid.cfd
 undimangen.cfd
 unixpop.xyz
@@ -3097,7 +3102,6 @@ vib-vay.com
 vib.chamsockhachang-tructuyen-the.online
 vib.chamsockhachang-tructuyen.online
 vib.chamsockhachhang-tructuyen-the-visa.com
-vib.chamsockhachhang-tructuyenuudaithe.online
 vib.chamsockhachhang-uudai-tructuyenthe.com
 vib.chamsockhachhangtheuudai-tructuyen.com.vn
 vib.chamsocthekhachang-tructuyen.com.vn
@@ -3176,7 +3180,6 @@ vietcombank2022.com
 vietcombankd.tk
 vietcombankk.com
 vietcomcard.com
-vietcomcredit.com
 vietcomdank.com
 vietcomibaink.com
 vietconbank.com
@@ -3521,11 +3524,7 @@ vonsieubtoc.com
 vonsieuctoc.com
 vonsieudtoc.com
 vonsieuetoc.com
-vonsieuftoc.com
-vonsieugtoc.com
-vonsieuhtoc.com
 vonsieuitoc.com
-vonsieujtoc.com
 vonsieuktoc.com
 vonsieultoc.com
 vonsieumtoc.com
