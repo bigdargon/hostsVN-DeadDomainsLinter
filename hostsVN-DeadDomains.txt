@@ -5,10 +5,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -136,6 +132,7 @@ wataads.com
 ads.seovietnam.pro
 ak9.6895588.com
 bloggiamgia.info
+crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
@@ -185,6 +182,7 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adserver1.mindshare.de
+adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -217,6 +215,7 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -377,6 +376,7 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -766,7 +766,6 @@ mobbersinwalls.com
 mobisla.com
 moodokay.com
 moomenog.com
-moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1123,6 +1122,7 @@ thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
+thootipheguph.com
 thoungoofeed.net
 thounookra.com
 thvhjgxmyjnoqvq.com
@@ -1145,7 +1145,6 @@ troubledcontradiction.com
 trustbummler.com
 tshfc.com
 tufoknaqzolp.com
-twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -1252,6 +1251,7 @@ wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
 www.claroadsclick.com
+www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
 www.xumamropnox.com
