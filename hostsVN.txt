@@ -1,4 +1,4 @@
-# Version: 2508071424
+# Version: 2508092335
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10349,6 +10349,9 @@
 ||acertb.com^
 ||filter.acertb.com^
 ||xml.acertb.com^
+||cvt.finallygotthexds.site^
+||finallygotthexds.site^
+||i.finallygotthexds.site^
 ||adtimaserver.vn^
 ||api.adtimaserver.vn^
 ||log.adtimaserver.vn^
