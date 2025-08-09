@@ -1,3 +1,10 @@
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -13,6 +20,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -26,9 +34,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -51,6 +56,9 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -58,6 +66,13 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+showcasethat.com
+stats.showcasethat.com
+www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -68,6 +83,7 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+asgdfasad.mm-cgnews.com
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -86,6 +102,8 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -112,6 +130,8 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -131,6 +151,7 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -161,6 +182,7 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abyocawlfe.com
+achieverknee.com
 ad.abctv.com
 ad.foxnetworks.com
 adaftegloomto.com
@@ -371,6 +393,7 @@ culwcoam.com
 curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
+cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -444,6 +467,7 @@ entertainingeyes.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 eryondistain.com
@@ -487,8 +511,6 @@ flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
-forspearowor.com
 fpqwpqiyq.com
 frameworkdeserve.com
 frightenedpotato.com
@@ -525,7 +547,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -587,6 +608,7 @@ hoaphosurer.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
+hpdvgejc.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -659,6 +681,7 @@ jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
 kalwundked.com
+kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
@@ -789,6 +812,7 @@ nhusjhrshwxvl.com
 nicohgokppuj.com
 noerwe5gianfor19e4st.com
 noowhaumurauy.net
+npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
@@ -801,6 +825,7 @@ nxcygebmxxuo.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
+oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -821,6 +846,7 @@ ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ohgorbqcegig.com
+ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
 olkhtegk.com
@@ -855,7 +881,6 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othabqmag.com
-othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
@@ -880,6 +905,7 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
+pasheeheghie.net
 pc2ads.com
 pcmclk.com
 pefsustazvzgop.com
@@ -935,7 +961,6 @@ public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
-pumywyczbks.com
 purgavax.com
 pushazer.com
 pvnocbyq.com
@@ -1016,6 +1041,7 @@ ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
+rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1033,6 +1059,7 @@ seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
+shakyseat.com
 shakytaste.com
 shareadspace.com
 sheesoah.net
@@ -1297,6 +1324,7 @@ zpefriam.com
 zuqalzajno.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
