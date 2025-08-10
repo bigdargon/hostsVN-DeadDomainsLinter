@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 adthor.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -16,6 +15,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -95,7 +95,6 @@ ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
@@ -111,7 +110,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -172,6 +170,7 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
+adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
@@ -312,7 +311,6 @@ bzwo2lmwioxa.com
 bzydilasq.com
 bzyfzusiqohk.com
 c.cdn-server.top
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
@@ -592,9 +590,9 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
+hubarejnbsobic.com
 hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
@@ -723,7 +721,6 @@ lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lpuodgmca.com
-lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lumpbackstage.com
@@ -786,6 +783,7 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
+newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
@@ -809,7 +807,6 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obnoljac.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1005,6 +1002,8 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
+rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -1017,7 +1016,6 @@ rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
-ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
