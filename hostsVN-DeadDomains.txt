@@ -16,6 +16,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -51,7 +52,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -80,7 +80,6 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
-expmediadirect1.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -110,6 +109,8 @@ aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
+aj3017.bid
+aj101.xyz
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -124,7 +125,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 adx.vn
 mautic.serverhub.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
@@ -229,6 +229,7 @@ ancotvpaxoz.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 annxwustakf.com
+antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -311,7 +312,6 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
-bredmykixnaj.com
 brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
@@ -355,6 +355,7 @@ chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
+cigdizwu.com
 circularnothing.com
 civadsoo.net
 claroadsclick.com
@@ -453,8 +454,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
-elephantqueue.com
-elitetoplist.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
 encodehelped.com
@@ -481,6 +480,7 @@ facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagywalu.pro
+faisaphoofa.net
 faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
@@ -581,6 +581,7 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
@@ -791,7 +792,6 @@ mylwwuqdhidkmx.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
-nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 ncaxvlngll.com
@@ -837,10 +837,6 @@ offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
-ogkvkuvfy.com
-ogsbpoofzlk.com
-ohgorbqcegig.com
-ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
 olkhtegk.com
@@ -1060,7 +1056,6 @@ sf960.com
 shakyseat.com
 shakytaste.com
 shareadspace.com
-sheesoah.net
 shelfoka.com
 sheltermilligrammillions.com
 shestour.net
@@ -1110,7 +1105,6 @@ sujjkoshod.com
 sunnycategoryopening.com
 supapush.net
 surtaultathoado.com
-suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
@@ -1178,7 +1172,6 @@ untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
 uphegroaglah.com
-upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
@@ -1264,7 +1257,6 @@ wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
 www.claroadsclick.com
-www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
 www.xumamropnox.com
