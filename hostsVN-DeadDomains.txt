@@ -4,13 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -59,9 +52,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -143,12 +133,14 @@ static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
+sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+ads.seovietnam.pro
 ads.xemphimso.com
 ak9.6895588.com
 bloggiamgia.info
@@ -186,6 +178,7 @@ abbvagoz.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
+abyocawlfe.com
 achieverknee.com
 ad.foxnetworks.com
 adaftegloomto.com
@@ -237,7 +230,6 @@ alzfaklcuzc.com
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 annxwustakf.com
 anymoreeruptuncharted.com
@@ -395,7 +387,6 @@ crepedzincite.top
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
-culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
@@ -678,6 +669,7 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jufbcunisak.com
 jugjetwok.com
@@ -716,7 +708,7 @@ kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
-kvtaaa.top
+kwanvibist.com
 kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
@@ -725,7 +717,6 @@ lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
 leestoptee.com
-leetmenllew.com
 lephaush.net
 lessemujust.live
 lfalfehuq.com
@@ -1024,6 +1015,7 @@ resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
+rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1043,6 +1035,7 @@ rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
+rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
@@ -1136,7 +1129,6 @@ tdpjzjpfuiis.com
 terrapsps.com
 tetrylscullion.com
 thads.cc
-that-muscle.com
 thedevband.com
 theedreemteedro.com
 theekedgleamed.com
@@ -1161,6 +1153,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1186,6 +1179,7 @@ unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
+upcomingmonkeydolphin.com
 updatedbut.com
 uphegroaglah.com
 upr90.com
@@ -1211,7 +1205,9 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
+vertadnet.com
 vfuqivac.com
+vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
 virleth.com
@@ -1258,6 +1254,7 @@ wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
+wistfulbalmy.com
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1330,6 +1327,7 @@ zuqalzajno.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
+dolohen.com
 go.ad1data.com
 guihua-china.com
 k6r.net
