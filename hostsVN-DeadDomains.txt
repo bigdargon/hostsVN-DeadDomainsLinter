@@ -16,7 +16,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -26,6 +25,7 @@ aj2503.online
 ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
+jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
@@ -172,7 +172,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
-adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
@@ -519,6 +518,8 @@ gaiwhouvile.com
 gaizoopi.net
 gbbqyadej.com
 gboxrthnyezkx.com
+geephugagee.com
+gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 glaignicmo.com
@@ -594,7 +595,6 @@ hpdvgejc.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hubarejnbsobic.com
 hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
@@ -630,6 +630,7 @@ iytsnelqs.com
 izleskulked.shop
 jadeitite.com
 jaumevie.com
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
@@ -785,7 +786,6 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
-newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
@@ -1005,8 +1005,6 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
-rkvldurquedh.com
-rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -1100,6 +1098,7 @@ svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
 tagular.com
+tarsiusbaconic.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1295,6 +1294,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
+zintext.com
 zipazvzu.com
 zitauptajoumti.com
 zkuziwzzyf.com
