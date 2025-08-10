@@ -5,6 +5,7 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -74,14 +75,11 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -95,6 +93,7 @@ ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
@@ -311,6 +310,7 @@ bzwo2lmwioxa.com
 bzydilasq.com
 bzyfzusiqohk.com
 c.cdn-server.top
+calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
@@ -369,7 +369,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -414,7 +413,6 @@ doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
-downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
 ducksintroduce.com
@@ -482,7 +480,6 @@ fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
 fingahvf.top
-firmzecutci.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -590,6 +587,7 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
+hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
@@ -721,6 +719,7 @@ lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lpuodgmca.com
+lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lumpbackstage.com
@@ -807,6 +806,7 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obnoljac.com
+obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -856,7 +856,6 @@ orywrjsf.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -987,6 +986,7 @@ reflushneuma.com
 refraintupaiid.com
 regletsminings.shop
 relievedgeoff.com
+remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
@@ -1016,6 +1016,7 @@ rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
+ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
@@ -1131,6 +1132,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1220,7 +1222,6 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
@@ -1260,8 +1261,6 @@ xkesalwueyz.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
-xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
