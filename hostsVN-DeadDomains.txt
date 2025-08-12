@@ -24,7 +24,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 brand.ad
-a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
@@ -167,9 +166,7 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
-ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -190,6 +187,7 @@ ailtashoackie.com
 aimaniape.club
 ajggirci.com
 ajghtafutjt.com
+ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
@@ -346,6 +344,7 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clckysudks.com
+clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -438,6 +437,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 elitetoplist.com
 emhnyqdeuwtnrh.com
 encloselavanga.com
@@ -554,7 +554,6 @@ grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
-guhalxqa.com
 guhomnfuzq.com
 guvnatar.com
 gvsnhzmjr.com
@@ -766,7 +765,6 @@ mkysuerau.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
-moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -891,7 +889,6 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1140,7 +1137,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tospointor.com
-total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -1232,7 +1228,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wellmadefrog.com
 weuppwrlcper.com
-wfuhkyardawh.com
 wheensamufouk.net
 whoonseepoutche.net
 whoostoo.net
@@ -1247,7 +1242,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1327,3 +1321,4 @@ guihua-china.com
 k6r.net
 q2melbourne.com
 tracking.news360.store
+yoursitestatstube.ru
