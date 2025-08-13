@@ -1,4 +1,3 @@
-advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -57,6 +56,7 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
+www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -90,7 +90,6 @@ loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -330,7 +329,6 @@ calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
-canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
@@ -361,7 +359,6 @@ cjbmanagement.com
 claroadsclick.com
 clckysudks.com
 clickadin.com
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -483,7 +480,6 @@ facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagywalu.pro
-faisaphoofa.net
 faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
@@ -778,7 +774,6 @@ mfajfikmyqan.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
-mingledventin.com
 missitzantiot.com
 mkysuerau.com
 mobbersinwalls.com
@@ -812,6 +807,7 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
+news-central.org
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1044,6 +1040,7 @@ romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
+rsalcch.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
@@ -1183,7 +1180,6 @@ ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unphionetor.com
-unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
@@ -1262,7 +1258,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1296,6 +1291,7 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
+xumamropnox.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1323,7 +1319,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
-zijaipse.com
 zintext.com
 zipazvzu.com
 zitauptajoumti.com
