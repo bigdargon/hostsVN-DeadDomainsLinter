@@ -20,6 +20,7 @@
 247appbank.com
 247bank-ing.com
 247napas.com
+247vi-bank.com
 24h.c0m.ltd
 24plexus.com
 2phutkiemtien.com
@@ -185,6 +186,7 @@ bankvn1s.com
 banthang.me
 bao-moi.pro
 baohanhdienmayxanhvn.com
+baohiemxahoi.vnagov.com
 baosaoviet24h.net
 baothanhnien.top
 baotienphong.net
@@ -619,7 +621,6 @@ fr121102201eur.click
 fr121102207.click
 fr121102208eur.click
 fr121102209eur.click
-fr131102202eur.click
 fr131102203eur.click
 fr131102204eur.click
 fr131102205eur.click
@@ -656,7 +657,6 @@ gareena.vn
 garena-ff-membershipvn.com
 garena-ff.membershipsvn.com
 garena-ffmenbership.com
-garena-freefire-memberships.com
 garena-lienquanmobile-vn.com
 garena-lienquanvn-giftcode.com
 garena-members.com
@@ -1747,7 +1747,9 @@ playtogethervietnam.com
 playtogethervn-napthe.com
 policeonline.club
 popvietnam.xyz
+pos-quettheonline.com
 postindungnhanh-vn.com
+postvay.com
 pouy99uo.com
 pqrm9.com
 premierebankstandard.com
@@ -1866,7 +1868,6 @@ rikmomo.me
 riobank.asia
 riotgame-khoataikhoan-vn.xyz
 rocktrustbank.com
-royalshop2021.shop
 rutientuthetindung.com
 rutientuthetindung5s.com
 rutkimcuong24h.com
@@ -2060,9 +2061,7 @@ shopee.lienkettaikhoannhanquatang.online
 shopee.maquatang.vn
 shopee.nhanqua.online
 shopee.org.in
-shopee.quatang-sinhnhat.vn
 shopee.sootoou.com
-shopee.vn-cskh.online
 shopee.vn-lk.shop
 shopee004.vip
 shopee1.org
@@ -2175,6 +2174,7 @@ shopfreefire137.com
 shopfunyff.com
 shopgamefo4.com
 shopgamelienminh.com
+shopgamelq.com
 shopgamelq247.com
 shopgamepubg.com
 shopgamere.com
@@ -2579,7 +2579,6 @@ thisinhthanhlich.cf
 thisinhthanhlich.com
 thisinhthanhlich2022.com
 thisinhthanhlich2024.com
-thongtincutru.org
 thongtindancu.org
 thongtindonhang.com
 thpthuynhthuckhang.edu.vn
@@ -2782,7 +2781,6 @@ tpbxnk.com
 tpmoney.xyz
 tpviet38.com
 tpviet68.com
-tqmwqfh.yo-bc.de
 tracuu-thongtin.online
 tracuu-thongtin.site
 tracuugiaodichvi.com
@@ -3106,7 +3104,6 @@ vib.chamsockhachang-tructuyen-the.online
 vib.chamsockhachang-tructuyen.online
 vib.chamsockhachhang-tructuyen-the-visa.com
 vib.chamsockhachhang-tructuyenuudaithe.online
-vib.chamsockhachhang-uudai-tructuyenthe.com
 vib.chamsockhachhangtheuudai-tructuyen.com.vn
 vib.chamsocthekhachang-tructuyen.com.vn
 vib.chamsocuudaithekhachhang-tructuyen.com
@@ -3201,7 +3198,6 @@ vietcredit9.com
 vietcredits.com
 vietel.online
 vietelshop.online
-vietflix.vn
 vietgcv.cc
 vietgov0.cc
 vietgov22.cc
@@ -3467,8 +3463,11 @@ vnshop37.com
 vnshop42.com
 vnshop4988.com
 vnshop628.com
+vnshop728.com
 vnshop752.com
 vnshop864.com
+vnshop925.com
+vnshop93.com
 vnshop965.com
 vnshopee.vip
 vnsshoppe.com
@@ -3608,6 +3607,7 @@ vstvst9toc.com
 vtdpgbank.com
 vtipshop.today
 vtv24.pro
+vtvay.com
 vuabem.com
 vuacltxmomo.net
 vuamomo.com
