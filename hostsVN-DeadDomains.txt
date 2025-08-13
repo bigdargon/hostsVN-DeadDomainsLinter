@@ -33,9 +33,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
@@ -51,6 +48,7 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 zetadeo.com
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -154,7 +152,6 @@ log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
-0redird.com
 1slms.com
 228tuchuang.com
 2433march2024.com
@@ -191,6 +188,7 @@ ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
+adserver.ngz-network.de
 adserver.quizdingo.com
 adsmogo.org
 adsrveys.com
@@ -225,7 +223,6 @@ allodsubussu.com
 allstarmediagroup.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -305,6 +302,7 @@ berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
 betmagnezonea.com
+bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
@@ -454,7 +452,6 @@ dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
-eechuraubsaud.com
 efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
@@ -604,10 +601,11 @@ heardsoppy.com
 heenojouwofoupt.com
 heraldet.com
 heukpiroot.com
+hewokhn.com
+hhuajhdidxut.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
-hivaqfofkche.com
 hjbtunmh.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -780,6 +778,7 @@ mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+megacash.de
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
@@ -792,6 +791,7 @@ mkysuerau.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -855,6 +855,7 @@ odfsmijima.com
 odqdkealzr.com
 oewabox.at
 offgalvantulaom.com
+offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -916,6 +917,7 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -949,6 +951,7 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+popuptraffic.com
 potencyissuedflashlight.com
 pramviable.com
 pranavafolksey.com
@@ -1123,7 +1126,6 @@ stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
-stormyachiever.com
 stunninglover.com
 subheroalgores.com
 sujjkoshod.com
@@ -1170,6 +1172,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1224,6 +1227,7 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 vfurwydryli.com
+view4cash.de
 vikawjobtar.com
 vipicmou.net
 virleth.com
@@ -1276,7 +1280,6 @@ wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woomerapapacy.shop
 wormslitty.top
@@ -1349,5 +1352,4 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-tracking.news360.store
 yoursitestatstube.ru
