@@ -1,4 +1,4 @@
-# Version: 2508121532
+# Version: 2508131020
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -52207,6 +52207,7 @@
 ||betvdm.com^
 ||betvegas527.com^
 ||betvie.com^
+||betvip.center^
 ||betvisa.com^
 ||betvisa.dog^
 ||betvisa.info^
