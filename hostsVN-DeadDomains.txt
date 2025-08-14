@@ -117,6 +117,7 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -145,7 +146,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -216,6 +216,7 @@ ads2.net-communities.co.uk
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -319,6 +320,7 @@ beabsolom.com
 becketsbesogne.top
 bedaoibe.com
 beefoaloode.net
+beklefkiom.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
@@ -596,6 +598,8 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
+grooksom.com
+groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
@@ -756,7 +760,6 @@ lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
 leadingedgecash.com
-leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
@@ -771,6 +774,7 @@ link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
+llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loftsbaacad.com
@@ -943,7 +947,6 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -959,7 +962,6 @@ petiteumbrella.com
 pgjt26tsm.com
 phamsacm.net
 phaubsunsi.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1257,7 +1259,6 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 vfurwydryli.com
-view4cash.de
 vikawjobtar.com
 vipicmou.net
 virleth.com
