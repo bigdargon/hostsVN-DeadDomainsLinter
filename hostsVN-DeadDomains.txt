@@ -40,12 +40,6 @@ aj2142.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 cdn.bidfilter.com
@@ -146,6 +140,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -158,8 +153,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ads.seovietnam.pro
 bloggiamgia.info
 crocopop.com
@@ -167,7 +160,6 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-alexajstrack.com
 analytics.amedigital.vn
 log.baobackan.com.vn
 track.winigroup.vn
@@ -191,7 +183,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4hfchest5kdnfnut.com
 aabtrrnspgtdi.com
 abbalgapb.com
-abbvagoz.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -216,7 +207,6 @@ ads2.net-communities.co.uk
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -249,7 +239,6 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -706,7 +695,6 @@ jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
-joopaish.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -728,7 +716,6 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
-kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -760,6 +747,7 @@ lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
 leadingedgecash.com
+leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
@@ -962,6 +950,7 @@ petiteumbrella.com
 pgjt26tsm.com
 phamsacm.net
 phaubsunsi.com
+phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1018,7 +1007,6 @@ pwysruffoza.com
 pzshzhja.com
 qahntenkyf.com
 qainfcnvfensl.site
-qakzfubfozaj.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1302,7 +1290,6 @@ whuwoawain.com
 wibtntmvox.com
 widespace.com
 wijwunrcoo.com
-wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -1369,6 +1356,7 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
+zijaipse.com
 zintext.com
 zipazvzu.com
 zitauptajoumti.com
