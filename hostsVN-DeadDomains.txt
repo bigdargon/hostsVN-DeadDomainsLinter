@@ -4,7 +4,6 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -141,7 +140,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -204,6 +202,7 @@ aczopdxfy.com
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -218,9 +217,9 @@ ads2.net-communities.co.uk
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adsrveys.com
+adwitserver.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -250,7 +249,6 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -307,7 +305,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
 bannermarkt.nl
@@ -372,6 +369,7 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -509,8 +507,6 @@ euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
-expressgutterlevers.com
-exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -569,7 +565,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -790,7 +785,6 @@ lpuodgmca.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lumpbackstage.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -831,8 +825,8 @@ mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
-msvobeuhec.com
 mt34iofvjay.com
+multilinkhost.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1021,7 +1015,6 @@ qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qavhivvcex.com
-qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1134,6 +1127,8 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slopeaota.com
+slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -1168,6 +1163,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
+tagmngrs.com
 tagular.com
 tarsiusbaconic.com
 tarybabottega.com
@@ -1204,12 +1200,14 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
 trustbummler.com
 tshfc.com
 tufoknaqzolp.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -1227,6 +1225,7 @@ ulrzovfukgkljw.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
 uphegroaglah.com
@@ -1266,7 +1265,6 @@ voakulophy.com
 voopsookie.net
 voosaivege.com
 voupsauk.com
-vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -1284,7 +1282,6 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
-wawhoufteedaksu.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1327,7 +1324,6 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
-xkesalwueyz.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -1369,6 +1365,7 @@ zipazvzu.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
