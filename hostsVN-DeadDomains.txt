@@ -107,8 +107,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -151,7 +149,6 @@ track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -253,7 +250,6 @@ allaqxoh.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 ancotvpaxoz.com
@@ -500,11 +496,13 @@ encloselavanga.com
 encodehelped.com
 encounterboastful.com
 entertainingeyes.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
+eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
@@ -618,13 +616,11 @@ gwyvusam.com
 gyfumobo.com
 gzefitkcep.com
 gzegwior.com
-h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 hasanjbam.com
-haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
@@ -678,8 +674,6 @@ instrumentsponge.com
 interndry.com
 intnotif.club
 inwraptsekane.com
-ipyefimivc.com
-irritateinformantmeddle.com
 iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
@@ -855,6 +849,7 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
+noerwe5gianfor19e4st.com
 noowhaumurauy.net
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1081,7 +1076,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-rockabox.co
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
@@ -1306,7 +1300,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1322,6 +1315,7 @@ wrestcut.com
 www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
+www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -1364,7 +1358,6 @@ yu225.com
 yummiergangue.shop
 zavawvsa.com
 zbwp6ghm.com
-zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
