@@ -4,6 +4,7 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -140,6 +141,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -167,7 +169,6 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 log.baobackan.com.vn
@@ -305,6 +306,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
 bannermarkt.nl
@@ -392,7 +394,6 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 claroadsclick.com
-clckysudks.com
 clickadin.com
 clkofafcbk.com
 clonesmesopic.com
@@ -452,7 +453,6 @@ dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
-dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -501,12 +501,13 @@ eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
-eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
+expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -785,6 +786,7 @@ lpuodgmca.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lumpbackstage.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -825,8 +827,8 @@ mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
+msvobeuhec.com
 mt34iofvjay.com
-multilinkhost.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -959,7 +961,6 @@ phaubsunsi.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
-phoucmiwashook.com
 pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
@@ -1015,6 +1016,7 @@ qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qavhivvcex.com
+qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1042,7 +1044,6 @@ radxabsah.com
 ranking-liste.de
 raphanysteers.com
 rbkhpjfwtmirk.com
-rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
 receptiveink.com
@@ -1153,7 +1154,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
-stunninglover.com
 subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -1163,7 +1163,6 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
-tagmngrs.com
 tagular.com
 tarsiusbaconic.com
 tarybabottega.com
@@ -1180,7 +1179,6 @@ thedevband.com
 theedreemteedro.com
 theekedgleamed.com
 thhwzyuktk.com
-thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -1200,7 +1198,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1232,7 +1229,6 @@ uphegroaglah.com
 upr90.com
 upset-project.com
 upspinarakor.com
-uqkcroib.com
 urigagxnji.com
 usounoul.com
 uuomdlaslopcrx.com
@@ -1254,6 +1250,7 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 vfurwydryli.com
+view4cash.de
 vikawjobtar.com
 vipicmou.net
 virleth.com
@@ -1265,6 +1262,7 @@ voakulophy.com
 voopsookie.net
 voosaivege.com
 voupsauk.com
+vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -1282,6 +1280,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1316,14 +1315,13 @@ www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
-www.xumamropnox.com
-wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
+xkesalwueyz.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
