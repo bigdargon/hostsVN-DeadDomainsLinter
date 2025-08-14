@@ -1,8 +1,5 @@
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
@@ -33,7 +30,6 @@ zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
-aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -68,9 +64,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -205,6 +198,7 @@ ads2.net-communities.co.uk
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -383,7 +377,6 @@ claroadsclick.com
 clckysudks.com
 clickadin.com
 clkofafcbk.com
-clodderpickmaw.com
 clonesmesopic.com
 cnt.spbland.ru
 coacoalaum.com
@@ -406,6 +399,7 @@ cpykudhagov.com
 crepedzincite.top
 croniesobli.com
 crumbrationally.com
+crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
@@ -608,6 +602,7 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 hasanjbam.com
+haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
@@ -620,6 +615,7 @@ hewokhn.com
 hhuajhdidxut.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hmazuxhikosj.com
@@ -673,6 +669,7 @@ izleskulked.shop
 jadeitite.com
 jaumevie.com
 jerboasjourney.com
+jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
@@ -804,7 +801,6 @@ mkysuerau.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
-moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -935,7 +931,6 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
-patro-sfe.com
 pc2ads.com
 pcmclk.com
 pefsustazvzgop.com
@@ -947,6 +942,7 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
+pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
@@ -1084,7 +1080,6 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scenescrockery.com
-schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
@@ -1268,7 +1263,6 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
-wcuamsmakq.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
