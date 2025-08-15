@@ -1,4 +1,9 @@
+medialytics.com
 a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -26,11 +31,11 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
+aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -88,6 +93,10 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -140,7 +149,9 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+ad.chieuhoa.com
 ads.seovietnam.pro
+ak9.6895588.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -183,7 +194,6 @@ adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -191,6 +201,7 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
+ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserver.quizdingo.com
@@ -243,6 +254,7 @@ apxszeaj.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
+armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
@@ -337,7 +349,6 @@ bzwo2lmwioxa.com
 bzydilasq.com
 bzyfzusiqohk.com
 c.cdn-server.top
-caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -395,6 +406,7 @@ cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -498,10 +510,6 @@ fagywalu.pro
 faisaphoofa.net
 faqlikbid.com
 farcivinage.shop
-faronqdkimah.com
-fashmuqpi.com
-faukeeshie.com
-fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
 feegritoapoo.com
@@ -512,8 +520,10 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
+fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -543,8 +553,8 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
-gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -557,7 +567,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
@@ -569,6 +578,7 @@ gpfvumsxtbf.com
 gralossortoob.net
 grandioseguide.com
 greatlove.pro
+greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -583,6 +593,7 @@ grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
+guhalxqa.com
 guhomnfuzq.com
 guvnatar.com
 gvsnhzmjr.com
@@ -628,9 +639,9 @@ hubarejnbsobic.com
 hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
+hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -701,7 +712,6 @@ kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
-kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
@@ -735,6 +745,7 @@ lassampy.com
 lbmqciazrpm.com
 leadingedgecash.com
 leestoptee.com
+leetmenllew.com
 lephaush.net
 lessemujust.live
 lfalfehuq.com
@@ -798,7 +809,6 @@ mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
-morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
@@ -811,6 +821,7 @@ mwejhobumo.com
 mwekuzaj.com
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -1017,7 +1028,6 @@ qwykgrylxyl.com
 qxadsk.com
 qzyztuwulo.com
 radxabsah.com
-rankchamp.de
 ranking-liste.de
 raphanysteers.com
 rbkhpjfwtmirk.com
@@ -1100,7 +1110,6 @@ simojkhtia.com
 simpliftsbefore.info
 sitegoto.com
 sjvaovqhn.com
-skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slopeaota.com
@@ -1135,7 +1144,6 @@ subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
 supapush.net
-surtaultathoado.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -1164,7 +1172,6 @@ thoungoofeed.net
 thounookra.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tilqwekuszfa.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -1176,8 +1183,10 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 troubledcontradiction.com
 trustbummler.com
 tshfc.com
@@ -1229,10 +1238,10 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 vfurwydryli.com
-view4cash.de
 vikawjobtar.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
@@ -1240,6 +1249,7 @@ vnwtjgaqlsui.com
 voakulophy.com
 voopsookie.net
 voosaivege.com
+voredi.com
 voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -1265,6 +1275,7 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+wholesaletraffic.info
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
