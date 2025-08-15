@@ -20,15 +20,8 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
+panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -67,6 +60,7 @@ ytvpaid.adxoo.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
+click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
@@ -174,7 +168,6 @@ abbalgapb.com
 abbvagoz.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abyocawlfe.com
 achieverknee.com
 aczopdxfy.com
@@ -182,7 +175,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adkchtmtns.com
-adlite.net
 admedia.network
 adprojekt.pl
 ads.bumq.com
@@ -198,7 +190,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -239,6 +230,7 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
+apdozzbkyasc.com
 api.ampiri.com
 apxszeaj.com
 aqncinxrexa.com
@@ -368,12 +360,12 @@ chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
-cigdizwu.com
 circularnothing.com
 civadsoo.net
 claroadsclick.com
 clckysudks.com
 clickadin.com
+clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -439,7 +431,9 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
+dizbirmwavic.com
 dk4ywix.com
+dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
@@ -680,7 +674,6 @@ jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
-joopaish.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -765,8 +758,6 @@ lpuodgmca.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lumpbackstage.com
-luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -917,6 +908,7 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
+ozbnagojbop.com
 ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
@@ -933,6 +925,7 @@ pcmclk.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
+phamsacm.net
 phaubsunsi.com
 phocmogo.com
 phoompoukoaltin.net
@@ -973,7 +966,6 @@ ptoahaistais.com
 ptoushoa.com
 ptukasti.com
 ptumsess.com
-ptuxapow.com
 ptuzrywmega.com
 ptygunjk.com
 pu4.biz
@@ -1027,6 +1019,7 @@ realizeparish.com
 receptiveink.com
 recoverystabilizevarmint.com
 reecegrita.com
+reflushneuma.com
 refraintupaiid.com
 regletsminings.shop
 relievedgeoff.com
@@ -1097,7 +1090,6 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 simpliftsbefore.info
-sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
