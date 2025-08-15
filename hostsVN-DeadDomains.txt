@@ -42,7 +42,6 @@ ajxx91.online
 fadskiz.com
 gadskis.com
 madsecz.com
-advinci.net
 count.advinci.net
 www.advinci.net
 mobytrks.com
@@ -78,6 +77,7 @@ images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
+www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
@@ -109,6 +109,9 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -191,7 +194,6 @@ adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
-adprojekt.pl
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -215,7 +217,6 @@ africaewgrhdtb.com
 agapios-gla.com
 agghriwaz.com
 agtamzsm.com
-agxoxnyum.com
 ahkapsalz.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -392,7 +393,6 @@ coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
-compatriotelephant.com
 conformfavoredgauging.com
 consciouschairs.com
 constructpoll.com
@@ -402,6 +402,7 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 crepedzincite.top
 croniesobli.com
 crumbrationally.com
@@ -935,7 +936,6 @@ ozxakfawm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
 pc2ads.com
@@ -1003,7 +1003,6 @@ pzshzhja.com
 qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
-qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
