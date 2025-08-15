@@ -24,7 +24,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
@@ -57,7 +56,9 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -66,7 +67,6 @@ ytvpaid.adxoo.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
-click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
@@ -239,7 +239,6 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
-apdozzbkyasc.com
 api.ampiri.com
 apxszeaj.com
 aqncinxrexa.com
@@ -372,6 +371,7 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+claroadsclick.com
 clckysudks.com
 clickadin.com
 clkofafcbk.com
@@ -439,9 +439,7 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
-dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
@@ -498,6 +496,7 @@ fafmimgubcm.com
 fagywalu.pro
 faisaphoofa.net
 faqlikbid.com
+farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 faukeeshie.com
@@ -826,7 +825,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -879,6 +877,7 @@ olxxugltoku.com
 omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
+on-mobi.com
 onclasrv.com
 oneegrou.net
 onmarshtompor.com
@@ -918,7 +917,6 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
@@ -935,7 +933,6 @@ pcmclk.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-phamsacm.net
 phaubsunsi.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1030,7 +1027,6 @@ realizeparish.com
 receptiveink.com
 recoverystabilizevarmint.com
 reecegrita.com
-reflushneuma.com
 refraintupaiid.com
 regletsminings.shop
 relievedgeoff.com
@@ -1061,6 +1057,7 @@ rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
+rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
@@ -1282,6 +1279,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
@@ -1325,6 +1323,7 @@ yeljusxttq.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
