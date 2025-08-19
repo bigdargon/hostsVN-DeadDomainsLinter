@@ -1,4 +1,4 @@
-# Version: 2508131020
+# Version: 2508191416
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -1435,6 +1435,7 @@
 ||kxtmstjs.org^
 ||kyaj11.com^
 ||l-fb.co^
+||l-i.me^
 ||l-j.me^
 ||la533.com^
 ||la5959.com^
@@ -3149,6 +3150,7 @@
 ||ssvnshop.com^
 ||standardresourcebank.com^
 ||starbucksthai.shop^
+||state-bank.vercel.app^
 ||statediting.live^
 ||stbuyshopoui.com^
 ||stcard-vib.com^
