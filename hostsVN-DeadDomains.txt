@@ -58,6 +58,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -92,11 +93,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -156,9 +152,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
-adx.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -174,10 +167,10 @@ wataads.com
 ad.chieuhoa.com
 ads.seovietnam.pro
 ak9.6895588.com
-bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -316,6 +309,7 @@ azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 baccytorve.com
+backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
@@ -443,7 +437,6 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapper.net
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
@@ -462,7 +455,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 dependpinch.com
-despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -476,7 +468,6 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
@@ -549,6 +540,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -583,6 +575,7 @@ gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -639,6 +632,7 @@ haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
+hcilralhi.com
 heardsoppy.com
 heenojouwofoupt.com
 heraldet.com
@@ -667,6 +661,7 @@ hurarwjrirti.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -722,6 +717,7 @@ jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -817,6 +813,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mathcountryside.com
 mawptuaz.com
 maximumcash.com
 mazbfiladr.com
@@ -950,6 +947,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owvobdogd.com
+owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
@@ -960,13 +958,13 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
-paypopup.com
 pc2ads.com
 pcmclk.com
 pefsustazvzgop.com
@@ -1143,13 +1141,16 @@ simpliftsbefore.info
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
+slickaffiliate.com
 sljtqfcyi.com
+slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
+snxewpxrhegslq.com
 soaperdeils.com
 soliads.net
 solibothnic.qpon
