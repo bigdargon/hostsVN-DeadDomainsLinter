@@ -1,14 +1,9 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -52,8 +47,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 zetadeo.com
-ei.imstks.com
-i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -80,6 +73,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -115,7 +109,6 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
-ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
@@ -295,9 +288,9 @@ avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axillovely.com
+axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
-azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -309,6 +302,7 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 banner.mindshare.de
+bannermarkt.nl
 baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
@@ -430,7 +424,6 @@ dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
-daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
@@ -627,7 +620,6 @@ heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -650,7 +642,6 @@ hurarwjrirti.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -742,8 +733,6 @@ kqalbhgnd.com
 kraapmanmb.com
 ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
-kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
@@ -808,7 +797,6 @@ mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-megacash.de
 meowpushnot.com
 metahv.xyz
 mfajfikmyqan.com
@@ -817,6 +805,7 @@ mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
+missitzantiot.com
 mkysuerau.com
 mobbersinwalls.com
 mobisla.com
@@ -833,6 +822,8 @@ mt34iofvjay.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
+mwekuzaj.com
+mybestmv.com
 mylwwuqdhidkmx.com
 naishoochoh.com
 namol.xyz
@@ -944,7 +935,6 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -979,6 +969,7 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+popuptraffic.com
 potencyissuedflashlight.com
 pouhoshootake.net
 pramviable.com
@@ -992,6 +983,7 @@ providingcrechepartnership.com
 psausuck.net
 psipausaix.net
 pteemsolrirgegi.com
+ptewarin.net
 ptoahaistais.com
 ptoushoa.com
 ptukasti.com
@@ -1067,7 +1059,6 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1102,7 +1093,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
-sendmepixel.com
+seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
@@ -1110,6 +1101,7 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 sheesoah.net
+shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -1156,7 +1148,6 @@ stunninglover.com
 subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
-supapush.net
 surtaultathoado.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -1287,7 +1278,6 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
-webpower.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1311,7 +1301,6 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
-woomerapapacy.shop
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1319,6 +1308,7 @@ wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
 www.pcmclk.com
+www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
