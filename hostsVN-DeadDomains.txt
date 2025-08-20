@@ -10,6 +10,10 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+ad.kau.li
+analytics.kau.li
+pixel.kau.li
+rtb.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -24,12 +28,16 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+partners.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
+madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -47,6 +55,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -56,6 +65,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+pgmcdn.com
 delivery.adsterra.org
 anymad.com
 cdn.anymad.com
@@ -118,6 +128,7 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+aj2566.bid
 aj2578.bid
 aj2581.bid
 aj2582.bid
@@ -126,6 +137,9 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
 cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
@@ -133,6 +147,7 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+k8s2.testcentre.vn
 adx.vn
 mautic.educe.vn
 customers.fptad.com
@@ -156,7 +171,6 @@ imgcdnbet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
-alexajstrack.com
 analytics.amedigital.vn
 log.baobackan.com.vn
 track.winigroup.vn
@@ -249,9 +263,9 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+api.ampiri.com
 apxszeaj.com
 aqncinxrexa.com
-areamindless.com
 aries-nbl.com
 armfullitigateslate.com
 armoursviolino.com
@@ -282,7 +296,6 @@ awwagqorqpty.com
 axillovely.com
 axiomaticalley.com
 axkwmsivme.com
-axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -380,6 +393,7 @@ civadsoo.net
 claroadsclick.com
 clkofafcbk.com
 clonesmesopic.com
+cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coawujobups.com
@@ -404,6 +418,7 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cyjprljyvgqeg.com
@@ -493,7 +508,6 @@ exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
 exterminateantique.com
-exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -540,6 +554,7 @@ fudukrujoa.com
 futcceabr.com
 futuristicfairies.com
 fuwalrnce.com
+fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
@@ -612,7 +627,6 @@ heenojouwofoupt.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
-hhuajhdidxut.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -750,7 +764,6 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 lingamretene.com
-link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -941,6 +954,7 @@ pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phamsacm.net
+phaubsunsi.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -949,6 +963,7 @@ pieceredirect.com
 pienbitore.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
@@ -958,8 +973,10 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+popuptraffic.com
 potencyissuedflashlight.com
 pouhoshootake.net
 pramviable.com
@@ -1033,6 +1050,7 @@ reecegrita.com
 reflushneuma.com
 refraintupaiid.com
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1117,6 +1135,7 @@ smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
+soaperdeils.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1160,7 +1179,6 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 theekedgleamed.com
-thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thootipheguph.com
@@ -1182,6 +1200,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 troubledcontradiction.com
 trustbummler.com
 tshfc.com
@@ -1239,6 +1258,7 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 vivvuvkra.com
+vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
 vnwtjgaqlsui.com
@@ -1280,6 +1300,7 @@ whuwoawain.com
 wibtntmvox.com
 widespace.com
 wijwunrcoo.com
+wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -1362,6 +1383,7 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
+showbiz.owndata.network
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
