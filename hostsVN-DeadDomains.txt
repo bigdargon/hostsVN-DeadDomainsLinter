@@ -11,6 +11,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 adthor.com
 api.adthor.com
+image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -35,7 +36,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -121,6 +121,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
@@ -164,7 +165,6 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 ads.seovietnam.pro
-ak9.6895588.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -581,7 +581,6 @@ gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
-gloalrie.com
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -591,7 +590,6 @@ go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
-gouthoat.com
 gpfvumsxtbf.com
 gralossortoob.net
 grandioseguide.com
@@ -637,6 +635,7 @@ heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -950,6 +949,7 @@ oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
+ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
 ozongees.com
@@ -1147,6 +1147,7 @@ smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
+soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
@@ -1187,6 +1188,7 @@ thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
+theekedgleamed.com
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -1226,6 +1228,7 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1302,7 +1305,6 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
-whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
@@ -1315,7 +1317,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
