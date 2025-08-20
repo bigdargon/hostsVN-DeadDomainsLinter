@@ -150,7 +150,6 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -282,7 +281,6 @@ chientich-sinhnhat-lienquanvn.gq
 chientich-sinhnhatlienquangarenavn.ml
 chinhphu.cc
 chinhphu.dulieucutru.org
-chinhphu.hodancu.com
 chinhphu.thongtincutru.org
 chovayfecredit.com
 chovaytiengopsg.com
@@ -294,6 +292,7 @@ citi-vietnam.com
 citivay.org
 cl247.me
 clb.vin
+cliphott.io.vn
 clmm.pe
 clmm.tv
 clmm1.tv
@@ -757,6 +756,7 @@ goshopee.club
 goshopee.net
 goshopee.vip
 govn.cc
+gpay-mpos-ruttientindung.com
 gpay247-mp0s-quetthetindung.com
 gplxgovn.vn
 greatvay.xyz
@@ -1207,7 +1207,6 @@ luuvanquang.com
 lvietcombank.com
 lzd2024.com
 m-facebook.com.vn
-m-fb.com
 m-fb.site
 m.1svi101.com
 m.5u1io.com
@@ -1260,7 +1259,6 @@ mbtk-bank.com
 mcfa11.com
 mcnodes.zapto.org
 mcredit.vaynhanh-bankcredits.com
-me-fb.site
 meetamate.site
 member-gaarena.com
 member-garena-lienquan.com
@@ -1576,6 +1574,8 @@ napthesukien.ml
 napthesukienlqmb.com
 napthetc.com
 napthetogether.ga
+napthetrian.com
+napthevalorant.com
 napthevn.online
 napthex10.net
 napthex3.com
@@ -1610,7 +1610,6 @@ new-vietcombank.com
 new-vietcombank.info
 new-vietcombank.net
 newlazada.com
-nexpay-ruttientindung.com
 nextpay-mposruttientindung.com
 nextpay-quettindung.com
 ngandong.com
@@ -1711,12 +1710,10 @@ p63899vn.com
 pagelazada.com
 panyruld.cfd
 paylienquan.club
-payon-rutienmat5.com
 payon-ruttiennhanh5.com
 petrovietnam.pro
 petrovietnam.top
 pgbank.info
-phanmem333.com
 phanmemcrackaz.com
 phanmemgiamsat.top
 phanmemgiare.club
@@ -2013,6 +2010,8 @@ shop3737.com
 shop5353.com
 shop5599.com
 shop5t.com
+shop6886.com
+shop7759.com
 shop777.vn
 shop80pot.com
 shop849.com
@@ -2147,6 +2146,7 @@ shopeetro.club
 shopeetro.shop
 shopeetro.xyz
 shopeetuyendung.com
+shopeetx.com
 shopeev.com
 shopeev.net
 shopeev.vip
@@ -2343,7 +2343,6 @@ sieuthivemaybaygiare.com
 simpliftsbefore.info
 sindtex.shop
 skhf11.com
-skhf66.com
 smrtbbdv.com
 smrtbbidv.com
 smrtbiiddv.com
@@ -2512,6 +2511,7 @@ tangqua01vn.com
 taokhienfacebook.com
 taoshop1s.com
 taoshopfreefire.vn
+taoshopsieure.net
 taoshopttv.xyz
 targeet.shop
 targget.shop
@@ -2942,6 +2942,7 @@ vay247.xyz
 vay247h.vn
 vay247nhanh.com
 vay24h-doctordong.com
+vay24h.click
 vayagribank.online
 vayasieutoc.com
 vaycreditone.fun
@@ -3039,7 +3040,6 @@ vaytieudungtinchaptpbank.com
 vaytieudungvpcredit.com
 vaytinchap-nganhangvcb247.com
 vaytinchap-shinhan.com
-vaytinchap-shinhanbank247.online
 vaytinchap-tpbank-hanoi.xyz
 vaytinchap-tpbank.xyz
 vaytinchapcanhan.online
@@ -3133,7 +3133,6 @@ vidientu.beauty
 vidientu247s.com
 vidientu24h.com
 vidientunganhangso247.com
-vidientusp.vn
 vidientutrangtructuyen247.com
 vidientuvietnam247.com
 vie-tcapital.com
@@ -3352,7 +3351,6 @@ vn-ebayn.vip
 vn-eid.com
 vn-email.shop
 vn-express.net
-vn-hc.info
 vn-ibank.info
 vn-in.shop
 vn-iy.info
@@ -3583,7 +3581,6 @@ vpbban.com
 vpbbank.com
 vpbsvn.com
 vps8449vn.com
-vrichshop.com
 vssid.svgov.cc
 vssidgov.com
 vstvst10toc.com
