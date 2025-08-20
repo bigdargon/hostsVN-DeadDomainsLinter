@@ -158,8 +158,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
-ff.imacdn.com
-sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -312,6 +310,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
@@ -382,6 +381,7 @@ charming-people.com
 chelonebarpost.com
 chertouz.net
 chiamfxz.com
+chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chippedaugur.com
@@ -458,6 +458,7 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
@@ -577,6 +578,7 @@ gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
+gloalrie.com
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -632,6 +634,7 @@ heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -791,6 +794,7 @@ lryofjrfogp.com
 lstalwryflhourf.com
 lumpbackstage.com
 luzongixoo.net
+lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -948,6 +952,7 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1025,8 +1030,8 @@ qfeadpmagq.com
 qipshozipsah.com
 qiptamcupl.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
 qmixnhyxc.com
-qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1147,7 +1152,6 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spyokjoxdl.com
-spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -1311,6 +1315,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1379,7 +1384,6 @@ zkuziwzzyf.com
 zkyqafavdg.com
 zkyrzoqc.com
 zmalalxt.com
-zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
