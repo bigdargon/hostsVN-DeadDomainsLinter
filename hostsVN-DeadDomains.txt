@@ -100,10 +100,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -132,7 +128,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aj101.xyz
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -210,6 +205,7 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
+adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
@@ -270,6 +266,7 @@ asslfeqadv.com
 ataccwpdiqqnfl.com
 atonementwisely.com
 atrochaxctl.shop
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -505,6 +502,7 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
+fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 faqlikbid.com
@@ -629,6 +627,7 @@ hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
 hoddlegamey.com
+hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
 hrjbylofyso.com
@@ -746,7 +745,6 @@ lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
-leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -832,6 +830,7 @@ naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastinessreplicaupload.com
+nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 ncaxvlngll.com
@@ -954,6 +953,7 @@ phamsacm.net
 phaubsunsi.com
 phocmogo.com
 phoompoukoaltin.net
+photographpan.com
 phoucmiwashook.com
 pieceredirect.com
 pienbitore.com
@@ -1026,6 +1026,7 @@ qtspkqzn.com
 quaintcan.com
 quarterserver.de
 quenchskirmishcohere.com
+qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1058,6 +1059,7 @@ rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
+ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1262,6 +1264,7 @@ voosaivege.com
 voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
+vruaskogjsu.com
 vstvstsa.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -1291,12 +1294,10 @@ whugesto.net
 wibtntmvox.com
 widespace.com
 wijwunrcoo.com
-wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
