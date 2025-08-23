@@ -95,7 +95,6 @@ click.expmediadirect1.com
 expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -145,9 +144,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-upfile16.mediaphim.com
 analytics.amedigital.vn
-log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -182,6 +179,7 @@ ad-miner.com
 ad.foxnetworks.com
 adaftegloomto.com
 adigi.icu
+adkchtmtns.com
 adlite.net
 admedia.network
 adrastos-eli.com
@@ -267,7 +265,10 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awwagqorqpty.com
+axillovely.com
 axiomaticalley.com
+axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -411,6 +412,7 @@ defensive-bad.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
+deligrassdull.com
 deliriamorula.shop
 deloton.com
 demo123.info
@@ -555,7 +557,6 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
-gpfvumsxtbf.com
 gralossortoob.net
 grandioseguide.com
 greatlove.pro
@@ -597,7 +598,6 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 heenojouwofoupt.com
-heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
@@ -623,11 +623,11 @@ hurarwjrirti.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-idot.cz
 idyllteapots.com
 iiqbttkbfvgyo.com
 ilbanner.com
@@ -791,6 +791,7 @@ mingledventin.com
 missitzantiot.com
 mkysuerau.com
 mobbersinwalls.com
+mobday.com
 mobisla.com
 moodokay.com
 moomenog.com
@@ -1044,12 +1045,14 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+rockabox.co
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
@@ -1083,7 +1086,6 @@ sf960.com
 shakyseat.com
 shakytaste.com
 shareadspace.com
-sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1177,7 +1179,6 @@ tranquilside.com
 traovrjwu.com
 trendcounter.com
 troubledcontradiction.com
-trustbummler.com
 tshfc.com
 tufoknaqzolp.com
 twazzyoidwlfe.com
@@ -1297,7 +1298,6 @@ www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
 www.xumamropnox.com
-wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
@@ -1342,7 +1342,6 @@ yummiergangue.shop
 zavawvsa.com
 zbwp6ghm.com
 zeegreen.net
-zeepmedia.com
 zihcabtkic.com
 zintext.com
 zipazvzu.com
