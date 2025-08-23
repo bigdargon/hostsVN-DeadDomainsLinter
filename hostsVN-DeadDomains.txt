@@ -15,7 +15,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -50,9 +49,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -135,6 +131,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 log.baobackan.com.vn
@@ -249,6 +246,7 @@ aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
+auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avhkihpfabt.com
@@ -347,7 +345,6 @@ chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
-chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -456,7 +453,6 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -605,7 +601,6 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
@@ -688,6 +683,7 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
+kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
@@ -771,7 +767,6 @@ mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-megacash.de
 meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
@@ -1271,9 +1266,11 @@ wibtntmvox.com
 widespace.com
 wijwunrcoo.com
 wimswuppoxan.com
+windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
@@ -1288,7 +1285,6 @@ wrestcut.com
 www.claroadsclick.com
 www.money4exit.de
 www.pcmclk.com
-www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
