@@ -210,7 +210,6 @@ bitbank6699.com
 bitcoinship.net
 bitrueexchange.com
 bitsbankuk.com
-bluvenie.com
 bm1717.com
 bm3536.com
 bmoney2017.com
@@ -321,6 +320,8 @@ com.vn-hc.info
 com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
+com.vn-rn.biz
+com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -1137,6 +1138,7 @@ lienquan-sukienqua.com
 lienquan-vgarena.vn
 lienquan-vuihe2021.com
 lienquan.co
+lienquan.garena-vi.ga
 lienquan.garena-vn.store
 lienquan.garennavn.com
 lienquanches.com
@@ -1180,6 +1182,7 @@ long-thanh.com
 lookctv-vn.com
 looklazada.com
 lotomomo.com
+lotte.cm66llks.top
 lotte333.com
 lotte3333.com
 lotte66.com
@@ -1765,6 +1768,7 @@ qqwyihwm.thjen.tech
 qrsg11.com
 qtaqlbt.ciofgnm.co
 qua-tang.vn
+quaffvietnam.com
 quagameff-freefireffvn.com
 quahe-lienminh.ga
 qualienquan-trian.com
@@ -2127,7 +2131,6 @@ shopeeorg.com
 shopeep.vip
 shopeepe.com
 shopeepee.com
-shopeeplus.xyz
 shopeepv.com
 shopees.app
 shopeeshoppimg.com
@@ -2189,8 +2192,6 @@ shopinviskk.com
 shopj2k.com
 shopjindz.com
 shopjinff.tk
-shopkc247.com
-shopkcffx5.com
 shopkellygaming.net
 shopkellygaming.vn
 shoplazada.net
@@ -2394,7 +2395,6 @@ sukien-giftcoded-garena.com
 sukien-latquaff.com
 sukien-lienminh.com
 sukien-lienminhtocchien.site
-sukien-lienquanmobile.com
 sukien-lmht.com
 sukien-lq-garena.com
 sukien-nhanqua-garena.com
@@ -2511,7 +2511,6 @@ targeet.shop
 targget.shop
 tasker.shop
 tb55788.com
-tb55988.com
 tc-viet.click
 tcbcanhan.com
 tcvnhomefic.com
@@ -2562,6 +2561,7 @@ theipscanner.com
 thenapx10ff.com
 theopenpathology.click
 theritishind.cfd
+thetindung-online-vpb.com
 thetindung-online-vpb.online
 thetindung-online.com
 thevanghanhphuc.xyz
@@ -2838,6 +2838,8 @@ trumvang68.net
 trumvipmomo.com
 trungquatang.vn
 trungtam-baohanhdienmayxanh.com
+trungtam-cskh-vipham.com
+trungtam-dienmayxanh.com
 trungtamdienmayxanh.net
 trungtamgarena.com
 trungtammayxanh.com
@@ -3529,9 +3531,6 @@ vonsieuetoc.com
 vonsieuftoc.com
 vonsieugtoc.com
 vonsieuhtoc.com
-vonsieuitoc.com
-vonsieujtoc.com
-vonsieuktoc.com
 vonsieultoc.com
 vonsieumtoc.com
 vonsieuntoc.com
@@ -3597,8 +3596,6 @@ vstvst28toc.com
 vstvst29toc.com
 vstvst2toc.com
 vstvst30toc.com
-vstvst3toc.com
-vstvst4toc.com
 vstvst5toc.com
 vstvst6toc.com
 vstvst7toc.com
