@@ -65,8 +65,10 @@ acb.chamsockhachhang-uudai-tructuyen-thang10.com.vn
 acb.chamsockhachhang-uudaithetructuyen-thang10.com.vn
 acb.chamsockhachhang-uudaithetructuyen-thang8.online
 acb.chamsocthe-uudai-tructuyen-thang10.com.vn
+acb.chamsocthe-uudaikhachhang-thang10.com.vn
 acb.chamsocthe-uudaikhachhang-tructuyen.com
 acb.chamsocthe-uudaikhachhang.online
+acb.chamsocthe-uudaitructuyen.com.vn
 acb.uudaikhachhang-chamsocthetructuyen.com
 acb.uudaikhachhang-tructuyen-the.com.vn
 acb.uudaikhachhangthe-tructuyen-thang9.com.vn
@@ -259,8 +261,6 @@ chamsockhachhangnanghanmuctindungmsb.com
 chamsockhachhangtheuudai-tructuyen.com.vn
 chamsocthe-uudai-tructuyen-thang10.com.vn
 chamsocthe-uudaikhachhang-thang10.com.vn
-chamsocthe-uudaikhachhang-tructuyen.com
-chamsocthe-uudaikhachhang.com
 chamsocthe-uudaikhachhang.online
 chamsocthe-uudaitructuyen.com.vn
 chamsocthekhachang-truc-tuyen.com
@@ -442,7 +442,6 @@ dichvucong.govnx.com
 dichvucong.hgov.cc
 dichvucong.hgov.net
 dichvucong.hhghv.com
-dichvucong.hhlpa.com
 dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.snggov.com
@@ -557,7 +556,6 @@ expressmoney.cc
 facebook.c0m.ltd
 facebookk.life
 facebookvni.com
-fairu-chat.xyz
 fairu-endpoint.xyz
 fajiafu30.com
 fajiafu50.com
@@ -941,6 +939,7 @@ iplaytogethershop.com
 ipscanneronline.com
 ipscannershop.com
 irduwhojas.ga
+iruiotish.cfd
 isacambank.com
 isacembank.com
 isacombank.net
@@ -1115,7 +1114,6 @@ lazadaz17.com
 lazd8.com
 lazmail.com.vn
 lditsdebriisar.cfd
-lelong.shop
 letanggiai01.com
 letangqua2022.com
 letraoquavn.com
@@ -1409,6 +1407,7 @@ mpos-ruttientindungnhanh.com
 mpos-ruttindunguytinvn.com
 mprisesth.cfd
 mpvn-checkmoney6868payment.com
+msb.com.vn-sp.top
 msb.msbbsm.com
 msb.vn-cvs.xyz
 msb.vn-iy.life
@@ -1433,6 +1432,7 @@ muaso24h.store
 muathietke.com
 muatiengia.club
 muatiennhanh.com
+muatrian2022.com
 muc247-vidientu.com
 mucquanly247.com
 mucvi-dientu247.com
@@ -1501,7 +1501,6 @@ napgame247.tk
 napgameffnew.com
 napgamefreefire.vn
 napgamekm.com
-napgamelau.com
 napgamezing.com
 napgarena.vn
 napkame.com
@@ -2034,7 +2033,6 @@ shopbehantv.net
 shopbloxfruit.click
 shopcao10sao.com
 shopccv.pro
-shopchienthan.com
 shopclonegiare.site
 shopcocphuchoai.com
 shopcuade.com
@@ -2183,12 +2181,9 @@ shopgamelq.com
 shopgamelq247.com
 shopgamepubg.com
 shopgamere.com
-shopgarenavn.com
 shopgau.me
-shopgenshin247h.com
 shopgenshin360.com
 shopgo188.com
-shophapham.com
 shophedu.com
 shophoangkim.com
 shophocvien.vn
@@ -2214,7 +2209,6 @@ shopmall66.com
 shopmall68.com
 shopmall8.com
 shopmanhcf365.com
-shopmathuat.com
 shopmobaviet.net
 shopmsuong.shop
 shopnagaymeff.com
@@ -2361,6 +2355,7 @@ sonarsurveyof.cfd
 soppe68.com
 soppe68.shop
 sopper68.com
+sos-icloud.com
 sotuyenvcb.vietcombanker.com
 sp15569p.com
 sp1663p.com
@@ -2428,6 +2423,7 @@ sukienlienquan2022-garena.com
 sukienlienquan2022.com
 sukienlienquanmobile2021.com
 sukienlienquanthang8.com
+sukienlienquanvietnam.com
 sukienlienquanvn.net
 sukienlienquanvn2021.com
 sukienlmht.vn
@@ -2884,7 +2880,6 @@ tw-shopee.store
 twshopeee.top
 tx55.vip
 txclmomo.club
-ugvietnam.net
 uhy89mb.com
 ukzdcnzp.bdtrjklaz.de
 ullis-airbrush-shop.de
@@ -3379,7 +3374,6 @@ vn-nng.top
 vn-online.shop
 vn-quatang.online
 vn-quatang2022.online
-vn-rb.icu
 vn-rn.biz
 vn-sacombank.com
 vn-sbank.xyz
@@ -3602,6 +3596,7 @@ vstvst25toc.com
 vstvst26toc.com
 vstvst27toc.com
 vstvst28toc.com
+vstvst29toc.com
 vstvst2toc.com
 vstvst30toc.com
 vstvst3toc.com
@@ -3641,7 +3636,6 @@ webinfo-ebank.com
 weblenhangiaivn.com
 webnapgame.com
 webnapthegame.com
-webshopping.cc
 webtrianthang12.com
 webtrianvangthang12.com
 webtuanlocvang123.com
@@ -3723,6 +3717,7 @@ www.view-apple.com
 www.vn-scl.life
 www.vn-ub.info
 www.vn999mall.vip
+www.vnsendo.net
 www.vpbank.chamsockhachhang-uudai-the-truc-tuyen.online
 www.vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 xa38.xyz
