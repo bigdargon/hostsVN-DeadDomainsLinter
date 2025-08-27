@@ -19,6 +19,7 @@ aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
+aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -44,12 +45,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-dsp.adservme.com
-filter.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -106,6 +101,7 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -209,7 +205,9 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads.wedodemos.com
 ads2.net-communities.co.uk
+adsage.cn
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
@@ -248,7 +246,6 @@ alzfaklcuzc.com
 ambulanceappealingrut.com
 ancotvpaxoz.com
 anglemarrowoccurs.com
-anjzallkoomb.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -308,6 +305,7 @@ baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
 baypops.com
+bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 becketsbesogne.top
@@ -335,6 +333,7 @@ blueswordksh.com
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
+brechtembrowd.com
 bredmykixnaj.com
 brffhnhnqc.com
 broadboundary.com
@@ -490,6 +489,7 @@ encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
 eogaeapolaric.com
+epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -503,6 +503,7 @@ exogripper.com
 expdirclk.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -569,7 +570,6 @@ ginpithed.live
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
@@ -581,9 +581,9 @@ goohimom.net
 gouthoat.com
 gpfvumsxtbf.com
 gralossortoob.net
+grandioseguide.com
 greatlove.pro
 greenedenlarge.uno
-grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
@@ -678,7 +678,6 @@ ivhwlnlcgi.com
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 jadeitite.com
 jaumevie.com
 jerboasjourney.com
@@ -723,7 +722,6 @@ kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
-kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
@@ -804,7 +802,6 @@ mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
@@ -847,7 +844,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -892,6 +888,7 @@ ogkvkuvfy.com
 ogsbpoofzlk.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+ojgzyztrmr.com
 ojhtpopwofm.com
 olkhtegk.com
 olmsoneenh.info
@@ -1210,7 +1207,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficads.net
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1276,10 +1272,8 @@ vmweb.net
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
-voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
-voredi.com
 voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -1362,6 +1356,7 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
+yeljusxttq.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
@@ -1396,7 +1391,6 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
