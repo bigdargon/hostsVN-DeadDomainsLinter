@@ -1,4 +1,4 @@
-# Version: 2508191416
+# Version: 2508271621
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -12144,6 +12144,7 @@
 ||0x01n2ptpuz3.com^
 ||0xon2uo9s.com^
 ||1-1ads.com^
+||11ssq.com^
 ||12ezo5v60.com^
 ||14i8trbbx4.com^
 ||152media.info^
@@ -13652,6 +13653,7 @@
 ||buyhitscheap.com^
 ||buzzardcraizey.com^
 ||buzzonclick.com^
+||bv.frennecharras.com^
 ||bvalphaserver.com^
 ||bvmcdn.net^
 ||bvtpk.com^
@@ -14808,6 +14810,7 @@
 ||gp.dejanews.com^
 ||gpfvumsxtbf.com^
 ||gplayer.kmpmedia.net^
+||gpmznplrczobob.com^
 ||gpttuucg.com^
 ||gq.binesyorker.com^
 ||graizoah.com^
@@ -15697,6 +15700,7 @@
 ||mmaglobal.com^
 ||mmccint.com^
 ||mmedia.com^
+||mmrjzyaqzwcad.com^
 ||mmtro.com^
 ||mnjhrleahonkq.com^
 ||moat.com^
@@ -15751,6 +15755,7 @@
 ||mr-rank.de^
 ||mrskincash.com^
 ||mrybahnw.com^
+||mrycibqutoz.com^
 ||mscoldness.com^
 ||msgose.com^
 ||msincsayqmji.com^
@@ -15761,6 +15766,7 @@
 ||muermoabject.shop^
 ||mufsresuwoxg.com^
 ||mugpothop.com^
+||mulautuzign.com^
 ||multilinkhost.com^
 ||munchenviableski.com^
 ||murkymouse.online^
@@ -18060,6 +18066,7 @@
 ||xtremetop100.com^
 ||xtuokkzro.com^
 ||xumamropnox.com^
+||xwdoxgilvdbj.com^
 ||xxxcounter.com^
 ||xxxmyself.com^
 ||xy7elite.com^
