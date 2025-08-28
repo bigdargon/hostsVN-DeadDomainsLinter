@@ -10,7 +10,6 @@ static.adthor.com
 v.adthor.com
 native.propellerclick.com
 advergine.com
-go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -49,6 +48,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+engine.bitmedianetwork.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -59,6 +59,7 @@ www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
+showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -114,6 +115,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+delivery.atdnetwork.com
 adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
@@ -126,7 +128,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
-cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 bloggiamgia.info
@@ -217,6 +218,7 @@ allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
 ambulanceappealingrut.com
+an.cliphub.net
 ancotvpaxoz.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -318,8 +320,6 @@ burgoastougregy.net
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
-bzydilasq.com
-bzyfzusiqohk.com
 c.cdn-server.top
 caiwheechous.com
 camberchimp.com
@@ -451,6 +451,7 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 elitetoplist.com
+emhnyqdeuwtnrh.com
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -571,6 +572,7 @@ gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
+gwvlrourhdkp.com
 gwyvusam.com
 gzefitkcep.com
 gzegwior.com
@@ -827,6 +829,7 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
+nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nygwcwsvnu.com
@@ -970,7 +973,6 @@ ptygunjk.com
 pu4.biz
 public.wedodemos.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -994,7 +996,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
-qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
@@ -1167,6 +1168,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1312,6 +1314,7 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
+ycxajdcpesguqh.com
 yeljusxttq.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
