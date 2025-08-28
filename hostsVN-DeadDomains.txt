@@ -5,11 +5,11 @@ cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -48,7 +48,9 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -76,6 +78,7 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+asgdfasad.mm-cgnews.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -115,7 +118,11 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adserver.atdnetwork.com
 delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
 adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
@@ -128,12 +135,14 @@ ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -184,6 +193,7 @@ ads.wedodemos.com
 ads2.net-communities.co.uk
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adyieldoptimizer.com
@@ -320,6 +330,8 @@ burgoastougregy.net
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
+bzydilasq.com
+bzyfzusiqohk.com
 c.cdn-server.top
 caiwheechous.com
 camberchimp.com
@@ -649,7 +661,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
-jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -667,11 +678,9 @@ jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
 jucysh.com
 jufbcunisak.com
 jugjetwok.com
@@ -973,10 +982,10 @@ ptygunjk.com
 pu4.biz
 public.wedodemos.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
-pushazer.com
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -996,6 +1005,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
+qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
@@ -1045,7 +1055,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-rockabox.co
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
@@ -1168,7 +1177,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficads.net
+tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1194,7 +1203,6 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
-updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
@@ -1273,6 +1281,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
@@ -1287,6 +1296,7 @@ wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
 www.pcmclk.com
+www.pro-ads.club
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
@@ -1353,5 +1363,6 @@ go.ad1data.com
 k6r.net
 q2melbourne.com
 tracking.news360.store
+usergrid.com
 worldgravity.com
 yoursitestatstube.ru
