@@ -90,7 +90,6 @@ acclienquangiare.shop
 acs84.com
 addatamarket.net
 adef22.com
-adef66.com
 adef77.com
 adkiemtien123.click
 admin-vayvonvietthanh.com
@@ -258,7 +257,6 @@ chamsockhachhang-uudai-tructuyenthe.com
 chamsockhachhang-uudaithe-thang6.com
 chamsockhachhang-uudaithecanhan-tructuyen.online
 chamsockhachhang-uudaithetructuyen-thang10.com.vn
-chamsockhachhang-uudaithetructuyen-thang8.online
 chamsockhachhang-uudaitructuyen.online
 chamsockhachhangnanghanmuctindungmsb.com
 chamsockhachhangtheuudai-tructuyen.com.vn
@@ -325,6 +323,7 @@ com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
+com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -360,6 +359,7 @@ cskh-the-vpbank.com
 cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
 cskh-vib.nang-han-muc-the-visa.com
+cskhcanhanhd.com
 cskhdienmayxanh.com
 cskhdienmayxanhvn.com
 cskhmayxanh.com
@@ -890,6 +890,7 @@ hsdps.cc
 hthecrown.cfd
 https-icloud.com
 huaxinapp1.com
+huaxinapp2.com
 huaxinapp3.com
 huaxinapp4.com
 huaxinapp5.com
@@ -1139,7 +1140,6 @@ lienquan-sukienqua.com
 lienquan-vgarena.vn
 lienquan-vuihe2021.com
 lienquan.co
-lienquan.garena-vi.ga
 lienquan.garena-vn.store
 lienquan.garennavn.com
 lienquanches.com
@@ -1458,6 +1458,7 @@ nalhajarm.cfd
 nang-cap-hang-vvip-vib.com
 nang-cap-ocare-vib.com
 nang-cap-online-vpbank.com
+nang-cap-qcare-vib.com
 nang-cap-the-vcare-vib.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
@@ -2280,8 +2281,6 @@ shopruu.com
 shopsieucapx5.com
 shopsimdata4g.online
 shopsonflo.com
-shoptaikhoangame.com
-shoptetlienquan.com
 shoptgtv.tk
 shopthanhhungff.vn
 shopthong.net
@@ -2341,6 +2340,7 @@ skhf11.com
 skhf66.com
 smrtbbdv.com
 smrtbbidv.com
+smrtbiiddv.com
 smrtbiidv.com
 smrtbiidvv.com
 smsccb.com
@@ -2377,6 +2377,7 @@ spohopenm.org
 spsinhlychinhhang.com
 sputrey567rik.cfd
 sql.onlyslq.lol
+sso-garena.vn
 sso-hotro-taikhoan.com
 standardresourcebank.com
 starbucksthai.shop
@@ -2556,7 +2557,6 @@ thebank247.ga
 thechapnganhang-24h.com
 thegiodidong.com.vn
 thegioididong.me
-thegioididong.store
 thegioidienmayxanh.com
 theipscanner.com
 thenapx10ff.com
@@ -2660,8 +2660,6 @@ tikion8.com
 tikirating-vn.com
 tikiratingvn.com
 tikiratingvn.net
-tikishop.life
-tikishop.top
 tikishopping.shop
 tikita-kasi55.xyz
 tikivip.club
@@ -3350,7 +3348,6 @@ vn-email.shop
 vn-express.net
 vn-hc.info
 vn-ibank.info
-vn-in.shop
 vn-iy.info
 vn-iy.life
 vn-iz.info
@@ -3557,7 +3554,6 @@ vp-nanghanmuc.online
 vp111.vip
 vp7811.com
 vpb-hanmuc.com
-vpb-hanmuc.online
 vpb-nanghanmuc.com
 vpb-nanghanmuc.online
 vpb.nanghanmucvisa-vn.com
