@@ -1,3 +1,10 @@
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -15,6 +22,7 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -29,6 +37,9 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+brand.ad
+a.brand.ad
+www.brand.ad
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -40,12 +51,22 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
 ytvpaid.adxoo.com
+c.netund.com
+netund.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -108,6 +129,8 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+cdn.hbplatform.com
+hbplatform.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -125,6 +148,7 @@ motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
 analytics.amedigital.vn
+log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -157,7 +181,9 @@ acerolawaists.com
 achieverknee.com
 aczopdxfy.com
 ad-miner.com
+ad.abctv.com
 adaftegloomto.com
+adbrn.com
 adcloud.net
 adigi.icu
 adkchtmtns.com
@@ -166,10 +192,12 @@ admedia.network
 adrastos-eli.com
 ads-to.click
 ads.cdn2-img.net
+ads.directionsmag.com
 ads.expat-blog.biz
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
@@ -178,6 +206,7 @@ adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
+agafurretor.com
 agapios-gla.com
 agghriwaz.com
 agtamzsm.com
@@ -199,7 +228,6 @@ ak.oneegrou.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
-alkalizemarineprude.com
 allaqxoh.com
 alleviatepracticableaddicted.com
 allodsubussu.com
@@ -221,15 +249,14 @@ areamindless.com
 aries-nbl.com
 armfullitigateslate.com
 armoursviolino.com
-arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
-asgclickpop.com
 asqsphwgybanh.com
 asslfeqadv.com
 ataccwpdiqqnfl.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -257,7 +284,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
-bande2az.com
+banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
@@ -300,9 +327,11 @@ brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
+budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buzzardcraizey.com
 bvalphaserver.com
 bzwo2lmwioxa.com
@@ -342,6 +371,7 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -424,7 +454,6 @@ dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
-dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -469,6 +498,7 @@ fafmimgubcm.com
 fagywalu.pro
 faisaphoofa.net
 faqlikbid.com
+farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 faukeeshie.com
@@ -530,11 +560,13 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
 gpfvumsxtbf.com
+gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
 greatlove.pro
@@ -552,6 +584,7 @@ grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
+gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
@@ -610,6 +643,7 @@ ichdpdbpv.com
 idot.cz
 idyllteapots.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
@@ -664,6 +698,7 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
@@ -733,6 +768,7 @@ louchees.net
 lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
+lpuodgmca.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
@@ -777,6 +813,7 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
+mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -814,7 +851,9 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -856,6 +895,7 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 opzazcvitci.com
@@ -895,9 +935,7 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-pajnutas.com
 pallivermis.shop
-panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
@@ -914,6 +952,7 @@ photographpan.com
 phoucmiwashook.com
 pieceredirect.com
 pienbitore.com
+pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
@@ -981,6 +1020,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
@@ -1049,7 +1089,7 @@ salivanmobster.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
-schoonnonform.com
+scenescrockery.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
@@ -1062,7 +1102,6 @@ shakytaste.com
 shareadspace.com
 sheesoah.net
 shelfoka.com
-shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
@@ -1094,6 +1133,7 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spyokjoxdl.com
+spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -1151,6 +1191,7 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 troubledcontradiction.com
 tshfc.com
 tufoknaqzolp.com
@@ -1325,13 +1366,14 @@ zkyrzoqc.com
 zmalalxt.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
-usergrid.com
 yoursitestatstube.ru
