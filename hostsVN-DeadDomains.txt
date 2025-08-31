@@ -1,10 +1,3 @@
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -83,6 +76,8 @@ image.b91vip.com
 www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -93,6 +88,9 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -171,7 +169,6 @@ ad-miner.com
 ad.abctv.com
 adaftegloomto.com
 adbrn.com
-adcloud.net
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -189,6 +186,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+adxpose.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -198,6 +196,7 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkapsalz.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
 aigretsulaups.net
@@ -359,6 +358,7 @@ chulhawakened.com
 chullohagrode.com
 cigdizwu.com
 circularnothing.com
+civadsoo.net
 cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
@@ -436,6 +436,7 @@ dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
+ducksintroduce.com
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
@@ -561,14 +562,10 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
-grubsnuchale.com
-grudgewallet.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -638,7 +635,6 @@ impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
 inquiryblue.com
-instinctiveads.com
 instrumentsponge.com
 interndry.com
 intnotif.club
@@ -650,6 +646,7 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -661,12 +658,12 @@ jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
-jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
+jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
@@ -780,6 +777,7 @@ maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
+meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
 mfajfikmyqan.com
@@ -807,6 +805,7 @@ mwejhobumo.com
 mwekuzaj.com
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -853,7 +852,6 @@ odfohvwi.com
 odfsmijima.com
 odqdkealzr.com
 oewabox.at
-offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1083,6 +1081,7 @@ seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
+shakyseat.com
 shakytaste.com
 shareadspace.com
 sheesoah.net
@@ -1175,10 +1174,12 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
 troubledcontradiction.com
+trustbummler.com
 tshfc.com
 tufoknaqzolp.com
 twazzyoidwlfe.com
@@ -1206,6 +1207,7 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
+upspinarakor.com
 uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
@@ -1217,7 +1219,6 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
-vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -1233,7 +1234,6 @@ vfuqivac.com
 vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
-virleth.com
 vivvuvkra.com
 vmcxdaynkhnekp.com
 vmweb.net
@@ -1322,12 +1322,10 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
-yeljusxttq.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
+ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonomastara.com
-yovqnwnmpzz.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -1360,5 +1358,6 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
+richmetrics.com
 tracking.news360.store
 yoursitestatstube.ru
