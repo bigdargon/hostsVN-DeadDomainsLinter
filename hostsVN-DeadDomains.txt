@@ -116,6 +116,7 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
+ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
@@ -143,15 +144,13 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -221,7 +220,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
-adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -232,6 +230,7 @@ afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
+agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkapsalz.com
@@ -396,6 +395,7 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
+chulhawakened.com
 chullohagrode.com
 cigdizwu.com
 circularnothing.com
@@ -499,7 +499,6 @@ ekvalqwmly.com
 elephantqueue.com
 elitetoplist.com
 emhnyqdeuwtnrh.com
-encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -674,6 +673,7 @@ iiqbttkbfvgyo.com
 illegal-respond.pro
 imageshh.com
 immerseweariness.com
+importedincrease.com
 impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
@@ -682,7 +682,6 @@ instinctiveads.com
 instrumentsponge.com
 interndry.com
 intnotif.club
-intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
@@ -737,7 +736,6 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
-kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
@@ -825,7 +823,6 @@ medaaebqmbpx.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
-metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
@@ -952,6 +949,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
+owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
@@ -989,8 +987,6 @@ pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
-podsklzegshmnd.com
-pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
@@ -1062,7 +1058,6 @@ qwykgrylxyl.com
 qxadsk.com
 qzyztuwulo.com
 radxabsah.com
-ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1238,7 +1233,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufabsoonsijeerg.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
@@ -1274,6 +1268,7 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
+ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1298,6 +1293,7 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vruaskogjsu.com
 vstvstsa.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
@@ -1316,7 +1312,6 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
-whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
@@ -1330,6 +1325,7 @@ wissoony.net
 wistfulbalmy.com
 wiwoqcmp.com
 wiwqhootrf.com
+wmeozwavstre.com
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
