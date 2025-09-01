@@ -9,7 +9,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
@@ -140,7 +139,6 @@ track.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
 app2.jeoway.net
@@ -178,6 +176,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2471april2024.com
 2473april2024.com
 2510june2024.com
+2512june2024.com
 2522june2024.com
 2524june2024.com
 29vpnmv4q.com
@@ -193,7 +192,6 @@ acerolawaists.com
 achieverknee.com
 aczopdxfy.com
 ad-miner.com
-ad.foxnetworks.com
 adaftegloomto.com
 adbrn.com
 adigi.icu
@@ -823,6 +821,7 @@ mmrjzyaqzwcad.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -835,7 +834,6 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 mwekuzaj.com
-mybestmv.com
 mylwwuqdhidkmx.com
 naishoochoh.com
 nangalupeose.com
@@ -1075,6 +1073,7 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
@@ -1093,7 +1092,6 @@ rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1337,7 +1335,6 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
@@ -1392,6 +1389,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 dolohen.com
+go.ad1data.com
 k6r.net
 q2melbourne.com
 richmetrics.com
