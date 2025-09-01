@@ -11,7 +11,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -592,6 +591,7 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
+grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -678,7 +678,6 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
-ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -743,6 +742,7 @@ kogutcho.net
 kqalbhgnd.com
 kraapmanmb.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1125,6 +1125,7 @@ shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
+sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
@@ -1273,6 +1274,7 @@ vkeadqoff.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
+vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
@@ -1281,6 +1283,7 @@ voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vruaskogjsu.com
+vstvstsa.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
@@ -1391,9 +1394,9 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
+dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
 richmetrics.com
-tracking.news360.store
 yoursitestatstube.ru
