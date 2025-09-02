@@ -1,3 +1,7 @@
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -5,17 +9,12 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
-static.cbsileads.com
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -113,6 +112,8 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv785.me
+ads.livetv788.me
 aj2566.bid
 aj2578.bid
 aj2581.bid
@@ -159,6 +160,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 vnadssb.com
 analytics.amedigital.vn
+log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -192,6 +194,7 @@ achieverknee.com
 aczopdxfy.com
 ad-miner.com
 adaftegloomto.com
+adbrn.com
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -204,7 +207,9 @@ ads.expat-blog.biz
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
+ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
@@ -294,7 +299,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
-bande2az.com
+banner.casino.net
 banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
@@ -343,7 +348,6 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -375,6 +379,7 @@ chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
+chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -384,6 +389,7 @@ civadsoo.net
 cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
+cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coawujobups.com
@@ -533,7 +539,6 @@ foogeetoary.net
 fopteefteex.com
 forspearowor.com
 fpqwpqiyq.com
-frameworkdeserve.com
 free.srcdn.xyz
 frightenedpotato.com
 frllfmjaku.com
@@ -724,7 +729,6 @@ kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
-kkoobzmirh.com
 klkchits.com
 klsdee.com
 klumn.com
@@ -811,6 +815,7 @@ mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mkysuerau.com
+mmrjzyaqzwcad.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
@@ -822,7 +827,7 @@ mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
-mt34iofvjay.com
+mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -963,6 +968,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
@@ -1027,7 +1033,6 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quarterserver.de
-quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1038,7 +1043,6 @@ qwykgrylxyl.com
 qxadsk.com
 qzyztuwulo.com
 radxabsah.com
-ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1100,6 +1104,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1170,7 +1175,6 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 terrapsps.com
-tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
@@ -1234,6 +1238,7 @@ uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
 uselnk.com
+userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -1257,6 +1262,7 @@ vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vivvuvkra.com
 vkeadqoff.com
 vmcxdaynkhnekp.com
@@ -1287,6 +1293,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wawhoufteedaksu.com
+webpower.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1310,6 +1317,7 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
+woomerapapacy.shop
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1340,7 +1348,6 @@ xtuokkzro.com
 xumamropnox.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
-yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
@@ -1386,4 +1393,6 @@ go.ad1data.com
 k6r.net
 q2melbourne.com
 tracking.news360.store
+usergrid.com
+worldgravity.com
 yoursitestatstube.ru
