@@ -8,7 +8,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -155,9 +154,9 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 vnadssb.com
-analytics.amedigital.vn
 log.baobackan.com.vn
 track.winigroup.vn
+tracker.thichxemphim.net
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -195,6 +194,7 @@ adigi.icu
 adkchtmtns.com
 adlite.net
 admedia.network
+adrastos-eli.com
 ads-to.click
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -480,9 +480,7 @@ ekvalqwmly.com
 elephantqueue.com
 elitetoplist.com
 emhnyqdeuwtnrh.com
-encloselavanga.com
 encodehelped.com
-encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
 eogaeapolaric.com
@@ -611,7 +609,6 @@ handkerchiefpersonnel.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
-hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
@@ -624,6 +621,7 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
 hivaqfofkche.com
+hjbtunmh.com
 hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
@@ -942,7 +940,6 @@ ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1041,7 +1038,6 @@ qwuopcbilw.com
 qwykgrylxyl.com
 qxadsk.com
 qzyztuwulo.com
-radxabsah.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1148,7 +1144,6 @@ speakspurink.com
 spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
-static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1258,6 +1253,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
+vfuqivac.com
 vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
