@@ -9,7 +9,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
-advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -53,11 +52,11 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-aixq-ps-sdk.appier.xyz
 delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
+click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
@@ -305,7 +304,6 @@ baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
 baypops.com
-bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 becketsbesogne.top
@@ -662,7 +660,6 @@ ingotedbooze.com
 inquiryblue.com
 instinctiveads.com
 instrumentsponge.com
-interndry.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
@@ -951,7 +948,6 @@ pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
 pc2ads.com
-pcmclk.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -982,7 +978,6 @@ poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
-praddpro.de
 pramviable.com
 pranavafolksey.com
 presidestatelycondition.com
@@ -1000,7 +995,6 @@ ptewarin.net
 ptoahaistais.com
 ptoushoa.com
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptuzrywmega.com
 ptygunjk.com
@@ -1347,6 +1341,8 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
+xumamropnox.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
