@@ -28,6 +28,7 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
+www.marketolive.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -49,7 +50,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -186,6 +186,8 @@ adlite.net
 admedia.network
 adrastos-eli.com
 ads-to.click
+ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -267,7 +269,6 @@ aveguijdwp.com
 avenaryconcent.com
 avhkihpfabt.com
 avsakrcapna.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
@@ -298,6 +299,7 @@ becketsbesogne.top
 bedaoibe.com
 beefoaloode.net
 beklefkiom.com
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 beplusleor.com
@@ -330,7 +332,6 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 bzyfzusiqohk.com
@@ -384,7 +385,6 @@ coniesnitch.com
 consciouschairs.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -527,8 +527,6 @@ frameworkdeserve.com
 free.srcdn.xyz
 frightenedpotato.com
 frllfmjaku.com
-fryawlauk.com
-fswiycpwnujv.com
 fudukrujoa.com
 futcceabr.com
 futuristicfairies.com
@@ -810,7 +808,6 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
-mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
@@ -830,6 +827,7 @@ nangalupeose.com
 nastinessreplicaupload.com
 nationalgausewatrust.com
 naturalistsbumpmystic.com
+nauzaphoay.net
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -865,6 +863,7 @@ obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
+odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odqdkealzr.com
@@ -937,6 +936,7 @@ pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
+parentlargevia.com
 pasheeheghie.net
 pc2ads.com
 pcmclk.com
@@ -1042,6 +1042,7 @@ receptiveink.com
 reecegrita.com
 reflushneuma.com
 refraintupaiid.com
+regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
@@ -1112,6 +1113,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1130,6 +1132,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
 soliads.net
+solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -1335,6 +1338,7 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
@@ -1372,6 +1376,7 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
