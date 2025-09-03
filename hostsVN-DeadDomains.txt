@@ -42,6 +42,7 @@ m.mstorer.net
 mstorer.net
 zetadeo.com
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -105,6 +106,7 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv703.me
 ads.livetv785.me
 aj2566.bid
 aj2578.bid
@@ -117,17 +119,13 @@ aj3017.bid
 aj101.xyz
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
 qc.klick.vn
-text1.klick.vn
 wakeup.klick.vn
-wakeup247.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 mautic.educe.vn
@@ -148,6 +146,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+upfile16.mediaphim.com
 vnadssb.com
 analytics.amedigital.vn
 log.baobackan.com.vn
@@ -204,6 +203,7 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrv.wtf
 adsrveys.com
@@ -430,6 +430,7 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -613,16 +614,12 @@ hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
-hcetcuwit.com
-hcilralhi.com
 heardsoppy.com
-heeceeceejo.com
 heenojouwofoupt.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -645,6 +642,7 @@ hurarwjrirti.com
 hutchieshode.com
 hvxnlmjx.com
 hxpohplms.com
+hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -808,7 +806,6 @@ meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
@@ -854,6 +851,7 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
+noerwe5gianfor19e4st.com
 noowhaumurauy.net
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -901,9 +899,11 @@ olxxugltoku.com
 omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
+on-mobi.com
 onclasrv.com
 oneegrou.net
 onmarshtompor.com
+ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
@@ -930,7 +930,6 @@ ouftukoo.net
 outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
-ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
 owvobdogd.com
@@ -1117,7 +1116,6 @@ sf960.com
 shakyseat.com
 shakytaste.com
 shareadspace.com
-sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1278,6 +1276,7 @@ vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
+voopsookie.net
 voosaivege.com
 voupsauk.com
 vpldfujttsdfj.com
@@ -1365,7 +1364,6 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonomastara.com
-yovqnwnmpzz.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -1399,7 +1397,6 @@ dolohen.com
 go.ad1data.com
 k6r.net
 q2melbourne.com
-showbiz.owndata.network
 tracking.news360.store
 usergrid.com
 worldgravity.com
