@@ -87,6 +87,7 @@ www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -140,6 +141,7 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -219,7 +221,6 @@ adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adsmogo.org
 adsrv.wtf
 adsrveys.com
 adyieldoptimizer.com
@@ -298,7 +299,6 @@ avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
-axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -356,7 +356,6 @@ btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
-burgoastougregy.net
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -598,7 +597,6 @@ grandioseguide.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1204,7 +1202,9 @@ thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
 thiem-csl.com
+thinkappetitefeud.com
 thootipheguph.com
+thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
