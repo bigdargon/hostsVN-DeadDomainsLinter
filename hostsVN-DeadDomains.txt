@@ -1,9 +1,6 @@
 blueserving.com
-www.advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -17,7 +14,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -116,9 +112,13 @@ ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv673.me
+ads.livetv676.me
 ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
@@ -137,11 +137,7 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-track.net
-adserver.atdnetwork.com
 delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -163,7 +159,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
-alexajstrack.com
 analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -196,7 +191,6 @@ abpvhymadq.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
-aclickads.com
 aczopdxfy.com
 ad-miner.com
 ad-spb.ru
@@ -258,7 +252,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 ambulanceappealingrut.com
 ancotvpaxoz.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 annxwustakf.com
 antio-nar.com
@@ -279,7 +272,6 @@ asfobftirag.com
 asgclickpop.com
 asqsphwgybanh.com
 asslfeqadv.com
-ataccwpdiqqnfl.com
 atonementwisely.com
 atrmkoopdlhu.com
 atrochaxctl.shop
@@ -313,7 +305,6 @@ bajavdafwafp.com
 bande2az.com
 banner.mindshare.de
 bannermarkt.nl
-basebanner.com
 baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
@@ -398,7 +389,6 @@ cigdizwu.com
 circularnothing.com
 civadsoo.net
 clickadin.com
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -416,9 +406,11 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 corrumpsublid.top
+cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
+crepedzincite.top
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -434,7 +426,6 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapper.net
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
@@ -540,6 +531,7 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -563,6 +555,7 @@ fudukrujoa.com
 futcceabr.com
 futuristicfairies.com
 fuwalrnce.com
+fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
@@ -613,6 +606,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -816,6 +810,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 matecatenae.com
 mawptuaz.com
 maximumcash.com
@@ -867,6 +862,7 @@ nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
 newstarads.com
+nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 noerwe5gianfor19e4st.com
@@ -924,6 +920,7 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+opntwymri.com
 opsivesh.net
 opzazcvitci.com
 oqdavkguftan.com
@@ -1059,7 +1056,6 @@ qwerfdx.com
 qwuopcbilw.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
 radxabsah.com
 ranking-liste.de
 raphanysteers.com
@@ -1099,6 +1095,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 rodejessie.com
+romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
@@ -1138,6 +1135,7 @@ shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
+sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
