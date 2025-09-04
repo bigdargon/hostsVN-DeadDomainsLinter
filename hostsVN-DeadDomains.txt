@@ -1,9 +1,4 @@
 blueserving.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -14,6 +9,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -101,8 +97,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -112,13 +106,9 @@ ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv639.me
 ads.livetv640.me
-ads.livetv644.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv673.me
-ads.livetv676.me
 ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
@@ -137,7 +127,6 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-track.net
-delivery.atdnetwork.com
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -252,6 +241,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 ambulanceappealingrut.com
 ancotvpaxoz.com
+anglemarrowoccurs.com
 anjzallkoomb.com
 annxwustakf.com
 antio-nar.com
@@ -272,6 +262,7 @@ asfobftirag.com
 asgclickpop.com
 asqsphwgybanh.com
 asslfeqadv.com
+ataccwpdiqqnfl.com
 atonementwisely.com
 atrmkoopdlhu.com
 atrochaxctl.shop
@@ -320,7 +311,6 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 beplusleor.com
-berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
 betmagnezonea.com
@@ -400,7 +390,6 @@ coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
 conformfavoredgauging.com
-coniesnitch.com
 consciouschairs.com
 constructpoll.com
 contehos.com
@@ -522,7 +511,6 @@ fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
-febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -534,7 +522,6 @@ filasseseeder.com
 findcommerce.com
 fingahvf.top
 firmzecutci.com
-fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -687,7 +674,6 @@ itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
-ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
@@ -810,7 +796,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-manpowerspiritualunrented.com
 matecatenae.com
 mawptuaz.com
 maximumcash.com
@@ -920,7 +905,6 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-opntwymri.com
 opsivesh.net
 opzazcvitci.com
 oqdavkguftan.com
@@ -1056,6 +1040,7 @@ qwerfdx.com
 qwuopcbilw.com
 qwykgrylxyl.com
 qxadsk.com
+qzyztuwulo.com
 radxabsah.com
 ranking-liste.de
 raphanysteers.com
@@ -1191,7 +1176,6 @@ tdcietast.com
 tdpjzjpfuiis.com
 terrapsps.com
 tetrylscullion.com
-thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -1277,7 +1261,6 @@ vfurwydryli.com
 vikawjobtar.com
 vipicmou.net
 virleth.com
-visualrevenue.com
 vivvuvkra.com
 vkeadqoff.com
 vmcxdaynkhnekp.com
