@@ -57,7 +57,6 @@ delivery.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
-cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -138,6 +137,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 track.winigroup.vn
+tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
@@ -287,7 +287,6 @@ becketsbesogne.top
 bedaoibe.com
 beefoaloode.net
 beklefkiom.com
-bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 beplusleor.com
@@ -440,7 +439,6 @@ dumkcuakrlka.com
 dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
-eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
@@ -732,7 +730,6 @@ lbmqciazrpm.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
-lessemujust.live
 libedgolart.com
 lidosquey.shop
 lifpv.com
@@ -841,6 +838,8 @@ nxcygebmxxuo.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
+oaraiwephoursou.net
+oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1111,7 +1110,6 @@ spanuletubings.com
 speakspurink.com
 spyokjoxdl.com
 ssqyuvavse.com
-static-ads.akamaized.net
 static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
