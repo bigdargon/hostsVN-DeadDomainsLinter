@@ -40,14 +40,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -55,6 +47,8 @@ cdn.appier.xyz
 pgmcdn.com
 bidadx.com
 anymad.com
+cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -65,6 +59,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -127,7 +122,6 @@ wataads.com
 ad.chieuhoa.com
 bidgear-syndication.com
 bloggiamgia.info
-crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -262,7 +256,6 @@ avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
-axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -330,6 +323,7 @@ capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -585,7 +579,6 @@ hamulustueiron.com
 handkerchiefpersonnel.com
 hasalmarvt.com
 hasanjbam.com
-haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
@@ -601,7 +594,6 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
 hjbtunmh.com
-hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
 hoddlegamey.com
@@ -740,6 +732,7 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
+loftsbaacad.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -978,6 +971,7 @@ pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qavhivvcex.com
+qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1216,10 +1210,10 @@ vipicmou.net
 virleth.com
 vivvuvkra.com
 vkeadqoff.com
+vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
 vnwtjgaqlsui.com
-voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
@@ -1289,6 +1283,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
