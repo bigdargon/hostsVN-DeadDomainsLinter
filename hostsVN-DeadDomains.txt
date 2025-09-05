@@ -91,9 +91,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -175,7 +172,6 @@ aczopdxfy.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.foxnetworks.com
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -189,7 +185,6 @@ ads-to.click
 ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
@@ -231,7 +226,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-an.cliphub.net
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -308,7 +302,6 @@ bhalukecky.com
 bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
-bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
@@ -349,6 +342,7 @@ chaikempakr.com
 charming-people.com
 chelonebarpost.com
 chertouz.net
+chiamfxz.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -376,7 +370,6 @@ commodityshortlysurviving.com
 compatriotelephant.com
 conformfavoredgauging.com
 coniesnitch.com
-consciouschairs.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -523,7 +516,6 @@ fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
 free.srcdn.xyz
-frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -606,8 +598,6 @@ heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
 heraldet.com
-heukpiroot.com
-hewokhn.com
 hhuajhdidxut.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1070,7 +1060,6 @@ saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
-scabbienne.com
 scammereating.com
 scenescrockery.com
 schoonnonform.com
