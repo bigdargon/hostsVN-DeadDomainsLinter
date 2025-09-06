@@ -4,9 +4,11 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
+static.adthor.com
 v.adthor.com
 native.propellerclick.com
 advergine.com
@@ -116,8 +118,6 @@ demo.klick.vn
 euro.klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -173,7 +173,6 @@ achieverknee.com
 aczopdxfy.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -189,6 +188,7 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads.wedodemos.com
+ads2.net-communities.co.uk
 adsclick.cc
 adserver.quizdingo.com
 adsmogo.org
@@ -360,7 +360,6 @@ cigdizwu.com
 circularnothing.com
 civadsoo.net
 clickadin.com
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -502,7 +501,6 @@ fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -517,7 +515,6 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
-free.srcdn.xyz
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -543,6 +540,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -584,7 +582,6 @@ gwyvusam.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
-h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
@@ -741,7 +738,6 @@ ligvraojlrr.com
 likedstring.com
 lingamretene.com
 link4ads.com
-littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -869,6 +865,7 @@ okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
+olnalbogxra.com
 olxxugltoku.com
 omlbaftroofj.com
 omniscientspark.com
@@ -876,7 +873,6 @@ omzostzuswm.com
 on-mobi.com
 onclasrv.com
 oneegrou.net
-onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -917,6 +913,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1047,7 +1044,6 @@ rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
-rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 rodejessie.com
