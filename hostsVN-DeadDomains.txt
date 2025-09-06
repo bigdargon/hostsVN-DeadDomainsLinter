@@ -1,19 +1,27 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-aj1549.online
+static.cbsileads.com
 aj1754.online
 aj1863.online
 aj2142.online
+aj2218.online
 aj2307.online
 aj2430.online
 aj2498.online
@@ -44,7 +52,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-pgmcdn.com
+c.netund.com
+netund.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -82,6 +91,10 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -107,6 +120,13 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -122,6 +142,7 @@ wataads.com
 ad.chieuhoa.com
 bidgear-syndication.com
 bloggiamgia.info
+crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -194,6 +215,7 @@ agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
+aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -256,6 +278,7 @@ avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
+axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -310,6 +333,7 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -351,8 +375,8 @@ clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
-coacoalaum.com
 coappreciate.com
+coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
@@ -579,6 +603,7 @@ hamulustueiron.com
 handkerchiefpersonnel.com
 hasalmarvt.com
 hasanjbam.com
+haufeechaukept.com
 hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
@@ -594,12 +619,14 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
 hjbtunmh.com
+hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 hpdvgejc.com
+hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -630,7 +657,6 @@ inquiryblue.com
 instinctiveads.com
 instrumentsponge.com
 interndry.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -743,6 +769,7 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lufdzaqcoadm.com
+lugtzejkowhi.com
 lumpbackstage.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -759,6 +786,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mattockpackall.com
 mawptuaz.com
 maximumcash.com
 mazbfiladr.com
@@ -768,6 +796,7 @@ meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
@@ -799,6 +828,7 @@ nastinessreplicaupload.com
 nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -847,6 +877,7 @@ ohgorbqcegig.com
 ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
+okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -865,6 +896,7 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
+opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 orb92.com
@@ -876,6 +908,7 @@ orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
+osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -912,10 +945,12 @@ petiteumbrella.com
 phaibeertou.com
 phamsacm.net
 phaubsunsi.com
+phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
+phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 pignuwoa.com
@@ -939,6 +974,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 pramviable.com
 pranavafolksey.com
+pre4sentre8dhf.com
 presidestatelycondition.com
 proetusbramble.com
 profitableheavilylord.com
@@ -979,10 +1015,8 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
-qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
 qumagee.com
@@ -1112,6 +1146,7 @@ stunninglover.com
 subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
+suppliedhopelesspredestination.com
 surtaultathoado.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -1171,6 +1206,7 @@ uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
+undooptimisticsuction.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
@@ -1214,6 +1250,7 @@ vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
 vnwtjgaqlsui.com
+voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
@@ -1331,6 +1368,7 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+richmetrics.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
