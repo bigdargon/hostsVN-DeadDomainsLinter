@@ -7,7 +7,6 @@ px.cdn.creative.medialytics.com
 adthor.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
@@ -96,7 +95,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
@@ -115,9 +113,10 @@ aj3017.bid
 aj101.xyz
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -515,6 +514,7 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
+free.srcdn.xyz
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -582,6 +582,7 @@ gwyvusam.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
+h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
@@ -738,6 +739,7 @@ ligvraojlrr.com
 likedstring.com
 lingamretene.com
 link4ads.com
+littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -775,7 +777,6 @@ mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-mediamind.com
 meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
@@ -873,6 +874,7 @@ omzostzuswm.com
 on-mobi.com
 onclasrv.com
 oneegrou.net
+onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -1044,7 +1046,7 @@ rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
-rngpaluydont.com
+rndnoibattor.com
 roashudiweeh.com
 rodejessie.com
 romauntmirker.com
