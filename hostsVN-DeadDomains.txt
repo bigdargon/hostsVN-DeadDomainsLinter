@@ -7,6 +7,7 @@ px.cdn.creative.medialytics.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
@@ -74,8 +75,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -95,6 +94,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
@@ -113,6 +113,7 @@ aj3017.bid
 aj101.xyz
 adv.klick.vn
 demo.klick.vn
+euro.klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
@@ -225,7 +226,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -314,7 +314,6 @@ brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -601,6 +600,7 @@ heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitopadxdz.xyz
@@ -777,6 +777,7 @@ mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
+mediamind.com
 meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
@@ -843,7 +844,6 @@ oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
-oaxntxan.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -878,7 +878,6 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -934,7 +933,6 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
-phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 pignuwoa.com
@@ -1047,6 +1045,7 @@ rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
+rngpaluydont.com
 roashudiweeh.com
 rodejessie.com
 romauntmirker.com
@@ -1109,7 +1108,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
 soliads.net
-solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -1162,7 +1160,6 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tixoxzfpur.com
-tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 toathoule.com
