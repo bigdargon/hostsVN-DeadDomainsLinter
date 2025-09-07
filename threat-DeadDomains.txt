@@ -149,10 +149,7 @@ app.amazon-line.com
 app.mybigc.net
 app.zingmp3.pro
 apphdbank.fun
-apple-vn.shop
-apple.icloud.mar-kt.com.mx
 apple.support-maps.live
-applecare-icloud.com
 aptersandt.cfd
 apxsoftwares.com
 aquagoat.xyz
@@ -182,6 +179,7 @@ bankingbnl.com
 banklienthong247.com
 banksieutoc.one
 banktopvn.online
+bankvn1s.com
 banthang.me
 bao-moi.pro
 baohanhdienmayxanhvn.com
@@ -330,6 +328,8 @@ congdongvietnam247.com
 congnap-playtogether.com
 congnaplienquan.com
 congnghevietmy.com.vn
+congtacvienonline.vn
+congthongtinvidientu.com
 congtykiman.org
 congtytaichinhlotte.com
 continue.dasboard914-account.com
@@ -632,7 +632,6 @@ freefire-garena-membership.tk
 freefire-membershipp-garena.com
 freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
-freefire-vietnam.com
 freefirehopqua.com
 freefiremembership-garenas.com
 freefiremembershipq.com
@@ -868,6 +867,7 @@ hotrotaichinh247g.com
 hotrotaichinhh.com
 hotrotieudungtpbank.com
 hotrovaynganhang.com
+hotrovaynganhang88.com
 hotrovaytaichinhsg.com
 hotrovaytinchapshinhan.xyz
 hotrovaytinchapvpbank.com
@@ -1449,7 +1449,6 @@ myscannappo.online
 myshopee13.com
 myshopee7.vip
 nalhajarm.cfd
-nang-cap-hang-vvip-vib.com
 nang-cap-ocare-vib.com
 nang-cap-online-vpbank.com
 nang-cap-qcare-vib.com
@@ -2175,6 +2174,7 @@ shopgamelq.com
 shopgamelq247.com
 shopgamepubg.com
 shopgamere.com
+shopgarenavn.com
 shopgau.me
 shopgcaothụ.vn
 shopgenshin247h.com
@@ -2226,6 +2226,7 @@ shopne68.com
 shopne68.net
 shopne688.com
 shopne77.com
+shopne886.com
 shopne988.com
 shopnhanff.com
 shopnhanthuong.com
@@ -2430,7 +2431,6 @@ sukienmemberships.com
 sukienmuahe2021.com
 sukiennhanqualqvn2021.com
 sukienonline24h.com
-sukienplaytogether.com
 sukienpubg-thang6.tk
 sukienpubgvng-global.com
 sukienqua2022.com
@@ -2441,6 +2441,7 @@ sukientanxuan2022.com
 sukientogether.com
 sukientrian2021.com
 sukientrian2021.ga
+sukientrianfreefire2021.ga
 sukientrianfreefirevietnam.club
 sukientriankhachhang2021.com
 sukientrungthu-freefire.net
@@ -2591,7 +2592,6 @@ ticlewesimulate.cfd
 tien8833.com
 tienanhanh.com
 tienbnhanh.com
-tiencnhanh.com
 tiendnhanh.com
 tienfnhanh.com
 tiengia24h.com
@@ -2846,6 +2846,7 @@ trungtamthuongmaisaigon.com
 trungtamtindung-nanghanmuc.com
 trungtamtrogiup.site
 trungtamtruyenhinhcap.online
+trungthuong.vn
 truycapvidientu247.com
 tsofhormuz.cfd
 ttb5.shop
@@ -3346,7 +3347,6 @@ vn-iy.life
 vn-iz.info
 vn-jss.vip
 vn-khachhang.click
-vn-kn.vip
 vn-lienket.shop
 vn-lienkettaikhoannhanqua.online
 vn-lk.shop
@@ -3533,7 +3533,6 @@ vonsieumtoc.com
 vonsieuntoc.com
 vonsieuotoc.com
 vonsieuptoc.com
-vonsieuqtoc.com
 vonsieurtoc.com
 vonsieustoc.com
 vonsieuttoc.com
