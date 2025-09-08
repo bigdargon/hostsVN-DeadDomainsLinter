@@ -4,6 +4,10 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -53,6 +57,19 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -91,6 +108,11 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -103,6 +125,9 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -118,7 +143,12 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv691.me
 ads.livetv697.me
+ads.livetv701.me
+ads.livetv703.me
+ads.livetv705.me
+ads.livetv708.me
 aj2566.bid
 aj2578.bid
 aj2581.bid
@@ -135,6 +165,8 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -142,6 +174,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -160,7 +193,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -198,6 +230,7 @@ achieverknee.com
 aczopdxfy.com
 ad-miner.com
 ad-spb.ru
+ad.foxnetworks.com
 adaftegloomto.com
 adbrn.com
 adigi.icu
@@ -206,19 +239,26 @@ adlite.net
 admedia.network
 adrastos-eli.com
 adreclaim.com
+adrevolver.com
 ads-to.click
 ads.bumq.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.horyzon-media.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
+ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+adtoma.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -261,6 +301,7 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+api.ampiri.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -286,7 +327,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -306,6 +346,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.mindshare.de
+banner.nixnet.cz
 bannermarkt.nl
 basebanner.com
 baste-znl.com
@@ -324,6 +365,7 @@ beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
+betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
@@ -349,11 +391,13 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
+c43a3cd8f99413891.com
 caiwheechous.com
 camberchimp.com
 canangafierier.uno
@@ -369,13 +413,13 @@ cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
-charming-people.com
 chelonebarpost.com
 chertouz.net
 chiamfxz.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
+chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
@@ -465,6 +509,7 @@ dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
+dsp.io
 ducksintroduce.com
 dulrihaungy.com
 dumkcuakrlka.com
@@ -472,6 +517,7 @@ dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
+ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
 efyglwbapki.com
@@ -514,7 +560,6 @@ fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
-fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
@@ -541,6 +586,7 @@ forfeitsubscribe.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+framestighterauthorize.com
 frameworkdeserve.com
 free.srcdn.xyz
 frightenedpotato.com
@@ -654,7 +700,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -682,6 +727,8 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
+iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -752,7 +799,6 @@ kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
-kzyadnfufmif.com
 labapwlkyov.com
 lambingsyddir.com
 lapnicjaqxu.com
@@ -835,6 +881,7 @@ murozwuddtow.com
 mwejhobumo.com
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -850,6 +897,7 @@ nervoustolsel.com
 netcommunities.com
 news-central.org
 newstarads.com
+nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 noerwe5gianfor19e4st.com
@@ -909,6 +957,7 @@ ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
+opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1032,6 +1081,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
@@ -1112,6 +1162,7 @@ sf960.com
 shakyseat.com
 shakytaste.com
 shareadspace.com
+sharepointads.com
 sheesoah.net
 shelfoka.com
 shestour.net
@@ -1146,6 +1197,7 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 spyokjoxdl.com
+spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
@@ -1168,7 +1220,6 @@ svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
 tacticmarshannouncing.com
-tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1201,6 +1252,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1209,6 +1261,7 @@ trustbummler.com
 trustisimportant.fun
 tshfc.com
 tufoknaqzolp.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -1219,7 +1272,6 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1291,6 +1343,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wawhoufteedaksu.com
+webpower.com
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1302,6 +1355,7 @@ whugesto.net
 wibtntmvox.com
 widespace.com
 wimswuppoxan.com
+window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -1352,6 +1406,7 @@ ycxajdcpesguqh.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
+yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
@@ -1381,6 +1436,7 @@ zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
 dolohen.com
 go.ad1data.com
@@ -1389,4 +1445,5 @@ kitbit.net
 q2melbourne.com
 richmetrics.com
 tracking.news360.store
+usergrid.com
 yoursitestatstube.ru
