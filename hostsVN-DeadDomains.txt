@@ -31,7 +31,6 @@ aj2218.online
 aj2274.online
 aj2307.online
 aj2430.online
-aj2498.online
 aj2503.online
 ajxx91.online
 classic.marketolive.com
@@ -47,12 +46,14 @@ advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
+dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
+ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
@@ -141,7 +142,6 @@ ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
-ads.livetv708.me
 ads.livetv788.me
 aj2566.bid
 aj2578.bid
@@ -166,7 +166,6 @@ mautic.educe.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
@@ -245,6 +244,7 @@ adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
 adtoma.com
+advariant.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -268,6 +268,7 @@ ajratgatjav.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
+ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
@@ -488,6 +489,7 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
+doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
@@ -534,7 +536,6 @@ exogripper.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -568,7 +569,6 @@ flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
@@ -611,7 +611,6 @@ go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
-gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
@@ -620,6 +619,7 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
+grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -630,7 +630,6 @@ grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
-gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
@@ -723,7 +722,6 @@ jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
-jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
@@ -1079,7 +1077,6 @@ qxadsk.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
-rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
@@ -1165,6 +1162,7 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smnyayzhv.com
 smstcksjn.com
@@ -1277,7 +1275,6 @@ userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
-uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
 vaizeedy.com
@@ -1324,8 +1321,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
-wathoojoba.com
-wawhoufteedaksu.com
 webpower.com
 wellmadefrog.com
 weuppwrlcper.com
@@ -1416,7 +1411,6 @@ zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
-analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 dolohen.com
