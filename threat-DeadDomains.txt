@@ -438,7 +438,6 @@ dichvucong-gov.com
 dichvucong.agov.net
 dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
-dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
 dichvucong.hgov.cc
@@ -517,7 +516,6 @@ ebanking.dnryg31.com
 ebanking.ttoh4.com
 ebankingshopee.vn
 ebayasean.com
-ebayget.cc
 ebayshopnet.com
 ebeuboay.cc
 ebmarketingshops.com
@@ -1096,6 +1094,7 @@ lazadaf15.com
 lazadaf16.com
 lazadaf18.com
 lazadaflashsale99.xyz
+lazadag12.com
 lazadag16.com
 lazadag18.com
 lazadagroup.net
@@ -1351,6 +1350,7 @@ momo76.com
 momo79.net
 momo7979.me
 momo88.club
+momo91.net
 momo9s.com
 momoauto.me
 momobank.pw
@@ -2768,6 +2768,7 @@ topdienthoaia72.com
 topmomo.me
 topmomo.win
 topmomo1.net
+topmomo3s.com
 topmomo88.me
 totycb.cyou
 tpb-vayuudai.com
@@ -2874,6 +2875,7 @@ ttb6.shop
 ttb8.shop
 ttb9.shop
 ttmomo.win
+tuanbansub.ml
 tuanlevang.vn
 tuanlocvang123.com
 tututiki.com
@@ -3183,8 +3185,6 @@ vietcombank-credit.tk
 vietcombank-hotrovaykhachhang.online
 vietcombank-vaytinchap.com
 vietcombank-vietnam.com.vn
-vietcombank.fund
-vietcombank.money
 vietcombank.vn-cn.xyz
 vietcombank.vn-dll.vip
 vietcombank.vn-jss.vip
@@ -3333,16 +3333,11 @@ vipoasis.shop
 vipshopee.cc
 vipshopee.com
 viptikivn.club
-visa-mb.com
-visa-vibbank.com
 visa-vpbank-uu-tien.com
 vitienonline88.com
 vitindungpgbank.com
 viva.exchange
-viva2.exchange
 vivayvnd.com
-vletcombank.com
-vmayman.com
 vn-banking.xyz
 vn-banks.xyz
 vn-cl.xyz
@@ -3453,6 +3448,8 @@ vnhopqua.com
 vnietinbank.com
 vnmcrd2s.online
 vnpanda.shop
+vnpay-quetthetindung.com
+vnpay-ruttientindung.com
 vnpay247-ruttientindung.com
 vnpaycredit-ruttientindung247.com
 vnpaycreditruttientindung-247.com
