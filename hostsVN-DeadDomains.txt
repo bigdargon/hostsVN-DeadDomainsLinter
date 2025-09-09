@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
-sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -26,10 +25,8 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
-tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -142,7 +139,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
@@ -231,7 +227,6 @@ ad-spb.ru
 ad.abctv.com
 ad.foxnetworks.com
 adaftegloomto.com
-adbrn.com
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -623,7 +618,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
@@ -695,6 +689,7 @@ hoowooze.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -742,6 +737,7 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
+jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
@@ -799,7 +795,6 @@ kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
-kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -851,7 +846,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -963,6 +957,7 @@ opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
+oqdtuqat.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1032,6 +1027,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1246,7 +1242,6 @@ tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
-tlkbfilacsw.com
 toathoule.com
 total-fee.com
 touphudipodou.net
@@ -1334,6 +1329,7 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
+vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
 wagersinging.com
@@ -1441,7 +1437,6 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
