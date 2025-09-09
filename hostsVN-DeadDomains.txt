@@ -5,6 +5,7 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
+sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -25,8 +26,10 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
+panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -139,6 +142,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
@@ -656,7 +660,6 @@ gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
-hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
@@ -701,7 +704,6 @@ hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
-iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -795,12 +797,12 @@ kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
+kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lambingsyddir.com
-lapnicjaqxu.com
 lassampy.com
 lbmqciazrpm.com
 leestoptee.com
@@ -846,6 +848,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1242,6 +1245,7 @@ tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
+tlkbfilacsw.com
 toathoule.com
 total-fee.com
 touphudipodou.net
@@ -1328,7 +1332,6 @@ vstvstsa.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
-vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
@@ -1400,7 +1403,6 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
 yfetyg.com
-yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
