@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -42,6 +44,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -73,6 +81,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -104,6 +116,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -140,6 +154,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv788.me
 aj2566.bid
 aj2578.bid
 aj2581.bid
@@ -213,6 +228,7 @@ achieverknee.com
 aczopdxfy.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
 ad.foxnetworks.com
 adaftegloomto.com
 adbrn.com
@@ -272,6 +288,7 @@ akxopgjuw.com
 alkalizemarineprude.com
 alleviatepracticableaddicted.com
 allodsubussu.com
+allstarmediagroup.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -329,6 +346,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
@@ -485,6 +503,8 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
+doaglunoupa.net
+doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -549,6 +569,7 @@ febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
+fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fidokhffekm.com
@@ -602,6 +623,7 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
+go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
@@ -673,7 +695,6 @@ hoowooze.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
-hscozgoqffn.com
 hsestonicaawofw.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -721,7 +742,6 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jighucme.com
-jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
@@ -805,6 +825,7 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loftsbaacad.com
+loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -866,7 +887,9 @@ mwejhobumo.com
 mylwwuqdhidkmx.com
 naishoochoh.com
 nangalupeose.com
+nastinessreplicaupload.com
 nationalgausewatrust.com
+naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
@@ -918,6 +941,7 @@ ogsbpoofzlk.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 ojgzyztrmr.com
+ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
@@ -939,7 +963,6 @@ opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
-oqdtuqat.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1009,7 +1032,6 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
-poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1049,6 +1071,7 @@ qakzfubfozaj.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
+qfeadpmagq.com
 qipshozipsah.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1077,11 +1100,11 @@ rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
 receptiveink.com
+record.bonniergaming.com
 reecegrita.com
 reflushneuma.com
 refraintupaiid.com
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1311,7 +1334,6 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
-vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
 wagersinging.com
@@ -1413,11 +1435,13 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
