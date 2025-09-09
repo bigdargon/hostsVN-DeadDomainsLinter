@@ -170,6 +170,7 @@ adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
+track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -430,7 +431,6 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -472,7 +472,6 @@ dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
-dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -535,6 +534,7 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -688,6 +688,7 @@ hnyhiytf.com
 hoaphosurer.com
 hoddlegamey.com
 hoocaumakopaibu.com
+hoowooze.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
@@ -777,6 +778,7 @@ kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
+kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
@@ -892,6 +894,7 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
+nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
 news-central.org
@@ -919,10 +922,8 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
-octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1155,6 +1156,7 @@ serconmp.com
 setypckq.com
 sf960.com
 shakyseat.com
+shakytaste.com
 shareadspace.com
 sharepointads.com
 sheesoah.net
