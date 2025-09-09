@@ -255,7 +255,6 @@ adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
-adsrveys.com
 adtoma.com
 adyea.com
 adyieldoptimizer.com
@@ -794,7 +793,6 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -922,8 +920,10 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
+obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
+octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1361,7 +1361,6 @@ wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
 woamowhoastoup.net
-wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woomerapapacy.shop
