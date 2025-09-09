@@ -22,16 +22,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -57,14 +47,12 @@ advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
-dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
-ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
@@ -161,6 +149,7 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
+aj3007.bid
 aj3017.bid
 aj101.xyz
 cdn.hbplatform.com
@@ -279,7 +268,6 @@ ajratgatjav.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
-ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
@@ -345,6 +333,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -499,14 +488,12 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
-dsp.io
 ducksintroduce.com
 dulrihaungy.com
 dumkcuakrlka.com
@@ -633,7 +620,6 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
-grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -773,6 +759,7 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
+kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
@@ -1136,6 +1123,7 @@ rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1177,7 +1165,6 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smnyayzhv.com
 smstcksjn.com
