@@ -44,6 +44,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
+count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -83,10 +84,14 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 www.mobile-10.com
+native-vpaid.winadx.com
 rewarded.winadx.com
+service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 bidadx.com
@@ -178,7 +183,6 @@ adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
-track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 mautic.educe.vn
@@ -251,6 +255,7 @@ adrevolver.com
 ads-to.click
 ads.cdn2-img.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -264,6 +269,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
+adverdirect.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -499,8 +505,6 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
-digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -520,7 +524,6 @@ dumkcuakrlka.com
 dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
-eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
@@ -549,7 +552,6 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
-exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
 exterminateantique.com
@@ -584,7 +586,6 @@ fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
-flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -857,6 +858,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
@@ -901,7 +903,6 @@ nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
-neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
@@ -927,7 +928,6 @@ nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1112,6 +1112,8 @@ realizeparish.com
 receptiveink.com
 reecegrita.com
 reflushneuma.com
+refraintupaiid.com
+regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1437,6 +1439,7 @@ zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
+zkyqafavdg.com
 zmalalxt.com
 zpefriam.com
 zuisinchills.shop
