@@ -1,4 +1,4 @@
-# Version: 2508191416
+# Version: 2509101534
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -296,6 +296,7 @@
 ||bestbitbank.co^
 ||bestbitcoinbank.net^
 ||bgtib222.com^
+||bhxh.co^
 ||bideo-blog.com^
 ||bideo-blog.xyz^
 ||bideo-cdn.com^

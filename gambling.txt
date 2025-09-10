@@ -1,4 +1,4 @@
-# Version: 2508191416
+# Version: 2509101534
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -110,6 +110,7 @@
 ||001998.com^
 ||001fxh9-fe-source.bjravv03.com^
 ||001fxh9-tiger-fluid.bjravv03.com^
+||001ir33gec-api.8xdfd3t6f.com^
 ||001k8.com^
 ||001ky1.com^
 ||001ky4.com^
@@ -42385,6 +42386,7 @@
 ||8x0532.com^
 ||8x054.com^
 ||8x0543.com^
+||8x0544.com^
 ||8x0545.com^
 ||8x0546.com^
 ||8x055.com^
@@ -49349,6 +49351,7 @@
 ||api.t3cdn.com^
 ||api.t8casino.com^
 ||api.tk8844.app^
+||api.topbet.top^
 ||api.uzzisk.site^
 ||api.v79top.com^
 ||api.v7king.com^
@@ -50062,6 +50065,7 @@
 ||b3ss.com^
 ||b4.big88.com^
 ||b4.big88.net^
+||b4.dom88.com^
 ||b4.pum88.com^
 ||b4.qibet.com^
 ||b4.vibet.com^
@@ -56714,6 +56718,7 @@
 ||da87.com^
 ||da88.com^
 ||da88.pro^
+||da88.vip^
 ||da88.win^
 ||da88vn.win^
 ||dabanh.thethaofb88.com^
@@ -57742,6 +57747,7 @@
 ||doithuong999.com^
 ||dola88.info^
 ||dola99.vip^
+||dom88.com^
 ||dom99.club^
 ||dominobet88slot.com^
 ||dominoqq.asia^
@@ -59057,6 +59063,7 @@
 ||fb88999.com^
 ||fb88afc.com^
 ||fb88aff.com^
+||fb88affcn.com^
 ||fb88affok.com^
 ||fb88affth.com^
 ||fb88affvn.com^
@@ -59093,6 +59100,7 @@
 ||fb88ipl.com^
 ||fb88laliga.com^
 ||fb88laliga.pro^
+||fb88lao.com^
 ||fb88link.net^
 ||fb88live.com^
 ||fb88lottery.com^
@@ -61624,6 +61632,7 @@
 ||gem.win^
 ||gem1.win^
 ||gem79.win^
+||gem88.com^
 ||gem88.win^
 ||gemarlapsbo.com^
 ||gemblondong77.xyz^
@@ -69407,6 +69416,7 @@
 ||k87kjs32s239.com^
 ||k88.casino^
 ||k88.pro^
+||k88.win^
 ||k8801.com^
 ||k8804.com^
 ||k8805.com^
@@ -73371,6 +73381,7 @@
 ||man2.vip^
 ||man79.org^
 ||man88.net^
+||man88.top^
 ||manabane.com^
 ||manasbotop.com^
 ||manbet111.com^
@@ -80766,6 +80777,7 @@
 ||socket.debet.uk^
 ||socket.debet.win^
 ||socket.hdbet.com^
+||socket.topbet.top^
 ||soco88.com^
 ||socvip9.club^
 ||sodanum.vip^
@@ -81066,6 +81078,7 @@
 ||static.fabet.com^
 ||static.fastbs55.com^
 ||static.for88-static.com^
+||static.gem88.com^
 ||static.hi88.de^
 ||static.lu88.com^
 ||static.lucky88.com^
@@ -81077,6 +81090,7 @@
 ||static6176.com^
 ||static6186.com^
 ||staticbom88.win^
+||staticda88.com^
 ||staticdu88.win^
 ||staticga88.pro^
 ||statick9bet.com^
@@ -82885,6 +82899,7 @@
 ||top9nhacai.top^
 ||topaffiliates.net^
 ||topaffy.com^
+||topbet.top^
 ||topbet88th.com^
 ||topbetla.com^
 ||topcado.com^
@@ -84994,6 +85009,7 @@
 ||vibet.com^
 ||vic.win^
 ||vic2.club^
+||vic88.com^
 ||vicbet.com^
 ||vicplay.io^
 ||victorwin555.com^
@@ -85982,6 +85998,7 @@
 ||vtyf58.com^
 ||vtyt0.com^
 ||vu88.com^
+||vu88.net^
 ||vua2.club^
 ||vua69.com^
 ||vua88.app^
@@ -88403,6 +88420,7 @@
 ||wp.rikvip.tv^
 ||wp.sky88.com^
 ||wp.sky88.fun^
+||wp.topbet.top^
 ||wphonebetterbet.com^
 ||wplay.co^
 ||wq202.com^
@@ -89290,6 +89308,7 @@
 ||www.fabet88.net^
 ||www.favbet.ua^
 ||www.fb88aff.com^
+||www.fb88affcn.com^
 ||www.fb88affok.com^
 ||www.fb88affvn.com^
 ||www.fb88c1.com^
@@ -89301,6 +89320,7 @@
 ||www.fb88gateway.com^
 ||www.fb88hay.com^
 ||www.fb88id.com^
+||www.fb88lao.com^
 ||www.fb88max.com^
 ||www.fb88roma.com^
 ||www.fb88sg.com^
