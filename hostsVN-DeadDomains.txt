@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -81,7 +79,6 @@ www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cdn.appier.xyz
 www.mobile-10.com
 native-vpaid.winadx.com
@@ -118,6 +115,8 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+b91vip.com
+image.b91vip.com
 www.b91vip.com
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -127,12 +126,7 @@ supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
-samsungadhub.com
-click-eu.expmediadirect1.com
-click.expmediadirect1.com
 expmediadirect1.com
-fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -185,7 +179,6 @@ k8s2.testcentre.vn
 testcentre.vn
 mautic.educe.vn
 mautic.serverhub.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
@@ -236,6 +229,7 @@ abpvhymadq.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aczopdxfy.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -258,6 +252,7 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
@@ -279,7 +274,6 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
-aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 ajggirci.com
@@ -302,6 +296,7 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 anglemarrowoccurs.com
+anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -352,7 +347,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
@@ -623,6 +617,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -648,8 +643,6 @@ grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
-grubsnuchale.com
-grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
@@ -1032,6 +1025,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
 pixel.personagraph.com
+planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
 pocrowpush.com
@@ -1042,7 +1036,6 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
-poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1084,9 +1077,7 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
-qipshozipsah.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
@@ -1211,7 +1202,6 @@ spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
-steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -1357,8 +1347,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
-wathoojoba.com
-wawhoufteedaksu.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
@@ -1426,6 +1414,7 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonomastara.com
+yovqnwnmpzz.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -1455,6 +1444,7 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+tracking.news360.store
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
