@@ -6,9 +6,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-ylx-a-img.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -182,6 +179,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -241,7 +239,6 @@ ad.abctv.com
 ad.foxnetworks.com
 ad1.emediate.dk
 adaftegloomto.com
-adcloud.net
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -251,10 +248,8 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.cdn2-img.net
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-ads.printscr.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
@@ -285,7 +280,6 @@ ailtashoackie.com
 aimaniape.club
 ajggirci.com
 ajghtafutjt.com
-ajglirsuk.com
 ajratgatjav.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -372,6 +366,7 @@ benonblkd.xyz
 beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
+bestadbid.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
@@ -733,6 +728,7 @@ interndry.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
+ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itriyokj.com
@@ -778,7 +774,6 @@ kalwundked.com
 kamak-mab.com
 katukaunamiss.com
 kauleeci.com
-kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
@@ -824,7 +819,6 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 link4ads.com
-liquidad.narrowcastmedia.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -877,7 +871,6 @@ mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
-mobbersinwalls.com
 mobisla.com
 moodokay.com
 moomenog.com
@@ -885,6 +878,7 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
+mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -985,6 +979,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
@@ -993,6 +988,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
+owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
@@ -1064,7 +1060,6 @@ ptoahaistais.com
 ptoushoa.com
 ptukasti.com
 ptumsess.com
-ptuxapow.com
 ptygunjk.com
 public.wedodemos.com
 publicunloadbags.com
@@ -1084,14 +1079,12 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
-qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
 qumagee.com
@@ -1230,7 +1223,6 @@ swarthymacula.com
 swrggntsvmsgv.com
 tacticmarshannouncing.com
 tagmngrs.com
-tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1301,6 +1293,7 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
+urgerrebasis.com
 urigagxnji.com
 uselnk.com
 userresewn.com
@@ -1360,14 +1353,12 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whugesto.net
 wibtntmvox.com
 widespace.com
 wimswuppoxan.com
 windsattributeron.com
-wishedverde.com
 wissoony.net
 wistfulbalmy.com
 wiwoqcmp.com
