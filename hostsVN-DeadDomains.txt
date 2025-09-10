@@ -6,10 +6,7 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
+ylx-a-img.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
@@ -118,8 +115,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -187,7 +182,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-mautic.educe.vn
 mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -256,11 +250,11 @@ adrastos-eli.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+ads.printscr.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
@@ -273,7 +267,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
-adtoma.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -360,6 +353,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
+bande2az.com
 banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
@@ -378,7 +372,6 @@ benonblkd.xyz
 beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
-bestadbid.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
@@ -474,7 +467,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cycledaction.com
@@ -741,7 +733,6 @@ interndry.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
-ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itriyokj.com
@@ -833,6 +824,7 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 link4ads.com
+liquidad.narrowcastmedia.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -893,7 +885,6 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
-mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -994,7 +985,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
@@ -1002,7 +992,8 @@ outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
-owvobdogd.com
+owjwhuaklf.com
+owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
@@ -1218,7 +1209,6 @@ spyokjoxdl.com
 spywarelabs.com
 ssqyuvavse.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1311,7 +1301,6 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
-urgerrebasis.com
 urigagxnji.com
 uselnk.com
 userresewn.com
