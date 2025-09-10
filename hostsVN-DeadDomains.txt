@@ -18,6 +18,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -92,7 +93,6 @@ cdn.appier.xyz
 www.mobile-10.com
 pgmcdn.com
 bidadx.com
-anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -272,7 +272,6 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
-adsrv.wtf
 adsrveys.com
 adtoma.com
 adyea.com
@@ -320,7 +319,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 api.ampiri.com
 apxszeaj.com
-apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -345,6 +343,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
@@ -447,7 +446,6 @@ chullohagrode.com
 cigdizwu.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -619,7 +617,6 @@ fxclix.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
-gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -758,7 +755,6 @@ jewgn8une.com
 jfgeuisugoekf.com
 jhxakdmdlz.com
 jildiklta.com
-jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -793,6 +789,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
+kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
@@ -875,7 +872,6 @@ meowpushnot.com
 mesangefanwise.tech
 metahv.xyz
 mfajfikmyqan.com
-mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
@@ -902,6 +898,7 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 mylwwuqdhidkmx.com
+naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastinessreplicaupload.com
@@ -1018,7 +1015,6 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-pasheeheghie.net
 pc2ads.com
 pcmclk.com
 pefsustazvzgop.com
@@ -1073,7 +1069,6 @@ ptewarin.net
 ptoahaistais.com
 ptoushoa.com
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptygunjk.com
 public.wedodemos.com
@@ -1154,6 +1149,7 @@ rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
+ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
@@ -1237,7 +1233,6 @@ surtaultathoado.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
-swrggntsvmsgv.com
 tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
@@ -1391,9 +1386,7 @@ wonderlandads.com
 woomerapapacy.shop
 wormslitty.top
 worstideatum.com
-wqjbldnnceroue.com
 wreaksyolkier.com
-wrestcut.com
 www.money4exit.de
 www.pcmclk.com
 www.qcerujcajnme.com
@@ -1446,7 +1439,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
-zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
