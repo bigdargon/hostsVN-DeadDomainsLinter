@@ -6,6 +6,7 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -72,6 +73,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -164,6 +166,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv788.me
 aj2566.bid
 aj2578.bid
@@ -295,7 +298,6 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
-alebrinkfed.com
 alkalizemarineprude.com
 alleviatepracticableaddicted.com
 allodsubussu.com
@@ -577,7 +579,9 @@ febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
+fer2oxheou4nd.com
 ffuoqgdhiqu.com
+fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
@@ -595,6 +599,7 @@ forfeitsubscribe.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+framestighterauthorize.com
 frameworkdeserve.com
 free.srcdn.xyz
 frightenedpotato.com
@@ -714,7 +719,6 @@ hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
-ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
@@ -834,6 +838,7 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loftsbaacad.com
+loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -882,16 +887,13 @@ mobbersinwalls.com
 mobisla.com
 moodokay.com
 moomenog.com
-moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
-mt34iofvjay.com
 mulautuzign.com
-munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 mylwwuqdhidkmx.com
@@ -1022,7 +1024,6 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1059,6 +1060,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 pteemsolrirgegi.com
@@ -1073,6 +1075,7 @@ public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
+pumywyczbks.com
 purgavax.com
 pushazer.com
 pvnocbyq.com
@@ -1365,6 +1368,7 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+whimogheshestid.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
@@ -1456,7 +1460,6 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
