@@ -6,7 +6,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -73,7 +72,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -166,7 +164,6 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv788.me
 aj2566.bid
 aj2578.bid
@@ -298,6 +295,7 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 alleviatepracticableaddicted.com
 allodsubussu.com
@@ -357,6 +355,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
+bande2az.com
 banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
@@ -578,9 +577,7 @@ febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
-fer2oxheou4nd.com
 ffuoqgdhiqu.com
-fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
@@ -598,7 +595,6 @@ forfeitsubscribe.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
-framestighterauthorize.com
 frameworkdeserve.com
 free.srcdn.xyz
 frightenedpotato.com
@@ -779,6 +775,7 @@ jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
+kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 katukaunamiss.com
@@ -818,6 +815,7 @@ labapwlkyov.com
 lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
+lauloajaiph.net
 lbmqciazrpm.com
 leestoptee.com
 leetmenllew.com
@@ -836,7 +834,6 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 loftsbaacad.com
-loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -936,6 +933,7 @@ oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
+oaxntxan.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -1061,7 +1059,6 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
-psausuck.net
 pscbrveha.com
 psipausaix.net
 pteemsolrirgegi.com
@@ -1076,7 +1073,6 @@ public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
-pumywyczbks.com
 purgavax.com
 pushazer.com
 pvnocbyq.com
@@ -1178,6 +1174,7 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 sharepointads.com
+shaughaupoo.net
 sheesoah.net
 shelfoka.com
 shestour.net
@@ -1278,6 +1275,7 @@ trustbummler.com
 trustisimportant.fun
 tshfc.com
 tufoknaqzolp.com
+tumblebit.org
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
@@ -1287,6 +1285,7 @@ tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
+ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
@@ -1361,6 +1360,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wawhoufteedaksu.com
+weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -1456,6 +1456,7 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+suriflowers.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
