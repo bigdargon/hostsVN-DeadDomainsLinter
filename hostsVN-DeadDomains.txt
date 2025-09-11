@@ -35,6 +35,7 @@ ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
+magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 brand.ad
@@ -89,6 +90,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -124,7 +126,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
-p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
@@ -136,7 +137,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
@@ -152,7 +152,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
 aj2566.bid
-aj2578.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -165,8 +164,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -273,7 +270,6 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
-ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -432,6 +428,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
+conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constructpoll.com
@@ -545,6 +542,7 @@ facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagywalu.pro
+faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -600,7 +598,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -613,6 +610,7 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
+go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
@@ -715,7 +713,6 @@ inquiryblue.com
 instinctiveads.com
 instrumentsponge.com
 interndry.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -751,7 +748,6 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1037,6 +1033,7 @@ poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
+pr-ten.de
 pramviable.com
 pranavafolksey.com
 pre4sentre8dhf.com
@@ -1046,7 +1043,6 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1258,6 +1254,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1340,10 +1337,8 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtvldhbbdilepes.com
-vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
-vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
 wagersinging.com
@@ -1419,7 +1414,6 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
-yogar2ti8nf09.com
 yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
@@ -1452,6 +1446,7 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+suriflowers.com
 tracking.news360.store
 worldgravity.com
 yoursitestatstube.ru
