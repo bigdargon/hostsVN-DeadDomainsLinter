@@ -22,6 +22,7 @@ spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -42,6 +43,7 @@ a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
+n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
@@ -85,10 +87,10 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -203,7 +205,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
-2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -310,7 +311,6 @@ ataccwpdiqqnfl.com
 atonementwisely.com
 atrmkoopdlhu.com
 atrochaxctl.shop
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -320,7 +320,9 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avsakrcapna.com
 avvavcazs.com
+avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
@@ -407,7 +409,6 @@ chertouz.net
 chiamfxz.com
 chickensstation.com
 chinaslauras.com
-chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -501,7 +502,6 @@ drydrum.com
 ducksintroduce.com
 dulrihaungy.com
 dumkcuakrlka.com
-dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
@@ -553,7 +553,6 @@ faronqdkimah.com
 fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
-fcqqbrfucuf.com
 fdqrfiwkaeds.com
 febadu.com
 feegritoapoo.com
@@ -912,6 +911,7 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nuckinxuco.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1047,6 +1047,7 @@ proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
+prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1260,7 +1261,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1277,7 +1277,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
@@ -1288,7 +1287,6 @@ ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
-uninvitedenvious.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
@@ -1416,7 +1414,6 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
-ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
 yfetyg.com
