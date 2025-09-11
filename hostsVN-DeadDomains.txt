@@ -22,7 +22,6 @@ spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -43,7 +42,6 @@ a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
-n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
@@ -87,12 +85,12 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -220,6 +218,7 @@ abmgpaqf.com
 abpvhymadq.com
 abyocawlfe.com
 acerolawaists.com
+achieverknee.com
 aczopdxfy.com
 ad-miner.com
 ad-spb.ru
@@ -282,6 +281,7 @@ akxopgjuw.com
 alkalizemarineprude.com
 alleviatepracticableaddicted.com
 allodsubussu.com
+alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -320,9 +320,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avsakrcapna.com
 avvavcazs.com
-avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
@@ -555,6 +553,7 @@ faronqdkimah.com
 fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
+fcqqbrfucuf.com
 fdqrfiwkaeds.com
 febadu.com
 feegritoapoo.com
@@ -913,7 +912,6 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nuckinxuco.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1036,6 +1034,7 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
@@ -1048,7 +1047,6 @@ proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1331,9 +1329,11 @@ vipicmou.net
 virleth.com
 visualrevenue.com
 vivvuvkra.com
+vkeadqoff.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
+vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
