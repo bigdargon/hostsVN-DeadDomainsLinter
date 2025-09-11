@@ -66,10 +66,8 @@ mstorer.net
 zetadeo.com
 ei.imstks.com
 i.imstks.com
-imstks.com
 t.imstks.com
 www.imstks.com
-engine.bitmedianetwork.com
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -135,6 +133,7 @@ ads.livetv689.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
@@ -145,6 +144,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -370,6 +370,7 @@ c.cdn-server.top
 c43a3cd8f99413891.com
 caiwheechous.com
 camberchimp.com
+canangafierier.uno
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -392,7 +393,6 @@ chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
-chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
@@ -771,7 +771,6 @@ kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
-kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
@@ -1236,7 +1235,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1305,7 +1303,6 @@ vivvuvkra.com
 vkeadqoff.com
 vmcxdaynkhnekp.com
 vmweb.net
-vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
