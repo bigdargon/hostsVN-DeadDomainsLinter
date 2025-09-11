@@ -125,9 +125,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
@@ -137,6 +134,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
@@ -270,6 +268,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -294,7 +293,6 @@ aqncinxrexa.com
 areamindless.com
 aries-nbl.com
 armfullitigateslate.com
-armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -457,7 +455,6 @@ dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
-daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -553,7 +550,6 @@ febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
-fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fidokhffekm.com
@@ -610,7 +606,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
@@ -713,6 +708,7 @@ inquiryblue.com
 instinctiveads.com
 instrumentsponge.com
 interndry.com
+intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -748,6 +744,7 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1033,7 +1030,6 @@ poopelouque.com
 poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
-pr-ten.de
 pramviable.com
 pranavafolksey.com
 pre4sentre8dhf.com
@@ -1043,6 +1039,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1051,7 +1048,6 @@ ptewarin.net
 ptoahaistais.com
 ptoushoa.com
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptygunjk.com
 public.wedodemos.com
@@ -1141,7 +1137,6 @@ rvotdlvpwmynan.xyz
 rwukupjis.com
 rwulzuaqsafn.com
 sackbarngroups.com
-sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
@@ -1170,7 +1165,6 @@ shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
-shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
@@ -1254,7 +1248,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1283,7 +1276,6 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unphionetor.com
-unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
@@ -1294,7 +1286,6 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
-urgerrebasis.com
 urigagxnji.com
 uselnk.com
 userresewn.com
@@ -1337,8 +1328,10 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtvldhbbdilepes.com
+vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
+vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
 wagersinging.com
@@ -1380,7 +1373,6 @@ wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
 www.pcmclk.com
-www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -1414,6 +1406,7 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
@@ -1446,7 +1439,6 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
 worldgravity.com
 yoursitestatstube.ru
