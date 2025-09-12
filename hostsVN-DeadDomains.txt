@@ -13,8 +13,6 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
-rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -83,9 +81,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-asdpoi.com
-widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -208,6 +203,7 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
@@ -286,7 +282,6 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
@@ -332,6 +327,7 @@ blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
@@ -339,7 +335,6 @@ brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -361,7 +356,6 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 caugrithoowhu.net
-cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
@@ -455,8 +449,6 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
-doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -518,7 +510,6 @@ faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 fer2oxheou4nd.com
@@ -627,7 +618,6 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 heeceeceejo.com
-heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heukpiroot.com
@@ -733,7 +723,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
-kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
@@ -927,7 +916,6 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
-ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1049,6 +1037,8 @@ qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
+qwuopcbilw.com
+qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1079,6 +1069,7 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
@@ -1392,6 +1383,7 @@ zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
+zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zpefriam.com
@@ -1405,6 +1397,5 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
-tracking.news360.store
 worldgravity.com
 yoursitestatstube.ru
