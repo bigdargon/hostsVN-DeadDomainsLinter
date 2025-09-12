@@ -148,7 +148,6 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -187,7 +186,6 @@ banktopvn.online
 bankvn1s.com
 banthang.me
 bao-moi.pro
-baohanhdienmayxanhvn.com
 baohiemxahoi.vnagov.com
 baosaoviet24h.net
 baotienphong.net
@@ -860,6 +858,7 @@ hot-membership.com
 hotbuckers.com
 hotdealshopee.com
 hotline-dienmayxanh.com
+hotro-garenavn.com
 hotro-taikhoan-garena-lqmb.com
 hotro-vi.net
 hotro-vn.com
@@ -1218,7 +1217,6 @@ m.maxdong101.com
 m.mmocorporation2017.com
 m.nbm65.com
 m.thuecn.top
-m.tot166.com
 m.vncongthue.top
 m.vnsc-finhay.com
 macysbyi.com
@@ -1404,6 +1402,7 @@ morganbank.pw
 morganbank.site
 morganbankk.com
 motaikhoannganhang.online
+mothe.tindung-hd.com
 mp0s247-quetthetindung.com
 mp220303.com
 mpos-phieudangkyruttien.com
@@ -1420,8 +1419,10 @@ msbfhd.com
 muaaccfifa.com
 muabannhanh.pro
 muabannickforumug.com
+muabanwin.co
 muacard.org
 muaclone979.tk
+muacodehay.com
 muahangcargo.com
 muahangnhanh.net
 muaho8.com
@@ -1489,7 +1490,6 @@ napefootball2022.com
 napff3s.com
 napffgiare.com
 napffx10.com
-napfree.net
 napfreefire.me
 napfreefiregame.com
 napfreefirenhanh.com
@@ -1693,6 +1693,7 @@ omfghellobrosjda38.org
 onhamuadich.com
 onirybank.com
 online-ibank.com
+online.acbonliine.com
 online.acbvnx.com
 onlinebank-shopee.vn
 onlinebanking-shopee.vn
@@ -1874,6 +1875,7 @@ rocktrustbank.com
 royalshop2021.shop
 rutientuthetindung.com
 rutientuthetindung5s.com
+rutkimcuong24h.com
 rutthe-mpos.com
 rutthempos-vn.com
 rutthetindungmpos247.com
@@ -2486,6 +2488,7 @@ taiappbank.info
 taichinhacs.biz
 taichinhagribank.com
 taichinhanbin.com
+taichinhanbin.net
 taichinhanbinh.com
 taichinhanbinh.net
 taichinhbank.com.vn
@@ -2508,7 +2511,6 @@ takk6.com
 tammenaa.com
 tang-han-muc-the-visa-vn.com
 tang-han-muc-tin-dung-vn.com
-tangcuongbanlinh.com
 tangcuongsinhluc.site
 tanghanmuc-vn.com
 tanghanmucvisa-vn.com
@@ -2949,7 +2951,6 @@ vaycreditone.fun
 vaycucde.vn
 vaydaiphat.com
 vayde247.net
-vaygap.store
 vaygap365.online
 vayhappy.com
 vaykimtruongphat.org
@@ -3047,7 +3048,6 @@ vaytinchapcanhan.online
 vaytinchapnhanh-bidv.com
 vaytinchapshinhan247.com
 vaytinchapshinhanbank-vn.com
-vaytinchaptieudungshinhanbank.com
 vaytinchapvpbank.com
 vaytindung-techcombank.online
 vaytindungnhanh.online
@@ -3642,6 +3642,7 @@ warrenmoneytrader.com
 wbk9sohp.jdpz.link
 web-membbership-freefire-garena.com
 web-shopee-vn.com
+webbanklienthong247.com
 webinfo-ebank.com
 weblenhangiaivn.com
 webnapgame.com
