@@ -1,4 +1,3 @@
-www.advertica.ae
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -59,6 +58,7 @@ filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
+rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
@@ -117,7 +117,6 @@ image.b91vip.com
 www.b91vip.com
 ad.samsungadhub.com
 samsungadhub.com
-click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 delivery.taroads.com
@@ -223,7 +222,6 @@ adigi.icu
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adrastos-eli.com
 adreclaim.com
 ads-to.click
@@ -258,7 +256,6 @@ ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
 ajggirci.com
 ajghtafutjt.com
@@ -374,7 +371,6 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
@@ -424,7 +420,6 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
-coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
 conformfavoredgauging.com
@@ -440,7 +435,6 @@ cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -563,7 +557,6 @@ fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -600,7 +593,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -850,8 +842,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-matecatenae.com
-mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -899,7 +889,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netcommunities.com
 news-central.org
 newstarads.com
 nfucujozv.com
@@ -1011,7 +1000,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1103,7 +1091,6 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 raphanysteers.com
-razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
@@ -1193,7 +1180,6 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
-slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -1262,13 +1248,11 @@ tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
-tlkbfilacsw.com
 toathoule.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficads.net
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1322,7 +1306,6 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
-vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -1402,6 +1385,7 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
+xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
