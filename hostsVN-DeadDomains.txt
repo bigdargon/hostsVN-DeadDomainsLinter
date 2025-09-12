@@ -5,9 +5,6 @@ cfa.2mdnsys.com
 adthor.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -62,9 +59,7 @@ mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
-t.imstks.com
 www.imstks.com
-www.mobile-10.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -891,8 +886,10 @@ oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
+ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
+ohgorbqcegig.com
 ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
@@ -1116,6 +1113,7 @@ seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
+shakyseat.com
 shakytaste.com
 shareadspace.com
 sharepointads.com
@@ -1182,10 +1180,10 @@ tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
+tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
-tearerernest.com
 terrapsps.com
 tetrylscullion.com
 thads.cc
