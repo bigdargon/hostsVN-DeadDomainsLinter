@@ -1,3 +1,4 @@
+www.advertica.ae
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -21,6 +22,7 @@ native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
+spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
 aj1549.online
@@ -55,6 +57,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -63,7 +66,6 @@ static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
-mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
@@ -230,9 +232,7 @@ ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
-ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -275,7 +275,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -310,6 +309,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
@@ -435,6 +435,7 @@ cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -446,7 +447,6 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
-dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
@@ -705,6 +705,7 @@ impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
 inquiryblue.com
+instinctiveads.com
 instrumentsponge.com
 interndry.com
 intnotif.club
@@ -955,7 +956,6 @@ opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 orb92.com
-orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
@@ -1036,7 +1036,6 @@ presidestatelycondition.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
-proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -1073,6 +1072,7 @@ qipshozipsah.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
+qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1211,6 +1211,7 @@ stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
 strikead.com
+stunninglover.com
 subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -1248,6 +1249,7 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
+tkoqgxnvt.com
 tlkbfilacsw.com
 toathoule.com
 total-fee.com
