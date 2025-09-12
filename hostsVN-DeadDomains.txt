@@ -1,3 +1,4 @@
+www.advertica.ae
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -22,6 +23,7 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -57,7 +59,6 @@ filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
-rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
@@ -235,11 +236,11 @@ ads.wedodemos.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -637,6 +638,7 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
+gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -849,6 +851,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
+mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1000,9 +1003,11 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
+pasheeheghie.net
 pc2ads.com
 pcmclk.com
 pefsustazvzgop.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
@@ -1263,6 +1268,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1396,7 +1402,6 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
-xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
@@ -1432,6 +1437,7 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
+yummiergangue.shop
 zavawvsa.com
 zbwp6ghm.com
 zeegreen.net
