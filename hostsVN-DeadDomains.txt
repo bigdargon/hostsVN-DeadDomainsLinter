@@ -13,6 +13,8 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
+pixel.kau.li
+rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -64,7 +66,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 www.mobile-10.com
-pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -81,6 +82,9 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asdpoi.com
+widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -132,7 +136,6 @@ aj3017.bid
 aj101.xyz
 adserver.atdnetwork.com
 delivery.atdnetwork.com
-platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 app2.jeoway.net
@@ -208,7 +211,6 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -282,6 +284,7 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
+avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
@@ -335,6 +338,7 @@ brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
+btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -356,6 +360,7 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 caugrithoowhu.net
+cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
@@ -449,6 +454,8 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
+doaglunoupa.net
+doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -510,6 +517,7 @@ faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 fer2oxheou4nd.com
@@ -618,6 +626,7 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 heeceeceejo.com
+heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heukpiroot.com
@@ -723,6 +732,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
+kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
@@ -916,6 +926,7 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -971,7 +982,6 @@ pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
-pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -1077,7 +1087,6 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
-rockabox.co
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
@@ -1397,5 +1406,6 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
+tracking.news360.store
 worldgravity.com
 yoursitestatstube.ru
