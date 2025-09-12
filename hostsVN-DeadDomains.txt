@@ -12,6 +12,7 @@ ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
+js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
@@ -39,7 +40,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 brand.ad
-a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
@@ -212,7 +212,6 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -328,7 +327,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -366,7 +364,6 @@ cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
-chaglihysty.pro
 chaikempakr.com
 charming-people.com
 chelonebarpost.com
@@ -475,7 +472,6 @@ eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
-effusedprankle.com
 efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
@@ -613,7 +609,6 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
@@ -809,7 +804,6 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
-mamsauphoachoap.net
 manompas.com
 matecatenae.com
 maximumcash.com
@@ -864,6 +858,7 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
+niltelreekrofik.net
 noerwe5gianfor19e4st.com
 noowhaumurauy.net
 npipajajn.com
@@ -955,6 +950,7 @@ ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
+ozxakfawm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -976,7 +972,6 @@ photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
-pienbitore.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1100,6 +1095,7 @@ rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
+rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
@@ -1269,7 +1265,6 @@ vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
-vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
@@ -1308,7 +1303,6 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
-wateryvan.com
 wathoojoba.com
 wawhoufteedaksu.com
 weesatoothoamu.net
