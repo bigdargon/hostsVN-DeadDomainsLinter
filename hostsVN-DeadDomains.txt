@@ -97,6 +97,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -142,7 +143,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 mautic.serverhub.vn
 app2.jeoway.net
-jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
@@ -162,7 +162,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
-analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -216,7 +215,6 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -287,6 +285,7 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
+aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -353,6 +352,7 @@ burgerbrush.com
 burgoastougregy.net
 bustlemiszone.com
 buzzardcraizey.com
+bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
@@ -706,7 +706,6 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -990,7 +989,6 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 pixel.personagraph.com
 planesknob.com
-plinsaqhsu.com
 pmagumovfma.com
 podsklzegshmnd.com
 pofohensoahee.net
@@ -1083,6 +1081,7 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 rhkyufodw8ochdr3ogsite.com
+ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1138,6 +1137,7 @@ sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
+shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -1167,6 +1167,7 @@ soodejeego.net
 spanuletubings.com
 speakspurink.com
 sprungencase.com
+spyokjoxdl.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
@@ -1226,7 +1227,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tranquilside.com
-traovrjwu.com
 troubledcontradiction.com
 trustbummler.com
 trustisimportant.fun
