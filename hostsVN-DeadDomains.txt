@@ -1,4 +1,3 @@
-googleads-cn.com
 a4.tl
 sdk.a4.tl
 ads.2mdnsys.com
@@ -143,6 +142,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 mautic.serverhub.vn
 app2.jeoway.net
+jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
@@ -162,6 +162,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
+analytics.amedigital.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -340,7 +341,6 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
-brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
@@ -706,6 +706,7 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
+jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -756,7 +757,6 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -989,6 +989,7 @@ pilgrimarduouscorruption.com
 pistolsizehoe.com
 pixel.personagraph.com
 planesknob.com
+plinsaqhsu.com
 pmagumovfma.com
 podsklzegshmnd.com
 pofohensoahee.net
@@ -1020,7 +1021,6 @@ ptewarin.net
 ptoahaistais.com
 ptoushoa.com
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptygunjk.com
 public.wedodemos.com
@@ -1227,6 +1227,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tranquilside.com
+traovrjwu.com
 troubledcontradiction.com
 trustbummler.com
 trustisimportant.fun
@@ -1373,8 +1374,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
-xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xydbpbnmo.com
