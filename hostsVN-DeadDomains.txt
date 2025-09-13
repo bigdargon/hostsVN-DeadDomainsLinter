@@ -54,6 +54,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -77,10 +78,12 @@ www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
 image.b91vip.com
+www.b91vip.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
+supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -142,6 +145,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 vnadssb.com
@@ -199,13 +203,13 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
 agghriwaz.com
@@ -378,6 +382,7 @@ clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
 coappreciate.com
+coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
@@ -550,14 +555,12 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
-gaiwhouvile.com
 gaizoopi.net
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -625,6 +628,7 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
+hivaqfofkche.com
 hjbtunmh.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -997,7 +1001,6 @@ psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
-pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
 ptoushoa.com
