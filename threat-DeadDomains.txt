@@ -432,7 +432,6 @@ dich-vu-the-vdiamond-vpbank.com
 dich-vu-the-vvip-vib.com
 dich-vu-the-vvip-vpb.com
 dich-vu-update-vpbank.com
-dich-vu-vip3-vib.com
 dich-vu-xvip-vib.com
 dichvu-chuyentien24h.000webhostapp.com
 dichvu-dien-mayxanh.com
@@ -587,7 +586,6 @@ ff-member-gazeza.com
 ff-member-shippvn.com
 ff-memberrshipvn-garena.com
 ff-members-garena.vn
-ff-membership-garena.com
 ff-membership-garenal.ga
 ff-membership-grn.com
 ff-membershipp-garena.net
@@ -641,6 +639,7 @@ fr191102204eura.click
 free-fire.shop
 freefire-garena-membership.tk
 freefire-membershipp-garena.com
+freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
 freefire-vietnam.com
 freefirehopqua.com
@@ -820,6 +819,7 @@ hdsaison-vn.com
 hdsaisonvn.com
 hdtinchap.com
 heirreplacem.cfd
+helandsca.cfd
 herihed.cfd
 hethongbank.com
 hethongbank24h.com
@@ -1549,7 +1549,6 @@ napthe11s.xyz
 naptheaov.com
 napthecaox10.com
 napthechinhthuc.com
-naptheff.net
 naptheff.org
 napthefffreefire.com
 naptheffx2.com
@@ -1941,6 +1940,7 @@ sd5069.shop
 sd5487.com
 sd5675.com
 sd8015.xyz
+sdo2435.com
 sdo8357.com
 sdqwf.ga
 seabank-nganhanghanoi.com
@@ -2009,7 +2009,6 @@ shop3322.com
 shop3377.com
 shop3535.com
 shop3737.com
-shop5353.com
 shop5599.com
 shop5t.com
 shop6886.com
@@ -2067,7 +2066,6 @@ shopee.lienkettaikhoannhanquatang.online
 shopee.maquatang.vn
 shopee.nhanqua.online
 shopee.org.in
-shopee.quatang-sinhnhat.vn
 shopee.sootoou.com
 shopee.vn-cskh.online
 shopee.vn-lk.shop
@@ -2309,6 +2307,7 @@ shoptoanquoc247.com
 shoptrau.com
 shoptrumflo.vn
 shoptrumlq.com
+shoptruykich.vn
 shoptuankhaff.com
 shoptule.com
 shoptungtayto.com
@@ -2363,6 +2362,7 @@ sodj88.com
 softwarefpt.com
 somnio-evolve.com
 sonarsurveyof.cfd
+soppe68.com
 soppe68.shop
 sopper68.com
 sos-icloud.com
@@ -2563,6 +2563,8 @@ tfi6678.com
 thang365g.com
 thanhphomomo.com
 thanhtoanlienquan.com
+thanhtrapcrt.online
+thebank247.ga
 thechapnganhang-24h.com
 thegiodidong.com.vn
 thegioididong.me
@@ -2776,7 +2778,6 @@ tpbank.chamsocthekhachhang-thang4.com.vn
 tpbank.chamsocthekhachhang-truc-tuyen.com
 tpbank.vn-cl.xyz
 tpbank.vn-vpb.top
-tpbank84.com
 tpbankc.com
 tpbankdonxuan.click
 tpbankn.com
@@ -3008,6 +3009,8 @@ vaytien3.com
 vaytien365.online
 vaytien7s.site
 vaytien9s.online
+vaytiendailoan.com
+vaytiendoctordong.com
 vaytienduyetnhanh.space
 vaytienlaisuatthap.space
 vaytienmsb.net
@@ -3113,7 +3116,6 @@ vib.chamsockhachhang-uudai-tructuyenthe.com
 vib.chamsockhachhangtheuudai-tructuyen.com.vn
 vib.chamsocthekhachang-tructuyen.com.vn
 vib.chamsocuudaithekhachhang-tructuyen.com
-vib.hanmucvn.com
 vib.khach-hang-the-tructuyen.com
 vib.khach-hang-the-tructuyen.online
 vib.tanghanmuc-vn.com
@@ -3124,7 +3126,6 @@ vib.uudaikhachhang-tructuyen.com.vn
 vib8-vay.com
 vib84.com
 vibbca-nhan.com
-vibcskh.com
 vibvay.com
 vibvayvn.com
 vidientu-247.com
@@ -3603,6 +3604,7 @@ vstvst22toc.com
 vstvst24toc.com
 vstvst25toc.com
 vstvst26toc.com
+vstvst27toc.com
 vstvst28toc.com
 vstvst29toc.com
 vstvst2toc.com
@@ -3768,7 +3770,6 @@ yk37wagdg.life
 yl0sj9.cyou
 ymx33.com
 yunduofei.xyz
-zSmhlV.zgbv.tech
 zeroshop.cc
 zingmp3.pro
 zkika.okyla.de
