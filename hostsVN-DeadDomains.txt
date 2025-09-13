@@ -9,7 +9,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -101,6 +100,7 @@ delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
@@ -345,7 +345,6 @@ brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
-budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
@@ -614,7 +613,6 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -710,6 +708,7 @@ jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
+jollytestpartying.com
 jomtingi.net
 joopaish.com
 joudauhee.com
@@ -971,6 +970,7 @@ pcmclk.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
 petiteumbrella.com
+phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1371,7 +1371,6 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
-xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
@@ -1418,6 +1417,7 @@ zwnsuuaoqfab.com
 analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
+dolohen.com
 go.ad1data.com
 k6r.net
 kitbit.net
