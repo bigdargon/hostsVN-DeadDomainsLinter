@@ -28,9 +28,6 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cpanel.asianmedia.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -79,7 +76,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
-expmediadirect1.com
+fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
@@ -131,6 +128,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 vnadssb.com
 analytics.amedigital.vn
@@ -186,7 +184,6 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -345,7 +342,6 @@ celoortdwt.com
 chaikempakr.com
 charming-people.com
 chelonebarpost.com
-chertouz.net
 chiamfxz.com
 chickensstation.com
 chinaslauras.com
@@ -535,7 +531,6 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
-fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -786,6 +781,7 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 madeupadoption.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1068,7 +1064,6 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
-rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1161,6 +1156,7 @@ stormyachiever.com
 strikead.com
 stunninglover.com
 subheroalgores.com
+sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
@@ -1295,6 +1291,7 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
+wathoojoba.com
 wawhoufteedaksu.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1305,8 +1302,9 @@ whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
+whowhipi.net
+whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wimswuppoxan.com
 windsattributeron.com
