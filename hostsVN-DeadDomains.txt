@@ -97,6 +97,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -133,7 +134,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aj101.xyz
 mautic.educe.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -205,6 +205,7 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -751,8 +752,6 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
-kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
@@ -785,7 +784,6 @@ loftsbaacad.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
@@ -1107,7 +1105,6 @@ ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 rwulzuaqsafn.com
-sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
@@ -1169,7 +1166,6 @@ spyokjoxdl.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
-steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -1422,7 +1418,6 @@ go.ad1data.com
 k6r.net
 kitbit.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
