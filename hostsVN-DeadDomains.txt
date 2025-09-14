@@ -1,9 +1,4 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -14,6 +9,7 @@ ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
+js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
@@ -99,6 +95,7 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
@@ -197,6 +194,7 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
+adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -256,7 +254,6 @@ artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickpop.com
-aslau-cre.info
 asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
@@ -364,6 +361,7 @@ chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
+chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
@@ -388,7 +386,6 @@ coniesnitch.com
 consciouschairs.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -455,6 +452,7 @@ ductathing.com
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
+dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -557,7 +555,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
@@ -692,7 +689,6 @@ jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
-jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
@@ -715,7 +711,6 @@ jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
-kalwundked.com
 kamak-mab.com
 katukaunamiss.com
 kauleeci.com
@@ -893,6 +888,7 @@ ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
+ohjluvpunaxg.com
 ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
@@ -902,7 +898,6 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
-omlbaftroofj.com
 omzostzuswm.com
 on-mobi.com
 onclasrv.com
@@ -962,7 +957,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phocmogo.com
 phoompoukoaltin.net
@@ -995,6 +989,7 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 proetusbramble.com
 profitableheavilylord.com
+propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1045,7 +1040,6 @@ qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
-qxadsk.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1148,9 +1142,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
 soliads.net
-solibothnic.qpon
 songbagoozes.com
-soodejeego.net
 spanuletubings.com
 speakspurink.com
 sprungencase.com
@@ -1213,7 +1205,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1334,6 +1325,7 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
+woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
@@ -1343,7 +1335,6 @@ wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
 www.pcmclk.com
-www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
