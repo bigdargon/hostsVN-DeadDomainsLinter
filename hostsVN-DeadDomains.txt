@@ -21,12 +21,12 @@ aj2498.online
 aj2503.online
 ajxx91.online
 domnovrek.com
-n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
+count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
@@ -72,6 +72,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -119,7 +120,6 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
-analytics.amedigital.vn
 log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -420,7 +420,6 @@ dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
-drydrum.com
 ducksintroduce.com
 ductathing.com
 dulrihaungy.com
@@ -476,6 +475,7 @@ fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
+febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -585,7 +585,6 @@ hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
-heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -677,6 +676,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jwuoxhjuq.com
@@ -697,7 +697,6 @@ kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
-kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -729,6 +728,7 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
+lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
@@ -900,7 +900,6 @@ osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
-ouftukoo.net
 outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
@@ -1165,7 +1164,6 @@ thiem-csl.com
 thinkappetitefeud.com
 thootipheguph.com
 thougnoangi.com
-thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -1199,8 +1197,6 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
-ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1373,7 +1369,6 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
-burstly.com
 dolohen.com
 go.ad1data.com
 k6r.net
