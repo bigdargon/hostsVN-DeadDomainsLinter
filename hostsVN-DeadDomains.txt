@@ -27,7 +27,6 @@ fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
-count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
@@ -73,7 +72,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -90,6 +88,7 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
@@ -358,6 +357,7 @@ compatriotelephant.com
 conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
+constructpoll.com
 contehos.com
 convertedhorace.com
 corrumpsublid.top
@@ -476,7 +476,6 @@ fashmuqpi.com
 faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
-febadu.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -678,7 +677,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jwuoxhjuq.com
@@ -714,6 +712,8 @@ kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
+kuglcibhyhuj.com
+kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
@@ -729,7 +729,6 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
-lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
@@ -801,6 +800,7 @@ mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
+mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1105,6 +1105,7 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
+slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -1380,5 +1381,4 @@ kitbit.net
 q2melbourne.com
 tracking.news360.store
 usergrid.com
-worldgravity.com
 yoursitestatstube.ru
