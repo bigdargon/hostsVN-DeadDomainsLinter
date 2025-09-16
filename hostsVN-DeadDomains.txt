@@ -45,15 +45,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-native-vpaid.winadx.com
-rewarded.winadx.com
-service.winadx.com
-syndication.winadx.com
-tracking.winadx.com
-traffic-serv.winadx.com
-tvc-vpaid.winadx.com
-vpaid.winadx.com
-ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -180,7 +171,6 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
-adshostnet.com
 adsmogo.org
 adsrveys.com
 adverdirect.com
@@ -433,7 +423,6 @@ dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
-drydrum.com
 ducksintroduce.com
 ductathing.com
 dulrihaungy.com
@@ -486,6 +475,7 @@ faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
+faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
@@ -725,6 +715,7 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -926,7 +917,6 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
-oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
@@ -1255,7 +1245,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
-vfuqivac.com
+viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
 virleth.com
