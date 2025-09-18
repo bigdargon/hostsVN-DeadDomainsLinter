@@ -1,6 +1,5 @@
 blueserving.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 adthor.com
@@ -52,7 +51,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -106,9 +104,11 @@ aj3017.bid
 aj101.xyz
 app2.jeoway.net
 jana1.jeoway.net
+ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 bidgear-syndication.com
@@ -167,6 +167,7 @@ ads2.net-communities.co.uk
 adsclick.cc
 adsmogo.org
 adsrveys.com
+adverdirect.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -299,6 +300,7 @@ burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
+buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
@@ -427,6 +429,8 @@ dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
+eechuraubsaud.com
+eemsouftas.com
 efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
@@ -468,7 +472,6 @@ faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
-faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
@@ -573,7 +576,6 @@ h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
-handkerchiefpersonnel.com
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
@@ -815,7 +817,6 @@ naturalistsbumpmystic.com
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
-neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
@@ -913,6 +914,7 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
+ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 pajnutas.com
@@ -959,7 +961,6 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
-presidestatelycondition.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
@@ -1028,6 +1029,7 @@ regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
+resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
@@ -1125,6 +1127,7 @@ sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
+sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1201,7 +1204,6 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
-ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
@@ -1228,8 +1230,6 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
-vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
@@ -1246,6 +1246,7 @@ vkeadqoff.com
 vmcxdaynkhnekp.com
 vmweb.net
 vncnu.com
+vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
@@ -1254,7 +1255,6 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
-vstvstsa.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
@@ -1364,6 +1364,7 @@ zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zpefriam.com
+zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.shivamsinghis.me
