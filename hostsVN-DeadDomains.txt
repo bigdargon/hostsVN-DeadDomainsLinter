@@ -14,7 +14,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -35,6 +34,8 @@ count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
+lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -379,6 +380,7 @@ culwcoam.com
 cutepopcorn.com
 cvvczlcg.com
 cycledaction.com
+cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -879,6 +881,7 @@ olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
+olxxugltoku.com
 omlbaftroofj.com
 omzostzuswm.com
 on-mobi.com
@@ -951,6 +954,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pistolsizehoe.com
+planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
 podsklzegshmnd.com
@@ -1230,7 +1234,6 @@ urgerrebasis.com
 urigagxnji.com
 userresewn.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -1274,7 +1277,6 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
-wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
