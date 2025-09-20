@@ -111,7 +111,10 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
+<<<<<<< Updated upstream
 static.customers.fptad.com
+=======
+>>>>>>> Stashed changes
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -321,7 +324,6 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
-c43a3cd8f99413891.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
@@ -777,7 +779,6 @@ lufdzaqcoadm.com
 lugtzejkowhi.com
 lumpbackstage.com
 luxope.com
-luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1285,7 +1286,6 @@ wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
-wawhoufteedaksu.com
 wbehwesvucqmvx.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1340,7 +1340,6 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
-xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
