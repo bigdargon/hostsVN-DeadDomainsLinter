@@ -9,6 +9,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -23,6 +24,12 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -103,6 +110,19 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adserver.atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
+kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
+mautic.educe.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -112,6 +132,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 bidgear-syndication.com
 bloggiamgia.info
@@ -155,7 +176,8 @@ acerolawaists.com
 achieverknee.com
 acpolxakcl.com
 ad-miner.com
-adaftegloomto.com
+ad-spb.ru
+adcloud.net
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -203,6 +225,7 @@ alleviatepracticableaddicted.com
 allodsubussu.com
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 anglemarrowoccurs.com
@@ -241,7 +264,6 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
@@ -303,6 +325,8 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -372,6 +396,7 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cycledaction.com
@@ -433,6 +458,7 @@ e5asyhilodice.com
 eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
+eemsouftas.com
 efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
@@ -443,10 +469,12 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
+encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
+eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
@@ -464,7 +492,6 @@ exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
-ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
@@ -612,6 +639,7 @@ hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
+hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
 hupaiowicog.com
@@ -710,12 +738,12 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
-kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -789,6 +817,7 @@ mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
+mkaragqzeov.com
 mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
@@ -836,16 +865,17 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nuckinxuco.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1019,6 +1049,7 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+raphanysteers.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
@@ -1220,6 +1251,7 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
+upspinarakor.com
 uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
@@ -1308,8 +1340,6 @@ woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
-worstideatum.com
-wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
@@ -1381,4 +1411,5 @@ go.ad1data.com
 kitbit.net
 q2melbourne.com
 tracking.news360.store
+usergrid.com
 yoursitestatstube.ru
