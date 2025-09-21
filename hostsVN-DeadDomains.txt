@@ -1,6 +1,7 @@
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -14,6 +15,7 @@ static.adthor.com
 v.adthor.com
 native.propellerclick.com
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -49,6 +51,7 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
@@ -268,7 +271,6 @@ axiomaticalley.com
 axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
-b5e75c56.com
 baaomenaltho.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -332,13 +334,13 @@ bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
 camberchimp.com
+canangafierier.uno
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
-caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -418,6 +420,7 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
+demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -991,7 +994,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1007,7 +1009,6 @@ proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1110,7 +1111,6 @@ sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
-sarinfalun.com
 scabbienne.com
 scammereating.com
 scenescrockery.com
