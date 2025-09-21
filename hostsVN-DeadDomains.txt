@@ -1,7 +1,6 @@
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -15,7 +14,6 @@ static.adthor.com
 v.adthor.com
 native.propellerclick.com
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -31,6 +29,7 @@ gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
+www.advinci.net
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -50,7 +49,6 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
-vpaid.winadx.com
 ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
@@ -334,7 +332,6 @@ bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
 camberchimp.com
-canangafierier.uno
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -421,7 +418,6 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
-demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -967,7 +963,6 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
-passion-4.net
 pc2ads.com
 pefsustazvzgop.com
 peskyclarifysuitcases.com
@@ -1258,6 +1253,7 @@ unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -1266,6 +1262,7 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
+urgerrebasis.com
 urigagxnji.com
 userresewn.com
 usounoul.com
@@ -1376,6 +1373,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
