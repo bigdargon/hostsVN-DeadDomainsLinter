@@ -37,12 +37,6 @@ rotator.staging.runative.com
 single.runative.com
 staging.runative.com
 static.runative.com
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -69,6 +63,7 @@ t.imstks.com
 www.imstks.com
 c.netund.com
 netund.com
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -225,7 +220,6 @@ adsmogo.org
 adsrveys.com
 adtoma.com
 adverdirect.com
-adxpose.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -236,11 +230,8 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
-ahqatjakvac.com
-aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
 ajggirci.com
 ajghtafutjt.com
@@ -272,7 +263,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 apxszeaj.com
-apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -404,6 +394,7 @@ chulhawakened.com
 chullohagrode.com
 cigdizwu.com
 cihwactuqkco.com
+circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
@@ -659,6 +650,7 @@ heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
+heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
@@ -794,6 +786,7 @@ kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
+kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -858,9 +851,7 @@ medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
-metahv.xyz
 mfajfikmyqan.com
-mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
@@ -1085,6 +1076,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
+qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
@@ -1181,10 +1173,12 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
+shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
+simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -1204,7 +1198,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-spacash.com
 spanuletubings.com
 speakspurink.com
 specifiedbloballowance.com
@@ -1286,6 +1279,7 @@ tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
+ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
@@ -1399,6 +1393,7 @@ wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
+www.money4exit.de
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
