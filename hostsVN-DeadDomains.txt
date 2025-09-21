@@ -14,28 +14,14 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
-go.advergine.com
-spf1.advergine.com
 aj1549.online
 aj1754.online
-aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
-admin.runative.com
-api.runative.com
-auth.runative.com
-pusher.staging.runative.com
-rotator.staging.runative.com
-single.runative.com
-staging.runative.com
-static.runative.com
-brand.ad
-a.brand.ad
-www.brand.ad
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -57,8 +43,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -94,15 +78,11 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -190,7 +170,6 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
-ad1.emediate.dk
 adaftegloomto.com
 adigi.icu
 adkchtmtns.com
@@ -346,8 +325,6 @@ btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
-burgoastougregy.net
-burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -391,7 +368,6 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -540,7 +516,6 @@ fidokhffekm.com
 fidszeoqwjf.com
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -624,7 +599,6 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
@@ -801,6 +775,7 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 link4ads.com
+literalcorpulent.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -836,7 +811,6 @@ makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
-manompas.com
 matecatenae.com
 maximumcash.com
 mazbfiladr.com
@@ -906,7 +880,6 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
@@ -984,7 +957,6 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
-ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 pajnutas.com
@@ -1016,7 +988,6 @@ pistolsizehoe.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
-pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -1164,7 +1135,6 @@ shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
 shelfoka.com
-sheltermilligrammillions.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -1272,7 +1242,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-u1pmt.com
 ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
@@ -1389,7 +1358,6 @@ worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
-wryqahbilc.com
 www.cpm-ad.com
 www.money4exit.de
 www.qcerujcajnme.com
@@ -1463,7 +1431,6 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
-showbiz.owndata.network
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
