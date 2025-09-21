@@ -1,5 +1,5 @@
-blueserving.com
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -90,7 +90,6 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -113,6 +112,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -388,6 +388,7 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
+chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -411,6 +412,9 @@ commodityshortlysurviving.com
 compatriotelephant.com
 conformfavoredgauging.com
 coniesnitch.com
+consciouschairs.com
+constructpoll.com
+contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
@@ -683,11 +687,13 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
+ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
+imarketservices.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
@@ -744,7 +750,6 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
@@ -811,6 +816,8 @@ lo8ve6ygour3pea4cee.com
 loftsbaacad.com
 loopassume.com
 lootoshevub.net
+lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
@@ -869,7 +876,6 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
-mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -947,7 +953,6 @@ oneegrou.net
 onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -984,6 +989,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
+ozongees.com
 ozxakfawm.com
 pajnutas.com
 pallivermis.shop
@@ -1029,7 +1035,6 @@ pouhoshootake.net
 powershatchet.com
 pramviable.com
 pranavafolksey.com
-praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 proetusbramble.com
@@ -1276,12 +1281,14 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
+unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
@@ -1298,7 +1305,6 @@ userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
-uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
 vaizeedy.com
