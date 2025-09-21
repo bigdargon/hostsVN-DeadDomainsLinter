@@ -1,6 +1,5 @@
 blueserving.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -73,7 +72,6 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 delivery.adsterra.org
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -115,7 +113,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -230,8 +227,11 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
+ahqatjakvac.com
+aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
+ailtashoackie.com
 aimaniape.club
 ajggirci.com
 ajghtafutjt.com
@@ -263,6 +263,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 apxszeaj.com
+apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -387,7 +388,6 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
-chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -411,9 +411,6 @@ commodityshortlysurviving.com
 compatriotelephant.com
 conformfavoredgauging.com
 coniesnitch.com
-consciouschairs.com
-constructpoll.com
-contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
@@ -686,13 +683,11 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
-ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
-imarketservices.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
@@ -816,8 +811,6 @@ lo8ve6ygour3pea4cee.com
 loftsbaacad.com
 loopassume.com
 lootoshevub.net
-lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
@@ -851,7 +844,9 @@ medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
+metahv.xyz
 mfajfikmyqan.com
+mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
@@ -989,7 +984,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
-ozongees.com
 ozxakfawm.com
 pajnutas.com
 pallivermis.shop
@@ -1282,14 +1276,12 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
-unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
