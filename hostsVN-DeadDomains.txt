@@ -1,4 +1,7 @@
+ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -109,7 +112,6 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
-ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
@@ -1008,6 +1010,7 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
+poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1022,6 +1025,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1214,6 +1218,7 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
+thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
 thiem-csl.com
@@ -1406,7 +1411,6 @@ yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
@@ -1432,7 +1436,6 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
-zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
