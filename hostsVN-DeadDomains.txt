@@ -14,6 +14,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -79,6 +80,11 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -87,6 +93,10 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -117,6 +127,7 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 mautic.educe.vn
+mautic.serverhub.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -132,6 +143,7 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -176,7 +188,6 @@ adlite.net
 admedia.network
 adrastos-eli.com
 adreclaim.com
-adrevolver.com
 ads-to.click
 ads.bumq.com
 ads.cdn2-img.net
@@ -232,6 +243,7 @@ anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
+api.ampiri.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -241,9 +253,11 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
+asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
+asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
 atrmkoopdlhu.com
@@ -275,8 +289,8 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.casino.net
 banner.coza.com
-banner.nixnet.cz
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -296,6 +310,7 @@ berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
 betmagnezonea.com
+bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
@@ -324,10 +339,12 @@ burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
+buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
+caiwheechous.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
@@ -343,6 +360,7 @@ ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 charming-people.com
+checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chiamfxz.com
@@ -425,6 +443,7 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -673,6 +692,7 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -706,6 +726,7 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
+jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
@@ -841,6 +862,7 @@ murozwuddtow.com
 mwejhobumo.com
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -896,6 +918,7 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
@@ -951,6 +974,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1010,6 +1034,7 @@ psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
+ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
@@ -1272,7 +1297,6 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
-ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1282,6 +1306,7 @@ viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vkeadqoff.com
 vmcxdaynkhnekp.com
 vmweb.net
@@ -1321,13 +1346,12 @@ whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
-whowhipi.net
 whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
+wiltiqkc.com
 wimswuppoxan.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -1361,6 +1385,8 @@ xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
+xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
@@ -1396,6 +1422,7 @@ ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
+yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zeegreen.net
@@ -1415,10 +1442,12 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 analytics.undrads.com
 beacon.errorception.com
+burstly.com
 dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
 tracking.news360.store
 usergrid.com
+worldgravity.com
 yoursitestatstube.ru
