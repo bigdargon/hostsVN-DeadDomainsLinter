@@ -82,9 +82,6 @@ image.b91vip.com
 www.b91vip.com
 appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -112,6 +109,7 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
@@ -819,7 +817,6 @@ madserve.org
 makespram.com
 makqfcvs.com
 malhfiacgx.com
-maljuggu.com
 mamsauphoachoap.net
 manompas.com
 matecatenae.com
@@ -1211,7 +1208,6 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
-tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 terrapsps.com
@@ -1411,6 +1407,7 @@ yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
@@ -1436,6 +1433,7 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
