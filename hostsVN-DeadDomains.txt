@@ -87,6 +87,7 @@ click.expmediadirect1.com
 expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -686,7 +687,6 @@ ivdjs.com
 ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
-ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 jadeitite.com
@@ -769,6 +769,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -802,6 +803,7 @@ lumpbackstage.com
 luxope.com
 luzongixoo.net
 lvtuucmyfpz.com
+lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
@@ -871,6 +873,7 @@ nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
+noowhaumurauy.net
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
@@ -881,6 +884,7 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
@@ -1044,6 +1048,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
+qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
@@ -1230,6 +1235,7 @@ tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
+trustbummler.com
 trustisimportant.fun
 tshfc.com
 tufoknaqzolp.com
@@ -1241,7 +1247,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
