@@ -24,6 +24,7 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
+cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -45,6 +46,18 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -92,6 +105,9 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -113,6 +129,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -121,6 +138,9 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 mautic.educe.vn
 mautic.serverhub.vn
 app2.jeoway.net
@@ -132,13 +152,16 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+serving-ad.tv24.vn
 upfile16.mediaphim.com
+vnadssb.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -187,20 +210,22 @@ ads-to.click
 ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
+ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adsclick.cc
+adserver.quizdingo.com
 adsmogo.org
 adsrveys.com
 adtoma.com
 adverdirect.com
 adyea.com
-adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
-agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -320,6 +345,7 @@ boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
 brffhnhnqc.com
+bricius-ing.com
 broadboundary.com
 broaddoor.com
 brookgetupshorts.com
@@ -407,14 +433,12 @@ cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
-daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
-dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -451,6 +475,7 @@ dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
+dsp.io
 ducksintroduce.com
 ductathing.com
 duimspruer.life
@@ -460,6 +485,7 @@ dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
 eatsbot.com
+ebuzzing.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
@@ -488,7 +514,6 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
-euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
@@ -501,6 +526,7 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
+fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
@@ -547,7 +573,6 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
-fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -887,11 +912,11 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
+nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
-oaxntxan.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -920,6 +945,7 @@ oltnukjafo.com
 olxxugltoku.com
 omlbaftroofj.com
 omzostzuswm.com
+onclasrv.com
 oneegrou.net
 onmarshtompor.com
 ontosocietyweary.com
@@ -927,6 +953,7 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
+opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -937,6 +964,7 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -949,6 +977,7 @@ outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
+ovrcuncunxp.com
 owjwhuaklf.com
 owvobdogd.com
 owxqunparw.com
@@ -1002,7 +1031,6 @@ poowucatuz.net
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1099,6 +1127,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
@@ -1170,6 +1199,7 @@ speakspurink.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
+spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
@@ -1224,7 +1254,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 toathoule.com
-tookoupanoafig.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -1321,6 +1350,7 @@ wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
+wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
@@ -1385,7 +1415,6 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
-xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1434,4 +1463,3 @@ kitbit.net
 q2melbourne.com
 tracking.news360.store
 worldgravity.com
-yoursitestatstube.ru
