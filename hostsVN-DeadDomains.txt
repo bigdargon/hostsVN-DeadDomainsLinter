@@ -45,7 +45,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -153,9 +152,9 @@ mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
+sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -169,6 +168,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -254,6 +254,7 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -638,6 +639,7 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
@@ -957,6 +959,7 @@ olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
+olxxugltoku.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
@@ -991,7 +994,6 @@ outflednailbin.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
-ovrcuncunxp.com
 owjwhuaklf.com
 owvobdogd.com
 owxqunparw.com
@@ -1087,7 +1089,6 @@ qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
 qavhivvcex.com
-qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1311,6 +1312,7 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 upcomingmonkeydolphin.com
+updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
@@ -1385,7 +1387,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
@@ -1446,11 +1447,8 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
-yogar2ti8nf09.com
-yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
-ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
