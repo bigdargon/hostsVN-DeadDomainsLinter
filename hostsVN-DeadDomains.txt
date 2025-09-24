@@ -69,7 +69,6 @@ stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
-static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
@@ -86,6 +85,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -128,6 +128,7 @@ aj3017.bid
 aj101.xyz
 mautic.educe.vn
 mautic.serverhub.vn
+img.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -161,6 +162,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
+2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -199,7 +201,6 @@ adsrveys.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
-afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
@@ -271,7 +272,6 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
-awaps.net
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
@@ -287,7 +287,6 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 bannermarkt.nl
-baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -492,6 +491,7 @@ escortlarbul.com
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
+expdirclk.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -604,7 +604,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gwyvusam.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
@@ -627,7 +626,6 @@ helitagrfid.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
-hgads.com
 hhuajhdidxut.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -971,7 +969,6 @@ ozxakfawm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
 pc2ads.com
@@ -1042,7 +1039,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
-qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
 qavhivvcex.com
@@ -1056,7 +1052,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
-qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
@@ -1146,6 +1141,7 @@ shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
+shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
@@ -1156,6 +1152,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
@@ -1165,6 +1162,7 @@ smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
+soaperdeils.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1358,9 +1356,6 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
-woochithoothie.net
-woomerapapacy.shop
-woorucauhou.net
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1407,7 +1402,6 @@ yogar2ti8nf09.com
 yonomastara.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
