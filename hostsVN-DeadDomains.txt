@@ -19,9 +19,8 @@ static.adthor.com
 v.adthor.com
 native.propellerclick.com
 advergine.com
-go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -97,6 +96,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -132,7 +132,6 @@ mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -142,15 +141,19 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv691.me
+ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -180,7 +183,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -233,7 +235,6 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -269,7 +270,6 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
-alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -502,6 +502,7 @@ drubbersestia.com
 drydrum.com
 ducksintroduce.com
 ductathing.com
+duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
@@ -524,7 +525,6 @@ emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
-encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
 eodufofs.com
@@ -581,7 +581,6 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
-forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
@@ -751,6 +750,7 @@ jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
+jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1043,6 +1043,7 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
+pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
@@ -1216,6 +1217,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
