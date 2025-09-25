@@ -16,11 +16,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -50,6 +45,7 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
+rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -111,7 +107,6 @@ image.b91vip.com
 www.b91vip.com
 ad-track.adiiix.com
 ads.adiiix.com
-ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -122,7 +117,6 @@ cdn.adclerks.com
 static.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -253,7 +247,6 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
-ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
@@ -435,7 +428,6 @@ coniesnitch.com
 consciouschairs.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -446,7 +438,6 @@ crepedzincite.top
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
-culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
@@ -512,7 +503,6 @@ ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
 efyglwbapki.com
-egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
@@ -652,7 +642,6 @@ gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
-gwvlrourhdkp.com
 gwyvusam.com
 gyfumobo.com
 gzaqwebtipm.com
@@ -666,8 +655,6 @@ handkerchiefpersonnel.com
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
-hayforkminbu.com
-hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -1477,7 +1464,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
-ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
