@@ -20,7 +20,6 @@ v.adthor.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 static.cbsileads.com
@@ -50,6 +49,8 @@ www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -102,6 +103,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -183,7 +185,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -242,6 +243,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrv.wtf
+adsrveys.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -693,6 +695,8 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
+hpdvgejc.com
+hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -816,6 +820,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
@@ -823,6 +828,7 @@ lbmqciazrpm.com
 leadingedgecash.com
 leestoptee.com
 leetmenllew.com
+lephaush.net
 lessemujust.live
 lidosquey.shop
 lifpv.com
@@ -939,6 +945,7 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
@@ -949,6 +956,7 @@ obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
+odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 oewabox.at
@@ -1024,6 +1032,7 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
+patro-sfe.com
 pc2ads.com
 pefsustazvzgop.com
 pencilcongress.com
@@ -1041,7 +1050,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1242,6 +1250,7 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
+stoorgel.com
 stormyachiever.com
 strikead.com
 stunninglover.com
@@ -1290,7 +1299,6 @@ toathoule.com
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
-tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -1411,6 +1419,7 @@ witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
+woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
