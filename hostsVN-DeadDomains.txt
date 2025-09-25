@@ -50,6 +50,7 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
+uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
@@ -155,6 +156,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -166,6 +168,7 @@ app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
+d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -205,7 +208,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abyocawlfe.com
@@ -227,7 +229,6 @@ ads-to.click
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
-ads.vnumedia.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
 adsclick.cc
@@ -614,6 +615,7 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
+go-clicks.de
 go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
@@ -665,7 +667,6 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
-healthsmd.com
 heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
@@ -702,6 +703,7 @@ huppontic.com
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
+hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
@@ -738,6 +740,7 @@ iytsnelqs.com
 izleskulked.shop
 jadeitite.com
 jaumevie.com
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -759,6 +762,7 @@ joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
+jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -771,6 +775,7 @@ jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
+kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 katukaunamiss.com
@@ -860,6 +865,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
+matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -869,7 +875,6 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
-metaresolver.com
 mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
@@ -1029,6 +1034,7 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1058,7 +1064,6 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1340,12 +1345,10 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-variablefitness.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
-vebadu.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
