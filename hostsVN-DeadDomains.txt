@@ -1,4 +1,5 @@
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -75,9 +76,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -125,8 +123,6 @@ adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -148,14 +144,11 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv681.me
 ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
-ads.livetv691.me
-ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
@@ -243,6 +236,7 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
+adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -278,6 +272,7 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -510,7 +505,6 @@ drubbersestia.com
 drydrum.com
 ducksintroduce.com
 ductathing.com
-duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
@@ -1053,7 +1047,6 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
-pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
@@ -1194,6 +1187,7 @@ saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
+scammereating.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
@@ -1226,7 +1220,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
@@ -1466,11 +1459,13 @@ xumamropnox.com
 xwdoxgilvdbj.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
+yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
+yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
