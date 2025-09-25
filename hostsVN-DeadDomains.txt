@@ -50,8 +50,6 @@ www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -104,7 +102,6 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -142,6 +139,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv683.me
@@ -185,6 +183,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -243,7 +242,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsmogo.org
 adsrv.wtf
-adsrveys.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -266,6 +264,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajratgatjav.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.oneegrou.net
 ak.ptailadsol.net
 ak.unblitzlean.com
@@ -672,6 +671,7 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
+heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
@@ -693,8 +693,6 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
-hpdvgejc.com
-hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -738,6 +736,7 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -817,7 +816,6 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
-lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
@@ -825,7 +823,6 @@ lbmqciazrpm.com
 leadingedgecash.com
 leestoptee.com
 leetmenllew.com
-lephaush.net
 lessemujust.live
 lidosquey.shop
 lifpv.com
@@ -942,7 +939,6 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
-nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
@@ -953,7 +949,6 @@ obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
-odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 oewabox.at
@@ -1151,6 +1146,7 @@ retryngs.com
 rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
+riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1246,7 +1242,6 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
-stoorgel.com
 stormyachiever.com
 strikead.com
 stunninglover.com
@@ -1416,7 +1411,6 @@ witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
-woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
@@ -1440,6 +1434,7 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
+xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
