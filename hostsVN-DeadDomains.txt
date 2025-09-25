@@ -19,6 +19,8 @@ static.adthor.com
 v.adthor.com
 native.propellerclick.com
 advergine.com
+go.advergine.com
+spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 static.cbsileads.com
@@ -132,6 +134,7 @@ mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -183,6 +186,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -333,7 +337,6 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.mindshare.de
-banner.nixnet.cz
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -525,6 +528,7 @@ emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
+encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
 eodufofs.com
@@ -581,6 +585,7 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
@@ -621,7 +626,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
@@ -769,7 +773,6 @@ jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
-jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1131,7 +1134,6 @@ qxadsk.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
-rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
@@ -1409,11 +1411,11 @@ wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
