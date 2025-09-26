@@ -1,9 +1,4 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
-px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -79,7 +74,6 @@ cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -129,6 +123,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
+p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
@@ -252,6 +247,7 @@ adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
 adtoma.com
+advariant.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -280,6 +276,7 @@ ak.ptailadsol.net
 ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 alwtupwwafu.com
@@ -294,7 +291,6 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
-apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 apxszeaj.com
@@ -367,6 +363,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -386,7 +383,6 @@ btiatfobkjiv.com
 budvawshes.ru
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -443,7 +439,6 @@ conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constructpoll.com
-contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
@@ -453,7 +448,7 @@ cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
 croniesobli.com
-crowdgravity.com
+crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -465,6 +460,7 @@ cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
+dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
@@ -503,7 +499,6 @@ doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
-doubleadserve.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
@@ -539,7 +534,6 @@ endoverphageda.cfd
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
-epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -584,6 +578,7 @@ fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
+fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
@@ -633,6 +628,7 @@ go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
@@ -655,7 +651,6 @@ gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
-guhomnfuzq.com
 gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
@@ -753,7 +748,6 @@ izleskulked.shop
 jadeitite.com
 jaumevie.com
 jerboasjourney.com
-jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -803,7 +797,6 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -945,6 +938,7 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1020,7 +1014,6 @@ outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
-owjwhuaklf.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
@@ -1233,7 +1226,6 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
-smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
@@ -1301,6 +1293,7 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
+tkoqgxnvt.com
 tlkbfilacsw.com
 toathoule.com
 tookoupanoafig.com
@@ -1338,6 +1331,7 @@ unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -1361,7 +1355,6 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
-ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1439,7 +1432,6 @@ worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
-www.cpm-ad.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.xumamropnox.com
