@@ -135,6 +135,7 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -188,7 +189,6 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
-serving-ad.tv24.vn
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -239,7 +239,6 @@ adrastos-eli.com
 adreclaim.com
 ads-to.click
 ads.bumq.com
-ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
@@ -253,6 +252,7 @@ adserver2.mindshare.de
 adsmogo.org
 adsrveys.com
 adtoma.com
+advariant.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -315,7 +315,6 @@ asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
 atrmkoopdlhu.com
-atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -327,8 +326,6 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
-avvavcazs.com
-avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
@@ -455,6 +452,7 @@ cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -489,12 +487,12 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 despicablereporthusband.com
-dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
+digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -588,8 +586,6 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
-foliumumu.com
-foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 forspearowor.com
@@ -685,6 +681,7 @@ hcilralhi.com
 heardsoppy.com
 heeceeceejo.com
 heenojouwofoupt.com
+helitagrfid.com
 heraldet.com
 heukpiroot.com
 hewokhn.com
@@ -1037,6 +1034,7 @@ ozongees.com
 ozxakfawm.com
 pajnutas.com
 pallivermis.shop
+panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
@@ -1060,6 +1058,7 @@ pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
+pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 planesknob.com
@@ -1239,6 +1238,7 @@ smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
+soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
@@ -1421,7 +1421,6 @@ widespace.com
 wiltiqkc.com
 wimswuppoxan.com
 windsattributeron.com
-wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
@@ -1464,7 +1463,6 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
-xumamropnox.com
 xwdoxgilvdbj.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
@@ -1518,4 +1516,3 @@ q2melbourne.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
-yoursitestatstube.ru
