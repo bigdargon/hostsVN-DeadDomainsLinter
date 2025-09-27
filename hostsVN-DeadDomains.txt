@@ -64,7 +64,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -161,7 +160,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -169,7 +167,6 @@ app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
-d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -229,7 +226,6 @@ ads-to.click
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
@@ -377,6 +373,7 @@ bustlemiszone.com
 buzzardcraizey.com
 bzydilasq.com
 c.cdn-server.top
+c43a3cd8f99413891.com
 caiwheechous.com
 camberchimp.com
 canangafierier.uno
@@ -385,7 +382,6 @@ canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
-carscannon.com
 caugrithoowhu.net
 cavbildi.com
 cdn-server.top
@@ -413,6 +409,7 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 clkofafcbk.com
+clonesmesopic.com
 cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
@@ -612,7 +609,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -624,7 +620,6 @@ grandioseguide.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -751,7 +746,6 @@ jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
 joopaish.com
-joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -811,6 +805,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
@@ -1095,13 +1090,11 @@ pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
-qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
-qiptamcupl.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
