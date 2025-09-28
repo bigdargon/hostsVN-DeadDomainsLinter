@@ -114,8 +114,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
@@ -132,6 +130,7 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
+ads.livetv683.me
 ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
@@ -246,7 +245,6 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
-aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 ajggirci.com
@@ -320,6 +318,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -443,7 +442,6 @@ daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
-dangerouswinter.com
 dapperminecraft.online
 daufouwhoag.net
 daugegeezeeboot.net
@@ -661,6 +659,7 @@ heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
 hilltopads.net
+hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -701,6 +700,7 @@ imageshh.com
 imarketservices.com
 immerseweariness.com
 importedincrease.com
+impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
@@ -804,6 +804,7 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
+lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
@@ -963,7 +964,6 @@ opcharizardon.com
 opdhoxor.com
 opntwymri.com
 opsivesh.net
-opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 orb92.com
@@ -1196,7 +1196,6 @@ slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
-slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smnyayzhv.com
@@ -1248,7 +1247,6 @@ tearerernest.com
 techclicks.net
 terrapsps.com
 tetrylscullion.com
-thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -1273,8 +1271,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-tracker-pm2.spilleren.com
-trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1333,6 +1329,7 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewyentreat.guru
+vikawjobtar.com
 vipicmou.net
 virleth.com
 vkeadqoff.com
@@ -1386,7 +1383,6 @@ wissoony.net
 wistfulbalmy.com
 wiwoqcmp.com
 wiwqhootrf.com
-wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
