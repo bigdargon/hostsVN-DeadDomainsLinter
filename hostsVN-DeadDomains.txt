@@ -1,3 +1,4 @@
+blueserving.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -21,7 +22,16 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 native.propellerclick.com
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -64,6 +74,11 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
+cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -98,6 +113,8 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -166,9 +183,12 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+tvc.biphim.club
 upfile16.mediaphim.com
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
+log.dubaotiente.com
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -202,6 +222,7 @@ achieverknee.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
 ad.foxnetworks.com
 ad.pornimg.xyz
 adaftegloomto.com
@@ -211,7 +232,9 @@ adlite.net
 admedia.network
 adrastos-eli.com
 adreclaim.com
+ads-to.click
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
@@ -226,7 +249,6 @@ adverdirect.com
 adyea.com
 adyieldoptimizer.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
 agghriwaz.com
@@ -355,7 +377,6 @@ btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
-burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -593,7 +614,6 @@ glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
-glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
@@ -633,6 +653,7 @@ gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
+hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
@@ -727,7 +748,6 @@ jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
-jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
@@ -802,6 +822,7 @@ lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
+limurol.com
 link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
@@ -823,6 +844,7 @@ lqbkshojlhmyj.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lufdzaqcoadm.com
 lugtzejkowhi.com
 lumpbackstage.com
 luxope.com
@@ -851,7 +873,6 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
@@ -889,7 +910,6 @@ nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
-ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
@@ -1031,7 +1051,6 @@ pmagumovfma.com
 podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
-pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1085,7 +1104,6 @@ qfeadpmagq.com
 qipshozipsah.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
-qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
@@ -1234,7 +1252,6 @@ svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
 synz.liveonce.online
-tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
@@ -1243,7 +1260,6 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
-techclicks.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -1312,6 +1328,7 @@ urgerrebasis.com
 urigagxnji.com
 userresewn.com
 usounoul.com
+uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -1470,6 +1487,7 @@ burstly.com
 dolohen.com
 go.ad1data.com
 kitbit.net
+richmetrics.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
