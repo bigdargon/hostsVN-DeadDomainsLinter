@@ -5,6 +5,7 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -19,16 +20,14 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-ad.kau.li
-analytics.kau.li
 click.kau.li
-clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
+advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -133,6 +132,7 @@ mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -178,7 +178,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
-ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
@@ -196,6 +195,7 @@ upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
+nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -290,6 +290,7 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
+anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -450,6 +451,7 @@ convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
+cpm-ad.com
 cpxadroit.com
 cpykudhagov.com
 crepedzincite.top
@@ -490,7 +492,6 @@ dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
-dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -621,6 +622,7 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
@@ -774,7 +776,6 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -831,6 +832,7 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
+lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
@@ -851,7 +853,6 @@ louchees.net
 lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
-lpuodgmca.com
 lqbkshojlhmyj.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1098,7 +1099,6 @@ ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 pupspu.com
@@ -1111,7 +1111,6 @@ pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
-qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1174,6 +1173,7 @@ robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
+rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
@@ -1291,6 +1291,7 @@ thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
+thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tixoxzfpur.com
