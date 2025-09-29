@@ -36,6 +36,7 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -74,7 +75,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -144,7 +144,9 @@ ads.livetv689.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
+ads.livetv703.me
 ads.livetv705.me
+ads.livetv708.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -368,6 +370,7 @@ blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 brechtembrowd.com
@@ -499,7 +502,6 @@ doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
-drubbersestia.com
 drydrum.com
 dsp.io
 ducksintroduce.com
@@ -589,6 +591,7 @@ fossorplumper.com
 fpqwpqiyq.com
 frameworkdeserve.com
 frightenedpotato.com
+frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
@@ -796,7 +799,6 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
-klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -1071,7 +1073,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1117,7 +1118,6 @@ qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
 qumagee.com
@@ -1128,6 +1128,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+qzyztuwulo.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1175,6 +1176,7 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
+ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
@@ -1220,6 +1222,7 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
+slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -1415,6 +1418,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -1426,6 +1430,7 @@ wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
@@ -1443,6 +1448,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
