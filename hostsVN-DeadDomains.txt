@@ -25,9 +25,9 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
+yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
-advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -168,6 +168,7 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -205,7 +206,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
 k8s2.testcentre.vn
@@ -225,6 +225,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
@@ -280,6 +281,7 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adrastos-eli.com
+adreclaim.com
 adrevolver.com
 ads-to.click
 ads.bumq.com
@@ -302,6 +304,7 @@ adsrveys.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
+afearprevoid.com
 afqsrygmu.com
 agapios-gla.com
 agghriwaz.com
@@ -418,6 +421,7 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
+blueswordksh.com
 bmaahwahpofp.com
 bookletblockedcaught.com
 boozoomamesha.net
@@ -451,6 +455,7 @@ capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -459,6 +464,7 @@ chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
+chertouz.net
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -936,7 +942,6 @@ mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-megago.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1073,7 +1078,6 @@ oufauthy.net
 ouftukoo.net
 outflednailbin.com
 outwoodeuropa.com
-oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
@@ -1186,6 +1190,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
@@ -1243,7 +1248,6 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
-ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
@@ -1332,6 +1336,7 @@ svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
 synz.liveonce.online
+tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
