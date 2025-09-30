@@ -147,7 +147,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -213,7 +212,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
@@ -222,6 +220,8 @@ ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
 watanet.work
+cdn.wataads.com
+wataads.com
 ad.chieuhoa.com
 ak9.6895588.com
 bidgear-syndication.com
@@ -589,11 +589,6 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
-eodufofs.com
-eogaeapolaric.com
-epyqerhah.com
-eqgmnmqlz.com
-eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -602,7 +597,6 @@ escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
-exogripper.com
 expdirclk.com
 expressgutterlevers.com
 exterminateantique.com
@@ -772,6 +766,7 @@ hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
+ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
@@ -856,7 +851,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
-kkoobzmirh.com
+kjqsnxibegvue.com
 klkchits.com
 klumn.com
 knlqdtcbi.com
@@ -874,6 +869,7 @@ kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
 kyrialbeknots.digital
+kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -934,6 +930,7 @@ marriagegray.com
 matecatenae.com
 maximumcash.com
 mazbfiladr.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 meowpushnot.com
@@ -981,6 +978,8 @@ nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
+neevouglu.com
+nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
 news-muheji.com
@@ -1052,6 +1051,7 @@ opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
+oqnjfotketk.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1175,7 +1175,6 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
@@ -1226,7 +1225,6 @@ rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
-rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
@@ -1241,6 +1239,7 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
+ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
@@ -1305,7 +1304,6 @@ specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
@@ -1461,7 +1459,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
-weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
