@@ -7,10 +7,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -41,9 +37,7 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 aj1549.online
-aj1754.online
 aj1863.online
-aj2142.online
 aj2218.online
 aj2307.online
 aj2498.online
@@ -185,6 +179,7 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
+cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
 k8s2.testcentre.vn
@@ -329,7 +324,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
@@ -444,7 +438,6 @@ cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -510,6 +503,7 @@ dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
+daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -579,6 +573,7 @@ encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
 eodufofs.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -598,7 +593,6 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
-facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -618,7 +612,6 @@ fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fidokhffekm.com
-fidszeoqwjf.com
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -650,7 +643,6 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
-fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -706,7 +698,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gwyvusam.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
@@ -883,8 +874,6 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
-lfalfehuq.com
-lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
@@ -1062,6 +1051,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1143,6 +1133,7 @@ proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
+prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1439,6 +1430,7 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 vkeadqoff.com
+vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -1544,6 +1536,7 @@ ylcziaipyztvv.com
 yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
+ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
