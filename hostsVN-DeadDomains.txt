@@ -22,6 +22,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -257,11 +258,11 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads.wedodemos.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -406,7 +407,6 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
@@ -502,7 +502,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -639,7 +638,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -647,6 +645,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -890,8 +889,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-luxope.com
-luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -945,6 +942,7 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
+my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
@@ -1020,6 +1018,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
+onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
@@ -1112,6 +1111,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pr-ten.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1136,7 +1136,6 @@ ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
-public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1206,6 +1205,7 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
+rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1217,6 +1217,7 @@ romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
+rsalcch.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
@@ -1225,6 +1226,7 @@ ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
+sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
@@ -1313,7 +1315,6 @@ synz.liveonce.online
 tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -1364,11 +1365,13 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
+ueikno.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+uitopadxdy.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1389,6 +1392,7 @@ uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
 userreplay.com
+userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -1397,7 +1401,6 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
-vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
@@ -1488,7 +1491,6 @@ xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
-xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
