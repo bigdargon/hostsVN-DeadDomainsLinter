@@ -80,7 +80,6 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
-www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -272,12 +271,10 @@ ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
-ads1.rne.com
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -319,7 +316,6 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
-anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -457,7 +453,6 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
-chulhawakened.com
 chullohagrode.com
 cigdizwu.com
 cihwactuqkco.com
@@ -828,7 +823,6 @@ jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
-jvmhtxiqdfr.xyz
 jwuoxhjuq.com
 jxjttecednvb.com
 jyhlgpkn.com
@@ -841,6 +835,7 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
+kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -934,6 +929,7 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
+mfajfikmyqan.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
@@ -956,6 +952,7 @@ mptmaxggqf.com
 mrybahnw.com
 mrycibqutoz.com
 msincsayqmji.com
+msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
@@ -1095,7 +1092,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1150,6 +1146,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
+ptuxapow.com
 ptygunjk.com
 public.wedodemos.com
 publicunloadbags.com
@@ -1317,6 +1314,7 @@ stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
+strikead.com
 stunninglover.com
 subheroalgores.com
 sujjkoshod.com
@@ -1344,7 +1342,9 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
+thiem-csl.com
 thinkappetitefeud.com
+thirstytwig.com
 thootipheguph.com
 thougnoangi.com
 thoungoofeed.net
@@ -1358,7 +1358,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 toathoule.com
-tookoupanoafig.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -1389,7 +1388,6 @@ uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
-unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
@@ -1403,10 +1401,10 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
-upspinarakor.com
 uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
+userreplay.com
 userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
@@ -1566,7 +1564,6 @@ analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
 dolohen.com
-go.ad1data.com
 kitbit.net
 tracking.news360.store
 usergrid.com
