@@ -106,8 +106,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -155,8 +153,6 @@ matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -168,6 +164,7 @@ wataads.com
 ad.chieuhoa.com
 ak9.6895588.com
 bidgear-syndication.com
+bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -230,7 +227,6 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 adsclick.cc
@@ -695,7 +691,6 @@ hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
-hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
@@ -716,6 +711,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
+iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -902,7 +898,6 @@ mmrjzyaqzwcad.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
-moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1060,7 +1055,6 @@ pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
-pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
@@ -1093,10 +1087,8 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
-psipausaix.net
 psootchu.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1189,6 +1181,7 @@ rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
+rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1282,6 +1275,7 @@ swarthymacula.com
 swrggntsvmsgv.com
 synz.liveonce.online
 tacticmarshannouncing.com
+tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1419,6 +1413,7 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
+whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
