@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -143,6 +137,7 @@ ads.livetv708.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -173,7 +168,6 @@ wataads.com
 ad.chieuhoa.com
 ak9.6895588.com
 bidgear-syndication.com
-bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -242,7 +236,6 @@ ads.websiteservices.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -260,6 +253,7 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
+aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 ajggirci.com
@@ -722,7 +716,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1195,9 +1188,7 @@ romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
-rsalcch.com
 rtcheajfn.com
-rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1291,7 +1282,6 @@ swarthymacula.com
 swrggntsvmsgv.com
 synz.liveonce.online
 tacticmarshannouncing.com
-tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1429,7 +1419,6 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
-whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
