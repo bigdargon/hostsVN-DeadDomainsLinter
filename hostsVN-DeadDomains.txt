@@ -1,6 +1,4 @@
-megapopads.com
 sender.megapopads.com
-www.megapopads.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -15,6 +13,7 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 native.propellerclick.com
@@ -75,11 +74,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -194,7 +188,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -262,6 +255,7 @@ adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -326,6 +320,7 @@ asgclickpop.com
 asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -410,6 +405,7 @@ bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
+cacaobroach.com
 caiwheechous.com
 camberchimp.com
 canangafierier.uno
@@ -423,7 +419,6 @@ cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
 cdn-server.top
-ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 charming-people.com
@@ -447,7 +442,6 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cnt.spbland.ru
@@ -614,6 +608,7 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -625,7 +620,6 @@ fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -651,7 +645,6 @@ gfugafoz.com
 ginpithed.live
 glaignicmo.com
 glaingotseemt.net
-gloalrie.com
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -691,7 +684,6 @@ gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gzaqwebtipm.com
-gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
@@ -713,7 +705,6 @@ heraldet.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
@@ -822,7 +813,6 @@ kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
-kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
@@ -860,7 +850,6 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -918,6 +907,7 @@ medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
+messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
@@ -960,7 +950,6 @@ nastinessreplicaupload.com
 nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-navelfletch.com
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -990,6 +979,7 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
+oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
@@ -1035,7 +1025,6 @@ optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
-oqnjfotketk.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1077,7 +1066,6 @@ parentlargevia.com
 pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
-pelagicmismate.com
 penbouncingmagpie.com
 pencilcongress.com
 peppaping.xyz
@@ -1119,7 +1107,6 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-pq8ithtdw.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1184,7 +1171,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1227,12 +1213,11 @@ romauntmirker.com
 rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
+rsalcch.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
-rukktiswibi.com
 ruwertur.com
-ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
@@ -1298,7 +1283,6 @@ specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
@@ -1326,6 +1310,7 @@ synz.liveonce.online
 tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -1349,6 +1334,8 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
+tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -1440,6 +1427,10 @@ vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
+vugpakba.com
+vujdudspear.com
+vupurdeeks.net
+vvliookawgs.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
@@ -1542,7 +1533,6 @@ zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
-zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
