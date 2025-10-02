@@ -28,6 +28,7 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -39,7 +40,6 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
-www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
@@ -65,10 +65,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -111,6 +107,7 @@ loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -119,7 +116,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
@@ -164,9 +160,7 @@ bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
-imgcdnbet.com
 motphimqq.pro
-serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -209,11 +203,11 @@ ad-spb.ru
 ad.abctv.com
 ad.foxnetworks.com
 ad.pornimg.xyz
-ad1.emediate.dk
 adaftegloomto.com
 adcloud.net
 adigi.icu
 adkchtmtns.com
+adlite.net
 admedia.network
 adrastos-eli.com
 adreclaim.com
@@ -228,12 +222,10 @@ ads.websiteservices.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
 adverdirect.com
-adyea.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -271,6 +263,7 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
+antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -387,6 +380,7 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -397,7 +391,6 @@ checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chickensstation.com
-chinaslauras.com
 chinsnakes.com
 chioneflake.com
 chippedaugur.com
@@ -427,7 +420,6 @@ compatriotelephant.com
 conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
-constructpoll.com
 contehos.com
 convertedhorace.com
 corrumpsublid.top
@@ -444,8 +436,10 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
+cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
+cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -513,7 +507,6 @@ ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
-ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -727,6 +720,7 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
+irritateinformantmeddle.com
 iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
@@ -832,6 +826,7 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
+locketcattishson.com
 loftsbaacad.com
 loopassume.com
 lootoshevub.net
@@ -1028,6 +1023,7 @@ pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
 pc2ads.com
+pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 peskyclarifysuitcases.com
@@ -1068,6 +1064,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pr-ten.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1162,6 +1159,7 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
+rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1221,7 +1219,9 @@ sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
+slockertummies.com
 slopeaota.com
+slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
@@ -1275,7 +1275,6 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 terrapsps.com
-tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
@@ -1484,7 +1483,6 @@ ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zeegreen.net
 zeepmedia.com
