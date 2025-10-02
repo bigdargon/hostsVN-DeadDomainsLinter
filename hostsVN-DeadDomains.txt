@@ -49,7 +49,6 @@ partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
-cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -103,8 +102,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -115,10 +112,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -253,7 +246,6 @@ ads.websiteservices.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -484,7 +476,6 @@ dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
 daufouwhoag.net
-daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
@@ -573,7 +564,6 @@ exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
-ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -739,7 +729,6 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
-ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
 illegal-respond.pro
@@ -825,6 +814,7 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
+klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -874,6 +864,7 @@ lowhoughevoass.com
 lowseelan.com
 lp3tdqle.com
 lqbkshojlhmyj.com
+lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
@@ -886,7 +877,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madserve.org
 makespram.com
@@ -1027,7 +1017,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
-orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1212,6 +1201,7 @@ rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
+rumadel.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
@@ -1233,6 +1223,7 @@ serconmp.com
 setypckq.com
 sf960.com
 sghehllds.com
+shakyseat.com
 shakytaste.com
 shareadspace.com
 sharepointads.com
@@ -1380,6 +1371,7 @@ uqkcroib.com
 urgerrebasis.com
 urigagxnji.com
 userreplay.com
+userresewn.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -1445,7 +1437,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
