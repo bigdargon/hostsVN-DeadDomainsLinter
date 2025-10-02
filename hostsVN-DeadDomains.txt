@@ -84,15 +84,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-native-vpaid.winadx.com
-rewarded.winadx.com
-service.winadx.com
-syndication.winadx.com
-tracking.winadx.com
-traffic-serv.winadx.com
-tvc-vpaid.winadx.com
-vpaid.winadx.com
-ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -201,7 +192,6 @@ motphimqq.pro
 upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
-log.baobackan.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -273,6 +263,7 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 agapios-gla.com
 agghriwaz.com
+agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -443,6 +434,7 @@ chulhawakened.com
 chullohagrode.com
 cigdizwu.com
 cihwactuqkco.com
+circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clkofafcbk.com
@@ -478,7 +470,6 @@ curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cycledaction.com
-cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -509,7 +500,6 @@ despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
-diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
@@ -520,6 +510,7 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
+doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -622,6 +613,7 @@ fudukrujoa.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
+fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -891,7 +883,6 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
-lzexnxwjsmof.com
 madeupadoption.com
 madserve.org
 makespram.com
@@ -1052,7 +1043,6 @@ owjwhuaklf.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
-oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
@@ -1069,6 +1059,7 @@ pasheeheghie.net
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
+pencilcongress.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
@@ -1110,7 +1101,6 @@ powershatchet.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
-pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
@@ -1217,6 +1207,7 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
+rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -1246,7 +1237,6 @@ sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
-shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -1264,6 +1254,7 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
+smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
@@ -1309,6 +1300,7 @@ tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -1342,7 +1334,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 trafficstrategies.com
 tranquilside.com
-traovrjwu.com
 troubledcontradiction.com
 trustbummler.com
 trustisimportant.fun
@@ -1429,7 +1420,6 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
@@ -1501,7 +1491,6 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
-ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
 yfetyg.com
@@ -1540,7 +1529,6 @@ analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
 dolohen.com
-go.ad1data.com
 kitbit.net
 tracking.news360.store
 usergrid.com
