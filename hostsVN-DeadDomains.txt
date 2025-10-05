@@ -1,6 +1,3 @@
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -85,7 +82,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
@@ -162,7 +158,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 matomo.hicity.vn
-mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -186,7 +181,6 @@ upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
-log.baobackan.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -237,7 +231,6 @@ ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.expat-blog.biz
-ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads1.rne.com
@@ -416,7 +409,6 @@ charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
-chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
@@ -449,6 +441,7 @@ conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constructpoll.com
+contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
@@ -502,7 +495,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
@@ -510,7 +502,6 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
-dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
@@ -726,14 +717,12 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
-ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -745,7 +734,6 @@ impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
-instrumentsponge.com
 interndry.com
 intnotif.club
 intrarezsites.com
@@ -1000,11 +988,11 @@ omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
 oneandonlynetwork.com
+oneegrou.net
 onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-openads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1457,6 +1445,7 @@ wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
+woorucauhou.net
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
@@ -1534,6 +1523,7 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
+suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
