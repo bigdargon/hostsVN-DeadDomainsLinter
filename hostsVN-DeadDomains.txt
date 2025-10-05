@@ -31,6 +31,7 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -45,6 +46,7 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -72,6 +74,26 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
+native-vpaid.winadx.com
+rewarded.winadx.com
+service.winadx.com
+syndication.winadx.com
+tracking.winadx.com
+traffic-serv.winadx.com
+tvc-vpaid.winadx.com
+vpaid.winadx.com
+ytvpaid.winadx.com
+pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -98,6 +120,9 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -105,13 +130,11 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
@@ -147,7 +170,11 @@ static01.atdnetwork.com
 track.atdnetwork.com
 matomo.hicity.vn
 mautic.hicity.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 app2.jeoway.net
+jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
@@ -163,10 +190,11 @@ duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
 upfile16.mediaphim.com
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
+log.baobackan.com.vn
 nct1.logging.nextsmarty.com
-track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -197,6 +225,7 @@ abpvhymadq.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
@@ -207,20 +236,22 @@ adigi.icu
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adrastos-eli.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.expat-blog.biz
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adshostnet.com
+adsk2.co
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -237,11 +268,11 @@ agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
-aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
+aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -314,7 +345,10 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.coza.com
+bannerconnect.net
 bannermarkt.nl
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -352,7 +386,6 @@ brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
 broaddoor.com
-brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -407,6 +440,7 @@ cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
+clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
@@ -469,7 +503,6 @@ dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
-dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -557,6 +590,7 @@ ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
+fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -697,7 +731,6 @@ hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
-hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -705,6 +738,7 @@ ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -713,6 +747,7 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 impressionz.co.uk
+ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -815,6 +850,7 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
+lfalfehuq.com
 lidosquey.shop
 lifpv.com
 ligvraojlrr.com
@@ -875,7 +911,6 @@ mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkaragqzeov.com
 mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
@@ -975,6 +1010,7 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -994,6 +1030,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
@@ -1042,6 +1079,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
@@ -1059,6 +1097,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1156,7 +1195,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -1211,6 +1249,7 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
+skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1257,6 +1296,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 tacticmarshannouncing.com
 tagular.com
@@ -1294,6 +1334,7 @@ toathoule.com
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
+tpmagqvjzgvos.com
 tpudapafr.com
 trafficstrategies.com
 tranquilside.com
