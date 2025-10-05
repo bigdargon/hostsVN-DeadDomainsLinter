@@ -57,7 +57,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -74,7 +73,6 @@ cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -137,6 +135,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
+aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -170,9 +169,9 @@ duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
 upfile16.mediaphim.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
+nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -183,7 +182,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
-2439march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -226,7 +224,7 @@ ads.wedodemos.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adshostnet.com
+adsclick.cc
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -246,7 +244,6 @@ aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
-aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -321,6 +318,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.media-system.de
 bannerconnect.net
 bannermarkt.nl
 basebanner.com
@@ -519,12 +517,6 @@ ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
-emhnyqdeuwtnrh.com
-emsi.livetwo.store
-encloselavanga.com
-encodehelped.com
-encounterboastful.com
-endoverphageda.cfd
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
@@ -816,12 +808,12 @@ kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
-lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leestoptee.com
+leetmenllew.com
 lephaush.net
 lessemujust.live
 lidosquey.shop
@@ -876,6 +868,7 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
+metaresolver.com
 mfajfikmyqan.com
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1102,7 +1095,6 @@ purgavax.com
 pushazer.com
 pushup.wtf
 pvnocbyq.com
-pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
 qainfcnvfensl.site
@@ -1405,6 +1397,7 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 weesatoothoamu.net
+wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
