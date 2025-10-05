@@ -16,7 +16,6 @@ spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
-image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -71,9 +70,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -82,6 +78,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
@@ -120,7 +117,6 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -158,6 +154,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 matomo.hicity.vn
+mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -237,6 +234,7 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -409,6 +407,7 @@ charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
+chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
@@ -495,6 +494,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
@@ -502,6 +502,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
+dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
@@ -512,7 +513,6 @@ dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzvuvtwbp.com
-e5asyhilodice.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -527,7 +527,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
-elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -717,12 +716,14 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 iiqbttkbfvgyo.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -734,6 +735,7 @@ impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
+instrumentsponge.com
 interndry.com
 intnotif.club
 intrarezsites.com
@@ -1176,7 +1178,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -1415,7 +1416,6 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
-webpower.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
@@ -1430,7 +1430,6 @@ whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
-wiltiqkc.com
 wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
@@ -1521,9 +1520,7 @@ beacon.errorception.com
 burstly.com
 dolohen.com
 go.ad1data.com
-kitbit.net
 q2melbourne.com
-suriflowers.com
 tracking.news360.store
 usergrid.com
 yoursitestatstube.ru
