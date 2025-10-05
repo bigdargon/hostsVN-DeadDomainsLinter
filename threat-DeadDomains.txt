@@ -652,7 +652,6 @@ free.sc0mvn.com
 freefire-garena-membership.tk
 freefire-membershipp-garena.com
 freefire-membershipp-vn.com
-freefire-membershipvn-garena.com
 freefire-vietnam.com
 freefirehopqua.com
 freefiremembership-garenas.com
@@ -676,6 +675,7 @@ garane.vn
 garean.vn
 gareena.vn
 garena-ff-membershipvn.com
+garena-ff.membershipsvn.com
 garena-ffmenbership.com
 garena-freefire-memberships.com
 garena-lienquanmobile-vn.com
@@ -835,6 +835,7 @@ hethongbank.com
 hethongbank24h.com
 hethongbhx.com
 hethongdonhang.com
+hethonggiaodichvidientu247.com
 hethongquatang.vn
 hethongtikicareers24.com
 hethongtikicareers24h.com
@@ -970,7 +971,6 @@ itishindia.cfd
 itsdebri.cfd
 iviietcombank.com
 ivvietcombank.com
-ivz7x63ymy.ru
 iyogo.shop
 jaccsc.com
 jaccscom.com
@@ -1306,7 +1306,6 @@ membershipsvn-garena.com
 membershipsvn.com
 membeshipgarena.com
 membeshipp-garenavn.com
-memmberzship.com
 menbershipps-ffvn.com
 menberships-ff-garrena.com
 menhichs.cfd
@@ -1650,6 +1649,7 @@ nganhangso247.com
 nganhangso40.online
 nganhangso40.site
 nganhangtructuyen24-7.com
+nganhangtructuyen24h.com
 nganhangwu.com
 ngayhoilienquan.vn
 ngaytetlienquan.com
@@ -1870,6 +1870,7 @@ quezachieve.cfd
 quickvayorg.com
 quocdanhbank.online
 quocthang.me
+quydautuvingroup.com
 quytiente.com
 r01lacou.azidp.tech
 rategicstrai.cfd
@@ -2078,6 +2079,7 @@ shopdotkich.net
 shope1688.com
 shopee-deal.com
 shopee-lienkettaikhoan.vn
+shopee-mobilebanking.vn
 shopee-tuyendung.com
 shopee.am
 shopee.ccooppcc.online
@@ -2102,7 +2104,6 @@ shopee130.vip
 shopee132.vip
 shopee14.com
 shopee15.com
-shopee152.vip
 shopee159.com
 shopee162.vip
 shopee18.vip
@@ -2170,9 +2171,7 @@ shopeesukien.com
 shopeetiki.com
 shopeetro.club
 shopeetro.shop
-shopeetro.xyz
 shopeetuyendung.com
-shopeetx.com
 shopeev.com
 shopeev.net
 shopeev.vip
@@ -2807,8 +2806,8 @@ tpbank-hanoi.com
 tpbank-vaynhanh.com
 tpbank.chamsockhachhang-uudaithe-thang6.com
 tpbank.chamsockhachhang-uudaitructuyen.online
-tpbank.chamsocthekhachang-truc-tuyen.com
 tpbank.chamsocthekhachhang-thang4.com.vn
+tpbank.chamsocthekhachhang-truc-tuyen.com
 tpbank.vn-cl.xyz
 tpbank.vn-vpb.top
 tpbank84.com
@@ -2821,7 +2820,6 @@ tpbansk.com
 tpbxnk.com
 tpmoney.xyz
 tpviet38.com
-tpviet68.com
 tqmwqfh.yo-bc.de
 tracuu-thongtin.online
 tracuu-thongtin.site
@@ -3002,7 +3000,6 @@ vaynganhangshinhan.online
 vaynganhangvcb.online
 vaynganhangvn.com
 vayngay247.com
-vayngay88.online
 vaynhanh-doctordong.com
 vaynhanh-techcombank.com
 vaynhanh247-doctordong.com
@@ -3106,6 +3103,7 @@ vayvonlotte.online
 vayvonnganhang-techcombank24h.online
 vayvonnganhangvn.online
 vayvonnhanh.click
+vayvonnhanhnganhangtpbank.com
 vayvonshinhanhanoi.com
 vayvonshinhantoanquoc.online
 vayvonshinhanvn.com
