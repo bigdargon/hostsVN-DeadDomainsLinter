@@ -44,7 +44,6 @@ domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
-gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -116,6 +115,7 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
@@ -136,9 +136,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
-aj2581.bid
 aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -217,7 +215,6 @@ admedia.network
 adplus.co.id
 adrastos-eli.com
 adreclaim.com
-ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.expat-blog.biz
@@ -226,7 +223,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -508,7 +504,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
-eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
@@ -617,6 +612,7 @@ glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
+glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 gogglemessenger.com
@@ -675,7 +671,6 @@ heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
 hilltopads.net
-hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -870,7 +865,6 @@ matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
@@ -888,6 +882,7 @@ mkaragqzeov.com
 mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
+mmrjzyaqzwcad.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
@@ -986,6 +981,7 @@ opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
+oqdavkguftan.com
 oqdtuqat.com
 orb92.com
 orbsclawand.com
@@ -1065,7 +1061,6 @@ poopelouque.com
 poowucatuz.net
 portlysingkenneth.com
 potencyissuedflashlight.com
-pouhoshootake.net
 powershatchet.com
 pramviable.com
 pranavafolksey.com
@@ -1103,7 +1098,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
-qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
 qavhivvcex.com
@@ -1192,8 +1186,6 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
-seo4india.com
-serconmp.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1304,7 +1296,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1336,6 +1327,7 @@ unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 unusuallypilgrim.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -1423,7 +1415,6 @@ wistfulbalmy.com
 wiwqhootrf.com
 wmeozwavstre.com
 woamoogloow.net
-woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
@@ -1508,4 +1499,3 @@ kitbit.net
 q2melbourne.com
 tracking.news360.store
 usergrid.com
-yoursitestatstube.ru
