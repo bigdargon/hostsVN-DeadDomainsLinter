@@ -116,7 +116,6 @@ expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
@@ -223,11 +222,11 @@ ads.aspalliance.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.websiteservices.com
-ads.wedodemos.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -309,6 +308,7 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
+axiomaticalley.com
 axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
@@ -616,7 +616,7 @@ ginpithed.live
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-glpweawxkodtvta.com
+glooroapoftus.com
 gmobhnktqiur.com
 go.mobisla.com
 gogglemessenger.com
@@ -710,6 +710,7 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
+idyllteapots.com
 iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
@@ -887,7 +888,6 @@ mkaragqzeov.com
 mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
-mmrjzyaqzwcad.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
@@ -942,6 +942,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
@@ -985,7 +986,6 @@ opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
-oqdavkguftan.com
 oqdtuqat.com
 orb92.com
 orbsclawand.com
@@ -1091,7 +1091,6 @@ ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
-public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1213,6 +1212,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1227,6 +1227,8 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
+smstcksjn.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
 soliads.net
@@ -1302,6 +1304,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1333,7 +1336,6 @@ unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
-untrendenam.com
 unusuallypilgrim.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -1416,6 +1418,7 @@ wiltiqkc.com
 wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
+wissoony.net
 wistfulbalmy.com
 wiwqhootrf.com
 wmeozwavstre.com
@@ -1443,6 +1446,7 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
+xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
@@ -1494,6 +1498,7 @@ zmalalxt.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
