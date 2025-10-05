@@ -16,6 +16,7 @@ spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
+image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -41,7 +42,6 @@ www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
-st-n.domnovrek.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -69,7 +69,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -117,6 +116,7 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -215,6 +215,7 @@ acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.pornimg.xyz
+adaction.de
 adaftegloomto.com
 adcloud.net
 adigi.icu
@@ -234,7 +235,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -407,7 +407,6 @@ charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
-chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
@@ -429,7 +428,6 @@ clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 coacoalaum.com
-coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
@@ -513,6 +511,7 @@ dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzvuvtwbp.com
+e5asyhilodice.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -527,6 +526,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -671,9 +671,6 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 hasalmarvt.com
-hasanjbam.com
-haufeechaukept.com
-hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -889,7 +886,6 @@ messsomehow.com
 metahv.xyz
 metaresolver.com
 mfajfikmyqan.com
-mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
 mingledventin.com
@@ -1035,8 +1031,6 @@ ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 pajnutas.com
-pallivermis.shop
-panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
@@ -1081,6 +1075,8 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pr-ten.de
+praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1144,7 +1140,6 @@ qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
-qxadsk.com
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1178,6 +1173,7 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -1430,6 +1426,7 @@ whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
+wiltiqkc.com
 wimswuppoxan.com
 windsattributeron.com
 wishedverde.com
@@ -1520,6 +1517,7 @@ beacon.errorception.com
 burstly.com
 dolohen.com
 go.ad1data.com
+kitbit.net
 q2melbourne.com
 tracking.news360.store
 usergrid.com
