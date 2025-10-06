@@ -89,6 +89,7 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 anymad.com
@@ -253,6 +254,7 @@ ads1.rne.com
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -323,7 +325,6 @@ atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
-aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
@@ -401,7 +402,6 @@ burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
@@ -493,7 +493,6 @@ decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -626,7 +625,6 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
-gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -756,6 +754,7 @@ instrumentsponge.com
 interndry.com
 intnotif.club
 intrarezsites.com
+inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
@@ -794,7 +793,6 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
-js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
@@ -884,24 +882,20 @@ luxope.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
-lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
-malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
@@ -978,7 +972,6 @@ nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oavowuftili.com
 oaxntxan.com
 obradjgifja.com
 ocixbjnnmabufn.com
@@ -1484,6 +1477,7 @@ xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
+xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
