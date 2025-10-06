@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 api.zcoup.com
-image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -65,6 +64,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -348,8 +348,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.coza.com
-banner.nixnet.cz
 bannerconnect.net
 bannermarkt.nl
 basebanner.com
@@ -770,7 +768,6 @@ izleskulked.shop
 j0x87i0og.com
 jadeitite.com
 jagzrmdyw.com
-jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -980,7 +977,6 @@ oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
-obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1048,6 +1044,7 @@ owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
+ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1121,6 +1118,7 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
+ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
@@ -1325,6 +1323,7 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -1337,6 +1336,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1419,6 +1419,7 @@ vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
+vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
