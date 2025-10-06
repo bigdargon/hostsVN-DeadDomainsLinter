@@ -2,7 +2,8 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-sdk.a4.tl
+p.medialytics.com
+px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -70,7 +71,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
@@ -253,13 +253,13 @@ ads1.rne.com
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
 adtoma.com
 adverdirect.com
-adyea.com
 adyieldoptimizer.com
 afearprevoid.com
 afqsrygmu.com
@@ -488,7 +488,6 @@ dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
-dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -529,11 +528,13 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
+eechuraubsaud.com
 eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
@@ -706,7 +707,6 @@ hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
-hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -855,6 +855,7 @@ lephaush.net
 lessemujust.live
 lidosquey.shop
 lifpv.com
+ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 link4ads.com
@@ -1187,7 +1188,6 @@ rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
-ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1328,7 +1328,6 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
-tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
