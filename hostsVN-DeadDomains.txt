@@ -1,3 +1,11 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -34,6 +42,12 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -62,8 +76,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
-i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -106,6 +118,11 @@ www.b91vip.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -118,6 +135,9 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -144,12 +164,20 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
 adserver.atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -163,6 +191,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+adx.kul.vn
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
@@ -209,6 +238,7 @@ ad-miner.com
 ad-spb.ru
 ad.pornimg.xyz
 adaftegloomto.com
+adbrn.com
 adigi.icu
 adkchtmtns.com
 adlite.net
@@ -225,11 +255,13 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
+adserver.quizdingo.com
 adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
+adtoma.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -248,7 +280,6 @@ ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
-ajghtafutjt.com
 ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -264,6 +295,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
+an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -320,6 +352,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.nixnet.cz
 bannerconnect.net
 bannermarkt.nl
 basebanner.com
@@ -514,7 +547,6 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
-ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -562,7 +594,6 @@ feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
-fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
@@ -693,6 +724,7 @@ hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
+hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -819,6 +851,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadingedgecash.com
 leestoptee.com
 leetmenllew.com
 lephaush.net
@@ -832,6 +865,7 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -877,6 +911,7 @@ messsomehow.com
 metahv.xyz
 metaresolver.com
 mfajfikmyqan.com
+mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 mifoqnwi.com
@@ -1044,7 +1079,6 @@ photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
-pienbitore.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1123,6 +1157,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
+qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1235,6 +1270,7 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+spacash.com
 spanuletubings.com
 speakspurink.com
 specificallycries.com
@@ -1256,6 +1292,7 @@ stormyachiever.com
 strikead.com
 stunninglover.com
 subheroalgores.com
+suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1304,9 +1341,11 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 troubledcontradiction.com
 trustbummler.com
 trustisimportant.fun
@@ -1416,10 +1455,12 @@ wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
+window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+wiwoqcmp.com
 wiwqhootrf.com
 wmeozwavstre.com
 woamoogloow.net
@@ -1499,13 +1540,14 @@ zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
-burstly.com
 dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
 tracking.news360.store
+tracking.scenepass.com
 usergrid.com
 yoursitestatstube.ru
