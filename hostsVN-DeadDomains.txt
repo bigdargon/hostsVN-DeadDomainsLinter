@@ -5,12 +5,12 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
-image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -191,7 +191,6 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 adx.kul.vn
-bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -320,6 +319,7 @@ asgclickpop.com
 asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -331,6 +331,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avhkihpfabt.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -348,6 +349,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.nixnet.cz
 bannerconnect.net
 bannermarkt.nl
 basebanner.com
@@ -502,7 +504,6 @@ depechearshine.com
 dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
-dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
@@ -761,13 +762,13 @@ iswashiscourtsh.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
-iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
 jadeitite.com
 jagzrmdyw.com
+jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -977,6 +978,7 @@ oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
+obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -995,7 +997,6 @@ ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
-okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -1187,7 +1188,6 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1265,7 +1265,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-spacash.com
 spanuletubings.com
 speakspurink.com
 specificallycries.com
