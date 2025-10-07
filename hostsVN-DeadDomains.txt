@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -30,6 +24,7 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
+yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
@@ -209,7 +204,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-ad-ndtv.3s.com.vn
 ad.chieuhoa.com
 adx.kul.vn
 bidgear-syndication.com
@@ -263,9 +257,7 @@ admedia.network
 adplus.co.id
 adrastos-eli.com
 adreclaim.com
-ads-to.click
 ads.aspalliance.com
-ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -311,7 +303,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -413,6 +404,7 @@ btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
+burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
@@ -482,7 +474,6 @@ cousesheethain.net
 cpfqsubp.com
 cpm-ad.com
 cpxadroit.com
-cpykudhagov.com
 crepedzincite.top
 croniesobli.com
 crumbrationally.com
@@ -537,7 +528,6 @@ doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
-downstairsnegotiatebarren.com
 drubbersestia.com
 drydrum.com
 ducksintroduce.com
@@ -778,7 +768,6 @@ ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itriyokj.com
-ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
 ixyyijop.com
@@ -799,7 +788,6 @@ jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
-jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
@@ -836,6 +824,7 @@ kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
+kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -849,6 +838,7 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -894,7 +884,6 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
-luloffer.com
 lumpbackstage.com
 luxope.com
 luzongixoo.net
@@ -907,6 +896,7 @@ madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
+malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
@@ -972,6 +962,7 @@ news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
@@ -1234,6 +1225,7 @@ sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
+salivanmobster.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
@@ -1299,6 +1291,7 @@ static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
+stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stoorgel.com
@@ -1320,6 +1313,7 @@ synz.liveonce.online
 tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -1383,6 +1377,7 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
