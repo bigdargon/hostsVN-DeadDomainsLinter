@@ -13,7 +13,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
@@ -73,7 +72,6 @@ www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
-st-n.domnovrek.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -151,11 +149,13 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -298,7 +298,6 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ak.ceegriwuwoa.net
-ak.groaxonsoow.net
 ak.oneegrou.net
 ak.unblitzlean.com
 akximhhcunr.com
@@ -405,6 +404,7 @@ bouncecardiganculture.com
 brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
+broaddoor.com
 brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
@@ -429,11 +429,9 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
-carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
-cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
@@ -466,6 +464,7 @@ coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
+coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -928,6 +927,7 @@ mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
+mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1118,6 +1118,9 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pramviable.com
+pranavafolksey.com
+praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
@@ -1219,6 +1222,7 @@ roashudiweeh.com
 robitoaceeb.net
 rodejessie.com
 romauntmirker.com
+rosolicdalapon.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
