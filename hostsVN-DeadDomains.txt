@@ -29,7 +29,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
-go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -86,14 +85,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-native-vpaid.winadx.com
-rewarded.winadx.com
-service.winadx.com
-syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
-vpaid.winadx.com
 ytvpaid.winadx.com
 delivery.adsterra.org
 anymad.com
@@ -168,11 +160,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adserver.atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
 static01.atdnetwork.com
-track.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -228,6 +216,7 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
+acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
@@ -236,7 +225,6 @@ adaftegloomto.com
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adrastos-eli.com
 adreclaim.com
 ads-to.click
@@ -257,6 +245,7 @@ adtoma.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
+afearprevoid.com
 afqsrygmu.com
 agapios-gla.com
 agghriwaz.com
@@ -312,7 +301,6 @@ asgclickpop.com
 asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
-atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -503,6 +491,7 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
+dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -557,7 +546,6 @@ ewpucbact.com
 exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
-exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -822,7 +810,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -878,8 +865,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
@@ -945,6 +930,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
@@ -1058,7 +1044,6 @@ pencilcongress.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
-phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1277,9 +1262,7 @@ static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
-stnyirechxxi.com
 stoakrestultan.com
-stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
 strikead.com
