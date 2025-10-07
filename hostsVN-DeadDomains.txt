@@ -51,9 +51,6 @@ partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
-brand.ad
-a.brand.ad
-www.brand.ad
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -117,8 +114,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -233,6 +228,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.rne.com
 adsclick.cc
+adserver.pl
 adserver.quizdingo.com
 adsk2.co
 adsmogo.org
@@ -296,6 +292,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+asslfeqadv.com
 ataccwpdiqqnfl.com
 atonementwisely.com
 atrochaxctl.shop
@@ -493,7 +490,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -713,6 +709,7 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
+ichdpdbpv.com
 idregie.com
 idyllteapots.com
 iiqbttkbfvgyo.com
@@ -758,7 +755,6 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
-jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
@@ -858,12 +854,10 @@ luloffer.com
 lumpbackstage.com
 luxope.com
 luzongixoo.net
-lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madserve.org
 makespram.com
@@ -1079,6 +1073,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pr-ten.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1087,6 +1082,7 @@ presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
+propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1183,7 +1179,6 @@ robitoaceeb.net
 rodejessie.com
 romauntmirker.com
 rosolicdalapon.com
-rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
