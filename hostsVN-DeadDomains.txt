@@ -4,6 +4,10 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -15,6 +19,21 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adtrackers.net
+ox-d.adtrackers.net
+serve.adtrackers.net
+torrentz.adtrackers.net
+yahoo.adtrackers.net
+yasni.adtrackers.net
+zoover.adtrackers.net
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -92,6 +111,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
+delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -115,9 +135,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -234,6 +251,7 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.foxnetworks.com
 ad.pornimg.xyz
 adaftegloomto.com
 adkchtmtns.com
@@ -242,10 +260,13 @@ admedia.network
 adplus.co.id
 adrastos-eli.com
 adreclaim.com
+adrevolver.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.cdn2-img.net
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.rne.com
@@ -255,7 +276,6 @@ adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
-adtoma.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -308,6 +328,7 @@ areamindless.com
 aries-nbl.com
 armfullitigateslate.com
 armoursviolino.com
+arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
@@ -316,7 +337,6 @@ asgclickpop.com
 asqsphwgybanh.com
 ataccwpdiqqnfl.com
 atonementwisely.com
-atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -402,6 +422,7 @@ c.cdn-server.top
 c43a3cd8f99413891.com
 cacaobroach.com
 caiwheechous.com
+calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canuncartes.help
@@ -410,6 +431,7 @@ capitalgolfmushily.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
@@ -558,6 +580,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exogripper.com
@@ -622,7 +645,6 @@ fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
-gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
@@ -705,7 +727,6 @@ hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
-hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -736,7 +757,6 @@ ichdpdbpv.com
 idregie.com
 idyllteapots.com
 iiqbttkbfvgyo.com
-ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -850,7 +870,6 @@ leestoptee.com
 leetmenllew.com
 lephaush.net
 lessemujust.live
-lfalfehuq.com
 lidosquey.shop
 lifpv.com
 ligvraojlrr.com
@@ -938,6 +957,7 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastinessreplicaupload.com
@@ -990,7 +1010,6 @@ ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
-ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
@@ -1000,7 +1019,6 @@ okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
-olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 omlbaftroofj.com
@@ -1094,6 +1112,7 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1152,6 +1171,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
@@ -1169,6 +1189,7 @@ rcyorjkze.com
 rduaagcwsw.com
 realizeparish.com
 receptiveink.com
+record.bonniergaming.com
 redmas.com
 reecegrita.com
 refpa4293501.top
@@ -1223,6 +1244,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1424,6 +1446,7 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -1537,7 +1560,9 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
+cankaowang.com
 dolohen.com
+go.ad1data.com
 kitbit.net
 q2melbourne.com
 tracking.news360.store
