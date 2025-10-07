@@ -29,6 +29,7 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -53,7 +54,6 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -85,8 +85,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-traffic-serv.winadx.com
-ytvpaid.winadx.com
 delivery.adsterra.org
 anymad.com
 cdn.anymad.com
@@ -160,7 +158,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-static01.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -546,6 +543,7 @@ ewpucbact.com
 exclusivebrass.com
 exogripper.com
 expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -715,7 +713,6 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
-ichdpdbpv.com
 idregie.com
 idyllteapots.com
 iiqbttkbfvgyo.com
@@ -810,6 +807,7 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
+ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -865,6 +863,8 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
+madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
@@ -1044,6 +1044,7 @@ pencilcongress.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
+phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1086,7 +1087,6 @@ presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
-propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1262,7 +1262,9 @@ static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
+stnyirechxxi.com
 stoakrestultan.com
+stolenforensicssausage.com
 stoorgel.com
 stormyachiever.com
 strikead.com
