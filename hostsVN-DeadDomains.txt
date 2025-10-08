@@ -63,11 +63,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -82,7 +77,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -163,8 +157,6 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
-aj3007.bid
-aj3017.bid
 aj101.xyz
 matomo.hicity.vn
 mautic.educe.vn
@@ -180,7 +172,6 @@ sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 ad.chieuhoa.com
 adx.kul.vn
 bidgear-syndication.com
@@ -291,7 +282,6 @@ anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
-annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
@@ -342,7 +332,6 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
-bande2az.com
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -614,6 +603,7 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 frameworkdeserve.com
+freakishmartyr.com
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -643,6 +633,7 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
+gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -710,7 +701,6 @@ hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
-hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -1154,6 +1144,8 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
+qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
@@ -1197,7 +1189,6 @@ rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1253,6 +1244,7 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
+shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
@@ -1283,6 +1275,7 @@ speakspurink.com
 specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
+spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
@@ -1323,6 +1316,7 @@ tdpjzjpfuiis.com
 tearerernest.com
 terrapsps.com
 tetrylscullion.com
+thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -1450,6 +1444,7 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
+wbehwesvucqmvx.com
 webpower.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1526,7 +1521,6 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
-yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
@@ -1549,6 +1543,7 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
+zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
