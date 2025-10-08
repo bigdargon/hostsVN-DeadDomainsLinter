@@ -142,7 +142,6 @@ andelect.cfd
 andslideasco.cfd
 ani453las.cfd
 ans7tv.net
-ansfrxyr.tmska.de
 anstv.net
 anwasthere.cfd
 anzvn.net
@@ -235,6 +234,7 @@ ca-nhan-vpb.com
 campxanh.info
 canhanshinhan.com
 canhantpb.com
+canvayvon.net
 caonhanh.xyz
 card-tindung-vp.com
 card-tindung.com
@@ -501,6 +501,7 @@ dns-log.d-n-s.org.uk
 do002.com
 do005.com
 docbao24h.net
+doctromtinnhan.com
 doithecaothanhtienmat.com
 doitiengia.com
 domainxnewma.com
@@ -562,7 +563,6 @@ evay.info
 eventlienquanmobile.com
 eventlienquanvn.com
 eventlqvn.com
-eventriansieusao.com
 evnbankcredit.info
 evncredit.online
 evnnpcs.com
@@ -880,6 +880,8 @@ hosovang152.com
 hot-membership.com
 hotbuckers.com
 hotdealshopee.com
+hotline-dienmayxanh.com
+hotro-garenavn.com
 hotro-taikhoan-garena-lqmb.com
 hotro-vi.net
 hotro-vn.com
@@ -1422,7 +1424,6 @@ money88.mobi
 moneydong.us
 moneydong123.com
 moneyeasily-hk.top
-moneyeasily-tx.top
 moneyloan-vn.com
 moneytracking137.com
 moneyvi.xyz
@@ -1451,11 +1452,8 @@ muabannickforumug.com
 muabanwin.co
 muacard.org
 muaclone979.tk
-muacodehay.com
-muahangcargo.com
 muahangnhanh.net
 muaho8.com
-muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
 mualienquan.org
@@ -1997,6 +1995,7 @@ servsvietnam.com
 sg.unixpop.xyz
 sg1.unixpop.xyz
 sgshopee.top
+sgxcoin.net
 sh2tiki.com
 share-apple.com
 share.ttchanging.com
@@ -2061,6 +2060,7 @@ shop984.com
 shop9933.com
 shop9999kimcuong.com
 shopacc33.com
+shopacc99.com
 shopaccgame.vn
 shopacchamon.com
 shopacclm247.online
@@ -2154,6 +2154,7 @@ shopee7788.com
 shopee866.com
 shopee88.vip
 shopee889.com
+shopee918.com
 shopee99.vip
 shopee9977.com
 shopeeace.com
@@ -3180,7 +3181,6 @@ vib.hanmucvn.com
 vib.khach-hang-the-tructuyen.com
 vib.khach-hang-the-tructuyen.online
 vib.tanghanmuc-vn.com
-vib.truc-tuyen-cham-socthekhachhang.com
 vib.tructuyen-chamsockhachang-the.com
 vib.tuvan-chamsockhachhang.com
 vib.uudaikhachhang-tructuyen.com.vn
@@ -3605,6 +3605,7 @@ vonsieuhtoc.com
 vonsieuitoc.com
 vonsieujtoc.com
 vonsieuktoc.com
+vonsieultoc.com
 vonsieumtoc.com
 vonsieuntoc.com
 vonsieuotoc.com
@@ -3668,7 +3669,6 @@ vstvst28toc.com
 vstvst29toc.com
 vstvst2toc.com
 vstvst30toc.com
-vstvst3toc.com
 vstvst4toc.com
 vstvst5toc.com
 vstvst6toc.com
