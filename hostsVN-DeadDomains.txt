@@ -64,6 +64,7 @@ s.pmddby.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
+fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -95,6 +96,9 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
 cdn.appier.xyz
 pgmcdn.com
 delivery.adsterra.org
@@ -104,7 +108,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -822,8 +825,6 @@ kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
-keapeiros.xyz
-kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
@@ -980,7 +981,6 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -1093,6 +1093,7 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 planesknob.com
+plinsaqhsu.com
 pmagumovfma.com
 pocrowpush.com
 podsklzegshmnd.com
@@ -1283,7 +1284,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-spanuletubings.com
 speakspurink.com
 specificallycries.com
 specifiedbloballowance.com
@@ -1448,13 +1448,14 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 w454n74qw.com
-wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
+wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
 weesatoothoamu.net
@@ -1466,6 +1467,9 @@ whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
+whowhipi.net
+whugesto.net
+whuwoawain.com
 wibtntmvox.com
 widespace.com
 wiltiqkc.com
@@ -1521,7 +1525,6 @@ xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
-yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
@@ -1567,6 +1570,5 @@ kitbit.net
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-tracking.news360.store
 tracking.scenepass.com
 yoursitestatstube.ru
