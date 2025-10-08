@@ -63,7 +63,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -77,6 +76,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -157,6 +157,8 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
+aj3007.bid
+aj3017.bid
 aj101.xyz
 matomo.hicity.vn
 mautic.educe.vn
@@ -172,6 +174,7 @@ sponsor.imacdn.com
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 ad.chieuhoa.com
 adx.kul.vn
 bidgear-syndication.com
@@ -282,6 +285,7 @@ anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
+annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
@@ -295,7 +299,6 @@ areamindless.com
 aries-nbl.com
 armfullitigateslate.com
 armoursviolino.com
-arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
@@ -332,6 +335,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
+bande2az.com
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -364,6 +368,7 @@ blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bo2ffe45ss4gie.com
+boilhumoristpacifist.com
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
@@ -586,7 +591,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -603,7 +607,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 frameworkdeserve.com
-freakishmartyr.com
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -656,7 +659,6 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -685,6 +687,7 @@ hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
+hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -701,6 +704,7 @@ hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
+hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -940,7 +944,6 @@ nastinessreplicaupload.com
 nationalgausewatrust.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -973,6 +976,7 @@ oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
+obnoljac.com
 obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1104,7 +1108,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
@@ -1189,6 +1192,7 @@ rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
+riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1471,7 +1475,6 @@ wiwqhootrf.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
-wokseephishopty.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
@@ -1521,6 +1524,7 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
 ypmtvlaktm.com
