@@ -27,13 +27,6 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 native.propellerclick.com
 static.cbsileads.com
 aj1549.online
@@ -155,6 +148,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -335,6 +329,8 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awwagqorqpty.com
+axiomaticalley.com
 axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
@@ -647,7 +643,6 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
-gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -1159,8 +1154,6 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
-qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
@@ -1260,7 +1253,6 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
-shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
@@ -1291,7 +1283,6 @@ speakspurink.com
 specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
-spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
@@ -1332,7 +1323,6 @@ tdpjzjpfuiis.com
 tearerernest.com
 terrapsps.com
 tetrylscullion.com
-thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -1448,6 +1438,7 @@ vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
+vvliookawgs.com
 vyfrxuytzn.com
 w454n74qw.com
 wagenerfevers.com
@@ -1459,7 +1450,6 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
-wbehwesvucqmvx.com
 webpower.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1494,6 +1484,7 @@ woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
+worstideatum.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
@@ -1558,9 +1549,9 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
-zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
