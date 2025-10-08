@@ -121,13 +121,10 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-b91vip.com
 image.b91vip.com
 www.b91vip.com
 asgdfasad.mm-cgnews.com
 admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -152,7 +149,6 @@ ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
@@ -350,7 +346,6 @@ bande2az.com
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
-bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
@@ -540,7 +535,6 @@ eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
-ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -750,7 +744,6 @@ idregie.com
 idyllteapots.com
 iiqbttkbfvgyo.com
 illegal-respond.pro
-imageshh.com
 imarketservices.com
 immensehoney.com
 immerseweariness.com
@@ -794,7 +787,6 @@ jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
 jollytestpartying.com
-jomtingi.net
 joopaish.com
 joudauhee.com
 jozowgldpc.com
@@ -1264,7 +1256,6 @@ shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
-simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -1558,7 +1549,6 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
-zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
@@ -1573,6 +1563,7 @@ kitbit.net
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
+suriflowers.com
 tracking.news360.store
 tracking.scenepass.com
 yoursitestatstube.ru
