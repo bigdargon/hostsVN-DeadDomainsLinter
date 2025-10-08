@@ -35,10 +35,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -88,7 +84,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
-i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -201,6 +196,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+analytics.amedigital.vn
 analytics.gotama.link
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -255,7 +251,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads.wedodemos.com
 ads1.rne.com
 ads2.rne.com
 adsclick.cc
@@ -270,7 +265,6 @@ adyea.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
-afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
 agghriwaz.com
@@ -332,7 +326,6 @@ aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
-automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
@@ -775,7 +768,6 @@ inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
@@ -979,6 +971,7 @@ noerwe5gianfor19e4st.com
 noowhaumurauy.net
 nowheresank.com
 npipajajn.com
+nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
@@ -991,6 +984,7 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
+oalselry.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
@@ -1100,7 +1094,6 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
-pixel.personagraph.com
 planesknob.com
 plinsaqhsu.com
 pmagumovfma.com
@@ -1241,7 +1234,6 @@ sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
-sarinfalun.com
 scabbienne.com
 scammereating.com
 scenescrockery.com
@@ -1302,7 +1294,6 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
-static-ads.akamaized.net
 static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -1363,6 +1354,7 @@ tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
 total-fee.com
+touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
