@@ -280,6 +280,7 @@ chientich-sinhnhatlienquangarenavn.ml
 chinhphu.cc
 chinhphu.dulieucutru.org
 chinhphu.hodancu.com
+chinhphu.thongtincutru.org
 chovayfecredit.com
 chovaytiengopsg.com
 chovaytieudung.online
@@ -513,7 +514,6 @@ dv-ca-nhan-vpbank.com
 dv-nang-cap-vpbank.com
 dvdienmayxanh.com
 dvfbnhan.com
-e-bankingshopee.vn
 e-sacombank.com
 easyloan-money-th.com
 easywbdesign.com
@@ -1156,6 +1156,7 @@ lienminh-membership.com
 lienminhhanghieu.com
 lienminhshopgame.com
 lienquan-garena-giftcode.com
+lienquan-garena-member.com
 lienquan-garenavn2.com
 lienquan-giftcode-vn.com
 lienquan-member-garena.site
@@ -1180,6 +1181,8 @@ lienquannhanquavn2021.com
 lienquantrianvn2021.com
 lienquanvip.com
 lienquanxgarena.com
+lienvietbank.vn-vp.xyz
+likeshop.life
 likeviet07.online
 link.theworkguyoo.com
 link8x.xyz
@@ -1576,6 +1579,7 @@ napthe11s.xyz
 naptheaov.com
 napthecaox10.com
 napthechinhthuc.com
+naptheff.net
 naptheff.org
 napthefffreefire.com
 naptheffx2.com
@@ -2076,6 +2080,7 @@ shopcocphuchoai.com
 shopcodelienquan.com
 shopcuade.com
 shopcuadlugaming.com
+shopcuahungff.com
 shopcuahuybom.com
 shopcuaminhchill.vn
 shopcuamon.com
@@ -2412,6 +2417,7 @@ sp1663p.com
 sp1776p.com
 sp315693vn.com
 sp61889p.com
+sp6788.com
 sp7335p.com
 sp75193p.com
 sp7588p.com
@@ -2631,7 +2637,6 @@ thisinhthanhlich2022.com
 thisinhthanhlich2024.com
 thongtincutru.org
 thongtindancu.org
-thongtindonhang.com
 thpthuynhthuckhang.edu.vn
 thseaeing.fun
 thshopee.com
@@ -2861,7 +2866,6 @@ trangthuongvn365.com
 trangtrian2021.com
 trangtrianviet.com
 tranphongnam.tangtuongtac.work
-traoquatangshopee.com
 traothuongxe37.com
 traothuongxe7.com
 travelokaaaa.com
@@ -3096,17 +3100,13 @@ vaytinchap-tpbank-hanoi.xyz
 vaytinchap-tpbank.xyz
 vaytinchapcanhan.online
 vaytinchapnhanh-bidv.com
-vaytinchapshinhan247.com
 vaytinchapshinhanbank-vn.com
-vaytinchaptieudungshinhanbank.com
 vaytinchapvpbank.com
 vaytindung-techcombank.online
 vaytindungnhanh.online
 vaytindungshinhan.net
 vaytintam24h.vn
 vaytoanquoc24h.com
-vaytotnhat.app
-vaytpbbank.com
 vayvietcombank.com.vn
 vayvn247.com
 vayvnq.com
@@ -3653,8 +3653,6 @@ vstvst21toc.com
 vstvst22toc.com
 vstvst24toc.com
 vstvst25toc.com
-vstvst26toc.com
-vstvst27toc.com
 vstvst28toc.com
 vstvst29toc.com
 vstvst2toc.com
