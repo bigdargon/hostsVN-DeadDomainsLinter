@@ -7,7 +7,6 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -27,10 +26,12 @@ serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
+zoover.adtrackers.net
 native.propellerclick.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -60,7 +61,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -104,7 +104,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -172,7 +171,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 alexajstrack.com
 analytics.amedigital.vn
@@ -220,7 +218,6 @@ acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.foxnetworks.com
 ad.pornimg.xyz
 adaftegloomto.com
 adbrn.com
@@ -234,6 +231,7 @@ ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.clickdigisol.net
+ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -645,7 +643,6 @@ gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 gk79a2oup.com
@@ -780,8 +777,6 @@ ivhwlnlcgi.com
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
-j0x87i0og.com
 jadeitite.com
 jagzrmdyw.com
 jaumevie.com
@@ -831,7 +826,6 @@ kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
-kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
@@ -989,6 +983,7 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
@@ -1096,6 +1091,7 @@ phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
+phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
@@ -1137,6 +1133,7 @@ proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
+pscbrveha.com
 psipausaix.net
 psootchu.net
 pteemsolrirgegi.com
@@ -1189,7 +1186,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-rankchamp.de
 ranking-liste.de
 raphanysteers.com
 razzedwhimsic.website
@@ -1276,7 +1272,6 @@ sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
-shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -1292,6 +1287,7 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -1372,7 +1368,6 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
-tookoupanoafig.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -1445,6 +1440,7 @@ vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
+vfurwydryli.com
 viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
@@ -1520,10 +1516,10 @@ wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
-xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
@@ -1542,6 +1538,7 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xwdoxgilvdbj.com
 xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
