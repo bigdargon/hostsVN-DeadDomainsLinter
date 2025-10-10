@@ -11,6 +11,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
+logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -107,7 +108,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -283,8 +283,9 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads2.net-communities.co.uk
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
@@ -404,7 +405,6 @@ bedaoibe.com
 beefoaloode.net
 bemalkrmc.com
 benevolencepair.com
-benonblkd.xyz
 beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
@@ -433,7 +433,6 @@ broadboundary.com
 broaddoor.com
 brookgetupshorts.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -458,7 +457,6 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 capsizehatlessprude.com
-carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
@@ -791,6 +789,8 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+hurarwjrirti.com
+hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hwpnocpctu.com
@@ -919,6 +919,7 @@ lauloajaiph.net
 lbmqciazrpm.com
 leestoptee.com
 leetmenllew.com
+legitfizzed.shop
 lephaush.net
 lessemujust.live
 lidosquey.shop
@@ -971,6 +972,7 @@ mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1038,7 +1040,6 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1083,7 +1084,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
-onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -1213,6 +1213,9 @@ purgavax.com
 pushazer.com
 pushup.wtf
 pvnocbyq.com
+pvrladcyxnico.com
+pwysruffoza.com
+pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1238,7 +1241,6 @@ qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
-qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
@@ -1309,6 +1311,7 @@ scammereating.com
 scarofnght.com
 scenescrockery.com
 schoonnonform.com
+sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
 sendmepixel.com
@@ -1339,11 +1342,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-sljtqfcyi.com
-slockertummies.com
-slopeaota.com
-slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -1636,6 +1634,7 @@ zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
+zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
