@@ -104,6 +104,8 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -210,7 +212,6 @@ bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
-imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 alexajstrack.com
@@ -368,7 +369,6 @@ avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
-avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
@@ -388,6 +388,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.nixnet.cz
+bannermarkt.nl
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -838,7 +839,6 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
-jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -955,10 +955,12 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
+malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
@@ -977,6 +979,7 @@ metaresolver.com
 mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
+mhavfytafo.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
@@ -1234,6 +1237,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quarterserver.de
+quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1430,6 +1434,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1579,7 +1584,6 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
-xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
