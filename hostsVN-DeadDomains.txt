@@ -104,8 +104,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -190,9 +188,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-ohchat.net
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -261,6 +256,7 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
@@ -392,10 +388,8 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.nixnet.cz
-bannermarkt.nl
 basebanner.com
 baste-znl.com
-batomqsmoocc.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -514,6 +508,7 @@ contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
+cpfqsubp.com
 cpm-ad.com
 cpxadroit.com
 cpykudhagov.com
@@ -558,6 +553,7 @@ dependpinch.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
+dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -838,6 +834,7 @@ izleskulked.shop
 j0x87i0og.com
 jadeitite.com
 jagzrmdyw.com
+jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
@@ -962,7 +959,6 @@ madeupadoption.com
 madserve.org
 makespram.com
 makqfcvs.com
-malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
@@ -981,7 +977,6 @@ metaresolver.com
 mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
-mhavfytafo.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
@@ -993,6 +988,7 @@ mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mobbersinwalls.com
+mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1005,6 +1001,7 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
+munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1105,9 +1102,11 @@ orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
+osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
@@ -1126,6 +1125,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
+ozongees.com
 ozxakfawm.com
 pajnutas.com
 pallivermis.shop
@@ -1234,7 +1234,6 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 quarterserver.de
-quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1431,7 +1430,6 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -1463,6 +1461,7 @@ ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
+unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 unusuallypilgrim.com
@@ -1650,8 +1649,6 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
-showbiz.owndata.network
 tracking.news360.store
-tracking.scenepass.com
 worldgravity.com
 yoursitestatstube.ru
