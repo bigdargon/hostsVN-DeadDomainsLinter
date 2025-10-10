@@ -75,8 +75,6 @@ go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
-m.mstorer.net
-mstorer.net
 p.zetadeo.com
 zetadeo.com
 ei.imstks.com
@@ -107,7 +105,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
@@ -139,8 +136,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -201,7 +196,6 @@ app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
-d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -212,7 +206,7 @@ bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
-mobileads.dieuviet.com
+imgcdnbet.com
 motphimqq.pro
 alexajstrack.com
 analytics.amedigital.vn
@@ -287,7 +281,6 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
-adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
@@ -369,6 +362,7 @@ avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
+avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axiomaticalley.com
@@ -387,7 +381,6 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.nixnet.cz
 bannermarkt.nl
 basebanner.com
 baste-znl.com
@@ -464,6 +457,7 @@ cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
+centalkochab.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -650,7 +644,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
+findcommerce.com
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -690,6 +684,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -839,6 +834,7 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -955,7 +951,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madserve.org
 makespram.com
@@ -1066,7 +1061,6 @@ ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
-ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
@@ -1555,7 +1549,6 @@ wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -1584,6 +1577,7 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
+xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
