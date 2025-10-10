@@ -132,7 +132,6 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -171,6 +170,7 @@ aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
+aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
@@ -203,6 +203,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 alexajstrack.com
 analytics.amedigital.vn
@@ -280,7 +281,6 @@ adspace.ro
 adsrveys.com
 adtology.com
 adverdirect.com
-advisormedia.cz
 adyea.com
 adyieldoptimizer.com
 adz2you.com
@@ -473,7 +473,6 @@ chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
-cigdizwu.com
 cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
@@ -482,6 +481,7 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 coacoalaum.com
+coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
@@ -550,7 +550,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -1325,7 +1324,6 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
-sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -1494,7 +1492,6 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
