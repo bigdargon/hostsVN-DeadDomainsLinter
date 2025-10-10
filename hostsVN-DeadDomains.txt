@@ -11,7 +11,6 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
-logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -109,8 +108,6 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -211,11 +208,13 @@ cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
 adx.kul.vn
+ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 alexajstrack.com
 analytics.amedigital.vn
@@ -284,9 +283,8 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-ads.thrillsaffiliates.com
-ads.websiteservices.com
 ads2.net-communities.co.uk
+adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
@@ -507,6 +505,7 @@ compatriotelephant.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
+consciouschairs.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -611,7 +610,9 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
+erosyndc.com
 errantstetrole.com
+eryondistain.com
 escortlarbul.com
 ewpucbact.com
 exclusivebrass.com
@@ -790,7 +791,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hwpnocpctu.com
@@ -1077,6 +1077,7 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
+oltnukjafo.com
 olxxugltoku.com
 omlbaftroofj.com
 omniscientspark.com
@@ -1214,9 +1215,6 @@ purgavax.com
 pushazer.com
 pushup.wtf
 pvnocbyq.com
-pvrladcyxnico.com
-pwysruffoza.com
-pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1641,7 +1639,6 @@ zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
-zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
