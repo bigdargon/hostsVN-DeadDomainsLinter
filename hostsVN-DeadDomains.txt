@@ -75,6 +75,8 @@ go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
+m.mstorer.net
+mstorer.net
 p.zetadeo.com
 zetadeo.com
 ei.imstks.com
@@ -95,8 +97,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -105,6 +105,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
@@ -188,7 +189,6 @@ wakeup247.klick.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -196,6 +196,7 @@ app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
+d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -281,6 +282,7 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
+adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
@@ -457,7 +459,6 @@ cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -519,7 +520,6 @@ cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
-cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -556,8 +556,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
-dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
@@ -644,7 +642,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
+fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -684,7 +682,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -790,6 +787,7 @@ hvxnlmjx.com
 hwpnocpctu.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1061,6 +1059,7 @@ ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
+ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
@@ -1510,7 +1509,6 @@ voopsookie.net
 voosaivege.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
-vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
