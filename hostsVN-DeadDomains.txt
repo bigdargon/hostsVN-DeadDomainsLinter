@@ -8,7 +8,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -93,7 +92,6 @@ www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
 image.b91vip.com
-www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 admix.in
@@ -226,8 +224,8 @@ ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horyzon-media.com
 ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads1.rne.com
 ads2.rne.com
 adsclick.cc
@@ -342,7 +340,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -383,7 +380,6 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -422,13 +418,11 @@ chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
-chippedaugur.com
 chirpyreemergespotty.com
 chl7rysobc3ol6xla.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
-chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -646,7 +640,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
@@ -853,6 +846,7 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1221,6 +1215,7 @@ rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
+ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1340,6 +1335,7 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
+synz.liveonce.online
 syyycc.com
 tacticmarshannouncing.com
 tagular.com
@@ -1405,7 +1401,7 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
+ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
