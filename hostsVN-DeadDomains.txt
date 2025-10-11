@@ -28,18 +28,14 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
@@ -68,6 +64,7 @@ native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
+vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
@@ -99,6 +96,7 @@ xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -107,8 +105,6 @@ tracking.adclickmedia.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-lb.ironbeast.io
-sdk.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -121,9 +117,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -251,6 +244,7 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
+adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
@@ -367,7 +361,6 @@ beefoaloode.net
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
-beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
@@ -819,7 +812,6 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
-jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
 joopaish.com
@@ -850,7 +842,6 @@ kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
-keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
@@ -934,6 +925,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
+matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -989,6 +981,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
@@ -1225,7 +1218,6 @@ reecegrita.com
 refpa4293501.top
 refraintupaiid.com
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1330,6 +1322,7 @@ spanuletubings.com
 speakspurink.com
 specificallycries.com
 specifiedbloballowance.com
+sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -1347,7 +1340,6 @@ stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
-sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
@@ -1387,7 +1379,6 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
-tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -1507,7 +1498,6 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
-whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
