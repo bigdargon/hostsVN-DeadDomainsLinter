@@ -4,10 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -181,8 +177,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-customers.fptad.com
-img.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -264,7 +258,6 @@ ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
-ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
@@ -373,6 +366,7 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
+banner.mindshare.de
 bannermarkt.nl
 basebanner.com
 baste-znl.com
@@ -432,7 +426,6 @@ c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
-cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -474,7 +467,6 @@ cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -492,6 +484,7 @@ conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constructpoll.com
+contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
@@ -636,7 +629,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -893,8 +885,6 @@ kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
-kwanvibist.com
-kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
@@ -971,7 +961,6 @@ mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
-mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1135,6 +1124,7 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
+phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1199,6 +1189,7 @@ pulvinioreodon.com
 pumywyczbks.com
 pupspu.com
 purgavax.com
+pushazer.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
@@ -1206,7 +1197,6 @@ pwysruffoza.com
 pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
-qakzfubfozaj.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1603,6 +1593,7 @@ yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
+ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
