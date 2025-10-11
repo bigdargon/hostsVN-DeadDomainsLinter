@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -88,6 +82,7 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -98,6 +93,7 @@ www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
 image.b91vip.com
+www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 admix.in
@@ -580,7 +576,6 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
-facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -596,8 +591,6 @@ febadu.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
-feevefouhe.net
-fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
@@ -791,6 +784,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jadeitite.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
@@ -892,7 +886,6 @@ lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
-loftsbaacad.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
@@ -1003,6 +996,7 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
+oahaurti.com
 oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
@@ -1368,10 +1362,8 @@ thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
-thootipheguph.com
 thougnoangi.com
 thoungoofeed.net
-thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
@@ -1546,6 +1538,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
