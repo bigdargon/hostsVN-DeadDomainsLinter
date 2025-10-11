@@ -7,7 +7,6 @@ px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
-v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -107,9 +106,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 ad.samsungadhub.com
 samsungadhub.com
-click-eu.expmediadirect1.com
-click.expmediadirect1.com
-expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -117,7 +113,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -260,6 +255,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkapsalz.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
@@ -361,6 +357,7 @@ beefoaloode.net
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
+beplusleor.com
 berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
@@ -599,7 +596,6 @@ febadu.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
-feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
@@ -620,10 +616,8 @@ fnbauniukvi.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
-fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 frameworkdeserve.com
@@ -649,6 +643,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -763,7 +758,6 @@ idregie.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
-ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -796,9 +790,6 @@ izleskulked.shop
 j0x87i0og.com
 jadeitite.com
 jagzrmdyw.com
-jaletemetia.com
-jaumevie.com
-jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -812,6 +803,7 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
+jnrtavp2x66u.com
 jollytestpartying.com
 jomtingi.net
 joopaish.com
@@ -842,6 +834,7 @@ kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
+keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
@@ -883,7 +876,6 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 lidosquey.shop
 lifpv.com
-ligvraojlrr.com
 likedstring.com
 link4ads.com
 littlecdn.com
@@ -1097,7 +1089,6 @@ pasheeheghie.net
 pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
-pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
@@ -1296,7 +1287,6 @@ shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
-simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -1340,6 +1330,7 @@ stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
+sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
@@ -1348,7 +1339,6 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
-sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 tacticmarshannouncing.com
@@ -1379,6 +1369,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -1498,6 +1489,7 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
+whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
