@@ -122,7 +122,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -183,8 +182,6 @@ hbplatform.com
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
-mautic.hicity.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
@@ -209,6 +206,7 @@ analytics.gotama.link
 log.baobackan.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
+tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
@@ -235,7 +233,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 79xmz3lmss.com
 aabtrrnspgtdi.com
 abbalgapb.com
-abbvagoz.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -361,7 +358,6 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
-awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
@@ -624,7 +620,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 faukeeshie.com
@@ -923,7 +918,6 @@ lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
-link4ads.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -962,7 +956,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 maximumcash.com
 mazbfiladr.com
@@ -979,7 +972,6 @@ mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
-mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1054,6 +1046,7 @@ octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
+oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
@@ -1149,6 +1142,7 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
+pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
@@ -1258,6 +1252,7 @@ reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
+resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
@@ -1330,6 +1325,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1357,13 +1353,13 @@ spanuletubings.com
 speakspurink.com
 specificallycries.com
 specifiedbloballowance.com
-sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
 static.scptpx.com
+steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -1540,7 +1536,6 @@ whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
-whowhipi.net
 whugesto.net
 whuwoawain.com
 wibtntmvox.com
@@ -1600,7 +1595,6 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
@@ -1638,7 +1632,6 @@ zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 beacon.errorception.com
 burstly.com
 cankaowang.com
