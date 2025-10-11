@@ -26,29 +26,12 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-analytics.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -66,7 +49,6 @@ partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
-cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -78,12 +60,11 @@ count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
+lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -141,6 +122,7 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -227,7 +209,6 @@ analytics.gotama.link
 log.baobackan.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
-tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
@@ -289,6 +270,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsclick.cc
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -379,6 +361,7 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
@@ -713,6 +696,7 @@ gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
+glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
@@ -1070,7 +1054,6 @@ octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
-oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
@@ -1118,7 +1101,6 @@ orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
-osknimkihvr.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -1167,7 +1149,6 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
-pieceredirect.com
 pienbitore.com
 pignuwoa.com
 pijmahktoan.com
@@ -1208,6 +1189,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1276,7 +1258,6 @@ reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
-resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
@@ -1349,7 +1330,6 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
-sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1384,7 +1364,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 static-ads.akamaized.net
 static.scptpx.com
-steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -1460,7 +1439,6 @@ tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
-tutgcinarlak.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
