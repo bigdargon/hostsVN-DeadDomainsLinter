@@ -1,4 +1,3 @@
-blueserving.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -15,6 +14,7 @@ ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
+yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -52,19 +52,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -108,8 +95,6 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-b91vip.com
-image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
@@ -180,6 +165,8 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+tvc.biphim.club
+upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
 nct1.logging.nextsmarty.com
@@ -195,6 +182,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2437march2024.com
 2439march2024.com
 2447march2024.com
+2451march2024.com
 2471april2024.com
 2473april2024.com
 2510june2024.com
@@ -240,7 +228,6 @@ ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
-ads1.rne.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -248,7 +235,6 @@ adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
-adtology.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -289,7 +275,6 @@ ambulanceappealingrut.com
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
-anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -385,6 +370,7 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
+brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
 broaddoor.com
@@ -430,7 +416,6 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
-chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -479,7 +464,6 @@ croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
-culwcoam.com
 curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
@@ -501,12 +485,9 @@ dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
-defensive-bad.com
 defusefinishedsleep.com
 delegatediscussion.com
-delicatedimlysloppy.com
 deligrassdull.com
-deliriamorula.shop
 deloton.com
 demo123.info
 demtaudeeg.com
@@ -538,6 +519,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+dv.pictunoctette.com
 dzvuvtwbp.com
 e5asyhilodice.com
 easy2cnjuh34jb.com
@@ -648,7 +630,6 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
-gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 gaut-hil.com
@@ -869,8 +850,6 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
-kxnggkh2nj.com
-kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1076,7 +1055,6 @@ othniqvu.com
 oufauthy.net
 ouftukoo.net
 outflednailbin.com
-outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1110,7 +1088,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
-phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1250,6 +1227,7 @@ rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
+rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rosolicdalapon.com
@@ -1319,6 +1297,7 @@ snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
 soliads.net
+solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -1405,7 +1384,6 @@ trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
-tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
@@ -1605,7 +1583,6 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
-cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
