@@ -98,7 +98,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -111,6 +110,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
@@ -122,6 +122,7 @@ ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
+ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
@@ -141,7 +142,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-mediaz.asia
 www.mediaz.asia
 adx.vn
 matomo.hicity.vn
@@ -208,7 +208,6 @@ ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
 ad.pornimg.xyz
-adaftegloomto.com
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -276,12 +275,10 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
-aphycolourses.info
 api.ampiri.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
-areamindless.com
 aries-nbl.com
 armfullitigateslate.com
 armoursviolino.com
@@ -340,6 +337,7 @@ beabsolom.com
 becketsbesogne.top
 bedaoibe.com
 beefoaloode.net
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 beplusleor.com
@@ -353,6 +351,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -458,7 +457,6 @@ crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
-cutepopcorn.com
 cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
@@ -533,6 +531,7 @@ ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
+emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
@@ -574,6 +573,7 @@ faukeeshie.com
 fauphauvuzeey.net
 fdqrfiwkaeds.com
 febadu.com
+feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -662,6 +662,7 @@ grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
+grubsnuchale.com
 grudgewallet.com
 gsnb048lj.com
 gtubumgalb.com
@@ -704,6 +705,7 @@ hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
+hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
@@ -862,9 +864,7 @@ lidosquey.shop
 lifpv.com
 ligvraojlrr.com
 likedstring.com
-link4ads.com
 littlecdn.com
-lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
@@ -950,6 +950,7 @@ nangalupeose.com
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -974,7 +975,6 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
-nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
@@ -1020,7 +1020,6 @@ onmarshtompor.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-openads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1181,6 +1180,7 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 raphanysteers.com
+razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
@@ -1255,7 +1255,6 @@ sghehllds.com
 shakyseat.com
 shakytaste.com
 shareadspace.com
-sharepointads.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
@@ -1327,10 +1326,8 @@ synz.liveonce.online
 syyycc.com
 tacticmarshannouncing.com
 tagular.com
-tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
-tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -1530,7 +1527,6 @@ xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 xydbpbnmo.com
-yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
@@ -1581,5 +1577,4 @@ go.ad1data.com
 kitbit.net
 q2melbourne.com
 tracking.news360.store
-usergrid.com
 yoursitestatstube.ru
