@@ -16,13 +16,6 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -83,13 +76,13 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -116,7 +109,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -144,6 +136,7 @@ wakeup247.klick.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
+mautic.hicity.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -199,7 +192,6 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
-aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
@@ -345,7 +337,6 @@ berkshiretoday.xyz
 beshucklean.com
 bestadbid.com
 bestlampjoy.com
-betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
@@ -372,8 +363,10 @@ btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 burgerbrush.com
+burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
+buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
@@ -455,6 +448,7 @@ crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
+cutepopcorn.com
 cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
@@ -522,7 +516,6 @@ eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
-ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -722,6 +715,7 @@ hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
+hupaiowicog.com
 huppontic.com
 hutchieshode.com
 huwqhqezemv.com
@@ -734,7 +728,6 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-idregie.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -813,6 +806,7 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
+kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -874,6 +868,7 @@ lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
+lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1122,7 +1117,6 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1258,12 +1252,9 @@ sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
-shoacmoackaugnu.com
 shoadroocoosso.com
-shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
-sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1410,7 +1401,6 @@ ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
-uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
@@ -1419,7 +1409,6 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
-ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1522,7 +1511,6 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
-xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1540,6 +1528,7 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
+yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
