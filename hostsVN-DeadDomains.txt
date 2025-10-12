@@ -1,5 +1,6 @@
 api.zcoup.com
 image.zcoup.com
+logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -13,10 +14,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -307,7 +304,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.coza.com
 banner.mindshare.de
 bannermarkt.nl
 basebanner.com
@@ -762,8 +758,6 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
-jfgeuisugoekf.com
-jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -781,6 +775,7 @@ joopaish.com
 joudauhee.com
 jozowgldpc.com
 jpjmpqaupc.com
+jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1108,7 +1103,6 @@ presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
-propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1312,14 +1306,13 @@ tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
-tccnqgnmeveay.com
 tcseehnbrn.com
-tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 tenthsfrumpy.com
 terrapsps.com
 tetrylscullion.com
+thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -1390,7 +1383,6 @@ upr90.com
 upset-project.com
 uqkcroib.com
 urgerrebasis.com
-urigagxnji.com
 userreplay.com
 userresewn.com
 ushoofop.com
@@ -1451,7 +1443,6 @@ weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
-wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
