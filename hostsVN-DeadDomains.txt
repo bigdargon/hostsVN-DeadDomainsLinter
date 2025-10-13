@@ -49,17 +49,6 @@ t.imstks.com
 www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
-native-vpaid.winadx.com
-rewarded.winadx.com
-service.winadx.com
-syndication.winadx.com
-tracking.winadx.com
-traffic-serv.winadx.com
-tvc-vpaid.winadx.com
-vpaid.winadx.com
-ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -88,6 +77,8 @@ ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
+expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -145,6 +136,7 @@ duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
 tvc.biphim.club
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 nct1.logging.nextsmarty.com
@@ -197,9 +189,11 @@ adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
+ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
+adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
@@ -305,7 +299,6 @@ bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -431,7 +424,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cvvczlcg.com
 cwqljsecvr.com
@@ -627,6 +619,7 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
+great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
@@ -675,7 +668,6 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
-highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
@@ -727,6 +719,7 @@ impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -834,7 +827,6 @@ leetmenllew.com
 legitfizzed.shop
 lephaush.net
 lessemujust.live
-lhsnvrgcvnvuy.online
 lidosquey.shop
 lifpv.com
 ligvraojlrr.com
@@ -1090,6 +1082,7 @@ pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
+powershatchet.com
 pphtrwrnsuyl.com
 pramviable.com
 pranavafolksey.com
@@ -1330,6 +1323,7 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
+tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
 total-fee.com
@@ -1376,7 +1370,6 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
-upr90.com
 upset-project.com
 uqkcroib.com
 urgerrebasis.com
@@ -1527,7 +1520,6 @@ yu225.com
 yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
