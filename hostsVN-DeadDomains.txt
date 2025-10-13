@@ -14,6 +14,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -23,6 +24,8 @@ aj2307.online
 aj2498.online
 aj2503.online
 ajxx91.online
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
@@ -59,7 +62,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 ytvpaid.winadx.com
-delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -83,6 +85,8 @@ www.b91vip.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -119,8 +123,6 @@ aj3017.bid
 aj101.xyz
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
-qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -145,6 +147,7 @@ duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
 tvc.biphim.club
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 nct1.logging.nextsmarty.com
@@ -184,6 +187,7 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 acpolxakcl.com
+ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
 ad.pornimg.xyz
@@ -203,6 +207,7 @@ ads.websiteservices.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -233,7 +238,6 @@ ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
-ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -273,6 +277,7 @@ ast2ya4ee8wtnax.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -286,7 +291,6 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
-awaps.net
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
@@ -471,7 +475,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
-diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -532,6 +535,7 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
+expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -539,6 +543,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -621,6 +626,7 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
@@ -827,7 +833,6 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
-lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
@@ -996,6 +1001,7 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onmarshtompor.com
+onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -1071,6 +1077,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 planesknob.com
 plinsaqhsu.com
@@ -1151,6 +1158,7 @@ qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
+qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
@@ -1187,7 +1195,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1362,6 +1369,7 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1401,7 +1409,6 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
-vertadnet.com
 vfuqivac.com
 viewyentreat.guru
 vikawjobtar.com
@@ -1438,6 +1445,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
@@ -1447,7 +1455,9 @@ whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
+whowhipi.net
 whugesto.net
+whuwoawain.com
 wibtntmvox.com
 widespace.com
 wiltiqkc.com
@@ -1549,5 +1559,8 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
+shopnetic.com
 tracking.news360.store
+tracking.scenepass.com
+worldgravity.com
 yoursitestatstube.ru
