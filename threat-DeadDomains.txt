@@ -947,6 +947,7 @@ insurancdsa.shop
 insurancdsa.site
 insurancdsc.vip
 insurancea.vip
+insurancert.vip
 insurancexl.vip
 insurancide.vip
 insuranckjk.com
@@ -1127,6 +1128,7 @@ lazadal.fit
 lazadamallc.com
 lazadamallz.com
 lazadao13.com
+lazadao14.com
 lazadaord.com
 lazadap14.com
 lazadap15.com
@@ -1424,7 +1426,6 @@ moneyvi.xyz
 moneywallet.cf
 morganbank.online
 morganbank.pw
-morganbank.site
 morganbankk.com
 motaikhoannganhang.online
 mothe.tindung-hd.com
@@ -1491,6 +1492,8 @@ nang-cap-the-vcare-vib.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
 nang-han-muc-vcs1-khcn-vib.com
+nang-han-muc-vip-vpbank.com
+nang-hang-ca-nhan-vib-mrk1.com
 nang-hang-the-vip2-vib.com
 nang-hang-tin-dung-ca-nhan.com
 nanghanmuc-thetindung.com
@@ -1961,6 +1964,7 @@ scb.com.vn-ub.info
 scb.com.vn-uz.info
 scb.nanghanmucthenganhangvisa.com
 scb.vn-kn.vip
+scb.vn-vp.xyz
 scdienmayxanh.com
 sd0053.shop
 sd062.com
@@ -2345,7 +2349,6 @@ shoptksoigm.com
 shoptoanquoc247.com
 shoptrau.com
 shoptrumflo.vn
-shoptrumlq.com
 shoptruykich.vn
 shoptuankhaff.com
 shoptule.com
@@ -2959,7 +2962,6 @@ uudailienquan.com
 uudainapthe.vn
 uudainganhang.com
 uudainganhangso.site
-uyban.club
 v.vl404.cn
 v2s4ku8b.com
 vang11.com
@@ -2971,7 +2973,6 @@ vankhang.shop
 vanmay.co
 vanmay.net
 vanmay1.net
-vanmaymm24h.com
 vanmayshoppe.com
 vanthangcltxmomo.xyz
 vatgia306.com
@@ -3120,6 +3121,7 @@ vayvon-shinhanbank-24h.com
 vayvon-techcombank.biz
 vayvoncgcredit.com
 vayvonlotte.online
+vayvonnganhang-techcombank24h.online
 vayvonnganhangvn.online
 vayvonnhanh.click
 vayvonnhanhnganhangtpbank.com
@@ -3135,6 +3137,7 @@ vcb-vaytaichinh.com
 vcbbankdigi.com
 vcbdigeibonk.com
 vcbdigliebrnk.com
+vcbdigtylbrnk.com
 vcbdlgrcbonk.com
 vcbigdank.com
 vebo123.vip
@@ -3207,6 +3210,7 @@ vieclamshopee.com
 vieetcombank.com
 vieetcombiank.com
 vieitcombank.com
+vieittcombank.com
 viet-credit.com
 viet-thanh.online
 viet.cgovn.cc
@@ -3329,8 +3333,6 @@ vietsovpetro.cc
 vietsovpetro.top
 vietsovpetro.vip
 viettcombank.com
-viettcredit.online
-viettel-store.com
 viettel6.com
 viettelvngroup.com
 viettgov.cc
