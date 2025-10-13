@@ -11,6 +11,7 @@ static.adthor.com
 v.adthor.com
 advergine.com
 go.advergine.com
+spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
@@ -87,8 +88,6 @@ ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
-click.expmediadirect1.com
-expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -146,7 +145,6 @@ duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
 tvc.biphim.club
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 nct1.logging.nextsmarty.com
@@ -187,6 +185,7 @@ acerolawaists.com
 achieverknee.com
 acpolxakcl.com
 ad-miner.com
+ad-spb.ru
 ad.foxnetworks.com
 ad.pornimg.xyz
 adaftegloomto.com
@@ -198,14 +197,13 @@ adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
-ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
-adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
+adsmogo.org
 adspace.ro
 adsrveys.com
 adverdirect.com
@@ -213,7 +211,6 @@ adyea.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -404,6 +401,7 @@ cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
 clkofafcbk.com
+clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
@@ -511,6 +509,7 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
+encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -530,7 +529,6 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
-expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -646,6 +644,7 @@ gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
+guhomnfuzq.com
 gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
@@ -691,6 +690,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
+houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
@@ -717,6 +717,7 @@ idregie.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
+illegal-respond.pro
 imageshh.com
 imarketservices.com
 immensehoney.com
@@ -726,7 +727,6 @@ impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -769,6 +769,7 @@ jollytestpartying.com
 jomtingi.net
 joopaish.com
 joudauhee.com
+jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -892,6 +893,7 @@ mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
 mifoqnwi.com
+mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkaragqzeov.com
@@ -985,6 +987,7 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
+omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
 onclasrv.com
@@ -1056,6 +1059,7 @@ phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
+phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
@@ -1066,6 +1070,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 planesknob.com
 plinsaqhsu.com
@@ -1085,7 +1090,6 @@ pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
-powershatchet.com
 pphtrwrnsuyl.com
 pramviable.com
 pranavafolksey.com
@@ -1122,6 +1126,7 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
+qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
 qavhivvcex.com
@@ -1325,7 +1330,6 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
-tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
 total-fee.com
@@ -1391,6 +1395,9 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
+vdyunvfrfale.com
+ve01.mgod33cme.com
+vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
@@ -1400,12 +1407,14 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
+vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
 vpldfujttsdfj.com
+vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -1485,6 +1494,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
