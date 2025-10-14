@@ -1,10 +1,9 @@
 medialytics.com
 a.medialytics.com
 c.medialytics.com
+cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -181,7 +180,6 @@ abbvagoz.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
-abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -206,12 +204,12 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
 adsclick.cc
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
 adverdirect.com
+adyea.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
@@ -367,7 +365,6 @@ canangafierier.uno
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
-capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -794,6 +791,7 @@ kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
+kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
@@ -934,6 +932,7 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
+nervoustolsel.com
 news-central.org
 news-muheji.com
 newstarads.com
@@ -960,7 +959,6 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
-oaraiwephoursou.net
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1057,7 +1055,6 @@ perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
-phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1356,8 +1353,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
-tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -1493,6 +1488,7 @@ xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -1526,6 +1522,7 @@ yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
+ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yyselrqpyu.com
@@ -1546,6 +1543,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
+analytics.shivamsinghis.me
 beacon.errorception.com
 cankaowang.com
 dolohen.com
