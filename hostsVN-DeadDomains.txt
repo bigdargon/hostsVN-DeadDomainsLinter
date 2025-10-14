@@ -105,7 +105,6 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
@@ -124,18 +123,11 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adv.klick.vn
-euro.klick.vn
-qc.klick.vn
-text1.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
-customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -152,7 +144,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 vnadssb.com
 analytics.amedigital.vn
@@ -215,6 +206,7 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.websiteservices.com
 adsclick.cc
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -425,7 +417,6 @@ compatriotelephant.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
-consciouschairs.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -635,7 +626,6 @@ gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
-grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
@@ -704,7 +694,6 @@ hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
-hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -737,7 +726,6 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 impressionz.co.uk
-ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -815,7 +803,6 @@ kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
-klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -922,7 +909,6 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
-mrybahnw.com
 mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
@@ -1524,8 +1510,6 @@ yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yeljusxttq.com
-yfetyg.com
-yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonomastara.com
