@@ -1,9 +1,5 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
+googleads-cn.com
+blueserving.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -19,6 +15,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -38,6 +35,7 @@ classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
+partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
@@ -62,6 +60,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -88,13 +87,14 @@ ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -111,7 +111,6 @@ ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
-ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
 aj2581.bid
@@ -143,6 +142,7 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+upfile16.mediaphim.com
 vnadssb.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -183,6 +183,7 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
@@ -198,12 +199,15 @@ adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
-ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads1.rne.com
+ads2.rne.com
 adsclick.cc
+adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -237,6 +241,7 @@ akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
 allodsubussu.com
+allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -301,6 +306,8 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.coza.com
+bannerconnect.net
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -346,8 +353,10 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
+bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -399,6 +408,7 @@ cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
+clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -456,7 +466,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloton.com
 demo123.info
 demtaudeeg.com
 depechearshine.com
@@ -496,7 +505,6 @@ eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
-effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
@@ -513,6 +521,7 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
+eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
@@ -522,6 +531,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -620,6 +630,7 @@ go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
+gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
@@ -643,6 +654,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -731,7 +743,6 @@ instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -848,6 +859,7 @@ lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
+lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
@@ -882,11 +894,14 @@ matecatenae.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
+megacash.de
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
+metaresolver.com
 mfajfikmyqan.com
 mg2connext.com
 mgepuynxttyi.com
@@ -955,9 +970,11 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
+oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -992,11 +1009,13 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
+onetouch12.com
 onmarshtompor.com
 onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1004,6 +1023,7 @@ opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
+oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1057,7 +1077,6 @@ phaibeertou.com
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1113,6 +1132,7 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1141,9 +1161,9 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qs251.com
 qtoeofqazggu.com
-qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 qumagee.com
 quzodcttub.com
@@ -1167,6 +1187,7 @@ reecegrita.com
 refpa4293501.top
 refraintupaiid.com
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1271,8 +1292,10 @@ specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
+spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
+starkuno.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -1340,7 +1363,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
-trendcounter.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
@@ -1363,6 +1385,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+uitopadxdy.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1439,6 +1462,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+webreseau.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1475,11 +1499,13 @@ woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
 worstideatum.com
+worstspotchafe.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
@@ -1503,6 +1529,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 xydbpbnmo.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1541,6 +1568,7 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
+zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
@@ -1548,11 +1576,15 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.shivamsinghis.me
 beacon.errorception.com
+burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
 shopnetic.com
+showbiz.owndata.network
+suriflowers.com
 tracking.news360.store
+usergrid.com
 yoursitestatstube.ru
