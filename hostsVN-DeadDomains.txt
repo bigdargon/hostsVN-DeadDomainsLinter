@@ -1,4 +1,3 @@
-googleads-cn.com
 blueserving.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -48,9 +47,6 @@ partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
@@ -78,6 +74,7 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -100,13 +97,7 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 www.mobile-10.com
-native-vpaid.winadx.com
-rewarded.winadx.com
-syndication.winadx.com
-tvc-vpaid.winadx.com
-ytvpaid.winadx.com
 pgmcdn.com
-ui-eu.maxymiser.com
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -116,7 +107,6 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
-push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -245,7 +235,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adrastos-eli.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
@@ -488,7 +477,6 @@ cpykudhagov.com
 crepedzincite.top
 croniesobli.com
 crumbrationally.com
-crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
@@ -568,6 +556,7 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
+emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -623,6 +612,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -661,9 +651,9 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
-gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -743,7 +733,6 @@ hhuajhdidxut.com
 highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -799,7 +788,6 @@ interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
-intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
@@ -868,6 +856,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
+kiynew.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
@@ -1089,6 +1078,7 @@ orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
+osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
@@ -1124,7 +1114,6 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
-perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
@@ -1160,10 +1149,12 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pq8ithtdw.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1487,6 +1478,7 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewyentreat.guru
+viiadr.com
 vikawjobtar.com
 vipicmou.net
 virleth.com
@@ -1523,6 +1515,7 @@ wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
 webreseau.com
+wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
