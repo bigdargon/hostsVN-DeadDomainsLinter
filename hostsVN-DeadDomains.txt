@@ -13,15 +13,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -152,6 +143,7 @@ aj101.xyz
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+matomo.hicity.vn
 mautic.hicity.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -741,7 +733,6 @@ hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
-huppontic.com
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -755,7 +746,6 @@ ichachoakiglop.com
 ichdpdbpv.com
 idregie.com
 idyllteapots.com
-ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ilbanner.com
 illegal-respond.pro
@@ -830,9 +820,9 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
-kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
+kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -850,6 +840,7 @@ knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
+kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
@@ -878,7 +869,6 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 lidosquey.shop
 lifpv.com
-ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
 littlecdn.com
@@ -987,6 +977,7 @@ nomorepecans.com
 noowhaumurauy.net
 nowheresank.com
 npipajajn.com
+nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
@@ -1025,6 +1016,7 @@ ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
+olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
@@ -1036,7 +1028,6 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
-onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -1060,6 +1051,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
@@ -1139,13 +1131,13 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
-presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1195,7 +1187,6 @@ quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
-qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1247,7 +1238,6 @@ rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
-rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1277,9 +1267,6 @@ shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
-sheesoah.net
-shelfoka.com
-shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
@@ -1429,7 +1416,6 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
-upspinarakor.com
 uqkcroib.com
 urechar.com
 urgerrebasis.com
@@ -1441,6 +1427,7 @@ ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
+uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
@@ -1562,7 +1549,6 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
