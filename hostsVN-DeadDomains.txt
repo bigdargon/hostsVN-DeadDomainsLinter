@@ -1,4 +1,7 @@
 ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -11,6 +14,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
+ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
@@ -23,7 +27,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -48,7 +51,6 @@ www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
-n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
@@ -105,8 +107,6 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-admix.in
-geoip5m1y07.admix.in
 ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
@@ -121,6 +121,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -178,11 +179,13 @@ ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
 bidgear-syndication.com
+bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+trenddigital.vn
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -346,7 +349,6 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 banner.nixnet.cz
-banner.penguin.cz
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
@@ -770,7 +772,6 @@ iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idregie.com
-idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ilbanner.com
@@ -788,6 +789,8 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
+interstitial-08.com
+intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -832,6 +835,7 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
+jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -850,8 +854,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
-kdpxksukngrg.com
-keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
@@ -881,8 +883,6 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
-lapnicjaqxu.com
-lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
@@ -894,6 +894,7 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 lidosquey.shop
 lifpv.com
+ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
 littlecdn.com
@@ -937,7 +938,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
@@ -1045,6 +1045,7 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
+olzlmemumcwe.com
 omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
@@ -1145,7 +1146,6 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
-poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1162,6 +1162,7 @@ processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
+proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -1272,7 +1273,6 @@ rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1280,6 +1280,7 @@ saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
+scammereating.com
 scarofnght.com
 scenescrockery.com
 schoonnonform.com
@@ -1293,6 +1294,7 @@ sf960.com
 sghehllds.com
 shakyseat.com
 shakytaste.com
+shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
@@ -1328,7 +1330,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 specificallycries.com
@@ -1452,8 +1453,6 @@ urgerrebasis.com
 urigagxnji.com
 uruswan.com
 userreplay.com
-userresewn.com
-ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -1471,7 +1470,6 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
-vfuqivac.com
 viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
