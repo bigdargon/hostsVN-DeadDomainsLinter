@@ -32,7 +32,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -51,6 +50,7 @@ www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
+n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
@@ -82,7 +82,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 delivery.adsterra.org
@@ -107,6 +106,8 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+admix.in
+geoip5m1y07.admix.in
 ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
@@ -209,7 +210,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
-2524june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -247,12 +247,10 @@ ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
-adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
-adtology.com
 adverdirect.com
 adyea.com
 adyieldoptimizer.com
@@ -394,7 +392,6 @@ brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
-budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
@@ -469,7 +466,6 @@ consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -529,7 +525,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
@@ -772,6 +767,7 @@ iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idregie.com
+idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ilbanner.com
@@ -835,7 +831,6 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -854,6 +849,8 @@ kaurieseluxate.com
 kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
+kdpxksukngrg.com
+keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
@@ -883,6 +880,8 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
+lapnicjaqxu.com
+lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
@@ -938,6 +937,8 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
+maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 medialets.com
@@ -1045,7 +1046,6 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
-olzlmemumcwe.com
 omlbaftroofj.com
 omniscientspark.com
 omzostzuswm.com
@@ -1081,7 +1081,6 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
-oufauthy.net
 ouftukoo.net
 outflednailbin.com
 outwoodeuropa.com
@@ -1100,7 +1099,6 @@ ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
-ozxakfawm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1111,7 +1109,6 @@ pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
 pefsustazvzgop.com
-penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
 peskyclarifysuitcases.com
@@ -1141,11 +1138,11 @@ pmagumovfma.com
 pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
-poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1227,7 +1224,6 @@ rcyorjkze.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
-receptiveink.com
 redmas.com
 reecegrita.com
 refpa4293501.top
@@ -1330,6 +1326,7 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 specificallycries.com
@@ -1453,6 +1450,8 @@ urgerrebasis.com
 urigagxnji.com
 uruswan.com
 userreplay.com
+userresewn.com
+ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -1470,6 +1469,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
+vfuqivac.com
 viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
