@@ -1,7 +1,4 @@
 ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -14,7 +11,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
-ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
@@ -125,7 +121,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -166,6 +161,7 @@ ohchat.net
 app.ohchat.net
 www.ohchat.net
 adx.vn
+matomo.hicity.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -182,7 +178,6 @@ ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
 bidgear-syndication.com
-bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -239,7 +234,6 @@ adlite.net
 admedia.network
 adrastos-eli.com
 adreclaim.com
-adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
@@ -391,6 +385,7 @@ boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
 brechtembrowd.com
+brffhnhnqc.com
 broadboundary.com
 broaddoor.com
 brookgetupshorts.com
@@ -538,6 +533,7 @@ dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 ducksintroduce.com
+ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
@@ -553,6 +549,7 @@ eechuraubsaud.com
 eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
+egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
@@ -617,7 +614,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -678,6 +674,7 @@ go.mobisla.com
 go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
@@ -791,8 +788,6 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
-interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -835,6 +830,7 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -898,8 +894,6 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 lidosquey.shop
 lifpv.com
-ligeia-gip.com
-ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
 littlecdn.com
@@ -932,7 +926,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -944,7 +937,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1043,11 +1035,13 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
+olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
@@ -1159,7 +1153,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1169,7 +1162,6 @@ processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
-proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -1232,6 +1224,7 @@ razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
+readserver.net
 realizeparish.com
 receptiveink.com
 redmas.com
@@ -1279,6 +1272,7 @@ rukktiswibi.com
 ruwertur.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1286,7 +1280,6 @@ saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
-scammereating.com
 scarofnght.com
 scenescrockery.com
 schoonnonform.com
@@ -1300,7 +1293,6 @@ sf960.com
 sghehllds.com
 shakyseat.com
 shakytaste.com
-shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
@@ -1336,6 +1328,7 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 specificallycries.com
@@ -1367,6 +1360,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
+swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
@@ -1425,6 +1419,7 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
+tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -1536,7 +1531,6 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
@@ -1557,9 +1551,11 @@ wreaksyolkier.com
 wrestcut.com
 www.cpm-ad.com
 www.money4exit.de
+www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
+xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
@@ -1599,6 +1595,7 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
+ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
