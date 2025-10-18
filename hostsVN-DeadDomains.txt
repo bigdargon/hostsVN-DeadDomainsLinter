@@ -99,7 +99,6 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -144,7 +143,6 @@ www.ohchat.net
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.hicity.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -438,10 +436,9 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
-coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
+coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
 conary-invered.com
@@ -461,7 +458,6 @@ cpykudhagov.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -484,12 +480,15 @@ daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
+decisiveducks.com
+decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
+deliriamorula.shop
 demo123.info
 demtaudeeg.com
 depechearshine.com
@@ -536,7 +535,6 @@ efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
@@ -837,6 +835,7 @@ kautefaunenit.net
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
+keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
@@ -853,7 +852,6 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1051,6 +1049,7 @@ oqdtuqat.com
 oqfoczdfyag.com
 oranegfodnd.com
 orb92.com
+orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
@@ -1108,6 +1107,7 @@ photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
+pienbitore.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1206,6 +1206,7 @@ raphanysteers.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
+rduaagcwsw.com
 readserver.net
 realizeparish.com
 receptiveink.com
@@ -1259,7 +1260,6 @@ saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
-scabbienne.com
 scammereating.com
 scarofnght.com
 scenescrockery.com
@@ -1445,6 +1445,7 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
+vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -1569,7 +1570,6 @@ yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
-ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
