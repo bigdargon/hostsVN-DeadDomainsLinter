@@ -14,11 +14,11 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
+ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
-zoover.adtrackers.net
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -81,7 +81,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 admix.in
-geoip5m1y07.admix.in
 ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
@@ -565,6 +564,7 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
+exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -906,7 +906,6 @@ lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
-lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1367,7 +1366,6 @@ tdpjzjpfuiis.com
 tearerernest.com
 tenthsfrumpy.com
 terrapsps.com
-tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
