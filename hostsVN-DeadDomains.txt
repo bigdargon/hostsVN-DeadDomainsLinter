@@ -13,13 +13,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adtrackers.net
-ox-d.adtrackers.net
-serve.adtrackers.net
-torrentz.adtrackers.net
-yahoo.adtrackers.net
-yasni.adtrackers.net
-zoover.adtrackers.net
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -96,9 +89,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -143,6 +133,7 @@ www.ohchat.net
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
+matomo.hicity.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -163,7 +154,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 tvc.biphim.club
 alexajstrack.com
@@ -247,7 +237,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
@@ -272,8 +261,6 @@ amanda-cle.info
 ambulanceappealingrut.com
 an.cliphub.net
 anahtars.com
-anglemarrowoccurs.com
-anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -436,6 +423,8 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
+coappreciate.com
+coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
@@ -458,6 +447,7 @@ cpykudhagov.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
+croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -535,6 +525,7 @@ efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
+ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
@@ -786,6 +777,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jacadpjirs.com
 jadeitite.com
 jagzrmdyw.com
 jaletemetia.com
@@ -814,7 +806,6 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -828,7 +819,6 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
-kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
@@ -852,6 +842,7 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1260,6 +1251,7 @@ saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scarofnght.com
 scenescrockery.com
@@ -1570,9 +1562,9 @@ yonomastara.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
+ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
-ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
@@ -1599,6 +1591,7 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
+bjdxhs.com
 burstly.com
 cankaowang.com
 dolohen.com
