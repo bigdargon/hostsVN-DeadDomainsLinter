@@ -69,7 +69,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-delivery.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -100,9 +99,15 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
@@ -134,6 +139,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+aff-track.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -144,6 +150,8 @@ wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
@@ -167,10 +175,13 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+tvc.biphim.club
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
+log.tinnhac.com
+nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -210,6 +221,7 @@ achieverknee.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.foxnetworks.com
 ad.kissasian.es
 ad.pornimg.xyz
 adaftegloomto.com
@@ -219,14 +231,19 @@ admedia.network
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -266,6 +283,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
+an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -325,10 +343,12 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.mindshare.de
 bannermarkt.nl
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -370,7 +390,6 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
@@ -387,6 +406,7 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
+canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -436,6 +456,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
+conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
@@ -449,7 +470,9 @@ cpfqsubp.com
 cpm-ad.com
 cpxadroit.com
 cpykudhagov.com
+creepingbrings.com
 crepedzincite.top
+critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -507,6 +530,7 @@ dorkingvoust.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
+dsp.io
 ducksintroduce.com
 ductathing.com
 duimspruer.life
@@ -554,6 +578,7 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
+expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -684,10 +709,10 @@ gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
-hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
@@ -854,7 +879,6 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
-lakequincy.com
 lambingsyddir.com
 lapnicjaqxu.com
 lassampy.com
@@ -904,6 +928,7 @@ lzexnxwjsmof.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1104,6 +1129,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 planesknob.com
 playsdonkey.com
@@ -1328,6 +1354,7 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
+suspectedadvisor.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -1377,6 +1404,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 tranquilside.com
 traovrjwu.com
 troubledcontradiction.com
@@ -1440,6 +1468,7 @@ vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
+vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
@@ -1571,11 +1600,10 @@ yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
-zbwp6ghm.com
-zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
+zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -1586,8 +1614,10 @@ zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
+burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
