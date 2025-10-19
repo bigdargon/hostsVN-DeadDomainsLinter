@@ -1,3 +1,17 @@
+blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -75,7 +89,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 admix.in
-geoip5m1y07.admix.in
 ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
@@ -84,6 +97,9 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
+ads-trk.vidible.tv
+trk.vidible.tv
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -130,6 +146,7 @@ wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -146,6 +163,8 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
@@ -154,6 +173,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 tvc.biphim.club
 alexajstrack.com
@@ -216,6 +236,7 @@ ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.horsehero.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
@@ -282,11 +303,11 @@ armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
-asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
+astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -424,7 +445,6 @@ civadsoo.net
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
-cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -471,6 +491,7 @@ dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
+daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
@@ -544,6 +565,9 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
+eringosdye.com
+erosyndc.com
+errantstetrole.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
@@ -673,6 +697,7 @@ guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 guvnatar.com
+gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
@@ -812,6 +837,7 @@ jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
+kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
@@ -857,6 +883,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -872,6 +899,7 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -898,6 +926,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+madeupadoption.com
 madriyelowd.com
 madserve.org
 makemydownload.com
@@ -915,9 +944,9 @@ medaaebqmbpx.com
 mediamind.com
 meowpushnot.com
 mesangefanwise.tech
-messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
@@ -941,6 +970,7 @@ mrybahnw.com
 mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
+mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1016,6 +1046,7 @@ olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 omlbaftroofj.com
+omnatuor.com
 omniscientspark.com
 omzostzuswm.com
 onclasrv.com
@@ -1042,7 +1073,6 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 ornpuxmucb.com
-orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1087,6 +1117,7 @@ phaibeertou.com
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
+phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1097,6 +1128,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 planesknob.com
@@ -1136,6 +1168,7 @@ psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
+ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoohojatchouz.net
@@ -1193,6 +1226,7 @@ rcyorjkze.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
+recedechatprotestant.com
 receptiveink.com
 redmas.com
 reecegrita.com
@@ -1289,7 +1323,6 @@ smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
@@ -1368,10 +1401,13 @@ tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
 total-fee.com
+touphudipodou.net
+tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
+trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
@@ -1470,6 +1506,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wedxuaksargvlf.com
 weesatoothoamu.net
@@ -1504,6 +1541,7 @@ wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
+woorucauhou.net
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -1581,6 +1619,7 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
+bjdxhs.com
 burstly.com
 cankaowang.com
 dolohen.com
