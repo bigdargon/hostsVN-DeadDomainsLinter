@@ -93,8 +93,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -126,22 +124,11 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-adv.klick.vn
-demo.klick.vn
-euro.klick.vn
-qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
+mautic.hicity.vn
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -159,7 +146,6 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -198,6 +184,7 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
+abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 acpolxakcl.com
@@ -206,6 +193,7 @@ ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
 ad.pornimg.xyz
+adaftegloomto.com
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -231,7 +219,6 @@ adverdirect.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -306,7 +293,6 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
-awaps.net
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
@@ -512,7 +498,6 @@ drubbersestia.com
 ducksintroduce.com
 ductathing.com
 duimspruer.life
-dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -527,7 +512,6 @@ eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
-ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -900,8 +884,6 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 luxope.com
-luzongixoo.net
-lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -961,6 +943,7 @@ mybestmv.com
 mylwwuqdhidkmx.com
 naishoochoh.com
 nangalupeose.com
+nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
@@ -979,7 +962,6 @@ nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
 nomorepecans.com
-noowhaumurauy.net
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1009,6 +991,7 @@ oewabox.at
 offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
+ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
@@ -1142,6 +1125,7 @@ processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
+proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -1231,7 +1215,6 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
-rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1361,7 +1344,6 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thedevband.com
-theedreemteedro.com
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -1415,7 +1397,6 @@ ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
-unknowntray.com
 unphionetor.com
 unstoutgolfs.com
 untidyquestion.com
@@ -1424,6 +1405,7 @@ unusuallypilgrim.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
+upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
@@ -1520,6 +1502,7 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
+woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
 worstideatum.com
