@@ -11,6 +11,7 @@ adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
+static.adthor.com
 v.adthor.com
 advergine.com
 go.advergine.com
@@ -76,12 +77,13 @@ www.b91vip.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-lampservice.starbre.net
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
@@ -263,6 +265,7 @@ anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
+annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
@@ -275,6 +278,7 @@ aqncinxrexa.com
 areamindless.com
 aries-nbl.com
 armfullitigateslate.com
+armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -409,6 +413,7 @@ chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
+chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
@@ -466,14 +471,12 @@ dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
-daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-deityshovedcarriage.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -541,9 +544,6 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
-eringosdye.com
-erosyndc.com
-errantstetrole.com
 eryondistain.com
 escortlarbul.com
 ewpucbact.com
@@ -552,6 +552,7 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
+expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -672,7 +673,6 @@ guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 guvnatar.com
-gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
@@ -812,7 +812,6 @@ jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
-kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
@@ -899,7 +898,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-madeupadoption.com
 madriyelowd.com
 madserve.org
 makemydownload.com
@@ -943,7 +941,6 @@ mrybahnw.com
 mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
-mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1030,7 +1027,6 @@ onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-openvideoads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1045,7 +1041,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
-orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1092,7 +1087,6 @@ phaibeertou.com
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1103,7 +1097,6 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 planesknob.com
@@ -1132,7 +1125,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1174,6 +1166,7 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
+qkcgorbrs.com
 qlfqkjluvz.com
 qlpenuxctkhwv.com
 qmixnhyxc.com
@@ -1375,8 +1368,6 @@ tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
 total-fee.com
-touphudipodou.net
-tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 tranquilside.com
@@ -1479,7 +1470,6 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
-wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wedxuaksargvlf.com
 weesatoothoamu.net
@@ -1514,7 +1504,6 @@ wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
-woorucauhou.net
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -1592,10 +1581,8 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 beacon.errorception.com
-bjdxhs.com
 burstly.com
 cankaowang.com
-csdian.net
 dolohen.com
 go.ad1data.com
 kitbit.net
