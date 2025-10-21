@@ -39,7 +39,6 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
-share.asianmedia.com
 whm.asianmedia.com
 pmddby.com
 s.pmddby.com
@@ -136,7 +135,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-static.jadspro.live
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
@@ -174,7 +172,6 @@ matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
-app2.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
 d.watanet.work
@@ -252,7 +249,6 @@ ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
 adsk2.co
-adsmogo.org
 adspace.ro
 adsrveys.com
 adtoma.com
@@ -315,6 +311,7 @@ artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
+asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
@@ -337,7 +334,6 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
-axiomaticalley.com
 axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
@@ -426,6 +422,7 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -512,7 +509,6 @@ decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -555,7 +551,6 @@ earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
-eechuraubsaud.com
 eemsouftas.com
 effateuncrisp.com
 efyglwbapki.com
@@ -762,7 +757,6 @@ hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
@@ -791,7 +785,6 @@ imageshh.com
 imarketservices.com
 immensehoney.com
 immerseweariness.com
-importedincrease.com
 impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
@@ -962,6 +955,7 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 meowpushnot.com
+mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
@@ -1273,7 +1267,6 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
-rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
@@ -1386,6 +1379,7 @@ surtaultathoado.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
 suwcaxazzn.com
+svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -1585,7 +1579,6 @@ xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
-xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
@@ -1596,6 +1589,7 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
