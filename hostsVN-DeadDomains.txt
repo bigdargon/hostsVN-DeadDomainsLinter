@@ -8,6 +8,8 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -28,6 +30,7 @@ aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
+aj2218.online
 aj2307.online
 aj2498.online
 aj2503.online
@@ -38,12 +41,7 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
 magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -79,14 +77,9 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
-service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -264,6 +257,7 @@ adsmogo.org
 adspace.ro
 adsrveys.com
 adtoma.com
+advariant.com
 adverdirect.com
 adyieldoptimizer.com
 adz2you.com
@@ -290,6 +284,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
 akximhhcunr.com
+akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
@@ -368,6 +363,7 @@ batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
+bcaojrbriciw.com
 beabsolom.com
 becketsbesogne.top
 bedaoibe.com
@@ -386,6 +382,7 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
+bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
@@ -464,6 +461,7 @@ cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
+clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -556,7 +554,6 @@ duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
-dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
@@ -566,7 +563,6 @@ ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
 effateuncrisp.com
-efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -607,8 +603,6 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
-fafmimgubcm.com
-fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
@@ -662,7 +656,6 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
-fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -677,6 +670,7 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
@@ -706,7 +700,6 @@ grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
-groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
@@ -832,6 +825,7 @@ jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
+jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
@@ -951,6 +945,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1432,6 +1427,7 @@ tiiytaekjajw.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
+tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
