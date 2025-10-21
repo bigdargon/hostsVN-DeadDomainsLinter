@@ -69,8 +69,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -101,7 +99,6 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -133,7 +130,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
-p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
@@ -189,7 +185,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -504,6 +499,7 @@ dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
+daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -575,7 +571,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -665,7 +660,6 @@ gaizoopi.net
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
-geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
@@ -726,7 +720,6 @@ hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
-hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
@@ -754,7 +747,6 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
-houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
@@ -907,7 +899,6 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
-littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1164,6 +1155,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1172,7 +1164,6 @@ pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pramviable.com
-pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
@@ -1394,8 +1385,6 @@ tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
-tccnqgnmeveay.com
-tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -1633,6 +1622,7 @@ zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
+zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
