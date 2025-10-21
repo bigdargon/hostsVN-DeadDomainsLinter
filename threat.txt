@@ -1,4 +1,4 @@
-# Version: 2510201616
+# Version: 2510211113
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -74,6 +74,7 @@
 ||9smomo.com^
 ||Free-4paid.com^
 ||a.viethu.com^
+||a46e0368.forwarding-request-consent.pages.dev^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^
@@ -2491,6 +2492,7 @@
 ||regis2tarsgroup.click^
 ||regis2tarsinc.click^
 ||reglienquan.online^
+||repingz.com^
 ||resonherse.cfd^
 ||rest.redirectme.net^
 ||restless.su^
@@ -3753,6 +3755,7 @@
 ||tx55.vip^
 ||txclmomo.club^
 ||ucesreferre.club^
+||udavsofi.dvfrz.de^
 ||ugvietnam.net^
 ||uhy89mb.com^
 ||ukzdcnzp.bdtrjklaz.de^
