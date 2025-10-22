@@ -149,7 +149,6 @@ api.garageserviceoperation.com
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
 apple.icloud.mar-kt.com.mx
@@ -349,7 +348,6 @@ congtykiman.org
 congtytaichinhlotte.com
 continue.dasboard914-account.com
 continue.dasboard934-account.com
-continue.dasboard945-account.com
 continue.dasboard965-account.com
 continue.dasboard966-account.com
 continue.dasboard974-account.com
@@ -689,7 +687,6 @@ garena-freefire-memberships.com
 garena-lienquanmobile-vn.com
 garena-lienquanvn-giftcode.com
 garena-members.com
-garena-membership-aov.com
 garena-membership.site
 garena-membershipffvn.com
 garena-membershipp.online
@@ -1560,7 +1557,6 @@ napmu.com
 napngay.com.vn
 napnhanqua.com
 nappa.ml
-napplay.com
 napplaytogether247.com
 nappubg.net
 nappubg.vn
@@ -1575,7 +1571,6 @@ napthe.es
 napthe.in
 napthe.me
 napthe11s.xyz
-napthe24h.com
 naptheaov.com
 napthecaox10.com
 napthechinhthuc.com
@@ -1626,7 +1621,6 @@ naptocchien247.com
 naptocchienmobile.com
 naptogether.net
 naptogether.vn
-napucpubgmobile.com
 napvatpham.com
 napvisieutoc.tk
 napxquanhuy.com
@@ -2859,10 +2853,13 @@ traderviet88.com
 trang-chu-vn.com
 trangbaotuoitre.com
 trangchu24-7.com
+trangchu247.com
 trangchusukien.vn
 trangdanhatban.com
 trangdientu24-7.com
 tranggiaivangvn.com
+trangnapthelienquan.com
+trangnganhangdientu247.com
 trangnganhangso247.com
 trangqua696.com
 trangsucluxurydiamond.com
@@ -3003,7 +3000,6 @@ vay247nhanh.com
 vay24h-doctordong.com
 vay24h.click
 vayagribank.online
-vayasieutoc.com
 vaycaptoc-vn.com
 vaycreditone.fun
 vaycucde.vn
@@ -3027,6 +3023,10 @@ vaynganhangshinhan.com
 vaynganhangshinhan.online
 vaynganhangvcb.online
 vaynganhangvn.com
+vayngay247.com
+vayngay88.online
+vaynhanh-doctordong.com
+vaynhanh-techcombank.com
 vaynhanh247-doctordong.com
 vaynhanh24h.tk
 vaynhanh3t.online
@@ -3279,6 +3279,7 @@ vietiebink.com
 vietimbank.top
 vietin-bank.com
 vietinb.com
+vietinbamk.com
 vietinbank-online.com
 vietinbank.cc
 vietinbank.tk
@@ -3573,7 +3574,6 @@ vongquay2021.work
 vongquay365.com
 vongquay88.site
 vongquaybooyah.com
-vongquaycongnghe.ga
 vongquaycongnghegarena.com
 vongquayduthuong.com
 vongquayfreefiremembership.com
@@ -3627,7 +3627,6 @@ vp111.vip
 vp7811.com
 vpb-hanmuc.com
 vpb-hanmuc.online
-vpb-nanghanmuc.com
 vpb-nanghanmuc.online
 vpb.nanghanmucvisa-vn.com
 vpb.tang-han-muc-the-visa-vn.com
@@ -3715,8 +3714,6 @@ webxacnhankhoanvay24h.com
 wedvay.vn
 wefinexvietnam.xyz
 westcapitalbank.com
-westgarybank.com
-wietcombank.com
 winsbank.io
 wkkug.vcbnw.de
 wmail-blog.xyz
