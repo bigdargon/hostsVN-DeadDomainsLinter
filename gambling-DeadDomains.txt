@@ -2583,17 +2583,16 @@
 20070044.com
 2007005.com
 20070066.com
-20070088.com
 2007102.com
 20071100.com
 20071113.com
 20071155.com
 20071166.com
-20071188.com
 20071234.com
 20071818.com
 20071997.com
 20072020.com
+<<<<<<< Updated upstream
 20072200.com
 20072244.com
 20072255.com
@@ -2601,13 +2600,14 @@
 20072424.com
 20072626.com
 20073300.com
+=======
+20072345.com
+20072424.com
+>>>>>>> Stashed changes
 20073377.com
 20073399.com
 20074400.com
-20074411.com
 20074441.com
-20074488.com
-20074499.com
 20075556.com
 20075557.com
 20075558.com
@@ -2655,7 +2655,6 @@
 20171112.com
 20171114.com
 20172233.com
-20173322.com
 20173355.com
 20180l.com
 2018666.com
@@ -5278,6 +5277,7 @@
 35bet999.fun
 35df.bet
 35ld.vip
+35luck.com
 3602x.com
 3603x.com
 36088843.com
@@ -7264,6 +7264,7 @@
 47519.vip
 4751x.com
 4754x.com
+4755555.com
 4755x.com
 4756t.com
 4757t.com
@@ -7363,6 +7364,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858f.com
 4858ff.com
 4858i.com
@@ -7372,6 +7374,19 @@
 4858ooo.com
 4858p.com
 4858x.com
+=======
+4858e.com
+4858f.com
+4858ff.com
+4858h.com
+4858ii.com
+4858j.com
+4858jj.com
+4858m.com
+4858o.com
+4858qqq.com
+4858s.com
+>>>>>>> Stashed changes
 4858y.com
 4862x.com
 4864t.com
@@ -9301,7 +9316,6 @@
 6241t.com
 6243t.com
 6243x.com
-624488.com
 6244s.com
 6245t.com
 6246t.com
@@ -13414,6 +13428,7 @@
 868bob.com
 868ds.com
 868h168.com
+868hvip1.vip
 868vip.ca
 868vip.cam
 868vip.com.co
@@ -15540,7 +15555,6 @@ ag.ae6888.com
 ag.age666.net
 ag.ce888.net
 ag.ru888.net
-ag.ss653.net
 ag.tj77.net
 ag.tz33.net
 ag.ve888.net
@@ -15784,6 +15798,7 @@ astarchain.com
 ataqy.com
 athichok.vip
 atm168.vip
+atpnrt.com
 atthapol094.vip
 au11.icu
 aum1122.vip
@@ -16832,7 +16847,6 @@ bty1022.com
 bty1028.com
 bty1079.com
 bty1081.com
-bty1082.com
 bty1gs.com
 bty1sg.com
 bty2uk.com
@@ -17917,6 +17931,7 @@ f8bet0.ceo
 f8bet0.ec
 f8bet08.vip
 f8bet1.ceo
+f8bet1b.art
 f8bet2.ceo
 f8bet2.ec
 f8bet21.vip
@@ -20358,7 +20373,6 @@ kailingke.com
 kamkam2828.vip
 kamol23.vip
 kan1537.vip
-kanyanat2544.vip
 kb07.net
 kb9797.com
 kbo123fnlk513sfj264fjalfj.club
@@ -20459,7 +20473,6 @@ kkhug.com
 kkid1234.vip
 kkjili7.com
 kkkjogo5.com
-kkkjogo6.com
 kkkk188.com
 kkp4t.vip
 kktzxxig.vip
@@ -22794,7 +22807,6 @@ sc351.org
 schg7788.com
 schyfs.com
 scrfh.com
-scspst.cn
 scv388.com
 sd72did02j24.com
 sddfjyd.com
@@ -23083,7 +23095,6 @@ ss0112.com
 ss633.com
 ss8827.com
 ss9448.com
-ssgj007.com
 ssjiliapp.com
 ssooss01.com
 sss9687.com
@@ -23092,7 +23103,6 @@ st666.solutions
 st8338.com
 stack88.net
 stage-api-demo-games.top
-star777bet.com
 star885.vip
 star886.vip
 star887.vip
@@ -23259,7 +23269,6 @@ t4415.com
 t4422.com
 t4425.com
 t4427.com
-t4430.com
 t4432.com
 t4454.com
 t4466t.store
@@ -23458,7 +23467,6 @@ tha8web.com
 thabet.tel
 thabet88.info
 thai-bet1x.com
-thai580.com
 thailangza.vip
 thaingo168.win
 tham.vip
@@ -24148,6 +24156,7 @@ vns6102.com
 vns6241.com
 vns6243.com
 vns6320.com
+vns7878.com
 vns8.org
 vns8520.com
 vns8536.com
@@ -24399,6 +24408,7 @@ wavesgamefi.info
 wb338.net
 wb338.vip
 wb429.com
+wb5788.com
 wb9.vip
 wb999b.com
 wb999c.net
