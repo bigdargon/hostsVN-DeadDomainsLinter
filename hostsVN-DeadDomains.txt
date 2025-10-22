@@ -27,6 +27,7 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
+aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -45,6 +46,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
@@ -174,9 +176,11 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-track.net
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 ohchat.net
@@ -189,7 +193,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -316,6 +319,7 @@ akxopgjuw.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
+altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -427,7 +431,6 @@ brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -445,7 +448,6 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -492,7 +494,6 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
-coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
@@ -510,7 +511,6 @@ contehos.com
 convertedhorace.com
 corrumpsublid.top
 cousesheethain.net
-coveredbetting.com
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -537,8 +537,6 @@ dangerouswinter.com
 dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
-daudejuw.com
-daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
@@ -568,7 +566,6 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
 doruffletr.com
@@ -586,7 +583,6 @@ dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
-eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
@@ -644,8 +640,6 @@ fauphauvuzeey.net
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
-feedyourtralala.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 fer2oxheou4nd.com
@@ -757,6 +751,7 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harib-eir.info
+hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
@@ -783,7 +778,6 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
-hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -791,7 +785,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1017,6 +1010,7 @@ mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 mrycibqutoz.com
+msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
@@ -1159,6 +1153,7 @@ pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
 pauewr4cw2xs5q.com
+paxzfenara.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1346,7 +1341,6 @@ seeablywitness.com
 seo4india.com
 serconmp.com
 setypckq.com
-sf960.com
 sghehllds.com
 shakyseat.com
 shakytaste.com
@@ -1439,7 +1433,6 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
-thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
 thiem-csl.com
@@ -1528,7 +1521,6 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
-vebadu.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1673,7 +1665,6 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
-zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
