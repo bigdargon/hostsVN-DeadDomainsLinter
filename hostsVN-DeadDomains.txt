@@ -16,7 +16,6 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
@@ -105,7 +104,6 @@ www.showcasethat.com
 xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
-www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
 image.b91vip.com
@@ -206,7 +204,6 @@ wataads.com
 ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
-bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
@@ -263,7 +260,6 @@ adbrn.com
 adcloud.net
 adkchtmtns.com
 adlite.net
-admedia.network
 adreclaim.com
 adrevolver.com
 ads-to.click
@@ -274,6 +270,7 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
@@ -313,7 +310,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
-allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -449,6 +445,7 @@ cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -542,7 +539,6 @@ daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
-decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
@@ -741,6 +737,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -794,7 +791,6 @@ hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
@@ -1060,7 +1056,6 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -1101,8 +1096,6 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
-onmarshtompor.com
-onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
@@ -1160,6 +1153,7 @@ pasheeheghie.net
 pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
+pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
@@ -1205,7 +1199,6 @@ pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pramviable.com
-pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
@@ -1252,6 +1245,7 @@ qjwglnuwqvr.com
 qkcgorbrs.com
 qlfqkjluvz.com
 qlpenuxctkhwv.com
+qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qruqon.com
@@ -1318,7 +1312,6 @@ romauntmirker.com
 romepoptahul.com
 rosolicdalapon.com
 rozamimo9za10.com
-rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
@@ -1578,6 +1571,8 @@ wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
+whoonseepoutche.net
+whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
@@ -1600,7 +1595,6 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
-woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
 worstideatum.com
@@ -1682,7 +1676,6 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
-go.ad1data.com
 kitbit.net
 q2melbourne.com
 richmetrics.com
