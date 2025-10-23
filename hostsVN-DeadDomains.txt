@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -124,7 +123,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 appcloud.ironbeast.io
-lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
@@ -179,7 +177,7 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 qc.klick.vn
-wakeup.klick.vn
+text1.klick.vn
 wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
@@ -189,7 +187,6 @@ hbplatform.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -277,7 +274,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -381,6 +377,7 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 banner.nixnet.cz
+banner.penguin.cz
 bannermarkt.nl
 barscreative1.com
 baste-znl.com
@@ -446,6 +443,7 @@ ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
+camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -793,7 +791,6 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
-hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -849,7 +846,6 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
-jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -974,7 +970,6 @@ lzexnxwjsmof.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-makafdsugxco.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1096,7 +1091,6 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1140,7 +1134,6 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
-ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
@@ -1316,6 +1309,7 @@ robitoaceeb.net
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rosolicdalapon.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
@@ -1600,7 +1594,6 @@ woamowhoastoup.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
-woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
