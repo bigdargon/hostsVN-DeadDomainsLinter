@@ -19,6 +19,20 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adtrackers.net
+ox-d.adtrackers.net
+serve.adtrackers.net
+torrentz.adtrackers.net
+yahoo.adtrackers.net
+yasni.adtrackers.net
+zoover.adtrackers.net
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -56,6 +70,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -81,6 +97,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -101,6 +118,7 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+network.adclickmedia.com
 tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -113,7 +131,11 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
+lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -182,7 +204,6 @@ mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
@@ -191,13 +212,12 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
+crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
@@ -251,6 +271,7 @@ ad.kissasian.es
 ad.pornimg.xyz
 ad1.emediate.dk
 adaftegloomto.com
+adbrn.com
 adcloud.net
 adkchtmtns.com
 adlite.net
@@ -264,13 +285,16 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
+ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
+adtology.com
 adtoma.com
 adverdirect.com
 adyieldoptimizer.com
@@ -369,7 +393,10 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.nixnet.cz
+banner.penguin.cz
 bannermarkt.nl
+barscreative1.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -450,6 +477,7 @@ ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
 charming-people.com
+checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chickensstation.com
@@ -515,6 +543,7 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -558,6 +587,7 @@ doruffletr.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
+dsp.io
 ducksintroduce.com
 ductathing.com
 duimspruer.life
@@ -634,6 +664,7 @@ fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
+fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
@@ -749,7 +780,6 @@ heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
-helitagrfid.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
@@ -786,7 +816,6 @@ hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hwpnocpctu.com
-hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
@@ -847,6 +876,7 @@ jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 jnrtavp2x66u.com
+joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
@@ -1079,7 +1109,6 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1109,7 +1138,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othniqvu.com
 oufauthy.net
 ouftukoo.net
 outabsola.com
@@ -1164,6 +1192,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 planesknob.com
 playsdonkey.com
@@ -1181,6 +1210,7 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1195,6 +1225,7 @@ proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
+prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1266,6 +1297,7 @@ reecegrita.com
 refpa4293501.top
 refraintupaiid.com
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1282,9 +1314,7 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
-rkvldurquedh.com
 rleibfzdny.com
-rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
@@ -1292,6 +1322,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1321,6 +1352,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1445,6 +1477,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -1468,7 +1501,6 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
-uitopadxdy.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1499,6 +1531,7 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -1516,12 +1549,12 @@ viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
-voopsookie.net
 voosaivege.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -1565,6 +1598,7 @@ wibtntmvox.com
 widespace.com
 wiltiqkc.com
 wimswuppoxan.com
+window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -1611,6 +1645,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1651,6 +1686,7 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
+zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
@@ -1664,6 +1700,7 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
+richmetrics.com
 shopnetic.com
 tracking.news360.store
 tracking.scenepass.com
