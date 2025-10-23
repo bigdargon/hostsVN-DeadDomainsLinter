@@ -10,6 +10,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
+logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -142,6 +143,7 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -208,6 +210,7 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -272,6 +275,7 @@ ads.websiteservices.com
 ads2.net-communities.co.uk
 adsclick.cc
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -360,6 +364,7 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
+axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b-1st.com
@@ -793,6 +798,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hwpnocpctu.com
@@ -863,6 +869,7 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
+jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -950,6 +957,7 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowtyroguer.com
 lp3tdqle.com
+lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -964,7 +972,6 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 madeupadoption.com
-madriyelowd.com
 madserve.org
 makemydownload.com
 makespram.com
@@ -989,6 +996,7 @@ mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
+mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1183,6 +1191,7 @@ podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1252,11 +1261,9 @@ qtspkqzn.com
 quaintcan.com
 quenchskirmishcohere.com
 questaffiliates.net
-qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
-qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
@@ -1481,6 +1488,7 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
+ulrzovfukgkljw.com
 undooptimisticsuction.com
 unphionetor.com
 unreshiramor.com
@@ -1588,7 +1596,6 @@ woamoogloow.net
 woamowhoastoup.net
 wollybelayer.shop
 wonderhsjnsd.com
-wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
