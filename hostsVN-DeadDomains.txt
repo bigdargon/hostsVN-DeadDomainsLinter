@@ -6,8 +6,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -145,6 +143,7 @@ static.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -284,7 +283,6 @@ adverdirect.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -304,6 +302,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.oneegrou.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -504,6 +503,7 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 corrumpsublid.top
+cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -543,10 +543,7 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 demo123.info
-demtaudeeg.com
 depechearshine.com
-dependpinch.com
-desertsfraze.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
@@ -572,7 +569,6 @@ dsp.io
 ducksintroduce.com
 ductathing.com
 duimspruer.life
-dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -768,7 +764,6 @@ heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
 highperformancedformats.com
-hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
@@ -1040,7 +1035,6 @@ nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
-nomorepecans.com
 noowhaumurauy.net
 nowheresank.com
 npipajajn.com
@@ -1109,6 +1103,7 @@ oqdtuqat.com
 oqfoczdfyag.com
 oranegfodnd.com
 orb92.com
+orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
@@ -1127,7 +1122,6 @@ outabsola.com
 outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
-oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
@@ -1215,7 +1209,6 @@ pscbrveha.com
 psipausaix.net
 psootchu.net
 ptawehex.net
-pteemsolrirgegi.com
 ptewarin.net
 ptoohojatchouz.net
 ptukasti.com
@@ -1336,7 +1329,6 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
-sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1375,7 +1367,6 @@ smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
-sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1616,7 +1607,6 @@ xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
-xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -1629,7 +1619,6 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 yaarlnk.com
-yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
