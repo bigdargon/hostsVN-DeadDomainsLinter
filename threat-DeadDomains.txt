@@ -412,6 +412,7 @@ dathangdon.com
 dautruongdanhvong.com
 dautukiemtien.net
 dcommerc.cfd
+defi.hsfdefi.com
 demo.sc0mvn.com
 dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
@@ -451,13 +452,12 @@ dichvucong.dancuquocgia.net
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
-dichvucong.hgov.cc
 dichvucong.hgov.net
 dichvucong.hhghv.com
-dichvucong.hhlpa.com
 dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.snggov.com
+dichvucong.tgovn.cc
 dichvucong.thongtindancu.org
 dichvucong.tkgov.com
 dichvucong.vgovn.net
@@ -819,7 +819,6 @@ hdbankfinance.org
 hdbankfinance.shop
 hdbankfinance.space
 hdbankfinance.top
-hdbankfinance.website
 hdbankfinance.win
 hdbankfinance.world
 hdbankfinance.xyz
@@ -852,6 +851,7 @@ hihashop.com
 hillvietnam.xyz
 hishopes.com
 hitiens.com
+hkdbitexchange.com
 hoangkim1.org
 hocbongtienganh.com
 hocsinh-vn-edu.online
@@ -1006,6 +1006,7 @@ kh-cn-mrd-f5-tpbank.com
 kh-cn-uutien-3fv-vib.com
 kh-vibquocte.com
 khach-hang-ca-nhan-vip5.com
+khachhangvib-canhan.com
 khangdz215.tk
 khcn-han-muc-tin-dung-ca-nhan.com
 khcn-my-diamon-han-muc-uu-tien.com
@@ -1346,7 +1347,6 @@ mmomo.me
 mmovietnam.info
 mobaviet.shop
 mobile-facebook.com.vn
-mobile-ibankingshopee.vn
 mobilebanking-shopee.vn
 mobilebankingvn.com
 mohopnhanpham-garena.com
@@ -1625,6 +1625,7 @@ naptogether.vn
 napucpubgmobile.com
 napvatpham.com
 napvisieutoc.tk
+napx3.com
 napxquanhuy.com
 napzingvng.news
 natvxgkbb.9pz1.tech
@@ -1872,6 +1873,7 @@ quetthe-tindungnhanh.com
 quetthe-tindungtieudung.com
 quetthe-tindungvn.com
 quetthe-tructuyenmpos.com
+quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
 quettheruttien-24hmpos.com
@@ -2566,6 +2568,7 @@ tanghanmucvisa-vn.com
 tanglikefree.online
 tangnickmienphi.com
 tangqua01vn.com
+taokhienfacebook.com
 taoshop1s.com
 taoshopfreefire.vn
 taoshopsieure.net
@@ -2575,7 +2578,6 @@ targget.shop
 tasker.shop
 tb55788.com
 tb55988.com
-tc-viet.click
 tcbcanhan.com
 tcvnhomefic.com
 tdkd00.com
@@ -2745,7 +2747,6 @@ tikivn68.com
 tikivncareers.com
 tikivnn.com
 tikivv.com
-tikiwork.net
 tikixv.com
 tikiy.cc
 tikt88.com
@@ -3034,6 +3035,7 @@ vaynhanh24h.tk
 vaynhanh3t.online
 vaynhanh5p.click
 vaynhanhh.xyz
+vaynhanhhoangphuc.com
 vaynhanhmb.com
 vaynhanhmsb.site
 vaynhanhnamthanh.org
@@ -3152,7 +3154,6 @@ vebo8386.me
 veitgov.cc
 vemaybaynhatviet.com
 verifytech.click
-vgiao.hangtietkiem.com
 vhcmc2.xyz
 viashopee.com
 vib-cardnew.shop
@@ -3394,6 +3395,7 @@ visa-vibbank.com
 visa-vpbank-uu-tien.com
 vitienonline88.com
 vitindungpgbank.com
+viva.exchange
 viva2.exchange
 vivayvnd.com
 vletcombank.com
@@ -3451,6 +3453,7 @@ vn-sacombank.com
 vn-sbank.xyz
 vn-scl.life
 vn-shop.click
+vn-sp.top
 vn-sp.xyz
 vn-sukien.online
 vn-taikhoan.online
@@ -3513,7 +3516,6 @@ vnpay-quetthetindung.com
 vnpay-ruttientindung.com
 vnpay247-ruttientindung.com
 vnpaycredit-ruttientindung247.com
-vnpaycreditruttientindung-247.com
 vnponte.top
 vnpt99.com
 vnsehotro.com
@@ -3841,7 +3843,6 @@ zSmhlV.zgbv.tech
 zalo-web.me
 zeroshop.cc
 zingmp3.pro
-zingshop.net
 zkika.okyla.de
 zla653.top
 zmomo.cc
