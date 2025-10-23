@@ -5,11 +5,11 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
-logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -123,6 +123,7 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 appcloud.ironbeast.io
+lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
@@ -141,7 +142,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -178,6 +178,7 @@ demo.klick.vn
 euro.klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
 wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
@@ -207,7 +208,6 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -269,9 +269,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
-ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsclick.cc
 adserver.quizdingo.com
 adsk2.co
@@ -362,7 +360,6 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
-axkwmsivme.com
 azoaltou.com
 azqohjahfo.com
 b-1st.com
@@ -791,11 +788,11 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
+hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hwpnocpctu.com
@@ -846,6 +843,7 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -865,7 +863,6 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
-jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -953,7 +950,6 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowtyroguer.com
 lp3tdqle.com
-lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -993,7 +989,6 @@ mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 midgetmaying.com
-mifoqnwi.com
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1091,6 +1086,7 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1134,6 +1130,7 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
+ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
@@ -1186,7 +1183,6 @@ podsklzegshmnd.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1485,7 +1481,6 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
-ulrzovfukgkljw.com
 undooptimisticsuction.com
 unphionetor.com
 unreshiramor.com
@@ -1594,6 +1589,7 @@ woamowhoastoup.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
+woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
