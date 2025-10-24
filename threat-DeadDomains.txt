@@ -327,6 +327,7 @@ com-bank.xyz
 com-us.shop
 com.vn-hc.info
 com.vn-iy.info
+com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
@@ -655,6 +656,7 @@ fr191102203eura.click
 fr191102204eura.click
 free-fire.shop
 free.sc0mvn.com
+freefire-garena-membership.tk
 freefire-membershipp-garena.com
 freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
@@ -1842,6 +1844,7 @@ quatanthu.vip
 quatanxuan2022.com
 quatrian123.com
 quatrianffvn.cf
+quatrianfreefire.cf
 quatrianfreefirevn.club
 quatriangarenavn.com
 quatruykich.vn
@@ -1875,6 +1878,8 @@ quetthe-tindungvn.com
 quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
+quetthepos.com
+quettheruttien-24hmpos.com
 quettheruttienvn.com
 quetthetindung-247mpos.com
 quetthetindung-vnpay.com
@@ -2702,6 +2707,7 @@ tiki7.vip
 tiki8.vip
 tiki82.com
 tiki86.com
+tiki886.vip
 tiki94.com
 tiki98.com
 tiki9833.com
@@ -2751,7 +2757,6 @@ tikiwork.net
 tikixv.com
 tikiy.cc
 tikt88.com
-tiktikshopvn.com
 tiktokcy1.com
 timivay.com
 timx2918.com
@@ -3065,6 +3070,7 @@ vaythinhvuong.com.vn
 vaythinhvuong.net
 vaytien-sacombank.xyz
 vaytien-techcombank.online
+vaytien1click.online
 vaytien24gio.com
 vaytien3.com
 vaytien365.online
@@ -3213,7 +3219,6 @@ vieclamonha.online
 vieclamonlineluongcao.com
 vieclamonlinetainha.com.vn
 vieclamshopee.com
-vieetcombank.com
 vieetcombiank.com
 vieitcombank.com
 vieittcombank.com
@@ -3307,6 +3312,7 @@ vietnaminsb.com
 vietnaminsc.com
 vietnamkdam.com
 vietnamlo.vip
+vietnamlua.vip
 vietnamlud.vip
 vietnammoi.biz
 vietnamokf.vip
@@ -3374,7 +3380,6 @@ vinpearl1.vingroupsny.com
 vip-dien-mayxanh.com
 vip-dienmayxanh.com
 vip.jaccsvn.com
-vip.tpbank84.com
 vip1-droppii.com
 vip8591.net
 vipcard-vib.com
@@ -3534,13 +3539,11 @@ vnshop25.com
 vnshop26.com
 vnshop28.com
 vnshop328.com
-vnshop37.com
 vnshop42.com
 vnshop4988.com
 vnshop628.com
 vnshop728.com
 vnshop752.com
-vnshop864.com
 vnshop925.com
 vnshop93.com
 vnshop965.com
@@ -3634,6 +3637,7 @@ vpb-nanghanmuc.online
 vpb.nanghanmucvisa-vn.com
 vpb.tang-han-muc-the-visa-vn.com
 vpb.tanghanmucvisa-vn.com
+vpbank-vaytien.com
 vpbank.chamsockhachhang-uudai-the-truc-tuyen.online
 vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 vpbank.com.vn-hc.info
