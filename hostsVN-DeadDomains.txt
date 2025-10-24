@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -77,6 +79,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -149,6 +155,9 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -187,6 +196,7 @@ app.ohchat.net
 www.ohchat.net
 cdn.hbplatform.com
 hbplatform.com
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
@@ -244,6 +254,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
+abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -255,6 +266,8 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
+ad.foxnetworks.com
 ad.kissasian.es
 ad.pornimg.xyz
 adaftegloomto.com
@@ -268,9 +281,13 @@ adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
+ads.foxnetworks.com
+ads.horsehero.com
 ads.horyzon-media.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
 adsclick.cc
@@ -304,6 +321,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.oneegrou.net
@@ -329,6 +347,7 @@ anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
+api.ampiri.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -365,7 +384,6 @@ avvxcexk.com
 awaps.net
 awwagqorqpty.com
 axkwmsivme.com
-azoaltou.com
 azqohjahfo.com
 b-1st.com
 b5e75c56.com
@@ -382,6 +400,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannermarkt.nl
 barscreative1.com
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -421,6 +440,7 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
+brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
@@ -487,6 +507,7 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
+clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -513,6 +534,7 @@ cpxadroit.com
 cpykudhagov.com
 creepingbrings.com
 crepedzincite.top
+critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -587,6 +609,7 @@ eatsbot.com
 ebvvvnjesjgx.com
 eechuraubsaud.com
 eemsouftas.com
+eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egraglauvoathog.com
@@ -670,6 +693,7 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
+fpyhuktuwatn.com
 frameworkdeserve.com
 frenchequal.pro
 frightenedpotato.com
@@ -813,6 +837,7 @@ idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -838,11 +863,14 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jagnoans.com
+jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
@@ -862,7 +890,6 @@ jncdvibhdaddmu.com
 jnrtavp2x66u.com
 joglomsexurgod.net
 jollytestpartying.com
-jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -969,6 +996,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -981,6 +1009,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1033,6 +1062,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+netcommunities.com
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1097,7 +1127,6 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
-onmarshtompor.com
 onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
@@ -1159,6 +1188,7 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
@@ -1217,7 +1247,6 @@ pscbrveha.com
 psipausaix.net
 psootchu.net
 ptawehex.net
-pteemsolrirgegi.com
 ptewarin.net
 ptoohojatchouz.net
 ptukasti.com
@@ -1286,10 +1315,12 @@ reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
+resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
+revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1369,9 +1400,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
-smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
 snxewpxrhegslq.com
@@ -1423,6 +1452,7 @@ tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
+tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
@@ -1459,6 +1489,8 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trololopush2023push.com
@@ -1524,6 +1556,7 @@ vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
+veinteractive.com
 vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
@@ -1556,6 +1589,7 @@ w454n74qw.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
+wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
@@ -1647,6 +1681,7 @@ yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
+yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
@@ -1674,6 +1709,7 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
