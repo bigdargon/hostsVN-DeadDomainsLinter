@@ -6,6 +6,13 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -32,21 +39,26 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -94,6 +106,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -116,6 +129,7 @@ image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -142,6 +156,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -170,6 +186,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -191,9 +208,11 @@ www.ohchat.net
 cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
+k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -206,6 +225,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 ad.chieuhoa.com
+ads.baotainguyenmoitruong.vn
 adserver.trangphim.net
 ak9.6895588.com
 bidgear-syndication.com
@@ -218,13 +238,16 @@ motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
+log.bizlive.vn
 log.tinnhac.com
 track.winigroup.vn
 tracking.hapiwork.vn
+vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
 1slms.com
+228tuchuang.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
@@ -268,6 +291,7 @@ adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
@@ -278,9 +302,12 @@ ads.foxnetworks.com
 ads.horsehero.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads.wedodemos.com
 ads2.net-communities.co.uk
 adsclick.cc
 adserver.quizdingo.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -326,11 +353,13 @@ ambulanceappealingrut.com
 amoteehoodaumse.net
 anahtars.com
 anglemarrowoccurs.com
+anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
+apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 apxszeaj.com
@@ -381,6 +410,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannermarkt.nl
@@ -432,7 +462,6 @@ broadboundary.com
 brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
-btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
@@ -512,6 +541,7 @@ constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
+coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -634,6 +664,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -898,6 +929,7 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
+kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -940,6 +972,7 @@ lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
+lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 lidosquey.shop
@@ -951,6 +984,7 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1004,6 +1038,7 @@ mfajfikmyqan.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
+mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
@@ -1068,6 +1103,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -1083,6 +1119,7 @@ odfsmijima.com
 oewabox.at
 offgalvantulaom.com
 offvmuf.com
+ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1099,6 +1136,7 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
+ombwzonwupu.com
 omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
@@ -1163,6 +1201,7 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 pasheeheghie.net
+patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
@@ -1202,9 +1241,9 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
-ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1215,6 +1254,7 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
+processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
@@ -1232,6 +1272,7 @@ ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
+public.wedodemos.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1240,6 +1281,8 @@ pupspu.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
+pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
@@ -1265,6 +1308,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
@@ -1287,6 +1331,7 @@ recedechatprotestant.com
 receptiveink.com
 redmas.com
 reecegrita.com
+refpa4293501.top
 refraintupaiid.com
 regletsminings.shop
 reinvigorate.net
@@ -1295,6 +1340,8 @@ remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
+retintsmillion.com
+retryngs.com
 rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
@@ -1315,7 +1362,6 @@ rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rodejessie.com
-romauntmirker.com
 romepoptahul.com
 rosolicdalapon.com
 rozamimo9za10.com
@@ -1652,6 +1698,7 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
@@ -1697,4 +1744,5 @@ richmetrics.com
 shopnetic.com
 tracking.news360.store
 tracking.scenepass.com
+usergrid.com
 yoursitestatstube.ru
