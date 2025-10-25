@@ -203,7 +203,6 @@ cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
 k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -296,7 +295,6 @@ ads.horsehero.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads.wedodemos.com
-ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -461,6 +459,7 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -689,6 +688,8 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+fnbauniukvi.com
+foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
@@ -817,6 +818,7 @@ hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
+hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -1112,6 +1114,7 @@ ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
+ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
@@ -1135,7 +1138,6 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 onmawmojth.com
-ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
@@ -1353,6 +1355,7 @@ robitoaceeb.net
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rosolicdalapon.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
@@ -1676,8 +1679,6 @@ xwdoxgilvdbj.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
-yawnspuker.com
-yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
@@ -1718,10 +1719,10 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
