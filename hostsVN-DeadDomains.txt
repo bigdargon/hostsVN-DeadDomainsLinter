@@ -25,6 +25,7 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
@@ -39,7 +40,6 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
-yasni.adnetasia.com
 zoover.adnetasia.com
 advergine.com
 go.advergine.com
@@ -228,14 +228,12 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
-statis.dsp.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -290,6 +288,7 @@ admedia.network
 adplus.co.id
 adreclaim.com
 ads-to.click
+ads.aspalliance.com
 ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
@@ -302,7 +301,6 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -353,6 +351,7 @@ anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
+anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
@@ -473,6 +472,7 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
+calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -560,6 +560,7 @@ daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
+dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
@@ -790,7 +791,6 @@ hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
-heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
@@ -1092,6 +1092,7 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
@@ -1449,6 +1450,7 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
+suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1582,7 +1584,6 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
