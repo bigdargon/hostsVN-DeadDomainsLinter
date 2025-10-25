@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -164,6 +162,7 @@ loader-cdn.azureedge.net
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -222,6 +221,7 @@ wataads.com
 ad.chieuhoa.com
 ads.baotainguyenmoitruong.vn
 adserver.trangphim.net
+ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
@@ -269,7 +269,6 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
-acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -319,7 +318,6 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
-ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
@@ -373,7 +371,6 @@ ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
-atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -453,7 +450,6 @@ brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
-brynh-lei.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -649,9 +645,11 @@ euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
+exogripper.com
 exomonyf.com
 expertnifg.com
 expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -683,7 +681,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -725,7 +722,6 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -946,13 +942,13 @@ kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
+kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
-labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
@@ -968,6 +964,7 @@ legitfizzed.shop
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligvraojlrr.com
@@ -1180,6 +1177,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
@@ -1293,7 +1291,6 @@ qkcgorbrs.com
 qlfqkjluvz.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
-qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qruqon.com
 qs251.com
@@ -1424,6 +1421,7 @@ snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
 soliads.net
+solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -1613,7 +1611,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wedxuaksargvlf.com
-weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
