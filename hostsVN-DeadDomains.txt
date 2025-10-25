@@ -100,6 +100,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -133,8 +134,7 @@ hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
-ongastlya.com
-admix.in
+ak.ongastlya.com
 geoip5m1y07.admix.in
 ssp.admix.in
 appcloud.ironbeast.io
@@ -200,10 +200,9 @@ www.ohchat.net
 cdn.hbplatform.com
 hbplatform.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -271,6 +270,7 @@ achieverknee.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.pornimg.xyz
@@ -294,6 +294,7 @@ ads.wedodemos.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -348,6 +349,7 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 apxszeaj.com
+apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -381,7 +383,6 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
-axkwmsivme.com
 azqohjahfo.com
 b-1st.com
 b5e75c56.com
@@ -452,6 +453,7 @@ bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
+buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
@@ -482,6 +484,7 @@ chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
+chertouz.net
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -662,6 +665,7 @@ febadu.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
+feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
@@ -965,7 +969,9 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
+lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
@@ -982,6 +988,7 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 luzongixoo.net
@@ -1059,11 +1066,9 @@ nervoustolsel.com
 netcommunities.com
 news-central.org
 news-muheji.com
-newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
-nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
 nomorepecans.com
@@ -1128,6 +1133,7 @@ onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
@@ -1559,6 +1565,7 @@ vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 veinteractive.com
+vekseptaufin.com
 velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
@@ -1685,6 +1692,7 @@ ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
