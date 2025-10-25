@@ -45,7 +45,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -170,7 +169,6 @@ ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
-ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
@@ -195,6 +193,7 @@ wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+images.kabbmedia.com
 kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
@@ -204,6 +203,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
 jana1.jeoway.net
+wiinvent.com.vn
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -217,13 +217,16 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-motphimqq.pro
+mobileads.dieuviet.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
+log.saigondautu.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
+ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -262,14 +265,18 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.foxnetworks.com
+ad.jetsoftware.com
 ad.kissasian.es
 ad.pornimg.xyz
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adition.de
 adkchtmtns.com
 adlite.net
 admedia.network
+adonspot.com
+adqkkoajnan.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
@@ -277,9 +284,11 @@ ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.grindinggears.com
 ads.horsehero.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads4homes.com
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -382,6 +391,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
+balor-ghn.com
 bande2az.com
 banner.coza.com
 banner.mindshare.de
@@ -395,11 +405,8 @@ batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
-bcaojrbriciw.com
 beabsolom.com
 becketsbesogne.top
-bedaoibe.com
-bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
@@ -420,6 +427,7 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
+blast4traffic.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -493,6 +501,7 @@ cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
+clickblitzo.xyz
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -510,13 +519,14 @@ coniesnitch.com
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 coogoanu.net
+coosyncs.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
+craktraffic.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
@@ -563,6 +573,7 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+diguver.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -574,6 +585,7 @@ doateeseeja.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
+douglasjamestraining.com
 downstairsnegotiatebarren.com
 drubbersestia.com
 dsp.io
@@ -632,6 +644,7 @@ exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
+ezula.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
@@ -668,7 +681,6 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 fnbauniukvi.com
-foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
@@ -679,8 +691,10 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
+freestats.tv
 frenchequal.pro
 frightenedpotato.com
+frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
@@ -691,6 +705,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fxclix.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -706,7 +721,9 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
+girls-only.online
 gk79a2oup.com
+gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -824,6 +841,7 @@ immerseweariness.com
 impractical-award.com
 impressionz.co.uk
 ingotedbooze.com
+innassociatecancer.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -837,6 +855,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
+itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -883,7 +902,6 @@ jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
-kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
@@ -916,6 +934,7 @@ kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
+kuqfudazkn.com
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -942,6 +961,7 @@ lifpv.com
 ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
+liquidad.narrowcastmedia.com
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -960,6 +980,7 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowtyroguer.com
 lp3tdqle.com
+lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -974,6 +995,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+made2you.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -984,9 +1006,11 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
+mawlaybob.com
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -996,6 +1020,7 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
+metanetwork.net
 mfajfikmyqan.com
 mgbid.net
 mgepuynxttyi.com
@@ -1034,6 +1059,7 @@ nangalupeose.com
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+navelfletch.com
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1041,6 +1067,7 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
+netpool.netbookia.net
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1108,6 +1135,7 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 onmawmojth.com
+ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
@@ -1141,6 +1169,7 @@ outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
+ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -1189,6 +1218,7 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
+plaicecaught.com
 planesknob.com
 playsdonkey.com
 plinsaqhsu.com
@@ -1286,6 +1316,7 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
+realcastmedia.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1347,12 +1378,14 @@ scammereating.com
 scarofnght.com
 scenescrockery.com
 schoonnonform.com
+scopelight.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
 sendmepixel.com
 seo4india.com
 serconmp.com
+sermonoccupied.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1451,7 +1484,6 @@ thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
 thiem-csl.com
-thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
@@ -1468,6 +1500,8 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
+todopick.com
+toenailannouncehardworking.com
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
@@ -1486,6 +1520,7 @@ tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -1598,6 +1633,8 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witnessremovalsoccer.com
+wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
@@ -1627,7 +1664,6 @@ xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
-xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -1652,6 +1688,7 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yoggrt.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
@@ -1670,6 +1707,7 @@ yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
+zazmunokpvzi.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -1687,10 +1725,13 @@ zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.poolshool.com
 analytics.shivamsinghis.me
 cankaowang.com
+csdian.net
 dolohen.com
 go.ad1data.com
+i-mar.com
 kitbit.net
 q2melbourne.com
 richmetrics.com
