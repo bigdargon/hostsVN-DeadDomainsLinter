@@ -65,6 +65,7 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
@@ -99,7 +100,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -112,6 +112,7 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -203,7 +204,6 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -268,11 +268,9 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
-aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.pornimg.xyz
@@ -350,7 +348,6 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 apxszeaj.com
-apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -455,7 +452,6 @@ bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
-buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
@@ -466,6 +462,8 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
+calculatingtoothbrush.com
+camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -481,9 +479,9 @@ cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
+charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
-chertouz.net
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -510,7 +508,6 @@ clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
-cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -665,7 +662,6 @@ febadu.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
-feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
@@ -969,9 +965,7 @@ littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
-lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
@@ -988,7 +982,6 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 luzongixoo.net
@@ -1018,6 +1011,7 @@ mediamind.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
+metahv.xyz
 mfajfikmyqan.com
 mgbid.net
 mgepuynxttyi.com
@@ -1134,7 +1128,6 @@ onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
@@ -1566,8 +1559,8 @@ vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 veinteractive.com
-vekseptaufin.com
 velsirtohoosh.net
+vertadnet.com
 vfuqivac.com
 viewyentreat.guru
 vikawjobtar.com
@@ -1692,7 +1685,6 @@ ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
-yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
