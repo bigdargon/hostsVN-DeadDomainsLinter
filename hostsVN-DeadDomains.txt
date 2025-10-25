@@ -25,7 +25,6 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
@@ -236,6 +235,7 @@ analytics.gotama.link
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
+statis.dsp.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -290,7 +290,6 @@ admedia.network
 adplus.co.id
 adreclaim.com
 ads-to.click
-ads.aspalliance.com
 ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
@@ -303,6 +302,7 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -353,7 +353,6 @@ anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
-anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
@@ -473,7 +472,7 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-calculatingtoothbrush.com
+caiwheechous.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -561,7 +560,6 @@ daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
-dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
@@ -1084,6 +1082,7 @@ niltelreekrofik.net
 noerwe5gianfor19e4st.com
 nomorepecans.com
 noowhaumurauy.net
+nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
@@ -1093,7 +1092,6 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
@@ -1120,6 +1118,7 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
+ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
@@ -1450,7 +1449,6 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
-suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1729,6 +1727,7 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
+cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
