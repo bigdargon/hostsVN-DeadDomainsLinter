@@ -40,6 +40,7 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
+yasni.adnetasia.com
 zoover.adnetasia.com
 advergine.com
 go.advergine.com
@@ -163,7 +164,6 @@ loader-cdn.azureedge.net
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -222,12 +222,12 @@ wataads.com
 ad.chieuhoa.com
 ads.baotainguyenmoitruong.vn
 adserver.trangphim.net
-ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 analytics.amedigital.vn
 analytics.gotama.link
@@ -285,7 +285,6 @@ adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
@@ -301,6 +300,7 @@ ads2.net-communities.co.uk
 adsclick.cc
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -453,6 +453,7 @@ brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
 brookgetupshorts.com
+brynh-lei.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -648,11 +649,9 @@ euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
-exogripper.com
 exomonyf.com
 expertnifg.com
 expressgutterlevers.com
-exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -684,6 +683,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -725,6 +725,7 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -791,6 +792,7 @@ hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
+heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
@@ -944,7 +946,6 @@ kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
-kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
@@ -1179,7 +1180,6 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
-oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
@@ -1424,7 +1424,6 @@ snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
 soliads.net
-solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 spanuletubings.com
@@ -1508,7 +1507,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trololopush2023push.com
@@ -1584,6 +1582,7 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
