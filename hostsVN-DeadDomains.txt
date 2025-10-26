@@ -89,8 +89,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -105,7 +103,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 anymad.com
@@ -128,13 +125,11 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
-ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
@@ -155,8 +150,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -185,6 +178,7 @@ ads.livetv785.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -311,7 +305,6 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
-aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -369,7 +362,6 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
-aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -513,7 +505,6 @@ coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 constintptr.com
 constructpoll.com
@@ -932,6 +923,7 @@ kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
+labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
@@ -946,6 +938,7 @@ legitfizzed.shop
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligvraojlrr.com
@@ -1034,7 +1027,6 @@ mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1161,9 +1153,10 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
+ozmbzowg.com
+ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
-padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1178,7 +1171,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
-peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
@@ -1303,7 +1295,6 @@ reecegrita.com
 refpa4293501.top
 refraintupaiid.com
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1415,7 +1406,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1468,6 +1458,7 @@ thootipheguph.com
 thougnoangi.com
 thoungoofeed.net
 thounookra.com
+thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
@@ -1707,7 +1698,6 @@ kitbit.net
 q2melbourne.com
 richmetrics.com
 shopnetic.com
-showbiz.owndata.network
 tracking.news360.store
 tracking.scenepass.com
 worldgravity.com
