@@ -46,10 +46,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -136,6 +132,7 @@ geoip5m1y07.admix.in
 ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
+sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -175,7 +172,6 @@ ads.livetv708.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -271,6 +267,7 @@ ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.directionsmag.com
+ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horsehero.com
 ads.thrillsaffiliates.com
@@ -556,9 +553,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
-diedstubbornforge.com
-digiadzone.com
-digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -858,6 +852,8 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
+jkuadhaf.com
+jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -890,7 +886,6 @@ kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
-kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
 kiklazopnqce.com
@@ -1145,7 +1140,6 @@ owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
-ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1307,6 +1301,7 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
+rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
@@ -1559,7 +1554,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
-vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
@@ -1660,7 +1654,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 ysbddgay.com
 yseyxucrhjfi.com
-ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
