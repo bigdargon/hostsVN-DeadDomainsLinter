@@ -18,6 +18,7 @@ cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
+v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -96,7 +97,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 native-vpaid.winadx.com
-rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -232,6 +232,7 @@ track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
+0redird.com
 1frozenthrone1.com
 1slms.com
 228tuchuang.com
@@ -391,7 +392,6 @@ bajavdafwafp.com
 bande2az.com
 banner.coza.com
 banner.nixnet.cz
-banner.penguin.cz
 bannermarkt.nl
 barscreative1.com
 baste-znl.com
@@ -483,6 +483,7 @@ chertouz.net
 chickensstation.com
 chinaslauras.com
 chippedaugur.com
+chirpyreemergespotty.com
 chl7rysobc3ol6xla.com
 chlod-qui.com
 chokedsmelt.com
@@ -728,6 +729,8 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
+gpfvumsxtbf.com
+gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
@@ -793,7 +796,6 @@ hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
@@ -1075,7 +1077,6 @@ nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1097,6 +1098,7 @@ ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
+okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -1239,6 +1241,7 @@ ptewarin.net
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
+ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1273,19 +1276,18 @@ qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
+qtspkqzn.com
 quaintcan.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
-quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-ranking-liste.de
 rapepush.net
 raphanysteers.com
 razzedwhimsic.website
@@ -1389,10 +1391,8 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
-snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
 soliads.net
@@ -1488,7 +1488,6 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
-tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -1589,6 +1588,7 @@ wbehwesvucqmvx.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
+weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
