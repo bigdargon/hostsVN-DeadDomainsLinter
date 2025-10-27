@@ -18,7 +18,6 @@ cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
-v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -45,6 +44,16 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 aj1549.online
@@ -71,6 +80,7 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
@@ -94,6 +104,8 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
+ytvpaid.winadx.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 anymad.com
@@ -145,6 +157,8 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+mat.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -207,6 +221,8 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+upfile16.mediaphim.com
+vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -216,7 +232,6 @@ track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
-0redird.com
 1frozenthrone1.com
 1slms.com
 228tuchuang.com
@@ -264,6 +279,7 @@ adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -278,7 +294,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adverdirect.com
-adxpose.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
@@ -315,6 +330,7 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
+an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -467,7 +483,6 @@ chertouz.net
 chickensstation.com
 chinaslauras.com
 chippedaugur.com
-chirpyreemergespotty.com
 chl7rysobc3ol6xla.com
 chlod-qui.com
 chokedsmelt.com
@@ -480,6 +495,7 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 cilsammwcblcv.com
+circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clicktracks.com
@@ -532,6 +548,7 @@ dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
+dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 deewansturacin.com
@@ -711,8 +728,6 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
-gpfvumsxtbf.com
-gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
@@ -1082,7 +1097,6 @@ ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
-okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -1103,6 +1117,7 @@ onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1224,7 +1239,6 @@ ptewarin.net
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
-ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1259,7 +1273,6 @@ qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
 quaintcan.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -1267,11 +1280,13 @@ questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
+qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+rapepush.net
 raphanysteers.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1326,7 +1341,6 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
-rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -1392,7 +1406,6 @@ specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
-spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -1424,6 +1437,8 @@ sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
+tabookbusines.info
+tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
@@ -1467,6 +1482,7 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
+trendcounter.com
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -1508,6 +1524,7 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
+upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
@@ -1545,6 +1562,7 @@ vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 voosaivege.com
+vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -1571,7 +1589,6 @@ wbehwesvucqmvx.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
-weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
