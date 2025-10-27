@@ -63,7 +63,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -127,6 +126,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -196,6 +196,7 @@ ohchat.net
 app.ohchat.net
 www.ohchat.net
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -251,6 +252,7 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
+abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -276,6 +278,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horsehero.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 adsclick.cc
 adsk2.co
@@ -514,6 +517,7 @@ cpykudhagov.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
+croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -691,7 +695,6 @@ ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
-gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 gbbqyadej.com
@@ -825,7 +828,6 @@ instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -933,6 +935,7 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
+lifpv.com
 ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
@@ -1019,7 +1022,6 @@ mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1062,7 +1064,6 @@ nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1184,7 +1185,6 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
-pixel.personagraph.com
 pkhhyool.com
 planesknob.com
 playsdonkey.com
@@ -1333,8 +1333,6 @@ ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rwukupjis.com
-sackbarngroups.com
-sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
@@ -1514,7 +1512,6 @@ upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
-upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
@@ -1597,6 +1594,7 @@ wishedverde.com
 wissoony.net
 wistfulbalmy.com
 wiwqhootrf.com
+wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
@@ -1685,7 +1683,6 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
