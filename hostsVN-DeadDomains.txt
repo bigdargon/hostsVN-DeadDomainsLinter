@@ -15,10 +15,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-api.zcoup.com
-image.zcoup.com
-logger.zcoup.com
-v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -97,6 +93,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 native-vpaid.winadx.com
+rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -159,9 +156,6 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -378,7 +372,6 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
-axkwmsivme.com
 azqohjahfo.com
 b-1st.com
 b5e75c56.com
@@ -607,7 +600,6 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
-ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -713,7 +705,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
@@ -796,6 +787,7 @@ hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
+hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
@@ -902,7 +894,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
-kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kempucmouftordo.com
@@ -1077,6 +1068,7 @@ nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
+oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1282,12 +1274,14 @@ quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
+quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 rapepush.net
 raphanysteers.com
 razzedwhimsic.website
@@ -1358,7 +1352,6 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
-sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1391,8 +1384,10 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
+smnyayzhv.com
 smstcksjn.com
 snitzsauteur.shop
+snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
 soliads.net
@@ -1488,6 +1483,7 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
+tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -1543,7 +1539,6 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
-vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 veinteractive.com
