@@ -128,9 +128,11 @@ www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
+showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -194,6 +196,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 qc.klick.vn
@@ -208,7 +211,6 @@ hbplatform.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -228,7 +230,6 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
-tvc.biphim.club
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -297,15 +298,14 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.rne.com
-adsage.cn
 adsclick.cc
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
 adtoma.com
-advariant.com
 adverdirect.com
 adyieldoptimizer.com
 adz2you.com
@@ -541,6 +541,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -588,7 +589,6 @@ diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
-dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dorkingvoust.com
@@ -719,7 +719,6 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
@@ -863,6 +862,7 @@ ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
 ixyyijop.com
+iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
 jagnoans.com
@@ -1205,7 +1205,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1287,6 +1286,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qruqon.com
 qs251.com
+qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1525,7 +1525,6 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
-uitopadxdy.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1548,6 +1547,7 @@ upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
+uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -1555,7 +1555,6 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
-vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -1674,7 +1673,6 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -1698,6 +1696,7 @@ yu225.com
 yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
+zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -1724,7 +1723,6 @@ q2melbourne.com
 richmetrics.com
 shopnetic.com
 tracking.news360.store
-tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
