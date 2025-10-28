@@ -46,6 +46,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -122,6 +123,9 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
+showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -269,7 +273,6 @@ ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
 adaftegloomto.com
-adbrn.com
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -284,7 +287,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horsehero.com
 ads.horyzon-media.com
-ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.rne.com
@@ -498,6 +500,8 @@ cigdizwu.com
 cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
+civadsoo.net
+cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -510,6 +514,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 communicatequietboost.com
+compatriotelephant.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -616,6 +621,8 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 entertainingeyes.com
+eodufofs.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -719,7 +726,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
-go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -982,7 +988,6 @@ madriyelowd.com
 madserve.org
 makemydownload.com
 makespram.com
-makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
@@ -1111,6 +1116,7 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 onmawmojth.com
+ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
@@ -1121,7 +1127,6 @@ oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oranegfodnd.com
-orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
@@ -1147,7 +1152,6 @@ ovrcuncunxp.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
-owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
@@ -1445,7 +1449,6 @@ tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
-tearerernest.com
 techclicks.net
 tenthsfrumpy.com
 terrapsps.com
@@ -1552,7 +1555,6 @@ vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
-vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
@@ -1607,7 +1609,9 @@ wistfulbalmy.com
 wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
+woamoogloow.net
 woamowhoastoup.net
+wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
@@ -1619,6 +1623,7 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
+www.admarket.network
 www.money4exit.de
 www.qcerujcajnme.com
 www.xumamropnox.com
@@ -1669,7 +1674,6 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
-yu225.com
 yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
