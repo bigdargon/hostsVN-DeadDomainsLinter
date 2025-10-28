@@ -40,6 +40,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -67,11 +68,18 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -93,6 +101,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -177,7 +189,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
-aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -194,6 +205,10 @@ wakeup247.klick.vn
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+cdn.hbplatform.com
+hbplatform.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -215,14 +230,15 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+tvc.biphim.club
 upfile16.mediaphim.com
-vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
+tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
@@ -253,9 +269,11 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
+abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
@@ -266,6 +284,7 @@ adbrn.com
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
@@ -275,9 +294,14 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horsehero.com
+ads.horyzon-media.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
+ads1.rne.com
+ads2.rne.com
 adsclick.cc
+adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -287,6 +311,7 @@ adverdirect.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
+affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -298,12 +323,12 @@ ahqatjakvac.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -367,6 +392,7 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
+axkwmsivme.com
 azqohjahfo.com
 b-1st.com
 b5e75c56.com
@@ -489,6 +515,7 @@ cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
+cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -496,6 +523,7 @@ coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
+communicatequietboost.com
 compatriotelephant.com
 conary-invered.com
 conformfavoredgauging.com
@@ -727,6 +755,7 @@ grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
+groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
@@ -756,6 +785,7 @@ hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
+heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
@@ -895,6 +925,7 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
+klsdee.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -911,6 +942,7 @@ kugmisawqo.com
 kupefoarsadseer.com
 kwanvibist.com
 kxnggkh2nj.com
+kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -968,7 +1000,6 @@ lzexnxwjsmof.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1131,6 +1162,7 @@ outabsola.com
 outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
+oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
@@ -1153,7 +1185,6 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-pasheeheghie.net
 patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
@@ -1176,7 +1207,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 pignuwoa.com
-pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
@@ -1260,13 +1290,14 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
-quarterserver.de
+qualityadverse.com
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
+qwerfdx.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -1282,6 +1313,7 @@ readserver.net
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
+record.bonniergaming.com
 redmas.com
 reecegrita.com
 refpa4293501.top
@@ -1376,6 +1408,7 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
+snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
@@ -1409,7 +1442,6 @@ subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
-suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
@@ -1465,6 +1497,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1539,6 +1572,7 @@ viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -1569,6 +1603,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1690,5 +1725,6 @@ richmetrics.com
 shopnetic.com
 tracking.news360.store
 tracking.scenepass.com
+usergrid.com
 worldgravity.com
 yoursitestatstube.ru
