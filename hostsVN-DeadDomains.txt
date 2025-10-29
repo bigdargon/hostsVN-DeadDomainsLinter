@@ -117,6 +117,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
 ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
@@ -156,7 +157,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-wensixuetang.com
+ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -214,6 +215,7 @@ jana1.jeoway.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
@@ -296,7 +298,6 @@ adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
-adsrveys.com
 adtoma.com
 adverdirect.com
 adyieldoptimizer.com
@@ -306,7 +307,6 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
-agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -382,7 +382,6 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
-awwagqorqpty.com
 axkwmsivme.com
 azqohjahfo.com
 b-1st.com
@@ -480,7 +479,6 @@ cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
-charming-people.com
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
@@ -565,7 +563,6 @@ deliriamorula.shop
 demo123.info
 demtaudeeg.com
 depechearshine.com
-dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 dfyvcihusajf.com
@@ -596,6 +593,7 @@ dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
+e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -612,6 +610,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -707,6 +706,7 @@ ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
+gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 gbbqyadej.com
@@ -747,7 +747,6 @@ groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -994,7 +993,6 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
-matecatenae.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1313,7 +1311,6 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-retryngs.com
 rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
