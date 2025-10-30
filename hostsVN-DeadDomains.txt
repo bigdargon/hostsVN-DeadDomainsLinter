@@ -7,13 +7,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -69,7 +62,6 @@ beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
-aj2142.online
 aj2218.online
 aj2307.online
 aj2412.online
@@ -190,7 +182,6 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
-ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
@@ -246,7 +237,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
-log.bizlive.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -460,7 +450,6 @@ bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
-br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -554,7 +543,6 @@ cpykudhagov.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -670,7 +658,6 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
-fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
@@ -691,6 +678,7 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
+fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -742,7 +730,6 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 gk79a2oup.com
-gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -795,6 +782,7 @@ handkerchiefpersonnel.com
 harib-eir.info
 hasanjbam.com
 haufeechaukept.com
+hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -838,6 +826,7 @@ huppontic.com
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
+hwpnocpctu.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
@@ -1247,7 +1236,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1431,6 +1419,7 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 specificallycries.com
@@ -1499,6 +1488,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
