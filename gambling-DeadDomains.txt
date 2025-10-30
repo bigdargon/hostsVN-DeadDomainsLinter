@@ -2512,10 +2512,12 @@
 1xbet-reg30.top
 1xbet-reg31.top
 1xbet-rgzq.top
-1xbet-ru.com
 1xbet-telecharger.cm
 1xbet-ter9.top
+<<<<<<< Updated upstream
 1xbet-tr3.com
+=======
+>>>>>>> Stashed changes
 1xbet-vhod1.top
 1xbet-web.com
 1xbet.in
@@ -3268,13 +3270,11 @@
 234075.com
 234076.com
 2340f9.com
-2340g0.com
 2340g3.com
 2340h0.com
 2340h1.com
 2340h2.com
 2340h3.com
-2340h4.com
 2340h5.com
 2340i1.com
 2340i5.com
@@ -3283,7 +3283,6 @@
 2340j8.com
 2340k2.com
 2340p1.com
-2340r1.com
 2340s0.com
 2340s9.com
 234265.com
@@ -3909,7 +3908,6 @@
 2726t.com
 2726v.com
 27272017.com
-2727304.com
 2727n.com
 2727t.com
 2727vn.com
@@ -4060,7 +4058,6 @@
 2825t.com
 2825x.com
 2827t.com
-28282277.com
 2829t.com
 2829x.com
 282yb.com
@@ -5375,6 +5372,7 @@
 365337.vip
 365365248.com
 365488.com
+3655007.com
 365518.vip
 365519.vip
 36558h.com
@@ -7040,6 +7038,7 @@
 4543x.com
 4544n.com
 4544t.com
+454580.com
 4545vn.com
 4545vns.com
 454688.com
@@ -7441,6 +7440,7 @@
 4855n.com
 4855s.com
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 4858f.com
 4858ff.com
 4858j.com
@@ -7465,6 +7465,14 @@
 4858sss.com
 4858t.com
 4858u.com
+4858w.com
+4858x.com
+>>>>>>> Stashed changes
+=======
+4858j.com
+4858mmm.com
+4858ppp.com
+4858qqq.com
 4858w.com
 4858x.com
 >>>>>>> Stashed changes
@@ -8173,7 +8181,6 @@
 5442p.com
 54446.cn
 5444n.com
-5444t.com
 5444x.com
 5445s.com
 5446d.com
@@ -10427,7 +10434,6 @@
 673194.com
 673195.com
 6731bbb.com
-6732s.com
 6733388.com
 6733n.com
 6733v.com
@@ -13818,7 +13824,6 @@
 87bet999.fun
 87hthg.com
 8800002.com
-880036.com
 88004vip.com
 8801n.com
 8801v.com
@@ -15886,7 +15891,6 @@ api.go88r.pro
 api.hgkwxnfs.com
 api.mb664.vip
 api.mu88.mu
-api.mxvietnam.com
 api.ok689d.com
 api.ok689f.com
 api.sa88066.com
@@ -16601,7 +16605,6 @@ bbaa9999.vip
 bbb8g.com
 bbggame.org
 bbggame.xyz
-bbn999.com
 bbo88vip.com
 bbofa888.com
 bc-gg.com
@@ -18111,7 +18114,6 @@ f-88.app
 f0309.com
 f0g1h2.buzz
 f0u8x5qg3.com
-f1.one88.vin
 f1.taiv8.top
 f1496688.com
 f1677.com
@@ -18651,7 +18653,6 @@ for886894.com
 for886901.com
 for886902.com
 for886976.com
-for887003.com
 for887011.com
 for887015.com
 for887053.com
@@ -19527,7 +19528,6 @@ hcm05.com
 hcm2200.com
 hcm66-vip.com
 hd22138.com
-hd5295.app
 hd82522.com
 hd95611.app
 hdgbh3.com
@@ -19870,7 +19870,6 @@ iw999.net
 iwiin.club
 iwin0004.com
 iwin0007.com
-iwin001.com
 iwin002.com
 iwin003.com
 iwin005.com
@@ -19978,6 +19977,7 @@ iwon35406.com
 iwon41227.vip
 iwon43341.vip
 iwon980.net
+iwon9924.net
 j0665.com
 j0699.com
 j0766.com
@@ -21134,7 +21134,6 @@ lp.b52choi.pro
 lp.choitet.vip
 lp.taiv8.top
 lp.vip79.vip
-lp.zo.club
 lpbets.vip
 lq15pm.buzz
 lrlzwn.vip
@@ -21646,7 +21645,6 @@ musimqqpkv.pro
 mvpfun88.xyz
 mvv76.com
 mx54.vip
-mxvietnam.com
 mxx85.com
 my12bet.com
 my12help2.com
@@ -22167,7 +22165,10 @@ ph777b.ac
 ph777d.com
 ph777e.com
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ph777h.com
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 ph777j.com
@@ -22576,6 +22577,7 @@ q034034.com
 q1496688.com
 q15572917796.com
 q1663.com
+q1800.com
 q1886.com
 q188xj.com
 q2779.com
@@ -22951,7 +22953,6 @@ rz89ymyt12.life
 s.p3vn.co
 s11114.com
 s11811.com
-s128link.com
 s1496688.com
 s15357.com
 s15357.net
@@ -23172,7 +23173,6 @@ sbgj13.com
 sbgj17.com
 sbm5k.com
 sbobet-casino.online
-sbobet.tv
 sbogameclub.com
 sbogaming.fun
 sbst888.com
@@ -23881,7 +23881,6 @@ tha7.net
 tha8web.com
 thabet.tel
 thabet88.info
-thai-bet1x.com
 thai580.com
 thailand-1xbet.com
 thailangza.vip
@@ -24096,6 +24095,7 @@ typhu88.technology
 tyrm88.com
 tyso7m.net
 tysoeuro.online
+tz.bet20.bet
 tz6633.com
 tzdztd.xyz
 tzww8802.com
@@ -26337,6 +26337,7 @@ yhhp64.com
 yhhp79.com
 yhhq51.com
 yhhy62.com
+yhwbet.com
 yhy238a.com
 yhy587y.com
 yiangfensen.com
