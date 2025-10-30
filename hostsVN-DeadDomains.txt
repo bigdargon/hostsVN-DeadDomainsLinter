@@ -21,10 +21,6 @@ v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
@@ -34,7 +30,6 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -66,7 +61,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -120,6 +114,7 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 www.mobile-10.com
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -300,7 +295,6 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
-ads.cdn2-img.net
 ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
@@ -318,6 +312,7 @@ adsmogo.org
 adspace.ro
 adsrveys.com
 adtoma.com
+advariant.com
 adverdirect.com
 adyieldoptimizer.com
 adz2you.com
@@ -483,6 +478,7 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
+caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -615,7 +611,6 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
-dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
@@ -650,6 +645,7 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
+erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -689,6 +685,7 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
+fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
 findcommerce.com
@@ -1059,6 +1056,8 @@ mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
+mulautuzign.com
+munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1083,10 +1082,10 @@ news-muheji.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
+nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
 noerwe5gianfor19e4st.com
-nomorepecans.com
 noowhaumurauy.net
 nowheresank.com
 npipajajn.com
@@ -1133,7 +1132,6 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
-ombwzonwupu.com
 omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
@@ -1244,7 +1242,6 @@ pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
-powershatchet.com
 pphtrwrnsuyl.com
 pramviable.com
 pranavafolksey.com
@@ -1304,6 +1301,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
 quzodcttub.com
@@ -1460,6 +1458,7 @@ susifhfh2d8ldn09.com
 suspectedadvisor.com
 suwcaxazzn.com
 svkmxwssih.com
+swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -1544,6 +1543,7 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 unusuallypilgrim.com
+unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -1642,6 +1642,7 @@ wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
+woorucauhou.net
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -1719,7 +1720,6 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.shivamsinghis.me
 burstly.com
-cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
