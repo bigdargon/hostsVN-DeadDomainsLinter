@@ -36,8 +36,6 @@ zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
-clk.kau.li
-js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
@@ -116,6 +114,7 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -136,6 +135,7 @@ xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -195,6 +195,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
+aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -342,10 +343,8 @@ ambulanceappealingrut.com
 amoteehoodaumse.net
 anahtars.com
 anglemarrowoccurs.com
-anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
-antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -469,6 +468,7 @@ cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -481,7 +481,6 @@ caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
-celoortdwt.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -708,6 +707,7 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
+ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -743,6 +743,7 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
+greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -801,7 +802,6 @@ hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
@@ -916,6 +916,7 @@ kiltcusks.shop
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
+klkchits.com
 klsdee.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1129,7 +1130,6 @@ onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
-opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
@@ -1473,9 +1473,12 @@ thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
+thougnoangi.com
+thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -1629,7 +1632,6 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
-wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
 www.qcerujcajnme.com
