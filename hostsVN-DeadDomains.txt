@@ -92,6 +92,7 @@ n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
+madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -192,6 +193,7 @@ adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
+www.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -200,6 +202,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
+ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
@@ -232,7 +235,6 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -324,6 +326,7 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
+adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -353,6 +356,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 akximhhcunr.com
@@ -390,7 +394,6 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
-asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
@@ -485,7 +488,6 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
-bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -553,6 +555,7 @@ conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
 constintptr.com
+constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
@@ -682,6 +685,7 @@ faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
+faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -981,6 +985,7 @@ leetmenllew.com
 legitfizzed.shop
 lephaush.net
 lessemujust.live
+lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1032,6 +1037,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
@@ -1115,13 +1121,14 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
-oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
+obnoljac.com
 obradjgifja.com
+ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1153,6 +1160,7 @@ omniscientspark.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
+oneegrou.net
 onetouch12.com
 onmarshtompor.com
 onmawmojth.com
@@ -1289,7 +1297,6 @@ pupspu.com
 purgavax.com
 pushanishe.com
 pushazer.com
-pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1351,6 +1358,7 @@ resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
+rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1448,6 +1456,7 @@ specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
+sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
@@ -1532,7 +1541,6 @@ trustisimportant.fun
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
-tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
@@ -1594,7 +1602,6 @@ viewyentreat.guru
 vikawjobtar.com
 vipicmou.net
 virleth.com
-visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
