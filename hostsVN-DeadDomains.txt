@@ -1,3 +1,4 @@
+googleads-cn.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -38,6 +39,15 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -82,10 +92,22 @@ n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
-madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -108,6 +130,7 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -172,9 +195,11 @@ static.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
-ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
@@ -207,6 +232,7 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -225,6 +251,7 @@ crocopop.com
 duamilsyr.com
 imgcdnbet.com
 motphimqq.pro
+serving-ad.tv24.vn
 upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -253,6 +280,8 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
+3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
+4d5.net
 4hfchest5kdnfnut.com
 52dvzo62i.com
 79xmz3lmss.com
@@ -271,6 +300,7 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
 adaftegloomto.com
@@ -294,7 +324,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
-adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -324,7 +353,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
-ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 akximhhcunr.com
 akxopgjuw.com
@@ -454,6 +483,7 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -506,6 +536,7 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
+clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -522,7 +553,6 @@ conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
 constintptr.com
-constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
@@ -590,6 +620,7 @@ doruffletr.com
 dotranquilla.com
 downstairsnegotiatebarren.com
 drubbersestia.com
+dsp.io
 ducksintroduce.com
 ductathing.com
 duimspruer.life
@@ -651,7 +682,6 @@ faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
-faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -714,6 +744,7 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
@@ -943,6 +974,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -952,9 +984,11 @@ lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
+ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
+litaudrootsa.net
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -978,6 +1012,7 @@ lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
+lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1087,7 +1122,6 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
-ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1119,7 +1153,6 @@ omniscientspark.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
-oneegrou.net
 onetouch12.com
 onmarshtompor.com
 onmawmojth.com
@@ -1218,6 +1251,7 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
+poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1237,6 +1271,7 @@ proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
+pscbrveha.com
 psipausaix.net
 psootchu.net
 ptawehex.net
@@ -1295,6 +1330,7 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
@@ -1362,6 +1398,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+sendmepixel.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1411,10 +1448,10 @@ specificallycries.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
-sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1493,6 +1530,7 @@ trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tstats-13fkh44r.com
+tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
@@ -1696,6 +1734,7 @@ zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.shivamsinghis.me
+burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
