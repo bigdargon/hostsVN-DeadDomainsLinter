@@ -25,6 +25,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -111,6 +112,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -183,6 +185,8 @@ www.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
@@ -364,7 +368,6 @@ anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
-api.ampiri.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -470,7 +473,6 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -516,6 +518,7 @@ chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
+cigdizwu.com
 cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
@@ -691,6 +694,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -977,7 +981,6 @@ ligvraojlrr.com
 likedstring.com
 linkadvdirect.com
 litaudrootsa.net
-littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1224,7 +1227,6 @@ pienbitore.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
-pinpricktuxedokept.com
 pistolsizehoe.com
 pkhhyool.com
 planesknob.com
@@ -1248,7 +1250,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-praddpro.de
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1282,7 +1283,6 @@ pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
-pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1461,11 +1461,6 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suspectedadvisor.com
-suwcaxazzn.com
-svkmxwssih.com
-swarthymacula.com
-sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
@@ -1478,7 +1473,6 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
-tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
@@ -1531,7 +1525,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
@@ -1640,6 +1633,7 @@ wissoony.net
 wistfulbalmy.com
 wiwqhootrf.com
 wizkrdxivl.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wollybelayer.shop
