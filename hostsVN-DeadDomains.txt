@@ -98,7 +98,6 @@ www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
-syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
@@ -118,11 +117,13 @@ ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -131,6 +132,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+b91vip.com
 image.b91vip.com
 www.b91vip.com
 ak.hetaruwg.com
@@ -212,6 +214,7 @@ www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
 adx.vn
+matomo.hicity.vn
 mautic.hicity.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -222,6 +225,7 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 adserver.trangphim.net
+aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
@@ -273,7 +277,6 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
-acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -289,7 +292,6 @@ adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
-ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -321,6 +323,7 @@ agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 aiftoupsains.net
+aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -338,7 +341,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
-allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -392,9 +394,11 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
+awaps.net
 awwagqorqpty.com
 axkwmsivme.com
 azqohjahfo.com
+b-1st.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -461,6 +465,7 @@ btiatfobkjiv.com
 budvawshes.ru
 burgerbrush.com
 burgoastougregy.net
+buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
@@ -508,7 +513,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 cilsammwcblcv.com
-circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
@@ -538,6 +542,7 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -728,7 +733,6 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
 glaignicmo.com
@@ -742,6 +746,7 @@ go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
+gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
@@ -766,8 +771,8 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+guvnatar.com
 gvsnhzmjr.com
-gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
@@ -1015,10 +1020,8 @@ mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
-mediamind.com
 meowpushnot.com
 mesangefanwise.tech
-messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mgbid.net
@@ -1351,7 +1354,6 @@ robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
-romepoptahul.com
 rosolicdalapon.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1445,6 +1447,7 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
+suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1641,6 +1644,8 @@ woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wormslitty.top
+worstideatum.com
+worstspotchafe.com
 wqjbldnnceroue.com
 wreaksyolkier.com
 wrestcut.com
@@ -1648,7 +1653,6 @@ www.money4exit.de
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
-xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
@@ -1663,7 +1667,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
