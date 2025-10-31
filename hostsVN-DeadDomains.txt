@@ -27,6 +27,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -34,7 +35,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
 api.sociaplus.com
-hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
@@ -84,10 +84,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -177,6 +173,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -214,6 +211,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ads.inetgroup.vn
 adserver.trangphim.net
+aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
@@ -429,6 +427,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -540,6 +539,7 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
+cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
@@ -633,11 +633,9 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
-euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
-exogripper.com
 exomonyf.com
 expertnifg.com
 expressgutterlevers.com
@@ -1105,6 +1103,7 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
@@ -1333,7 +1332,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1424,6 +1422,7 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1436,6 +1435,7 @@ streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
+sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
@@ -1527,10 +1527,8 @@ unknowntray.com
 unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
-untidyquestion.com
 untrendenam.com
 unusuallypilgrim.com
-unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -1658,6 +1656,7 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
+xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
