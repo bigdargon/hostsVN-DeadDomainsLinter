@@ -34,11 +34,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -98,6 +93,7 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 www.mobile-10.com
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -208,6 +204,7 @@ www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
 adx.vn
+matomo.hicity.vn
 mautic.hicity.vn
 app2.jeoway.net
 jana1.jeoway.net
@@ -481,6 +478,7 @@ capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cavbildi.com
 cdn-server.top
 ceegrevoaphail.com
@@ -1023,7 +1021,6 @@ metahv.xyz
 mfajfikmyqan.com
 mgbid.net
 mgepuynxttyi.com
-mhavfytafo.com
 mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
@@ -1329,7 +1326,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
-rev2pub.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1338,7 +1334,6 @@ riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
-rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
@@ -1346,7 +1341,6 @@ rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
-roashudiweeh.com
 robitoaceeb.net
 rockabox.co
 rodejessie.com
