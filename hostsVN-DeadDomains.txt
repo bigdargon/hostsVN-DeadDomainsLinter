@@ -64,7 +64,6 @@ classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
-partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
@@ -197,7 +196,6 @@ ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
-ads.livetv705.me
 ads.livetv708.me
 aj2566.bid
 aj2581.bid
@@ -214,8 +212,6 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
@@ -227,7 +223,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-ad.chieuhoa.com
 adserver.trangphim.net
 ak9.6895588.com
 bidgear-syndication.com
@@ -235,8 +230,8 @@ bloggiamgia.info
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 serving-ad.tv24.vn
-upfile16.mediaphim.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -360,7 +355,6 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
-anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -458,6 +452,7 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
+brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 broadboundary.com
@@ -479,6 +474,7 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
+calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -630,6 +626,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -646,6 +643,7 @@ eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
+eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
@@ -728,6 +726,7 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -799,7 +798,6 @@ heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
-heratheacle.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
@@ -1019,6 +1017,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1047,6 +1046,7 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
+mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 mrycibqutoz.com
@@ -1491,7 +1491,6 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
-thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -1640,7 +1639,6 @@ wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
-woamowhoastoup.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
@@ -1657,7 +1655,6 @@ www.money4exit.de
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
-xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
