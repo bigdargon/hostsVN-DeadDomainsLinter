@@ -37,7 +37,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -59,7 +58,6 @@ domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
-gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -101,6 +99,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 anymad.com
 cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -160,7 +159,6 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -207,6 +205,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -281,7 +280,6 @@ ads2.rne.com
 adsclick.cc
 adsemo.com
 adserver.quizdingo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -307,6 +305,7 @@ ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
+ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
@@ -367,7 +366,6 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
-avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -491,7 +489,6 @@ cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -805,7 +802,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -878,6 +874,7 @@ jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1241,6 +1238,7 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1419,6 +1417,7 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
+stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -1443,7 +1442,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -1498,7 +1496,6 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
-tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -1603,7 +1600,6 @@ wibtntmvox.com
 widespace.com
 wimswuppoxan.com
 window.nixnet.cz
-windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
@@ -1630,7 +1626,6 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
-xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
@@ -1694,7 +1689,6 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
