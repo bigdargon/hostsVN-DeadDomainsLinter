@@ -160,6 +160,7 @@ cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -212,8 +213,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
@@ -224,6 +223,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -298,11 +298,13 @@ ads2.rne.com
 adsclick.cc
 adsemo.com
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
+advariant.com
 adverdirect.com
 adyieldoptimizer.com
 adz2you.com
@@ -434,7 +436,6 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
-bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
@@ -496,6 +497,9 @@ chickensstation.com
 chinaslauras.com
 chippedaugur.com
 chirpyreemergespotty.com
+chl7rysobc3ol6xla.com
+chlod-qui.com
+chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -610,6 +614,7 @@ eechuraubsaud.com
 eemsouftas.com
 eezegrip.net
 effateuncrisp.com
+efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -669,8 +674,6 @@ feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
-fhsmtrnsfnt.com
-fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
@@ -728,7 +731,6 @@ gk79a2oup.com
 gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
-gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -808,6 +810,8 @@ hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
+hoocaumakopaibu.com
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -906,6 +910,7 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
+kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
@@ -955,6 +960,7 @@ leetmenllew.com
 legitfizzed.shop
 lephaush.net
 lessemujust.live
+lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 ligeia-gip.com
@@ -1009,7 +1015,6 @@ manompas.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
-maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
@@ -1025,7 +1030,6 @@ mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
-missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
@@ -1061,7 +1065,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
 news-muheji.com
@@ -1393,6 +1396,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1471,6 +1475,7 @@ tenthsfrumpy.com
 terrapsps.com
 tetrylscullion.com
 thads.cc
+that-muscle.com
 thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
@@ -1674,6 +1679,7 @@ yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
+ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonmewon.com
 yonomastara.com
@@ -1717,8 +1723,6 @@ kitbit.net
 q2melbourne.com
 shopnetic.com
 showbiz.owndata.network
-tracking.news360.store
-tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
