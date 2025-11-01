@@ -50,7 +50,6 @@ aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
-aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
@@ -63,7 +62,6 @@ a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 domnovrek.com
-n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
 gadskis.com
@@ -72,6 +70,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 mobytrks.com
+go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -147,6 +146,7 @@ ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -232,12 +232,15 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
+2471april2024.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
+2ucz3ymr1.com
+3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
 4hfchest5kdnfnut.com
 52dvzo62i.com
@@ -452,7 +455,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -471,7 +473,6 @@ carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
-cdn-server.top
 ceegrevoaphail.com
 celoortdwt.com
 chaikempakr.com
@@ -522,7 +523,6 @@ cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
-craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
@@ -560,6 +560,7 @@ demo123.info
 demtaudeeg.com
 depechearshine.com
 dependpinch.com
+desertsfraze.com
 despicablereporthusband.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
@@ -590,7 +591,6 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebvvvnjesjgx.com
@@ -633,6 +633,7 @@ exomonyf.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -696,6 +697,7 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
+fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -716,7 +718,6 @@ gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
@@ -984,6 +985,7 @@ luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
+lysim-lre.com
 lzexnxwjsmof.com
 madeupadoption.com
 madriyelowd.com
@@ -1007,6 +1009,7 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1193,9 +1196,7 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
-pieceredirect.com
 pienbitore.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1364,7 +1365,6 @@ seaboblit.com
 seeablywitness.com
 sendmepixel.com
 seo4india.com
-serconmp.com
 setypckq.com
 sghehllds.com
 shakytaste.com
@@ -1372,6 +1372,8 @@ shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
+shelfoka.com
+shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
@@ -1456,6 +1458,8 @@ techclicks.net
 tenthsfrumpy.com
 terrapsps.com
 tetrylscullion.com
+thads.cc
+that-muscle.com
 thedevband.com
 theedreemteedro.com
 thhwzyuktk.com
@@ -1585,7 +1589,6 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
-webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -1684,7 +1687,6 @@ zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
-zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
@@ -1694,7 +1696,6 @@ zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.pixels.ai
 analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
