@@ -35,6 +35,7 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
 api.sociaplus.com
+hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
@@ -44,6 +45,7 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+static.cbsileads.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -83,10 +85,15 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
+c.netund.com
+netund.com
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -100,6 +107,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -120,6 +128,7 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -215,6 +224,7 @@ aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
+clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -263,12 +273,15 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
+aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
 adaftegloomto.com
+adbrn.com
+adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -282,6 +295,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horsehero.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -292,7 +306,6 @@ adserver.quizdingo.com
 adsk2.co
 adsmogo.org
 adspace.ro
-adsrveys.com
 adtology.com
 adverdirect.com
 adyieldoptimizer.com
@@ -462,7 +475,6 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -503,7 +515,6 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
-clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -636,6 +647,7 @@ escortlarbul.com
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
+exogripper.com
 exomonyf.com
 expertnifg.com
 expressgutterlevers.com
@@ -712,6 +724,7 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -729,6 +742,7 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -763,6 +777,7 @@ gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
+gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -771,6 +786,7 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harib-eir.info
+hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
@@ -798,7 +814,6 @@ hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
-hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
@@ -814,6 +829,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -833,6 +849,7 @@ ikengoti.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
+imarketservices.com
 immensehoney.com
 immerseweariness.com
 impractical-award.com
@@ -1000,6 +1017,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
@@ -1081,6 +1099,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -1172,6 +1191,7 @@ ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
+padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1341,7 +1361,6 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
-rosolicdalapon.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
@@ -1422,7 +1441,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1493,7 +1511,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1520,15 +1537,16 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
-uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
+untidyquestion.com
 untrendenam.com
 unusuallypilgrim.com
+unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -1703,6 +1721,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.pixels.ai
 analytics.shivamsinghis.me
 cankaowang.com
@@ -1710,6 +1729,7 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
+richmetrics.com
 shopnetic.com
 showbiz.owndata.network
 tracking.news360.store
