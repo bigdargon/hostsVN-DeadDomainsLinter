@@ -26,7 +26,6 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
-native.propellerclick.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -37,6 +36,7 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
+beacon.statful.com
 static.cbsileads.com
 aj1549.online
 aj1754.online
@@ -58,6 +58,7 @@ domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
 fadskiz.com
+gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -149,8 +150,6 @@ taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 statsperformdev.com
@@ -159,6 +158,7 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -223,7 +223,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2437march2024.com
 2439march2024.com
 2447march2024.com
-2451march2024.com
 2471april2024.com
 2473april2024.com
 2510june2024.com
@@ -257,14 +256,11 @@ ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
 adaftegloomto.com
-adbrn.com
-adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
 adreclaim.com
-adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
@@ -286,8 +282,6 @@ adspace.ro
 adsrveys.com
 adtology.com
 adverdirect.com
-adyieldoptimizer.com
-adz2you.com
 afearprevoid.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
@@ -356,6 +350,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -366,6 +361,7 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
+avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -562,7 +558,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -678,7 +673,6 @@ frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
-fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 futsonseeke.net
@@ -802,6 +796,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -1032,7 +1027,6 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
-myntelligence.com
 naishoochoh.com
 nangalupeose.com
 nastedsuglu.com
@@ -1070,7 +1064,6 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
-oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
@@ -1216,6 +1209,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pq8ithtdw.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
@@ -1341,6 +1335,7 @@ ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1442,6 +1437,7 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -1496,6 +1492,7 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
+tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -1552,6 +1549,7 @@ vikawjobtar.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vivvuvkra.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -1600,6 +1598,7 @@ wibtntmvox.com
 widespace.com
 wimswuppoxan.com
 window.nixnet.cz
+windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
@@ -1626,6 +1625,7 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
+xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
@@ -1689,6 +1689,7 @@ zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
