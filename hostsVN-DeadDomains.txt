@@ -7,14 +7,12 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
-v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -54,8 +52,6 @@ aj2503.online
 ajxx91.online
 pmddby.com
 s.pmddby.com
-brand.ad
-a.brand.ad
 www.brand.ad
 domnovrek.com
 n.domnovrek.com
@@ -73,8 +69,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -97,9 +91,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-adsterra.org
-delivery.adsterra.org
-www.adsterra.org
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -139,6 +130,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -152,11 +144,6 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
-d.pssy.xyz
-pssy.xyz
-s.pssy.xyz
-www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -207,9 +194,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 vnadssb.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -245,7 +230,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -279,7 +263,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsclick.cc
 adsemo.com
 adserver.quizdingo.com
@@ -431,13 +414,11 @@ blueswordksh.com
 bmaahwahpofp.com
 bo2ffe45ss4gie.com
 bonertraffic14.pro
-bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
-bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -446,14 +427,12 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-bzyfzusiqohk.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -475,7 +454,6 @@ caugrithoowhu.net
 cavbildi.com
 ceegrevoaphail.com
 celoortdwt.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -695,7 +673,6 @@ fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -724,7 +701,6 @@ gkbhrj49a.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -779,7 +755,6 @@ hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
-hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -820,7 +795,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -896,12 +870,10 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jwuoxhjuq.com
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
@@ -962,7 +934,6 @@ leetmenllew.com
 legitfizzed.shop
 lephaush.net
 lessemujust.live
-lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1006,7 +977,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1017,9 +987,9 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
+mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
@@ -1063,7 +1033,6 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
-nagoverpayreimburse.com
 naishoochoh.com
 nangalupeose.com
 nastedsuglu.com
@@ -1107,7 +1076,6 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obnoljac.com
 obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1156,7 +1124,6 @@ opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
-oqnjfotketk.com
 oranegfodnd.com
 orb92.com
 orbsclawand.com
@@ -1171,7 +1138,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1192,7 +1158,6 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
-ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozvvmicixrh.com
@@ -1215,7 +1180,6 @@ pencilcongress.com
 perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-pgjt26tsm.com
 phaibeertou.com
 phaubsunsi.com
 phinsebsou.com
@@ -1227,7 +1191,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1235,7 +1198,6 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pkhhyool.com
 planesknob.com
-plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1256,13 +1218,11 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pq8ithtdw.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1296,7 +1256,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
-qahntenkyf.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1331,7 +1290,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1357,8 +1315,6 @@ resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
-revoketypes.com
-rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1388,9 +1344,7 @@ rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
-ruwoxglzab.com
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1409,7 +1363,6 @@ seeablywitness.com
 sendmepixel.com
 seo4india.com
 serconmp.com
-sermonoccupied.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1467,7 +1420,6 @@ starkuno.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
-stichaur.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1477,7 +1429,6 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
-suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1531,12 +1482,10 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 tookoupanoafig.com
-tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
-tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1607,12 +1556,10 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewyentreat.guru
-viiadr.com
 vikawjobtar.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vivvuvkra.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -1682,11 +1629,9 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
-wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.xumamropnox.com
 wywtpkeai.com
@@ -1765,6 +1710,7 @@ go.ad1data.com
 kitbit.net
 q2melbourne.com
 shopnetic.com
+suriflowers.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
