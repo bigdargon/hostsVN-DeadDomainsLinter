@@ -82,7 +82,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -203,7 +202,6 @@ vnadssb.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
-log.tinnhac.com
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -274,10 +272,12 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
 adsrveys.com
+adtology.com
 adverdirect.com
 adyieldoptimizer.com
 adz2you.com
@@ -304,7 +304,6 @@ ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
-ak.oneegrou.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -321,7 +320,6 @@ amusingsnow.pro
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
-anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -529,6 +527,7 @@ cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
+dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
@@ -638,7 +637,6 @@ faukeeshie.com
 fauphauvuzeey.net
 fd5orie8e.com
 fdqrfiwkaeds.com
-febadu.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -827,7 +825,6 @@ impractical-award.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
-instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1133,7 +1130,6 @@ oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
-orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
@@ -1151,6 +1147,7 @@ outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
 owlqahovgog.com
@@ -1342,6 +1339,7 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
+rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
@@ -1495,7 +1493,6 @@ traovrjwu.com
 trendcounter.com
 trololopush2023push.com
 troubledcontradiction.com
-trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
@@ -1515,6 +1512,7 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -1543,6 +1541,7 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
+uzxkuwalnjp.com
 vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
@@ -1564,6 +1563,8 @@ virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
+voakulophy.com
+voglgmlelzhlzo.com
 voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
@@ -1594,6 +1595,7 @@ webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
+weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
@@ -1612,6 +1614,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
@@ -1656,6 +1659,7 @@ xwdoxgilvdbj.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
+yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
@@ -1680,8 +1684,6 @@ ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
-yyselrqpyu.com
-yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
