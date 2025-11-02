@@ -2,17 +2,18 @@ googleads-cn.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
+v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -36,7 +37,6 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
@@ -52,6 +52,8 @@ aj2503.online
 ajxx91.online
 pmddby.com
 s.pmddby.com
+brand.ad
+a.brand.ad
 www.brand.ad
 domnovrek.com
 n.domnovrek.com
@@ -125,7 +127,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -144,6 +145,7 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
+u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -194,6 +196,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 vnadssb.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -263,11 +266,13 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsclick.cc
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -414,6 +419,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bo2ffe45ss4gie.com
 bonertraffic14.pro
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
@@ -427,6 +433,7 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
+burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
 bustlemiszone.com
@@ -856,7 +863,6 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -888,7 +894,6 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
-kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -1019,7 +1024,6 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
-mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 mrycibqutoz.com
@@ -1084,7 +1088,6 @@ odfohvwi.com
 odfsmijima.com
 oewabox.at
 offgalvantulaom.com
-offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1138,6 +1141,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othabqmag.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1205,8 +1209,6 @@ pmagumovfma.com
 pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
-poggdgdwutcmbx.com
-pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1429,6 +1431,7 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
+suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -1486,6 +1489,7 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1645,7 +1649,6 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
-xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -1710,7 +1713,6 @@ go.ad1data.com
 kitbit.net
 q2melbourne.com
 shopnetic.com
-suriflowers.com
 tracking.news360.store
 usergrid.com
 worldgravity.com
