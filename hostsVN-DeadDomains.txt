@@ -46,12 +46,12 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
 pmddby.com
 s.pmddby.com
-brand.ad
 a.brand.ad
 www.brand.ad
 domnovrek.com
@@ -96,11 +96,13 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -184,7 +186,6 @@ wataads.com
 ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
-ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -194,7 +195,6 @@ imgcdnbet.com
 vnadssb.com
 analytics.amedigital.vn
 analytics.gotama.link
-log.baobackan.com.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -251,6 +251,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.horsehero.com
 ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
@@ -324,6 +325,7 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
+asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -335,6 +337,7 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
+aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -405,7 +408,6 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
-brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -489,7 +491,6 @@ convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
-cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
@@ -616,6 +617,7 @@ faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
+faukeeshie.com
 fauphauvuzeey.net
 fd5orie8e.com
 fdqrfiwkaeds.com
@@ -704,7 +706,6 @@ grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
-grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
@@ -754,6 +755,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
@@ -870,6 +872,7 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
+kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
@@ -1257,7 +1260,6 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
-qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
@@ -1535,7 +1537,6 @@ velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewyentreat.guru
-vikawjobtar.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
@@ -1670,7 +1671,6 @@ zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
-zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
