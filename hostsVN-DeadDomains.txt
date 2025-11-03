@@ -26,7 +26,6 @@ adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
-torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
@@ -55,19 +54,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -131,8 +117,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -145,6 +129,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
+p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
@@ -244,7 +229,6 @@ abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
-achieverknee.com
 aclickads.com
 acpolxakcl.com
 aczridptoo.com
@@ -448,6 +432,7 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
+capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -479,7 +464,6 @@ cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -489,7 +473,6 @@ coastdetectiveoptical.com
 coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
-commodityshortlysurviving.com
 compatriotelephant.com
 conary-invered.com
 conformfavoredgauging.com
@@ -527,6 +510,7 @@ dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
+daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
@@ -653,7 +637,6 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
-fnbauniukvi.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -905,7 +888,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1035,7 +1017,6 @@ nastedsuglu.com
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1045,6 +1026,7 @@ news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1111,7 +1093,6 @@ ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
-opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1332,6 +1313,7 @@ rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
+rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1351,6 +1333,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
+seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
@@ -1480,7 +1463,6 @@ tranquilside.com
 traovrjwu.com
 trendcounter.com
 trololopush2023push.com
-troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
