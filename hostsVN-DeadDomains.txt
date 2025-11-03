@@ -10,6 +10,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
@@ -68,6 +69,7 @@ a.brand.ad
 www.brand.ad
 domnovrek.com
 n.domnovrek.com
+st-n.domnovrek.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -196,8 +198,6 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
-aj3007.bid
-aj3017.bid
 aj101.xyz
 ohchat.net
 app.ohchat.net
@@ -347,6 +347,7 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
+anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -359,7 +360,6 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
-artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -637,6 +637,7 @@ eryondistain.com
 escortlarbul.com
 ewpucbact.com
 exclusivebrass.com
+exobafrgdf.com
 exogripper.com
 exomonyf.com
 expertnifg.com
@@ -718,7 +719,6 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
-geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
@@ -1123,7 +1123,6 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
-oltnukjafo.com
 olxxugltoku.com
 ombwzonwupu.com
 omlbaftroofj.com
@@ -1161,7 +1160,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1249,7 +1247,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
