@@ -1,9 +1,5 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
-px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
@@ -38,6 +34,7 @@ yasni.adtrackers.net
 zoover.adtrackers.net
 advergine.com
 go.advergine.com
+spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
@@ -76,6 +73,7 @@ rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
+xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
@@ -293,7 +291,6 @@ adverdirect.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -527,6 +524,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -618,6 +616,7 @@ enoratraffic.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
+epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -727,6 +726,7 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
+gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
@@ -735,6 +735,7 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
+grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -827,7 +828,6 @@ idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
-illegal-respond.pro
 imageshh.com
 imarketservices.com
 immensehoney.com
@@ -885,7 +885,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -960,6 +959,7 @@ litaudrootsa.net
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
+llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -1002,6 +1002,7 @@ manompas.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
+maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
@@ -1055,7 +1056,6 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netcommunities.com
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1070,7 +1070,6 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
-nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1463,7 +1462,6 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
-techclicks.net
 tenthsfrumpy.com
 terrapsps.com
 tetrylscullion.com
