@@ -41,16 +41,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -198,6 +188,8 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
+aj3007.bid
+aj3017.bid
 aj101.xyz
 ohchat.net
 app.ohchat.net
@@ -207,7 +199,6 @@ mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
@@ -270,7 +261,6 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 aczridptoo.com
-ad-miner.com
 ad-spb.ru
 ad.kissasian.es
 adaftegloomto.com
@@ -354,12 +344,12 @@ aphycolourses.info
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
-areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
+artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -498,6 +488,7 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
+chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
@@ -711,7 +702,6 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
-gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
@@ -719,6 +709,7 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
+geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
@@ -1106,7 +1097,6 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 oewabox.at
-offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1123,6 +1113,7 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
+oltnukjafo.com
 olxxugltoku.com
 ombwzonwupu.com
 omlbaftroofj.com
@@ -1199,7 +1190,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
-peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
@@ -1247,6 +1237,7 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
+profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
@@ -1340,7 +1331,6 @@ ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
-rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1439,7 +1429,6 @@ starkuno.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
-stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
