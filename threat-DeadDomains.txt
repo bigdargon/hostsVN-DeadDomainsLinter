@@ -665,6 +665,7 @@ freefire-membershipvn-garena.com
 freefire-vietnam.com
 freefirehopqua.com
 freefiremembership-garenas.com
+freefiremembershipq.com
 freefiremenbershipvn.com
 freefirenhanqua.com
 freefirervmembership.com
@@ -1594,6 +1595,7 @@ napthekvtm.com
 napthelienquan.com.vn
 napthelienquan2021.com
 napthelienquan360.club
+napthelq.com
 napthelqmb.com
 naptheminiworld.xyz
 naptheplaytogether-vn.com
@@ -2095,9 +2097,7 @@ shopdangym.net
 shopdat09.com
 shopdegamingff.com
 shopdieulinh.com
-shopdoitien.com
 shopdotkich.net
-shopee-deal.com
 shopee-lienkettaikhoan.vn
 shopee-mobilebanking.vn
 shopee-tuyendung.com
@@ -2114,11 +2114,8 @@ shopee.org.in
 shopee.quatang-sinhnhat.vn
 shopee.sootoou.com
 shopee.vn-cskh.online
-shopee.vn-lk.shop
-shopee004.vip
 shopee103.vip
 shopee122.vip
-shopee123.vip
 shopee130.vip
 shopee132.vip
 shopee14.com
@@ -2362,6 +2359,7 @@ shoptruykich.vn
 shoptuankhaff.com
 shoptule.com
 shoptungtayto.com
+shopvinhxinhtrai.com
 shopvualq.com
 shopvuhau.com
 shopwaoteam.com
@@ -3149,6 +3147,8 @@ vcb-vaytaichinh.com
 vcbbankdigi.com
 vcbdigeibonk.com
 vcbdigliebrnk.com
+vcbdigtylbrnk.com
+vcbdlgrcbonk.com
 vcbigdank.com
 vebo123.vip
 vebo1s.co
@@ -3273,7 +3273,6 @@ vietflix.vn
 vietgav.cc
 vietgcv.cc
 vietgov.cc
-vietgov0.cc
 vietgov22.cc
 vietgov3.cc
 vietgov4.cc
@@ -3713,6 +3712,7 @@ webinfo-ebank.com
 weblenhangiaivn.com
 webnapgame.com
 webnapthegame.com
+webshopping.cc
 webtrianthang12.com
 webtrianvangthang12.com
 webtuanlocvang123.com
