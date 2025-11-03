@@ -1,5 +1,4 @@
 a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -9,6 +8,8 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -173,8 +174,6 @@ ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
-ads.livetv705.me
-ads.livetv708.me
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -387,7 +386,6 @@ batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
-bcaojrbriciw.com
 beabsolom.com
 becketsbesogne.top
 bedaoibe.com
@@ -575,6 +573,7 @@ drubbersestia.com
 ducksintroduce.com
 ductathing.com
 duimspruer.life
+dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -775,6 +774,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
@@ -852,7 +852,6 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
-jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -983,6 +982,7 @@ lysim-lre.com
 lzexnxwjsmof.com
 madeupadoption.com
 madriyelowd.com
+madserve.org
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1334,7 +1334,6 @@ rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rosolicdalapon.com
-rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
@@ -1513,6 +1512,7 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
+uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
