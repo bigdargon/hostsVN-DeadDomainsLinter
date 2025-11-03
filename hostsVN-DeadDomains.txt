@@ -1,6 +1,7 @@
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
+ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
@@ -8,6 +9,7 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
@@ -40,6 +42,8 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2412.online
+aj2498.online
 aj2503.online
 ajxx91.online
 pmddby.com
@@ -150,6 +154,7 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
+pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -181,7 +186,6 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 ohchat.net
-app.ohchat.net
 www.ohchat.net
 matomo.hicity.vn
 mautic.hicity.vn
@@ -356,6 +360,7 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
+avvavcazs.com
 avvxcexk.com
 awaps.net
 awwagqorqpty.com
@@ -476,6 +481,7 @@ chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
+cihwactuqkco.com
 cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
@@ -506,7 +512,6 @@ cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
-crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -550,7 +555,6 @@ dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
-digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1140,6 +1144,7 @@ outabsola.com
 outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
+oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
@@ -1171,7 +1176,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
-peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
@@ -1540,6 +1544,9 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
+vbqtfejdtqkjuf.com
+vdyunvfrfale.com
+ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -1689,6 +1696,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
