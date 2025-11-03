@@ -30,11 +30,6 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -150,7 +145,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
-p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
@@ -186,6 +180,7 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 ohchat.net
+app.ohchat.net
 www.ohchat.net
 matomo.hicity.vn
 mautic.hicity.vn
@@ -453,7 +448,6 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
-capsizehatlessprude.com
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -512,6 +506,7 @@ cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
+crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -532,7 +527,6 @@ dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
 dataretinalsubtotal.com
-daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
@@ -555,6 +549,7 @@ dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
+digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1050,7 +1045,6 @@ news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
-nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1176,6 +1170,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
@@ -1337,7 +1332,6 @@ rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
-rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1357,8 +1351,6 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 seeablywitness.com
-sendmepixel.com
-seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
