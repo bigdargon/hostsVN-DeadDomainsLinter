@@ -38,7 +38,6 @@ yasni.adtrackers.net
 zoover.adtrackers.net
 advergine.com
 go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
@@ -77,7 +76,6 @@ rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
-xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
@@ -199,6 +197,7 @@ mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+app2.jeoway.net
 jana1.jeoway.net
 ff.imacdn.com
 sponsor.imacdn.com
@@ -261,6 +260,7 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 aczridptoo.com
+ad-miner.com
 ad-spb.ru
 ad.kissasian.es
 adaftegloomto.com
@@ -281,7 +281,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsclick.cc
 adsemo.com
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
@@ -344,6 +343,7 @@ aphycolourses.info
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
+areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -618,7 +618,6 @@ enoratraffic.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
-epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -702,6 +701,7 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
+gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
@@ -727,7 +727,6 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gouthoat.com
-gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
@@ -736,7 +735,6 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
-grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -962,7 +960,6 @@ litaudrootsa.net
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
-llzv.lzazqroyklozv.top
 lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -1005,7 +1002,6 @@ manompas.com
 marriagegray.com
 matecatenae.com
 mauzanapsusi.net
-maximumcash.com
 mazbfiladr.com
 medaaebqmbpx.com
 mediamind.com
@@ -1097,6 +1093,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 oewabox.at
+offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1190,6 +1187,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 perryvolleyball.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
 phaubsunsi.com
@@ -1331,6 +1329,7 @@ ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
+rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1429,6 +1428,7 @@ starkuno.com
 static-ads.akamaized.net
 steinfqwe6782beck.com
 sterdatsisto.net
+stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
