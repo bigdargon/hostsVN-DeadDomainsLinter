@@ -1,4 +1,4 @@
-# Version: 2510211113
+# Version: 2511041013
 ||0-bbs.com^
 ||0.xxx-cdn.com^
 ||0000114.com^
@@ -10068,9 +10068,6 @@
 ||go.theporndude.tv^
 ||go18x.com^
 ||go960.com^
-||go99.games^
-||go99code.store^
-||go99code.vip^
 ||gobdsmporn.com^
 ||gockhuat.net^
 ||gocquaytay.com^
