@@ -1,3 +1,4 @@
+blueserving.com
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
@@ -8,7 +9,6 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -30,6 +30,14 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
+native.propellerclick.com
 beacon.statful.com
 aj1549.online
 aj1754.online
@@ -59,7 +67,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
@@ -165,6 +172,9 @@ aj101.xyz
 ohchat.net
 app.ohchat.net
 www.ohchat.net
+cdn.hbplatform.com
+hbplatform.com
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 customers.fptad.com
@@ -193,6 +203,7 @@ analytics.amedigital.vn
 analytics.gotama.link
 track.winigroup.vn
 tracking.hapiwork.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -239,16 +250,17 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adreclaim.com
+adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
+ads.horyzon-media.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
 adsclick.cc
 adsemo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adsmogo.org
@@ -267,6 +279,10 @@ agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
+aiftoupsains.net
+aiglaidra.com
+aigretsulaups.net
+ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -276,7 +292,6 @@ ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
-ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
@@ -392,7 +407,6 @@ bo2ffe45ss4gie.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-bouncecardiganculture.com
 br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
@@ -462,6 +476,7 @@ cjbmanagement.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
+cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -485,8 +500,6 @@ cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
-crepedzincite.top
-critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -576,6 +589,7 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enoratraffic.com
+enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
@@ -587,6 +601,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -697,6 +712,7 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
+grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -740,7 +756,6 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -820,7 +835,6 @@ izleskulked.shop
 j0x87i0og.com
 jagnoans.com
 jagzrmdyw.com
-jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
@@ -828,6 +842,7 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
+jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
@@ -1013,7 +1028,6 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
-nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1080,9 +1094,7 @@ omniscientspark.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
-oneegrou.net
 onetouch12.com
-onmarshtompor.com
 onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
@@ -1174,6 +1186,7 @@ pmagumovfma.com
 pocrowpush.com
 podsklzegshmnd.com
 pofohensoahee.net
+poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1282,6 +1295,7 @@ resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
+revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1616,6 +1630,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1638,11 +1653,11 @@ yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
+yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
-yu225.com
 yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
@@ -1672,6 +1687,5 @@ kitbit.net
 q2melbourne.com
 shopnetic.com
 tracking.news360.store
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
