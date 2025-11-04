@@ -27,6 +27,7 @@ crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
+yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
@@ -35,6 +36,7 @@ serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
+zoover.adnetasia.com
 native.propellerclick.com
 beacon.statful.com
 aj1549.online
@@ -85,7 +87,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -136,7 +137,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
@@ -191,7 +191,6 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
-duamilsyr.com
 imgcdnbet.com
 vnadssb.com
 analytics.amedigital.vn
@@ -284,7 +283,6 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
-ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
@@ -404,7 +402,6 @@ boozoomamesha.net
 bouncecardiganculture.com
 br3azil334nutsz.com
 brattieseries.com
-brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -828,7 +825,6 @@ itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
-ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
@@ -933,6 +929,7 @@ likedstring.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
+littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1002,10 +999,10 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
+moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
-mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
@@ -1582,7 +1579,6 @@ whuwoawain.com
 wibtntmvox.com
 widespace.com
 wimswuppoxan.com
-windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
