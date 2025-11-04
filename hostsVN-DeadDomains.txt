@@ -1,5 +1,4 @@
 a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -81,6 +80,7 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -169,8 +169,6 @@ aj101.xyz
 ohchat.net
 app.ohchat.net
 www.ohchat.net
-cdn.hbplatform.com
-hbplatform.com
 matomo.hicity.vn
 mautic.hicity.vn
 customers.fptad.com
@@ -254,7 +252,6 @@ ads.expat-blog.biz
 ads.horyzon-media.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
-adsclick.cc
 adsemo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -437,9 +434,7 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
-carryingfarmerlumber.com
 carscannon.com
-cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
 ceegrevoaphail.com
@@ -652,6 +647,7 @@ foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
+forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
@@ -745,7 +741,6 @@ harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
-hayforkminbu.com
 hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
@@ -770,7 +765,6 @@ hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
-hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
@@ -1077,6 +1071,7 @@ ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
+ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
@@ -1240,9 +1235,11 @@ pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
+qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
+qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlfqkjluvz.com
@@ -1323,7 +1320,6 @@ ruckingefs.com
 rukktiswibi.com
 ruwertur.com
 rwukupjis.com
-sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
@@ -1335,8 +1331,6 @@ scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-sdkfjxjertertry.com
-seaboblit.com
 seeablywitness.com
 seo4india.com
 serconmp.com
