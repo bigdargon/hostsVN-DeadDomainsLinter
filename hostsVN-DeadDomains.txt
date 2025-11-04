@@ -51,9 +51,6 @@ aj2503.online
 ajxx91.online
 pmddby.com
 s.pmddby.com
-brand.ad
-a.brand.ad
-www.brand.ad
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -70,11 +67,11 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -83,9 +80,12 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
+ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -120,7 +120,6 @@ ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
 supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
@@ -281,6 +280,7 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
+aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -655,6 +655,7 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 frenchequal.pro
@@ -811,6 +812,7 @@ immerseweariness.com
 impractical-award.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -861,7 +863,9 @@ jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
+junkieswudge.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
@@ -1235,7 +1239,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 pzshzhja.com
-qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
 qavhivvcex.com
@@ -1450,7 +1453,6 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
-tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -1503,6 +1505,7 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upset-project.com
 uqkcroib.com
 urechar.com
 urgerrebasis.com
@@ -1649,6 +1652,7 @@ ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
+ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
