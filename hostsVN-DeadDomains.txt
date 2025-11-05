@@ -36,7 +36,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
-beacon.statful.com
 aj1549.online
 aj1754.online
 aj1863.online
@@ -155,6 +154,7 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
+u.agentanalytics.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -442,6 +442,7 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -541,7 +542,6 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
@@ -630,7 +630,6 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
-expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -715,6 +714,10 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
+gk79a2oup.com
+gkbhrj49a.com
+glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
@@ -822,6 +825,7 @@ hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
+ichachoakiglop.com
 ichdpdbpv.com
 iconcardinal.com
 idregie.com
@@ -970,6 +974,8 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
+loopassume.com
+lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
@@ -984,6 +990,7 @@ lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
+lumpbackstage.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1085,7 +1092,6 @@ oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
-oavowuftili.com
 oaxntxan.com
 obradjgifja.com
 ocixbjnnmabufn.com
@@ -1246,6 +1252,8 @@ ptawehex.net
 ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
+ptukasti.com
+ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
