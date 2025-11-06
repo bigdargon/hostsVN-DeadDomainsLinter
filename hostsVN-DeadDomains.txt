@@ -1,5 +1,4 @@
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -44,6 +43,7 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
+www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
@@ -71,9 +71,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -174,6 +172,7 @@ ohchat.net
 app.ohchat.net
 www.ohchat.net
 matomo.hicity.vn
+mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -274,6 +273,7 @@ adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
+advariant.com
 adverdirect.com
 adxpose.com
 adyieldoptimizer.com
@@ -515,6 +515,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -656,7 +657,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -847,7 +847,6 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -891,7 +890,6 @@ jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
-jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
@@ -959,7 +957,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-litaudrootsa.net
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -1009,6 +1006,7 @@ matecatenae.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1521,7 +1519,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
@@ -1589,6 +1586,7 @@ vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
+vvliookawgs.com
 vyfrxuytzn.com
 w454n74qw.com
 wagenerfevers.com
