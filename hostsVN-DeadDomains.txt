@@ -1,4 +1,5 @@
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
@@ -71,7 +72,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-engine.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -273,13 +273,11 @@ adsmogo.org
 adspace.ro
 adsrveys.com
 adtology.com
-advariant.com
 adverdirect.com
 adxpose.com
 adyieldoptimizer.com
 adz2you.com
 afearprevoid.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agapios-gla.com
@@ -794,7 +792,6 @@ hkilops.com
 hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
-hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
@@ -847,6 +844,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
+itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -890,6 +888,7 @@ jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
+jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
@@ -957,6 +956,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+litaudrootsa.net
 littlecdn.com
 lkhbcpwpyecs.com
 llryoelwpse.com
@@ -1119,7 +1119,6 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
 onmawmojth.com
@@ -1327,7 +1326,6 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 rhkyufodw8ochdr3ogsite.com
-ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1519,6 +1517,7 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
+ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
@@ -1591,7 +1590,6 @@ vyfrxuytzn.com
 w454n74qw.com
 wagenerfevers.com
 wagersinging.com
-waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
