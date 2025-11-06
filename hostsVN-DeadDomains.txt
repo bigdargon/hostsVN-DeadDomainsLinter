@@ -44,7 +44,6 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
-www.marketolive.com
 pmddby.com
 s.pmddby.com
 domnovrek.com
@@ -68,14 +67,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -183,7 +174,6 @@ ohchat.net
 app.ohchat.net
 www.ohchat.net
 matomo.hicity.vn
-mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -196,6 +186,7 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
@@ -278,7 +269,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -525,7 +515,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -667,6 +656,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -702,6 +692,7 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
+fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -716,6 +707,7 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
 glaignicmo.com
@@ -856,6 +848,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
@@ -930,6 +923,7 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1015,7 +1009,6 @@ matecatenae.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
-medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1104,6 +1097,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 oewabox.at
+offgalvantulaom.com
 offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1508,6 +1502,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tranquilside.com
+traovrjwu.com
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -1594,7 +1589,6 @@ vudachisouxouk.net
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 w454n74qw.com
 wagenerfevers.com
@@ -1723,6 +1717,7 @@ cankaowang.com
 dolohen.com
 go.ad1data.com
 kitbit.net
+q2melbourne.com
 shopnetic.com
 tracking.news360.store
 worldgravity.com
