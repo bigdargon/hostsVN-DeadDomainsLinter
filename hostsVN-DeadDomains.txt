@@ -130,7 +130,6 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -139,6 +138,7 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 mat.cryptox-ads.io
@@ -288,10 +288,10 @@ agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
+aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -314,7 +314,6 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
-amusingsnow.pro
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -336,6 +335,7 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
+asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
@@ -657,13 +657,9 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
-fkabzoarsoz.com
-fkwnnfwhvjmubrl.com
-flagmantensity.com
 floitcarites.com
 fnbauniukvi.com
 foliumumu.com
@@ -753,6 +749,7 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
@@ -832,7 +829,6 @@ imarketservices.com
 immerseweariness.com
 impractical-award.com
 ingotedbooze.com
-innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -915,7 +911,6 @@ klkchits.com
 klsdee.com
 klumn.com
 knlqdtcbi.com
-knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
@@ -1255,8 +1250,6 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
-ptuxapow.com
-ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1438,7 +1431,6 @@ starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 steinfqwe6782beck.com
-sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1716,7 +1708,6 @@ zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
-zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zmedia.com
