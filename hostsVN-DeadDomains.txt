@@ -1,3 +1,16 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -18,6 +31,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 native.propellerclick.com
+beacon.statful.com
 static.cbsileads.com
 aj1015.online
 aj1549.online
@@ -30,8 +44,17 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
+whm.asianmedia.com
 pmddby.com
 s.pmddby.com
+brand.ad
+a.brand.ad
+www.brand.ad
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -48,6 +71,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -91,6 +116,12 @@ xml.adservercheck.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+cdn.switchadhub.com
+delivery.g.switchadhub.com
+delivery.swid.switchadhub.com
+delivery.switchadhub.com
+switchadhub.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -181,15 +212,16 @@ ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
-bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+serving-ad.tv24.vn
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
+log.tinnhac.com
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -227,12 +259,14 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
+ad1.emediate.dk
 adaftegloomto.com
 adkchtmtns.com
 adlite.net
@@ -241,14 +275,15 @@ adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
+ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads2.net-communities.co.uk
 adsemo.com
 adsk2.co
+adskape.ru
 adsmogo.org
 adspace.ro
 adsrveys.com
@@ -344,7 +379,6 @@ awwagqorqpty.com
 axkwmsivme.com
 azqohjahfo.com
 b-1st.com
-b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -438,6 +472,7 @@ cavbildi.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
+cenerncyjl.com
 chaikempakr.com
 charming-people.com
 checkbookdisgusting.com
@@ -529,6 +564,7 @@ demo123.info
 demtaudeeg.com
 depechearshine.com
 dependpinch.com
+desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
@@ -563,6 +599,7 @@ e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
+ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 eechuraubsaud.com
@@ -584,6 +621,7 @@ encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
+enduresopens.com
 enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
@@ -689,6 +727,7 @@ gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
+gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -828,7 +867,6 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
-ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -855,7 +893,6 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -881,6 +918,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
+kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 keefoocauby.com
@@ -1065,6 +1103,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
@@ -1172,7 +1211,6 @@ perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
-phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1225,6 +1263,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1301,6 +1340,7 @@ receptiveink.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
+regardviolas.shop
 regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
@@ -1356,6 +1396,7 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
+secondquaver.com
 seeablywitness.com
 sendmepixel.com
 seo4india.com
@@ -1415,6 +1456,7 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1486,12 +1528,14 @@ total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
+tracker-pm2.spilleren.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
+trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
@@ -1500,6 +1544,7 @@ tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
+typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
@@ -1672,6 +1717,7 @@ yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
+yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
