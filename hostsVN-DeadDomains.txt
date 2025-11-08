@@ -21,7 +21,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
@@ -186,8 +185,6 @@ aj101.xyz
 ohchat.net
 app.ohchat.net
 www.ohchat.net
-cdn.hbplatform.com
-hbplatform.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -212,6 +209,7 @@ ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
+bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
@@ -291,7 +289,6 @@ adtology.com
 adverdirect.com
 adxpose.com
 adyieldoptimizer.com
-adz2you.com
 afearprevoid.com
 afqsrygmu.com
 africaewgrhdtb.com
@@ -361,7 +358,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
-aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -379,6 +375,7 @@ awwagqorqpty.com
 axkwmsivme.com
 azqohjahfo.com
 b-1st.com
+b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -388,7 +385,6 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 bannermarkt.nl
-barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -641,9 +637,6 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expertnifg.com
-expressgutterlevers.com
-exterminateantique.com
-exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -893,6 +886,7 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jozowgldpc.com
+jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -900,7 +894,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -953,7 +946,6 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
-lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
@@ -1104,7 +1096,6 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
-oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
@@ -1211,6 +1202,7 @@ perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
+phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1226,7 +1218,6 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
-pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1245,7 +1236,6 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
-portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1296,7 +1286,6 @@ qakzfubfozaj.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
@@ -1633,14 +1622,12 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
-wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
-whoarguwaghu.net
 whoockeg.top
 whoonseepoutche.net
 whoostoo.net
@@ -1756,6 +1743,7 @@ go.ad1data.com
 kitbit.net
 q2melbourne.com
 shopnetic.com
+suriflowers.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
