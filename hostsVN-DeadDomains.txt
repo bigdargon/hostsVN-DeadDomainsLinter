@@ -32,7 +32,6 @@ yasni.adtrackers.net
 zoover.adtrackers.net
 native.propellerclick.com
 beacon.statful.com
-static.cbsileads.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -114,7 +113,6 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 b91vip.com
-image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
@@ -220,10 +218,11 @@ serving-ad.tv24.vn
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
-log.tinnhac.com
 nct1.logging.nextsmarty.com
+track.winigroup.vn
 tracking.hapiwork.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
+0redird.com
 1frozenthrone1.com
 1slms.com
 228tuchuang.com
@@ -401,7 +400,6 @@ bedrapiona.com
 bee7.com
 beefoaloode.net
 bemachopor.com
-bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
@@ -463,7 +461,6 @@ capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carryingfarmerlumber.com
-carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
@@ -784,6 +781,7 @@ hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
+hbwncbwgyvgt.com
 hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
@@ -808,7 +806,6 @@ hmazuxhikosj.com
 hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
-hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
 houptaupaiho.net
@@ -997,7 +994,6 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1160,7 +1156,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
-orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1180,6 +1175,7 @@ ovrcuncunxp.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
+owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
@@ -1196,9 +1192,7 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-pasheeheghie.net
 patro-sfe.com
-pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
 pefsustazvzgop.com
@@ -1356,6 +1350,7 @@ rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
+rleibfzdny.com
 rlfvuficzdmsx.com
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
@@ -1396,7 +1391,6 @@ secondquaver.com
 seeablywitness.com
 sendmepixel.com
 seo4india.com
-serconmp.com
 setypckq.com
 sf960.com
 sghehllds.com
