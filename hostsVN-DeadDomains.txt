@@ -11,7 +11,6 @@ v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
-image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -28,6 +27,7 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
 aj1015.online
 aj1549.online
@@ -113,6 +113,7 @@ switchadhub.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
@@ -154,6 +155,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -202,6 +204,7 @@ ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
+api2.boclinkads.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -210,7 +213,6 @@ duamilsyr.com
 imgcdnbet.com
 serving-ad.tv24.vn
 upfile16.mediaphim.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 nct1.logging.nextsmarty.com
@@ -250,7 +252,6 @@ abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
-achieverknee.com
 acpolxakcl.com
 aczridptoo.com
 ad-miner.com
@@ -376,11 +377,13 @@ b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
+backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
 bannermarkt.nl
+barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -402,7 +405,6 @@ benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
-beshucklean.com
 bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
@@ -688,6 +690,7 @@ fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
+frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -715,7 +718,6 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -925,7 +927,6 @@ klsdee.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
-kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
@@ -1013,6 +1014,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 mauzanapsusi.net
 maximumcash.com
@@ -1240,7 +1242,6 @@ poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
-potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
@@ -1376,7 +1377,6 @@ rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
-ruwertur.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -1437,7 +1437,6 @@ soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
-songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spanuletubings.com
@@ -1516,7 +1515,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
-toathoule.com
 tooglidanog.net
 tookoupanoafig.com
 total-fee.com
