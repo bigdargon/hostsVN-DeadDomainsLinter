@@ -3,6 +3,7 @@ a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
+px.cdn.creative.medialytics.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -32,7 +33,6 @@ beacon.statful.com
 aj1015.online
 aj1549.online
 aj1754.online
-aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -202,6 +202,7 @@ aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
+clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -302,6 +303,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -486,7 +488,6 @@ cilsammwcblcv.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-clicktag.de
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -576,7 +577,6 @@ drubbersestia.com
 dsp.io
 ducksintroduce.com
 ductathing.com
-duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
@@ -707,7 +707,6 @@ gaizoopi.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
-gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
@@ -1067,6 +1066,8 @@ nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
+neevouglu.com
+nefdcnmvbt.com
 nervoustolsel.com
 news-central.org
 news-muheji.com
@@ -1139,6 +1140,7 @@ ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
+opsivesh.net
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1164,7 +1166,6 @@ outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
-ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
 owlqahovgog.com
@@ -1226,6 +1227,7 @@ podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
+pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1411,8 +1413,6 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
-sjvaovqhn.com
-skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1500,7 +1500,6 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -1625,7 +1624,6 @@ weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
-wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
