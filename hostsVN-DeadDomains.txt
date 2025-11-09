@@ -52,6 +52,7 @@ st-n.domnovrek.com
 fadskiz.com
 gadskis.com
 madsecz.com
+advinci.net
 count.advinci.net
 www.advinci.net
 mobytrks.com
@@ -67,7 +68,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
@@ -187,6 +187,7 @@ mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+app2.jeoway.net
 jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -259,6 +260,7 @@ ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
 adkchtmtns.com
+adlink.de
 adlite.net
 admedia.network
 adreclaim.com
@@ -454,6 +456,7 @@ camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
+canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
@@ -494,6 +497,7 @@ cjbmanagement.com
 clickadin.com
 clkofafcbk.com
 clonesmesopic.com
+cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
@@ -601,7 +605,6 @@ efyglwbapki.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
@@ -661,6 +664,7 @@ ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
+fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
@@ -698,7 +702,6 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
-fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -715,7 +718,6 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
-gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -749,7 +751,6 @@ groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
-gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
@@ -783,7 +784,6 @@ hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
-heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heratheacle.com
@@ -830,7 +830,6 @@ ichachoakiglop.com
 ichdpdbpv.com
 iconcardinal.com
 idregie.com
-idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
@@ -882,6 +881,7 @@ jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
+jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1028,10 +1028,12 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
+mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
+mikayla.phd
 mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1326,7 +1328,6 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
-realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 redmas.com
@@ -1395,7 +1396,6 @@ seeablywitness.com
 seo4india.com
 serconmp.com
 setypckq.com
-sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
@@ -1526,6 +1526,7 @@ tranquilside.com
 traovrjwu.com
 trendcounter.com
 trololopush2023push.com
+troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
@@ -1603,7 +1604,6 @@ voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
-vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
@@ -1655,6 +1655,7 @@ woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
+wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -1698,7 +1699,6 @@ yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
-yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
@@ -1739,7 +1739,6 @@ zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 dolohen.com
