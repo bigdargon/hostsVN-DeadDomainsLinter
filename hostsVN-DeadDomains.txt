@@ -73,6 +73,7 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
+service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -138,8 +139,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -207,6 +206,7 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
+imgcdnbet.com
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
@@ -302,7 +302,6 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
-ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
@@ -555,6 +554,7 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -713,6 +713,7 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -723,6 +724,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.onclasrv.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -829,6 +831,7 @@ iconcardinal.com
 idregie.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
+iiqbttkbfvgyo.com
 ikengoti.com
 illegal-respond.pro
 imageshh.com
@@ -1134,7 +1137,6 @@ omniscientspark.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
-onetouch12.com
 onmawmojth.com
 ontosocietyweary.com
 opcharizardon.com
@@ -1245,7 +1247,6 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
-presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1447,7 +1448,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1506,6 +1506,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -1539,6 +1540,7 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
+ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
