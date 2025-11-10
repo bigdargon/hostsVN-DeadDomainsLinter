@@ -4,6 +4,10 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -23,6 +27,13 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -46,6 +57,7 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -67,10 +79,21 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -162,6 +185,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv760.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -181,6 +205,8 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
+mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -200,6 +226,7 @@ ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
+banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -210,8 +237,11 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 analytics.amedigital.vn
 analytics.gotama.link
+log.baobackan.com.vn
+log.dubaotiente.com
 track.winigroup.vn
 tracking.hapiwork.vn
+vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -265,6 +295,7 @@ ads.clickdigisol.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.horsehero.com
 ads.horyzon-media.com
 ads.websiteservices.com
 adsemo.com
@@ -316,6 +347,7 @@ amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
+anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -377,7 +409,6 @@ bajavdafwafp.com
 bande2az.com
 bannermarkt.nl
 barscreative1.com
-basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -434,6 +465,7 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -546,6 +578,7 @@ defusefinishedsleep.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
 demo123.info
 demtaudeeg.com
 depechearshine.com
@@ -568,6 +601,7 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -589,6 +623,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+eclickz.com
 eechuraubsaud.com
 eemsouftas.com
 eezegrip.net
@@ -622,6 +657,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -634,6 +670,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -776,7 +813,6 @@ hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
-hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1070,6 +1106,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+netcommunities.com
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1162,7 +1199,7 @@ ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
-outabsola.com
+ourithauphexaus.com
 outflednailbin.com
 outtimburrtor.com
 outwoodeuropa.com
@@ -1390,6 +1427,7 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
+seeablywitness.com
 seo4india.com
 serconmp.com
 setypckq.com
@@ -1453,6 +1491,7 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
+stooghopsee.net
 stoorgel.com
 stormyachiever.com
 streakattempt.com
@@ -1519,6 +1558,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
@@ -1590,6 +1630,7 @@ vertadnet.com
 vfuqivac.com
 viewyentreat.guru
 vikawjobtar.com
+viliaff.com
 vipicmou.net
 virleth.com
 vmcxdaynkhnekp.com
@@ -1697,6 +1738,7 @@ yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
+yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
@@ -1743,6 +1785,7 @@ dolohen.com
 go.ad1data.com
 kitbit.net
 q2melbourne.com
+richmetrics.com
 shopnetic.com
 tracking.news360.store
 tracking.scenepass.com
