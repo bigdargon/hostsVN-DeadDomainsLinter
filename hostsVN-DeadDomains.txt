@@ -14,7 +14,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
@@ -216,6 +215,7 @@ cdn.wataads.com
 wataads.com
 ads.inetgroup.vn
 adserver.trangphim.net
+aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
@@ -286,6 +286,7 @@ ads.foxnetworks.com
 ads.horsehero.com
 ads.horyzon-media.com
 ads.websiteservices.com
+adsemo.com
 adserver.quizdingo.com
 adsk2.co
 adsmogo.org
@@ -316,6 +317,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
@@ -419,6 +421,7 @@ beshucklean.com
 bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
+bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
@@ -534,7 +537,6 @@ critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
-culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
@@ -545,7 +547,6 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 daintydragged.com
 daintypurpleunfocused.com
-dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapperminecraft.online
@@ -717,7 +718,6 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -743,7 +743,6 @@ glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
@@ -754,6 +753,7 @@ gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
+greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -1176,6 +1176,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1421,7 +1422,6 @@ sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
-shoacmoackaugnu.com
 shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -1573,6 +1573,7 @@ unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
+upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
@@ -1658,6 +1659,7 @@ wibtntmvox.com
 widespace.com
 wimswuppoxan.com
 windsattributeron.com
+wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
@@ -1712,6 +1714,7 @@ yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
+yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
