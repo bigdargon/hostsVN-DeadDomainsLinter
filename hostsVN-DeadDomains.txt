@@ -103,6 +103,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
 ytvpaid.winadx.com
 anymad.com
 cdn.anymad.com
@@ -225,7 +226,6 @@ ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -300,7 +300,6 @@ adsemo.com
 adserver.quizdingo.com
 adsk2.co
 adsmogo.org
-adspace.ro
 adsrveys.com
 adtology.com
 adverdirect.com
@@ -386,6 +385,7 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
+avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -394,8 +394,10 @@ awhauchoa.net
 awwagqorqpty.com
 axkwmsivme.com
 azqohjahfo.com
+b-1st.com
 b5e75c56.com
 baaomenaltho.com
+babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -436,6 +438,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -542,6 +545,7 @@ cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
+critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -573,8 +577,6 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
-demo123.info
-demtaudeeg.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -774,7 +776,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -822,7 +823,6 @@ highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
-hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
@@ -897,6 +897,7 @@ jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
+jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -1039,6 +1040,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 mauzanapsusi.net
 maximumcash.com
@@ -1131,7 +1133,6 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1228,6 +1229,7 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 phaibeertou.com
@@ -1355,7 +1357,6 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
-realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 redmas.com
@@ -1383,7 +1384,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1642,7 +1642,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugpakba.com
-vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
@@ -1781,7 +1780,6 @@ q2melbourne.com
 richmetrics.com
 shopnetic.com
 tracking.news360.store
-tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
