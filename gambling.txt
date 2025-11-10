@@ -1,4 +1,4 @@
-# Version: 2511051559
+# Version: 2511101027
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -41988,6 +41988,7 @@
 ||899yh.com^
 ||89banca.com^
 ||89bet088.com^
+||89bet301vn.pages.dev^
 ||89bet69.top^
 ||89bet999.bet^
 ||89bet999.fun^
@@ -42277,6 +42278,7 @@
 ||8q9a.com^
 ||8q9fn.com^
 ||8q9z.com^
+||8qbet26.com^
 ||8r3k.com^
 ||8r6p.com^
 ||8s00c5cuic.com^
@@ -49354,6 +49356,7 @@
 ||api.shbetvv.com^
 ||api.siufh93yjkcgorp493rhvni.com^
 ||api.skjfjio4ut94mgbik9039kfff.com^
+||api.sky88.club^
 ||api.sky88.com^
 ||api.sky88.fun^
 ||api.slotmania333.com^
@@ -55726,6 +55729,7 @@
 ||choihitclub.fun^
 ||choiiwin79.fun^
 ||choiiwin79.vip^
+||choikclub.vip^
 ||choilathang.com^
 ||choilawin.net^
 ||choingay11b.mobi^
@@ -56503,6 +56507,7 @@
 ||cwin15.com^
 ||cwin222.com^
 ||cwin2233.com^
+||cwin301vn.pages.dev^
 ||cwin333.com^
 ||cwin3377.com^
 ||cwin444.com^
@@ -57238,6 +57243,7 @@
 ||dda988.com^
 ||ddbjogo.com^
 ||ddd-84.com^
+||ddd117.x8877.com^
 ||ddd54.cn^
 ||ddd5604.com^
 ||ddd6732.com^
@@ -57706,6 +57712,7 @@
 ||dk8888.vip^
 ||dkbet8casino.com^
 ||dkbjtamtam2025.com^
+||dkh3g8.com^
 ||dkhh8w.vip^
 ||dkqdw7.com^
 ||dkqf9ehbln8jmst.com^
@@ -58035,6 +58042,7 @@
 ||dwwpya.com^
 ||dwyryj.com^
 ||dx2021.com^
+||dx4414.8qbet26.com^
 ||dxohawbk.com^
 ||dxvip88.com^
 ||dxy8888.com^
@@ -61249,6 +61257,7 @@
 ||gabungsbo.com^
 ||gachoic1.com^
 ||gachoiviet.com^
+||gacom.zenandfe.com^
 ||gacorinaja.com^
 ||gadogado198.com^
 ||gaengsom.com^
@@ -63286,6 +63295,7 @@
 ||hello88.com^
 ||hello8807.com^
 ||hello88234.com^
+||hello88301vn.pages.dev^
 ||hello8851.com^
 ||hello88d.com^
 ||hello88vina.art^
@@ -64673,6 +64683,7 @@
 ||huaxilian.com^
 ||hub666.com^
 ||hubeic7.com^
+||hubet301vn.pages.dev^
 ||hubet66.run^
 ||hubet6600.com^
 ||hubet6644.com^
@@ -65202,6 +65213,7 @@
 ||hzxhdsy.com^
 ||i-go88.ninja^
 ||i.b52.club^
+||i.go88.ca^
 ||i.go88.com^
 ||i.go88.org^
 ||i.go88.top^
@@ -70425,6 +70437,7 @@
 ||king789.top1go.info^
 ||king88.mobi^
 ||king8802.com^
+||king88301vn.pages.dev^
 ||king888999.com^
 ||king88t2.com^
 ||king91.net^
@@ -73245,6 +73258,7 @@
 ||m.xiubenho.vip^
 ||m.ybbbet.asia^
 ||m.zappikaiju.online^
+||m.zenandfe.com^
 ||m0101.xyz^
 ||m0309.com^
 ||m0330.com^
@@ -80691,6 +80705,7 @@
 ||sknxx.com^
 ||skx29xs.ms^
 ||sky88.bet^
+||sky88.club^
 ||sky88.com^
 ||sky88.fun^
 ||sky88.in^
@@ -80840,6 +80855,7 @@
 ||sock.red88.us^
 ||sock.red88.vin^
 ||sock.red88.vip^
+||sock.sky88.club^
 ||sock.sky88.com^
 ||sock.sky88.fun^
 ||sock.sky88.in^
@@ -88013,6 +88029,7 @@
 ||win456999.com^
 ||win4rich.com^
 ||win55.group^
+||win55301vn.pages.dev^
 ||win555.com^
 ||win55x.com^
 ||win58.asia^
@@ -88503,6 +88520,7 @@
 ||wp.red88.vin^
 ||wp.red88.vip^
 ||wp.rikvip.tv^
+||wp.sky88.club^
 ||wp.sky88.com^
 ||wp.sky88.fun^
 ||wp.topbet.net^
@@ -88916,6 +88934,7 @@
 ||www.8dayclub.com^
 ||www.8k00000.com^
 ||www.8live.fun^
+||www.8qbet26.com^
 ||www.8vnd.club^
 ||www.8vnd6.com^
 ||www.8vnd7.com^
@@ -89880,6 +89899,7 @@
 ||www.sin88s.com^
 ||www.sinbet.vip^
 ||www.skx29xs.ms^
+||www.sky88.club^
 ||www.sky88.win^
 ||www.skytnbdyinu.link^
 ||www.slotocash.im^
@@ -90085,6 +90105,7 @@
 ||www.winvn23.co^
 ||www.wplay.co^
 ||www.ww88club.com^
+||www.x8877.com^
 ||www.xc0323.vip^
 ||www.xc0523.vip^
 ||www.xc1078.vip^
@@ -90923,8 +90944,18 @@
 ||x8788.com^
 ||x87888.com^
 ||x8794.com^
+||x88.com^
+||x88301vn.pages.dev^
 ||x8858.com^
+||x8868.vip^
+||x8877.com^
+||x88com.pages.dev^
+||x88d.pages.dev^
 ||x88uu.com^
+||x88vip0.pages.dev^
+||x88vip1.pages.dev^
+||x88vip2.com^
+||x88vn301.pages.dev^
 ||x8931.com^
 ||x8943.com^
 ||x89888.com^
@@ -94161,6 +94192,7 @@
 ||zedbet.com^
 ||zeedzard632.vip^
 ||zemc.vip^
+||zenandfe.com^
 ||zeqgepx.xyz^
 ||zet88.com^
 ||zetbet.com^
