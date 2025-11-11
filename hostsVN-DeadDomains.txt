@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -68,7 +66,6 @@ partners.marketolive.com
 www.marketolive.com
 pmddby.com
 s.pmddby.com
-cdn.bidfilter.com
 domnovrek.com
 n.domnovrek.com
 st-n.domnovrek.com
@@ -310,7 +307,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -581,7 +577,6 @@ daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
-decoycreation.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
@@ -669,7 +664,6 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -772,7 +766,9 @@ gmobhnktqiur.com
 go.mobisla.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gossishauphy.com
+gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gralossortoob.net
@@ -1246,7 +1242,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
-phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1671,13 +1666,13 @@ wbehwesvucqmvx.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
+wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
-whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
@@ -1746,7 +1741,6 @@ yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
-ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonmewon.com
 yonomastara.com
