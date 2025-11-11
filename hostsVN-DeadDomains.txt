@@ -180,6 +180,7 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 ads.livetv623.me
 ads.livetv626.me
@@ -293,11 +294,9 @@ ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
 adaftegloomto.com
-adbrn.com
 adkchtmtns.com
 adlite.net
 admedia.network
-adreclaim.com
 ads-to.click
 ads.aspalliance.com
 ads.cdn2-img.net
@@ -309,10 +308,10 @@ ads.horsehero.com
 ads.horyzon-media.com
 ads.websiteservices.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -347,7 +346,6 @@ ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
 akximhhcunr.com
-akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
@@ -604,7 +602,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
-diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -1112,7 +1109,6 @@ nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 naturalistsbumpmystic.com
-nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1145,7 +1141,6 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 oackoubs.com
 oahaurti.com
-oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1318,7 +1313,6 @@ ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
-publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
@@ -1754,7 +1748,6 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
-yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yonmewon.com
