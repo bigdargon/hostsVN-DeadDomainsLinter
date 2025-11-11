@@ -31,6 +31,7 @@ serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
+zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -54,6 +55,7 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -111,6 +113,7 @@ www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -130,6 +133,7 @@ anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
+stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
@@ -244,13 +248,11 @@ wataads.com
 ads.inetgroup.vn
 adserver.trangphim.net
 ak9.6895588.com
-bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-serving-ad.tv24.vn
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -271,7 +273,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
-2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
@@ -293,7 +294,6 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
-aclickads.com
 acpolxakcl.com
 aczridptoo.com
 ad-miner.com
@@ -321,7 +321,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -491,7 +490,6 @@ burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
-buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
@@ -539,7 +537,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
-civadsoo.net
 cjbmanagement.com
 clicktracks.com
 clkofafcbk.com
@@ -744,7 +741,6 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
-frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -790,7 +786,6 @@ goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
-gpmznplrczobob.com
 gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
@@ -847,7 +842,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hhuajhdidxut.com
 highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -921,6 +915,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
@@ -967,7 +962,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
-kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 keefoocauby.com
@@ -1390,7 +1384,6 @@ rcyorjkze.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
-recedechatprotestant.com
 receptiveink.com
 redmas.com
 reecegrita.com
@@ -1534,6 +1527,7 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
@@ -1618,6 +1612,7 @@ unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -1643,6 +1638,7 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
+vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
@@ -1738,6 +1734,7 @@ xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
+xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
