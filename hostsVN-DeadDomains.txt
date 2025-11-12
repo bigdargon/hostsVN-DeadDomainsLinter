@@ -21,6 +21,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
@@ -39,7 +40,6 @@ zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
@@ -79,7 +79,6 @@ fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
-count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
@@ -167,7 +166,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
@@ -300,7 +298,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads2.net-communities.co.uk
 adsemo.com
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
@@ -438,7 +435,6 @@ beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
-besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -745,7 +741,6 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -839,6 +834,7 @@ hhuajhdidxut.com
 highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1026,6 +1022,7 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1059,6 +1056,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1108,6 +1106,7 @@ naishoochoh.com
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
+naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
@@ -1131,7 +1130,6 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1279,6 +1277,7 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1332,6 +1331,7 @@ pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1409,6 +1409,7 @@ robitoaceeb.net
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rosolicdalapon.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1667,6 +1668,7 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 wateryvan.com
+wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
@@ -1791,6 +1793,7 @@ analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
 go.ad1data.com
+img.leadzutw.com
 play.leadzutw.com
 q2melbourne.com
 shopnetic.com
