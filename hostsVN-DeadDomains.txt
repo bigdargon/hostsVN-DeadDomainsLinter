@@ -37,16 +37,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 aj1015.online
 aj1549.online
@@ -100,6 +90,7 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -329,6 +320,7 @@ allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -436,6 +428,7 @@ blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bo2ffe45ss4gie.com
+bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
@@ -630,6 +623,7 @@ elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
+encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
@@ -652,7 +646,6 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
-expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -740,7 +733,6 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 gk79a2oup.com
-gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -839,6 +831,7 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 hubarejnbsobic.com
+huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
@@ -924,7 +917,6 @@ jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
-kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
@@ -940,7 +932,6 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klsdee.com
@@ -1103,6 +1094,7 @@ nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
+noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1165,7 +1157,6 @@ opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
 opxaxqxaqo.com
-oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
@@ -1214,7 +1205,6 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-particularundoubtedly.com
 pasheeheghie.net
 patro-sfe.com
 pauewr4cw2xs5q.com
@@ -1324,7 +1314,6 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
-qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1508,6 +1497,7 @@ tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -1561,6 +1551,7 @@ tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
+typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
@@ -1702,7 +1693,6 @@ xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
-xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
@@ -1763,7 +1753,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnoeqzsuz.com
 zwnsuuaoqfab.com
-analytics.hostyour.video
 analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
