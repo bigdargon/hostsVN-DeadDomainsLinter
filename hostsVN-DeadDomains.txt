@@ -4,6 +4,13 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -31,7 +38,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 native.propellerclick.com
-advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -122,6 +128,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -234,11 +241,13 @@ wataads.com
 ads.inetgroup.vn
 adserver.trangphim.net
 ak9.6895588.com
+bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
@@ -286,10 +295,13 @@ ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
+ad1.emediate.dk
 adaftegloomto.com
+adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
+adqkkoajnan.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
@@ -297,15 +309,14 @@ ads.cdn2-img.net
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.horsehero.com
 ads.horyzon-media.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adshostnet.com
+adserver1.mindshare.de
+adserver2.mindshare.de
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -411,6 +422,8 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.mindshare.de
+bannerconnect.net
 bannermarkt.nl
 barscreative1.com
 basebanner.com
@@ -434,6 +447,7 @@ benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
+beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
@@ -523,6 +537,7 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
+clickadin.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -577,6 +592,7 @@ daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
+deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
@@ -765,6 +781,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.padstm.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -838,6 +855,7 @@ hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
+hmepalobfn.com
 hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
@@ -851,6 +869,7 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
+htyqiwzunj.com
 hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
@@ -1013,7 +1032,6 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
-locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
@@ -1143,6 +1161,7 @@ obradjgifja.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
+odfohvwi.com
 odfsmijima.com
 oewabox.at
 offgalvantulaom.com
@@ -1224,6 +1243,7 @@ ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
+padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1393,6 +1413,7 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmmjy.rrbzvmklrzwmk.top
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1450,6 +1471,7 @@ shoadroocoosso.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
+sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1486,6 +1508,7 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1720,7 +1743,6 @@ xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
-xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
@@ -1731,6 +1753,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1744,6 +1767,7 @@ yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
@@ -1783,8 +1807,9 @@ burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
+img.leadzutw.com
+play.leadzutw.com
 q2melbourne.com
-richmetrics.com
 shopnetic.com
 tracking.news360.store
 usergrid.com
