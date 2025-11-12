@@ -40,6 +40,7 @@ zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
+spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
@@ -79,6 +80,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 advinci.net
+count.advinci.net
 www.advinci.net
 mobytrks.com
 go.mobytrks.com
@@ -166,6 +168,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
@@ -652,7 +655,6 @@ enduresopens.com
 enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
-eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
@@ -704,7 +706,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -741,13 +742,13 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
+ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -823,7 +824,6 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
-heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -831,6 +831,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 highperformancedformats.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -847,7 +848,6 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hoowooze.net
-houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
@@ -1056,7 +1056,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1130,6 +1129,7 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1740,7 +1740,6 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
-xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
