@@ -82,7 +82,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-rtb-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -132,6 +131,7 @@ stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
+static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
@@ -156,6 +156,7 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -217,6 +218,8 @@ app2.jeoway.net
 jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -280,7 +283,6 @@ ad-miner.com
 ad-spb.ru
 ad.foxnetworks.com
 ad.kissasian.es
-ad1.emediate.dk
 adaftegloomto.com
 adcloud.net
 adkchtmtns.com
@@ -345,7 +347,6 @@ altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
-ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
 anahtars.com
@@ -371,7 +372,6 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
-asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
@@ -396,7 +396,6 @@ avvxcexk.com
 awaps.net
 awhauchoa.net
 awwagqorqpty.com
-axkwmsivme.com
 azqohjahfo.com
 b-1st.com
 b5e75c56.com
@@ -699,6 +698,7 @@ feenyrpxyps.com
 feevefouhe.net
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
+fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
@@ -836,7 +836,6 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
-hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
@@ -911,6 +910,7 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1036,6 +1036,7 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lutoorgourgi.com
+luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1298,6 +1299,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1544,6 +1546,7 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
+thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -1702,6 +1705,7 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
+wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
