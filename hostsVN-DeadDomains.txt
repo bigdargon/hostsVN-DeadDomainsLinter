@@ -153,6 +153,7 @@ ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -182,6 +183,7 @@ track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -308,9 +310,7 @@ aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
-aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -565,6 +565,7 @@ decisiveducks.com
 decoycreation.com
 deductionkeepingbabysitter.com
 deewansturacin.com
+defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -707,7 +708,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
@@ -731,6 +731,7 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -776,7 +777,6 @@ gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
-guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 guvnatar.com
@@ -795,6 +795,7 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harib-eir.info
+hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
@@ -1034,6 +1035,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1179,6 +1181,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
@@ -1197,8 +1200,6 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
-oxwlhazto.com
-ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1254,7 +1255,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1578,6 +1578,7 @@ unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -1733,7 +1734,6 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
