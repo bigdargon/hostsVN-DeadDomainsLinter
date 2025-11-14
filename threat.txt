@@ -1,4 +1,4 @@
-# Version: 2511101027
+# Version: 2511141031
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -346,6 +346,7 @@
 ||bocongthuong.org^
 ||bsanvietnam.online^
 ||bschuyenkhoamat.biz^
+||bsoabpxfs.njasu.de^
 ||buontien247.fun^
 ||businesseventskp.top^
 ||businessvideonews.com^

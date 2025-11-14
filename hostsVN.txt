@@ -1,4 +1,4 @@
-# Version: 2511101027
+# Version: 2511141031
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -13789,6 +13789,7 @@
 ||cdn.adt567.net^
 ||cdn.adt574.com^
 ||cdn.adt598.com^
+||cdn.banhq.com^
 ||cdn.concert.io^
 ||cdn.easyads28.mobi^
 ||cdn.exmarketplace.com^
@@ -14438,6 +14439,7 @@
 ||eehuzaih.com^
 ||eeksoabo.com^
 ||eemsouftas.com^
+||eetchauglair.net^
 ||eezegrip.net^
 ||effacedefend.com^
 ||effateuncrisp.com^
@@ -14916,6 +14918,7 @@
 ||gullyending.com^
 ||gunggo.com^
 ||guppymedia.com^
+||gusabfluchu.com^
 ||gutackaxgo.com^
 ||guvnatar.com^
 ||gvsnhzmjr.com^
@@ -14959,6 +14962,7 @@
 ||hbwncbwgyvgt.com^
 ||hcetcuwit.com^
 ||hcilralhi.com^
+||hcjfmbra.com^
 ||hdatssfpxrwbxs.com^
 ||healflowers.com^
 ||healthsmd.com^
@@ -19042,6 +19046,7 @@
 ||www.w3counter.com^
 ||www.youmi.net^
 ||x.disq.us^
+||xmirex.com^
 ||xstats.evoload.io^
 ||ylog.huya.com^
 ||ymtracking.com^
