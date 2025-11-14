@@ -116,7 +116,6 @@ delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -151,9 +150,6 @@ loader-cdn.azureedge.net
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -184,6 +180,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 ohchat.net
 app.ohchat.net
 www.ohchat.net
@@ -194,7 +191,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 mautic.serverhub.vn
-mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -287,7 +283,6 @@ ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
-ads.websiteservices.com
 ads2.net-communities.co.uk
 adsemo.com
 adsk2.co
@@ -558,7 +553,6 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
@@ -583,6 +577,7 @@ destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
+diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
@@ -637,9 +632,11 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
+enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -731,7 +728,6 @@ gaijiglo.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -742,7 +738,6 @@ gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkuocadgecsga.com
-glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
@@ -1039,7 +1034,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1106,7 +1100,6 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
-nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
@@ -1127,6 +1120,7 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oalselry.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
@@ -1212,6 +1206,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
+ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1229,7 +1224,6 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
-perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1294,7 +1288,6 @@ psipausaix.net
 psootchu.net
 ptawehex.net
 ptewarin.net
-ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
@@ -1330,7 +1323,6 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
-qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1590,8 +1582,8 @@ undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
-unstoutgolfs.com
 untidyquestion.com
+untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -1648,6 +1640,8 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
+wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -1773,7 +1767,6 @@ analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
 go.ad1data.com
-img.leadzutw.com
 play.leadzutw.com
 q2melbourne.com
 shopnetic.com
