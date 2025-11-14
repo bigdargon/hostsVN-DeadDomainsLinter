@@ -1,4 +1,3 @@
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -17,13 +16,6 @@ torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -87,7 +79,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -138,7 +129,6 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
-expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -218,14 +208,11 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 log.baobackan.com.vn
-log.tinnhac.com
-nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -279,16 +266,15 @@ adqkkoajnan.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
-ads.cdn2-img.net
 ads.expat-blog.biz
 ads.horyzon-media.com
 ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads2.net-communities.co.uk
 adsemo.com
 adsk2.co
 adsmogo.org
 adspace.ro
-adsrveys.com
 adverdirect.com
 adxvalue.com
 adyieldoptimizer.com
@@ -313,6 +299,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -479,8 +466,6 @@ cashewsforlife208.com
 caugrithoowhu.net
 cavbildi.com
 ccg90.com
-ceegrevoaphail.com
-celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -553,6 +538,7 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
+dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
@@ -664,6 +650,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -738,6 +725,7 @@ gfugafoz.com
 ginpithed.live
 gk79a2oup.com
 gkuocadgecsga.com
+glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
@@ -819,7 +807,6 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
-hnyhiytf.com
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -854,7 +841,6 @@ idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
-illegal-respond.pro
 imageshh.com
 imarketservices.com
 immerseweariness.com
@@ -1100,6 +1086,7 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
+nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
@@ -1120,7 +1107,6 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oalselry.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
@@ -1224,6 +1210,7 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1275,6 +1262,7 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
+pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1288,6 +1276,7 @@ psipausaix.net
 psootchu.net
 ptawehex.net
 ptewarin.net
+ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
@@ -1323,6 +1312,7 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
+qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1582,6 +1572,7 @@ undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
+unstoutgolfs.com
 untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
@@ -1659,7 +1650,6 @@ wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
-whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
@@ -1746,7 +1736,6 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yummiergangue.shop
-yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
@@ -1758,6 +1747,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zpefriam.com
 zuisinchills.shop
@@ -1767,7 +1757,6 @@ analytics.shivamsinghis.me
 cankaowang.com
 dolohen.com
 go.ad1data.com
-play.leadzutw.com
 q2melbourne.com
 shopnetic.com
 showbiz.owndata.network
