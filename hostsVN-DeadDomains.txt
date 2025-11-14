@@ -1,10 +1,3 @@
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -150,6 +143,7 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -204,7 +198,9 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+ads.inetgroup.vn
 adserver.trangphim.net
+aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
@@ -266,7 +262,6 @@ adcloud.net
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 ads-to.click
@@ -330,6 +325,7 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
+antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -339,6 +335,7 @@ apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -441,6 +438,7 @@ brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
+budvawshes.ru
 burgerbrush.com
 burgoastougregy.net
 buskerreshoes.website
@@ -455,7 +453,6 @@ cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -507,6 +504,7 @@ coawujobups.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
+compactbanner.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -551,6 +549,7 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 deductionkeepingbabysitter.com
+deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
@@ -563,6 +562,7 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -695,6 +695,7 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+freewebcounter.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
@@ -757,6 +758,7 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
+grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -996,6 +998,7 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lutoorgourgi.com
@@ -1128,6 +1131,7 @@ ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
+olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1141,6 +1145,7 @@ omzostzuswm.com
 oneandonlynetwork.com
 onetouch12.com
 onmawmojth.com
+ontosocietyweary.com
 opcharizardon.com
 opdhoxor.com
 opntwymri.com
@@ -1186,7 +1191,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
-ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1324,6 +1328,7 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+rapepush.net
 raphanysteers.com
 raunoaptotoaw.com
 razzedwhimsic.website
