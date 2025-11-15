@@ -100,6 +100,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+img.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -134,7 +135,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -149,6 +149,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
@@ -199,6 +200,7 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+ads.inetgroup.vn
 adserver.trangphim.net
 aff2.linksht.online
 ak9.6895588.com
@@ -384,7 +386,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -409,7 +410,6 @@ bestlampjoy.com
 bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
-bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
@@ -458,6 +458,7 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
+carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -520,7 +521,6 @@ cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
-crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -682,7 +682,6 @@ fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
 foliumumu.com
-foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
@@ -734,7 +733,6 @@ gmobhnktqiur.com
 go.mobisla.com
 gogglemessenger.com
 goodnotification.net
-goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -790,7 +788,6 @@ hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
-heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heratheacle.com
@@ -958,7 +955,6 @@ lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
 lecapush.net
-leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 lephaush.net
@@ -1376,6 +1372,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1404,6 +1401,7 @@ scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
+sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
@@ -1500,7 +1498,6 @@ tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
-tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -1614,7 +1611,6 @@ virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
-voakulophy.com
 voglgmlelzhlzo.com
 voosaivege.com
 vounaipu.net
