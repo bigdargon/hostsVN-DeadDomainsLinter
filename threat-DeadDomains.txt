@@ -345,6 +345,7 @@ com-bank.xyz
 com-us.shop
 com.vn-hc.info
 com.vn-iy.info
+com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
@@ -1232,15 +1233,14 @@ locmomo.com
 login-applecare.com
 login-icloud.com
 loginame.shop
-long-thanh.com
 lookctv-vn.com
-looklazada.com
 lotomomo.com
 lotte.cm66llks.top
 lotte333.com
 lotte3333.com
 lotte66.com
 lottefinance.vay10s.com
+lottefinance6.com
 lottefinancev.cc
 lottehanoi.com.vn
 lottevn333.com
@@ -1283,6 +1283,7 @@ maivang.xyz
 mallshopvn.vip
 mallslazada.com
 master-visa-nang-hang-ca-nhan-vib.com
+mastercard-quetthetindung247.com
 mavietnam.xyz
 mayanpuzzle.com
 mayxanhsg.com
@@ -1469,7 +1470,6 @@ muabannhanh.pro
 muabannickforumug.com
 muabanwin.co
 muacard.org
-muaclone979.tk
 muacodehay.com
 muahangcargo.com
 muahangnhanh.net
@@ -1480,7 +1480,6 @@ mualevang22.com
 mualienquan.org
 muanickgiare.com
 muanicklq.com
-muasamtiki24h.com
 muaso24h.store
 muathietke.com
 muatiengia.club
@@ -1569,7 +1568,6 @@ napkimcuongffx100.com
 napkimcuongfreefire.site
 napkimcuonglaufreefire-vn.tk
 napkimcuongtogether.com
-napkimcuongx.com
 napkimcuongx5.com
 napkimcuongx500.com
 naplienminhtocchien.com
@@ -1675,6 +1673,7 @@ nganhangsaigon.org
 nganhangsaison.org
 nganhangsaokevnn.com
 nganhangshopeevn.com
+nganhangsk.online
 nganhangso24-7.com
 nganhangso247.com
 nganhangso40.online
@@ -1984,7 +1983,6 @@ scb.com.vn-cn.xyz
 scb.com.vn-cr.life
 scb.com.vn-iz.info
 scb.com.vn-rb.icu
-scb.com.vn-rn.biz
 scb.com.vn-scl.life
 scb.com.vn-ub.info
 scb.com.vn-uz.info
@@ -2020,6 +2018,7 @@ service.tpbxnk.com
 servsvietnam.com
 sg.unixpop.xyz
 sg1.unixpop.xyz
+sgxcoin.net
 sh2tiki.com
 share-apple.com
 share.ttchanging.com
@@ -2167,6 +2166,7 @@ shopee33388.cc
 shopee39.vip
 shopee390.vip
 shopee52.com
+shopee5566.com
 shopee585.com
 shopee60.com
 shopee62.com
@@ -3479,6 +3479,7 @@ vn-nhanquatang.shop
 vn-nhanquatang2022.online
 vn-nng.top
 vn-online.shop
+vn-quatang.online
 vn-quatang2022.online
 vn-rb.icu
 vn-rn.biz
@@ -3768,7 +3769,6 @@ wviietcombank.com
 wvvietcombank.com
 wvwfacebook.com
 wvwiietcoombank.com
-www-fb.com
 www-icloudid.com
 www.333lotte.com
 www.33lotte.com
