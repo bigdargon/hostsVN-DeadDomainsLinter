@@ -118,6 +118,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -218,13 +219,13 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 app2.jeoway.net
+jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -232,8 +233,6 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ads.inetgroup.vn
 adserver.trangphim.net
-aff2.linksht.online
-ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -309,7 +308,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
-adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -359,9 +357,6 @@ amusingsnow.pro
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
-anmfweogja.com
-annxwustakf.com
-antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -482,7 +477,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -493,7 +487,6 @@ canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
-capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
@@ -539,6 +532,7 @@ coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
+coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -584,7 +578,6 @@ daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
-decoycreation.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
@@ -885,6 +878,7 @@ iiqbttkbfvgyo.com
 ikengoti.com
 ilbanner.com
 illegal-respond.pro
+imageshh.com
 imarketservices.com
 immerseweariness.com
 impractical-award.com
@@ -1100,6 +1094,7 @@ mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
 msincsayqmji.com
+msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
@@ -1135,6 +1130,7 @@ noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
+nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
@@ -1143,8 +1139,6 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
-nycvqozkkmzti.com
-nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1211,6 +1205,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1309,9 +1304,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
-pscbrveha.com
 psipausaix.net
 psootchu.net
 ptawehex.net
@@ -1381,12 +1374,12 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
+realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
-regardviolas.shop
 regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
@@ -1501,8 +1494,6 @@ spathalbarmie.com
 speakspurink.com
 specifiedbloballowance.com
 sprungencase.com
-spyokjoxdl.com
-sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
@@ -1768,6 +1759,7 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
+yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
