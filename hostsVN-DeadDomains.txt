@@ -4,6 +4,7 @@ a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
+px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -25,6 +26,7 @@ ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
+yasni.adtrackers.net
 zoover.adtrackers.net
 native.propellerclick.com
 advergine.com
@@ -119,7 +121,6 @@ anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
-stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
@@ -311,6 +312,7 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
+abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -345,7 +347,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adsk2.co
@@ -1247,6 +1248,7 @@ onmawmojth.com
 ontosocietyweary.com
 ootchoft.com
 opcharizardon.com
+opdhoxor.com
 opntwymri.com
 opsivesh.net
 optiontwentiethhart.com
@@ -1299,6 +1301,7 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
+pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1358,6 +1361,8 @@ powershatchet.com
 pphtrwrnsuyl.com
 praiseddisintegrate.com
 pramviable.com
+pranavafolksey.com
+praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
@@ -1543,7 +1548,6 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
-smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
@@ -1826,6 +1830,7 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
+yfetyg.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
