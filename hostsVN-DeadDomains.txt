@@ -35,7 +35,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
-hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
@@ -56,7 +55,9 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
 cpanel.asianmedia.com
+lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
@@ -268,7 +269,6 @@ ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
-crocopop.com
 duamilsyr.com
 imgcdnbet.com
 serving-ad.tv24.vn
@@ -316,7 +316,6 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
-acpolxakcl.com
 aczridptoo.com
 ad-miner.com
 ad-spb.ru
@@ -331,7 +330,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
-adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
@@ -348,6 +346,7 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
+adshostnet.com
 adsk2.co
 adsmogo.org
 adspace.ro
@@ -392,7 +391,6 @@ altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
-ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
 anahtars.com
@@ -424,7 +422,6 @@ ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
-atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -537,7 +534,6 @@ capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
-carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
@@ -602,7 +598,6 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -657,11 +652,12 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dollsdeclare.com
 dorkingvoust.com
+doruffletr.com
 dotranquilla.com
 drubbersestia.com
 dsp.io
-ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
@@ -809,6 +805,7 @@ gk79a2oup.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
+gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -867,7 +864,6 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
-hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1079,6 +1075,7 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -1283,7 +1280,6 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
@@ -1370,7 +1366,6 @@ pscbrveha.com
 psipausaix.net
 psootchu.net
 ptawehex.net
-ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
@@ -1620,7 +1615,6 @@ thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
-thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
@@ -1697,6 +1691,7 @@ uzxkuwalnjp.com
 vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
+valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
@@ -1813,6 +1808,7 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xwdoxgilvdbj.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -1829,6 +1825,7 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
+yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
@@ -1866,10 +1863,10 @@ dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 q2melbourne.com
+richmetrics.com
 shopnetic.com
 showbiz.owndata.network
 tracking.news360.store
 tracking.scenepass.com
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
