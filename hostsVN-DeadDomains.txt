@@ -234,7 +234,6 @@ rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
-static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
@@ -306,7 +305,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -531,7 +529,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -633,7 +630,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -816,7 +812,6 @@ brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-broadboundary.com
 brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
@@ -917,7 +912,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -947,7 +941,6 @@ decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
-defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -965,6 +958,8 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
+diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1076,6 +1071,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1083,7 +1079,6 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
-floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1478,6 +1473,7 @@ mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
+morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mrybahnw.com
@@ -1572,6 +1568,7 @@ olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
+omnatuor.com
 omniscientspark.com
 omzostzuswm.com
 oneandonlynetwork.com
@@ -1612,7 +1609,6 @@ ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
-outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -1893,6 +1889,7 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
+smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -2207,6 +2204,7 @@ yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
+ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
