@@ -1,9 +1,5 @@
 googleads-cn.com
 blueserving.com
-vserv.mobi
-admin.vserv.mobi
-c.vserv.mobi
-ads.vserv.mobi
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -131,18 +127,7 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-afe2.specificclick.net
-afe3.specificclick.net
-dlx.specificclick.net
-dp2.specificclick.net
-mpp2.specificclick.net
 rome.specificclick.net
-www.specificclick.net
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -150,9 +135,9 @@ prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
-services.scanscout.com
 static.cbsileads.com
 apilw.epom.com
+cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -313,6 +298,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -353,7 +339,6 @@ switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
-ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
@@ -400,6 +385,7 @@ users.api.jeeng.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
+connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -500,7 +486,6 @@ app2.jeoway.net
 jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -530,11 +515,9 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 serving-ad.tv24.vn
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -543,8 +526,6 @@ log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-statistics.tapchimypham.com.vn
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -577,6 +558,7 @@ abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
+abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
@@ -594,6 +576,7 @@ ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
+adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
@@ -619,16 +602,15 @@ ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.passion.com
 ads.seniorfriendfinder.com
-ads.soft32.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
-ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -778,6 +760,7 @@ bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
+bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
@@ -815,6 +798,7 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 btrll.com
+budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
@@ -829,6 +813,8 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 caiwheechous.com
+calculatingtoothbrush.com
+camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -917,7 +903,6 @@ cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
-cynes-gwf.com
 d.appsdt.com
 da-ads.com
 daintydragged.com
@@ -1233,7 +1218,6 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
-hxpohplms.com
 hydraulzonure.com
 iaglkpracviogn.com
 iasds01.com
@@ -1279,7 +1263,6 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
-jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -1290,7 +1273,6 @@ jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
-jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
@@ -1334,6 +1316,7 @@ kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
+kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klsdee.com
@@ -1480,7 +1463,6 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
-myntelligence.com
 myvisualiq.net
 naishoochoh.com
 namol.xyz
@@ -1574,7 +1556,6 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
-optimost.com
 optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1605,7 +1586,6 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
-ovlliiwtxgjlz.com
 ovrcuncunxp.com
 owjwhuaklf.com
 owlqahovgog.com
@@ -1666,6 +1646,7 @@ plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
+playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1685,7 +1666,6 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-pphtrwrnsuyl.com
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1755,6 +1735,7 @@ quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
 qumagee.com
+quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwerfdx.com
@@ -1766,6 +1747,11 @@ ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
+raunoaptotoaw.com
+razzedwhimsic.website
+rbkhpjfwtmirk.com
+rcyorjkze.com
+rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
@@ -1787,7 +1773,6 @@ retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
-rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1818,7 +1803,6 @@ rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
-ru-traffic.com
 ruckingefs.com
 rukktiswibi.com
 rundsp.com
@@ -1871,6 +1855,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
@@ -1989,7 +1974,6 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
-tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -2000,7 +1984,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
@@ -2026,6 +2009,7 @@ uphegroaglah.com
 upr90.com
 upset-project.com
 upspinarakor.com
+uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
@@ -2095,7 +2079,6 @@ wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
-wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
