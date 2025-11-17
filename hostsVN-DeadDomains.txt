@@ -30,7 +30,6 @@ ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
-platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
@@ -150,7 +149,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
-cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
@@ -197,6 +195,7 @@ st-n.domnovrek.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
+r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -506,7 +505,6 @@ aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
-bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
@@ -573,7 +571,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
-adaction.de
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -626,6 +623,7 @@ adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
+affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -786,7 +784,6 @@ boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
-brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -872,7 +869,6 @@ commodityshortlysurviving.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -948,7 +944,6 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
-dockwhip.com
 dollsdeclare.com
 domdex.com
 dorkingvoust.com
@@ -962,7 +957,6 @@ dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
-dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
@@ -971,6 +965,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 eclickz.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1326,7 +1321,6 @@ knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
-kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1550,7 +1544,6 @@ omniscientspark.com
 omzostzuswm.com
 oneandonlynetwork.com
 onetouch12.com
-onmawmojth.com
 ontosocietyweary.com
 ootchoft.com
 opcharizardon.com
@@ -1577,7 +1570,6 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
-ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1631,7 +1623,6 @@ phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -2098,8 +2089,9 @@ widespace.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
+wishedverde.com
+wissoony.net
 wistfulbalmy.com
-witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
