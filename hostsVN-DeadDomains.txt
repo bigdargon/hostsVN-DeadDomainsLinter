@@ -86,6 +86,9 @@ crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
+yahoo.adtrackers.net
+yasni.adtrackers.net
+zoover.adtrackers.net
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -268,6 +271,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -387,7 +391,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 api.jeeng.com
@@ -438,7 +441,6 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
-amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -491,6 +493,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
+beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 app2.jeoway.net
@@ -530,6 +533,7 @@ motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 vnadssb.com
+alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
@@ -540,7 +544,6 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
-track.saigon.pro
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -604,6 +607,7 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
@@ -622,15 +626,19 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
+adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
+adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
+adtology.com
 adtoma.com
 adverdirect.com
 advertica-cdn2.com
@@ -820,6 +828,7 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+bzyfzusiqohk.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -992,6 +1001,7 @@ eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
+egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -1022,7 +1032,6 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1230,7 +1239,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1275,7 +1283,6 @@ j0x87i0og.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
-jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
@@ -1303,10 +1310,12 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
+jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jwuoxhjuq.com
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
@@ -1615,6 +1624,8 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozkpkocib.com
+ozmbzowg.com
+ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1717,6 +1728,7 @@ pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
+pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1866,6 +1878,7 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
+sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -1899,13 +1912,13 @@ specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
-stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2006,7 +2019,6 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
-ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
@@ -2060,6 +2072,7 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vkeadqoff.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2067,6 +2080,7 @@ voakulophy.com
 voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
+vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
