@@ -30,6 +30,7 @@ ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
+platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
@@ -37,7 +38,6 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
-web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
@@ -149,6 +149,7 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
+cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
@@ -505,11 +506,11 @@ aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
+bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -728,7 +729,6 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
-banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -784,6 +784,7 @@ boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
+brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -869,6 +870,7 @@ commodityshortlysurviving.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
+conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -957,6 +959,7 @@ dulrihaungy.com
 dumkcuakrlka.com
 dv.pictunoctette.com
 dzienkudrow.com
+dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
@@ -1009,7 +1012,6 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
-expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1166,8 +1168,6 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
-heeceeceejo.com
-heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heratheacle.com
@@ -1321,6 +1321,7 @@ knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
+kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1570,6 +1571,7 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
+ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1623,6 +1625,7 @@ phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
+phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1797,7 +1800,6 @@ rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
-ruckingefs.com
 rukktiswibi.com
 rundsp.com
 ruwertur.com
@@ -1924,7 +1926,6 @@ tearerernest.com
 techclicks.net
 tentaculos.net
 terrapsps.com
-tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
@@ -2092,6 +2093,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
@@ -2140,7 +2142,6 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
-xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -2163,7 +2164,6 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
