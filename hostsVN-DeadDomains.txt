@@ -13,7 +13,6 @@ v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
-client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -81,6 +80,7 @@ hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
+serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
@@ -234,6 +234,7 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
@@ -309,6 +310,7 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -515,8 +517,8 @@ serving-ad.tv24.vn
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
-analytics.gotama.link
 analytics.tintuc.vn
+log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
@@ -606,6 +608,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -681,7 +684,6 @@ areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
-armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -1058,6 +1060,7 @@ floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
+forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1214,6 +1217,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1303,7 +1307,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
-kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 keefoocauby.com
@@ -1603,7 +1606,6 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1928,6 +1930,7 @@ techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
+thads.cc
 that-muscle.com
 thebrighttag.com
 thedevband.com
@@ -2026,7 +2029,6 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
-vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -2039,6 +2041,7 @@ vikawjobtar.com
 viliaff.com
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2158,6 +2161,7 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
