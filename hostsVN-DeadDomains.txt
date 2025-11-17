@@ -38,6 +38,7 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
+web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
@@ -80,7 +81,6 @@ hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
-serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
@@ -234,7 +234,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
@@ -310,7 +309,6 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -511,6 +509,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -518,7 +517,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
@@ -729,6 +727,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
+banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -1012,6 +1011,7 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1058,7 +1058,6 @@ floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1168,6 +1167,8 @@ hcetcuwit.com
 hcilralhi.com
 heardsoppy.com
 hedgehoghugsyou.com
+heeceeceejo.com
+heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heratheacle.com
@@ -1213,7 +1214,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1800,6 +1800,7 @@ rsalcau.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
+ruckingefs.com
 rukktiswibi.com
 rundsp.com
 ruwertur.com
@@ -1926,7 +1927,7 @@ tearerernest.com
 techclicks.net
 tentaculos.net
 terrapsps.com
-thads.cc
+tetrylscullion.com
 that-muscle.com
 thebrighttag.com
 thedevband.com
@@ -2038,7 +2039,6 @@ vikawjobtar.com
 viliaff.com
 vipicmou.net
 virleth.com
-visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2142,6 +2142,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -2157,13 +2158,13 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
+yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
