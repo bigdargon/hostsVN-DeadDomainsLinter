@@ -242,7 +242,6 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -391,6 +390,7 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
+cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 api.jeeng.com
@@ -441,6 +441,7 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
+amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -609,7 +610,6 @@ ads-to.click
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
-ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.expat-blog.biz
@@ -626,11 +626,11 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -642,7 +642,6 @@ adtology.com
 adtoma.com
 adverdirect.com
 advertica-cdn2.com
-adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -828,7 +827,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-bzyfzusiqohk.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -1032,6 +1030,7 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
+exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1201,19 +1200,16 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
-hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
-hjbtunmh.com
-hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
-hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -1239,6 +1235,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1276,13 +1273,12 @@ itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 iwamwxsgnlsa.com
-ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 j0x87i0og.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
+jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
@@ -1310,12 +1306,10 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jwuoxhjuq.com
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
@@ -1340,7 +1334,6 @@ kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klsdee.com
@@ -1577,7 +1570,6 @@ onmawmojth.com
 ontosocietyweary.com
 ootchoft.com
 opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1669,7 +1661,6 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
-plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
@@ -1912,13 +1903,13 @@ specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
+stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2019,6 +2010,7 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
+ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uktwvhfezyvxn.com
@@ -2072,7 +2064,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vkeadqoff.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2185,7 +2176,6 @@ yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
-yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
 yieldads.com
