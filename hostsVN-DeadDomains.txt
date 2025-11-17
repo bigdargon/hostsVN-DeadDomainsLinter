@@ -4,11 +4,11 @@ vserv.mobi
 admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
+swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
@@ -40,7 +40,6 @@ ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
-aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
@@ -122,6 +121,7 @@ spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
+img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
@@ -131,11 +131,7 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 afe2.specificclick.net
 afe3.specificclick.net
-dlx.specificclick.net
-dp2.specificclick.net
 mpp2.specificclick.net
-rome.specificclick.net
-www.specificclick.net
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -144,6 +140,7 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
+prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
@@ -351,6 +348,7 @@ delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -376,7 +374,6 @@ ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
 sense.tapdb.com
-wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -425,7 +422,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -477,7 +473,6 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
-pushdy.vn
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -533,7 +528,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-trenddigital.vn
 vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
@@ -564,7 +558,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
-2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -641,7 +634,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -748,8 +740,6 @@ b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
-backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
@@ -777,6 +767,7 @@ becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
+beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -815,7 +806,6 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
-brynh-lei.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -891,7 +881,6 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
-coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -1095,7 +1084,6 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
-frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -1184,7 +1172,6 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
-harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
@@ -1597,7 +1584,6 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
-ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1785,7 +1771,7 @@ realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
-redri.net
+redmas.com
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
@@ -1845,11 +1831,14 @@ saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
+scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
+seaboblit.com
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -1880,6 +1869,7 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
+skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1995,7 +1985,6 @@ tranquilside.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
-trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
@@ -2218,7 +2207,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
