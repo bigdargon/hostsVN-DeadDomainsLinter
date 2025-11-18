@@ -207,7 +207,6 @@ advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
-dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
@@ -227,13 +226,6 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -293,7 +285,6 @@ www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
-pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -365,8 +356,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-livetracker.rfe.pangea-cms.com
-livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -491,7 +480,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
-gluco.native-ad.net
 vena.native-ad.net
 app2.jeoway.net
 jana1.jeoway.net
@@ -524,7 +512,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -535,7 +522,6 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.mekongasean.vn
-log.saigondautu.com.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -587,7 +573,6 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
-ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -624,11 +609,9 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
-adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -664,7 +647,6 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
-ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -693,6 +675,7 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
+apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -823,6 +806,7 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
+bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -874,6 +858,7 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
+clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1222,7 +1207,6 @@ hookawep.net
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
-hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1240,6 +1224,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1287,22 +1272,18 @@ jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
-jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
-joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
-jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1399,6 +1380,7 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
+loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1530,6 +1512,7 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1562,8 +1545,6 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
-olzlmemumcwe.com
-ombwzonwupu.com
 omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
@@ -1677,6 +1658,7 @@ pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
+poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1776,7 +1758,6 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
-realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1788,7 +1769,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
@@ -1798,7 +1778,6 @@ revmob.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
-ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1817,6 +1796,7 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rosolicdalapon.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1844,7 +1824,6 @@ scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
-seaboblit.com
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -1871,6 +1850,7 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
+sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -2074,7 +2054,6 @@ voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
-voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2158,8 +2137,6 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
-xkfvceil.com
-xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
@@ -2241,7 +2218,6 @@ tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
-vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
