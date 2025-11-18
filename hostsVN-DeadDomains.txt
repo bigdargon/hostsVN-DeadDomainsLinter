@@ -150,6 +150,7 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
+cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
@@ -189,6 +190,7 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
+s.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -462,6 +464,9 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
+atdnetwork.com
+track.atdnetwork.com
+www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -614,6 +619,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -951,6 +957,7 @@ diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
+dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
@@ -1006,6 +1013,7 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -1226,6 +1234,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1287,7 +1296,6 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
-jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1344,7 +1352,6 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
-kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1505,6 +1512,7 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1577,6 +1585,7 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
+orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1814,6 +1823,7 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
+rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rwukupjis.com
@@ -1966,6 +1976,7 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
+tooglidanog.net
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
@@ -2143,6 +2154,7 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -2168,6 +2180,7 @@ yfetyg.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
+ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
