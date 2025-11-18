@@ -13,6 +13,7 @@ v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
+client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -31,6 +32,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+www.advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -154,7 +156,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
@@ -278,7 +279,6 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -517,6 +517,7 @@ serving-ad.tv24.vn
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
+analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
@@ -605,10 +606,10 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
+adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -684,6 +685,7 @@ areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
+armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -791,6 +793,7 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
+brynh-lei.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -1107,6 +1110,7 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
+gloalrie.com
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1307,6 +1311,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
+kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 keefoocauby.com
@@ -1507,7 +1512,6 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1606,6 +1610,7 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
+pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -2029,6 +2034,7 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
+vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
