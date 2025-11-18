@@ -187,12 +187,10 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
-domnovrek.com
-n.domnovrek.com
-st-n.domnovrek.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -275,6 +273,7 @@ engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
+geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
@@ -300,6 +299,7 @@ service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
+anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -419,6 +419,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -427,6 +428,7 @@ ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv760.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -803,7 +805,6 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
-breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -984,8 +985,10 @@ earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
+ebvvvnjesjgx.com
 echifobi.top
 eclickz.com
+ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1167,6 +1170,7 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
+gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
@@ -1235,6 +1239,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1250,6 +1255,7 @@ ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
+immerseweariness.com
 impractical-award.com
 ingotedbooze.com
 innocentwax.com
@@ -1355,7 +1361,6 @@ kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
-kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1370,7 +1375,6 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
-legitfizzed.shop
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1436,6 +1440,7 @@ massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
@@ -1581,9 +1586,9 @@ oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
-oranegfodnd.com
 orb92.com
 orbsclawand.com
+orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
@@ -1738,6 +1743,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1962,7 +1968,6 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
-thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -2089,6 +2094,7 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2227,10 +2233,12 @@ img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 play.leadzutw.com
+poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 shopnetic.com
 showbiz.owndata.network
+tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
