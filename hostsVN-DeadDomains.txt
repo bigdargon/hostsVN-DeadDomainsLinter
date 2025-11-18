@@ -59,7 +59,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -190,6 +189,7 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
+s.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -456,7 +456,6 @@ cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
-dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
@@ -506,7 +505,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
-imgs2.aanetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -835,8 +833,6 @@ canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
-capitalgolfmushily.com
-cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -1092,7 +1088,6 @@ freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
-fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
@@ -1361,6 +1356,7 @@ kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
+kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1375,6 +1371,7 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
+legitfizzed.shop
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1440,14 +1437,12 @@ massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
-mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1586,6 +1581,7 @@ oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
+oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1929,7 +1925,6 @@ subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
-suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
@@ -1968,6 +1963,7 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
+thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -2225,7 +2221,6 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
-dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
