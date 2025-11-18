@@ -58,7 +58,6 @@ h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -78,6 +77,7 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -86,6 +86,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -135,15 +136,16 @@ smetrics.linkshare.com
 static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
+directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2307.online
 aj2412.online
 aj2498.online
-aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
@@ -287,6 +289,7 @@ service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
+cdn.bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -330,6 +333,7 @@ cdn.switchadhub.com
 delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
+switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -431,7 +435,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-track.net
@@ -461,12 +464,6 @@ pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
-www.atdnetwork.com
-m.clevernet.vn
-www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
@@ -475,6 +472,7 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -485,6 +483,7 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 app2.jeoway.net
+jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -494,6 +493,7 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ads.autonet.com.vn
@@ -511,6 +511,7 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
+delivery.senvangvn.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -560,6 +561,7 @@ abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
+abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
@@ -584,6 +586,7 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
+adpost.org
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -613,7 +616,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -685,7 +687,6 @@ appads.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
-areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -754,7 +755,6 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
-becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
@@ -881,7 +881,6 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
-consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -936,6 +935,7 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
+dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1009,7 +1009,6 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
-erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -1028,7 +1027,6 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
-faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1236,6 +1234,7 @@ ichachoakiglop.com
 ichdpdbpv.com
 iconcardinal.com
 idyllteapots.com
+ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
@@ -1281,6 +1280,7 @@ jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
+jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
@@ -1316,6 +1316,7 @@ kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
+kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1547,9 +1548,7 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
-oltnukjafo.com
 olxxugltoku.com
-olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omnatuor.com
@@ -1593,6 +1592,7 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1706,7 +1706,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
-purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1800,6 +1799,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1842,8 +1842,8 @@ servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
-shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2130,6 +2130,7 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
+www.healthsmd.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
