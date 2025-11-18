@@ -78,6 +78,7 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -135,6 +136,7 @@ reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
 apilw.epom.com
+cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -201,7 +203,6 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
-advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -250,8 +251,6 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
@@ -261,7 +260,6 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -352,7 +350,6 @@ cdn.truffle.bid
 matching.truffle.bid
 appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -403,10 +400,10 @@ ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -440,6 +437,7 @@ aff-track.net
 mntzrlt.net
 core.polyad.net
 cp.polyad.net
+cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -470,12 +468,10 @@ m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
-mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
@@ -517,6 +513,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -608,7 +605,6 @@ ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.passion.com
 ads.seniorfriendfinder.com
-ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -681,6 +677,7 @@ anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
+anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
@@ -840,6 +837,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -1247,6 +1245,7 @@ illegal-respond.pro
 imageshh.com
 imarketservices.com
 immerseweariness.com
+impractical-award.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1280,6 +1279,7 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
+jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
@@ -1302,6 +1302,10 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
+jxkqgoicxthrb.com
+jyhlgpkn.com
+jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
@@ -1872,7 +1876,6 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -1979,7 +1982,6 @@ trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
-tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
