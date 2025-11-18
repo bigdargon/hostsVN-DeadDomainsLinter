@@ -76,6 +76,7 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -176,6 +177,7 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -220,7 +222,6 @@ xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
-syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
@@ -409,7 +410,6 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
-ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
@@ -449,7 +449,6 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
-cp.novanet.vn
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -626,6 +625,7 @@ adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -646,7 +646,6 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
-agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -695,6 +694,7 @@ aphycolourses.info
 api.ampiri.com
 appads.com
 apxszeaj.com
+apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -727,7 +727,6 @@ avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
-avvxcexk.com
 awaps.net
 awhauchoa.net
 awwagqorqpty.com
@@ -765,6 +764,7 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
+becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
@@ -911,6 +911,7 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
+cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
@@ -992,6 +993,7 @@ eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
+egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -1215,7 +1217,6 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
-hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
 hscozgoqffn.com
@@ -1234,7 +1235,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1261,7 +1261,6 @@ interstitial-07.com
 interstitial-08.com
 intnotif.club
 intrarezsites.com
-inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
@@ -1391,7 +1390,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1435,6 +1433,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1477,8 +1476,6 @@ mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
-my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
@@ -1565,6 +1562,7 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
@@ -1635,6 +1633,7 @@ paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
+pencilcongress.com
 pepepush.net
 perryvolleyball.com
 peskyclarifysuitcases.com
@@ -1728,6 +1727,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
+qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
@@ -1936,7 +1936,6 @@ synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
 tabookbusines.info
-tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
@@ -1949,6 +1948,7 @@ techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
+textads.biz
 thads.cc
 that-muscle.com
 thebrighttag.com
@@ -2137,7 +2137,6 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
-wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
