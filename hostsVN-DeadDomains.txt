@@ -78,7 +78,6 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -136,7 +135,6 @@ reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
 apilw.epom.com
-cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -190,7 +188,6 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
-s.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -410,7 +407,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -444,7 +440,6 @@ aff-track.net
 mntzrlt.net
 core.polyad.net
 cp.polyad.net
-cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -464,7 +459,11 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
+adserver.atdnetwork.com
 atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
+static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
@@ -518,7 +517,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -683,7 +681,6 @@ anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
-anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
@@ -843,7 +840,6 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
-charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -1251,7 +1247,6 @@ illegal-respond.pro
 imageshh.com
 imarketservices.com
 immerseweariness.com
-impractical-award.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1285,7 +1280,6 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
-jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
@@ -1296,6 +1290,7 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
+jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1307,10 +1302,6 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jxjttecednvb.com
-jxkqgoicxthrb.com
-jyhlgpkn.com
-jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
@@ -1352,6 +1343,7 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
+kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
