@@ -11,7 +11,6 @@ addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
-cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
@@ -73,7 +72,6 @@ v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
-h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
@@ -138,7 +136,6 @@ static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
-aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
@@ -527,6 +524,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -592,7 +590,6 @@ ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
-adcenter.net
 adcloud.net
 adformdsp.net
 adk2.co
@@ -654,7 +651,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 aickeebsi.com
 aiftoupsains.net
@@ -742,6 +738,7 @@ axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
+baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -814,7 +811,6 @@ broadboundary.com
 brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
-btiatfobkjiv.com
 btrll.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -877,6 +873,8 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
+clkofafcbk.com
+clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
@@ -887,7 +885,6 @@ cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
-compactbanner.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -921,7 +918,6 @@ cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 d.appsdt.com
-da-ads.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -978,7 +974,6 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
-dummieseardrum.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1231,7 +1226,6 @@ htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
 huhskyavngw.com
-hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
@@ -1240,7 +1234,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1266,7 +1259,6 @@ interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
-intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
@@ -1304,7 +1296,6 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1406,7 +1397,6 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1439,7 +1429,6 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
-massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1520,7 +1509,6 @@ notifyerr.com
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
-nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1658,6 +1646,7 @@ phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
+phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
@@ -1784,7 +1773,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-redri.net
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
@@ -1803,7 +1791,6 @@ rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1817,12 +1804,14 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rosolicdalapon.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
+rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtcheajfn.com
@@ -1836,6 +1825,7 @@ ruwoxglzab.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
+saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
@@ -1889,6 +1879,7 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaperdeils.com
 sofinpushpile.com
@@ -1903,7 +1894,6 @@ spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 specifiedbloballowance.com
-sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
