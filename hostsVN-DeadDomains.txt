@@ -59,6 +59,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -75,7 +76,6 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
-www.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -176,7 +176,6 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
-clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -189,7 +188,6 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
-s.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -451,11 +449,13 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
+cp.novanet.vn
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
+dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
@@ -505,6 +505,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -694,7 +695,6 @@ aphycolourses.info
 api.ampiri.com
 appads.com
 apxszeaj.com
-apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
@@ -765,7 +765,6 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
-becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
@@ -833,6 +832,8 @@ canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
+capitalgolfmushily.com
+cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -910,7 +911,6 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
-cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
@@ -992,7 +992,6 @@ eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
-egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
@@ -1088,6 +1087,7 @@ freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
+fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
@@ -1435,7 +1435,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1443,6 +1442,7 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1565,7 +1565,6 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
@@ -1636,7 +1635,6 @@ paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
-pencilcongress.com
 pepepush.net
 perryvolleyball.com
 peskyclarifysuitcases.com
@@ -1730,7 +1728,6 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
-qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
@@ -1925,6 +1922,7 @@ subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
+suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suspectedadvisor.com
@@ -2221,6 +2219,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
