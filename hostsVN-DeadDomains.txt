@@ -78,7 +78,6 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -87,7 +86,6 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -137,14 +135,12 @@ smetrics.linkshare.com
 static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
-directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -203,6 +199,7 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -251,6 +248,8 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
@@ -260,6 +259,7 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -330,7 +330,6 @@ cdn.switchadhub.com
 delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
-switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -350,6 +349,7 @@ cdn.truffle.bid
 matching.truffle.bid
 appcloud.ironbeast.io
 lb.ironbeast.io
+sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -400,6 +400,7 @@ ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
@@ -468,11 +469,12 @@ m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
-mautic.serverhub.vn
+mautic.hicity.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -483,7 +485,6 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 app2.jeoway.net
-jana1.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -493,7 +494,6 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ads.autonet.com.vn
@@ -560,7 +560,6 @@ abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
-abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
@@ -605,6 +604,7 @@ ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.passion.com
 ads.seniorfriendfinder.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -881,6 +881,7 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
+consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -935,7 +936,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
-dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1236,7 +1236,6 @@ ichachoakiglop.com
 ichdpdbpv.com
 iconcardinal.com
 idyllteapots.com
-ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
@@ -1282,7 +1281,6 @@ jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
-jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
@@ -1318,7 +1316,6 @@ kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
-kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1596,7 +1593,6 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
-outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1804,7 +1800,6 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
-rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1849,7 +1844,6 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1876,6 +1870,7 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
+smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -1982,6 +1977,7 @@ trafficstrategies.com
 tranquilside.com
 traovrjwu.com
 trendcounter.com
+tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
