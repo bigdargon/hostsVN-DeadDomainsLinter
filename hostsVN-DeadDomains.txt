@@ -122,7 +122,6 @@ spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
-img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
@@ -370,6 +369,8 @@ analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 analytics.logsss.com
+logsss.com
+perf.logsss.com
 rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
@@ -415,8 +416,6 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
-pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -618,8 +617,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
-adqkkoajnan.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
@@ -745,6 +742,7 @@ audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
+autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
@@ -833,7 +831,6 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
-brynh-lei.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -846,7 +843,6 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -906,11 +902,7 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
-coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
-cohawaut.com
-coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -934,7 +926,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1063,6 +1054,7 @@ exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -1093,6 +1085,7 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
+fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
@@ -1135,6 +1128,7 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
+gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
@@ -1268,7 +1262,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1304,6 +1297,7 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -1373,10 +1367,8 @@ klkchits.com
 klsdee.com
 klumn.com
 knlqdtcbi.com
-knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
-kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1404,7 +1396,6 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
-legitfizzed.shop
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1467,7 +1458,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1581,6 +1571,7 @@ offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
+ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1812,6 +1803,7 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rduaagcwsw.com
 readserver.net
+realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1988,7 +1980,6 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
-tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -2112,7 +2103,6 @@ voglgmlelzhlzo.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
-voupsauk.com
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2260,6 +2250,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 dolohen.com
