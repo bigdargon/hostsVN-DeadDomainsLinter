@@ -1,7 +1,6 @@
 googleads-cn.com
 cdn.oem.inmobi.net
 blueserving.com
-ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -28,7 +27,6 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
-ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
@@ -63,6 +61,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -77,6 +76,7 @@ cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
+tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
 adtrackers.net
@@ -183,7 +183,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
@@ -629,7 +628,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.friendfinder.com
 ads.geekswithblogs.net
@@ -658,6 +656,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -784,6 +783,8 @@ barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
+bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -839,11 +840,11 @@ btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
+burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -901,7 +902,6 @@ clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
-cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -959,7 +959,6 @@ daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
-dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
@@ -1138,6 +1137,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1360,7 +1360,6 @@ kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
-keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
@@ -1541,7 +1540,6 @@ nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
-noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1669,7 +1667,6 @@ particularundoubtedly.com
 pasheeheghie.net
 patro-sfe.com
 paxzfenara.com
-paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1703,6 +1700,7 @@ plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
+playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -2055,6 +2053,7 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2240,6 +2239,7 @@ yu225.com
 yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
+zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -2247,6 +2247,7 @@ zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
+zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zmedia.com
