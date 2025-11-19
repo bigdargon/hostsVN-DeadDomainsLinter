@@ -1,7 +1,5 @@
 googleads-cn.com
-cdn.oem.inmobi.net
 blueserving.com
-ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -138,7 +136,6 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
-apilw.epom.com
 cdn.epom.com
 directads.epom.com
 aj1015.online
@@ -152,12 +149,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -238,12 +229,8 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
-aaddcount.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -314,7 +301,6 @@ s1.mellowads.com
 s2.mellowads.com
 s3.mellowads.com
 tracking.mellowads.com
-urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -367,7 +353,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
-cdn.truffle.bid
 matching.truffle.bid
 analytics.logsss.com
 logsss.com
@@ -507,9 +492,7 @@ mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
+ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
@@ -520,6 +503,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
+embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -532,6 +516,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
+ads.careerbuilder.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
@@ -630,18 +615,15 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
-ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.friendfinder.com
 ads.geekswithblogs.net
 ads.horsehero.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.passion.com
-ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -762,7 +744,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
-axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -771,8 +752,6 @@ b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
-backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
@@ -836,6 +815,7 @@ br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
+bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 btcadtop.com
@@ -873,6 +853,7 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
+cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
@@ -1042,7 +1023,6 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
-endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -1166,7 +1146,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
-go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1177,10 +1156,10 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
-grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
+greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -1238,7 +1217,6 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1291,7 +1269,6 @@ illegal-respond.pro
 imageshh.com
 imarketservices.com
 immerseweariness.com
-importedincrease.com
 impractical-award.com
 ingotedbooze.com
 innocentwax.com
@@ -1347,6 +1324,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1474,6 +1452,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1495,7 +1474,6 @@ mhavfytafo.com
 mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
-mingledventin.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
@@ -1569,7 +1547,6 @@ oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
-oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obradjgifja.com
@@ -1608,7 +1585,6 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
@@ -1687,6 +1663,7 @@ perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
+phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
@@ -1837,6 +1814,7 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
+revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1895,7 +1873,6 @@ seemoovojezy.net
 sendmepixel.com
 seo4india.com
 serconmp.com
-servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -2049,6 +2026,7 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
+tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -2073,7 +2051,6 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
-upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
