@@ -1,6 +1,7 @@
 googleads-cn.com
 cdn.oem.inmobi.net
 blueserving.com
+ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -27,6 +28,7 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
+ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
@@ -50,7 +52,6 @@ rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
-t.lkqd.net
 us.lkqd.net
 v.lkqd.net
 api.parrable.com
@@ -183,6 +184,7 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
@@ -389,7 +391,6 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -555,6 +556,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
 log.mekongasean.vn
+log.tieudungthoinay.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -583,7 +585,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
-4hfchest5kdnfnut.com
 52dvzo62i.com
 5enaovbz2.com
 79xmz3lmss.com
@@ -628,6 +629,7 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
+ads.expat-blog.biz
 ads.foxnetworks.com
 ads.friendfinder.com
 ads.geekswithblogs.net
@@ -656,7 +658,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -736,7 +737,6 @@ asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
-aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -778,6 +778,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -794,7 +795,6 @@ becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
-beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -845,6 +845,7 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
+bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -887,7 +888,6 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
-chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
@@ -902,6 +902,7 @@ clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
+cnt.spbland.ru
 coacoalaum.com
 coappreciate.com
 coastdetectiveoptical.com
@@ -959,6 +960,7 @@ daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
+dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
@@ -1137,7 +1139,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1187,7 +1188,6 @@ grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
-gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
@@ -1238,7 +1238,6 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
-hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
@@ -1304,7 +1303,6 @@ ivdjs.com
 ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
-ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
@@ -1342,7 +1340,6 @@ juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
-jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
@@ -1360,6 +1357,7 @@ kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
+keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
@@ -1496,6 +1494,7 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 moodokay.com
+moolahmedia.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1540,6 +1539,7 @@ nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
+noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1667,6 +1667,7 @@ particularundoubtedly.com
 pasheeheghie.net
 patro-sfe.com
 paxzfenara.com
+paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1700,7 +1701,6 @@ plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
-playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1864,6 +1864,7 @@ rukktiswibi.com
 rundsp.com
 ruwertur.com
 ruwoxglzab.com
+rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -1918,7 +1919,6 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2156,6 +2156,7 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
