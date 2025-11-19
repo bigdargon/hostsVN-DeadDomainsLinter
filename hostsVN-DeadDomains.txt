@@ -117,7 +117,6 @@ native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
-spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
@@ -302,7 +301,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -376,7 +374,6 @@ rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -516,6 +513,8 @@ gluco.native-ad.net
 vena.native-ad.net
 app2.jeoway.net
 jana1.jeoway.net
+jeoway.com
+platform.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -647,6 +646,7 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
+adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -750,7 +750,6 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
-aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -816,7 +815,6 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
-bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
@@ -882,7 +880,6 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
-chertouz.net
 chickensstation.com
 chinaslauras.com
 chioneflake.com
@@ -985,6 +982,7 @@ despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
+dgxmvglp.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
@@ -1089,6 +1087,7 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1100,6 +1099,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1182,7 +1182,6 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
-grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -1273,7 +1272,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1358,6 +1356,7 @@ kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
+kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1423,6 +1422,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1472,6 +1472,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1627,6 +1628,7 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
+organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1701,13 +1703,13 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
-playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1752,7 +1754,6 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
@@ -1821,7 +1822,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-redri.net
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
@@ -1961,6 +1961,7 @@ sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
+stolenforensicssausage.com
 stooghopsee.net
 stormyachiever.com
 streakattempt.com
@@ -2178,6 +2179,7 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
+wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -2275,7 +2277,6 @@ logs.bytefence.com
 metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
-q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
