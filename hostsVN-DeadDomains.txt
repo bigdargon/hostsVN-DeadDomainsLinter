@@ -15,6 +15,8 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
+a4.tl
+sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -183,6 +185,7 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
+cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -221,13 +224,13 @@ xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
-go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -326,6 +329,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -629,6 +633,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -915,7 +920,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -923,7 +927,6 @@ curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
-cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -1142,6 +1145,7 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
+go-clicks.de
 go.mobisla.com
 go.padstm.com
 gogglemessenger.com
@@ -1211,7 +1215,6 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1448,6 +1451,7 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
+massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1745,6 +1749,7 @@ pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
+py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
@@ -2151,12 +2156,12 @@ wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
-woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
+wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
@@ -2252,7 +2257,6 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
