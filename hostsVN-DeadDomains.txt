@@ -16,7 +16,6 @@ client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
-sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -98,6 +97,7 @@ imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
+origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
@@ -288,7 +288,6 @@ vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
-rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -386,6 +385,8 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
+ad.samsungadhub.com
+samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -649,6 +650,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -730,6 +732,7 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
+asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
@@ -757,6 +760,7 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
+axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
@@ -914,6 +918,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
+compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -1179,7 +1184,6 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
-grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -1187,7 +1191,9 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
+grudgewallet.com
 gruwrebutnar.com
+gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1223,7 +1229,6 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -1297,11 +1302,11 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
+irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
-ivdjs.com
 ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
@@ -1522,7 +1527,6 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myvisualiq.net
 naishoochoh.com
-namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
@@ -1682,7 +1686,6 @@ pepepush.net
 perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1734,7 +1737,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-processsky.com
 proetusbramble.com
 profitableheavilylord.com
 propbigo.com
@@ -1983,7 +1985,6 @@ syyycc.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
-tagular.com
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2012,6 +2013,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2133,6 +2135,7 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
