@@ -66,6 +66,7 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -170,7 +171,6 @@ bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
-bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
@@ -500,8 +500,8 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
+matomo.hicity.vn
 mautic.casso.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -650,7 +650,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1038,7 +1037,6 @@ ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
-ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1106,6 +1104,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1157,7 +1156,6 @@ gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1301,6 +1299,7 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
+interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
@@ -1465,7 +1464,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1689,6 +1687,7 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perryvolleyball.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1715,7 +1714,6 @@ plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
-playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1779,6 +1777,7 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
+qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1903,7 +1902,6 @@ seo4india.com
 serconmp.com
 setypckq.com
 sf960.com
-sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
@@ -1982,7 +1980,6 @@ susifhfh2d8ldn09.com
 suspectedadvisor.com
 suwcaxazzn.com
 svkmxwssih.com
-swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -2038,7 +2035,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
-traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2050,7 +2046,6 @@ tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
-tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
@@ -2214,7 +2209,6 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
