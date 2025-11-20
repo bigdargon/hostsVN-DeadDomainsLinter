@@ -14,7 +14,6 @@ addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
 alexametrics.com
@@ -36,6 +35,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -98,6 +98,7 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
+static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -140,7 +141,6 @@ cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -303,9 +303,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
-delivery.adsterra.org
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -317,7 +314,6 @@ banners.mellowads.com
 s1.mellowads.com
 s2.mellowads.com
 s3.mellowads.com
-tracking.mellowads.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -411,6 +407,7 @@ delivery.taroads.com
 taroads.com
 connect.idocdn.com
 tracker.idocdn.com
+fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
@@ -434,8 +431,10 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv676.me
 ads.livetv681.me
 ads.livetv686.me
+ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
@@ -529,6 +528,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -566,7 +566,6 @@ stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -637,7 +636,6 @@ ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
-ads.horsehero.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
@@ -762,6 +760,7 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
+axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -821,7 +820,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -837,6 +835,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -886,6 +885,7 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -895,7 +895,6 @@ chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
-ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
@@ -925,7 +924,6 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
-consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -974,7 +972,6 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -988,6 +985,8 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
+dgqlwqedzowhqb.com
+dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -1132,6 +1131,7 @@ fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
+fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1178,7 +1178,6 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
-grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
@@ -1231,10 +1230,8 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-heraldet.com
 heratheacle.com
 heukpiroot.com
-hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1278,7 +1275,6 @@ hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
-iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 iconcardinal.com
@@ -1318,7 +1314,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
-jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1469,7 +1464,6 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-magetrigla.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1705,7 +1699,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1755,7 +1748,6 @@ psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
-ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
@@ -1844,7 +1836,6 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
-revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1912,7 +1903,6 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
-shaughixefooz.net
 sheesoah.net
 shelfoka.com
 shestour.net
@@ -1993,6 +1983,7 @@ synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
 tabookbusines.info
+tacticmarshannouncing.com
 tagular.com
 tarybabottega.com
 tautauphaur.net
@@ -2248,7 +2239,6 @@ ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
-ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
