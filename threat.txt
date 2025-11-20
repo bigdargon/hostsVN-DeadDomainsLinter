@@ -1,4 +1,4 @@
-# Version: 2511141031
+# Version: 2511201013
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -816,6 +816,7 @@
 ||facebook62747.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookk.life^
+||facebookk.live^
 ||facebookvideo87.blogspot.com^
 ||facebookvni.com^
 ||facialwaxmaxfaxlax3.com^
