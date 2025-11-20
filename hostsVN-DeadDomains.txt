@@ -98,7 +98,6 @@ imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
-origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
@@ -292,6 +291,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -386,8 +386,6 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
-ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -605,6 +603,7 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
+aclickads.com
 acpolxakcl.com
 aczridptoo.com
 ad-miner.com
@@ -650,7 +649,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -660,7 +658,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advantagesclotblend.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -699,7 +696,6 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
-all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -734,7 +730,6 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
-asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
@@ -762,7 +757,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
-axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
@@ -920,7 +914,6 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
-compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -1036,6 +1029,7 @@ egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
+ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
@@ -1105,7 +1099,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1194,9 +1187,7 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
-grudgewallet.com
 gruwrebutnar.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1207,6 +1198,7 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
+gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
@@ -1305,7 +1297,6 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
-irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1465,6 +1456,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1536,6 +1528,7 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
+nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1640,6 +1633,7 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
+ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1668,7 +1662,6 @@ ozmbzowg.com
 ozongees.com
 ozvvmicixrh.com
 ozxakfawm.com
-p.hogmc.net
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
@@ -2019,7 +2012,6 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2141,13 +2133,11 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
-wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
-webstats4u.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
