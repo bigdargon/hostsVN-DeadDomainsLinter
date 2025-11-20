@@ -177,7 +177,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
@@ -189,6 +188,7 @@ microadinc.com
 prcache.microadinc.com
 s-rtb.send.microadinc.com
 ssp.send.microadinc.com
+ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
@@ -197,6 +197,7 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+fadskis.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -268,13 +269,11 @@ cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
 mondiad.net
-serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -300,6 +299,7 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -380,6 +380,7 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -611,6 +612,7 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
+adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -644,6 +646,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+adtriplex.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -656,6 +659,7 @@ afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
+agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -743,6 +747,7 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
+axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -764,6 +769,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -954,6 +960,7 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
+delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -1045,7 +1052,6 @@ euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
-exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
@@ -1119,6 +1125,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -1246,6 +1253,7 @@ htyzpilijhki.com
 hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
+hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
@@ -1281,6 +1289,7 @@ interstitial-07.com
 interstitial-08.com
 intnotif.club
 intrarezsites.com
+inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
@@ -1295,6 +1304,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1317,7 +1327,6 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
-jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1357,6 +1366,9 @@ kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
+klkchits.com
+klsdee.com
+klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -1403,6 +1415,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1431,6 +1444,7 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1454,7 +1468,6 @@ marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
-mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
@@ -1518,7 +1531,6 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
-netshelter.net
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1653,14 +1665,13 @@ pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
-patro-sfe.com
-paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+perceivequarter.com
 perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -2257,6 +2268,7 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
+play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
