@@ -66,7 +66,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -501,7 +500,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -543,6 +541,7 @@ aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
+bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
@@ -556,6 +555,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
 log.mekongasean.vn
@@ -650,6 +650,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -659,6 +660,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -686,6 +688,7 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
+ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -760,6 +763,7 @@ awwagqorqpty.com
 axiabanners.exodus.gr
 axkwmsivme.com
 axx.seovietnam.pro
+azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -936,6 +940,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1145,6 +1150,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1158,6 +1164,8 @@ girls-only.online
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
+glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1293,7 +1301,6 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
-interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
@@ -1466,11 +1473,13 @@ makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1680,7 +1689,6 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perryvolleyball.com
-peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1707,6 +1715,7 @@ plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
+playvideoclub.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1770,7 +1779,6 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
-qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
