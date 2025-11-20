@@ -32,7 +32,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-www.advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -87,6 +86,7 @@ serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
+zoover.adtrackers.net
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -233,6 +233,7 @@ xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
+origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -267,6 +268,8 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
+mondiad.net
+serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -376,7 +379,6 @@ sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -406,7 +408,6 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -485,7 +486,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -616,6 +616,7 @@ adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
+ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.expat-blog.biz
@@ -1000,7 +1001,6 @@ e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
-ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
@@ -1255,7 +1255,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1297,7 +1296,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
-jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
@@ -1356,6 +1354,7 @@ kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
@@ -1433,6 +1432,7 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
@@ -1575,7 +1575,6 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
-oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
@@ -1740,6 +1739,7 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1890,6 +1890,7 @@ shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
 shelfoka.com
+sheltermilligrammillions.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -2032,7 +2033,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2172,6 +2172,7 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
+www.admarket.network
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
@@ -2206,6 +2207,7 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
+yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
