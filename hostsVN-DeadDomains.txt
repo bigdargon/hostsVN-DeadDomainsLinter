@@ -2,6 +2,7 @@ googleads-cn.com
 blueserving.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -291,7 +292,6 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -425,6 +425,7 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
@@ -520,6 +521,7 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -537,6 +539,7 @@ ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
+ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -602,7 +605,6 @@ abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
-aclickads.com
 acpolxakcl.com
 aczridptoo.com
 ad-miner.com
@@ -659,7 +661,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 advantagesclotblend.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -940,7 +941,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -956,6 +956,7 @@ cynes-gwf.com
 d.appsdt.com
 da-ads.com
 dacmaiss.com
+daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
@@ -1035,7 +1036,6 @@ egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
@@ -1150,7 +1150,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1208,7 +1207,6 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
@@ -1267,6 +1265,7 @@ hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
+hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1307,6 +1306,7 @@ intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
+irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
@@ -1479,12 +1479,12 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1536,7 +1536,6 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
-nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1641,7 +1640,6 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
-ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
@@ -1779,6 +1777,7 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
+qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1853,6 +1852,7 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -1905,6 +1905,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2023,6 +2024,7 @@ tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
+tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
@@ -2033,7 +2035,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
