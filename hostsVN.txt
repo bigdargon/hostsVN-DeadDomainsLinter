@@ -1,4 +1,4 @@
-# Version: 2511201013
+# Version: 2511211527
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -10775,9 +10775,11 @@
 ||stats.hc.score.dmp.zalo.me^
 ||ads.zalo.me^
 ||beta.ads.zalo.me^
+||form.ads.zalo.me^
 ||jr.ads.zalo.me^
 ||jr.stg.ads.zalo.me^
 ||m.ads.zalo.me^
+||page.ads.zalo.me^
 ||preview.ads.zalo.me^
 ||groupstats.chat.zalo.me^
 ||widget.chat.zalo.me^
@@ -13247,6 +13249,7 @@
 ||apptera.com^
 ||appular.com^
 ||aps.hearstnp.com^
+||aptojeepsoopool.com^
 ||apture.com^
 ||apusx.com^
 ||apxszeaj.com^
@@ -13721,6 +13724,7 @@
 ||cacaobroach.com^
 ||cactusheadroomscaling.com^
 ||cads.scalemonk.com^
+||cafnqdsexgopiab.com^
 ||cagamvnuqhuh.com^
 ||caiwheechous.com^
 ||calculatingcircle.com^
@@ -14472,6 +14476,7 @@
 ||ehealthcaresolutions.com^
 ||ehiibetu.com^
 ||ehkualecb.com^
+||ejejyunqvzdfx.com^
 ||ejwpnkvnchjmxw.com^
 ||ejyymghi.com^
 ||ekgloczbsblg.com^
@@ -14547,6 +14552,7 @@
 ||euroranking.de^
 ||euros4click.de^
 ||eusta.de^
+||evenimbauba.cfd^
 ||evergage.com^
 ||evzhzppj5kel.com^
 ||eweconciliate.com^
@@ -16199,6 +16205,7 @@
 ||orfabfbu.com^
 ||organicbonus.com^
 ||organizationwoundedvast.com^
+||orhassagvaqw.com^
 ||orhavpfavxu.com^
 ||orige-duo.com^
 ||origunix.com^
@@ -16752,6 +16759,7 @@
 ||rbkhpjfwtmirk.com^
 ||rcvlink.com^
 ||rcyorjkze.com^
+||rdbzasvjgmnk.com^
 ||rdr.wargaming.net^
 ||rduaagcwsw.com^
 ||reachjunction.com^
