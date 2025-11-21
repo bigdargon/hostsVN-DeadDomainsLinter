@@ -15,6 +15,7 @@ addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
+cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
@@ -142,6 +143,7 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -211,9 +213,6 @@ microadinc.com
 prcache.microadinc.com
 s-rtb.send.microadinc.com
 ssp.send.microadinc.com
-ads.152media.com
-mob.152media.com
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -333,7 +332,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -452,7 +450,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -512,6 +509,7 @@ atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
+track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
@@ -667,6 +665,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -676,6 +675,8 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -741,6 +742,7 @@ apzdfakiso.com
 aqncinxrexa.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -821,6 +823,9 @@ bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
+beshucklean.com
+bestadbid.com
+bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -926,7 +931,6 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
-coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -1005,6 +1009,7 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
+directcpmrev.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -1047,10 +1052,8 @@ ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
-ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
-emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
@@ -1075,6 +1078,7 @@ ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
 exogripper.com
+exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
@@ -1113,6 +1117,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1157,6 +1162,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1187,6 +1193,7 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
+grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
@@ -1216,7 +1223,6 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
-gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1523,7 +1529,6 @@ mobbersinwalls.com
 mobisla.com
 moodokay.com
 moomenog.com
-moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1574,7 +1579,6 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nudgehydrogen.com
 numerosuffice.shop
-nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
@@ -1656,7 +1660,6 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
-otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1677,7 +1680,6 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1718,7 +1720,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1857,7 +1858,7 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
-rhkyufodw8ochdr3ogsite.com
+revoketypes.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
@@ -1946,6 +1947,7 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2164,7 +2166,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 webpower.com
-wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
 weuppwrlcper.com
@@ -2199,12 +2200,12 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
+woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
@@ -2301,6 +2302,7 @@ metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
+q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
