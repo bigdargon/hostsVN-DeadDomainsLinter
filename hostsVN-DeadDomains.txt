@@ -175,6 +175,7 @@ classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
+partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
@@ -292,6 +293,8 @@ www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
+staging-tag-cdn.aicactus.io
+tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
@@ -313,8 +316,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
-delivery.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -368,6 +369,10 @@ hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
+ak.ongastlya.com
+ongastlya.com
+admix.in
+geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
@@ -408,7 +413,6 @@ sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 connect.idocdn.com
@@ -562,7 +566,7 @@ stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
+n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
 1frozenthrone1.com
@@ -620,7 +624,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
-adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -644,6 +647,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -653,7 +657,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -732,6 +735,7 @@ ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
+atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
@@ -850,7 +854,6 @@ cacaobroach.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -877,7 +880,6 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
-chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -917,9 +919,9 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
-consciouschairs.com
 constintptr.com
 constructpoll.com
+contehos.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -942,6 +944,7 @@ cuxdiqagcl.com
 cvvczlcg.com
 cwqljsecvr.com
 cycledaction.com
+cyjprljyvgqeg.com
 cynes-gwf.com
 da-ads.com
 dacmaiss.com
@@ -963,7 +966,6 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -1031,6 +1033,7 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
+emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -1073,7 +1076,6 @@ faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
-fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
 fd5orie8e.com
@@ -1092,7 +1094,6 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
-finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1124,7 +1125,6 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
-fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1168,6 +1168,7 @@ gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
+great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
@@ -1175,7 +1176,6 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
-grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1287,7 +1287,6 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
-interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
@@ -1916,6 +1915,7 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
+sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
@@ -2023,7 +2023,6 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
-total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2034,11 +2033,11 @@ traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
-troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
+tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
@@ -2220,8 +2219,8 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
+ychv8p3i5.com
 ycxajdcpesguqh.com
-yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
