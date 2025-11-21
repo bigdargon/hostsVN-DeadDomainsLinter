@@ -162,7 +162,6 @@ smetrics.linkshare.com
 static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
-directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -217,7 +216,6 @@ ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
-a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
@@ -327,9 +325,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
-delivery.adsterra.org
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -591,7 +586,6 @@ stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -614,7 +608,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
-4hfchest5kdnfnut.com
 4info.com
 52dvzo62i.com
 5enaovbz2.com
@@ -655,11 +648,11 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
@@ -667,15 +660,11 @@ ads.passion.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
-ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
-adserv.etv.sale
-adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -786,7 +775,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
-axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -808,7 +796,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.babylon-x.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -912,6 +899,8 @@ checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chickensstation.com
+chinaslauras.com
+chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -951,7 +940,6 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
-consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -1000,6 +988,7 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
+delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -1022,7 +1011,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-directcpmrev.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -1129,10 +1117,8 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
-fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1177,6 +1163,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1193,7 +1180,6 @@ gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -1208,7 +1194,6 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
-grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
@@ -1323,7 +1308,6 @@ illegal-respond.pro
 imageshh.com
 imarketservices.com
 immerseweariness.com
-importedincrease.com
 impractical-award.com
 ingotedbooze.com
 innocentwax.com
@@ -1350,7 +1334,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
-jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1460,6 +1443,7 @@ lifpv.com
 liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
+likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
@@ -1482,6 +1466,7 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
+lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1657,7 +1642,6 @@ opntwymri.com
 opsivesh.net
 optimost.com
 optiontwentiethhart.com
-opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1722,7 +1706,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -1740,7 +1723,6 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1879,7 +1861,6 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
-revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rigelink.com
 ringedtusher.com
@@ -1915,6 +1896,7 @@ rtk.io
 ru-traffic.com
 ruckingefs.com
 rukktiswibi.com
+rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1947,8 +1929,6 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
-shaughixefooz.net
-sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1963,18 +1943,17 @@ simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
-slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
+smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
-snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
