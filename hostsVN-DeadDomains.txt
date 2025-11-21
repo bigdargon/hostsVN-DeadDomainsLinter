@@ -119,7 +119,6 @@ nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
-upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
@@ -146,7 +145,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -262,6 +260,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -320,13 +319,11 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 api.traq.li
-pgmcdn.com
 app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-delivery.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -398,8 +395,6 @@ s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -479,7 +474,6 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
-aj3007.bid
 aj3017.bid
 aj101.xyz
 litvp.com
@@ -565,6 +559,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -577,7 +572,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.dubaotiente.com
+log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -665,7 +660,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -675,7 +669,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advariant.com
+adtriplex.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -809,6 +803,7 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
+bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
@@ -901,6 +896,7 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -940,7 +936,6 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
-consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -953,7 +948,6 @@ cpxinteractive.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
-crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crowdgravity.com
@@ -1052,6 +1046,7 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
+ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1116,8 +1111,10 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1163,6 +1160,7 @@ gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galaxien.com
+galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1181,7 +1179,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go.mobisla.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1267,6 +1264,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1284,6 +1282,7 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
@@ -1350,7 +1349,6 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
-joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
@@ -1415,7 +1413,6 @@ kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
-labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
@@ -1493,7 +1490,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1503,7 +1499,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-megago.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1526,10 +1521,12 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
+moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
+mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1582,7 +1579,6 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
-nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
 oackoubs.com
@@ -1776,6 +1772,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
+ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1789,7 +1786,6 @@ pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
-pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
@@ -1797,7 +1793,6 @@ qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
-qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1859,6 +1854,7 @@ rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1965,6 +1961,7 @@ soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
+spathalbarmie.com
 speakspurink.com
 specifiedbloballowance.com
 sprungencase.com
@@ -2227,6 +2224,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2238,7 +2236,6 @@ xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
-yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
