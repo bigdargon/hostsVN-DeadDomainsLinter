@@ -17,6 +17,7 @@ m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
+client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
@@ -85,6 +86,7 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -233,6 +235,7 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
+tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -322,6 +325,8 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
+www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -559,7 +564,6 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
-imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
@@ -578,6 +582,7 @@ stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -659,11 +664,11 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -673,7 +678,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-advariant.com
+adtriplex.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -758,10 +763,8 @@ atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
 aungudie.com
-authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
-auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
@@ -773,6 +776,7 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
+axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -788,6 +792,7 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
+banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -796,6 +801,7 @@ bannermarkt.nl
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -898,6 +904,7 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -916,6 +923,7 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
+clicktag.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -927,6 +935,7 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
+coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -951,7 +960,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -996,7 +1004,6 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
-dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
@@ -1027,7 +1034,6 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1114,7 +1120,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1146,7 +1151,6 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
-fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1159,7 +1163,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1176,6 +1179,7 @@ gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
+globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -1288,8 +1292,8 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
+iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1329,6 +1333,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1377,6 +1382,7 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
+kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -1447,6 +1453,7 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1481,7 +1488,6 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1490,7 +1496,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1500,7 +1505,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1658,6 +1662,7 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
+otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1766,19 +1771,16 @@ prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
-psipausaix.net
 psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
-ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -2115,7 +2117,6 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
-vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2154,7 +2155,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
-vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
@@ -2183,6 +2183,7 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
+whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
