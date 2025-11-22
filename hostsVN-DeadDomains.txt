@@ -105,7 +105,9 @@ ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
+yasni.adtrackers.net
 zoover.adtrackers.net
+crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -121,6 +123,7 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
+analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -210,7 +213,6 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
-fadskis.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -242,6 +244,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -267,8 +270,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -322,6 +323,7 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -382,6 +384,7 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
+matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
@@ -455,7 +458,6 @@ ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
@@ -662,6 +664,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -937,10 +940,12 @@ coniesnitch.com
 connect.scroll.com
 connexity.net
 constintptr.com
+constructpoll.com
 contehos.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
+cpfqsubp.com
 cpxadroit.com
 cpxinteractive.com
 cpykudhagov.com
@@ -1026,7 +1031,6 @@ dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
-eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
@@ -1155,6 +1159,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1449,6 +1454,7 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
+loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -1487,13 +1493,13 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1585,6 +1591,7 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
+obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -1642,6 +1649,8 @@ oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
+orfabfbu.com
+organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1682,6 +1691,7 @@ p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
+panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
@@ -1897,7 +1907,6 @@ saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
-scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -1948,7 +1957,6 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -2186,15 +2194,16 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
-witch-counter.de
 witnessremovalsoccer.com
 wiwoqcmp.com
+wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
+wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2263,6 +2272,7 @@ yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
+ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yyselrqpyu.com
@@ -2291,7 +2301,6 @@ comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
-ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
