@@ -10,8 +10,6 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
@@ -146,7 +144,6 @@ cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
-a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
@@ -154,6 +151,7 @@ static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
+aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
@@ -356,7 +354,6 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
-ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -427,6 +424,7 @@ ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
+ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
@@ -711,7 +709,6 @@ armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
-asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
@@ -731,6 +728,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
@@ -844,7 +842,6 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
-capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
@@ -1000,6 +997,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1226,7 +1224,6 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
@@ -1250,7 +1247,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1290,6 +1286,7 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
+izleskulked.shop
 j0x87i0og.com
 jagnoans.com
 jagzrmdyw.com
@@ -1315,9 +1312,12 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
+jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
+js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1334,7 +1334,6 @@ kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
-kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
@@ -1541,7 +1540,6 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1685,6 +1683,7 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
+pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1821,6 +1820,7 @@ ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
+rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1875,7 +1875,6 @@ seemoovojezy.net
 sendmepixel.com
 seo4india.com
 serconmp.com
-servethis.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1921,7 +1920,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -2026,6 +2024,7 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
+tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
@@ -2085,6 +2084,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+view4cash.de
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2092,7 +2092,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2152,6 +2151,7 @@ wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
+wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
@@ -2269,7 +2269,6 @@ tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
