@@ -91,7 +91,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -191,7 +190,6 @@ bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
-bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
@@ -276,7 +274,6 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -355,7 +352,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -744,7 +740,6 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
-artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -795,6 +790,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -882,7 +878,6 @@ capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
-carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
@@ -959,6 +954,7 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
+curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
@@ -1082,7 +1078,6 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
-exxohwvxupjv.com
 eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
@@ -1118,7 +1113,6 @@ filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
-fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -1354,7 +1348,6 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1523,7 +1516,6 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
-mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1706,7 +1698,6 @@ pencilcongress.com
 pepepush.net
 perryvolleyball.com
 peskyclarifysuitcases.com
-petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
@@ -1716,6 +1707,7 @@ phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
+photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
@@ -1724,9 +1716,9 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
-plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
@@ -1873,7 +1865,6 @@ rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
-rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
@@ -1949,6 +1940,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
+smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -2086,7 +2078,6 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
-unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2196,7 +2187,6 @@ wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
-wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
