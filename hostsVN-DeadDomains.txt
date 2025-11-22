@@ -26,6 +26,7 @@ a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
+a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
@@ -79,7 +80,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -337,7 +337,6 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -363,6 +362,7 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
+s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -633,6 +633,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -751,8 +752,6 @@ babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
-baivideewou.com
-bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -809,6 +808,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bonertraffic14.pro
 bookletblockedcaught.com
+boom.ro
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -881,6 +881,7 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
+circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
@@ -908,6 +909,7 @@ connect.scroll.com
 connexity.net
 constintptr.com
 constructpoll.com
+contehos.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -1009,6 +1011,7 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
+egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
@@ -1047,7 +1050,6 @@ expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -1103,6 +1105,7 @@ frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
+fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1164,7 +1167,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1215,7 +1217,6 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
-hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
@@ -1335,6 +1336,7 @@ kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
+katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
@@ -1434,7 +1436,6 @@ luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
-luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1469,6 +1470,7 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
+mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1591,6 +1593,7 @@ omzostzuswm.com
 oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
+onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1680,7 +1683,7 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
-pignuwoa.com
+piet2eix3l.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -2239,6 +2242,7 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
+zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
