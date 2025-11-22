@@ -26,7 +26,6 @@ a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
-a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
@@ -95,6 +94,7 @@ hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
+serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
@@ -222,6 +222,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -362,7 +363,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -478,6 +478,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
+k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -530,6 +531,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -631,7 +633,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -780,10 +781,12 @@ bedaoibe.com
 bedrapiona.com
 bee7.com
 beefoaloode.net
+bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
+beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -813,6 +816,7 @@ br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
+bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -877,7 +881,6 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
-circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
@@ -905,7 +908,6 @@ connect.scroll.com
 connexity.net
 constintptr.com
 constructpoll.com
-contehos.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -1007,7 +1009,6 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
-egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejwpnkvnchjmxw.com
@@ -1102,7 +1103,6 @@ frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
-fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1152,6 +1152,7 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
+grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
@@ -1330,10 +1331,10 @@ jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
+kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
-katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
@@ -1468,7 +1469,6 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
-mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1591,7 +1591,6 @@ omzostzuswm.com
 oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
-onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1860,6 +1859,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
+sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
@@ -1897,6 +1897,7 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
+sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -2150,6 +2151,7 @@ window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
+wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
@@ -2237,7 +2239,6 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
-zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2262,6 +2263,7 @@ img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
+play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
