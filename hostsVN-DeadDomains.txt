@@ -128,6 +128,7 @@ click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
+rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -304,7 +305,6 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
-vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -331,7 +331,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -418,6 +417,7 @@ www.adclerks.com
 pixel.inforsea.com
 api.jeeng.com
 sdk.jeeng.com
+telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
@@ -503,6 +503,7 @@ hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
+atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -633,7 +634,6 @@ adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
-adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -847,7 +847,6 @@ br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
-bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -869,6 +868,7 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
+cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -891,6 +891,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -930,6 +931,7 @@ coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
+combitly.com
 commodityshortlysurviving.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -1079,14 +1081,12 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
-expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
-facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1098,6 +1098,7 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
+fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
@@ -1286,6 +1287,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1306,6 +1308,7 @@ impractical-award.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
+instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1420,7 +1423,6 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1475,7 +1477,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1755,6 +1756,7 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
+pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1995,7 +1997,6 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suspectedadvisor.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -2174,7 +2175,6 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
-whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
 whoonseepoutche.net
