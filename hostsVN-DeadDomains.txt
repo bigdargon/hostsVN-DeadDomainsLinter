@@ -17,7 +17,6 @@ m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
-client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
@@ -52,7 +51,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -87,7 +85,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -236,7 +233,6 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
-tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -287,6 +283,7 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
+aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -388,6 +385,7 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
+analytics.logsss.com
 logsss.com
 perf.logsss.com
 rum.logsss.com
@@ -528,6 +526,7 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -627,6 +626,7 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
+ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -659,6 +659,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -672,6 +673,8 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
+adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
@@ -725,6 +728,7 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
+anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -784,7 +788,6 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -793,7 +796,6 @@ bannermarkt.nl
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
-basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -886,6 +888,7 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
+celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -924,7 +927,6 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
-coherentgleaminglone.com
 coinblocktyrusmiram.com
 commodityshortlysurviving.com
 compatriotelephant.com
@@ -949,6 +951,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1068,6 +1071,7 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
+ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
 exogripper.com
@@ -1110,6 +1114,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1285,7 +1290,6 @@ hxpohplms.com
 hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1373,7 +1377,6 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
-kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -1444,7 +1447,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1488,6 +1490,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1635,6 +1638,7 @@ opntwymri.com
 opsivesh.net
 optimost.com
 optiontwentiethhart.com
+opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1656,6 +1660,7 @@ ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
+ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1798,6 +1803,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -2177,7 +2183,6 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
-whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
