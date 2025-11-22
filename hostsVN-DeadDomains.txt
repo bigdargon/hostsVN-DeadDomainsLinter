@@ -91,6 +91,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -104,9 +105,7 @@ ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
-yasni.adtrackers.net
 zoover.adtrackers.net
-crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -122,7 +121,6 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
-analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -190,6 +188,7 @@ bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
+bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
@@ -211,6 +210,7 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+fadskis.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -242,7 +242,6 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
-rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -274,6 +273,7 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
+www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -352,6 +352,7 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
+s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -381,7 +382,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
@@ -740,6 +740,7 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
+artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -790,7 +791,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -878,6 +878,7 @@ capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
+carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
@@ -936,12 +937,10 @@ coniesnitch.com
 connect.scroll.com
 connexity.net
 constintptr.com
-constructpoll.com
 contehos.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
-cpfqsubp.com
 cpxadroit.com
 cpxinteractive.com
 cpykudhagov.com
@@ -1078,6 +1077,7 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
@@ -1113,6 +1113,7 @@ filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
+fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -1348,6 +1349,7 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
+jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1447,7 +1449,6 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
-loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -1516,6 +1517,7 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
+mobisla.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1583,7 +1585,6 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -1641,8 +1642,6 @@ oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
-orfabfbu.com
-organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1683,7 +1682,6 @@ p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
-panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
@@ -1698,6 +1696,7 @@ pencilcongress.com
 pepepush.net
 perryvolleyball.com
 peskyclarifysuitcases.com
+petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
@@ -1719,6 +1718,7 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
+plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
@@ -1865,6 +1865,7 @@ rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
+rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
@@ -2078,6 +2079,7 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2184,15 +2186,15 @@ windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
+witch-counter.de
 witnessremovalsoccer.com
 wiwoqcmp.com
-wiwqhootrf.com
+wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
-wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2261,7 +2263,6 @@ yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
-ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yyselrqpyu.com
