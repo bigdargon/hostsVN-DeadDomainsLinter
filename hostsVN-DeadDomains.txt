@@ -128,7 +128,6 @@ click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
-rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -325,8 +324,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -421,7 +418,6 @@ www.adclerks.com
 pixel.inforsea.com
 api.jeeng.com
 sdk.jeeng.com
-telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
@@ -507,7 +503,6 @@ hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
-atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -564,6 +559,7 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
+imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
@@ -582,7 +578,6 @@ stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -678,7 +673,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-adtriplex.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -763,8 +757,10 @@ atrochaxctl.shop
 audraghafamign.net
 aulteeby.net
 aungudie.com
+authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
+auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
@@ -776,7 +772,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
-axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 azoaltou.com
@@ -904,7 +899,6 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
-chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -923,7 +917,6 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
-clicktag.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1004,6 +997,7 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
+dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
@@ -1034,6 +1028,7 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
+earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1103,7 +1098,6 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
-fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
@@ -1151,6 +1145,7 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
+fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1179,7 +1174,6 @@ gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
-globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -1312,7 +1306,6 @@ impractical-award.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
-instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1333,7 +1326,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
-jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1488,6 +1480,7 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1505,6 +1498,7 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
+meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1662,7 +1656,6 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
-otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1771,16 +1764,19 @@ prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
+psipausaix.net
 psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
+ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -2117,6 +2113,7 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaitoasaut.net
+vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2155,6 +2152,7 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
+vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
