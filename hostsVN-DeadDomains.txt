@@ -91,13 +91,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
-cdn-api.appadhoc.com
 count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -201,12 +195,7 @@ ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
-brand.ad
 a.brand.ad
-www.brand.ad
-ads.152media.com
-mob.152media.com
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -232,10 +221,8 @@ capi.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
-npm.publift.com
 prebid.publift.com
 showroom2.publift.com
-tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -259,7 +246,6 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
-mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -305,6 +291,7 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
+vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -331,6 +318,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -388,9 +376,6 @@ s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
 logsss.com
-perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -419,8 +404,6 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
-pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 tiads.timeinc.net
 delivery.taroads.com
 taroads.com
@@ -634,6 +617,7 @@ adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
+adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -648,7 +632,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.friendfinder.com
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -706,7 +689,6 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
-ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -847,6 +829,7 @@ br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
+bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -868,7 +851,6 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -891,7 +873,6 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -917,7 +898,6 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
-clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -948,7 +928,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpxinteractive.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
@@ -1041,7 +1020,6 @@ eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
-eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
@@ -1081,12 +1059,13 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
-eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1133,7 +1112,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
@@ -1270,7 +1248,6 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
-hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1416,13 +1393,13 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
-lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1477,6 +1454,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1609,7 +1587,6 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
-ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1756,7 +1733,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1858,7 +1834,6 @@ retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
-rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1910,7 +1885,6 @@ scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-scoota.co
 sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
@@ -2065,7 +2039,6 @@ trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
-tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
@@ -2175,6 +2148,7 @@ wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
 whoonseepoutche.net
@@ -2309,7 +2283,6 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-snnd.co
 tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
