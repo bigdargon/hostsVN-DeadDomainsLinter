@@ -52,6 +52,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -270,6 +271,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -284,7 +287,6 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -323,7 +325,6 @@ maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -387,7 +388,6 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
-analytics.logsss.com
 logsss.com
 perf.logsss.com
 rum.logsss.com
@@ -458,6 +458,7 @@ ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
@@ -527,7 +528,6 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -627,7 +627,6 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
-ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -664,7 +663,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -674,7 +672,6 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
-adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
@@ -728,7 +725,6 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
-anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -890,7 +886,6 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
-celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -1031,6 +1026,7 @@ dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
+eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
@@ -1072,7 +1068,6 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
-ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
 exogripper.com
@@ -1493,13 +1488,13 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1640,7 +1635,6 @@ opntwymri.com
 opsivesh.net
 optimost.com
 optiontwentiethhart.com
-opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1662,7 +1656,6 @@ ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
 ouftukoo.net
-ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1805,7 +1798,6 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1907,6 +1899,7 @@ saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
+scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -1957,6 +1950,7 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
+soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -2301,6 +2295,7 @@ comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
+ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
