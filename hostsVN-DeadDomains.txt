@@ -91,7 +91,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-count.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -137,7 +136,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -195,7 +193,6 @@ ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
-a.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -218,12 +215,6 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
-api.publift.com
-cdn.publift.com
-hb.publift.com
-prebid.publift.com
-showroom2.publift.com
-wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -246,6 +237,7 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
+mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -285,7 +277,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -374,8 +365,6 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
-analytics.logsss.com
-logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -437,6 +426,7 @@ ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
@@ -461,9 +451,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 aff-track.net
 mntzrlt.net
 core.polyad.net
@@ -646,7 +633,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -689,6 +675,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -803,7 +790,6 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -906,7 +892,6 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -1020,6 +1005,7 @@ eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
+eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
@@ -1099,7 +1085,6 @@ firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
-fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
 foliumumu.com
@@ -1112,6 +1097,7 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
+frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
@@ -1225,6 +1211,7 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1248,6 +1235,7 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1264,7 +1252,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1341,6 +1328,7 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jwuoxhjuq.com
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
@@ -1393,6 +1381,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1493,6 +1482,7 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
+mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
@@ -1587,6 +1577,7 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
+ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1727,6 +1718,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1765,7 +1757,6 @@ pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
-pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
@@ -1975,6 +1966,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
+switchads.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
@@ -2039,6 +2031,7 @@ trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
+tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
@@ -2160,6 +2153,7 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
+wiltiqkc.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
