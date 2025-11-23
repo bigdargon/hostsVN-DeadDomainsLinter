@@ -90,7 +90,6 @@ adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
-static.adthor.com
 v.adthor.com
 hb.adomik.com
 adtrackers.net
@@ -145,7 +144,6 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
-leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -254,6 +252,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -271,7 +270,10 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.mondiad.net
 img.mondiad.net
+mondiad.net
+serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -498,6 +500,7 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
+analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
@@ -515,6 +518,7 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -524,7 +528,6 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
-aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -643,6 +646,7 @@ adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
+adtology.com
 adtoma.com
 adverdirect.com
 advertica-cdn2.com
@@ -733,7 +737,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -947,7 +950,6 @@ dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
-daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
@@ -965,6 +967,8 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
+despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1115,9 +1119,11 @@ futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
+fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
+ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1131,6 +1137,7 @@ gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
+gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1227,6 +1234,7 @@ hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
+hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
@@ -1301,7 +1309,6 @@ jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
-jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1326,6 +1333,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1401,7 +1409,6 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
-ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
@@ -2017,7 +2024,6 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
-trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -2187,6 +2193,7 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
+xchange.ro
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
@@ -2224,6 +2231,7 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
