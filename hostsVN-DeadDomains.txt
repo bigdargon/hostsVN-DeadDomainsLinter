@@ -25,7 +25,6 @@ sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
-analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
@@ -162,7 +161,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -329,13 +327,13 @@ widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
-img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -383,7 +381,6 @@ sense.tapdb.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
-click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
@@ -406,6 +403,7 @@ hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -425,10 +423,10 @@ ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
@@ -542,6 +540,7 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -549,7 +548,6 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -635,11 +633,9 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
-adserver.ngz-network.de
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -771,7 +767,6 @@ bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
 barnesandnoble.bfast.com
-barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -858,7 +853,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -894,6 +888,7 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
+clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -933,7 +928,6 @@ crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
-cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
 cwqljsecvr.com
@@ -1042,6 +1036,7 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
+erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -1077,6 +1072,7 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1108,6 +1104,7 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -1166,6 +1163,7 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
+greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1176,6 +1174,7 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
+gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1189,7 +1188,6 @@ gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
-gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
@@ -1258,7 +1256,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1413,6 +1410,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1573,7 +1571,6 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
-offvmuf.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1812,6 +1809,7 @@ rcyorjkze.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
+recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
@@ -1826,11 +1824,9 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2138,8 +2134,7 @@ wapjwujfipuz.com
 wateryvan.com
 wathoojoba.com
 wauthaik.net
-wawhoufteedaksu.com
-wbehwesvucqmvx.com
+webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -2188,7 +2183,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2213,8 +2207,10 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
+yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
