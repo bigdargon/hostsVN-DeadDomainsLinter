@@ -28,11 +28,6 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
-certify.alexametrics.com
-js.alexametrics.com
-ext1.engageya.com
-platform.engageya.com
-widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -40,17 +35,11 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-cs.lkqd.net
-m.lkqd.net
-rtb.lkqd.net
-s.lkqd.net
-ssp.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-imggprx.steepto.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -144,23 +133,13 @@ partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
-www.bkrtx.com
-action-rtb.ibillboard.com
-bbcdn-bbnaut.ibillboard.com
-bbcdn-static-adserver.ibillboard.com
-bbcdn-tag.ibillboard.com
-bbnautid3.ibillboard.com
-video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 cdn.bidfilter.com
-r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-eb.proper.io
-events.proper.io
 capi.bidtellect.com
 advinci.net
 count.advinci.net
@@ -193,6 +172,7 @@ api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -232,8 +212,6 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
-exelatesync.extend.tv
-sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -247,7 +225,6 @@ www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
-service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
@@ -338,11 +315,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-pixel.inforsea.com
-sdk.jeeng.com
-telemetries.jeeng.com
-users.api.jeeng.com
-tiads.timeinc.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -397,19 +369,11 @@ aj3017.bid
 aj101.xyz
 aff-track.net
 mntzrlt.net
-cp.polyad.net
-cpx.polyad.net
-ds.polyad.net
-polyad.net
-st.core.polyad.net
-st.html.polyad.net
-st.polyad.net
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -523,6 +487,7 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
+abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
@@ -582,6 +547,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
@@ -758,6 +724,7 @@ broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
+btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -826,7 +793,6 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
-coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
@@ -840,8 +806,6 @@ compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
-connect.scroll.com
-connexity.net
 constintptr.com
 constructpoll.com
 contehos.com
@@ -969,6 +933,7 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
+erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -999,7 +964,6 @@ fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
 fd5orie8e.com
-fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
@@ -1046,7 +1010,6 @@ fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
-futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
@@ -1092,10 +1055,12 @@ gpttuucg.com
 gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
+greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
+grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1187,7 +1152,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1205,6 +1169,7 @@ imageshh.com
 imarketservices.com
 immerseweariness.com
 impractical-award.com
+ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1441,7 +1406,6 @@ my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
-myvisualiq.net
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1462,6 +1426,7 @@ news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1644,6 +1609,7 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1769,7 +1735,6 @@ rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
-rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
@@ -1787,7 +1752,6 @@ rtbpop.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
-rtk.io
 ruckingefs.com
 rukktiswibi.com
 ruwertur.com
@@ -1873,7 +1837,6 @@ ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
-static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -1917,7 +1880,6 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
-thebrighttag.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
@@ -2112,7 +2074,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2134,6 +2095,8 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
+xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
@@ -2158,6 +2121,7 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
+yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
