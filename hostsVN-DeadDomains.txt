@@ -105,7 +105,6 @@ cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -195,7 +194,6 @@ ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
 mondiad.net
@@ -431,10 +429,8 @@ aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
-bloggiamgia.info
 clix.vn
 crocopop.com
-duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
@@ -503,7 +499,6 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
-ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -621,6 +616,7 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
+asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -635,8 +631,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
-avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -702,6 +696,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blearspellaea.shop
@@ -718,6 +713,7 @@ brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
+broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -987,6 +983,7 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
+foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
@@ -1070,7 +1067,6 @@ grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
-gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
@@ -1151,7 +1147,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1478,7 +1473,6 @@ ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
 olkhtegk.com
-olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1489,6 +1483,7 @@ omlbaftroofj.com
 omnatuor.com
 omniscientspark.com
 omzostzuswm.com
+oneandonlynetwork.com
 onetouch12.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1510,7 +1505,6 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1673,6 +1667,7 @@ qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qs251.com
+qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1749,6 +1744,7 @@ rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
 rtbpopd.com
+rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
@@ -1833,7 +1829,6 @@ spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
-static-ads.akamaized.net
 static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
@@ -1877,6 +1872,7 @@ tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
+that-muscle.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
@@ -1967,6 +1963,8 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaitoasaut.net
+vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2138,6 +2136,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
