@@ -80,6 +80,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+imggprx.steepto.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -94,7 +95,6 @@ v.adthor.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
-ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
@@ -130,6 +130,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -160,9 +161,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
-aj2498.online
-aj2503.online
 ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
@@ -199,7 +197,6 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
-fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
@@ -239,6 +236,8 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+go.exrtbsrv.com
+syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
@@ -250,6 +249,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -320,7 +320,11 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
+widgets.asdpoi.com
 www.asdpoi.com
+bid.adservercheck.net
+www.adservercheck.net
+xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -365,6 +369,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
@@ -378,7 +384,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
@@ -421,6 +426,7 @@ ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
@@ -440,6 +446,7 @@ track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -453,8 +460,10 @@ ds.polyad.net
 dst.polyad.net
 dt.polyad.net
 go.polyad.net
+html.polyad.net
 img.polyad.net
 polyad.net
+st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 mediaz.asia
@@ -492,6 +501,7 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
+www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -516,7 +526,6 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -604,6 +613,7 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -629,7 +639,6 @@ adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
-adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -716,6 +725,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -754,7 +764,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -861,6 +870,7 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -900,6 +910,7 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
+consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
@@ -968,6 +979,7 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
+directcpmrev.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -998,7 +1010,6 @@ echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
-eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
@@ -1052,6 +1063,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1062,6 +1074,7 @@ fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
+feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -1079,7 +1092,6 @@ fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
-fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
@@ -1451,6 +1463,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1499,11 +1512,13 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
+mwekuzaj.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myvisualiq.net
+nagoverpayreimburse.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1625,7 +1640,6 @@ ouftukoo.net
 ourithauphexaus.com
 outabsola.com
 outflednailbin.com
-outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
@@ -1642,6 +1656,7 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
+ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozvvmicixrh.com
@@ -1663,6 +1678,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1685,6 +1701,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1700,6 +1717,7 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+pokreess.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1717,6 +1735,7 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
+pro-ads.club
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1742,7 +1761,6 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
-pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1817,6 +1835,7 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
+rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 ringedtusher.com
 riotedstuccos.top
@@ -1857,6 +1876,7 @@ ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1996,6 +2016,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2006,6 +2027,7 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
+tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2079,6 +2101,7 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
+vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -2088,11 +2111,13 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+viiadr.com
 vikawjobtar.com
 viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vivvuvkra.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2240,11 +2265,11 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
-zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2269,6 +2294,7 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
+tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
