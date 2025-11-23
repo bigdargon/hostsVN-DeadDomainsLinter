@@ -130,7 +130,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -321,12 +320,7 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
-widgets.asdpoi.com
 www.asdpoi.com
-adservercheck.net
-bid.adservercheck.net
-www.adservercheck.net
-xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -424,6 +418,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
@@ -445,7 +440,6 @@ track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -459,10 +453,8 @@ ds.polyad.net
 dst.polyad.net
 dt.polyad.net
 go.polyad.net
-html.polyad.net
 img.polyad.net
 polyad.net
-st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 mediaz.asia
@@ -500,7 +492,6 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -532,6 +523,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -633,6 +625,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -723,7 +716,6 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -762,6 +754,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -917,6 +910,7 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -991,6 +985,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
@@ -1231,6 +1226,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1646,7 +1642,6 @@ oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
-ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozvvmicixrh.com
@@ -1668,7 +1663,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1691,7 +1685,6 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
-pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1964,6 +1957,7 @@ surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
+swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -2085,7 +2079,6 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
-vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -2105,6 +2098,7 @@ vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
+volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
@@ -2169,6 +2163,7 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
+woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
@@ -2245,6 +2240,7 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zihcabtkic.com
+zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2273,7 +2269,6 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
