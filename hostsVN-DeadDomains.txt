@@ -90,6 +90,7 @@ adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
+static.adthor.com
 v.adthor.com
 hb.adomik.com
 adtrackers.net
@@ -144,6 +145,7 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
+leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -327,7 +329,6 @@ widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
-www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -405,7 +406,6 @@ hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -429,7 +429,6 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv681.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
 ads.livetv697.me
@@ -528,6 +527,7 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
+aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -542,7 +542,6 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -636,9 +635,11 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
+adserver.ngz-network.de
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -737,6 +738,7 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
+avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -856,6 +858,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -891,7 +894,6 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
-clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -950,6 +952,7 @@ dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
+daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
@@ -1039,7 +1042,6 @@ epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
-erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -1075,7 +1077,6 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1107,7 +1108,6 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
-frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
@@ -1166,7 +1166,6 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1177,7 +1176,6 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1309,6 +1307,7 @@ jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1409,6 +1408,7 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
+ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
@@ -1812,7 +1812,6 @@ rcyorjkze.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
-recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
@@ -1831,6 +1830,7 @@ retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2140,7 +2140,6 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
-webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -2193,7 +2192,6 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
-xchange.ro
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
@@ -2215,10 +2213,8 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
-xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
-yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
