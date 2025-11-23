@@ -254,7 +254,6 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
-auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -272,10 +271,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
 img.mondiad.net
-mondiad.net
-serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -414,6 +410,7 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 mat.cryptox-ads.io
+pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -501,7 +498,6 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
-analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
@@ -519,7 +515,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -641,7 +636,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -649,7 +643,6 @@ adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
-adtology.com
 adtoma.com
 adverdirect.com
 advertica-cdn2.com
@@ -688,7 +681,6 @@ ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
-alia-iso.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -832,6 +824,7 @@ brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
+btiatfobkjiv.com
 btrll.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -972,8 +965,6 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
-despicablereporthusband.com
-destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1124,11 +1115,9 @@ futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
-fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1142,7 +1131,6 @@ gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1239,7 +1227,6 @@ hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
-hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
@@ -1339,7 +1326,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1806,6 +1792,7 @@ qvzpofgmlwlnrt.com
 qwerfdx.com
 qwuopcbilw.com
 qwyaqhortog.com
+qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
@@ -1950,6 +1937,7 @@ specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
@@ -2029,6 +2017,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficads.net
 trafficstrategies.com
 tranquilside.com
 traovrjwu.com
@@ -2043,6 +2032,7 @@ tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
+tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
@@ -2095,6 +2085,7 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
+vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
@@ -2160,7 +2151,6 @@ whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
-wijwunrcoo.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
@@ -2234,7 +2224,6 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
