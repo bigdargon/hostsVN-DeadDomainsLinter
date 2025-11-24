@@ -8,7 +8,6 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
@@ -90,7 +89,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -173,6 +171,7 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
+adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -314,6 +313,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
+ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
 sense.tapdb.com
@@ -344,12 +344,10 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
-ads.livetv625.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -358,7 +356,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
-ads.livetv673.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -476,6 +473,7 @@ log.daidoanket.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+newlog.daidoanket.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -501,7 +499,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
-4d5.net
 4hfchest5kdnfnut.com
 4info.com
 4wnet.com
@@ -581,6 +578,7 @@ advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
+afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
@@ -616,7 +614,6 @@ alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
-alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -645,6 +642,7 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
+asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -734,6 +732,7 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
+blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
@@ -782,7 +781,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -851,6 +849,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1073,6 +1072,7 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
+gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -1144,7 +1144,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1199,7 +1198,6 @@ ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
-imageshh.com
 imarketservices.com
 immerseweariness.com
 impractical-award.com
@@ -1225,7 +1223,6 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 j0x87i0og.com
 jagnoans.com
 jagzrmdyw.com
@@ -1244,6 +1241,7 @@ jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
+jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1289,7 +1287,6 @@ kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
-klkchits.com
 klsdee.com
 klumn.com
 knlqdtcbi.com
@@ -1317,9 +1314,11 @@ lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
+lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
+lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -1591,6 +1590,7 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
+pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
@@ -1669,8 +1669,8 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
-ptuzrywmega.com
 ptygunjk.com
+publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
@@ -1703,6 +1703,7 @@ qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qs251.com
+qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1936,7 +1937,6 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
-tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2077,7 +2077,6 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
-wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -2183,6 +2182,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
