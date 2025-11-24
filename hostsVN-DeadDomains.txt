@@ -13,21 +13,9 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-a.ligatus.com
-analysis.ligatus.com
 analysis1.ligatus.com
-analysis2.ligatus.com
-a-ssl.ligatus.com
-d.ligatus.com
-directads.ligatus.com
-directads2.ligatus.com
-e.ligatus.com
 i.ligatus.com
-ligatus.com
-reporting.ligatus.com
 self-booking.ligatus.com
-ssl.ligatus.com
-www.ligatus.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -101,18 +89,12 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 apilw.epom.com
-cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -174,9 +156,6 @@ go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
-api.optad360.com
-apipublisher.optad360.com
-publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -184,7 +163,6 @@ intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
-aaddcount.com
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -229,7 +207,6 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
-native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -253,7 +230,6 @@ stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -296,6 +272,7 @@ ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
+hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
@@ -305,8 +282,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -334,7 +309,6 @@ static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -427,7 +401,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -443,7 +416,6 @@ syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
-ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
@@ -528,7 +500,6 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
-ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -552,12 +523,10 @@ ads.detelefoongids.nl
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.seniorfriendfinder.com
-ads.soft32.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -576,6 +545,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -585,6 +555,7 @@ afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
+africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
@@ -706,6 +677,7 @@ bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
+beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -714,6 +686,7 @@ bee7.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
+benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
@@ -763,7 +736,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -812,6 +784,7 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
+circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
@@ -969,6 +942,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -976,6 +950,7 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1011,7 +986,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1289,7 +1263,6 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
-klsdee.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1366,7 +1339,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1483,7 +1455,6 @@ oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
-oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1496,7 +1467,6 @@ odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
-offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1666,6 +1636,7 @@ psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
+ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
@@ -1792,6 +1763,7 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
+saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
@@ -1994,7 +1966,6 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-uselnk.com
 userreplay.net
 userresewn.com
 ushoofop.com
@@ -2025,7 +1996,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2136,6 +2106,7 @@ xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
+yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
@@ -2185,15 +2156,12 @@ analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
-c2i-cdn.startappnetwork.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
