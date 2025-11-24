@@ -11,6 +11,7 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -172,7 +173,6 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -314,7 +314,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
-ad-track.adiiix.com
 ads.adiiix.com
 beta.tapdb.com
 sense.tapdb.com
@@ -345,10 +344,12 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv626.me
 ads.livetv630.me
 ads.livetv632.me
@@ -357,6 +358,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv673.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
@@ -474,7 +476,6 @@ log.daidoanket.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-newlog.daidoanket.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -566,12 +567,12 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
+adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
@@ -580,7 +581,6 @@ advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
-afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
@@ -645,7 +645,6 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
-asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -735,7 +734,6 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
-blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
@@ -784,6 +782,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1043,6 +1042,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1073,7 +1073,6 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
-gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
@@ -1186,12 +1185,15 @@ hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
+hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
+idyllteapots.com
+ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
@@ -1242,7 +1244,6 @@ jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
-jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1316,11 +1317,9 @@ lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
-lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
-lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -1379,8 +1378,11 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+makemydownload.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1422,6 +1424,7 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
+mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
@@ -1471,7 +1474,9 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
+nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1586,7 +1591,6 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
-pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
@@ -1615,6 +1619,7 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
+plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
@@ -1629,6 +1634,7 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
+pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1663,8 +1669,8 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
-publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
@@ -1697,7 +1703,6 @@ qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qs251.com
-qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1931,6 +1936,7 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
+tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2142,6 +2148,7 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
@@ -2176,7 +2183,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
