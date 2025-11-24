@@ -11,7 +11,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -125,6 +124,12 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
+whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -171,8 +176,19 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
+aaddcount.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -234,6 +250,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -382,6 +399,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+m.clevernet.vn
+www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
@@ -392,6 +411,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -407,6 +427,7 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -438,6 +459,7 @@ duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -448,8 +470,11 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.daidoanket.vn
 log.tinnhac.com
+log.vnfinance.vn
 nct1.logging.nextsmarty.com
+newlog.daidoanket.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -522,8 +547,10 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.detelefoongids.nl
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -545,7 +572,6 @@ adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
-adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
@@ -630,6 +656,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -738,10 +765,12 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
+cads.scalemonk.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -835,6 +864,7 @@ cwqljsecvr.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+d.appsdt.com
 da-ads.com
 dacmaiss.com
 daintydragged.com
@@ -889,6 +919,7 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
+dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -966,12 +997,15 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
+fd5orie8e.com
+fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
+feevefouhe.net
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
@@ -1009,7 +1043,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1137,6 +1170,7 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1152,15 +1186,12 @@ hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
-hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-idyllteapots.com
-ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
@@ -1348,11 +1379,8 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-makemydownload.com
-makespram.com
 makqfcvs.com
 malhfiacgx.com
-maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1371,6 +1399,7 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1393,7 +1422,6 @@ moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
-mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
@@ -1443,14 +1471,13 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
+oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1572,6 +1599,7 @@ phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1587,7 +1615,6 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
-plaicecaught.com
 planesknob.com
 planningdesigned.com
 playsdonkey.com
@@ -1602,7 +1629,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1612,7 +1638,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1653,6 +1678,7 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
+pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1776,6 +1802,7 @@ seemoovojezy.net
 sendmepixel.com
 seo4india.com
 serconmp.com
+servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1826,6 +1853,7 @@ spacash.com
 spanuletubings.com
 spathalbarmie.com
 speakspurink.com
+special.beatifulllhistory.com
 specifiedbloballowance.com
 sprungencase.com
 spyokjoxdl.com
@@ -1937,6 +1965,7 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
+uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
@@ -2077,6 +2106,7 @@ www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
+xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
@@ -2112,7 +2142,6 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
@@ -2147,8 +2176,10 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
+c2i-cdn.startappnetwork.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
