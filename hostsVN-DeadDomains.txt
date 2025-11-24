@@ -37,7 +37,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -63,6 +62,7 @@ www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
+clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
@@ -136,7 +136,6 @@ rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
-rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
@@ -155,6 +154,7 @@ syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
+intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
@@ -331,7 +331,6 @@ ads.livetv670.me
 ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
-ads.livetv691.me
 ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
@@ -485,6 +484,7 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
+acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -541,6 +541,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -642,7 +643,6 @@ awvracajcsu.com
 awwagqorqpty.com
 axkwmsivme.com
 axx.seovietnam.pro
-azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -653,7 +653,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -949,6 +948,7 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1079,6 +1079,7 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
+gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1211,6 +1212,11 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
+jozowgldpc.com
+jpjmpqaupc.com
+jpovulldaghw.com
+jpphaqpmugm.com
+jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1378,6 +1384,7 @@ moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
+mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1394,7 +1401,6 @@ myntelligence.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
-nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
@@ -1404,7 +1410,6 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
-nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
@@ -1848,7 +1853,6 @@ swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
-taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
@@ -1865,6 +1869,7 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
+thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -1889,6 +1894,7 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
+total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2070,7 +2076,6 @@ xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
-xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
