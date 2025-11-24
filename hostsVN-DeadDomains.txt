@@ -63,7 +63,6 @@ www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
-clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
@@ -156,10 +155,10 @@ syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
-intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
+lalaping.com
 static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
@@ -407,6 +406,7 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -485,7 +485,6 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
-acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -950,7 +949,6 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
-faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1081,7 +1079,6 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
-gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1214,11 +1211,6 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
-jozowgldpc.com
-jpjmpqaupc.com
-jpovulldaghw.com
-jpphaqpmugm.com
-jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1331,6 +1323,7 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lutoorgourgi.com
+luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1385,7 +1378,6 @@ moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
-mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1873,7 +1865,6 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
-thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -1898,7 +1889,6 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
-total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2138,6 +2128,7 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
