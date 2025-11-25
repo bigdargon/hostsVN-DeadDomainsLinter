@@ -79,7 +79,6 @@ spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
-image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -232,6 +231,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -259,6 +259,7 @@ image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
+delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
@@ -505,7 +506,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
@@ -519,7 +519,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -610,9 +609,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
-atrmkoopdlhu.com
 atrochaxctl.shop
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -787,6 +784,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
+compactbanner.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -807,7 +805,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -839,7 +836,6 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
-delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
@@ -858,6 +854,7 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
@@ -940,7 +937,6 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
-faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -955,6 +951,7 @@ fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
+feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -993,6 +990,7 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
+fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
@@ -1023,6 +1021,7 @@ girls-only.online
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
+glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
@@ -1075,6 +1074,7 @@ h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
+handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
@@ -1147,6 +1147,7 @@ ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
+ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
@@ -1163,7 +1164,6 @@ interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
-intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irritateinformantmeddle.com
@@ -1219,7 +1219,6 @@ jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
-kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
@@ -1235,7 +1234,6 @@ keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
-kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -1379,7 +1377,6 @@ mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
-mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1569,10 +1566,11 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
+pmagumovfma.com
+pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -1737,7 +1735,6 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
-saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
@@ -1966,7 +1963,6 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
-viiadr.com
 vikawjobtar.com
 viliaff.com
 vipicmou.net
