@@ -36,6 +36,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -121,6 +128,16 @@ disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
+brand.ad
+a.brand.ad
+www.brand.ad
+cm.send.microadinc.com
+dsp.send.microadinc.com
+d-track.send.microadinc.com
+microadinc.com
+prcache.microadinc.com
+s-rtb.send.microadinc.com
+ssp.send.microadinc.com
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -192,6 +209,7 @@ cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
+c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -244,6 +262,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -284,7 +303,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
@@ -516,6 +534,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
+ads.digitalmedianet.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
@@ -532,6 +551,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -541,6 +561,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advantagesclotblend.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -579,7 +600,6 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
-all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -613,7 +633,9 @@ armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
+asfobftirag.com
 asgclickkl.com
+asgclickpop.com
 asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
@@ -734,6 +756,7 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 cacaobroach.com
 cads.scalemonk.com
+cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -781,6 +804,7 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -806,6 +830,7 @@ constructpoll.com
 contehos.com
 coogoanu.net
 corrumpsublid.top
+cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -944,6 +969,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -1146,7 +1172,6 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
-hxpohplms.com
 hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
@@ -1305,7 +1330,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1350,7 +1374,6 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
-maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1422,7 +1445,6 @@ nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
-nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
@@ -1710,6 +1732,7 @@ retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
+rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1766,6 +1789,7 @@ seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
+septfd2em64eber.com
 serconmp.com
 servedbyopenx.com
 setypckq.com
@@ -1887,6 +1911,7 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
+tirosagalite.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -1930,6 +1955,7 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
+uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
@@ -1981,6 +2007,7 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -1993,6 +2020,7 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
+vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -2006,6 +2034,8 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
+wapjwujfipuz.com
+warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
@@ -2084,7 +2114,6 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
-xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
