@@ -36,6 +36,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -216,7 +217,6 @@ www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
-staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
@@ -515,8 +515,10 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
+adaction.de
 adaftegloomto.com
 adbrn.com
+adcenter.net
 adcloud.net
 adformdsp.net
 adk2.co
@@ -547,6 +549,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -600,7 +603,6 @@ alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
-alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -678,6 +680,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -725,6 +728,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bonertraffic14.pro
 bookletblockedcaught.com
+bookpostponemoreover.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -789,10 +793,8 @@ chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
-chozarpeases.com
 chtsayil.com
 chulhawakened.com
-chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
@@ -802,6 +804,7 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
+clicktag.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -812,6 +815,7 @@ coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
+cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
@@ -950,7 +954,6 @@ eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
-errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
@@ -1017,6 +1020,7 @@ fpqwpqiyq.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+freewebcounter.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
@@ -1130,6 +1134,7 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1170,6 +1175,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1184,6 +1190,7 @@ ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
+immerseweariness.com
 impractical-award.com
 ingotedbooze.com
 innocentwax.com
@@ -1199,7 +1206,6 @@ ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
-itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1369,10 +1375,10 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
-mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
@@ -1426,14 +1432,12 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
-nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
-netagent.cz
 netcommunities.com
 netflame.cc
 netshelter.net
@@ -1464,12 +1468,11 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oalselry.com
 oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obituaryfuneral.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1562,6 +1565,7 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1612,7 +1616,6 @@ pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
-pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
@@ -1621,11 +1624,13 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+popuptraffic.com
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1649,6 +1654,7 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
+ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
@@ -1702,7 +1708,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-rankchamp.de
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1867,6 +1872,7 @@ stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
+sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
@@ -1895,6 +1901,7 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
+thebugs.ws
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
@@ -1999,6 +2006,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+view4cash.de
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2081,8 +2089,8 @@ woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
-worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2145,7 +2153,6 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
-yume.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
