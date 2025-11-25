@@ -53,6 +53,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -106,10 +107,8 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2274.online
 aj2307.online
 aj2412.online
-aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -150,6 +149,8 @@ count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
@@ -167,6 +168,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+go.exrtbsrv.com
 syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -544,6 +546,7 @@ ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
@@ -718,6 +721,7 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
+blacurlik.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -783,7 +787,9 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chioneflake.com
 chippedaugur.com
+chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
@@ -810,7 +816,6 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
-coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
@@ -904,6 +909,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -996,7 +1002,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1025,7 +1030,6 @@ fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
-futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
@@ -1033,7 +1037,6 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
-gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -1151,6 +1154,7 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
+hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1169,6 +1173,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1399,6 +1404,7 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
+mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1619,6 +1625,7 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1700,6 +1707,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -1733,7 +1741,6 @@ rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1773,6 +1780,7 @@ saigopooramee.net
 saimifoa.net
 salivanmobster.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
@@ -1902,7 +1910,6 @@ thirstytwig.com
 thootipheguph.com
 thougnoangi.com
 thoungoofeed.net
-thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
@@ -1927,6 +1934,7 @@ tranquilside.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
+trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
