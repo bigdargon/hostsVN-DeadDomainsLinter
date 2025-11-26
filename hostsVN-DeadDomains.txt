@@ -81,6 +81,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -169,7 +170,6 @@ r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
-madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
@@ -346,7 +346,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -600,7 +599,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -614,6 +612,7 @@ adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
+adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -624,7 +623,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -659,7 +657,6 @@ amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
-anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -713,6 +710,7 @@ axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
+baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -1596,6 +1594,7 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
@@ -1709,6 +1708,7 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
+pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1798,6 +1798,7 @@ rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
+rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
@@ -1948,7 +1949,6 @@ tearerernest.com
 techclicks.net
 tentaculos.net
 terrapsps.com
-tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
@@ -2057,6 +2057,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+view4cash.de
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2180,7 +2181,6 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
-yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
