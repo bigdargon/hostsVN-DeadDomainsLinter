@@ -37,6 +37,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -78,7 +79,6 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -87,7 +87,6 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -258,7 +257,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -295,6 +293,7 @@ api.traq.li
 pgmcdn.com
 app2.inorbitad.com
 pclk.name
+maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
@@ -313,7 +312,6 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -613,6 +611,7 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -673,7 +672,6 @@ ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
-alia-iso.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -861,6 +859,7 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
+chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
@@ -922,7 +921,6 @@ croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
-culwcoam.com
 curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
@@ -947,7 +945,6 @@ decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
-deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
@@ -1456,6 +1453,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1499,6 +1497,7 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
+munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1852,7 +1851,6 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
-rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1914,6 +1912,7 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
@@ -2069,7 +2068,6 @@ urigagxnji.com
 uruswan.com
 userreplay.net
 userresewn.com
-usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
