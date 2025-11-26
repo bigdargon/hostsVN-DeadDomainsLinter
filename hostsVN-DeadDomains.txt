@@ -9,6 +9,8 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
+certify-stage.alexametrics.com
+pixel.alexametrics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -64,6 +66,7 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -194,10 +197,10 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
-staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
@@ -303,6 +306,7 @@ static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
 taroads.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -316,6 +320,7 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv626.me
 ads.livetv630.me
@@ -417,6 +422,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -485,7 +491,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
-adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
@@ -518,6 +523,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -569,6 +575,7 @@ alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
+alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -601,6 +608,7 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
+asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -690,7 +698,6 @@ bmaahwahpofp.com
 bn.bfast.com
 bonertraffic14.pro
 bookletblockedcaught.com
-boom.ro
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -723,6 +730,7 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -763,6 +771,7 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
+civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
@@ -881,7 +890,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1004,7 +1012,6 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
-gaiwhouvile.com
 gaizoopi.net
 galepush.net
 gaunchdelimes.com
@@ -1053,6 +1060,7 @@ grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
+gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1217,7 +1225,6 @@ jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
-kamak-mab.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
@@ -1230,6 +1237,7 @@ kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
+kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
@@ -1464,7 +1472,6 @@ olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
-omniscientspark.com
 omzostzuswm.com
 oneandonlynetwork.com
 onetouch12.com
@@ -1840,7 +1847,6 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
-synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
 tabookbusines.info
@@ -1859,7 +1865,6 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
-thebugs.ws
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
@@ -1906,7 +1911,6 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
-tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
@@ -1997,7 +2001,6 @@ vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
-wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
@@ -2020,7 +2023,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
@@ -2060,6 +2062,7 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
+xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xfvvygrv.com
@@ -2139,7 +2142,6 @@ img.leadzutw.com
 metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
-q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
