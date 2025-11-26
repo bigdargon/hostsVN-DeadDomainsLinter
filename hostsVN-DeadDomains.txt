@@ -49,7 +49,6 @@ rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
-ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
@@ -139,6 +138,7 @@ cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -332,6 +332,7 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
+sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -422,7 +423,6 @@ ads.livetv681.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv691.me
-ads.livetv697.me
 ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
@@ -471,6 +471,7 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
+static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
@@ -574,8 +575,6 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
-abkoxlikbzs.com
-abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
@@ -595,6 +594,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adjuggler.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -605,6 +605,7 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
@@ -670,7 +671,6 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
-akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
@@ -993,7 +993,6 @@ dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
-dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
@@ -1145,7 +1144,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go.mobisla.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1271,6 +1269,7 @@ ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
+immerseweariness.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
@@ -1296,6 +1295,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jacadpjirs.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1407,6 +1407,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1444,9 +1445,6 @@ lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
-madriyelowd.com
-madserve.org
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1465,7 +1463,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-megago.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1707,6 +1704,7 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1769,20 +1767,18 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
-qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
 quarterserver.de
-quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
 qumagee.com
 quzodcttub.com
+quzwteqzaabm.com
 qvzpofgmlwlnrt.com
-qwerfdx.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -2048,6 +2044,7 @@ ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
+undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
@@ -2131,6 +2128,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
