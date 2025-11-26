@@ -68,6 +68,7 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
@@ -80,7 +81,6 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -160,6 +160,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -345,6 +346,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -378,8 +380,6 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-pssy.xyz
-r.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -453,6 +453,7 @@ www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
+k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -499,6 +500,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -612,7 +614,6 @@ adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
-adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -683,7 +684,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -713,7 +713,6 @@ axx.seovietnam.pro
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
-baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -780,7 +779,6 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
-breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -1067,7 +1065,6 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
-fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1079,7 +1076,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1283,6 +1279,7 @@ jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
+jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
@@ -1298,7 +1295,6 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1365,6 +1361,7 @@ lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
+leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1378,7 +1375,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-linktarget.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1404,7 +1400,6 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1468,7 +1463,6 @@ mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
-mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1602,9 +1596,9 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
-ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1673,7 +1667,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-pokreess.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1685,7 +1678,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pq8ithtdw.com
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1717,7 +1709,6 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
-pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1792,7 +1783,6 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
-rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ringedtusher.com
@@ -1808,7 +1798,6 @@ rlfvuficzdmsx.com
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
-rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
@@ -1925,6 +1914,7 @@ stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
+stoopfalse.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2074,7 +2064,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vkeadqoff.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2139,6 +2128,7 @@ witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2250,6 +2240,7 @@ showbiz.owndata.network
 tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
+umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
