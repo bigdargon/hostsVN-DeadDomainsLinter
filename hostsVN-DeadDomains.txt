@@ -85,7 +85,6 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
-yasni.adnetasia.com
 zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
@@ -365,6 +364,7 @@ www.adclerks.com
 api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
+users.api.jeeng.com
 delivery.taroads.com
 taroads.com
 connect.idocdn.com
@@ -379,7 +379,6 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-d.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -461,6 +460,7 @@ mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
+mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -572,6 +572,7 @@ adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
+adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -739,7 +740,6 @@ beabsolom.com
 beakerweedjazz.com
 bebreloomr.com
 becketsbesogne.top
-bedaoibe.com
 bedrapiona.com
 bee7.com
 beefoaloode.net
@@ -854,6 +854,7 @@ clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
+cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
@@ -918,7 +919,6 @@ defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
 deligrassdull.com
-deliriamorula.shop
 deloton.com
 demo123.info
 demtaudeeg.com
@@ -1026,6 +1026,7 @@ fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
+fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
@@ -1069,7 +1070,6 @@ frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
-fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1089,7 +1089,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1097,6 +1096,7 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 ginpithed.live
 girls-only.online
 gk79a2oup.com
@@ -1150,6 +1150,7 @@ gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
+gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
@@ -1218,7 +1219,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1256,7 +1256,6 @@ ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
-iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
@@ -1406,6 +1405,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1542,6 +1542,7 @@ ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
+olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1570,6 +1571,7 @@ oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
+orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
@@ -1693,11 +1695,9 @@ ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
-ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
-ptuzrywmega.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1878,7 +1878,6 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -1950,11 +1949,9 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
-theekedgleamed.com
 theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
-thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
@@ -2033,7 +2030,6 @@ urigagxnji.com
 uruswan.com
 userreplay.net
 userresewn.com
-ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
