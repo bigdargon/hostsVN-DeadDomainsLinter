@@ -49,7 +49,6 @@ rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
-ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
@@ -79,6 +78,7 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -87,6 +87,7 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -142,7 +143,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -178,7 +178,6 @@ clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
-video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -242,7 +241,6 @@ static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -257,6 +255,7 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
+tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -312,6 +311,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -510,7 +510,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
-ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
 adx.kul.vn
@@ -591,7 +590,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
-adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
@@ -635,6 +633,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -796,7 +795,6 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
-blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
@@ -835,7 +833,6 @@ cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
-camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -896,6 +893,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
+compactbanner.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -921,6 +919,7 @@ croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
+culwcoam.com
 curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
@@ -945,6 +944,7 @@ decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
+deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
 delicatedimlysloppy.com
@@ -1096,8 +1096,6 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpyhuktuwatn.com
-frameworkdeserve.com
-freakishmartyr.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
@@ -1252,7 +1250,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1452,8 +1449,6 @@ maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
-matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1709,6 +1704,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1851,6 +1847,7 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
+rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1923,8 +1920,6 @@ solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
-spacash.com
-spanuletubings.com
 spathalbarmie.com
 speakspurink.com
 special.beatifulllhistory.com
@@ -1984,6 +1979,7 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
+thebugs.ws
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
@@ -2051,8 +2047,6 @@ unknowntray.com
 unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
-unthem.com
-untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
@@ -2068,6 +2062,7 @@ urigagxnji.com
 uruswan.com
 userreplay.net
 userresewn.com
+usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
@@ -2263,7 +2258,6 @@ hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
-metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
