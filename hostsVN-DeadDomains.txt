@@ -37,7 +37,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -279,6 +278,7 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
+exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -295,7 +295,6 @@ api.traq.li
 pgmcdn.com
 app2.inorbitad.com
 pclk.name
-maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
@@ -614,7 +613,6 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -624,12 +622,10 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -677,6 +673,7 @@ ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
+alia-iso.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -864,7 +861,6 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
-chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
@@ -889,6 +885,7 @@ clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
+cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
@@ -1110,6 +1107,7 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
+fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
@@ -1257,6 +1255,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1500,7 +1499,6 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
-munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1552,6 +1550,7 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1711,7 +1710,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1808,6 +1806,7 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1818,6 +1817,7 @@ retryngs.com
 rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
+rickerrotal.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1914,7 +1914,6 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
-snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
@@ -2136,6 +2135,7 @@ webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
+weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
