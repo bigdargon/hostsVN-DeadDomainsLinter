@@ -197,6 +197,7 @@ www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
+rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
@@ -212,7 +213,6 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
-mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -313,6 +313,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -365,7 +366,6 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
-click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -631,6 +631,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -798,6 +799,7 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+boom.ro
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -1091,6 +1093,7 @@ forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
+fpqwpqiyq.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1170,7 +1173,6 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
-gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -1214,7 +1216,6 @@ hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
-hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
@@ -1275,6 +1276,7 @@ internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
+intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -1283,6 +1285,7 @@ iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
+ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
@@ -1623,7 +1626,6 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
-outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1647,7 +1649,6 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1761,7 +1762,6 @@ qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
-qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
@@ -2121,6 +2121,7 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
+wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
@@ -2190,6 +2191,7 @@ xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
+xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
@@ -2242,7 +2244,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2276,7 +2277,6 @@ tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
