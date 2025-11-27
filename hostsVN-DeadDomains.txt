@@ -216,8 +216,6 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
-api.optad360.com
-apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -386,6 +384,7 @@ pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
+connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -573,7 +572,6 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
@@ -623,6 +621,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -632,7 +631,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -649,7 +647,6 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
-ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
@@ -826,7 +823,6 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
-c44wergiu87heghoconutdx.com
 cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
@@ -914,7 +910,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -956,7 +951,6 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
-destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1299,6 +1293,10 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
+jerboasjourney.com
+jewgn8une.com
+jfgeuisugoekf.com
+jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -1358,6 +1356,7 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
+kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1448,6 +1447,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1465,7 +1465,6 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
-mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mifoqnwi.com
@@ -1481,7 +1480,6 @@ mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
-moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1627,6 +1625,7 @@ ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
+owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
@@ -1782,6 +1781,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -1815,6 +1815,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ringedtusher.com
 riotedstuccos.top
+ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1995,6 +1996,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -2002,6 +2004,7 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
+tooglidanog.net
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
@@ -2111,6 +2114,7 @@ vudachisouxouk.net
 vugnubier.com
 vugpakba.com
 vujdudspear.com
+vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
