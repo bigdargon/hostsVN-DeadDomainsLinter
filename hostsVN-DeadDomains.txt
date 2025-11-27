@@ -50,6 +50,7 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
+ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -149,6 +150,7 @@ action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
+bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
@@ -156,7 +158,6 @@ bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
-static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
@@ -267,9 +268,6 @@ tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
-native-vpaid.winadx.com
-rewarded.winadx.com
-service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -317,6 +315,7 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -380,7 +379,6 @@ telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
-delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
@@ -392,6 +390,9 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+mat.cryptox-ads.io
+pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -508,12 +509,14 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
+api.boclinkads.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -587,6 +590,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -616,6 +620,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -916,7 +921,6 @@ cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
-cynes-gwf.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -1054,8 +1058,6 @@ fauphauvuzeey.net
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
-fedapush.net
-feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -1221,6 +1223,7 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
+hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1447,9 +1450,11 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1864,6 +1869,7 @@ sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
+seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
@@ -1901,7 +1907,6 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2186,7 +2191,6 @@ xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
@@ -2229,6 +2233,7 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
+yume.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
