@@ -50,7 +50,6 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
-ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -103,6 +102,8 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -111,6 +112,11 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
+cdn2.specificmedia.com
+cdn3.specificmedia.com
+leads2.specificmedia.com
+redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -143,7 +149,6 @@ action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
-bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
@@ -160,6 +165,9 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
+mob.152media.com
+player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -205,6 +213,10 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+adrevenueindex.optad360.com
+api.optad360.com
+apipublisher.optad360.com
+publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -246,6 +258,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
+u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -304,12 +317,12 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
@@ -333,6 +346,8 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
+s385.mxcdn.net
+s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -363,8 +378,11 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
+pixel.app.returnpath.net
+pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
+hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -374,9 +392,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-mat.cryptox-ads.io
-pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -486,6 +501,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
+ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
@@ -498,13 +514,13 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -565,12 +581,12 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
+ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -587,8 +603,10 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.soft32.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -598,7 +616,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -640,6 +657,7 @@ ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
+ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
 akximhhcunr.com
@@ -709,6 +727,7 @@ awwagqorqpty.com
 axiabanners.exodus.gr
 axkwmsivme.com
 axx.seovietnam.pro
+aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -733,7 +752,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -976,10 +994,12 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
+ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
@@ -1111,6 +1131,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1200,7 +1221,6 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
-hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1243,6 +1263,7 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
+internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1311,6 +1332,7 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
+kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -1401,6 +1423,7 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1427,7 +1450,6 @@ mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
-medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1554,7 +1576,9 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
+oneegrou.net
 onetouch12.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1673,6 +1697,7 @@ poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
+potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
@@ -1761,6 +1786,7 @@ raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
+rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
@@ -1798,6 +1824,7 @@ rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rmxpppehecrmz.com
 rndnoibattor.com
+rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
@@ -1837,7 +1864,6 @@ sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
-seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
@@ -2033,6 +2059,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
+uselnk.com
 userreplay.net
 userresewn.com
 usounoul.com
@@ -2111,6 +2138,7 @@ whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
+whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
@@ -2223,6 +2251,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
@@ -2230,11 +2259,13 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
+moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
+snnd.co
 tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
