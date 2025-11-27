@@ -51,6 +51,8 @@ rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
+t.lkqd.net
+us.lkqd.net
 v.lkqd.net
 api.parrable.com
 h.parrable.com
@@ -91,6 +93,7 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
+advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -113,11 +116,11 @@ leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
-adserver-toy.adtechjp.com
 prod.adtechjp.com
 services.scanscout.com
 static.cbsileads.com
 aj1015.online
+aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -145,7 +148,6 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -281,7 +283,6 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
 anymad.com
-cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -427,7 +428,6 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-online.com
-aff-track.net
 mntzrlt.net
 core.polyad.net
 cp.polyad.net
@@ -506,7 +506,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -518,7 +517,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -604,6 +602,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -888,6 +887,7 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1030,6 +1030,7 @@ facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
+fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1184,6 +1185,7 @@ helitagrfid.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
+hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1409,7 +1411,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1439,7 +1440,6 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1448,7 +1448,6 @@ mfajfikmyqan.com
 mg2connext.com
 mgbid.net
 mgepuynxttyi.com
-mhavfytafo.com
 mhelfiricbwa.com
 mifoqnwi.com
 mingledventin.com
@@ -1469,6 +1468,7 @@ morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
+mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1477,6 +1477,7 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
+mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myvisualiq.net
@@ -1786,7 +1787,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-remox.com
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
@@ -1855,6 +1855,7 @@ sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
+servethis.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1937,8 +1938,6 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suwcaxazzn.com
-svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2065,7 +2064,6 @@ vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
-vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
@@ -2084,6 +2082,10 @@ voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
+voosaivege.com
+vounaipu.net
+vpldfujttsdfj.com
+vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -2108,7 +2110,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
-webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -2123,7 +2124,6 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
@@ -2151,6 +2151,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
@@ -2198,7 +2199,6 @@ ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
-yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
