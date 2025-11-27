@@ -85,7 +85,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -335,6 +334,8 @@ ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
+hetaint.com
+ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
@@ -362,6 +363,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -504,7 +506,6 @@ ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
-crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -536,6 +537,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
+2471april2024.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
@@ -878,6 +880,7 @@ compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
+connect.scroll.com
 connexity.net
 constintptr.com
 constructpoll.com
@@ -964,6 +967,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1108,6 +1112,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
+gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1220,7 +1225,6 @@ hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
-hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
@@ -1399,6 +1403,7 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -1472,6 +1477,7 @@ mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
+mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1665,6 +1671,7 @@ pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
+playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1925,6 +1932,7 @@ stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
+stoopfalse.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -1986,6 +1994,7 @@ tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
 tooglidanog.net
+tookoupanoafig.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2047,7 +2056,6 @@ uselnk.com
 userreplay.net
 userresewn.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2082,7 +2090,6 @@ voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
-vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2244,6 +2251,7 @@ img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
+play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
