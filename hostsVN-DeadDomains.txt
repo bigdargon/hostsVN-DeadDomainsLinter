@@ -11,6 +11,7 @@ px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
+addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
@@ -155,6 +156,8 @@ bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
+ui-ssp.ibillboard.com
+video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -204,6 +207,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -251,6 +255,7 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -433,8 +438,6 @@ cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
-dt.polyad.net
-go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
@@ -566,7 +569,6 @@ aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
@@ -603,7 +605,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -673,6 +674,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
@@ -825,7 +827,6 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
-cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
@@ -952,6 +953,7 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -980,7 +982,6 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
-efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1102,8 +1103,6 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
-geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1125,7 +1124,6 @@ goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
-gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
@@ -1296,6 +1294,7 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
+jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1306,7 +1305,6 @@ juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
-jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
@@ -1659,13 +1657,11 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
-pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -2099,7 +2095,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
