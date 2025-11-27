@@ -197,7 +197,6 @@ www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
-rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
@@ -216,6 +215,8 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
+api.optad360.com
+apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -312,7 +313,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -572,6 +572,7 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
+abpvhymadq.com
 abqguldudbi.com
 abyocawlfe.com
 acerolawaists.com
@@ -621,7 +622,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -647,6 +647,7 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
+ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
@@ -823,6 +824,7 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
+c44wergiu87heghoconutdx.com
 cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
@@ -910,6 +912,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -951,6 +954,7 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1071,6 +1075,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1086,7 +1091,6 @@ forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
-fpqwpqiyq.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1271,7 +1275,6 @@ internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -1280,7 +1283,6 @@ iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
-ivhwlnlcgi.com
 ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
@@ -1465,6 +1467,7 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
+mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mifoqnwi.com
@@ -1480,6 +1483,7 @@ mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
+moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -2117,7 +2121,6 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
-wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
@@ -2187,7 +2190,6 @@ xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
-xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
