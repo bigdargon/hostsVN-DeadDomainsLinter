@@ -11,7 +11,6 @@ px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
-addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
@@ -85,6 +84,7 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -155,8 +155,6 @@ bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
-ui-ssp.ibillboard.com
-video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -206,7 +204,6 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -254,7 +251,6 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -506,6 +502,7 @@ ak9.6895588.com
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
+crocopop.com
 duamilsyr.com
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -676,7 +673,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
@@ -956,7 +952,6 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1225,6 +1220,7 @@ hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
+hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
@@ -1300,7 +1296,6 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
-jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -2056,6 +2051,7 @@ uselnk.com
 userreplay.net
 userresewn.com
 usounoul.com
+uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2090,6 +2086,7 @@ voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
+vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
