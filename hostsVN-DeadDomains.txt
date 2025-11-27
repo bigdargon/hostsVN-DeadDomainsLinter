@@ -108,7 +108,6 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -116,6 +115,7 @@ leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
+adserver-toy.adtechjp.com
 prod.adtechjp.com
 services.scanscout.com
 static.cbsileads.com
@@ -148,6 +148,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
+bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -283,6 +284,7 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -339,7 +341,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
@@ -428,6 +429,7 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-online.com
+aff-track.net
 mntzrlt.net
 core.polyad.net
 cp.polyad.net
@@ -506,6 +508,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -517,6 +520,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -663,7 +667,6 @@ amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
-anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -793,7 +796,6 @@ bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
-btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
@@ -811,7 +813,6 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -1014,7 +1015,6 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1365,7 +1365,6 @@ lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadingedgecash.com
-lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -1411,6 +1410,7 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1430,7 +1430,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1440,6 +1439,7 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1448,6 +1448,7 @@ mfajfikmyqan.com
 mg2connext.com
 mgbid.net
 mgepuynxttyi.com
+mhavfytafo.com
 mhelfiricbwa.com
 mifoqnwi.com
 mingledventin.com
@@ -1855,7 +1856,6 @@ sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
-servethis.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1938,6 +1938,8 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
+suwcaxazzn.com
+svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2064,6 +2066,7 @@ vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
+vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
@@ -2110,6 +2113,7 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
+webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
 wellmadefrog.com
@@ -2124,6 +2128,7 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
+wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
@@ -2199,6 +2204,7 @@ ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
+yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
@@ -2218,7 +2224,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
