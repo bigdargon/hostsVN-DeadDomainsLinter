@@ -213,6 +213,7 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
+mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -366,6 +367,7 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -588,6 +590,7 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
+adaction.de
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -631,7 +634,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -799,7 +801,6 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-boom.ro
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -816,7 +817,6 @@ btcijivtsvph.com
 btiatfobkjiv.com
 btrll.com
 budvawshes.ru
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -914,7 +914,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1077,7 +1076,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1102,7 +1100,6 @@ frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1173,6 +1170,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -1216,6 +1214,7 @@ hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
+hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
@@ -1626,6 +1625,7 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1649,6 +1649,7 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
+pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1709,6 +1710,8 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pr-ten.de
+praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1762,6 +1765,7 @@ qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
+qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
@@ -2233,7 +2237,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
-yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
@@ -2244,6 +2247,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2273,10 +2277,12 @@ q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
 snnd.co
+suriflowers.com
 tdf.ringier.ch
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
+usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
