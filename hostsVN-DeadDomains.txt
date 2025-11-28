@@ -18,7 +18,6 @@ client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
-sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -222,6 +221,7 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -255,7 +255,6 @@ www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
-staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
@@ -501,6 +500,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -596,6 +596,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -879,12 +880,12 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
+cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
-crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -959,6 +960,7 @@ dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
+dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
@@ -998,7 +1000,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1021,7 +1022,6 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
-fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
@@ -1083,7 +1083,6 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1232,6 +1231,7 @@ idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
+ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
@@ -1472,7 +1472,6 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
-mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myvisualiq.net
@@ -1778,7 +1777,6 @@ redmas.com
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
-regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
@@ -1973,6 +1971,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2056,7 +2055,7 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
-vdyunvfrfale.com
+ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
