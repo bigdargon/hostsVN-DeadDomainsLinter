@@ -92,6 +92,7 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
+s.kau.li
 y.kau.li
 advergine.com
 go.advergine.com
@@ -121,6 +122,7 @@ prod.adtechjp.com
 services.scanscout.com
 static.cbsileads.com
 aj1015.online
+aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -241,7 +243,6 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -284,6 +285,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -371,6 +373,7 @@ www.adclerks.com
 delivery.taroads.com
 taroads.com
 connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -546,6 +549,7 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
+abqguldudbi.com
 abservinean.com
 abyocawlfe.com
 acerolawaists.com
@@ -591,6 +595,7 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
+adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
@@ -603,7 +608,6 @@ adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
-adw9.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -623,8 +627,6 @@ ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
-aigretsulaups.net
-ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -713,7 +715,6 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
@@ -731,6 +732,7 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
@@ -813,8 +815,6 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
-caugrithoowhu.net
-cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -965,6 +965,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1357,6 +1358,7 @@ lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
+leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
@@ -1385,6 +1387,7 @@ locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
+lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
@@ -1620,6 +1623,7 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
+pasheeheghie.net
 patro-sfe.com
 paxzfenara.com
 paypopup.com
@@ -1812,6 +1816,7 @@ roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
+rsalcau.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
@@ -1870,10 +1875,8 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-sljtqfcyi.com
 slockertummies.com
 slopeaota.com
-slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
@@ -2025,7 +2028,6 @@ untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
-updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
