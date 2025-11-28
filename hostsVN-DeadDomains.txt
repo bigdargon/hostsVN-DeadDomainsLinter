@@ -1,4 +1,5 @@
 googleads-cn.com
+cdn.oem.inmobi.net
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -116,7 +117,6 @@ cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
-adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 services.scanscout.com
@@ -192,6 +192,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
+dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
@@ -210,6 +211,7 @@ origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
+go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
@@ -237,7 +239,6 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -470,6 +471,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -554,7 +556,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4hfchest5kdnfnut.com
-4info.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
@@ -602,7 +603,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.directionsmag.com
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
 ads.horyzon-media.com
@@ -617,6 +617,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -803,7 +804,6 @@ brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -837,7 +837,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -991,6 +990,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1109,7 +1109,6 @@ fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
-gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
@@ -1388,7 +1387,6 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
-lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1401,7 +1399,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1452,6 +1449,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1481,6 +1479,7 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
+mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1818,9 +1817,9 @@ rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
+ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -1879,7 +1878,6 @@ septfd2em64eber.com
 serconmp.com
 setypckq.com
 sf960.com
-sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
@@ -1986,7 +1984,6 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
-thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -2097,6 +2094,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vipicmou.net
+virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
@@ -2114,7 +2112,6 @@ vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
-vudachisouxouk.net
 vugnubier.com
 vugpakba.com
 vujdudspear.com
@@ -2263,7 +2260,6 @@ comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
-ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
