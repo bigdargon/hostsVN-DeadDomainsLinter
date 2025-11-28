@@ -34,10 +34,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -128,6 +125,7 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -236,6 +234,7 @@ p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -582,7 +581,6 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
-ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
@@ -621,6 +619,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
+adsmart.co.uk
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -628,6 +627,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -711,6 +711,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -921,6 +922,7 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -928,6 +930,7 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
+dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -945,6 +948,7 @@ deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
+denetsuk.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -955,7 +959,6 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1161,6 +1164,7 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
+gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1235,7 +1239,6 @@ htyzpilijhki.com
 hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
-hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
@@ -1244,7 +1247,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1538,7 +1540,6 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
@@ -1684,6 +1685,7 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
+planetactive.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
@@ -1691,6 +1693,7 @@ plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
+podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -1713,6 +1716,7 @@ praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
+proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1997,6 +2001,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -2004,6 +2009,7 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
+tomorroweducated.com
 tooglidanog.net
 tookoupanoafig.com
 total-fee.com
@@ -2060,6 +2066,7 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
+urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
@@ -2137,6 +2144,7 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
+wholesaletraffic.info
 whoockeg.top
 whoonseepoutche.net
 whoostoo.net
@@ -2197,8 +2205,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
-xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
