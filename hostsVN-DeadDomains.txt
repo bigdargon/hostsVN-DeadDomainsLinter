@@ -92,7 +92,6 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
-s.kau.li
 y.kau.li
 advergine.com
 go.advergine.com
@@ -120,8 +119,8 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 services.scanscout.com
+static.cbsileads.com
 aj1015.online
-aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -237,6 +236,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -284,7 +284,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -324,6 +323,7 @@ delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -371,7 +371,6 @@ www.adclerks.com
 delivery.taroads.com
 taroads.com
 connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -512,6 +511,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
+stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -546,7 +546,6 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
-abqguldudbi.com
 abservinean.com
 abyocawlfe.com
 acerolawaists.com
@@ -592,9 +591,7 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -606,6 +603,7 @@ adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
+adw9.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -719,6 +717,7 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -732,7 +731,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
@@ -967,7 +965,6 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
-ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1360,7 +1357,6 @@ lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
-leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
@@ -1376,6 +1372,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1388,7 +1385,6 @@ locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
-lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
@@ -1483,6 +1479,7 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
+nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1623,7 +1620,6 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
-pasheeheghie.net
 patro-sfe.com
 paxzfenara.com
 paypopup.com
@@ -1816,7 +1812,6 @@ roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
-rsalcau.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
@@ -1844,6 +1839,7 @@ sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
+seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
