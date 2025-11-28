@@ -239,7 +239,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -266,7 +265,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -422,6 +420,7 @@ aj101.xyz
 aff-track.net
 mntzrlt.net
 core.polyad.net
+cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
@@ -457,7 +456,6 @@ mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
-mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -466,7 +464,6 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
-platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -650,12 +647,12 @@ allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
+anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -807,7 +804,6 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -833,6 +829,7 @@ chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
+chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
@@ -872,6 +869,7 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
+constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -989,7 +987,6 @@ emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
-encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
@@ -1096,7 +1093,6 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
-geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
@@ -1222,7 +1218,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1277,7 +1272,6 @@ jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
-jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
@@ -1424,6 +1418,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1485,6 +1480,7 @@ nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1557,6 +1553,7 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1628,7 +1625,6 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
-pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
@@ -1675,7 +1671,6 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
-pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
