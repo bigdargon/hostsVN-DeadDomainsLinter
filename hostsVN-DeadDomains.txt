@@ -128,7 +128,6 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -237,7 +236,6 @@ p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
-i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -519,6 +517,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -578,6 +577,8 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 aczridptoo.com
+ad-miner.com
+ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
@@ -618,7 +619,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -711,7 +711,6 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -729,6 +728,7 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
+axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
@@ -921,7 +921,6 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
-dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -929,7 +928,6 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
-dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -1041,6 +1039,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
@@ -1162,11 +1161,13 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
+guvnatar.com
+gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
@@ -1225,6 +1226,7 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
+hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1447,6 +1449,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1460,6 +1463,7 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1687,7 +1691,6 @@ plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
-podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -1710,7 +1713,6 @@ praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
-proetusbramble.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1995,7 +1997,6 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
-tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -2059,7 +2060,6 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
-urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
@@ -2263,6 +2263,7 @@ img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
+play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
