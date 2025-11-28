@@ -107,6 +107,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -163,7 +164,6 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -222,7 +222,6 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -248,7 +247,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -372,8 +370,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 connect.idocdn.com
@@ -465,6 +461,8 @@ mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -503,7 +501,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -514,6 +511,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -729,6 +727,7 @@ banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
+bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -880,7 +879,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -961,7 +959,6 @@ dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
-dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
 earphonetipperzombie.com
@@ -990,6 +987,7 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
+encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1038,7 +1036,6 @@ fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
-feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -1323,6 +1320,7 @@ kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
+kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
@@ -1435,6 +1433,7 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1500,6 +1499,7 @@ nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
+niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
@@ -1739,6 +1739,7 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
+qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1923,6 +1924,7 @@ stooghopsee.net
 stoopfalse.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -1932,6 +1934,7 @@ surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
+swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -1970,7 +1973,6 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2055,7 +2057,6 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
-ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -2219,6 +2220,7 @@ zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
+zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2227,13 +2229,13 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 cankaowang.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
