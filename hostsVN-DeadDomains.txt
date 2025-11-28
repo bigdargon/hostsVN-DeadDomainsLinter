@@ -1,5 +1,6 @@
 googleads-cn.com
 cdn.oem.inmobi.net
+blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
@@ -119,7 +120,6 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 services.scanscout.com
-static.cbsileads.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -237,7 +237,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -325,7 +324,6 @@ delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -497,6 +495,7 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
@@ -513,7 +512,6 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -596,6 +594,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -607,6 +606,7 @@ adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
+adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -719,7 +719,6 @@ backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -1048,6 +1047,7 @@ fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
+finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1099,6 +1099,9 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
+girls-only.online
+gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1172,6 +1175,7 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
+heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -1297,6 +1301,7 @@ juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
+jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
@@ -1371,8 +1376,6 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
-linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1480,7 +1483,6 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
-nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1562,6 +1564,7 @@ ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
+opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1604,6 +1607,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1796,7 +1800,9 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmxpppehecrmz.com
 rndnoibattor.com
+rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
@@ -1838,7 +1844,6 @@ sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
-seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
@@ -2143,6 +2148,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
