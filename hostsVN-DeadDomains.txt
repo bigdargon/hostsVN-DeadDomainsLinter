@@ -1,5 +1,4 @@
 googleads-cn.com
-cdn.oem.inmobi.net
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -34,7 +33,10 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+advertica-cdn.com
+ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -190,7 +192,6 @@ advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
-dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
@@ -209,7 +210,6 @@ origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
-go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
@@ -470,7 +470,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -581,6 +580,7 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
+ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
@@ -619,7 +619,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
-adsmart.co.uk
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -627,7 +626,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -839,6 +837,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -948,7 +947,6 @@ deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
-denetsuk.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -959,6 +957,7 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -992,7 +991,6 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
-ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1239,6 +1237,7 @@ htyzpilijhki.com
 hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
+hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
@@ -1247,6 +1246,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1401,6 +1401,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1480,7 +1481,6 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
-mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1540,6 +1540,7 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
@@ -1685,7 +1686,6 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planetactive.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
@@ -1818,9 +1818,9 @@ rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
-ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
@@ -2009,7 +2009,6 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
-tomorroweducated.com
 tooglidanog.net
 tookoupanoafig.com
 total-fee.com
@@ -2098,7 +2097,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vipicmou.net
-virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
@@ -2144,7 +2142,6 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
-wholesaletraffic.info
 whoockeg.top
 whoonseepoutche.net
 whoostoo.net
@@ -2205,6 +2202,8 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xsaeafkfilbcur.com
+xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
