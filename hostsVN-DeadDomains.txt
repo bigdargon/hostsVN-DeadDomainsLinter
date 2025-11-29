@@ -199,17 +199,8 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
-api.europe.bidtellect.com
-api.west.bidtellect.com
 capi.bidtellect.com
-dmpapi.bidtellect.com
-dsp.bidtellect.com
-dspapi.bidtellect.com
 east.bidtellect.com
-europe.bidtellect.com
-files.bidtellect.com
-reporting.bidtellect.com
-west.bidtellect.com
 www.bidtellect.com
 api.publift.com
 cdn.publift.com
@@ -226,7 +217,6 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
-rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -473,6 +463,15 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
+klick.vn
+qc.klick.vn
+text1.klick.vn
+wakeup.klick.vn
+wakeup247.klick.vn
+www.klick.vn
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
@@ -540,7 +539,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -634,12 +632,10 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -665,7 +661,6 @@ agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
-ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
@@ -819,7 +814,6 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-bookpostponemoreover.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
@@ -855,9 +849,6 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
-canoevaguely.com
-canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1039,6 +1030,7 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
+encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1274,7 +1266,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1440,7 +1431,6 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
-loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1631,6 +1621,7 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 oranegfodnd.com
+orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
@@ -1796,7 +1787,6 @@ qp.ezfxpuo.cn
 qruqon.com
 qs251.com
 qtoeofqazggu.com
-qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
@@ -1939,6 +1929,7 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
+smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2073,7 +2064,6 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
-ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2100,6 +2090,7 @@ uruswan.com
 uselnk.com
 userreplay.net
 userresewn.com
+ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -2230,6 +2221,7 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
+xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
