@@ -232,7 +232,6 @@ bitbank.la
 bitbank6699.com
 bitcoinship.net
 bitrueexchange.com
-bitsbankuk.com
 bluvenie.com
 bm1717.com
 bm3536.com
@@ -329,7 +328,6 @@ clmm113.me
 clmm29.fun
 clmm34.me
 clmm88.co
-cloud25.xyz
 cloud27.xyz
 cloudshop88.net
 cltx.shop
@@ -557,7 +555,6 @@ ebank.hlug1k.com
 ebanking.dnryg31.com
 ebanking.smbnv.com
 ebanking.ttoh4.com
-ebankingshopee.vn
 ebayasean.com
 ebayget.cc
 ebayshopnet.com
@@ -683,7 +680,6 @@ fr191102203eura.click
 fr191102204eura.click
 free-fire.shop
 free.sc0mvn.com
-freefire-garena-membership.tk
 freefire-membershipp-garena.com
 freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
@@ -968,7 +964,6 @@ ilsacombank.com
 images.emldn.com
 indush.cfd
 inet-ebank.com
-info-ebank.com
 insaoke-sacombank.com
 insuranc.club
 insuranc.vip
@@ -1018,6 +1013,7 @@ jaccsn.com
 jaccsz.com
 jaemoney.ltd
 japan-shopac.asia
+jetkingncsc.online
 jewvvkh.cyou
 jo9p72.cyou
 jomashopsa.com
@@ -1034,9 +1030,12 @@ kfdg22.com
 kfdg55.com
 kh-cn-mrd-f5-tpbank.com
 kh-cn-uutien-3fv-vib.com
+kh-vibquocte.com
 khach-hang-ca-nhan-vip5.com
 khachhangvib-canhan.com
 khangdz215.tk
+khcn-han-muc-tin-dung-ca-nhan.com
+khcn-my-diamon-han-muc-uu-tien.com
 khcn-tindung-vp.com
 khcn-uu-tien-3fv-vib.com
 khoataikhoan-grn-vinhvien.xyz
@@ -1487,10 +1486,10 @@ muaho8.com
 muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
+mualienquan.org
 muanickgiare.com
 muanicklq.com
 muasamtiki24h.com
-muaso24h.store
 muathietke.com
 muatiengia.club
 muatiennhanh.com
@@ -1843,7 +1842,6 @@ qjc2vo.cyou
 qqwyihwm.thjen.tech
 qrsg11.com
 qtaqlbt.ciofgnm.co
-quaffvietnam.com
 quagameff-freefireffvn.com
 quahe-lienminh.ga
 qualienquan-trian.com
@@ -2772,6 +2770,7 @@ tikirating-vn.com
 tikiratingvn.com
 tikiratingvn.net
 tikishop.life
+tikishop.top
 tikishop6.com
 tikishopping.shop
 tikita-kasi55.xyz
@@ -3291,6 +3290,7 @@ vietcoimbank.com
 vietcom-credit.com
 vietcombak.com
 vietcombank-credit.tk
+vietcombank-hotrovaykhachhang.online
 vietcombank-vaytinchap.com
 vietcombank-vietnam.com.vn
 vietcombank.fund
@@ -3645,6 +3645,7 @@ vongquaylotus.xyz
 vongquaylqm.com
 vongquayngoc.com
 vongquayroblox.com
+vongquaysieupham-grnfreefirevietnam.club
 vongquaysieuphamfreefirevn.club
 vongquaysieuphamfreefirevn.com
 vongquayskinfree.tk
