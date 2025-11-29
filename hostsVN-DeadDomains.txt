@@ -5,7 +5,6 @@ ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
-c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
@@ -67,7 +66,6 @@ adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
-static.adthor.com
 v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
@@ -97,6 +95,7 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
+static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -115,7 +114,6 @@ spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
-image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -152,7 +150,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -160,6 +157,7 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -408,6 +406,7 @@ ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
+sense.tapdb.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -528,7 +527,6 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -537,7 +535,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -561,7 +558,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
-vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -932,6 +928,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
+compactbanner.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -945,7 +942,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counting.kmindex.ru
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -1026,7 +1022,6 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
-duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1352,7 +1347,6 @@ jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1422,6 +1416,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1502,6 +1497,7 @@ mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1515,6 +1511,7 @@ mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
+midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1568,7 +1565,6 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
-nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
@@ -1648,7 +1644,6 @@ oqnjfotketk.com
 oranegfodnd.com
 orb92.com
 orbsclawand.com
-orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
@@ -2271,6 +2266,9 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
+yonomastara.com
+yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
