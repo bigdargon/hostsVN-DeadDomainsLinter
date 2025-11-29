@@ -199,7 +199,18 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+api.europe.bidtellect.com
+api.west.bidtellect.com
 capi.bidtellect.com
+dmpapi.bidtellect.com
+dsp.bidtellect.com
+dspapi.bidtellect.com
+east.bidtellect.com
+europe.bidtellect.com
+files.bidtellect.com
+reporting.bidtellect.com
+west.bidtellect.com
+www.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -297,6 +308,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
@@ -313,6 +325,7 @@ urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
+showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -532,6 +545,7 @@ motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
+alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -680,6 +694,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
+amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -711,7 +726,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 at.adtech.redventures.io
@@ -786,7 +800,6 @@ beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
-besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -806,6 +819,7 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+bookpostponemoreover.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
@@ -860,7 +874,6 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -973,6 +986,7 @@ dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
+digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1025,7 +1039,6 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
-encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1503,6 +1516,7 @@ moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
+mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1617,7 +1631,6 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 oranegfodnd.com
-orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
@@ -1748,6 +1761,7 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1829,7 +1843,6 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
-rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 rigelink.com
@@ -1926,7 +1939,6 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -1950,7 +1962,6 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2029,7 +2040,6 @@ toawaups.net
 tooglidanog.net
 tookoupanoafig.com
 toroadvertisingmedia.com
-tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2090,7 +2100,6 @@ uruswan.com
 uselnk.com
 userreplay.net
 userresewn.com
-ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -2221,7 +2230,6 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
-xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
