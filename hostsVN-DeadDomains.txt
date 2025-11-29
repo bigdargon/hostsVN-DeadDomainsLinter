@@ -22,7 +22,6 @@ sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
-certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -182,7 +181,6 @@ bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
-bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
@@ -261,6 +259,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -416,9 +415,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -479,6 +476,7 @@ ss29.litvp.com
 aff-track.net
 mntzrlt.net
 core.polyad.net
+cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
@@ -512,6 +510,7 @@ adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
+mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
@@ -656,7 +655,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -790,7 +788,6 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -873,7 +870,6 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -972,9 +968,9 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
+daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
@@ -1116,6 +1112,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1191,6 +1188,8 @@ gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
+great-ads-right-now.com
+greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
@@ -1281,14 +1280,12 @@ hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
-huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1363,7 +1360,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1490,6 +1486,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1700,7 +1697,6 @@ pencilcongress.com
 pepepush.net
 peskyclarifysuitcases.com
 petiteumbrella.com
-pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1782,6 +1778,7 @@ pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
+pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1875,7 +1872,6 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
-rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -2002,8 +1998,6 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
-swrggntsvmsgv.com
-sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
