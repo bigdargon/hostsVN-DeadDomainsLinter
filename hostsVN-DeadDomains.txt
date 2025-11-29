@@ -200,7 +200,8 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
-east.bidtellect.com
+dsp.bidtellect.com
+dspapi.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -233,7 +234,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -289,6 +289,7 @@ sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
+syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -421,6 +422,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -529,6 +531,7 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
+aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -636,7 +639,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -739,7 +741,6 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
-avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -781,10 +782,8 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 bebreloomr.com
-becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
-bee7.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
@@ -1184,7 +1183,6 @@ grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
-grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
@@ -1383,7 +1381,6 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
-kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1491,7 +1488,6 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1508,8 +1504,6 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
-moodokay.com
-moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1554,7 +1548,6 @@ nicohgokppuj.com
 niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
-notifyerr.com
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1589,8 +1582,6 @@ oewabox.at
 offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
-ofrvpeodmba.com
-ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
@@ -1736,6 +1727,7 @@ powershatchet.com
 pphtrwrnsuyl.com
 praiseddisintegrate.com
 pramviable.com
+pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
@@ -1770,7 +1762,6 @@ pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
-pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
@@ -1997,6 +1988,7 @@ taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
+tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2036,7 +2028,6 @@ toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
-toroadvertisingmedia.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2116,7 +2107,6 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
-venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
