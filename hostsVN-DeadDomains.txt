@@ -99,7 +99,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -114,7 +113,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-services.scanscout.com
 static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
@@ -328,6 +326,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -442,6 +441,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
@@ -457,6 +457,8 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
+st.core.polyad.net
+st.html.polyad.net
 st.polyad.net
 adv.klick.vn
 demo.klick.vn
@@ -501,6 +503,7 @@ jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
@@ -632,6 +635,8 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
+adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -657,8 +662,6 @@ agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
-aickeebsi.com
-aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
@@ -738,7 +741,6 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
-awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
@@ -858,6 +860,7 @@ carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
+cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
@@ -1075,6 +1078,7 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
+febadu.com
 fedapush.net
 feedyourtralala.com
 feegritoapoo.com
@@ -1208,6 +1212,7 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
+hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
@@ -1254,6 +1259,7 @@ hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
+hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
@@ -1261,7 +1267,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1291,7 +1296,6 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
-irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1396,6 +1400,7 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
+laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
@@ -1549,6 +1554,7 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
+nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1809,6 +1815,7 @@ razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
+rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
@@ -1816,7 +1823,6 @@ receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
-refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
 reinvigorate.net
@@ -1887,7 +1893,6 @@ sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
 seeablywitness.com
-seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
@@ -2054,7 +2059,6 @@ tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
-udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
@@ -2149,6 +2153,7 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
+waymarkgentiin.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
