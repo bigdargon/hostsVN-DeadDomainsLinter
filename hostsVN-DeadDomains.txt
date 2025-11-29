@@ -119,6 +119,7 @@ hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
+sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -156,6 +157,7 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
@@ -175,6 +177,7 @@ www.bkrtx.com
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
+bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
@@ -186,7 +189,6 @@ clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
-video-adserver.ibillboard.com
 invitemedia.com
 www.invitemedia.com
 pmddby.com
@@ -458,7 +460,6 @@ ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -507,7 +508,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -607,7 +607,6 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
-absoluteclickscom.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -657,7 +656,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -695,6 +693,7 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
+ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -707,6 +706,7 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
+allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -947,7 +947,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1044,6 +1043,7 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
+egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
@@ -1318,7 +1318,6 @@ interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
-ipyefimivc.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1351,9 +1350,7 @@ jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
-jncdvibhdaddmu.com
 joglomsexurgod.net
-jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
@@ -1367,7 +1364,6 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
@@ -1580,6 +1576,7 @@ numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
+nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
@@ -1892,6 +1889,7 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
+rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1938,6 +1936,7 @@ shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
+simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -2133,7 +2132,6 @@ venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
-viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vipicmou.net
