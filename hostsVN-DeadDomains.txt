@@ -261,12 +261,13 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
+faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
+intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
@@ -478,7 +479,6 @@ ss29.litvp.com
 aff-track.net
 mntzrlt.net
 core.polyad.net
-cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
@@ -512,7 +512,6 @@ adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
-mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
@@ -890,6 +889,7 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
+celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -954,6 +954,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
@@ -974,7 +975,6 @@ dangerouswinter.com
 dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
-daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
@@ -1034,6 +1034,7 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
+echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1190,8 +1191,6 @@ gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
-great-ads-right-now.com
-greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
@@ -1284,6 +1283,7 @@ hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
+hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
@@ -1490,7 +1490,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1508,6 +1507,7 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
+mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mifoqnwi.com
@@ -1640,6 +1640,7 @@ oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
+oranegfodnd.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
@@ -1781,7 +1782,6 @@ pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
-pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1823,6 +1823,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
