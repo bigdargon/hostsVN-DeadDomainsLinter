@@ -97,7 +97,6 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
-static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -161,7 +160,6 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
-share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -189,6 +187,7 @@ clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
+video-adserver.ibillboard.com
 invitemedia.com
 www.invitemedia.com
 pmddby.com
@@ -409,7 +408,6 @@ ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
-sense.tapdb.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -460,6 +458,7 @@ ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -508,6 +507,7 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -865,6 +865,7 @@ bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
+ca4psell23a4bur.com
 cacaobroach.com
 cads.scalemonk.com
 cafnqdsexgopiab.com
@@ -944,9 +945,11 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
+counting.kmindex.ru
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1131,6 +1134,7 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1289,7 +1293,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1318,6 +1321,8 @@ interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
+ipyefimivc.com
+irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1350,7 +1355,9 @@ jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
+jncdvibhdaddmu.com
 joglomsexurgod.net
+jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
@@ -1364,6 +1371,7 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
@@ -1409,11 +1417,11 @@ kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
+kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
-lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1494,7 +1502,6 @@ mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
-medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -2110,6 +2117,7 @@ uruswan.com
 uselnk.com
 userreplay.net
 userresewn.com
+ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -2132,6 +2140,7 @@ venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
+viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vipicmou.net
@@ -2262,9 +2271,6 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonmewon.com
-yonomastara.com
-yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
