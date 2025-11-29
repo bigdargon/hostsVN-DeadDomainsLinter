@@ -61,8 +61,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-count.appadhoc.com
-h5.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -112,13 +110,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-dp2.specificclick.net
-rome.specificclick.net
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -167,12 +158,11 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-invitemedia.com
-www.invitemedia.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -307,7 +297,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
@@ -324,7 +313,6 @@ urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
-showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -391,7 +379,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-jg.wensixuetang.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -402,6 +389,7 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
+adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
@@ -544,7 +532,6 @@ motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -578,6 +565,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4hfchest5kdnfnut.com
 4wnet.com
 52dvzo62i.com
+5enaovbz2.com
 79xmz3lmss.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -692,7 +680,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -724,6 +711,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+asslfeqadv.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 at.adtech.redventures.io
@@ -731,6 +719,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -797,6 +786,7 @@ beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
+besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -870,6 +860,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -929,6 +920,7 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -981,7 +973,6 @@ dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
-digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1234,6 +1225,7 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
+hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
@@ -1269,6 +1261,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1309,6 +1302,7 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
+izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jagnoans.com
@@ -1509,7 +1503,6 @@ moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
-mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1755,7 +1748,6 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
-ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1837,6 +1829,7 @@ retintsmillion.com
 retryngs.com
 rev2pub.com
 revmob.com
+rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 rigelink.com
@@ -1957,6 +1950,7 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2035,6 +2029,7 @@ toawaups.net
 tooglidanog.net
 tookoupanoafig.com
 toroadvertisingmedia.com
+tospointor.com
 total-fee.com
 touphudipodou.net
 tpmagqvjzgvos.com
