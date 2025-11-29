@@ -22,6 +22,7 @@ sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -50,7 +51,6 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
-ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -181,6 +181,7 @@ bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
+bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
@@ -378,7 +379,6 @@ delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -415,7 +415,9 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -788,6 +790,7 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -870,6 +873,7 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
+canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -901,7 +905,6 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
-chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -968,6 +971,7 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
+dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
@@ -988,7 +992,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
-dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1112,7 +1115,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1132,6 +1134,7 @@ fpqwpqiyq.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+freewebcounter.com
 frenchequal.pro
 frightenedpotato.com
 frllfmjaku.com
@@ -1280,12 +1283,14 @@ hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
+huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1360,6 +1365,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1526,9 +1532,6 @@ mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
-msincsayqmji.com
-msvobeuhec.com
-mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1550,7 +1553,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
@@ -1697,6 +1699,7 @@ pencilcongress.com
 pepepush.net
 peskyclarifysuitcases.com
 petiteumbrella.com
+pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1777,7 +1780,6 @@ purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
-pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
@@ -1872,6 +1874,7 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -1998,6 +2001,8 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
+swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 taaqhr6axacd2um.com
@@ -2247,7 +2252,6 @@ yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
-yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
