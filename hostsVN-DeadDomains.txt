@@ -119,6 +119,7 @@ static.cbsileads.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
+aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
@@ -207,6 +208,7 @@ prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
+advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -273,6 +275,7 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -325,7 +328,6 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -365,6 +367,7 @@ matching.truffle.bid
 analytics.logsss.com
 logsss.com
 perf.logsss.com
+rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -439,7 +442,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
@@ -455,8 +457,6 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
-st.core.polyad.net
-st.html.polyad.net
 st.polyad.net
 adv.klick.vn
 demo.klick.vn
@@ -501,7 +501,6 @@ jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
@@ -615,6 +614,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.digitalmedianet.com
+ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
@@ -632,8 +632,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
-adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -643,7 +641,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advantagesclotblend.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -658,6 +655,7 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
+ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
@@ -860,7 +858,6 @@ carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
-cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
@@ -1055,6 +1052,7 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
+expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -1070,13 +1068,13 @@ fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
+fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
-febadu.com
 fedapush.net
 feedyourtralala.com
 feegritoapoo.com
@@ -1210,7 +1208,6 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
-hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
@@ -1257,7 +1254,6 @@ hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
-hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
@@ -1553,7 +1549,6 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
-nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1581,6 +1576,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1813,7 +1809,6 @@ razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
-rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
