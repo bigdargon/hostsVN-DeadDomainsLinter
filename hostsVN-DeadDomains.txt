@@ -200,7 +200,7 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
-west.bidtellect.com
+east.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -289,7 +289,6 @@ sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -530,7 +529,6 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
-aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -539,6 +537,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -1272,6 +1271,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1442,6 +1442,7 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1735,7 +1736,6 @@ powershatchet.com
 pphtrwrnsuyl.com
 praiseddisintegrate.com
 pramviable.com
-pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
@@ -1908,6 +1908,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1996,7 +1997,6 @@ taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
-tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
