@@ -200,8 +200,7 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
-east.bidtellect.com
-www.bidtellect.com
+west.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -217,6 +216,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -632,10 +632,12 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -661,6 +663,7 @@ agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
+ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
@@ -849,6 +852,9 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
+canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1431,11 +1437,11 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
+loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1787,6 +1793,7 @@ qp.ezfxpuo.cn
 qruqon.com
 qs251.com
 qtoeofqazggu.com
+qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
@@ -1901,7 +1908,6 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2064,6 +2070,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
