@@ -34,6 +34,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+www.advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -69,6 +70,9 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+count.appadhoc.com
+h5.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
@@ -85,6 +89,8 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+marketing-api.upsight.com
+nexus.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -110,6 +116,7 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+rome.specificclick.net
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -165,6 +172,14 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
+ads.doublemax.net
+cap-ad.doublemax.net
+cdn.doublemax.net
+clg.doublemax.net
+ec.doublemax.net
+events.doublemax.net
+lg.doublemax.net
+static.doublemax.net
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -185,6 +200,8 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+cdn.publift.com
+prebid.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -243,6 +260,7 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -419,6 +437,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+ss15.litvp.com
 aff-track.net
 mntzrlt.net
 core.polyad.net
@@ -462,7 +481,6 @@ mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -470,7 +488,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
-embed.wiinvent.com.vn
+ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -587,6 +605,7 @@ ads.foxnetworks.com
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -627,6 +646,8 @@ ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
+aigretsulaups.net
+ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -664,6 +685,8 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
+appfireworks.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -713,8 +736,8 @@ azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
-baccytorve.com
 backlogdoorstepsinister.com
+backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
@@ -773,6 +796,7 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
+boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -815,6 +839,8 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
+cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -895,6 +921,7 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -1046,7 +1073,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -1202,7 +1228,6 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1217,10 +1242,8 @@ huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1833,15 +1856,12 @@ sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
 salivanmobster.com
-sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-sdkfjxjertertry.com
-seaboblit.com
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -1875,8 +1895,10 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+sljtqfcyi.com
 slockertummies.com
 slopeaota.com
+slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
@@ -1983,8 +2005,6 @@ tooglidanog.net
 tookoupanoafig.com
 total-fee.com
 touphudipodou.net
-tpmagqvjzgvos.com
-tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 tranquilside.com
@@ -2028,6 +2048,7 @@ untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
+updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
@@ -2065,7 +2086,6 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2174,7 +2194,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 yaarlnk.com
@@ -2226,6 +2245,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
