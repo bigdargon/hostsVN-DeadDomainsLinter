@@ -184,7 +184,6 @@ clg.doublemax.net
 dsp.doublemax.net
 ec.doublemax.net
 events.doublemax.net
-lg.doublemax.net
 static.doublemax.net
 video.doublemax.net
 a.ivstracker.net
@@ -240,7 +239,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -396,7 +394,6 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
-click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -491,6 +488,7 @@ hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
+atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -501,7 +499,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -528,7 +525,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -547,7 +543,6 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -669,6 +664,7 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
+advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -789,6 +785,7 @@ banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
+banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
@@ -1130,6 +1127,7 @@ flagmantensity.com
 floitcarites.com
 foliumumu.com
 foogeetoary.net
+fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1363,6 +1361,7 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
+jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1407,7 +1406,6 @@ knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
-kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
@@ -1454,7 +1452,6 @@ litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
-llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -1693,7 +1690,6 @@ ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
-padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1950,7 +1946,6 @@ shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
-simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -1973,6 +1968,7 @@ sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
+songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
@@ -2003,6 +1999,7 @@ stoopfalse.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
+subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2076,7 +2073,6 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
-trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2110,6 +2106,7 @@ untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
+upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
@@ -2165,7 +2162,6 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
-vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
