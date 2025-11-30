@@ -254,6 +254,8 @@ mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -330,6 +332,7 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -380,8 +383,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-livetracker.rfe.pangea-cms.com
-livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -412,7 +413,6 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -440,7 +440,6 @@ ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
-ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
@@ -563,7 +562,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -602,6 +600,7 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
+abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -654,7 +653,6 @@ adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -751,7 +749,6 @@ atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
-aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
@@ -774,6 +771,7 @@ azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
+babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -783,7 +781,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -858,7 +855,6 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
-bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -993,7 +989,6 @@ demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
-desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
@@ -1042,7 +1037,6 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
-efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1149,10 +1143,7 @@ futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
-fvchjvaiisuxrpb.com
 fwilmdact.com
-fyljifajkqe.com
-fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -1267,6 +1258,7 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
+hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
@@ -1336,7 +1328,6 @@ izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jagnoans.com
-jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1430,6 +1421,7 @@ lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
+lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -1689,7 +1681,6 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1791,7 +1782,6 @@ pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
-pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
@@ -1918,7 +1908,6 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -1987,8 +1976,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
-static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -2000,6 +1987,7 @@ stooghopsee.net
 stoopfalse.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -2050,7 +2038,6 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
-tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2154,7 +2141,6 @@ vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
-volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
@@ -2203,7 +2189,6 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
-wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -2254,7 +2239,6 @@ xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
-xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
