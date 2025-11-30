@@ -72,6 +72,7 @@ ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
+yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -89,6 +90,8 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
+analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -115,6 +118,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 services.scanscout.com
@@ -204,9 +208,11 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
+api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
+prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
@@ -377,6 +383,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -384,6 +392,7 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
+px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -400,6 +409,7 @@ www.adclerks.com
 pixel.inforsea.com
 delivery.taroads.com
 taroads.com
+hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -502,6 +512,10 @@ mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -541,11 +555,13 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -576,6 +592,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
+4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
 52dvzo62i.com
@@ -606,6 +623,7 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -628,6 +646,7 @@ ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.newsquest.co.uk
 ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
@@ -733,6 +752,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -775,14 +795,15 @@ bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
-basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
+beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -878,9 +899,7 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
-chertouz.net
 chickensstation.com
-chinaslauras.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
@@ -919,6 +938,7 @@ compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
+connect.scroll.com
 connexity.net
 constintptr.com
 constructpoll.com
@@ -946,6 +966,7 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+d.appsdt.com
 da-ads.com
 dacmaiss.com
 daintydragged.com
@@ -966,6 +987,7 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defusefinishedsleep.com
+delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
@@ -1066,6 +1088,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -1100,7 +1123,6 @@ finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
-fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
@@ -1545,6 +1567,7 @@ nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
+netshelter.net
 news-central.org
 news-muheji.com
 newstarads.com
@@ -1552,6 +1575,7 @@ nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
+niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
@@ -1703,7 +1727,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1758,7 +1781,6 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
-ptumsess.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
@@ -2217,6 +2239,7 @@ www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
+wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
@@ -2235,10 +2258,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
-xumamropnox.com
-xwdoxgilvdbj.com
-xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -2270,6 +2289,7 @@ ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
+yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
