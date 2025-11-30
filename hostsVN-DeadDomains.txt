@@ -229,6 +229,7 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
+uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -253,8 +254,6 @@ mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -312,6 +311,7 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -330,7 +330,6 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -370,6 +369,7 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
+matching.truffle.bid
 analytics.logsss.com
 logsss.com
 perf.logsss.com
@@ -406,6 +406,7 @@ www.adclerks.com
 pixel.inforsea.com
 delivery.taroads.com
 taroads.com
+hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -564,7 +565,6 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
-statis.dsp.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -602,7 +602,6 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
-abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -655,6 +654,7 @@ adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -774,7 +774,6 @@ azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
-babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -789,12 +788,10 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-baresi.xyz
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
-batomqsmoocc.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -906,6 +903,7 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
+chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -913,6 +911,8 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
+civadsoo.net
+cjbmanagement.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
@@ -968,6 +968,7 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1266,7 +1267,6 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
@@ -1285,13 +1285,13 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1430,7 +1430,6 @@ lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
-lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
@@ -1448,6 +1447,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
@@ -1535,7 +1535,6 @@ mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
-mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1569,6 +1568,7 @@ news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1840,6 +1840,7 @@ raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
+rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
@@ -1999,7 +2000,6 @@ stooghopsee.net
 stoopfalse.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -2046,6 +2046,7 @@ thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
+thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
@@ -2180,6 +2181,7 @@ warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
@@ -2302,6 +2304,7 @@ zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zmedia.com
+zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
