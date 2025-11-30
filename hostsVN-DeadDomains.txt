@@ -174,7 +174,6 @@ video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
-a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 ads.doublemax.net
@@ -191,7 +190,6 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -371,7 +369,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
-cdn.truffle.bid
 matching.truffle.bid
 analytics.logsss.com
 logsss.com
@@ -383,6 +380,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -413,6 +412,7 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -440,6 +440,7 @@ ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
@@ -562,6 +563,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -653,6 +655,7 @@ adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -749,6 +752,7 @@ atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
+aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
@@ -781,6 +785,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -854,12 +859,11 @@ bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
-buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
-c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 cads.scalemonk.com
@@ -911,6 +915,7 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
+clickthrutraffic.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -984,11 +989,11 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloton.com
-demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
+desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
@@ -1037,6 +1042,7 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1143,7 +1149,10 @@ futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
+fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
+fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -1328,6 +1337,7 @@ izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jagnoans.com
+jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1427,7 +1437,6 @@ leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
-lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1445,7 +1454,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1573,7 +1581,6 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1650,7 +1657,6 @@ orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
-osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -1681,6 +1687,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1782,6 +1789,7 @@ pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
+pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
@@ -1908,6 +1916,7 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
+secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -1976,6 +1985,8 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+static.scptpx.com
+static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -2038,6 +2049,7 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
+tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2049,7 +2061,6 @@ tookoupanoafig.com
 toroadvertisingmedia.com
 total-fee.com
 touphudipodou.net
-tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -2141,6 +2152,7 @@ vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
+volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
@@ -2189,6 +2201,7 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
+wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -2239,6 +2252,7 @@ xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
+xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
