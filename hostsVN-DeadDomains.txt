@@ -207,6 +207,7 @@ api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
+faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
@@ -319,6 +320,7 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
@@ -380,6 +382,7 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -427,7 +430,6 @@ hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
-delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
@@ -489,6 +491,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 vnadssb.com
@@ -517,7 +520,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
-2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
@@ -559,6 +561,7 @@ adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admedia.network
 adplus.co.id
 adqkkoajnan.com
 adreclaim.com
@@ -588,7 +591,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -645,7 +647,6 @@ amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
-an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -1072,7 +1073,6 @@ fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
-frightenedpotato.com
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -1225,7 +1225,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1239,7 +1238,6 @@ ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
-imarketservices.com
 immerseweariness.com
 impractical-award.com
 inabsolor.com
@@ -1348,6 +1346,7 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
+kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1457,7 +1456,6 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
-mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1695,6 +1693,7 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
+presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profitableheavilylord.com
@@ -1776,6 +1775,7 @@ rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
+realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1834,6 +1834,7 @@ rundsp.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
+rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1870,6 +1871,7 @@ shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
+shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -1896,6 +1898,7 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
+softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1977,7 +1980,6 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
-tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
@@ -1994,7 +1996,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
-tranquilside.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
@@ -2031,7 +2032,6 @@ unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
-untidyquestion.com
 untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
@@ -2115,7 +2115,6 @@ wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
-wellmadefrog.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
