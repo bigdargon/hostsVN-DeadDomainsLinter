@@ -298,7 +298,6 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -350,7 +349,6 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
-click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -382,7 +380,6 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
-ads.livetv626.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -430,6 +427,7 @@ hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
+delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
@@ -520,6 +518,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
+2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
@@ -547,7 +546,6 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 aczridptoo.com
-ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -591,6 +589,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -647,6 +646,7 @@ amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
+an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -818,7 +818,6 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
-cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -963,7 +962,6 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
-e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -993,7 +991,6 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
-endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -1225,6 +1222,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1238,6 +1236,7 @@ ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
+imarketservices.com
 immerseweariness.com
 impractical-award.com
 inabsolor.com
@@ -1456,6 +1455,7 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
+mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1748,7 +1748,6 @@ qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
 quaintcan.com
 qualityadverse.com
 quarterserver.de
@@ -1902,7 +1901,6 @@ softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
-soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
@@ -1980,12 +1978,12 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
-toathoule.com
 toawaups.net
 tooglidanog.net
 tookoupanoafig.com
