@@ -21,6 +21,7 @@ analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
+directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
@@ -137,7 +138,6 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -228,6 +228,7 @@ engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
+geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
@@ -388,6 +389,7 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
+qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -413,7 +415,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -429,6 +430,7 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
+www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -461,7 +463,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -595,7 +596,6 @@ ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
-aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -697,7 +697,6 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerads.de
 bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
@@ -826,6 +825,7 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
+clickthrutraffic.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1098,7 +1098,6 @@ goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
-gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
@@ -1117,7 +1116,6 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1205,7 +1203,6 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
-ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1234,8 +1231,8 @@ irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
+ivdjs.com
 ivhwlnlcgi.com
-ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -1309,6 +1306,7 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
+kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1357,7 +1355,6 @@ litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
-llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -1546,6 +1543,7 @@ ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
+opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1988,7 +1986,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
