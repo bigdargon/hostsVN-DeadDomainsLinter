@@ -11,7 +11,6 @@ px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
-client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -78,7 +77,6 @@ o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
 upsight.com
-www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -142,7 +140,6 @@ www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
-gadskis.com
 madsecz.com
 capi.bidtellect.com
 api.publift.com
@@ -343,7 +340,6 @@ www.adclerks.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
-fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
@@ -421,6 +417,7 @@ mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -464,7 +461,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -570,10 +566,12 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -695,7 +693,6 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
-banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -794,6 +791,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -802,7 +800,6 @@ cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
-cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -1202,6 +1199,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1234,6 +1232,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
 ivwbox.de
@@ -1381,7 +1380,6 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
@@ -1428,7 +1426,6 @@ mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
-misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
@@ -1567,6 +1564,7 @@ orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1767,7 +1765,6 @@ reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
-resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
@@ -1775,6 +1772,7 @@ rev2pub.com
 revmob.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2065,10 +2063,10 @@ vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
-vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
+vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
@@ -2165,6 +2163,7 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
+ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -2174,6 +2173,7 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
+yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
