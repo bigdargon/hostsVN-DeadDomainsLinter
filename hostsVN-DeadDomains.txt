@@ -138,6 +138,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -355,10 +356,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -415,6 +414,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -463,6 +463,7 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -568,6 +569,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -596,6 +598,7 @@ ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
+aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -825,7 +828,6 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicks.mods.de
-clickthrutraffic.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1098,6 +1100,7 @@ goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
+gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grandioseguide.com
@@ -1116,6 +1119,7 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
+gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1203,6 +1207,7 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
+ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1233,6 +1238,7 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -1355,6 +1361,7 @@ litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
+llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
@@ -1564,7 +1571,6 @@ orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
-osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
@@ -1733,7 +1739,6 @@ qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
-qwerfdx.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -1986,6 +1991,7 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
+ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
@@ -2192,7 +2198,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
