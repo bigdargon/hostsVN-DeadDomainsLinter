@@ -114,6 +114,7 @@ s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -202,7 +203,6 @@ npm.publift.com
 prebid.publift.com
 showroom2.publift.com
 tools.publift.com
-wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -543,7 +543,6 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
-track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -636,7 +635,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -647,8 +645,8 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
-advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -696,7 +694,6 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -735,8 +732,6 @@ aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
-automatedrepsturmoil.com
-auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
@@ -768,7 +763,6 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -811,6 +805,7 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
+blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
@@ -872,6 +867,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -932,6 +928,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1090,14 +1087,11 @@ feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
-ffuoqgdhiqu.com
-fhkfdgwtzueans.com
-fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
-filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1133,6 +1127,7 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
+ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1140,6 +1135,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1208,7 +1204,6 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
-harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
@@ -1248,6 +1243,7 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
+houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
@@ -1269,7 +1265,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1313,6 +1308,7 @@ iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
+jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
@@ -1451,6 +1447,7 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
+luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
@@ -1512,6 +1509,7 @@ morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
+mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1541,14 +1539,12 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
-news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
-niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
@@ -1670,7 +1666,6 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
-pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1799,6 +1794,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
@@ -1977,7 +1973,6 @@ stooghopsee.net
 stoopfalse.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
