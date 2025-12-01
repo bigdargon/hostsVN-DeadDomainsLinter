@@ -211,6 +211,8 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -274,12 +276,9 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
-geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
@@ -291,6 +290,7 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -419,6 +419,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -431,7 +432,6 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
-amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -605,6 +605,7 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
+adreclaim.com
 adrevolver.com
 ads-to.click
 ads.asiafriendfinder.com
@@ -629,11 +630,11 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -644,6 +645,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -689,6 +691,7 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
+amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
@@ -806,6 +809,7 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
+blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
@@ -822,7 +826,6 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
-brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -1139,6 +1142,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1342,8 +1346,6 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
-jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1452,7 +1454,6 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
-luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
@@ -1636,7 +1637,6 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1876,6 +1876,7 @@ rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
 rtbpopd.com
+rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
@@ -2171,10 +2172,12 @@ wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
+whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
+wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
@@ -2215,7 +2218,6 @@ wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
-xfohaxohrjr.com
 xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
@@ -2254,7 +2256,6 @@ yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
-yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -2277,7 +2278,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
