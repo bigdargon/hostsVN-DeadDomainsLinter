@@ -68,7 +68,6 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
@@ -98,6 +97,7 @@ hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
+sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -422,7 +422,6 @@ mautic.vmax.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
@@ -533,7 +532,6 @@ ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
-adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
@@ -592,6 +590,7 @@ africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
+agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -1444,6 +1443,7 @@ moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
+mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1593,6 +1593,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1713,7 +1714,6 @@ qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
-qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1880,7 +1880,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -1975,6 +1974,7 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
 trendcounter.com
+tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -2072,7 +2072,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2216,7 +2215,6 @@ analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
