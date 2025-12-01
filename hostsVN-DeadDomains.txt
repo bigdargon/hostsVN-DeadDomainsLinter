@@ -175,7 +175,9 @@ microadinc.com
 prcache.microadinc.com
 s-rtb.send.microadinc.com
 ssp.send.microadinc.com
+ads.152media.com
 mob.152media.com
+player-aws.ads.152media.com
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -209,9 +211,9 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
 rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
@@ -289,7 +291,6 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
-vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -382,6 +383,7 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -603,7 +605,6 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.asiafriendfinder.com
@@ -628,6 +629,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -687,7 +689,6 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
-amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
@@ -721,6 +722,7 @@ ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
+atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -746,9 +748,11 @@ axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
+b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
+backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baivideewou.com
 bajavdafwafp.com
@@ -802,10 +806,10 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
-blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
+bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -924,6 +928,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1021,6 +1026,8 @@ ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
+ejyymghi.com
+ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1076,6 +1083,7 @@ fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
+feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
@@ -1087,6 +1095,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1251,6 +1260,7 @@ htyzpilijhki.com
 hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
+hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
@@ -1330,6 +1340,7 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
+jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1465,6 +1476,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1808,6 +1820,7 @@ rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
+razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
@@ -1863,7 +1876,6 @@ rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
 rtbpopd.com
-rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
@@ -2159,12 +2171,10 @@ wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
-whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
@@ -2251,10 +2261,12 @@ yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
+ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yyselrqpyu.com
+yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
@@ -2265,6 +2277,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
