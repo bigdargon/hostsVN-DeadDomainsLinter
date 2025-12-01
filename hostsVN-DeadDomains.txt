@@ -276,9 +276,12 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
+geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
@@ -296,7 +299,6 @@ www.winadx.com
 ytvpaid.winadx.com
 api.traq.li
 pgmcdn.com
-pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -419,7 +421,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -432,6 +433,7 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
+amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -634,7 +636,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -808,7 +809,6 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
-blacurlik.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -826,6 +826,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -931,7 +932,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1004,6 +1004,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+dummieseardrum.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -1346,6 +1347,8 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1454,6 +1457,7 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
+luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
@@ -1477,7 +1481,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1637,6 +1640,7 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
+organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1678,7 +1682,6 @@ pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
-parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 patro-sfe.com
@@ -1687,7 +1690,6 @@ paypopup.com
 pc2ads.com
 pebadu.com
 pefsustazvzgop.com
-penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 peskyclarifysuitcases.com
@@ -2218,6 +2220,7 @@ wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
+xfohaxohrjr.com
 xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
@@ -2256,6 +2259,7 @@ yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
+yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -2265,7 +2269,6 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
-yummiergangue.shop
 yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
@@ -2299,7 +2302,6 @@ img.leadzutw.com
 logriancesenius.com
 logs.bytefence.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
