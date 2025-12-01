@@ -203,6 +203,7 @@ npm.publift.com
 prebid.publift.com
 showroom2.publift.com
 tools.publift.com
+wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -238,7 +239,6 @@ faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
-m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
@@ -393,7 +393,6 @@ trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
-static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
 delivery.taroads.com
@@ -427,7 +426,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv760.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -543,6 +541,7 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
+track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -645,7 +644,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -694,6 +692,7 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
+anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -732,6 +731,8 @@ aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
+automatedrepsturmoil.com
+auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
@@ -754,6 +755,7 @@ babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
+baitpros.net
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
@@ -763,6 +765,7 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -928,7 +931,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1006,7 +1008,6 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1016,7 +1017,6 @@ ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
-eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
@@ -1087,11 +1087,14 @@ feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
+ffuoqgdhiqu.com
+fhkfdgwtzueans.com
+fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1146,6 +1149,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
+gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1204,6 +1208,7 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
@@ -1265,6 +1270,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1341,7 +1347,6 @@ jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
-junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
@@ -1539,12 +1544,14 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
+news-central.org
 news-muheji.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
+niltelreekrofik.net
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
@@ -1577,7 +1584,6 @@ ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
-odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
@@ -1666,6 +1672,7 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1873,6 +1880,7 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
+rumadel.com
 rundsp.com
 ruwertur.com
 ruwoxglzab.com
@@ -1973,6 +1981,7 @@ stooghopsee.net
 stoopfalse.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -2096,7 +2105,6 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
-vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -2177,7 +2185,6 @@ window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
-wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
