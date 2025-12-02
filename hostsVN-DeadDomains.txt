@@ -105,6 +105,7 @@ zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
+adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
@@ -125,6 +126,7 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
+classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
@@ -145,6 +147,8 @@ madsecz.com
 capi.bidtellect.com
 api.publift.com
 cdn.publift.com
+hb.publift.com
+npm.publift.com
 prebid.publift.com
 showroom2.publift.com
 tools.publift.com
@@ -163,6 +167,7 @@ rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
+xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
@@ -215,7 +220,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
-mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -238,7 +242,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
-www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
@@ -320,6 +323,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+jg.wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -329,6 +333,7 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -366,6 +371,7 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
+amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -458,7 +464,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -542,6 +547,7 @@ ads-to.click
 ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
+ads.bigchurch.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -632,7 +638,6 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
-apex-ad.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -1160,7 +1165,6 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1249,7 +1253,6 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
-jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -1290,6 +1293,7 @@ kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
+kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
@@ -1872,7 +1876,6 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -1917,7 +1920,6 @@ surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
-swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -1982,7 +1984,6 @@ trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
-tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
@@ -2059,6 +2060,7 @@ voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
+voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -2134,7 +2136,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
