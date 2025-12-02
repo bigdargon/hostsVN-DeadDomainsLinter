@@ -42,7 +42,6 @@
 00443044.com
 0044789.com
 0045n.com
-0047n.com
 0048n.com
 0048v.com
 0049v.com
@@ -400,8 +399,6 @@
 0432rrr.com
 0432sss.com
 0432ttt.com
-0432uuu.com
-0432vvv.com
 0432www.com
 0432xxx.com
 0432yyy.com
@@ -421,6 +418,7 @@
 045390.com
 046390.com
 0464073.com
+0465r.com
 0466p.com
 04712k.com
 04712p.com
@@ -1481,7 +1479,6 @@
 1317n.com
 1317x.com
 1318t.com
-131965.com
 1319t.com
 131tycvip.com
 132216.com
@@ -1972,7 +1969,6 @@
 1657w.com
 1659s.com
 1659t.com
-166035.com
 1661n.com
 16633v.com
 1663j.com
@@ -3170,6 +3166,7 @@
 2189t.com
 2189w.com
 218yd.com
+2190x.com
 2191n.com
 2191t.com
 2192n.com
@@ -3202,6 +3199,7 @@
 2210t.com
 22111888.com
 22115v.com
+2211777.com
 2211789.com
 2212666.com
 2212n.com
@@ -4086,6 +4084,7 @@
 2701x.com
 270390.com
 2706x.com
+2708x.com
 27113.net
 2711n.com
 2711t.com
@@ -4267,6 +4266,7 @@
 2829t.com
 2829x.com
 282yb.com
+28309.org
 2830x.com
 2831n.com
 2831t.com
@@ -4993,7 +4993,6 @@
 3311t.com
 33123.org
 33128s.com
-331308.com
 331316.com
 331317.com
 33131s.com
@@ -6445,6 +6444,7 @@
 399115.com
 399116.com
 399117.com
+399121.com
 399125.com
 399126.com
 399131.com
@@ -7566,7 +7566,6 @@
 4788n.com
 4788p.com
 478953.com
-478vn.com
 4791t.com
 4792t.com
 4793t.com
@@ -7632,6 +7631,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858e.com
 4858ee.com
 4858f.com
@@ -7642,6 +7642,17 @@
 4858qqq.com
 4858t.com
 4858v.com
+=======
+4858ee.com
+4858j.com
+4858jj.com
+4858mmm.com
+4858n.com
+4858o.com
+4858u.com
+4858v.com
+4858w.com
+>>>>>>> Stashed changes
 4862x.com
 4864t.com
 4866s.com
@@ -9716,6 +9727,7 @@
 6346t.com
 634961.com
 6349t.com
+63502.vip
 6350x.com
 6351t.com
 6351x.com
@@ -12230,7 +12242,6 @@
 7734j.com
 7734w.com
 77366.biz
-7736h.com
 7736ky.com
 7736t.com
 7738n.com
@@ -12966,6 +12977,7 @@
 8179t.com
 8179x.com
 817yb.com
+81811.vip
 8181vn.com
 8182p.com
 8183x.com
@@ -12983,6 +12995,7 @@
 8193t.com
 8194x.com
 8197t.com
+8198d.com
 8198t.com
 81995.vip
 8199p.com
@@ -14229,6 +14242,7 @@
 87bet999.fun
 87hthg.com
 8800002.com
+880036.com
 88004vip.com
 8801n.com
 8801v.com
@@ -14821,7 +14835,6 @@
 8kbet10.com
 8kbet16.com
 8kk50.com
-8kk90.com
 8kmqd99.info
 8kwin03.com
 8kwin04.com
@@ -16019,7 +16032,6 @@
 99958u.com
 99958y.com
 99958z.com
-999659.com
 999781999.com
 9998.biz
 99981.org
@@ -16426,7 +16438,6 @@ api.ddhc.club
 api.degame88.com
 api.f8bet0.com
 api.go88r.pro
-api.hb88p.com
 api.hgkwxnfs.com
 api.i8bet.org
 api.i9bet108.com
@@ -17364,6 +17375,8 @@ bestcacuoc888.com
 bet-86.bet
 bet-86.net
 bet-andyou.com
+bet01.bet
+bet02.bet
 bet1x-th.com
 bet1x-thai.com
 bet1x-thailand.com
@@ -19074,6 +19087,7 @@ flabet90.com
 fle86k.ink
 flookfik11.vip
 flukewp.vip
+fmd890.com
 fn867.com
 fnabqs.com
 fnepg.com
@@ -19982,6 +19996,7 @@ gowolf.net
 gpkvr.cc
 grandlisboa6.com
 group.vua2-ldp.com
+groupteamnames.com
 gs2299.com
 gs3338.com
 gs5514.com
@@ -21293,6 +21308,9 @@ k333cp.com
 k34034.com
 k355cp.com
 k36000.com
+k365c.com
+k365h.com
+k365j.com
 k365p.com
 k366cp.com
 k377cp.com
@@ -23431,7 +23449,6 @@ phslot74.bet
 phslot75.bet
 phslot8.bet
 phslot8.vip
-phslot888.com
 phslot9.bet
 phslot9.cc
 phslots777.com
@@ -25131,6 +25148,7 @@ tonglemanhua.com
 tonmway.com
 tonpichai2539.vip
 top88.uk
+top88a.vip
 top88vn.club
 top88vn.net
 top9nhacai.top
@@ -25729,6 +25747,7 @@ vn138casino.com
 vn138link.net
 vn138mayman.com
 vn138thomo.com
+vn1610.com
 vn2.ku6123.net
 vn270.com
 vn2ku61219.asia
@@ -26517,6 +26536,7 @@ www.kubet88.win
 www.lg585.com
 www.lklklklk.space
 www.lucky88.com
+www.m8winvip.com
 www.mibet.mobi
 www.mu055.com
 www.mu111.vip
@@ -27248,6 +27268,7 @@ xjs680.com
 xjz98.com
 xkkbetxz.com
 xl288.fun
+xl450219375.com
 xl5678.xyz
 xl888888.xyz
 xll232.xyz
@@ -27910,6 +27931,7 @@ yyk1.com
 yywybr.xyz
 yyx76.com
 yz8811.com
+yztdrh.com
 z-bets.com
 z05500.com
 z0i3js.ink
