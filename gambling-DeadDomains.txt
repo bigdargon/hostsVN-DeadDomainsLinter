@@ -90,7 +90,6 @@
 0081n.com
 0081v.com
 0082v.com
-0082x.com
 0084v.com
 0085zz.com
 00882007.com
@@ -284,7 +283,6 @@
 0281x.com
 0283x.com
 02887a.com
-02887b.com
 0288z6.com
 028saibo.com
 029390.com
@@ -425,7 +423,11 @@
 0464073.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 0465r.com
+=======
+0465n.com
+>>>>>>> Stashed changes
 =======
 0465n.com
 >>>>>>> Stashed changes
@@ -660,7 +662,6 @@
 07793t.com
 0779n.com
 0779v.com
-078298.com
 078762.com
 0789bet.com
 078vn.com
@@ -7635,25 +7636,21 @@
 4855s.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-4858e.com
-4858f.com
-4858gg.com
-4858l.com
-4858u.com
-4858w.com
-4858x.com
-4858y.com
+<<<<<<< Updated upstream
 =======
-4858gg.com
-4858j.com
+>>>>>>> Stashed changes
+4858e.com
+4858ff.com
+4858jj.com
 4858l.com
 4858lll.com
 4858m.com
-4858ppp.com
-4858qqq.com
+4858nnn.com
+4858ooo.com
 4858r.com
 4858s.com
 4858sss.com
+<<<<<<< Updated upstream
 4858t.com
 4858v.com
 4858w.com
@@ -7674,6 +7671,8 @@
 4858qqq.com
 4858s.com
 4858sss.com
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 4862x.com
 4864t.com
@@ -8346,6 +8345,7 @@
 5398j.com
 5398p.com
 5398v.com
+53bet999.bet
 5404t.com
 540653.com
 540yb.com
@@ -14863,7 +14863,6 @@
 8u3j.net
 8vns8.com
 8x5896.com
-8x8bet.asia
 8xbet.agency
 8xbet.net
 8z3l8.vip
@@ -16586,7 +16585,6 @@ assoniw86.68winoss.com
 asstook.68winapi.com
 asstook.68winbin.com
 asta2535.vip
-astarchain.com
 astrde.com
 ataqy.com
 atdket.com
@@ -17231,7 +17229,10 @@ bb61489.com
 bb673798.com
 bb80100.com
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 bb80200.com
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 bb80400.com
@@ -18152,6 +18153,7 @@ cdn.vicplay.io
 cdn.winclub.net
 cdnapiif.88vn-app1.com
 cdnapiif.88vn-app2.com
+cdnapiif.ev88n.com
 cdnapiif.ev88z.com
 cdnapiif.hcm2200.com
 cdnapiif.hcm2211.com
@@ -18917,7 +18919,6 @@ f6665.net
 f6815.com
 f697.net
 f69779.com
-f7hash.com
 f8009.com
 f8016.com
 f8017.com
@@ -20449,7 +20450,6 @@ hegj337ftwqrsj.com
 hejgo.com
 heji088.com
 heji098.com
-heji108.com
 heji360.com
 heji48.net
 heji988.net
@@ -22147,10 +22147,13 @@ lucky788.com
 lucky799.com
 lucky88.asia
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 lucky88.cc
 lucky88.club
 lucky88.top
 lucky88.win
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 luckyclub777.live
@@ -24692,6 +24695,7 @@ sumclub1.live
 sumclub1.xyz
 sumvip88.pro
 sumvipclub.pro
+sun.win
 sun20.blog
 sun52.bid
 sun52.link
@@ -25568,6 +25572,10 @@ v34yl.com
 v35458.com
 v3608.com
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+v36754.com
+>>>>>>> Stashed changes
 =======
 v36754.com
 >>>>>>> Stashed changes
@@ -26243,7 +26251,6 @@ winapg.com
 winbet.win
 winbet91.com
 winbph.com
-winclub188.com
 winclub288.com
 winclub388.com
 winclub588.com
@@ -26591,6 +26598,7 @@ www.seb121.net
 www.skx29xs.ms
 www.skytnbdyinu.link
 www.st00001.com
+www.sun.win
 www.tai789.net
 www.tai789.win
 www.taib52.vin
