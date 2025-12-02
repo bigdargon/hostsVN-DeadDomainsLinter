@@ -110,7 +110,6 @@ adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 aj1015.online
-aj1549.online
 aj1754.online
 aj1863.online
 aj2142.online
@@ -168,6 +167,7 @@ ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
+xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -285,6 +285,7 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
@@ -306,7 +307,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
-cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
@@ -384,8 +384,6 @@ aj3017.bid
 aj101.xyz
 aff-track.net
 mntzrlt.net
-adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -443,7 +441,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -453,6 +450,7 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -524,15 +522,14 @@ acpolxakcl.com
 aczridptoo.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
+ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -620,7 +617,6 @@ alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
-altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -716,7 +712,6 @@ beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
 bebreloomr.com
-becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 bee7.com
@@ -1152,7 +1147,6 @@ hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1205,7 +1199,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1225,7 +1218,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1273,7 +1265,6 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
-jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1322,7 +1313,6 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1896,7 +1886,6 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
@@ -2048,6 +2037,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
+vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
