@@ -240,7 +240,6 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -455,6 +454,7 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -469,7 +469,6 @@ motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 vnadssb.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -544,6 +543,7 @@ adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
+ads-to.click
 ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
@@ -624,7 +624,6 @@ allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
-alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
@@ -942,7 +941,6 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 e5asyhilodice.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -962,7 +960,6 @@ ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
-ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1266,6 +1263,7 @@ jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
+jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1357,6 +1355,7 @@ lifpv.com
 liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
+likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
@@ -1733,7 +1732,7 @@ qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
-qtspkqzn.com
+quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -1789,7 +1788,6 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
-rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -1818,7 +1816,6 @@ rvotdlvpwmynan.xyz
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
-saimifoa.net
 salivanmobster.com
 sarinfalun.com
 scabbienne.com
@@ -2238,3 +2235,4 @@ tracking.scenepass.com
 umeng.co
 usergrid.com
 worldgravity.com
+yoursitestatstube.ru
