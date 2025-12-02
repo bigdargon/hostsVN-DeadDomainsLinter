@@ -220,6 +220,7 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
+mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -242,6 +243,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
@@ -323,7 +325,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-jg.wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -555,7 +556,6 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
 ads.horyzon-media.com
@@ -571,6 +571,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -580,6 +581,7 @@ adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -864,7 +866,7 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1031,6 +1033,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1253,6 +1256,7 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -1410,6 +1414,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1425,7 +1430,6 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
-mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1781,7 +1785,6 @@ revmob.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ringedtusher.com
-riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1813,6 +1816,7 @@ rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
 rukktiswibi.com
+rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1828,8 +1832,6 @@ scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-sdkfjxjertertry.com
-seaboblit.com
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -1876,6 +1878,7 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
+soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -1920,6 +1923,7 @@ surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
+swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
@@ -1984,6 +1988,7 @@ trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
+tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
@@ -2098,7 +2103,6 @@ whimogheshestid.net
 whoarguwaghu.net
 whoockeg.top
 whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
