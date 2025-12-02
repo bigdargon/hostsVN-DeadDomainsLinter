@@ -8,11 +8,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
@@ -37,8 +32,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-api.parrable.com
-h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -55,7 +48,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-hb.adomik.com
 adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
@@ -132,8 +124,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -177,8 +167,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-go.exrtbsrv.com
-syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
@@ -307,9 +295,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -326,7 +311,6 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
-px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -342,7 +326,6 @@ static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -368,7 +351,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -452,7 +434,6 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
@@ -491,7 +472,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
-2439march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -537,7 +517,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -684,7 +663,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axkwmsivme.com
-axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
@@ -755,7 +733,6 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -783,7 +760,6 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -925,13 +901,13 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
+drydrum.com
 dsp.io
 ductathing.com
 duimspruer.life
@@ -967,7 +943,6 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
-emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -999,7 +974,6 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
-eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -1076,6 +1050,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1097,7 +1072,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
-go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1167,6 +1141,7 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
+hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
@@ -1231,6 +1206,7 @@ instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
+intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -1411,6 +1387,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1446,12 +1423,12 @@ mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
-mptmaxggqf.com
-mpunuxpurs.com
+morningamidamaruhal.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
+mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1544,7 +1521,6 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
-onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1733,7 +1709,6 @@ qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
-quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -1745,7 +1720,6 @@ quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
-qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
@@ -1826,6 +1800,7 @@ scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
+scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -1936,12 +1911,12 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
-tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
+thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -2137,8 +2112,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2149,7 +2122,6 @@ xfohaxohrjr.com
 xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
-xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
@@ -2215,24 +2187,20 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
-c2i-cdn.startappnetwork.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
-metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-snnd.co
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
