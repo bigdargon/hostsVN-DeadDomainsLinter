@@ -89,7 +89,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
@@ -186,7 +185,6 @@ track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
@@ -307,6 +305,7 @@ livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
+imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
@@ -445,7 +444,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -553,10 +551,10 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -668,6 +666,7 @@ axkwmsivme.com
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
+b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -956,7 +955,6 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -970,6 +968,7 @@ ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
 exogripper.com
+exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
@@ -1182,7 +1181,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1759,6 +1757,7 @@ retryngs.com
 rev2pub.com
 revmob.com
 revoketypes.com
+rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ringedtusher.com
 riotedstuccos.top
@@ -1811,7 +1810,6 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -2018,7 +2016,6 @@ uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
-valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
