@@ -56,6 +56,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -71,6 +72,7 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
+marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
@@ -166,7 +168,6 @@ ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -284,7 +285,6 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
-image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
@@ -453,7 +453,6 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
-adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -528,7 +527,6 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
-ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
@@ -571,7 +569,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1101,7 +1098,11 @@ go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
+goodnotification.net
 goohimom.net
+gossishauphy.com
+gouthoat.com
+gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
@@ -1185,6 +1186,7 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
+hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1212,6 +1214,7 @@ ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
+ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
@@ -1574,6 +1577,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
@@ -1649,6 +1653,8 @@ planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
+plutothejewel.com
+pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1956,6 +1962,8 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
+tixoxzfpur.com
+tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
@@ -2040,7 +2048,6 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
-vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
@@ -2115,6 +2122,7 @@ wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
+wokseephishopty.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
@@ -2132,6 +2140,7 @@ wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
+www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -2218,6 +2227,7 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 metrics.sdkbox.com
+moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
