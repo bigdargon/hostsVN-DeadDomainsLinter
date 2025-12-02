@@ -1,5 +1,6 @@
 googleads-cn.com
 blueserving.com
+ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -55,7 +56,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -71,7 +71,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
-marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
@@ -217,6 +216,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -544,8 +544,10 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
+ads.bigchurch.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -581,10 +583,12 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
+advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
+affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
@@ -638,6 +642,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -853,6 +858,7 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
+counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -1025,6 +1031,7 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+fiksu.com
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -1094,11 +1101,7 @@ go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
-goodnotification.net
 goohimom.net
-gossishauphy.com
-gouthoat.com
-gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
@@ -1182,7 +1185,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1210,7 +1212,6 @@ ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
-ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
@@ -1268,6 +1269,7 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
+jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1285,6 +1287,7 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
+kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
@@ -1304,6 +1307,7 @@ kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
+kkoobzmirh.com
 klkchits.com
 klumn.com
 knlqdtcbi.com
@@ -1435,11 +1439,11 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
+mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
-mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
@@ -1454,6 +1458,7 @@ my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
+myolnyr5bsk18.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1569,7 +1574,6 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
-osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 oufauthy.net
@@ -1645,8 +1649,6 @@ planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
-plutothejewel.com
-pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1905,6 +1907,7 @@ stoopfalse.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
+subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -1953,8 +1956,6 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
-tixoxzfpur.com
-tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
@@ -2039,6 +2040,7 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
+vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
@@ -2113,7 +2115,6 @@ wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
-wokseephishopty.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
@@ -2131,7 +2132,6 @@ wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
-www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -2218,12 +2218,12 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
+snnd.co
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
