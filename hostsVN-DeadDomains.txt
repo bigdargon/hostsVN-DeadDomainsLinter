@@ -30,6 +30,7 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -267,6 +268,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -453,7 +455,6 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
-adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -543,7 +544,6 @@ adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
-ads-to.click
 ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
@@ -573,6 +573,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -856,7 +857,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -926,6 +926,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1234,6 +1235,9 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
+irousbisayan.com
+irritateinformantmeddle.com
+iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
@@ -1262,7 +1266,6 @@ jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
-jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1354,7 +1357,6 @@ lifpv.com
 liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
-likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
@@ -1472,6 +1474,7 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
+nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
@@ -1731,7 +1734,6 @@ qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
-quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -2002,6 +2004,7 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
+uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
@@ -2035,6 +2038,7 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
+vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2234,4 +2238,3 @@ tracking.scenepass.com
 umeng.co
 usergrid.com
 worldgravity.com
-yoursitestatstube.ru
