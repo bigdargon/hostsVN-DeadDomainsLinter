@@ -1,6 +1,5 @@
 googleads-cn.com
 blueserving.com
-ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -218,7 +217,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -356,8 +354,10 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -638,7 +638,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-appads.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -1269,7 +1268,6 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1306,7 +1304,6 @@ kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
-kkoobzmirh.com
 klkchits.com
 klumn.com
 knlqdtcbi.com
@@ -1571,6 +1568,7 @@ orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
+osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
@@ -1907,7 +1905,6 @@ stoopfalse.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
-subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2042,7 +2039,6 @@ vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
-vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
@@ -2198,6 +2194,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
