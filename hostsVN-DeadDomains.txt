@@ -8,6 +8,7 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -72,6 +73,7 @@ zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
+o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
 upsight.com
@@ -176,7 +178,6 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
-api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
@@ -195,6 +196,7 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
+zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
@@ -215,6 +217,8 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
+mondiad.net
+serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -384,6 +388,7 @@ ss29.litvp.com
 aff-track.net
 mntzrlt.net
 adv.klick.vn
+demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -448,7 +453,6 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
@@ -740,7 +744,6 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
-bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
@@ -820,6 +823,7 @@ chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
+cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
@@ -913,9 +917,9 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -946,7 +950,6 @@ echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
-eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
@@ -1026,7 +1029,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1070,6 +1072,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1200,8 +1203,8 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
+iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1428,6 +1431,7 @@ mhavfytafo.com
 mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
+mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1438,6 +1442,7 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
+moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1969,7 +1974,6 @@ tookoupanoafig.com
 toroadvertisingmedia.com
 total-fee.com
 touphudipodou.net
-tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -2018,6 +2022,7 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
+urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
@@ -2194,6 +2199,7 @@ yyselrqpyu.com
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
+zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zeroredirect1.com
