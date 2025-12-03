@@ -35,6 +35,7 @@ web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
+cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
@@ -144,6 +145,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 capi.bidtellect.com
+api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
@@ -156,6 +158,7 @@ count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
+filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
@@ -178,6 +181,7 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
+faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
@@ -230,7 +234,6 @@ tags.aicactus.io
 vt2-tags.aicactus.io
 native-vpaid.winadx.com
 rewarded.winadx.com
-service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -557,6 +560,7 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
@@ -571,8 +575,10 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adsonar.com
 adspace.ro
@@ -709,6 +715,7 @@ barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
+bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
@@ -752,6 +759,7 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
+bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
@@ -1038,6 +1046,7 @@ floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
+forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1152,7 +1161,6 @@ heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
-helitagrfid.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
@@ -1174,7 +1182,6 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
@@ -1193,7 +1200,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -1236,9 +1242,12 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
+izleskulked.shop
+j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
@@ -1264,7 +1273,6 @@ jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
-jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1308,7 +1316,6 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
-kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
@@ -1434,8 +1441,6 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
-mobisla.com
-mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1507,6 +1512,7 @@ oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
+observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1568,7 +1574,9 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
+othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
@@ -1684,7 +1692,6 @@ psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
-ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
@@ -1771,7 +1778,8 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
-rightmedia.com
+ringedtusher.com
+riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1817,6 +1825,7 @@ scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
+scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -2079,7 +2088,6 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
-wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
@@ -2142,6 +2150,7 @@ xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
+xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
