@@ -1,4 +1,4 @@
-# Version: 2511211527
+# Version: 2512031646
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -298,6 +298,7 @@
 ||beoneviet.com^
 ||bestbitbank.co^
 ||bestbitcoinbank.net^
+||bgkjn.tygpzq.bid^
 ||bgtib222.com^
 ||bhxh.co^
 ||bideo-blog.com^
@@ -451,6 +452,7 @@
 ||click-eu-v4.mainexpclkdir.com^
 ||click-v4.mainexpclkdir.com^
 ||click.mainexpclkdir.com^
+||clickpro.live^
 ||cliphott.io.vn^
 ||clmm.me^
 ||clmm.nl^
