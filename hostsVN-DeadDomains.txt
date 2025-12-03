@@ -35,7 +35,6 @@ web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
-cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
@@ -145,7 +144,6 @@ fadskiz.com
 gadskis.com
 madsecz.com
 capi.bidtellect.com
-api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
@@ -158,7 +156,6 @@ count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
-filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
@@ -181,7 +178,6 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
-faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
@@ -445,6 +441,8 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ads.autonet.com.vn
@@ -559,7 +557,6 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
@@ -570,15 +567,14 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
-adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -614,7 +610,9 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
+ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
 akximhhcunr.com
@@ -711,7 +709,6 @@ barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
-bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
@@ -755,7 +752,6 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
@@ -861,6 +857,8 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
+crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -1040,7 +1038,6 @@ floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1222,6 +1219,7 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
+innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1238,12 +1236,9 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
-ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
-j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
@@ -1300,6 +1295,7 @@ kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
+keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
@@ -1401,7 +1397,9 @@ madriyelowd.com
 madserve.org
 makemydownload.com
 makespram.com
+makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1412,6 +1410,7 @@ maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1476,6 +1475,7 @@ netshelter.net
 news-central.org
 news-muheji.com
 newstarads.com
+nfucujozv.com
 nhusjhrshwxvl.com
 nicksstevmark.com
 nicohgokppuj.com
@@ -1507,7 +1507,6 @@ oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
-observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1569,9 +1568,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
-osrzawox.com
 ostaigukeshoak.com
-othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
@@ -1582,6 +1579,7 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
@@ -1637,6 +1635,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1713,6 +1712,7 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
+qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1771,8 +1771,7 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
-ringedtusher.com
-riotedstuccos.top
+rightmedia.com
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1818,7 +1817,6 @@ scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
-scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -2117,6 +2115,7 @@ wokseephishopty.net
 wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
+woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
@@ -2143,7 +2142,6 @@ xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
-xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
