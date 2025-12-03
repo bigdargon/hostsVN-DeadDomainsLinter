@@ -168,7 +168,6 @@ ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -178,6 +177,7 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
+api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
@@ -192,7 +192,6 @@ static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -246,6 +245,9 @@ pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
+delivery.adsterra.org
+www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -280,7 +282,6 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
-cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -453,6 +454,7 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
@@ -574,6 +576,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -622,7 +625,6 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
-allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 alwtupwwafu.com
@@ -694,7 +696,6 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
@@ -744,6 +745,7 @@ bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
 bikrurda.net
+bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
@@ -761,7 +763,6 @@ br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
-bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -920,6 +921,7 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
+dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -950,6 +952,7 @@ echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
+eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
@@ -977,7 +980,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1035,7 +1037,6 @@ fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
-flagmantensity.com
 floitcarites.com
 foliumumu.com
 foogeetoary.net
@@ -1072,7 +1073,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1203,6 +1203,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1618,7 +1619,6 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
-pebadu.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
@@ -1702,7 +1702,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
-purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1808,7 +1807,6 @@ rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
-rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 ruckingefs.com
@@ -1974,6 +1972,7 @@ tookoupanoafig.com
 toroadvertisingmedia.com
 total-fee.com
 touphudipodou.net
+tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
