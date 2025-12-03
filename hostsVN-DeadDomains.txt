@@ -90,8 +90,10 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
+image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -105,6 +107,8 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
+all.dspmulti.com
+dspmulti.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
@@ -139,7 +143,6 @@ www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
-gadskis.com
 madsecz.com
 capi.bidtellect.com
 api.publift.com
@@ -231,6 +234,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -265,7 +269,6 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
-app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -408,6 +411,9 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
+analytics.jeoway.com
+app2.jeoway.net
+jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -420,6 +426,7 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -441,9 +448,11 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
@@ -543,7 +552,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -611,6 +619,7 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+apex-ad.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -677,11 +686,15 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
+baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
+bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
@@ -730,6 +743,7 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
+bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -758,15 +772,16 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
-carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
+ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
@@ -956,6 +971,7 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
+expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -974,6 +990,7 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
+fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
@@ -1035,6 +1052,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1101,6 +1119,7 @@ gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
+hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
@@ -1160,9 +1179,11 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1194,6 +1215,7 @@ inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
+iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
@@ -1254,6 +1276,7 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
+kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -1266,6 +1289,7 @@ kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
+kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1284,7 +1308,6 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
-kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1316,7 +1339,6 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
-linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1429,7 +1451,6 @@ nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
-neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
@@ -1509,7 +1530,6 @@ ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1575,7 +1595,6 @@ paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
-pencilcongress.com
 pepepush.net
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -1927,6 +1946,7 @@ tooglidanog.net
 tookoupanoafig.com
 toroadvertisingmedia.com
 total-fee.com
+touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
@@ -1935,7 +1955,6 @@ traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
-troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
