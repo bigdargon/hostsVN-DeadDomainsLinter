@@ -44,6 +44,7 @@ v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
+image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -225,7 +226,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
@@ -323,6 +323,7 @@ supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
+ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
@@ -362,7 +363,10 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv643.me
 ads.livetv664.me
+ads.livetv673.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -481,7 +485,6 @@ log.bizlive.vn
 log.mekongasean.vn
 log.tinnhac.com
 log.vnfinance.vn
-nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -495,6 +498,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
+2441march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -669,6 +673,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -691,6 +696,7 @@ awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
+azkcqs.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -711,6 +717,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+baresi.xyz
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -757,6 +764,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -801,6 +809,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -832,7 +841,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
@@ -850,6 +858,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
+communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -870,7 +879,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -902,6 +910,7 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
+defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -954,6 +963,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1053,6 +1063,7 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1079,6 +1090,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1086,6 +1098,7 @@ gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
@@ -1094,6 +1107,7 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
+gloalrie.com
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1102,6 +1116,7 @@ go.mobisla.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -1161,7 +1176,6 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -1335,6 +1349,7 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
+kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1385,11 +1400,13 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1512,6 +1529,7 @@ nygwcwsvnu.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oalselry.com
 oaraiwephoursou.net
 oarouwousti.com
 oas.roanoke.com
@@ -1564,7 +1582,9 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
+optiontwentiethhart.com
 opxaxqxaqo.com
+opzazcvitci.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1583,6 +1603,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othabqmag.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1666,6 +1687,7 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+pokreess.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1702,6 +1724,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1884,6 +1907,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
+sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
@@ -1940,6 +1964,7 @@ tagular.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
+tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
@@ -1964,6 +1989,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -1972,6 +1998,7 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 toathoule.com
 toawaups.net
+toeapesob.com
 tooglidanog.net
 tookoupanoafig.com
 toroadvertisingmedia.com
@@ -2081,6 +2108,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2110,6 +2138,7 @@ whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
+wijwunrcoo.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
@@ -2142,6 +2171,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
