@@ -50,7 +50,6 @@ v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
-h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
@@ -117,6 +116,7 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -175,20 +175,20 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
-faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -207,6 +207,7 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -371,6 +372,7 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -513,7 +515,6 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -578,8 +579,6 @@ aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
-ailtashoackie.com
-aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -597,7 +596,6 @@ alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
-altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -756,6 +754,7 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
+caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -806,7 +805,6 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
-coacoalaum.com
 coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
@@ -928,7 +926,6 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
-egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
@@ -937,7 +934,6 @@ ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
-emediate.dk
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1082,6 +1078,7 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
+greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1193,7 +1190,6 @@ imarketservices.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
-inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1238,6 +1234,7 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
+jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
@@ -1247,9 +1244,7 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
-js.xzjhome.cc
 jtoabhvw.com
-jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1263,7 +1258,6 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
-kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
@@ -1290,7 +1284,6 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
-kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1410,6 +1403,7 @@ mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
+mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
@@ -1557,6 +1551,7 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
@@ -1668,6 +1663,7 @@ ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
+pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
@@ -1684,7 +1680,6 @@ qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
-qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1809,7 +1804,6 @@ setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
-shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
@@ -1989,6 +1983,7 @@ upset-project.com
 upspinarakor.com
 uqkcroib.com
 urechar.com
+urigagxnji.com
 uruswan.com
 uselnk.com
 userreplay.net
@@ -2133,7 +2128,6 @@ yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
-yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
@@ -2167,7 +2161,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
