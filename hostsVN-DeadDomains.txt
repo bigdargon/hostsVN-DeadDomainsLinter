@@ -150,6 +150,7 @@ api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
+prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
@@ -395,6 +396,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -515,7 +517,6 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
-adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
@@ -551,14 +552,18 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
+adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -673,7 +678,6 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
-bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -711,6 +715,7 @@ beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
+bestlampjoy.com
 bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
@@ -771,6 +776,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -839,6 +845,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -996,6 +1003,7 @@ feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
+fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
@@ -1046,6 +1054,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1058,7 +1067,6 @@ ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
-gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1197,7 +1205,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1228,6 +1235,7 @@ jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1375,6 +1383,7 @@ madeupadoption.com
 madriyelowd.com
 madserve.org
 makemydownload.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1749,6 +1758,7 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1776,7 +1786,6 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
-rtbpop.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
@@ -1848,12 +1857,10 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
-soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
@@ -1903,7 +1910,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
-targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1948,6 +1954,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
+traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -1963,7 +1970,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2037,6 +2043,7 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
+vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -2053,7 +2060,6 @@ wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
-wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
@@ -2097,9 +2103,10 @@ woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
-wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
+wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
