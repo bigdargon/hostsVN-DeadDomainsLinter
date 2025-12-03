@@ -234,6 +234,7 @@ tags.aicactus.io
 vt2-tags.aicactus.io
 native-vpaid.winadx.com
 rewarded.winadx.com
+service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -273,7 +274,6 @@ asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -297,7 +297,6 @@ delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -580,7 +579,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -591,7 +589,6 @@ advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
-afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
@@ -728,7 +725,6 @@ bedaoibe.com
 bedrapiona.com
 bee7.com
 beefoaloode.net
-bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
@@ -899,7 +895,6 @@ decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
-defensive-bad.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -1004,7 +999,6 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
-facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1074,7 +1068,6 @@ ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
-gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
@@ -1161,6 +1154,7 @@ heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
+helitagrfid.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
@@ -1168,7 +1162,6 @@ hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
-hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
@@ -1182,6 +1175,7 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
+hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
@@ -1200,6 +1194,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -1268,11 +1263,11 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
-jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
+jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1316,6 +1311,7 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
+kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
@@ -1406,7 +1402,6 @@ makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
-maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1441,6 +1436,8 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
+mobisla.com
+mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1692,6 +1689,7 @@ psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
+ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
@@ -1746,7 +1744,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -1982,7 +1979,6 @@ tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
-trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
@@ -2037,7 +2033,6 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2050,7 +2045,6 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
-viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
@@ -2088,6 +2082,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
