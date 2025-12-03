@@ -50,6 +50,7 @@ v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
+h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
@@ -89,10 +90,8 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
-image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
@@ -180,10 +179,12 @@ api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
+faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -230,7 +231,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
@@ -408,9 +408,6 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
-analytics.jeoway.com
-app2.jeoway.net
-jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -423,7 +420,6 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -445,7 +441,6 @@ clix.vn
 crocopop.com
 duamilsyr.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -515,6 +510,7 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -579,6 +575,8 @@ aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
+ailtashoackie.com
+aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -596,6 +594,7 @@ alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
+altronopubacc.com
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -678,15 +677,11 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
-baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
-bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
@@ -735,7 +730,6 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
-bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -773,7 +767,6 @@ cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
-ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
@@ -805,6 +798,7 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
+coacoalaum.com
 coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
@@ -926,6 +920,7 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
+egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
@@ -961,7 +956,6 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
-expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -980,7 +974,6 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
-fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
@@ -1108,7 +1101,6 @@ gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
-hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
@@ -1168,11 +1160,9 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
-huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1190,6 +1180,7 @@ imarketservices.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
+inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1203,7 +1194,6 @@ inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
-iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
@@ -1244,7 +1234,9 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
+js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1258,10 +1250,10 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
+kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
-kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
@@ -1274,7 +1266,6 @@ kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1284,6 +1275,7 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1680,6 +1672,7 @@ qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
+qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
@@ -1804,6 +1797,7 @@ setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
+shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
@@ -1933,7 +1927,6 @@ tooglidanog.net
 tookoupanoafig.com
 toroadvertisingmedia.com
 total-fee.com
-touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
@@ -2128,6 +2121,7 @@ yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
+yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
@@ -2161,6 +2155,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
