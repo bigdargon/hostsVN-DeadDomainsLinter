@@ -53,6 +53,8 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -113,7 +115,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -194,7 +195,6 @@ fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
-api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
@@ -364,6 +364,7 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -509,6 +510,7 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -522,6 +524,7 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
+banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -623,6 +626,7 @@ ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
+ads.jewishfriendfinder.com
 ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
@@ -634,7 +638,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -871,6 +874,7 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
+chickensstation.com
 chinaslauras.com
 chioneflake.com
 chippedaugur.com
@@ -1227,6 +1231,7 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1526,7 +1531,6 @@ myolnyr5bsk18.com
 myvisualiq.net
 naishoochoh.com
 namol.xyz
-nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
@@ -1616,6 +1620,7 @@ onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
@@ -1662,6 +1667,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
+ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1761,7 +1767,6 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
-pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1853,7 +1858,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1915,6 +1919,7 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
+shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
@@ -1943,7 +1948,6 @@ sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
-songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
@@ -2190,6 +2194,7 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
+woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
@@ -2214,7 +2219,6 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
-xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
