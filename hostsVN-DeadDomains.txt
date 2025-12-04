@@ -28,7 +28,6 @@ self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
 advertica-cdn.com
-ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
@@ -76,7 +75,6 @@ crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
-yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
@@ -115,6 +113,7 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
+static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -143,7 +142,6 @@ aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
-aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
@@ -195,6 +193,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
+api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
@@ -542,7 +541,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.giacngo.vn
 log.mekongasean.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
@@ -646,6 +644,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -826,7 +825,6 @@ brattieseries.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -1095,6 +1093,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1394,7 +1393,6 @@ kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
-kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
@@ -1531,6 +1529,7 @@ myolnyr5bsk18.com
 myvisualiq.net
 naishoochoh.com
 namol.xyz
+nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
@@ -1767,6 +1766,7 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
+pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1858,6 +1858,7 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1948,6 +1949,7 @@ sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
+songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
@@ -2219,6 +2221,7 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
@@ -2287,7 +2290,6 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 e2.platform88798.com
-go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 moatpixel.com
