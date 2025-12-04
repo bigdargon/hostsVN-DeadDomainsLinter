@@ -357,6 +357,7 @@ com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
+com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
 comptrffc.com
@@ -483,6 +484,7 @@ dichvucong.hhghv.com
 dichvucong.hhlpa.com
 dichvucong.kgov.net
 dichvucong.lgov.net
+dichvucong.snggov.com
 dichvucong.tgovn.cc
 dichvucong.thongtindancu.org
 dichvucong.tkgov.com
@@ -692,7 +694,6 @@ freefiremembershipq.com
 freefiremenbershipvn.com
 freefirenhanqua.com
 freefirervmembership.com
-freelienquan2021.com
 frionene.xyz
 ftpshopvn.com
 fuconap.vip
@@ -1087,7 +1088,6 @@ korshoptiktok.com
 kpd63519s.com
 kpt32165s.com
 ksdp997.com
-kstorybank.top
 kuurza.com
 kyaj11.com
 l-fb.co
@@ -1318,7 +1318,6 @@ mc-live.online
 mcfa11.com
 mcnodes.zapto.org
 mcredit.vaynhanh-bankcredits.com
-meetamate.site
 member-gaarena.com
 member-garena-lienquan.com
 member-lienquan-garena.com
@@ -1378,7 +1377,6 @@ mmbonline01.com
 mmocorporation2017.com
 mmomo.me
 mmovietnam.info
-mobaviet.shop
 mobile-facebook.com.vn
 mobile-ibankingshopee.vn
 mobilebanking-shopee.vn
@@ -1470,6 +1468,7 @@ mpos-ruttientindungnhanh.com
 mpos-ruttindunguytinvn.com
 mprisesth.cfd
 mpvn-checkmoney6868payment.com
+msb.com.vn-sp.top
 msb.msbbsm.com
 msb.vn-cvs.xyz
 msb.vn-iy.life
@@ -1902,6 +1901,7 @@ quetthe-minhpos.com
 quetthe-mpos247.com
 quetthe-mposcard247.com
 quetthe-ruttindung.com
+quetthe-ruttindungvn.com
 quetthe-tindung24h.com
 quetthe-tindungminhpos.com
 quetthe-tindungmpos247.com
@@ -2107,7 +2107,6 @@ shopacclmht69.com
 shopacctet.com
 shopacctop.com
 shopacctriki.com
-shopaccvip.vn
 shopadcoriff2023.tk
 shopasmobile.mobi
 shopbacgau.shop
@@ -2128,7 +2127,6 @@ shopcuahuybom.com
 shopcuaminhchill.vn
 shopcuamon.com
 shopcuchuoi.online
-shopdangym.net
 shopdat09.com
 shopdegamingff.com
 shopdieulinh.com
@@ -2205,6 +2203,7 @@ shopeecv.com
 shopeee.icu
 shopeefans.info
 shopeeff.com
+shopeeft.com
 shopeehethong.com
 shopeehub.online
 shopeeindia.store
@@ -2330,6 +2329,7 @@ shopne77.com
 shopne886.com
 shopne988.com
 shopnhanff.com
+shopnhanthuong.com
 shopnickninjaschool.com
 shopninjaschool.com
 shopntn03.com
@@ -2482,7 +2482,6 @@ spohopenm.com
 spohopenm.org
 spsinhlychinhhang.com
 sputrey567rik.cfd
-sql.onlyslq.lol
 sso-garena.vn
 sso-hotro-taikhoan.com
 standardresourcebank.com
@@ -2903,7 +2902,6 @@ tracuu-thongtin.site
 tracuugiaodichvi.com
 tracuuthenap247.com
 tracuutthvt.com
-traderviet88.com
 trang-chu-vn.com
 trangbaotuoitre.com
 trangchu24-7.com
@@ -3637,6 +3635,8 @@ vongquay79.com
 vongquay88.site
 vongquaybooyah.com
 vongquaycongnghe.ga
+vongquaycongnghegarena.com
+vongquayduthuong.com
 vongquayfreefiremembership.com
 vongquaygarena2021.com
 vongquaygarena21.com
@@ -3697,7 +3697,6 @@ vpbank-vaytien.com
 vpbank.chamsockhachhang-uudai-the-truc-tuyen.online
 vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 vpbank.com.vn-hc.info
-vpbank.com.vn-rb.icu
 vpbank.com.vn-rn.biz
 vpbank.com.vn-uz.info
 vpbank.uudai-tructuyen-chamsockhachhang-the.com.vn
@@ -3910,6 +3909,7 @@ zla653.top
 zloweb.me
 zmomo.cc
 znavidsde.cfd
+zutube.pro
 zvay.online
 zvietcombank.com
 zywjpypco.7hujk.de
