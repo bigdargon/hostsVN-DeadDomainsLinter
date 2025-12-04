@@ -20,8 +20,6 @@ a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
-e.ligatus.com
-i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
@@ -404,6 +402,10 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+d.pssy.xyz
+r.pssy.xyz
+s.pssy.xyz
+www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -412,6 +414,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -442,6 +445,7 @@ srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
+cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -515,6 +519,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
+ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -545,7 +550,6 @@ log.bizlive.vn
 log.mekongasean.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
-stats.dongphim.net
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -561,6 +565,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
+2441march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -568,6 +573,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
+2524june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -646,7 +652,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -661,7 +666,6 @@ agafurretor.com
 agapios-gla.com
 agghriwaz.com
 agtamzsm.com
-agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
@@ -725,6 +729,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+asslfeqadv.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -771,6 +776,7 @@ banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
+bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -824,6 +830,7 @@ bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 brechtembrowd.com
+bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -953,7 +960,6 @@ dangerouswinter.com
 dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
-daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
@@ -962,6 +968,7 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
+defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -980,7 +987,9 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
+diedstubbornforge.com
 digiadzone.com
+digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1069,6 +1078,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1122,6 +1132,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1138,6 +1149,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1262,6 +1274,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -1340,7 +1353,6 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
-jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1480,6 +1492,7 @@ matecatenae.com
 mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
@@ -1579,6 +1592,7 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
+obnoljac.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -1587,6 +1601,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
+odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1642,6 +1657,7 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
+othabqmag.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1738,6 +1754,7 @@ powershatchet.com
 pphtrwrnsuyl.com
 praiseddisintegrate.com
 pramviable.com
+pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
@@ -1788,6 +1805,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlfqkjluvz.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -1812,6 +1830,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+qzyztuwulo.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1844,6 +1863,7 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1854,6 +1874,7 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -2017,6 +2038,7 @@ thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
+theekedgleamed.com
 theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
@@ -2027,6 +2049,7 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tidy-mark.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
@@ -2206,6 +2229,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2222,7 +2246,6 @@ xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
-xlx1.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2248,7 +2271,6 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yoggrt.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
@@ -2284,7 +2306,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
