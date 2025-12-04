@@ -184,9 +184,6 @@ api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
-global.proper.io
-monitoring.proper.io
-s2s.proper.io
 capi.bidtellect.com
 api.publift.com
 cdn.publift.com
@@ -260,7 +257,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
-dsp.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -312,7 +308,6 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -392,9 +387,9 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv639.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -502,6 +497,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
+ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
@@ -623,10 +619,12 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -648,7 +646,6 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
-aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
@@ -1205,7 +1202,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1260,6 +1256,7 @@ ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
+iloopmobile.com
 imageshh.com
 imarketservices.com
 immerseweariness.com
@@ -1322,7 +1319,6 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1375,7 +1371,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1451,6 +1446,7 @@ makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1494,7 +1490,6 @@ morningamidamaruhal.com
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
-mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1518,7 +1513,6 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
-nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1731,7 +1725,6 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
-psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1810,6 +1803,7 @@ redmas.com
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
+regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
@@ -1826,7 +1820,6 @@ rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1857,7 +1850,6 @@ rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
-rumadel.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -1952,7 +1944,6 @@ static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
-stichaur.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -2160,7 +2151,6 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
-wiltiqkc.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
@@ -2184,13 +2174,13 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2231,7 +2221,6 @@ yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
-yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
