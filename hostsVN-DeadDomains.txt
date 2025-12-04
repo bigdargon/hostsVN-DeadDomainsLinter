@@ -53,8 +53,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-api.zcoup.com
-image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -256,6 +254,7 @@ track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
@@ -365,7 +364,6 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -434,6 +432,7 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-track.net
+mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -510,7 +509,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -524,7 +522,6 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -572,6 +569,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
+4d5.net
 4hfchest5kdnfnut.com
 4info.com
 4wnet.com
@@ -625,7 +623,6 @@ ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
-ads.jewishfriendfinder.com
 ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
@@ -646,7 +643,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -875,7 +871,6 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
-chickensstation.com
 chinaslauras.com
 chioneflake.com
 chippedaugur.com
@@ -931,7 +926,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1097,7 +1091,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1141,11 +1134,11 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
+gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
@@ -1222,6 +1215,7 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
+heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1233,7 +1227,6 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1242,6 +1235,7 @@ hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
+hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -1478,7 +1472,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1623,7 +1616,6 @@ onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
-openads.org
 opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
@@ -1640,6 +1632,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1669,7 +1662,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
-ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1829,6 +1821,7 @@ realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
+redmas.com
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
@@ -1922,7 +1915,6 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
-shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
@@ -2181,6 +2173,7 @@ widespace.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
+window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
@@ -2197,7 +2190,6 @@ wollybelayer.shop
 wonderhsjnsd.com
 wonderlandads.com
 woochithoothie.net
-woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
@@ -2231,6 +2223,7 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
