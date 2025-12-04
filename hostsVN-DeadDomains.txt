@@ -19,7 +19,6 @@ analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
-directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
@@ -96,6 +95,7 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -333,7 +333,7 @@ cdn.switchadhub.com
 delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
-network.adclickmedia.com
+switchadhub.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
@@ -484,6 +484,7 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
+ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
@@ -580,7 +581,6 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
-ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -656,6 +656,7 @@ ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
+ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
 akximhhcunr.com
@@ -688,9 +689,13 @@ appads.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
+arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
+armfullitigateslate.com
+armoursviolino.com
+arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
@@ -944,6 +949,7 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
+despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
@@ -1106,7 +1112,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1169,7 +1174,6 @@ gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
-gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
@@ -1233,9 +1237,11 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1442,7 +1448,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1605,12 +1610,12 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
+ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
-outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
@@ -1674,6 +1679,8 @@ pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
+plaicecaught.com
+planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
@@ -1879,7 +1886,6 @@ shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
 shelfoka.com
-sheltermilligrammillions.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -1888,7 +1894,6 @@ shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
-sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -1953,7 +1958,6 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suspectedadvisor.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -1993,7 +1997,6 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2031,7 +2034,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-u1pmt.com
 ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
@@ -2229,7 +2231,6 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
-yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
