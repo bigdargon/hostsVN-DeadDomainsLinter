@@ -184,6 +184,9 @@ api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
+global.proper.io
+monitoring.proper.io
+s2s.proper.io
 capi.bidtellect.com
 api.publift.com
 cdn.publift.com
@@ -225,7 +228,6 @@ faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
-logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
 lalaping.com
@@ -237,7 +239,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
-zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
@@ -308,6 +309,7 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -387,7 +389,6 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -516,7 +517,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -566,7 +566,6 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
@@ -624,7 +623,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -646,6 +644,7 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
+aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
@@ -841,7 +840,6 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
-cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -984,7 +982,6 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
-e5asyhilodice.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -1060,7 +1057,6 @@ fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feedyourtralala.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1122,7 +1118,6 @@ gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1174,7 +1169,6 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
-gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1202,6 +1196,7 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
+hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1256,7 +1251,6 @@ ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
-iloopmobile.com
 imageshh.com
 imarketservices.com
 immerseweariness.com
@@ -1513,6 +1507,7 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
+nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1628,7 +1623,6 @@ ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
-owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
@@ -1725,6 +1719,7 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
+psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1816,10 +1811,10 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
+riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
@@ -1903,9 +1898,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-sljtqfcyi.com
-slockertummies.com
-slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -2174,7 +2166,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2221,6 +2212,7 @@ yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
