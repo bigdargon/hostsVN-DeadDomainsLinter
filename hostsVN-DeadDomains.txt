@@ -75,6 +75,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -253,7 +254,6 @@ faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
-m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
@@ -318,7 +318,6 @@ www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
-cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -390,8 +389,6 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
-ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -532,6 +529,7 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
@@ -555,6 +553,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+ttus.tructiepbongda.me
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -586,7 +585,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
-2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -619,15 +617,16 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
-ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -779,10 +778,10 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
+bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
@@ -806,6 +805,7 @@ bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
+beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -950,7 +950,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1290,6 +1289,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1373,7 +1373,6 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
-kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
@@ -1882,7 +1881,6 @@ rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
-rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rooptawu.net
@@ -2054,7 +2052,6 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
-tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2130,6 +2127,7 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
+vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
