@@ -77,7 +77,6 @@ cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
-logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
@@ -94,13 +93,10 @@ serve.adtrackers.net
 torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
-zoover.adtrackers.net
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
-yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
@@ -246,7 +242,6 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
-api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
@@ -420,8 +415,6 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.pssy.xyz
-www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -433,9 +426,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv671.me
 ads.livetv687.me
-ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -487,6 +478,7 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -551,13 +543,13 @@ adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
+bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -663,6 +655,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -674,7 +667,6 @@ adtoma.com
 advariant.com
 adverdirect.com
 adxpose.com
-adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
@@ -796,6 +788,7 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -935,6 +928,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
+communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -945,7 +939,6 @@ connexity.net
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -971,6 +964,7 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 da-ads.com
 dacmaiss.com
+daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
@@ -1120,7 +1114,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1133,12 +1126,12 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
-forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
+fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
@@ -1296,7 +1289,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1358,6 +1350,7 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
+jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
@@ -1441,7 +1434,6 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1643,7 +1635,6 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
-onmawmojth.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1715,8 +1706,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-peppaping.xyz
-perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1727,7 +1716,6 @@ phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
-phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
@@ -1844,7 +1832,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1875,7 +1862,6 @@ retintsmillion.com
 rev2pub.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
-rickerrotal.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
@@ -2311,7 +2297,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2341,7 +2326,6 @@ track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
