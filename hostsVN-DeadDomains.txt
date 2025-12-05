@@ -148,7 +148,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
@@ -314,8 +313,6 @@ ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
-hetaint.com
-ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
@@ -372,7 +369,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv655.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -489,7 +485,6 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-an.xemvtv.net
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -558,7 +553,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -635,7 +629,6 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
-aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -645,7 +638,6 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
-ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -1106,6 +1098,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1220,6 +1213,7 @@ hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
+hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
@@ -1241,7 +1235,6 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
@@ -1700,7 +1693,6 @@ pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
-praddpro.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1921,6 +1913,7 @@ soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
+spathalbarmie.com
 speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
@@ -1992,7 +1985,6 @@ thootipheguph.com
 thougnoangi.com
 thounookra.com
 thumhuwbtt.com
-thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
@@ -2233,6 +2225,7 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
