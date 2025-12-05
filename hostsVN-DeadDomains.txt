@@ -138,7 +138,6 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
-adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
@@ -477,6 +476,7 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -552,8 +552,8 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -659,7 +659,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -668,7 +667,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -779,7 +777,6 @@ azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
-babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -955,6 +952,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1022,7 +1020,6 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
-dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -1082,7 +1079,6 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
-expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -1162,6 +1158,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1203,7 +1200,6 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
-grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1235,6 +1231,7 @@ harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
+haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
@@ -1292,7 +1289,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1437,6 +1433,8 @@ leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
+lessemujust.live
+lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
@@ -1834,7 +1832,6 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
-rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
@@ -2013,7 +2010,6 @@ susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
-sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
@@ -2026,6 +2022,7 @@ tagular.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
+tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
@@ -2094,9 +2091,11 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
+undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
