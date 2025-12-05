@@ -46,7 +46,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-creative.lkqd.net
 api.parrable.com
 h.parrable.com
 ads.2mdnsys.com
@@ -137,6 +136,7 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
+asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
@@ -170,10 +170,10 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
+tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
-www.advinci.net
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -244,7 +244,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -495,7 +494,6 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -596,7 +594,6 @@ ads.redlightcenter.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads.wwe.biz
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
@@ -636,6 +633,7 @@ aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
+ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
@@ -662,6 +660,7 @@ amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
+anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -678,9 +677,7 @@ arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
-armfullitigateslate.com
 armoursviolino.com
-arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
@@ -752,13 +749,11 @@ becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 beefoaloode.net
-bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
-berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestadbid.com
@@ -780,7 +775,6 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
-bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
@@ -1116,7 +1110,6 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
-gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1127,7 +1120,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
-go.onclasrv.com
 go.padstm.com
 gogglemessenger.com
 goodnotification.net
@@ -1146,7 +1138,6 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -1215,7 +1206,6 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
-houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
@@ -1260,6 +1250,7 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
+interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
@@ -1360,6 +1351,7 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
+kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1383,6 +1375,7 @@ lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
+lidosquey.shop
 lifpv.com
 ligeia-gip.com
 ligvraojlrr.com
@@ -1487,7 +1480,6 @@ mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1601,6 +1593,7 @@ orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
+osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -1624,6 +1617,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1812,6 +1806,7 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
+rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1827,7 +1822,6 @@ romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
-rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1887,7 +1881,6 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
-sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -1921,7 +1914,6 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
-spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -2135,7 +2127,6 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
-whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2262,6 +2253,7 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
+tdf.ringier.ch
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
