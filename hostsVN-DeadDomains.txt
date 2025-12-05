@@ -110,9 +110,7 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
-ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -281,6 +279,7 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
+aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -440,7 +439,6 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
-amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -552,7 +550,6 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -563,7 +560,6 @@ analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
-log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
@@ -596,6 +592,8 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4d5.net
 4hfchest5kdnfnut.com
 4info.com
+4wnet.com
+52dvzo62i.com
 5enaovbz2.com
 79xmz3lmss.com
 aabtrrnspgtdi.com
@@ -654,6 +652,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -750,6 +749,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -864,7 +864,6 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -882,6 +881,7 @@ capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
+carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
@@ -957,6 +957,7 @@ crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
+culwcoam.com
 curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
@@ -1036,6 +1037,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1292,7 +1294,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1567,7 +1568,6 @@ neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
-netflame.cc
 news-central.org
 news-muheji.com
 newstarads.com
@@ -2029,6 +2029,7 @@ tagular.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
+tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
@@ -2103,6 +2104,7 @@ uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 untrendenam.com
@@ -2141,7 +2143,6 @@ vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
-vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2246,6 +2247,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2312,6 +2314,7 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
+hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
