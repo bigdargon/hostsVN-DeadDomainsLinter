@@ -8,7 +8,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
-m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -19,7 +18,6 @@ a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
-analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
@@ -126,7 +124,6 @@ cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -402,7 +399,6 @@ media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 core.polyad.net
-cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
@@ -506,7 +502,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -602,7 +597,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -709,7 +703,6 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
-awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
@@ -908,7 +901,6 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
-da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -1032,6 +1024,7 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1068,8 +1061,6 @@ fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
 foliumumu.com
-foogeetoary.net
-fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1096,13 +1087,11 @@ fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
-gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1230,7 +1219,6 @@ huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iadnet.com
@@ -1520,6 +1508,7 @@ nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
+npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
@@ -1597,6 +1586,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1737,7 +1727,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
-pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1860,7 +1849,6 @@ schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
-seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1955,7 +1943,6 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
-sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2153,6 +2140,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2193,7 +2181,6 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
-yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
