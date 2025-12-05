@@ -1,4 +1,4 @@
-# Version: 2512031646
+# Version: 2512051436
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -735,6 +735,7 @@
 ||dtcltx.com^
 ||dtdvmuadong-lienquan.com^
 ||duchessefit.com^
+||duqzmnhq.muzazalo.me^
 ||duthithanhlich2021.weebly.com^
 ||duyendangaodaivietnam2021.weebly.com^
 ||duyetdonlazada.com^
