@@ -446,8 +446,6 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
-mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -471,6 +469,7 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -600,8 +599,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
-adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -856,7 +853,6 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -903,7 +899,6 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cutepopcorn.com
-cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
@@ -1005,6 +1000,7 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
+enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
@@ -1086,7 +1082,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1106,7 +1101,6 @@ galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
-gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
@@ -1358,6 +1352,7 @@ kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
+kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
@@ -1390,6 +1385,7 @@ linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
+lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1407,7 +1403,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1500,6 +1495,7 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
+nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1525,7 +1521,6 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
-nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
@@ -1804,8 +1799,8 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
-riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
