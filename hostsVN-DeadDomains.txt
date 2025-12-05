@@ -75,7 +75,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -533,7 +532,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
@@ -626,12 +624,10 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -661,7 +657,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -713,6 +708,7 @@ allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
+alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -787,7 +783,6 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
-bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
@@ -811,7 +806,6 @@ bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
-beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -852,6 +846,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -955,6 +950,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1122,6 +1118,7 @@ findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
+fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
@@ -1293,7 +1290,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1474,6 +1470,7 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
+lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
@@ -1575,6 +1572,7 @@ nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
+nmakilpumvt.com
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
@@ -1741,6 +1739,7 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
+pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1894,8 +1893,11 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
+rtbpop.com
 rtbpopd.com
 rtcheajfn.com
+rtfvtxer.com
+rtk.io
 ruckingefs.com
 rukktiswibi.com
 rundsp.com
@@ -2128,7 +2130,6 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
-vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
@@ -2270,6 +2271,7 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
