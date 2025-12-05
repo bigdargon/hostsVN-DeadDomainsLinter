@@ -254,6 +254,7 @@ faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
+m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
@@ -318,6 +319,7 @@ www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -389,6 +391,8 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
+ad.samsungadhub.com
+samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -416,6 +420,8 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+r.pssy.xyz
+www.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -427,7 +433,9 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv671.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -479,7 +487,6 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -544,7 +551,6 @@ adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
-bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
@@ -553,7 +559,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-ttus.tructiepbongda.me
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -585,6 +590,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
+2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -617,6 +623,7 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
+ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -778,6 +785,7 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
+backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
@@ -788,7 +796,6 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
 barscreative1.com
@@ -950,6 +957,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -963,7 +971,6 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 da-ads.com
 dacmaiss.com
-daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
@@ -1126,12 +1133,12 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
-fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
@@ -1351,7 +1358,6 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
-jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
@@ -1373,6 +1379,7 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
+kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
@@ -1434,6 +1441,7 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
+lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1635,6 +1643,7 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
+onmawmojth.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1706,6 +1715,8 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+peppaping.xyz
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1833,6 +1844,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+qzyztuwulo.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1881,6 +1893,7 @@ rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
+rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rooptawu.net
@@ -2052,6 +2065,7 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
+tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2297,6 +2311,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
