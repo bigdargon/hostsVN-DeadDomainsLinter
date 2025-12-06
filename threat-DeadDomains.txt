@@ -73,6 +73,8 @@ acb.chamsocthe-uudai-tructuyen-thang10.com.vn
 acb.chamsocthe-uudaikhachhang-thang10.com.vn
 acb.chamsocthe-uudaikhachhang-tructuyen.com
 acb.chamsocthe-uudaikhachhang.online
+acb.chamsocthe-uudaitructuyen.com.vn
+acb.chamsocthekhachhang-tructuyen-thang8.com.vn
 acb.hotrokhachhang-uudai-tructuyen.com.vn
 acb.uudaikhachhang-chamsocthetructuyen.com
 acb.uudaikhachhang-tructuyen-the.com.vn
@@ -440,6 +442,8 @@ demo.sc0mvn.com
 dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
+dhl-chuyenphatnhanhquocte.com.vn
+dhl-chuyenphatnhanhquocte.vn
 dhl-vietnam.vn
 dhlexpress-vietnam.com.vn
 dhlvietnam-express.vn
@@ -778,6 +782,7 @@ giaodichquettindungpos247-online.com
 giaodichquettindungvn-online.com
 giaodichquoctes.com
 giaodichvidientu.com.vn
+giaohangtietkiem247.com
 giaohangtietkiem247.top
 giaohangtietkiemvietnam.com
 giaohangtietkiemvn.website
@@ -1360,12 +1365,10 @@ miles-card-vpbank.com
 miner-linkperfectmoney.com
 minhchinhmega.com
 minhngocc789.com
-miniast.com
 minigamemomo.net
 minimomo.club
 miravay.org
 mistyforestolqt.online
-miu78.me
 mizonevn.shop
 mkshopmobi.xyz
 mlazada.com
@@ -1907,13 +1910,11 @@ quetthe-tindungminhpos.com
 quetthe-tindungmpos247.com
 quetthe-tindungnhanh.com
 quetthe-tindungtieudung.com
-quetthe-tindungvn.com
 quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
 quettheruttien-24hmpos.com
-quettheruttienvn.com
 quetthetindung-247mpos.com
 quetthetindung-vnpay.com
 quetthetindungvn-thanhtoan.com
@@ -2789,7 +2790,6 @@ tikivn118.com
 tikivn12.com
 tikivn558.com
 tikivn668.com
-tikivn68.com
 tikivncareers.com
 tikivnn.com
 tikivv.com
@@ -2843,6 +2843,7 @@ tinhot24h.website
 tinhotnew.com
 tinhotnhat.pro
 tinlequa365.com
+tinlocvang123.com
 tinnhanh24gio.com
 tinsukien2021vn.com
 tinthuongtrian.com
@@ -2910,6 +2911,7 @@ trangchu247.com
 trangchusukien.vn
 trangdanhatban.com
 trangdientu24-7.com
+tranggiaivangvn.com
 trangnapthelienquan.com
 trangnganhangdientu247.com
 trangnganhangso247.com
@@ -3000,7 +3002,6 @@ ugvietnam.net
 uhy89mb.com
 ukzdcnzp.bdtrjklaz.de
 ullis-airbrush-shop.de
-umyugu88.ru
 undertheguid.cfd
 undimangen.cfd
 unixpop.xyz
@@ -3184,6 +3185,7 @@ vayvon-shinhanbank-24h.com
 vayvon-techcombank.biz
 vayvoncgcredit.com
 vayvonlotte.online
+vayvonnganhang-techcombank24h.online
 vayvonnganhangvn.online
 vayvonnhanh.click
 vayvonnhanhnganhangtpbank.com
@@ -3366,7 +3368,6 @@ vietnaminsc.com
 vietnamkdam.com
 vietnamlo.vip
 vietnamlua.vip
-vietnamlud.vip
 vietnammoi.biz
 vietnamokf.vip
 vietnamoks.com
@@ -3620,10 +3621,7 @@ vnwish.shop
 vongloai.vn
 vongquay-2021lolgarena.ml
 vongquay-freefire.com
-vongquay-freefire2021.com
 vongquay-lienminh.com
-vongquay-lienquanmobile.site
-vongquay-pubg-vng.com
 vongquay-pubgmobilevn-zing.com
 vongquay-pubgmobilevn.com
 vongquay-pubgmobilevng.com
