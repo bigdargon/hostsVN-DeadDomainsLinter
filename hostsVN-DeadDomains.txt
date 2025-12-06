@@ -88,6 +88,7 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
+ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
@@ -108,6 +109,7 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
+static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -293,6 +295,7 @@ widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -348,6 +351,7 @@ beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
 ad.samsungadhub.com
+samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -612,8 +616,8 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -648,6 +652,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -741,6 +746,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -753,7 +759,6 @@ batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
-bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 bebreloomr.com
@@ -765,7 +770,6 @@ bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
-bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
@@ -1007,6 +1011,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1047,6 +1052,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1289,6 +1295,7 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
+jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1355,7 +1362,6 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
-kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1432,7 +1438,6 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
-lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
@@ -1457,7 +1462,6 @@ mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1512,6 +1516,7 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
+nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1538,7 +1543,6 @@ numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
-nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
@@ -1657,6 +1661,7 @@ paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
+pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
@@ -1721,7 +1726,6 @@ profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1783,6 +1787,7 @@ quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
+qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -2120,6 +2125,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
