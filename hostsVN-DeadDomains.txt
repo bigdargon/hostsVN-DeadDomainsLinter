@@ -138,6 +138,7 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
+server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -191,7 +192,6 @@ uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -219,7 +219,6 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
-auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -280,6 +279,7 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 urlhausa.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -343,6 +343,7 @@ supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
+ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
@@ -376,7 +377,6 @@ u.agentanalytics.com
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -514,7 +514,6 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -596,23 +595,19 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
-ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
-ads.redlightcenter.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -746,6 +741,7 @@ baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
+baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
@@ -956,6 +952,7 @@ deliriamorula.shop
 deloton.com
 demo123.info
 demtaudeeg.com
+dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -978,6 +975,7 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1158,8 +1156,6 @@ grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
-grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1208,14 +1204,12 @@ heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
+heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
-hhuajhdidxut.com
 hikedwarfgipsy.com
-hilltopads.net
 hiqbejpsiyymatl.com
-hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1252,7 +1246,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1325,7 +1318,6 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
-js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
@@ -1459,7 +1451,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marasgumpus.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1642,7 +1633,6 @@ ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
-owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
@@ -1675,7 +1665,6 @@ pepepush.net
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
-pgpartner.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1885,7 +1874,6 @@ scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-scoota.co
 sdkfjxjertertry.com
 seaboblit.com
 secondquaver.com
@@ -1957,10 +1945,8 @@ ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
-static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
-sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1976,8 +1962,10 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
+surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
+svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2097,6 +2085,7 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
+vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2174,7 +2163,6 @@ wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
-wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
@@ -2291,7 +2279,6 @@ richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
 track.hydro.online
-track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
