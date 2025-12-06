@@ -97,7 +97,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -268,6 +267,7 @@ pgmcdn.com
 app2.inorbitad.com
 pclk.name
 cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -277,7 +277,6 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
@@ -317,7 +316,6 @@ delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -383,7 +381,6 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -418,6 +415,7 @@ media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 core.polyad.net
+cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
@@ -428,6 +426,7 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -529,6 +528,7 @@ tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
+0redird.com
 11ssq.com
 1frozenthrone1.com
 1slms.com
@@ -576,6 +576,7 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
+ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -989,6 +990,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1019,7 +1021,6 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
-eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -1158,7 +1159,6 @@ grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
-gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
@@ -1173,11 +1173,13 @@ gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
+gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
@@ -1343,10 +1345,12 @@ kempucmouftordo.com
 kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
+kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
+klsdee.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1357,6 +1361,7 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1376,6 +1381,7 @@ lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1395,7 +1401,6 @@ linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
-lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1510,9 +1515,13 @@ nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
+netcommunities.com
 netflame.cc
 news-central.org
 news-muheji.com
+newstarads.com
+nfucujozv.com
+nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1578,6 +1587,7 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
+ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
@@ -1756,6 +1766,7 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
+qp.ezfxpuo.cn
 qruqon.com
 qs251.com
 qtoeofqazggu.com
@@ -1819,10 +1830,7 @@ rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
-rndnoibattor.com
 rngpaluydont.com
-roashudiweeh.com
-robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1900,6 +1908,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
+smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -1979,6 +1988,7 @@ thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
+theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -2023,6 +2033,7 @@ tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
+typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
@@ -2232,6 +2243,7 @@ zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
+zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
