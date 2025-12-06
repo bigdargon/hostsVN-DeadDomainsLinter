@@ -386,10 +386,12 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
@@ -416,7 +418,6 @@ aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
-media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 core.polyad.net
@@ -478,6 +479,7 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
+platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -516,7 +518,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -594,7 +595,6 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.asiafriendfinder.com
@@ -624,11 +624,11 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -654,6 +654,7 @@ aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
+ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -662,7 +663,6 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
-ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
@@ -689,7 +689,6 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
-apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -737,7 +736,6 @@ axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
-aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -803,6 +801,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
 bonertraffic14.pro
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -847,7 +846,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -880,6 +878,7 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
+click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -901,7 +900,6 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -956,7 +954,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -1071,6 +1068,7 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
+febadu.com
 fedapush.net
 feedyourtralala.com
 feegritoapoo.com
@@ -1082,6 +1080,7 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+filasseseeder.com
 finahkcrevuv.com
 findcommerce.com
 fingahvf.top
@@ -1142,12 +1141,15 @@ gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
+glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
+goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -1255,7 +1257,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1266,7 +1267,6 @@ ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
-ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -1404,6 +1404,7 @@ leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligeia-gip.com
@@ -1618,7 +1619,6 @@ oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
-orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
@@ -1684,7 +1684,6 @@ phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
-phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
@@ -1749,7 +1748,6 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
-ptuzrywmega.com
 ptygunjk.com
 pub.trads.io
 publicunloadbags.com
@@ -1783,6 +1781,7 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
+qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -1832,6 +1831,7 @@ rev2pub.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+ricthaaz.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
@@ -1976,9 +1976,6 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
-surtaultathoado.com
-susifhfh2d8ldn09.com
-suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
@@ -2139,6 +2136,7 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -2171,6 +2169,7 @@ wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
+wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
@@ -2227,6 +2226,7 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
+ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -2267,7 +2267,6 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
-zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
