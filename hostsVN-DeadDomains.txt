@@ -88,6 +88,9 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -378,7 +381,6 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 r.grvmedia.com
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
@@ -425,9 +427,7 @@ ds.polyad.net
 dst.polyad.net
 dt.polyad.net
 go.polyad.net
-html.polyad.net
 img.polyad.net
-polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
@@ -446,13 +446,11 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
-adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -522,6 +520,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
@@ -618,11 +617,11 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -711,6 +710,7 @@ asqsphwgybanh.com
 ast2ya4ee8wtnax.com
 astivysauran.com
 ataccwpdiqqnfl.com
+aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -822,7 +822,6 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -923,7 +922,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
@@ -949,7 +947,6 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
-defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1031,14 +1028,11 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
-errantstetrole.com
-eryondistain.com
 escortlarbul.com
 euros4click.de
 ewpucbact.com
@@ -1257,7 +1251,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1586,6 +1579,7 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
@@ -1727,6 +1721,7 @@ powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
+pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
@@ -1773,6 +1768,7 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
+qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -2134,6 +2130,8 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
+vujdudspear.com
+vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
