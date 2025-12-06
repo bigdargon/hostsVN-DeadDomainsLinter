@@ -88,9 +88,6 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -354,6 +351,8 @@ px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
+click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -507,6 +506,7 @@ adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
+bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
@@ -623,11 +623,11 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -879,7 +879,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
-click.kmindex.ru
+cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -1057,6 +1057,7 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1162,6 +1163,7 @@ gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
+greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -1728,7 +1730,6 @@ powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
-pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
@@ -1775,7 +1776,6 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
-qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -1814,6 +1814,7 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
+readserver.net
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1835,7 +1836,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2137,8 +2137,6 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
-vujdudspear.com
-vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
