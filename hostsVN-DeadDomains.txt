@@ -1,4 +1,5 @@
 googleads-cn.com
+blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -73,7 +74,9 @@ yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
+torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -135,7 +138,6 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
-server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -267,6 +269,7 @@ app2.inorbitad.com
 pclk.name
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 bidadx.com
@@ -277,7 +280,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 urlhausa.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -341,7 +343,6 @@ supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
-ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
@@ -451,6 +452,7 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -490,6 +492,7 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -620,6 +623,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -656,7 +660,11 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
+ak.oneegrou.net
+ak.stikroltiltoowi.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -738,7 +746,6 @@ baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
-baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
@@ -949,7 +956,6 @@ deliriamorula.shop
 deloton.com
 demo123.info
 demtaudeeg.com
-dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -972,7 +978,6 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1187,6 +1192,7 @@ hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
+harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
@@ -1202,7 +1208,6 @@ heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
-heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
@@ -1329,6 +1334,7 @@ junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
+jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
@@ -1360,6 +1366,7 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
+kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1452,6 +1459,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marasgumpus.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1607,9 +1615,11 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
+orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
+orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1665,6 +1675,7 @@ pepepush.net
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
+pgpartner.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1777,6 +1788,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
@@ -1841,6 +1853,8 @@ rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rooptawu.net
+rosolicdalapon.com
+rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1962,10 +1976,8 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
-surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
-svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2085,7 +2097,6 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
