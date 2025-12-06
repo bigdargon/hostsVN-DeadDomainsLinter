@@ -152,12 +152,10 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -398,7 +396,6 @@ ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -418,6 +415,7 @@ aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
+media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 core.polyad.net
@@ -520,11 +518,9 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
@@ -595,6 +591,7 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
+adreclaim.com
 adrevolver.com
 ads-to.click
 ads.asiafriendfinder.com
@@ -624,7 +621,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -663,6 +659,7 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
@@ -689,6 +686,7 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
+apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -736,6 +734,7 @@ axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
+aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -816,7 +815,6 @@ broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -878,7 +876,6 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -900,6 +897,7 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
+conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -954,6 +952,7 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -1257,6 +1256,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1267,6 +1267,7 @@ ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
+ilbanner.com
 illegal-respond.pro
 imageshh.com
 imarketservices.com
@@ -1576,7 +1577,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1619,6 +1619,7 @@ oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
+orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
@@ -1682,8 +1683,8 @@ phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
-phloxsub73ulata.com
 phocmogo.com
+phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
@@ -1976,6 +1977,9 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
+surtaultathoado.com
+susifhfh2d8ldn09.com
+suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
@@ -2053,7 +2057,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
 ufiledsit.com
@@ -2158,7 +2161,6 @@ whoarguwaghu.net
 whoockeg.top
 whoonseepoutche.net
 whoostoo.net
-whowhipi.net
 whugesto.net
 whuwoawain.com
 wibtntmvox.com
@@ -2210,7 +2212,6 @@ xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
-xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
@@ -2267,6 +2268,7 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
