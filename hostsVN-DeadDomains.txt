@@ -88,7 +88,6 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
-ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
@@ -109,7 +108,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -295,7 +293,6 @@ widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
-www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -351,7 +348,6 @@ beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -591,8 +587,10 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
+adqkkoajnan.com
 adreclaim.com
 adrevolver.com
+ads-to.click
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -616,7 +614,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -744,7 +741,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -1009,8 +1005,8 @@ ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
+ekkrgsqygqp.com
 ekvalqwmly.com
-elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1155,6 +1151,7 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
+grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1192,6 +1189,7 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
+hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
@@ -1245,7 +1243,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1292,7 +1289,6 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
-jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1377,6 +1373,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1472,6 +1469,7 @@ mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
+midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1507,13 +1505,13 @@ myvisualiq.net
 naishoochoh.com
 namol.xyz
 nangalupeose.com
+nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
-nddjdbxwbpp.com
 neevouglu.com
 nefdcnmvbt.com
 nervoustolsel.com
@@ -1659,7 +1657,6 @@ paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
-pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
@@ -1786,7 +1783,6 @@ quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
-qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1962,6 +1958,7 @@ suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
+supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
@@ -2023,6 +2020,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
+traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2069,6 +2067,7 @@ upset-project.com
 upspinarakor.com
 uqkcroib.com
 urechar.com
+urigagxnji.com
 uruswan.com
 userreplay.net
 userresewn.com
@@ -2116,6 +2115,7 @@ vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
+vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
@@ -2244,6 +2244,7 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zeroredirect1.com
+zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
