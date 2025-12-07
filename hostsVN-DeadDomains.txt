@@ -66,7 +66,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -231,7 +230,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -504,6 +502,7 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
@@ -516,6 +515,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -555,7 +555,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
-3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
 4hfchest5kdnfnut.com
 4info.com
@@ -590,7 +589,6 @@ adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
-adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -747,7 +745,6 @@ baitpros.net
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -841,7 +838,6 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
-cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -1028,6 +1024,7 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
+enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
@@ -1084,7 +1081,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1101,7 +1097,6 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
-fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1140,6 +1135,7 @@ gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
+gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1154,7 +1150,6 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
-gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1291,6 +1286,7 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
+irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1529,6 +1525,7 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
+nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1565,6 +1562,7 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
 oackoubs.com
+oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 oas.roanoke.com
@@ -1784,7 +1782,6 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1964,6 +1961,7 @@ spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
+static-ads.akamaized.net
 static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
@@ -2122,7 +2120,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2151,7 +2148,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
-wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2187,7 +2183,6 @@ wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
-wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
