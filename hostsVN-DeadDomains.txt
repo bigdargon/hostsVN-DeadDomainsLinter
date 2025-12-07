@@ -327,7 +327,6 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
-hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
@@ -337,7 +336,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
-cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
@@ -435,7 +433,6 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -477,7 +474,6 @@ static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -517,6 +513,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -595,8 +592,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
-adqkkoajnan.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
@@ -821,6 +816,7 @@ budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -878,6 +874,7 @@ circularnothing.com
 civadsoo.net
 cjbmanagement.com
 clickadin.com
+clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1044,6 +1041,7 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
+expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -1090,7 +1088,6 @@ flagmantensity.com
 floitcarites.com
 foliumumu.com
 foogeetoary.net
-fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1223,6 +1220,7 @@ hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
+hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
@@ -1253,7 +1251,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1362,9 +1359,6 @@ kindly-face.pro
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
-klkchits.com
-klsdee.com
-klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -1442,13 +1436,13 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
-lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1507,7 +1501,6 @@ msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
-murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
@@ -1551,6 +1544,7 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
+nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
@@ -1724,7 +1718,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1836,7 +1829,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2123,7 +2115,6 @@ vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
-volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
@@ -2193,7 +2184,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2303,3 +2293,4 @@ umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
+zarget.com
