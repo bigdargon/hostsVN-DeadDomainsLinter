@@ -45,6 +45,7 @@ ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
+aw.advertica-cdn.com
 web.advertica-cdn.com
 api.parrable.com
 h.parrable.com
@@ -102,6 +103,7 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -461,6 +463,7 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -514,6 +517,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 tvc.biphim.club
@@ -835,6 +839,7 @@ calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1088,6 +1093,7 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+floitcarites.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1149,6 +1155,7 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
+gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1225,7 +1232,6 @@ hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
-hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -1253,7 +1259,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1658,6 +1663,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1831,7 +1837,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
-revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
@@ -1929,7 +1934,6 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2048,7 +2052,6 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
-trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2194,6 +2197,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
