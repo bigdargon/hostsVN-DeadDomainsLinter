@@ -66,6 +66,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -194,10 +195,6 @@ static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -230,6 +227,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -531,7 +529,6 @@ log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
-tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -555,6 +552,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
+3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
 4hfchest5kdnfnut.com
 4info.com
@@ -589,6 +587,7 @@ adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
+adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -619,11 +618,9 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
-adsmogo.org
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -745,6 +742,7 @@ baitpros.net
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -838,6 +836,7 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
+cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -1081,6 +1080,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1097,6 +1097,7 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1150,6 +1151,7 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
+gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1387,7 +1389,6 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
-lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1782,6 +1783,7 @@ qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1835,6 +1837,7 @@ retintsmillion.com
 rev2pub.com
 revmob.com
 revoketypes.com
+rhiowzaht.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
@@ -1889,7 +1892,6 @@ scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
-scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -2000,7 +2002,6 @@ tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
-tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2120,6 +2121,7 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2148,6 +2150,7 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2183,6 +2186,7 @@ wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
+wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
