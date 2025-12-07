@@ -85,6 +85,7 @@ imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
+origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
@@ -227,6 +228,7 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
+www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -354,6 +356,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -518,7 +521,6 @@ analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
-log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -741,7 +743,6 @@ banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
-banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 barnesandnoble.bfast.com
@@ -797,6 +798,7 @@ bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
+breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -922,6 +924,7 @@ d.appsdt.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -963,6 +966,7 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
+doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
@@ -1028,7 +1032,6 @@ escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
-exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1077,6 +1080,8 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
+foliumumu.com
+foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
@@ -1158,7 +1163,6 @@ grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
-gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1253,7 +1257,6 @@ iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
 ilbanner.com
-illegal-respond.pro
 imageshh.com
 imarketservices.com
 imfvggmqrltbp.com
@@ -1265,7 +1268,6 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
-interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
@@ -1457,7 +1459,6 @@ maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1725,6 +1726,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -2092,7 +2094,6 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
-venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
@@ -2221,6 +2222,7 @@ yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
 yieldads.com
+ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
@@ -2275,6 +2277,7 @@ play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
+showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
 track.hydro.online
