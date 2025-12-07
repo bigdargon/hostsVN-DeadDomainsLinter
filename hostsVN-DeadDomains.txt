@@ -3,6 +3,7 @@ blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -116,6 +117,7 @@ zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
+adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
@@ -502,7 +504,6 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
@@ -515,7 +516,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -591,7 +591,6 @@ adcloud.net
 adformdsp.net
 adk2.co
 adkchtmtns.com
-adlink.de
 adlite.net
 admedia.network
 adplus.co.id
@@ -724,7 +723,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avhkihpfabt.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -797,12 +795,13 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
-blast4traffic.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
+bn.bfast.com
 bohonef.com
 bonertraffic14.pro
+bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -843,10 +842,10 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
+capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -920,6 +919,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1028,7 +1028,6 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
-enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
@@ -1094,7 +1093,6 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 floitcarites.com
-fnbauniukvi.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1130,6 +1128,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1141,7 +1140,6 @@ gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
-gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1150,7 +1148,6 @@ gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
-go-rank.de
 go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1260,7 +1257,6 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
-hwpnocpctu.com
 hxpohplms.com
 hydraulzonure.com
 iadnet.com
@@ -1269,7 +1265,6 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-iconcardinal.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1296,7 +1291,6 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
-irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1485,7 +1479,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-megago.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1502,7 +1495,6 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkejunomqar.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
@@ -1537,7 +1529,6 @@ nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
-nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
@@ -1574,7 +1565,6 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 nzaza.com
 oackoubs.com
-oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
 oas.roanoke.com
@@ -1691,7 +1681,6 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
-perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1730,7 +1719,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-pokreess.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1749,7 +1737,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-pro-ads.club
 processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
@@ -1821,7 +1808,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1914,6 +1900,7 @@ secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
+seo4india.com
 septfd2em64eber.com
 serconmp.com
 servedbyopenx.com
@@ -1977,7 +1964,6 @@ spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
-static-ads.akamaized.net
 static.scptpx.com
 stats.x14.eu
 steinfqwe6782beck.com
@@ -2217,7 +2203,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
