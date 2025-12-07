@@ -14,7 +14,6 @@ v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
-client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -32,6 +31,7 @@ ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
+www.ligatus.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -100,7 +100,6 @@ y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
@@ -236,6 +235,7 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -613,7 +613,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -814,15 +813,13 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
-ca4psell23a4bur.com
-cacaobroach.com
 cafnqdsexgopiab.com
-caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -904,6 +901,7 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -996,7 +994,6 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
-efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1446,9 +1443,8 @@ madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 makemydownload.com
-makespram.com
-makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1666,6 +1662,7 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
+pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1915,6 +1912,7 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
