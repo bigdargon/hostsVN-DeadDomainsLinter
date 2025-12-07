@@ -192,7 +192,6 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
-uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -288,6 +287,7 @@ click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
+stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
@@ -492,7 +492,6 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -615,7 +614,6 @@ ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
-ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
@@ -677,7 +675,6 @@ amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
-an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
@@ -780,6 +777,7 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
+bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -872,6 +870,7 @@ chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
+cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
@@ -1255,6 +1254,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1307,6 +1307,7 @@ jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
+jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -1364,6 +1365,7 @@ kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klsdee.com
+klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
@@ -1411,6 +1413,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+links-ranking.de
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
@@ -1654,11 +1657,10 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
-ozmbzowg.com
-ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pagerank-server7.de
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1666,7 +1668,6 @@ pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
-pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
 paypopup.com
@@ -1837,6 +1838,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2111,6 +2113,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+view4cash.de
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2193,6 +2196,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
