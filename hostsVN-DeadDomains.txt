@@ -10,7 +10,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
-m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -93,7 +92,6 @@ cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
-tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
 adtrackers.net
@@ -455,6 +453,7 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
@@ -698,6 +697,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -752,7 +752,6 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -892,6 +891,7 @@ bricius-ing.com
 bridgetrack.com
 broadboundary.com
 brookgetupshorts.com
+bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -917,8 +917,6 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canoevaguely.com
-canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1058,6 +1056,7 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
+doateeseeja.com
 dollsdeclare.com
 domdex.com
 dorkingvoust.com
@@ -1071,6 +1070,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1128,7 +1128,6 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
-exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1162,6 +1161,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1205,6 +1205,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1262,6 +1263,7 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
@@ -1335,6 +1337,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1412,6 +1415,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1490,6 +1494,7 @@ ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
+linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
@@ -1682,7 +1687,6 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
-onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1848,7 +1852,6 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
-qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1916,7 +1919,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1985,6 +1987,7 @@ sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
+shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
@@ -2103,6 +2106,7 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
+tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2205,7 +2209,6 @@ voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
-vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2272,7 +2275,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
