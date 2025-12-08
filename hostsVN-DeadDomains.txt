@@ -220,7 +220,6 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
-eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -257,6 +256,7 @@ xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
+optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
@@ -323,7 +323,6 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -346,6 +345,7 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
+www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
@@ -373,6 +373,7 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
+stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -518,6 +519,7 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -702,6 +704,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -753,7 +756,6 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
-anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -931,7 +933,6 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
@@ -945,7 +946,6 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
-chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -995,6 +995,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1472,6 +1473,7 @@ lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
+lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1479,7 +1481,6 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
-lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1513,12 +1514,14 @@ lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
+lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1533,6 +1536,8 @@ madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 makemydownload.com
+makespram.com
+makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
@@ -1652,6 +1657,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1686,11 +1692,9 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
-optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
-oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
 orbsclawand.com
@@ -1831,7 +1835,6 @@ ptygunjk.com
 pub.trads.io
 publicunloadbags.com
 pukqysdsgt.com
-pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -1914,7 +1917,6 @@ rickerrotal.com
 ricthaaz.com
 rigelink.com
 ringedtusher.com
-riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1959,8 +1961,6 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
-scabbienne.com
-scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -1997,6 +1997,7 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
+sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
@@ -2055,7 +2056,6 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
-susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -2086,6 +2086,7 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
+theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -2108,6 +2109,7 @@ toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
+tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
 touphudipodou.net
@@ -2220,7 +2222,6 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
@@ -2266,7 +2267,6 @@ woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
-worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
