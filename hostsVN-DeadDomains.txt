@@ -135,6 +135,7 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
+hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
@@ -290,6 +291,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -500,6 +502,7 @@ cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
+dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
@@ -555,6 +558,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
+embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -583,9 +587,11 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -636,7 +642,9 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
+abcahpkkuba.com
 abkoxlikbzs.com
+abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
@@ -690,7 +698,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -826,6 +833,8 @@ bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
 barnesandnoble.bfast.com
+barscreative1.com
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -883,7 +892,6 @@ bricius-ing.com
 bridgetrack.com
 broadboundary.com
 brookgetupshorts.com
-bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -910,6 +918,7 @@ calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1049,7 +1058,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dollsdeclare.com
 domdex.com
 dorkingvoust.com
@@ -1063,7 +1071,6 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
-duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1080,6 +1087,7 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1237,6 +1245,7 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
+grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1253,7 +1262,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
@@ -1404,7 +1412,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1483,7 +1490,6 @@ ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
-linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
@@ -1649,6 +1655,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1718,6 +1725,7 @@ ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
+owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
@@ -1793,6 +1801,7 @@ poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
+pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
@@ -1976,7 +1985,6 @@ sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
-shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
@@ -2095,7 +2103,6 @@ thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
-tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
@@ -2145,6 +2152,7 @@ unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
+unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
@@ -2192,10 +2200,12 @@ visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
+voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
+vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2219,6 +2229,7 @@ warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
@@ -2261,6 +2272,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2300,6 +2312,7 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
+yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
