@@ -96,7 +96,6 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
-adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -161,12 +160,14 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
+ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -223,6 +224,7 @@ eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
+s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -255,7 +257,6 @@ xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
-optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
@@ -345,7 +346,6 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
@@ -373,7 +373,6 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
-stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -519,7 +518,6 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -795,6 +793,7 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
+avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -996,7 +995,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1061,6 +1059,7 @@ domdex.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
+dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
@@ -1340,6 +1339,7 @@ iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
+ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1472,7 +1472,6 @@ lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
-lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1514,14 +1513,12 @@ lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
-lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1536,8 +1533,6 @@ madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 makemydownload.com
-makespram.com
-makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
@@ -1657,7 +1652,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1692,6 +1686,7 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
+optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1806,6 +1801,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1984,6 +1980,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2000,7 +1997,6 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
-sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
@@ -2090,7 +2086,6 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
-theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
