@@ -74,7 +74,6 @@ api.parrable.com
 h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
@@ -156,7 +155,6 @@ aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
-aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
@@ -358,7 +356,6 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
-sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -402,14 +399,12 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
-ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -448,7 +443,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv681.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -562,6 +556,7 @@ ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
+ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -647,7 +642,6 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
-adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
@@ -671,8 +665,8 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
+adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -949,7 +943,6 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
-commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -1010,6 +1003,7 @@ deligrassdull.com
 deliriamorula.shop
 deloton.com
 demo123.info
+demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
@@ -1283,6 +1277,7 @@ hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
+hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
@@ -1308,6 +1303,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1649,6 +1645,7 @@ oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
+omlbaftroofj.com
 omzostzuswm.com
 oneandonlynetwork.com
 oneegrou.net
@@ -2120,6 +2117,7 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
+uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
