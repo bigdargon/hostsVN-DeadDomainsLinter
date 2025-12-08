@@ -254,7 +254,6 @@ go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
-publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -343,15 +342,13 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-cdnativepush.com
-static.cdnativepush.com
-www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -371,6 +368,7 @@ cdn.switchadhub.com
 delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
+switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -421,7 +419,6 @@ sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -436,9 +433,7 @@ t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -567,7 +562,6 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
-clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
@@ -632,7 +626,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczopdxfy.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -666,7 +659,6 @@ ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
-ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -676,7 +668,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -822,6 +813,7 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
+bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
@@ -938,7 +930,6 @@ civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
-clickxchange.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1031,7 +1022,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dist.belnk.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -1139,7 +1129,6 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
-fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -1282,6 +1271,7 @@ hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
+hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
@@ -1314,6 +1304,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1447,7 +1438,6 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
-lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
@@ -1478,7 +1468,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmajm.lbylqerzmzlzq.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1548,7 +1537,6 @@ mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
 missitzantiot.com
-mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
@@ -1607,6 +1595,7 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
+nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1628,6 +1617,7 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
+octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1687,7 +1677,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1788,7 +1777,6 @@ pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
-praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
@@ -1917,7 +1905,6 @@ romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
-rotabol.com
 rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
@@ -1982,6 +1969,7 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
+skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -2016,7 +2004,6 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
-starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 stats.x14.eu
@@ -2059,7 +2046,9 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
+tdpjzjpfuiis.com
 tearerernest.com
+techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
