@@ -53,6 +53,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -67,6 +68,7 @@ s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
+us.lkqd.net
 v.lkqd.net
 api.parrable.com
 h.parrable.com
@@ -296,7 +298,6 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -448,6 +449,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -465,7 +467,6 @@ track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -570,11 +571,12 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
+alexajstrack.com
+analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -682,7 +684,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adverdirect.com
-adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -727,7 +728,6 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
-amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
@@ -741,7 +741,6 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 aptojeepsoopool.com
-apusx.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -829,11 +828,13 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
+beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
+besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -853,7 +854,6 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-bookpostponemoreover.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -928,6 +928,7 @@ chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
+cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
@@ -1205,7 +1206,6 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
-gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1276,6 +1276,7 @@ hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
+hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
@@ -1309,7 +1310,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1935,7 +1935,6 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
-salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
@@ -2250,6 +2249,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2292,8 +2292,10 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
+yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
+ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
