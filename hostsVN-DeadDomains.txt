@@ -96,6 +96,7 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
+adtrackers.net
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
@@ -155,7 +156,6 @@ static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 apilw.epom.com
-cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -220,6 +220,7 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
+eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -323,6 +324,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -466,7 +468,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -595,7 +596,6 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -636,7 +636,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
-79xmz3lmss.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
@@ -692,10 +691,10 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -727,6 +726,7 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
+aistat.net
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -756,6 +756,7 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
+anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -933,6 +934,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
@@ -946,6 +948,7 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
+chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -1160,7 +1163,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1205,7 +1207,6 @@ gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galaxien.com
-galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1336,6 +1337,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1481,6 +1483,7 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
+lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1542,6 +1545,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mathcountryside.com
@@ -1632,6 +1636,7 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
+nuseek.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
@@ -1695,6 +1700,7 @@ optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
+oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
 orbsclawand.com
@@ -1835,6 +1841,7 @@ ptygunjk.com
 pub.trads.io
 publicunloadbags.com
 pukqysdsgt.com
+pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -1917,6 +1924,7 @@ rickerrotal.com
 ricthaaz.com
 rigelink.com
 ringedtusher.com
+riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -1961,6 +1969,8 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
+scabbienne.com
+scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -2008,6 +2018,11 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
+smptdrf.link
+smptrffc.click
+smptrffc.fyi
+smptrffc.xyz
+smptrfvk.link
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2049,13 +2064,13 @@ stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
-subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
+susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -2222,6 +2237,7 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
+wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
@@ -2267,6 +2283,7 @@ woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
+worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
