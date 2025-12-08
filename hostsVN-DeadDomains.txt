@@ -33,6 +33,7 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+js.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -78,7 +79,6 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
@@ -138,10 +138,10 @@ aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
+lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
@@ -152,6 +152,11 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+bbcdn-static-adserver.ibillboard.com
+bbcdn-tag.ibillboard.com
+bbnautid2.ibillboard.com
+clientui-adserver.ibillboard.com
+static-mbrdsp.ibillboard.com
 invitemedia.com
 www.invitemedia.com
 pmddby.com
@@ -164,6 +169,7 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
+analytics.proper.io
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -281,7 +287,6 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
@@ -382,6 +387,7 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -461,7 +467,6 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -509,10 +514,10 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
+vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -577,7 +582,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
-adaction.de
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -585,7 +589,6 @@ adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -613,6 +616,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -658,6 +662,7 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
+allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
@@ -781,8 +786,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
-blacurlik.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -865,7 +868,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
-civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
@@ -996,7 +998,6 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
-efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1011,6 +1012,7 @@ emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
+encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
@@ -1218,7 +1220,6 @@ hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
-hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
@@ -1383,7 +1384,6 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1623,6 +1623,7 @@ otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
+outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
@@ -1652,7 +1653,6 @@ pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
-particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
@@ -1781,6 +1781,7 @@ quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
+questaffiliates.net
 qujzruvf.com
 qumagee.com
 quzodcttub.com
@@ -1789,6 +1790,7 @@ qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
+qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -2063,6 +2065,8 @@ unstoutgolfs.com
 unthem.com
 untrendenam.com
 unylgxxmrsbb.com
+upcomingmonkeydolphin.com
+updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
@@ -2194,6 +2198,7 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
