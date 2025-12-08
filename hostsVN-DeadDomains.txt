@@ -53,7 +53,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -68,7 +67,6 @@ s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
-us.lkqd.net
 v.lkqd.net
 api.parrable.com
 h.parrable.com
@@ -114,6 +112,7 @@ www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
+clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
@@ -135,6 +134,7 @@ static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
+beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -217,6 +217,7 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 eu.xmlppcbuzz.com
+api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
@@ -574,8 +575,6 @@ motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -682,7 +681,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -743,6 +741,7 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 aptojeepsoopool.com
+apusx.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -800,6 +799,7 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
+banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -829,7 +829,6 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
-beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -854,6 +853,7 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+bookpostponemoreover.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -928,7 +928,6 @@ chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
-cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
@@ -974,7 +973,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1139,7 +1137,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1182,7 +1179,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1523,7 +1519,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1930,6 +1925,7 @@ rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
+rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -2028,6 +2024,7 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
+stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2067,6 +2064,7 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
+thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -2293,14 +2291,15 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
+yfetyg.com
 yieldads.com
 ykqcsawnlnvsgo.com
-ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
+yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
