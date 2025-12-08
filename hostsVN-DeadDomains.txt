@@ -17,7 +17,6 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
-a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -49,7 +48,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -138,7 +136,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
@@ -149,9 +146,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-metrics.linkshare.com
-reporting.linkshare.com
-smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -161,6 +155,7 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -201,8 +196,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-invitemedia.com
-www.invitemedia.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -230,6 +223,7 @@ landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
+eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -331,7 +325,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
@@ -404,11 +397,6 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
-analytics.logsss.com
-logsss.com
-perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -469,9 +457,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv691.me
 ads.livetv697.me
-ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -491,7 +477,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -666,13 +651,13 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admarket.network
 admedia.network
 adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.amigos.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -682,7 +667,6 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.friendfinder.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -705,7 +689,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -728,6 +711,7 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
+aistat.net
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -767,6 +751,7 @@ aphycolourses.info
 api.ampiri.com
 aptojeepsoopool.com
 apxszeaj.com
+apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
@@ -887,7 +872,6 @@ breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-bridgetrack.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -998,7 +982,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1064,6 +1047,7 @@ dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
+drubbersestia.com
 drydrum.com
 dsp.io
 ductathing.com
@@ -1121,7 +1105,6 @@ escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
-exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1162,7 +1145,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1182,8 +1164,9 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
-frenchequal.pro
 frllfmjaku.com
+fryawlauk.com
+fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1215,9 +1198,6 @@ gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
-gk79a2oup.com
-gkbhrj49a.com
-gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -1271,7 +1251,6 @@ h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
-handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
@@ -1281,7 +1260,6 @@ hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1335,10 +1313,10 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
-ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
@@ -1542,7 +1520,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
@@ -1632,6 +1609,7 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
+nuseek.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
@@ -1720,6 +1698,7 @@ outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
+oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
@@ -1769,7 +1748,9 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
+phyfzaothmfy.com
 pieceredirect.com
+pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
@@ -1963,6 +1944,7 @@ salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
+scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
@@ -2009,6 +1991,10 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
+smptdrf.link
+smptrffc.click
+smptrffc.xyz
+smptrfvk.link
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2016,7 +2002,6 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
-softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2099,6 +2084,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2276,6 +2262,7 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
+www.admarket.network
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
@@ -2354,6 +2341,7 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
+analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
 cankaowang.com
@@ -2371,7 +2359,6 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 showbiz.owndata.network
-snnd.co
 tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
