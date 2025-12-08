@@ -254,6 +254,7 @@ go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
+publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -419,6 +420,7 @@ sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
+pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -433,6 +435,7 @@ t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
+pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -445,6 +448,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv681.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -558,10 +562,10 @@ ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
-ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
@@ -659,6 +663,7 @@ ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
+ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -666,8 +671,8 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1005,7 +1010,6 @@ deligrassdull.com
 deliriamorula.shop
 deloton.com
 demo123.info
-demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
@@ -1129,6 +1133,7 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
+fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
@@ -1278,7 +1283,6 @@ hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
-hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
@@ -1304,7 +1308,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1438,6 +1441,7 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
+lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
@@ -1537,6 +1541,7 @@ mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
 missitzantiot.com
+mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
@@ -1644,7 +1649,6 @@ oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
-omlbaftroofj.com
 omzostzuswm.com
 oneandonlynetwork.com
 oneegrou.net
@@ -1777,6 +1781,7 @@ pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
+praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
@@ -2004,6 +2009,7 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
+starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 stats.x14.eu
@@ -2114,7 +2120,6 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
-uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
