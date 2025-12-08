@@ -10,6 +10,7 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
+m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -92,6 +93,7 @@ cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
+tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
 adtrackers.net
@@ -159,14 +161,12 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
-aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
-ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -223,7 +223,6 @@ eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
-s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -697,7 +696,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -706,7 +704,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -752,6 +749,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
+amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -797,7 +795,6 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
-avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -917,6 +914,8 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
+canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1062,7 +1061,6 @@ domdex.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
-dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
@@ -1128,6 +1126,7 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1337,12 +1336,10 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
-ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1687,6 +1684,7 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
+onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1808,7 +1806,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1852,6 +1849,7 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
+qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1986,7 +1984,6 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2209,6 +2206,7 @@ voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
+vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
