@@ -17,6 +17,7 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
+a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -48,6 +49,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -94,14 +96,6 @@ sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 hb.adomik.com
-adtrackers.net
-crunchyroll.adtrackers.net
-ox-d.adtrackers.net
-serve.adtrackers.net
-torrentz.adtrackers.net
-yahoo.adtrackers.net
-yasni.adtrackers.net
-zoover.adtrackers.net
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -120,7 +114,6 @@ www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
-clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
@@ -136,12 +129,12 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
+panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
-beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -224,7 +217,6 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 eu.xmlppcbuzz.com
-api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
@@ -577,6 +569,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -651,7 +644,6 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
-admarket.network
 admedia.network
 adplus.co.id
 adqkkoajnan.com
@@ -681,6 +673,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -689,6 +682,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -711,7 +705,6 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
-aistat.net
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
@@ -807,7 +800,6 @@ baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
-banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -982,6 +974,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1105,6 +1098,7 @@ escortlarbul.com
 euros4click.de
 ewpucbact.com
 exclusivebrass.com
+exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1145,6 +1139,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1164,6 +1159,7 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -1198,6 +1194,9 @@ gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
+gk79a2oup.com
+gkbhrj49a.com
+gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
@@ -1251,6 +1250,7 @@ h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
+handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
@@ -1260,6 +1260,7 @@ hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1279,7 +1280,6 @@ hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
-hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
@@ -1317,6 +1317,7 @@ iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
+ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
@@ -1520,6 +1521,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
@@ -1609,7 +1611,6 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
-nuseek.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
@@ -1929,7 +1930,6 @@ rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
-rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -1991,10 +1991,6 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
-smptdrf.link
-smptrffc.click
-smptrffc.xyz
-smptrfvk.link
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -2002,6 +1998,7 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
+softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2031,7 +2028,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
-stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2071,7 +2067,6 @@ tetrylscullion.com
 thads.cc
 that-muscle.com
 thebrighttag.com
-thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -2262,7 +2257,6 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
-www.admarket.network
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
@@ -2299,8 +2293,6 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
-yfetyg.com
-yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
@@ -2309,7 +2301,6 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
-yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
