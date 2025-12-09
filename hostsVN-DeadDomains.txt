@@ -133,6 +133,7 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -371,7 +372,6 @@ www.b91vip.com
 cdn.switchadhub.com
 delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
-delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
@@ -452,7 +452,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -531,7 +530,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
-beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
@@ -637,13 +635,14 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
+ad-spb.ru
+ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
-adbrn.com
 adcloud.net
 adk2.co
 adkchtmtns.com
@@ -694,7 +693,6 @@ adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
 affiliates.devilfishpartners.com
-afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
@@ -747,6 +745,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -977,6 +976,7 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
+croniesobli.com
 crowdgravity.com
 crumbrationally.com
 crumplylenient.com
@@ -1007,6 +1007,8 @@ decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
+defensive-bad.com
+defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1140,6 +1142,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1292,7 +1295,6 @@ hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
-hookawep.net
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
@@ -1342,7 +1344,6 @@ instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -1426,6 +1427,7 @@ kkoobzmirh.com
 klkchits.com
 klsdee.com
 klumn.com
+knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -1549,6 +1551,7 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
+mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1592,6 +1595,7 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 news-central.org
+news-muheji.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1651,6 +1655,7 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
+oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
@@ -1681,7 +1686,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
-orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1701,7 +1705,6 @@ outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
-ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -1729,7 +1732,6 @@ pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
 paypopup.com
-pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
@@ -1959,7 +1961,6 @@ septfd2em64eber.com
 serconmp.com
 servedbyopenx.com
 setypckq.com
-sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
@@ -1989,7 +1990,6 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
-smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -2129,7 +2129,6 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
-uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
@@ -2325,6 +2324,7 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zeroredirect1.com
+zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2341,7 +2341,6 @@ analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
