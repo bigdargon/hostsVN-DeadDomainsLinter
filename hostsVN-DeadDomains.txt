@@ -177,6 +177,7 @@ bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
+bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
@@ -272,6 +273,7 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
+www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -433,7 +435,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
@@ -444,6 +445,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -456,7 +458,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -521,7 +522,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -558,7 +558,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -826,8 +825,6 @@ beshucklean.com
 bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
-bestzba.com
-betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
@@ -940,11 +937,11 @@ coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 communicatequietboost.com
+compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
-connect.scroll.com
 connexity.net
 consciouschairs.com
 constintptr.com
@@ -958,7 +955,6 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
-creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -1014,7 +1010,6 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
-digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
@@ -1127,6 +1122,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1156,6 +1152,7 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
+fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1318,7 +1315,6 @@ imarketservices.com
 imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
-impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
@@ -1418,6 +1414,7 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1477,6 +1474,7 @@ louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
+lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
@@ -1653,7 +1651,6 @@ ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1668,7 +1665,6 @@ orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
-orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
