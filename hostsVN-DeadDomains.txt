@@ -33,7 +33,6 @@ www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
-certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -57,6 +56,7 @@ creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
+rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
@@ -390,7 +390,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -447,6 +446,7 @@ ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
+ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
@@ -552,7 +552,6 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -665,6 +664,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -714,7 +714,6 @@ allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
-alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -771,7 +770,10 @@ awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
+axiabanners.exodus.gr
+axiomaticalley.com
 axkwmsivme.com
+axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
@@ -905,7 +907,6 @@ chelonebarpost.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
-chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
@@ -1149,6 +1150,7 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
+fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
@@ -1156,6 +1158,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -1186,6 +1189,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
+go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1240,6 +1244,7 @@ hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
+hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
@@ -1296,7 +1301,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1528,6 +1532,7 @@ mhavfytafo.com
 mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
+mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -2049,6 +2054,7 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
+techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
@@ -2166,7 +2172,6 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
-vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2279,7 +2284,6 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
-yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
