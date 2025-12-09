@@ -214,7 +214,6 @@ bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
-monitoring.proper.io
 s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
@@ -263,6 +262,8 @@ faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -392,7 +393,6 @@ matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
-lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
@@ -427,7 +427,6 @@ delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -448,6 +447,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -572,6 +572,7 @@ crocopop.com
 iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
+motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -629,6 +630,7 @@ abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
+acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -677,6 +679,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -685,6 +688,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -801,7 +805,6 @@ baitpros.net
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
-banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -809,7 +812,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -1442,7 +1444,6 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1534,7 +1535,6 @@ marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
-mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
@@ -1683,8 +1683,6 @@ opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
-oqdavkguftan.com
-oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
@@ -1875,7 +1873,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-rankchamp.de
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -2121,10 +2118,10 @@ traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
-troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
+tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -2165,7 +2162,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-userreplay.net
+uselnk.com
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2306,6 +2303,7 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
+ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
