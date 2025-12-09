@@ -445,7 +445,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -522,6 +521,8 @@ mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -559,7 +560,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -674,7 +674,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -880,6 +879,7 @@ ca4psell23a4bur.com
 cacaobroach.com
 cads.scalemonk.com
 cafnqdsexgopiab.com
+caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -964,7 +964,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1130,14 +1129,11 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
-fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
-flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1189,7 +1185,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1307,7 +1302,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1518,7 +1512,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1622,7 +1615,6 @@ oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1636,7 +1628,6 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
-ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1660,6 +1651,7 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
+onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1745,7 +1737,6 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
-phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
@@ -1915,6 +1906,7 @@ romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
+rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -2255,7 +2247,6 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
-wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
@@ -2277,7 +2268,6 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
