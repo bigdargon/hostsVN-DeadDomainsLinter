@@ -197,6 +197,8 @@ brand.ad
 a.brand.ad
 www.brand.ad
 ads.152media.com
+mob.152media.com
+player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -212,7 +214,6 @@ bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
-monitoring.proper.io
 s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
@@ -273,6 +274,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -442,6 +444,9 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
+track.analytics-data.io
+ads.livetv623.me
+ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -452,6 +457,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -569,6 +575,7 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -581,7 +588,6 @@ log.baobackan.com.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -614,6 +620,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
+62ad.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
@@ -654,10 +661,12 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
+ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
+ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
@@ -762,7 +771,6 @@ atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
-aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -905,7 +913,6 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
-celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -929,7 +936,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
-civadsoo.net
 cjbmanagement.com
 clickadin.com
 clicktracks.com
@@ -1198,6 +1204,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 gmobhnktqiur.com
 go.mobisla.com
+go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
@@ -1220,7 +1227,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1253,6 +1259,7 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
+hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
@@ -1296,6 +1303,8 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
+hubarejnbsobic.com
+hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1528,6 +1537,7 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
+mfajfikmyqan.com
 mg2connext.com
 mgbid.net
 mgepuynxttyi.com
@@ -1607,6 +1617,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1648,6 +1659,7 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1800,7 +1812,6 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
-ptuxapow.com
 ptygunjk.com
 pub.trads.io
 publicunloadbags.com
@@ -1866,7 +1877,6 @@ rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
-receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
@@ -1941,6 +1951,7 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
+secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -2009,6 +2020,7 @@ ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
+static.scroll.com
 stats.x14.eu
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -2038,7 +2050,6 @@ swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
-szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -2140,6 +2151,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
+uselnk.com
 userreplay.net
 userresewn.com
 ushoofop.com
@@ -2215,7 +2227,6 @@ whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
-whugesto.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
@@ -2313,6 +2324,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2332,6 +2344,7 @@ c2i-cdn.startappnetwork.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
+e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
@@ -2350,6 +2363,7 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
+vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
