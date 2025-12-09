@@ -153,7 +153,6 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -228,6 +227,7 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
+tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -440,6 +440,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -689,6 +690,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -769,6 +771,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
@@ -814,7 +817,6 @@ bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
 barnesandnoble.bfast.com
-barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -865,6 +867,7 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
+breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -1038,6 +1041,7 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dolatiaschan.com
 dollsdeclare.com
 domdex.com
 dorkingvoust.com
@@ -1170,6 +1174,8 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futsonseeke.net
+futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
@@ -1204,6 +1210,7 @@ glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
+glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
@@ -1314,6 +1321,7 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
@@ -1394,6 +1402,7 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1420,6 +1429,7 @@ kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1454,6 +1464,7 @@ lapnicjaqxu.com
 lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1524,6 +1535,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1532,7 +1544,6 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
-mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1710,7 +1721,7 @@ owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
-oxwlhazto.com
+oxthrilled.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1779,9 +1790,14 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
+poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
+pouhoshootake.net
+powershatchet.com
+pphtrwrnsuyl.com
+pq8ithtdw.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1800,7 +1816,6 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
-psootchu.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1852,7 +1867,6 @@ quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
-qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1908,7 +1922,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1966,6 +1979,7 @@ shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
+shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
@@ -2018,6 +2032,7 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
+stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2052,7 +2067,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
-tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
@@ -2149,6 +2163,7 @@ urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2174,7 +2189,6 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
