@@ -101,7 +101,6 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
-yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
@@ -267,7 +266,6 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -341,6 +339,7 @@ stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
+images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -364,6 +363,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -488,6 +488,7 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
+st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -857,7 +858,6 @@ blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
-bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -940,7 +940,6 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
-clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1044,7 +1043,6 @@ domdex.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
-dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
@@ -1055,11 +1053,11 @@ dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
+dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
-ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
@@ -1197,7 +1195,6 @@ gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
-gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1369,7 +1366,6 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
-jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -1439,7 +1435,6 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1452,6 +1447,7 @@ kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
+lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
@@ -1676,6 +1672,7 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
+opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1746,7 +1743,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
-phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1756,7 +1752,6 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
-pieceredirect.com
 pienbitore.com
 piet2eix3l.com
 pignuwoa.com
@@ -2046,7 +2041,6 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
-surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -2054,6 +2048,7 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
+synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
@@ -2132,6 +2127,7 @@ udinugoo.com
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2260,6 +2256,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
