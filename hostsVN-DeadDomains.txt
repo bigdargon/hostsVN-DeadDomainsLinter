@@ -1,5 +1,4 @@
 googleads-cn.com
-cdn.oem.inmobi.net
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -9,9 +8,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-addthisedge.com
-m.addthisedge.com
-v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -196,9 +192,6 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-ads.152media.com
-mob.152media.com
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -214,6 +207,7 @@ bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
+monitoring.proper.io
 s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
@@ -325,7 +319,6 @@ ytvpaid.winadx.com
 pgmcdn.com
 pclk.name
 maxymiser.net
-service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -393,6 +386,7 @@ matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
+lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
@@ -427,6 +421,7 @@ delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -486,8 +481,6 @@ dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
-polyad.net
-st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -519,7 +512,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -528,10 +520,6 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -555,11 +543,9 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
-ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
-ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
@@ -656,7 +642,6 @@ adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
-ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -664,8 +649,6 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
@@ -770,7 +753,6 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
-audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -805,6 +787,7 @@ baitpros.net
 baivideewou.com
 bajavdafwafp.com
 bande2az.com
+banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -1029,7 +1012,6 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1039,7 +1021,6 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
-dolatiaschan.com
 dollsdeclare.com
 domdex.com
 dorkingvoust.com
@@ -1134,7 +1115,6 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1285,7 +1265,6 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1323,7 +1302,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1444,6 +1422,7 @@ kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
+kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
@@ -1535,6 +1514,7 @@ marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
+mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
@@ -1683,6 +1663,8 @@ opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
+oqdavkguftan.com
+oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
@@ -1752,7 +1734,6 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
-phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -2032,7 +2013,6 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
-stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2118,6 +2098,7 @@ traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
+troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
@@ -2365,7 +2346,6 @@ moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
-richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
 track.hydro.online
@@ -2373,7 +2353,6 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
-vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
