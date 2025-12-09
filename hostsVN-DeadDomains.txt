@@ -319,6 +319,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 pclk.name
 maxymiser.net
+service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -444,6 +445,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -481,6 +483,8 @@ dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
+polyad.net
+st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -518,8 +522,6 @@ mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -642,6 +644,7 @@ adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
+ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -877,7 +880,6 @@ ca4psell23a4bur.com
 cacaobroach.com
 cads.scalemonk.com
 cafnqdsexgopiab.com
-caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -993,6 +995,7 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
+defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -1012,6 +1015,7 @@ dgqlwqedzowhqb.com
 dhuimjkivb.com
 diazoestmark.guru
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1115,6 +1119,7 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1302,6 +1307,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1654,7 +1660,6 @@ oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
-onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1734,6 +1739,7 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
+phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1909,7 +1915,6 @@ romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
-rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -1949,6 +1954,7 @@ sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
+sermonoccupied.com
 servedbyopenx.com
 setypckq.com
 sf960.com
@@ -2346,6 +2352,7 @@ moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
+richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
 track.hydro.online
