@@ -26,13 +26,13 @@ directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
-reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -390,6 +390,7 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -552,6 +553,7 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
+banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -664,7 +666,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -714,6 +715,7 @@ allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
+alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
@@ -769,7 +771,6 @@ avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
-awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
@@ -795,7 +796,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -907,6 +907,7 @@ chelonebarpost.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
+chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
@@ -1301,6 +1302,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1669,7 +1671,6 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1817,7 +1818,6 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
-pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1834,7 +1834,6 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
-qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -2074,7 +2073,6 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2172,6 +2170,7 @@ viliaff.com
 vipicmou.net
 virleth.com
 visualrevenue.com
+vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2284,6 +2283,7 @@ yawnspuker.com
 yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
+yealnk.com
 yeljusxttq.com
 yfetyg.com
 yhmfmugyq.com
