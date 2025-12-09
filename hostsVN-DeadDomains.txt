@@ -177,7 +177,6 @@ bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
-bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
@@ -273,7 +272,6 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -446,7 +444,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -525,6 +522,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
+jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -560,6 +558,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -941,7 +940,6 @@ coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 communicatequietboost.com
-compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
@@ -1131,9 +1129,11 @@ filasseseeder.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
+fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
+flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1156,7 +1156,6 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
-fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1169,7 +1168,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1185,6 +1183,7 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1419,7 +1418,6 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
-kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1479,7 +1477,6 @@ louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
-lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
@@ -1615,6 +1612,7 @@ oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
+obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1628,6 +1626,7 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
+ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1737,6 +1736,7 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
+phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
@@ -2247,6 +2247,7 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
+wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
@@ -2268,6 +2269,7 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
