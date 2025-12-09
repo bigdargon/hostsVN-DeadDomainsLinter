@@ -153,6 +153,7 @@ aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -262,8 +263,6 @@ faktornet.faktor.io
 geo.choice.faktor.io
 intranet.faktor.io
 logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -440,7 +439,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -450,7 +448,6 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -575,7 +572,6 @@ crocopop.com
 iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
-motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -633,7 +629,6 @@ abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
-acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -690,7 +685,6 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -815,8 +809,10 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.babylon-x.com
 banners.clubseventeen.com
 barnesandnoble.bfast.com
+barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
@@ -1325,6 +1321,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1544,6 +1541,7 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1722,6 +1720,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxthrilled.com
+oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1797,7 +1796,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pq8ithtdw.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1816,6 +1814,8 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
+psootchu.net
+ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1867,6 +1867,7 @@ quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qujzruvf.com
+qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1874,6 +1875,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+rankchamp.de
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1922,6 +1924,7 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -2067,6 +2070,7 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
+tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
@@ -2121,7 +2125,6 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
-tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -2162,7 +2165,6 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-uselnk.com
 userreplay.net
 userresewn.com
 ushoofop.com
@@ -2189,6 +2191,7 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2303,7 +2306,6 @@ yatkaddvhk.com
 yawnspuker.com
 yb26b.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
