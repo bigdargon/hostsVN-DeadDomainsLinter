@@ -74,6 +74,7 @@ api.parrable.com
 h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
@@ -155,6 +156,7 @@ aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
+aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
@@ -194,6 +196,7 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -356,6 +359,7 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
+sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -399,12 +403,14 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
+ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -436,9 +442,6 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
-track.analytics-data.io
-ads.livetv623.me
-ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -642,6 +645,7 @@ adlite.net
 admedia.network
 adplus.co.id
 adqkkoajnan.com
+adreclaim.com
 adrevolver.com
 ads-to.click
 ads.aspalliance.com
@@ -949,6 +953,7 @@ compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
+connect.scroll.com
 connexity.net
 consciouschairs.com
 constintptr.com
@@ -1291,8 +1296,6 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
-hubarejnbsobic.com
-hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1303,7 +1306,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1526,7 +1528,6 @@ meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
-mfajfikmyqan.com
 mg2connext.com
 mgbid.net
 mgepuynxttyi.com
@@ -1940,7 +1941,6 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -2313,7 +2313,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
