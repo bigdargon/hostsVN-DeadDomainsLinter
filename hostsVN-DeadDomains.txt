@@ -41,6 +41,7 @@ certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
+pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -255,6 +256,7 @@ mobytrks.com
 go.mobytrks.com
 adrevenueindex.optad360.com
 api.optad360.com
+apipublisher.optad360.com
 publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -266,7 +268,6 @@ mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
-srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
@@ -445,7 +446,6 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
-ads.livetv626.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -650,7 +650,6 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
-admedia.network
 adplus.co.id
 adqkkoajnan.com
 adreclaim.com
@@ -689,6 +688,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -853,7 +853,6 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
-blacurlik.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -1016,12 +1015,15 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
+dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1039,7 +1041,6 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1113,6 +1114,7 @@ eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
+faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
@@ -1184,6 +1186,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1352,7 +1355,6 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
-itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1463,7 +1465,6 @@ lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
-leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1506,9 +1507,6 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
-lutoorgourgi.com
-luzongixoo.net
-lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -1801,7 +1799,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1923,6 +1920,7 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
+rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -1978,6 +1976,7 @@ shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
+shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -2022,6 +2021,8 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
+starkuno.com
+static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
@@ -2044,6 +2045,7 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
+susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -2073,8 +2075,11 @@ thads.cc
 that-muscle.com
 thebrighttag.com
 thedevband.com
+theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
+thiem-csl.com
+thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
@@ -2130,6 +2135,7 @@ uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
+ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
@@ -2214,6 +2220,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
@@ -2283,6 +2290,7 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
+xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
