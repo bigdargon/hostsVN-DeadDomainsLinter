@@ -133,7 +133,6 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
-tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -214,6 +213,7 @@ bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
+monitoring.proper.io
 s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
@@ -588,6 +588,7 @@ log.baobackan.com.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
@@ -636,8 +637,6 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
-ad-spb.ru
-ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
@@ -676,6 +675,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -747,7 +747,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
@@ -771,6 +770,7 @@ atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
+aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -913,6 +913,7 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
+celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -976,7 +977,7 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1006,8 +1007,6 @@ decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
-defensive-bad.com
-defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1183,6 +1182,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1227,6 +1227,7 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
+grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1425,7 +1426,6 @@ kkoobzmirh.com
 klkchits.com
 klsdee.com
 klumn.com
-knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -1549,7 +1549,6 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1593,7 +1592,6 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 news-central.org
-news-muheji.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1653,7 +1651,6 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
-oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
@@ -1812,6 +1809,7 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
+ptuxapow.com
 ptygunjk.com
 pub.trads.io
 publicunloadbags.com
@@ -1877,6 +1875,7 @@ rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
+receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
@@ -2050,6 +2049,7 @@ swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
+szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -2325,7 +2325,6 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zeroredirect1.com
-zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
