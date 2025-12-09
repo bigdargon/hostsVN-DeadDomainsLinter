@@ -268,6 +268,7 @@ mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
+srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
@@ -340,7 +341,6 @@ stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -364,7 +364,6 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -489,7 +488,6 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
-st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -650,6 +648,7 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admedia.network
 adplus.co.id
 adqkkoajnan.com
 adreclaim.com
@@ -853,6 +852,7 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
+blacurlik.com
 blearspellaea.shop
 blueswordksh.com
 bmaahwahpofp.com
@@ -1041,6 +1041,7 @@ doaglunoupa.net
 doateeseeja.com
 dollsdeclare.com
 domdex.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1054,7 +1055,6 @@ dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
-dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -1143,7 +1143,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1453,7 +1452,6 @@ kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
-lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
@@ -1465,6 +1463,7 @@ lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
+leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1507,6 +1506,9 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
+lutoorgourgi.com
+luzongixoo.net
+lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -1674,7 +1676,6 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
-opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1799,6 +1800,7 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
+profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -2052,7 +2054,6 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
-synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
@@ -2131,7 +2132,6 @@ udinugoo.com
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
