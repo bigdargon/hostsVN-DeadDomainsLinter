@@ -259,7 +259,6 @@ lalaping.com
 static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -333,7 +332,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -406,7 +404,6 @@ www.adclerks.com
 api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
-users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
 delivery.taroads.com
@@ -443,7 +440,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
@@ -655,7 +651,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -665,7 +660,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -1042,7 +1036,6 @@ ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
-eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1167,7 +1160,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1309,6 +1301,7 @@ ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
+ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
@@ -1928,6 +1921,7 @@ salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
+scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -2055,6 +2049,7 @@ terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
+thedevband.com
 theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
@@ -2111,6 +2106,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2150,6 +2146,7 @@ vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
+vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
@@ -2216,6 +2213,7 @@ wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
+windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
@@ -2227,6 +2225,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2321,6 +2320,7 @@ burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
+e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
