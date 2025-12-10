@@ -137,6 +137,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+services.scanscout.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -192,6 +193,13 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+cm.send.microadinc.com
+dsp.send.microadinc.com
+d-track.send.microadinc.com
+microadinc.com
+prcache.microadinc.com
+s-rtb.send.microadinc.com
+ssp.send.microadinc.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -199,6 +207,11 @@ ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 admarvel.com
+automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
+map.admarvel.com
+omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -224,6 +237,7 @@ prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
+advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -273,6 +287,7 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
+www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -315,6 +330,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+api.traq.li
 pgmcdn.com
 pclk.name
 maxymiser.net
@@ -339,6 +355,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+eu.adpicmedia.net
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
@@ -572,6 +589,7 @@ analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
+log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -634,6 +652,7 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -674,6 +693,7 @@ adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -687,6 +707,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -699,6 +720,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
@@ -715,7 +737,6 @@ altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -777,7 +798,6 @@ axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
-azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -797,6 +817,7 @@ banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
+banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -955,7 +976,6 @@ convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
-cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
@@ -975,6 +995,7 @@ cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 d.appsdt.com
+da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -1159,6 +1180,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
+fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1192,7 +1214,6 @@ glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
@@ -1325,6 +1346,7 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
+internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1591,8 +1613,6 @@ nmakilpumvt.com
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
-nowheresank.com
-npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
@@ -1700,7 +1720,6 @@ ox4h1dk85.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1825,6 +1844,7 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
+qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
@@ -1995,6 +2015,7 @@ solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
+spacash.com
 spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
@@ -2019,7 +2040,9 @@ stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
+stoopfalse.com
 stoorgel.com
+stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
@@ -2160,6 +2183,7 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
+venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
@@ -2202,7 +2226,6 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
-wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
@@ -2243,6 +2266,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2319,6 +2343,7 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
+zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
@@ -2333,6 +2358,7 @@ comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
+gotoip55.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
@@ -2346,6 +2372,7 @@ richmetrics.com
 showbiz.owndata.network
 tdf.ringier.ch
 track.hydro.online
+track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
