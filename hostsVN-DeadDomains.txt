@@ -65,6 +65,7 @@ ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
+v.lkqd.net
 api.parrable.com
 h.parrable.com
 ads.2mdnsys.com
@@ -207,6 +208,7 @@ r.ivstracker.net
 static.adxxx.com
 admarvel.com
 automator.admarvel.com
+base-cdn.admarvel.com
 cdn.admarvel.com
 map.admarvel.com
 omax.admarvel.com
@@ -365,6 +367,7 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
+cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -383,6 +386,7 @@ switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
+ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
@@ -469,7 +473,6 @@ ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
-srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
@@ -690,6 +693,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -924,6 +928,7 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
+chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
@@ -1049,6 +1054,7 @@ dollsdeclare.com
 domdex.com
 dorkingvoust.com
 doruffletr.com
+dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
@@ -1122,7 +1128,6 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
-fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
@@ -1361,7 +1366,6 @@ inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
-iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
@@ -1503,6 +1507,7 @@ lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
+lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
@@ -1580,9 +1585,6 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
-mulautuzign.com
-munchenviableski.com
-murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
@@ -1870,10 +1872,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qujzruvf.com
 qumagee.com
-quzodcttub.com
-quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
@@ -2055,7 +2054,6 @@ streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
-sugoicounter.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -2148,6 +2146,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2198,6 +2197,7 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
+vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
@@ -2367,6 +2367,7 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 gotoip55.com
+hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
