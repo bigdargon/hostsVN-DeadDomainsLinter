@@ -158,9 +158,11 @@ ans7tv.net
 anstv.net
 anwasthere.cfd
 anzvn.net
+api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
 app.senaobz.cc
+app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
 apple.support-maps.live
@@ -217,9 +219,7 @@ bemcll.me
 beoneviet.com
 bgtib222.com
 bhxh.co
-bideo-blog.com
 bideo-cdn.com
-bideo-chat.com
 bideo-endpoint.xyz
 bideo-schnellvpn.com
 bideo-schnellvpn.xyz
@@ -238,6 +238,7 @@ bm3536.com
 bmoney2017.com
 bocongthuong.org
 bsanvietnam.online
+bschuyenkhoamat.biz
 buontien247.fun
 businesseventskp.top
 butvelocities.cfd
@@ -353,6 +354,7 @@ com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
+com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -564,7 +566,6 @@ edbythe67ak.cfd
 edunetworkonlinevietnam.com
 edunetworkvietnam.com.vn
 eeeesss.xyz
-eeorderso.cfd
 egiontheh.cfd
 egt091102205euc.click
 egt091102207euc.click
@@ -600,8 +601,6 @@ facabook.id.vn
 facebook.c0m.ltd
 facebookk.life
 facebookvni.com
-fairu-blog.com
-fairu-chat.com
 fairu-chat.xyz
 fairu-endpoint.com
 fairu-endpoint.xyz
@@ -825,7 +824,6 @@ h5.tocdovnm.com
 h51.carpcredits.com
 hacktaikhoan.com
 hacktaikhoanfacebook.com
-halovay.com
 han-muc-khcn-uu-tien-vna1.com
 handico.vaytienmat-nhanh24h.com
 hangairsoft.com
@@ -1297,7 +1295,6 @@ mavietnam.xyz
 mayanpuzzle.com
 mayxanhsg.com
 mayyadc.cfd
-mbankingvn.com
 mbbank-vn.com
 mbbank.net.cn
 mbbank2.com
@@ -2205,7 +2202,6 @@ shopeeblue.com
 shopeec.xyz
 shopeechinhthuc.com
 shopeecv.com
-shopeee.icu
 shopeefans.info
 shopeeff.com
 shopeeft.com
@@ -2231,10 +2227,14 @@ shopeeson.com
 shopeesopp.com
 shopeesukien.com
 shopeetiki.com
+shopeetro.club
 shopeetro.shop
 shopeetro.xyz
+shopeetuyendung.com
+shopeetx.com
 shopeev.com
 shopeev.net
+shopeev.vip
 shopeev.xyz
 shopeevent.com
 shopeevip.top
@@ -2413,7 +2413,6 @@ shopxamgaming.com
 shopxu24h.site
 shopxu365.com
 shopy59782.com
-showzyeye.com
 shrimpskins.org
 shvnb.kfcvnpay.com
 shọpmobaviet.vn
@@ -3022,6 +3021,7 @@ uudainganhang.com
 uudainganhangso.site
 uudauthekhachhanh-tructuyen-thang10.com.vn
 uyban.club
+uyhgqunqkxnx.pw
 v.vl404.cn
 v2s4ku8b.com
 vang11.com
@@ -3381,7 +3381,6 @@ vietnampiu.vip
 vietnamplus.site
 vietnamqas.com
 vietnamqqa.vip
-vietnamqsc.vip
 vietnamraa.vip
 vietnamrx.info
 vietnams.vip
@@ -3675,7 +3674,6 @@ vonsieuntoc.com
 vonsieuotoc.com
 vonsieuptoc.com
 vonsieuqtoc.com
-vonsieurtoc.com
 vonsieustoc.com
 vonsieuttoc.com
 vonsieuutoc.com
