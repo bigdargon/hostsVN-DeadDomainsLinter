@@ -208,6 +208,8 @@ r.ivstracker.net
 static.adxxx.com
 admarvel.com
 automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
 map.admarvel.com
 omax.admarvel.com
 fadskiz.com
@@ -340,7 +342,6 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
-cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -449,6 +450,7 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
@@ -478,6 +480,7 @@ aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
+aj3017.bid
 aj101.xyz
 aff-track.net
 mntzrlt.net
@@ -544,6 +547,7 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
+ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
@@ -576,6 +580,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -680,6 +685,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -689,6 +695,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -802,6 +809,7 @@ baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
+baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
@@ -866,7 +874,6 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
-breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -893,7 +900,6 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -908,6 +914,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1076,8 +1083,6 @@ efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
-ehkualecb.com
-ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
@@ -1123,6 +1128,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
@@ -1193,7 +1199,6 @@ galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
-gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
@@ -1386,6 +1391,7 @@ jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
+jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1478,6 +1484,7 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
+ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
@@ -1533,7 +1540,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1564,7 +1570,6 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
-mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1687,8 +1692,8 @@ opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
+oqnjfotketk.com
 orb92.com
-orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 orhavpfavxu.com
@@ -1796,8 +1801,6 @@ pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
-praiseddisintegrate.com
-pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
@@ -1825,7 +1828,6 @@ ptuxapow.com
 ptygunjk.com
 pub.trads.io
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1908,6 +1910,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1965,6 +1968,7 @@ seaboblit.com
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
+sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
@@ -2072,6 +2076,7 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
+tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
@@ -2205,8 +2210,6 @@ vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
-vruaskogjsu.com
-vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -2240,6 +2243,7 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whuwoawain.com
+wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
