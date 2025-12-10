@@ -5,6 +5,7 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
+cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
@@ -64,7 +65,6 @@ ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
-v.lkqd.net
 api.parrable.com
 h.parrable.com
 ads.2mdnsys.com
@@ -207,7 +207,6 @@ r.ivstracker.net
 static.adxxx.com
 admarvel.com
 automator.admarvel.com
-base-cdn.admarvel.com
 cdn.admarvel.com
 map.admarvel.com
 omax.admarvel.com
@@ -366,7 +365,6 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
-cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -385,7 +383,6 @@ switchadhub.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
-ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
@@ -693,7 +690,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -903,6 +899,7 @@ cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
+camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -927,7 +924,6 @@ charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
-chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
@@ -991,6 +987,7 @@ crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
+cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
@@ -1035,6 +1032,7 @@ destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
+dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -1051,7 +1049,6 @@ dollsdeclare.com
 domdex.com
 dorkingvoust.com
 doruffletr.com
-dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
@@ -1109,6 +1106,7 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
+evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -1299,6 +1297,8 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
+hnyhiytf.com
+hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -1327,6 +1327,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1502,7 +1503,6 @@ lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
-lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
@@ -1736,6 +1736,7 @@ ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
+pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
@@ -1771,6 +1772,7 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
+pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -1965,6 +1967,7 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
+seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -2021,6 +2024,7 @@ songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
+spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2051,6 +2055,7 @@ streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
+sugoicounter.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -2143,7 +2148,6 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
-ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2363,7 +2367,6 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 gotoip55.com
-hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
