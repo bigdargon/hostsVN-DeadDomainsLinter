@@ -251,7 +251,6 @@ publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
-intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
@@ -316,6 +315,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 maxymiser.net
 service.maxymiser.net
+adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 bidadx.com
@@ -447,6 +447,7 @@ ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
+srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
@@ -653,7 +654,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -885,6 +885,7 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
+cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
@@ -945,7 +946,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1293,7 +1293,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1606,7 +1605,6 @@ oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
-observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1707,7 +1705,6 @@ particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
-paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
@@ -1793,6 +1790,7 @@ ptukasti.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1878,7 +1876,6 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1944,6 +1941,7 @@ shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
+shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
@@ -1961,7 +1959,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-slidbecauseemerald.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -2051,6 +2048,8 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
+thhwzyuktk.com
+thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -2223,6 +2222,7 @@ woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
+wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
@@ -2308,7 +2308,6 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
-zumdivdwug.com
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
