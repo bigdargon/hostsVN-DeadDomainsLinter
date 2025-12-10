@@ -1,3 +1,4 @@
+googleads-cn.com
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -272,6 +273,7 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -551,6 +553,7 @@ fly-ads.net
 tags.fly-ads.net
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
@@ -633,7 +636,6 @@ abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
-acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -677,7 +679,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -706,6 +707,7 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
+ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
@@ -720,6 +722,7 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 ak.unblitzlean.com
@@ -876,7 +879,6 @@ bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
-btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 btrll.com
@@ -923,6 +925,7 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
+chelonebarpost.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -986,7 +989,6 @@ crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
-curlyhomes.com
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
@@ -1284,6 +1286,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
+hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1816,7 +1819,6 @@ prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
-psipausaix.net
 psootchu.net
 ptaixout.net
 ptawehex.net
@@ -1920,6 +1922,7 @@ rjkrefyqrixk.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
+rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -2046,7 +2049,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
-stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2069,7 +2071,6 @@ syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
-tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
@@ -2140,7 +2141,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
@@ -2162,7 +2162,6 @@ updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upr90.com
-upset-project.com
 upspinarakor.com
 uqkcroib.com
 urechar.com
@@ -2197,6 +2196,7 @@ vikawjobtar.com
 viliaff.com
 vipicmou.net
 virleth.com
+visilabs.com
 visualrevenue.com
 vmcxdaynkhnekp.com
 vncnu.com
@@ -2258,6 +2258,7 @@ wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
+wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
@@ -2299,6 +2300,7 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
@@ -2382,3 +2384,4 @@ umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
+zarget.com
