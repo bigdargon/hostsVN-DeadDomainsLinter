@@ -259,6 +259,7 @@ lalaping.com
 static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -332,6 +333,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -404,6 +406,7 @@ www.adclerks.com
 api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
+users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
 delivery.taroads.com
@@ -440,6 +443,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
+ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
@@ -539,9 +543,7 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
-bloggiamgia.info
 clix.vn
 crocopop.com
 iads.vision
@@ -562,7 +564,6 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
-track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
@@ -635,7 +636,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
-ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -660,6 +660,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -836,7 +837,6 @@ boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
-brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
@@ -1036,6 +1036,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1160,6 +1161,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1450,6 +1452,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1493,7 +1496,6 @@ madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 makemydownload.com
-makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1648,7 +1650,6 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
-opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1711,12 +1712,10 @@ paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
-penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
-petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
