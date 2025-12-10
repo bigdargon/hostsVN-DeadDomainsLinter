@@ -35,8 +35,6 @@ certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
-js.alexametrics.com
-pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -543,7 +541,9 @@ adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
+banner.uto.vn
 bidgear-syndication.com
+bloggiamgia.info
 clix.vn
 crocopop.com
 iads.vision
@@ -564,6 +564,7 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
+track.winigroup.vn
 tracking.hapiwork.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
@@ -625,7 +626,6 @@ adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
-adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -636,6 +636,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
+ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -660,7 +661,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -837,6 +837,7 @@ boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
+brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
@@ -919,7 +920,6 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -949,7 +949,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1118,7 +1117,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1161,7 +1159,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1355,9 +1352,6 @@ jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
-jkfdnofnz.com
-jkuadhaf.com
-jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1452,7 +1446,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1496,6 +1489,7 @@ madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 makemydownload.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1503,7 +1497,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1518,7 +1511,6 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
-mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1650,6 +1642,7 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
+opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1712,10 +1705,12 @@ paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
+penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
+petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
