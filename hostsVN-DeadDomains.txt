@@ -35,6 +35,8 @@ certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
+js.alexametrics.com
+pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -314,7 +316,6 @@ ytvpaid.winadx.com
 pgmcdn.com
 maxymiser.net
 service.maxymiser.net
-adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 bidadx.com
@@ -446,7 +447,6 @@ ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
-srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
@@ -626,6 +626,7 @@ adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -652,6 +653,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -883,7 +885,6 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
-cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
@@ -920,6 +921,7 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
+coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -1352,6 +1354,9 @@ jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
+jkfdnofnz.com
+jkuadhaf.com
+jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
@@ -1511,6 +1516,7 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1787,7 +1793,6 @@ ptukasti.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1939,7 +1944,6 @@ shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
-shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
@@ -1957,6 +1961,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+slidbecauseemerald.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -2046,8 +2051,6 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
-thhwzyuktk.com
-thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -2220,7 +2223,6 @@ woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
-wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
@@ -2306,6 +2308,7 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zumdivdwug.com
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
