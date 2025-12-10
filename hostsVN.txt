@@ -1,4 +1,4 @@
-# Version: 2512081640
+# Version: 2512101640
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
