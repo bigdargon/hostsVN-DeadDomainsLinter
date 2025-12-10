@@ -26,6 +26,7 @@ directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
+reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
@@ -197,6 +198,7 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -222,7 +224,6 @@ prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
-advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -272,7 +273,6 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -687,7 +687,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -700,7 +699,6 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
@@ -733,6 +731,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
 aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
@@ -771,6 +770,7 @@ avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
+awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
@@ -796,6 +796,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banners.clubseventeen.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -1158,7 +1159,6 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
-fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1302,7 +1302,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1818,6 +1817,7 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
+pzshzhja.com
 qainfcnvfensl.site
 qakcceob.com
 qakzfubfozaj.com
@@ -1825,7 +1825,6 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
@@ -1834,6 +1833,7 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
+qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -2019,9 +2019,7 @@ stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
-stoopfalse.com
 stoorgel.com
-stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
@@ -2073,6 +2071,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2320,7 +2319,6 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
-zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
