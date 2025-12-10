@@ -5,7 +5,6 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
@@ -83,6 +82,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
@@ -166,6 +166,7 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
@@ -368,6 +369,7 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -396,6 +398,7 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
+matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -623,10 +626,12 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 52dvzo62i.com
 5enaovbz2.com
 62ad.com
+aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
+abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
@@ -683,7 +688,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -899,7 +903,6 @@ cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
-camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -910,7 +913,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1297,8 +1299,6 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
-hnyhiytf.com
-hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -1736,7 +1736,6 @@ ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
-pallivermis.shop
 panaxive.com
 pansymerbaby.com
 parentlargevia.com
@@ -1772,7 +1771,6 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
-pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -2023,7 +2021,6 @@ songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
-spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2153,6 +2150,7 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
