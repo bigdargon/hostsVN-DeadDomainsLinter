@@ -83,7 +83,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
@@ -167,7 +166,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
@@ -342,6 +340,7 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -369,7 +368,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -398,7 +396,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -580,7 +577,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -627,12 +623,10 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 52dvzo62i.com
 5enaovbz2.com
 62ad.com
-aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
-abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
@@ -685,11 +679,11 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -874,6 +868,7 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
+breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -900,6 +895,7 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
+cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -1083,6 +1079,8 @@ efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
+ehkualecb.com
+ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekkrgsqygqp.com
@@ -1199,6 +1197,7 @@ galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
+gbbqyadej.com
 gboxrthnyezkx.com
 geephugagee.com
 gelclinchfranz.com
@@ -1328,7 +1327,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1439,7 +1437,6 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
-klsdee.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1540,6 +1537,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1570,6 +1568,7 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
+mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1694,6 +1693,7 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
+orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 orhavpfavxu.com
@@ -1723,6 +1723,7 @@ owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
+oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
@@ -1801,6 +1802,8 @@ pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
+praiseddisintegrate.com
+pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
@@ -1828,6 +1831,7 @@ ptuxapow.com
 ptygunjk.com
 pub.trads.io
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1842,7 +1846,6 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
-qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1910,7 +1913,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2151,7 +2153,6 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
-unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2210,6 +2211,8 @@ vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
+vruaskogjsu.com
+vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
