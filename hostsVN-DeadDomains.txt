@@ -84,7 +84,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
-cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
@@ -104,8 +103,6 @@ nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
-upsight.com
-www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -233,6 +230,8 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
@@ -353,7 +352,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 cdn.switchadhub.com
-delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
@@ -411,7 +409,6 @@ pixel.monitor1.returnpath.net
 tiads.timeinc.net
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -454,17 +451,11 @@ aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
-aj2587.bid
-aj3007.bid
 aj3017.bid
 aj101.xyz
 aff-online.com
 aff-track.net
 mntzrlt.net
-daly2024.com
-media.daly2024.com
-srv.daly2024.com
-track.daly2024.com
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -479,7 +470,6 @@ st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -517,6 +507,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
+jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -527,7 +518,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -665,6 +655,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advantagesclotblend.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -701,6 +692,7 @@ ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
+all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -801,8 +793,6 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
-bebreloomr.com
-becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 beefoaloode.net
@@ -887,6 +877,7 @@ caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
+ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
@@ -953,6 +944,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1121,6 +1113,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1154,7 +1147,6 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
-fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -1163,6 +1155,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1255,6 +1248,7 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
+hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1296,6 +1290,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1423,7 +1418,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1451,7 +1445,6 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
-limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1474,7 +1467,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1525,7 +1517,6 @@ mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
-midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1844,7 +1835,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -2148,7 +2138,6 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
@@ -2159,7 +2148,6 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
-vfurwydryli.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2204,6 +2192,7 @@ wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
+webstats4u.com
 wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -2248,7 +2237,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2317,7 +2305,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
