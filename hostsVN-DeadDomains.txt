@@ -233,8 +233,6 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
@@ -314,6 +312,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
 adsterra.org
@@ -409,6 +408,7 @@ telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
+tiads.timeinc.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -458,6 +458,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -516,7 +517,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
-jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -550,6 +550,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -606,6 +607,7 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
+abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
@@ -631,6 +633,7 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.amigos.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -672,6 +675,7 @@ afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
+agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -883,7 +887,6 @@ caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
-ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
@@ -911,6 +914,7 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1016,6 +1020,7 @@ dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
+dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
@@ -1024,6 +1029,7 @@ duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
+dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
@@ -1162,6 +1168,7 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
+gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
@@ -1211,6 +1218,7 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -1247,7 +1255,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1289,7 +1296,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1417,6 +1423,7 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
+kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1467,6 +1474,7 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1836,6 +1844,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1844,6 +1853,7 @@ raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
+rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
 realizeparish.com
@@ -1908,6 +1918,7 @@ rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
+rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -2064,6 +2075,7 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
+tnkuetnoabuk.com
 toathoule.com
 toawaups.net
 toenailannouncehardworking.com
@@ -2147,6 +2159,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+vfurwydryli.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2235,6 +2248,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2303,6 +2317,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2325,7 +2340,9 @@ moatpixel.com
 play.leadzutw.com
 q2melbourne.com
 richmetrics.com
+saspreview.com
 showbiz.owndata.network
+snnd.co
 tdf.ringier.ch
 track.lexico.com
 tracking.news360.store
