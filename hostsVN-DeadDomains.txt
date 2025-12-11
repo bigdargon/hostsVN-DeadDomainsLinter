@@ -5,6 +5,7 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
+p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
@@ -97,7 +98,6 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
-static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -291,7 +291,6 @@ pgmcdn.com
 app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
-adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 bidadx.com
@@ -372,6 +371,7 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
@@ -402,14 +402,13 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv639.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
-ads.livetv676.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -507,6 +506,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -528,6 +528,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -553,6 +554,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
+2441march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -585,7 +587,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -629,6 +630,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -638,6 +640,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -664,7 +667,6 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -730,7 +732,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avhkihpfabt.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -768,7 +769,6 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
-batomqsmoocc.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -793,7 +793,6 @@ beseechpill.com
 beshucklean.com
 bestadbid.com
 bestcond1tions.com
-besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -842,6 +841,9 @@ bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
+ca4psell23a4bur.com
+cacaobroach.com
+cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
@@ -887,7 +889,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-clickadin.com
 clicks.mods.de
 clicktracks.com
 clkofafcbk.com
@@ -1033,6 +1034,7 @@ elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
+encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
@@ -1094,6 +1096,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1170,7 +1173,6 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
-grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
@@ -1265,13 +1267,12 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1348,7 +1349,6 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1373,6 +1373,7 @@ kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kighoadouk.net
+kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
@@ -1399,7 +1400,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1425,6 +1425,7 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
+ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
@@ -1520,7 +1521,6 @@ morningamidamaruhal.com
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
-mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1528,13 +1528,13 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
-mwekuzaj.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
+nagoverpayreimburse.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1595,6 +1595,7 @@ odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
+offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1661,7 +1662,6 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
-owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1820,6 +1820,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1853,6 +1854,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1941,6 +1943,7 @@ simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
+slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -2043,6 +2046,7 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
+tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
@@ -2160,7 +2164,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2190,10 +2193,10 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
+wiltiqkc.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
-wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
@@ -2244,7 +2247,6 @@ xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
-xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
@@ -2288,7 +2290,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2299,6 +2300,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+cdn.traffic60s.xyz
 comscoreresearch.com
 dolohen.com
 e2.platform88798.com
