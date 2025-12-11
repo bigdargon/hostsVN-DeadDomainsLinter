@@ -20,6 +20,7 @@ directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
+reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
@@ -44,7 +45,6 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
-web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
@@ -172,10 +172,8 @@ bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
-bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
-clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -398,7 +396,9 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -632,7 +632,9 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
+advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -812,6 +814,7 @@ breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
+broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -911,7 +914,6 @@ coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
-cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
@@ -939,6 +941,7 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
+dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -1048,6 +1051,7 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1082,7 +1086,6 @@ fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
-finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1230,7 +1233,6 @@ hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
-hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -1513,7 +1515,6 @@ mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1749,7 +1750,6 @@ psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
-ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1894,7 +1894,6 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -2145,6 +2144,7 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
+vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
@@ -2188,10 +2188,6 @@ wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
-woamowhoastoup.net
-wokseephishopty.net
-wollybelayer.shop
-wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
@@ -2204,6 +2200,7 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
+www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
