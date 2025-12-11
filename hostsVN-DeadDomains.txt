@@ -161,6 +161,7 @@ server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
+infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
@@ -324,6 +325,7 @@ anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
+stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
@@ -358,7 +360,6 @@ delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
 network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -528,6 +529,7 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
+d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
@@ -547,6 +549,7 @@ banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
+crocopop.com
 iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -564,6 +567,7 @@ log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+statis.dsp.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -581,6 +585,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
+2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -654,11 +659,11 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
@@ -840,7 +845,6 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
-breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -878,7 +882,6 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
-carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -1041,7 +1044,6 @@ ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
-eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -1151,6 +1153,7 @@ fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
+futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
@@ -1164,7 +1167,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1187,7 +1189,6 @@ glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
-go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
@@ -1299,7 +1300,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1482,7 +1482,6 @@ lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
-lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
@@ -1527,6 +1526,7 @@ mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
+mhelfiricbwa.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
@@ -1605,7 +1605,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oaraiwephoursou.net
 oarouwousti.com
 oas.roanoke.com
 oavowuftili.com
@@ -1621,6 +1620,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1725,6 +1725,7 @@ petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
+phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1844,7 +1845,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -2161,6 +2161,7 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
+viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
