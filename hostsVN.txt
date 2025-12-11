@@ -1,4 +1,4 @@
-# Version: 2512101640
+# Version: 2512111621
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -7147,6 +7147,10 @@
 ||rtlog.tiktokv.com^
 ||xlog-va.tiktokv.com^
 ||xlog.tiktokv.com^
+||analytics-ipv6.tiktokw.us^
+||mcs.tiktokw.us^
+||mssdk.tiktokw.us^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||log-hl.snssdk.com^
 ||log.snssdk.com^
 ||mcs.snssdk.com^
@@ -7169,6 +7173,12 @@
 ||mon-va.capcutapi.com^
 ||tnc-boot.capcutapi.com^
 ||tnc-sg.capcutapi.com^
+||log16-normal-us-ttp.capcutapi.us^
+||mcs16-normal-us-ttp.capcutapi.us^
+||mon.capcutapi.us^
+||mon16-normal-us-ttp.capcutapi.us^
+||mssdk.capcutapi.us^
+||tnc16-normal-us-ttp.capcutapi.us^
 ||a.mouseflow.com^
 ||app.mouseflow.com^
 ||cdn.mouseflow.com^
@@ -11912,6 +11922,7 @@
 ||analytics.moneycat.vn^
 ||analytics.nhattao.com^
 ||analytics.ntlc.com.vn^
+||analytics.onflix.vip^
 ||analytics.pancake.vn^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
@@ -13388,6 +13399,7 @@
 ||backbeatmedia.com^
 ||backlogdoorstepsinister.com^
 ||backspacecomprisedgoliath.com^
+||backspinreentryupright.com^
 ||badlandlispyippee.com^
 ||bagpipemonogamypercent.com^
 ||baguettefactornervous.com^
@@ -13637,6 +13649,7 @@
 ||bouzechoby.net^
 ||bowerywill.com^
 ||box.anchorfree.net^
+||boxlikesedativespinach.com^
 ||boxofwhisper.com^
 ||boyaidare.club^
 ||bpaqzithab.com^
@@ -16895,6 +16908,7 @@
 ||riverhit.com^
 ||riverstressful.com^
 ||rjkrefyqrixk.com^
+||rjprpydgnco.com^
 ||rjw4obbw.com^
 ||rkgwzfwjgk.com^
 ||rkksbrkwdqbop.com^
@@ -16972,6 +16986,7 @@
 ||rwulzuaqsafn.com^
 ||rxeosevsso.com^
 ||ryeqnyvbncdvg.com^
+||rzuohgfwyoxx.com^
 ||s.eunow4u.com^
 ||s.nitropay.com^
 ||s.optvz.com^
@@ -18248,6 +18263,7 @@
 ||yesgwyn.com^
 ||yespetor.com^
 ||yfetyg.com^
+||yfshutispht.com^
 ||yhmfmugyq.com^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldads.com^

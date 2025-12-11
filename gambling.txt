@@ -1,4 +1,4 @@
-# Version: 2512101639
+# Version: 2512111621
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -72266,6 +72266,7 @@
 ||ltvietnam.xyz^
 ||lu88.co^
 ||lu88.com^
+||lu88.pro^
 ||lua999.com^
 ||lua999vnd.com^
 ||luc12.com^
