@@ -127,6 +127,11 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
+cdn2.specificmedia.com
+cdn3.specificmedia.com
+leads2.specificmedia.com
+redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -187,6 +192,16 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
+ads.doublemax.net
+cap-ad.doublemax.net
+cdn.doublemax.net
+clg.doublemax.net
+dsp.doublemax.net
+ec.doublemax.net
+events.doublemax.net
+lg.doublemax.net
+static.doublemax.net
+video.doublemax.net
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -352,6 +367,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -395,17 +412,16 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -429,6 +445,8 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 litvp.com
+ss15.litvp.com
+ss29.litvp.com
 aff-online.com
 aff-track.net
 mntzrlt.net
@@ -478,6 +496,7 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -493,7 +512,6 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
-embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -509,8 +527,10 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
+ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads1.careerbuilder.vn
 adserver.trangphim.net
 adx.kul.vn
 aff2.linksht.online
@@ -536,6 +556,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 log.vnfinance.vn
+nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -604,6 +625,7 @@ adreclaim.com
 adrevolver.com
 ads-to.click
 ads.amigos.com
+ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -635,10 +657,13 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
+adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
+affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
@@ -731,7 +756,6 @@ awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
-axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
@@ -816,6 +840,7 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
+bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -920,6 +945,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -983,6 +1009,7 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dolatiaschan.com
 dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
@@ -1086,8 +1113,10 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1144,6 +1173,7 @@ ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
+gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1227,6 +1257,7 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1299,7 +1330,6 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
-itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1316,7 +1346,6 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
-jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -1473,6 +1502,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1608,6 +1638,7 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
+oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
@@ -1629,7 +1660,6 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1807,6 +1837,7 @@ quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
+qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1970,6 +2001,7 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
+stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2095,10 +2127,10 @@ uphegroaglah.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
-urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2113,6 +2145,7 @@ vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
+vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -2161,10 +2194,10 @@ wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
+wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
-weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
@@ -2201,7 +2234,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2210,7 +2242,6 @@ wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
-www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
@@ -2236,6 +2267,7 @@ xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
+yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
@@ -2261,7 +2293,6 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
-yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
