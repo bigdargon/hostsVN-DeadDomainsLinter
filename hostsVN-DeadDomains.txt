@@ -1,5 +1,4 @@
 googleads-cn.com
-blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -142,7 +141,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
@@ -159,6 +157,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+www.adxxx.info
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
@@ -298,6 +297,7 @@ www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -401,13 +401,19 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
+ads.livetv686.me
 ads.livetv687.me
+ads.livetv691.me
 ads.livetv697.me
+ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -532,6 +538,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -629,9 +636,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
-adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -640,6 +645,7 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
+advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -714,7 +720,6 @@ artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
-asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -856,6 +861,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -946,7 +952,6 @@ daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
-dangerouswinter.com
 dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
@@ -1099,7 +1104,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1274,7 +1278,6 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
-huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
@@ -1314,6 +1317,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1327,7 +1331,6 @@ jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
-jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
@@ -1484,7 +1487,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1607,10 +1609,8 @@ ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
-ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
-ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
@@ -1675,6 +1675,7 @@ oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
+ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
@@ -2073,7 +2074,6 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
-trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2127,6 +2127,7 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
+vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
