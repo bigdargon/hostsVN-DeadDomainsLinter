@@ -131,6 +131,7 @@ cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
+redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -166,7 +167,6 @@ partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
-bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
 action-rtb.ibillboard.com
@@ -215,6 +215,7 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 advinci.net
+count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -235,6 +236,7 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
+mobytrks.com
 go.mobytrks.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -544,7 +546,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -645,6 +646,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -654,6 +656,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -668,6 +671,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -712,6 +716,7 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
+appsflyer.club
 aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
@@ -1144,6 +1149,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
+fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1166,6 +1172,7 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
+gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1290,7 +1297,9 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
+iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1454,6 +1463,7 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
+locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
@@ -1663,7 +1673,10 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
+otqxvqzdgl.com
+oufauthy.net
 ouftukoo.net
+ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1774,7 +1787,6 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
-psootchu.net
 ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
@@ -1835,8 +1847,6 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
-raunoaptotoaw.com
-razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
@@ -1865,7 +1875,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2004,6 +2013,8 @@ stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
+stormyachiever.com
+streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
@@ -2013,7 +2024,6 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
@@ -2163,7 +2173,6 @@ voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
-vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
@@ -2285,13 +2294,11 @@ yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
-ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
-zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
@@ -2311,6 +2318,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
@@ -2321,7 +2329,6 @@ logs.bytefence.com
 moatpixel.com
 play.leadzutw.com
 q2melbourne.com
-richmetrics.com
 saspreview.com
 showbiz.owndata.network
 snnd.co
