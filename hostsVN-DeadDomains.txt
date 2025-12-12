@@ -27,7 +27,6 @@ www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
-certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -269,6 +268,7 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -381,6 +381,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -545,6 +546,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -648,7 +650,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
-adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -745,6 +746,7 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
+avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -871,6 +873,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -928,6 +931,7 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 consciouschairs.com
+constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -1151,9 +1155,11 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
+gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
+gaizoopi.net
 galaxien.com
 galepush.net
 gaunchdelimes.com
@@ -1194,7 +1200,6 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1312,7 +1317,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 internalads.gammae.com
 interndry.com
@@ -1441,7 +1445,6 @@ lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
-liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
@@ -1871,7 +1874,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2167,6 +2169,7 @@ voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
+voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -2233,6 +2236,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2299,6 +2303,7 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
@@ -2332,7 +2337,6 @@ saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
-track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
