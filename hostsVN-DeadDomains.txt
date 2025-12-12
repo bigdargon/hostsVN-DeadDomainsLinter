@@ -1,5 +1,6 @@
 googleads-cn.com
 blueserving.com
+www.megapopads.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -159,6 +160,7 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
+www.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -194,6 +196,7 @@ www.brand.ad
 cdn.bidfilter.com
 ads.doublemax.net
 cap-ad.doublemax.net
+cdn.doublemax.net
 clg.doublemax.net
 dsp.doublemax.net
 ec.doublemax.net
@@ -205,6 +208,7 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
+scripts.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -215,7 +219,6 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 advinci.net
-count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -466,6 +469,7 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
@@ -486,7 +490,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -499,6 +502,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+piwik.rta.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -521,6 +525,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -613,7 +618,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -635,17 +639,17 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+ads.jewishfriendfinder.com
+ads.nobid.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -675,6 +679,7 @@ ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
+aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -691,6 +696,7 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
+alladvantage.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -728,7 +734,6 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
-asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
@@ -932,7 +937,6 @@ constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
-coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -1037,6 +1041,7 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+effusedprankle.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
@@ -1114,6 +1119,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1166,6 +1172,9 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
+girls-only.online
+gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1290,7 +1299,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1380,6 +1388,7 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
+kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1492,8 +1501,10 @@ mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
+malatiswirled.com
 malhfiacgx.com
 maljuggu.com
+maltunfaithfulpredominant.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1792,7 +1803,6 @@ ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
-pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
@@ -1870,6 +1880,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1897,6 +1908,7 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
+rsalcch.com
 rtbpop.com
 rtbpopd.com
 rtcheajfn.com
@@ -1913,7 +1925,6 @@ rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
-saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -1959,6 +1970,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+slipheirphysician.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -1999,6 +2011,7 @@ static.scptpx.com
 static.scroll.com
 stats.x14.eu
 stawhoph.com
+steeringsunshine.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2056,6 +2069,7 @@ thirstytwig.com
 thootipheguph.com
 thougnoangi.com
 thounookra.com
+thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
@@ -2081,6 +2095,7 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
 tribedone.org
+trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
