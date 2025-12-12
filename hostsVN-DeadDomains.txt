@@ -27,6 +27,7 @@ www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -36,7 +37,6 @@ ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
-platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
@@ -267,8 +267,6 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -295,7 +293,6 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -434,7 +431,6 @@ ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
-track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -643,13 +639,13 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -1200,6 +1196,7 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
+greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1259,7 +1256,6 @@ hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
-hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1317,6 +1313,7 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 internalads.gammae.com
 interndry.com
@@ -1445,6 +1442,7 @@ lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
+liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
@@ -1666,7 +1664,6 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
-osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1778,7 +1775,6 @@ profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1835,7 +1831,6 @@ questaffiliates.net
 qujzruvf.com
 qumagee.com
 quzodcttub.com
-quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
@@ -1874,6 +1869,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1917,7 +1913,6 @@ rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
-saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2337,6 +2332,7 @@ saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
+track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
