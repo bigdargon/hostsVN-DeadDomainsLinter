@@ -269,7 +269,6 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -330,6 +329,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -381,7 +381,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -421,7 +420,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -547,7 +545,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -640,7 +637,6 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
-ads.themovienation.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -749,7 +745,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -762,7 +757,6 @@ axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
-azkcqs.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -867,7 +861,6 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-cameesse.net
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -878,7 +871,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -936,7 +928,6 @@ conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 consciouschairs.com
-constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
@@ -1045,7 +1036,6 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
-effusedprankle.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
@@ -1068,6 +1058,7 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1149,7 +1140,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1161,11 +1151,9 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
-gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
-gaizoopi.net
 galaxien.com
 galepush.net
 gaunchdelimes.com
@@ -1558,7 +1546,6 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
-mwekuzaj.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1624,7 +1611,6 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
-odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1827,7 +1813,6 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
-qiptamcupl.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1947,7 +1932,6 @@ secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
-sensorpluck.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
@@ -1977,7 +1961,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-slipheirphysician.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -2131,6 +2114,7 @@ unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
+unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
@@ -2158,6 +2142,7 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
+vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2182,7 +2167,6 @@ voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
-voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
@@ -2315,7 +2299,6 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
-zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
