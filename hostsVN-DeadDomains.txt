@@ -76,6 +76,7 @@ static.adthor.com
 v.adthor.com
 hb.adomik.com
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -158,7 +159,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-www.adxxx.info
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
@@ -298,7 +298,6 @@ www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
-cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -403,15 +402,12 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -505,6 +501,7 @@ ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
+tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -520,6 +517,7 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adv.vnnshop.vn
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
@@ -602,6 +600,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -630,6 +629,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -639,7 +639,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -929,7 +928,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1001,6 +999,7 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
+dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -1143,7 +1142,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1250,6 +1248,7 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
+hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
@@ -1487,7 +1486,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1677,7 +1675,6 @@ oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
@@ -1765,10 +1762,12 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
+ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1953,6 +1952,7 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
+smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -2121,12 +2121,12 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
+uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
-vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2236,6 +2236,7 @@ xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
+xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
