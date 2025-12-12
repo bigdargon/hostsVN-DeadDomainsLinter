@@ -3,9 +3,7 @@ blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
-c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
@@ -37,6 +35,7 @@ ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
+platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
@@ -143,7 +142,6 @@ cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -267,6 +265,8 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -293,6 +293,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -431,6 +432,7 @@ ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
+track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -575,7 +577,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
-29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
@@ -639,6 +640,7 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -1037,13 +1039,8 @@ eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
-egeemsob.com
 egraglauvoathog.com
-ehiibetu.com
-ehkualecb.com
-ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
-ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1113,7 +1110,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1256,6 +1252,7 @@ hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
+hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1292,6 +1289,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1500,7 +1498,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1588,14 +1585,6 @@ nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
-nuryotzgl.com
-nuzatbdmy.com
-nvcrcf.com
-nwhnzkbfsnpf.com
-nxcygebmxxuo.com
-nycvqozkkmzti.com
-nygwcwsvnu.com
-nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1664,6 +1653,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1774,7 +1764,7 @@ proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
-proposedpartly.com
+prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1831,13 +1821,13 @@ questaffiliates.net
 qujzruvf.com
 qumagee.com
 quzodcttub.com
+quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
-rapepush.net
 raphanysteers.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1913,6 +1903,7 @@ rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
+saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2119,7 +2110,6 @@ unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
-uphegroaglah.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
@@ -2296,7 +2286,6 @@ yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
-zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
