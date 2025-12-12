@@ -1,8 +1,5 @@
 googleads-cn.com
 blueserving.com
-megapopads.com
-sender.megapopads.com
-www.megapopads.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -127,10 +124,12 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
+cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
@@ -331,7 +330,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -343,6 +341,7 @@ truepush.com
 www.truepush.com
 b91vip.com
 image.b91vip.com
+www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -409,6 +408,7 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
+mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 r.grvmedia.com
@@ -421,6 +421,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -528,6 +529,7 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.careerbuilder.vn
+ads.ictnews.vn
 ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
@@ -545,6 +547,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -647,7 +650,6 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -733,7 +735,6 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
-aslau-cre.info
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -761,6 +762,7 @@ axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
+azkcqs.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -772,7 +774,6 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
-balor-ghn.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -866,6 +867,7 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+cameesse.net
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
@@ -1066,7 +1068,6 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1148,6 +1149,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1301,7 +1303,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1459,7 +1460,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1509,7 +1509,6 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
-manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mathcountryside.com
@@ -1559,6 +1558,7 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
+mwekuzaj.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1624,6 +1624,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
+odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1885,6 +1886,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1912,7 +1914,6 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
-rsalcch.com
 rtbpop.com
 rtbpopd.com
 rtcheajfn.com
@@ -2009,7 +2010,6 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2018,7 +2018,6 @@ static.scptpx.com
 static.scroll.com
 stats.x14.eu
 stawhoph.com
-steeringsunshine.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2120,7 +2119,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ueikno.com
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
@@ -2133,7 +2131,6 @@ unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
-unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
@@ -2161,7 +2158,6 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
-vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
