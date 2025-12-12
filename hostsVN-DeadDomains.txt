@@ -123,15 +123,14 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
+panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
-cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
@@ -344,7 +343,6 @@ truepush.com
 www.truepush.com
 b91vip.com
 image.b91vip.com
-www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -411,7 +409,6 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
-mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 r.grvmedia.com
@@ -531,10 +528,10 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.careerbuilder.vn
-ads.ictnews.vn
 ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -544,6 +541,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -608,6 +606,7 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
+ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
@@ -628,6 +627,7 @@ ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
+ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -647,6 +647,7 @@ adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -771,6 +772,7 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
+balor-ghn.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -787,6 +789,7 @@ barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
+bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
@@ -873,6 +876,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1455,6 +1459,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1504,6 +1509,7 @@ malhfiacgx.com
 maljuggu.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 mathcountryside.com
@@ -1543,6 +1549,7 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
+mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1695,6 +1702,7 @@ oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
+ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
@@ -1723,6 +1731,8 @@ petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
+phamsacm.net
+phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1816,6 +1826,7 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
+qiptamcupl.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1935,6 +1946,7 @@ secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
+sensorpluck.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
@@ -1997,6 +2009,7 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2024,6 +2037,7 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
+surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -2060,6 +2074,7 @@ thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
+thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
