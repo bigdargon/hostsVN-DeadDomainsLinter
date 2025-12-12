@@ -1,5 +1,7 @@
 googleads-cn.com
 blueserving.com
+megapopads.com
+sender.megapopads.com
 www.megapopads.com
 swift.lifestreet.com
 medialytics.com
@@ -121,7 +123,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
@@ -160,7 +161,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-www.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -208,7 +208,6 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-scripts.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -219,6 +218,7 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 advinci.net
+count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -490,6 +490,7 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
@@ -502,7 +503,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-piwik.rta.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -535,7 +535,6 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
-adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -545,7 +544,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -610,7 +608,6 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
-ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
@@ -618,6 +615,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -630,7 +628,6 @@ ads.amigos.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
-ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -640,7 +637,7 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
-ads.nobid.com
+ads.themovienation.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -696,7 +693,6 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
-alladvantage.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -734,7 +730,9 @@ arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
+asgclickkl.com
 asgclickpop.com
+aslau-cre.info
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
@@ -789,7 +787,6 @@ barscreative1.com
 basebanner.com
 baste-znl.com
 batteusp2hilenor.com
-bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
@@ -937,6 +934,7 @@ constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
+coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -1299,6 +1297,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1501,10 +1500,8 @@ mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
-malatiswirled.com
 malhfiacgx.com
 maljuggu.com
-maltunfaithfulpredominant.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1546,7 +1543,6 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
-mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
@@ -1699,7 +1695,6 @@ oxthrilled.com
 oxwlhazto.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
-ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
@@ -1728,8 +1723,6 @@ petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
-phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1803,6 +1796,7 @@ ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
+pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
@@ -1880,7 +1874,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1925,6 +1918,7 @@ rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
+saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2030,7 +2024,6 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
-surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -2067,7 +2060,6 @@ thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
-thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
@@ -2113,6 +2105,7 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
+ueikno.com
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
