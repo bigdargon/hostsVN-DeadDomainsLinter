@@ -194,7 +194,6 @@ www.brand.ad
 cdn.bidfilter.com
 ads.doublemax.net
 cap-ad.doublemax.net
-cdn.doublemax.net
 clg.doublemax.net
 dsp.doublemax.net
 ec.doublemax.net
@@ -467,7 +466,6 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
@@ -512,6 +510,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
+embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -522,7 +521,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -637,12 +635,12 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-ads.jewishfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -677,7 +675,6 @@ ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
-aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
@@ -756,6 +753,7 @@ awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
+axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
@@ -1116,7 +1114,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1169,15 +1166,13 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
-girls-only.online
-gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
+globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
@@ -1295,6 +1290,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1346,6 +1342,7 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
+jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -1383,7 +1380,6 @@ kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
-kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1660,6 +1656,7 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
+orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -2059,7 +2056,6 @@ thirstytwig.com
 thootipheguph.com
 thougnoangi.com
 thounookra.com
-thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
@@ -2085,7 +2081,6 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
 tribedone.org
-trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
@@ -2198,6 +2193,7 @@ wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
+weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
@@ -2242,6 +2238,7 @@ wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
+www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
@@ -2293,6 +2290,7 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
+yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
