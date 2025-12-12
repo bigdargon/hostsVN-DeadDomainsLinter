@@ -67,6 +67,7 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
+zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -75,7 +76,6 @@ static.adthor.com
 v.adthor.com
 hb.adomik.com
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -133,6 +133,7 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -157,6 +158,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+www.adxxx.info
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
@@ -362,6 +364,7 @@ cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
+click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
@@ -400,12 +403,15 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -485,6 +491,7 @@ mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
@@ -498,7 +505,6 @@ ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
-tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
@@ -596,7 +602,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -638,6 +643,7 @@ advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
+adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -995,7 +1001,6 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
-dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -1245,7 +1250,6 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
-hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
@@ -1439,6 +1443,7 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1536,7 +1541,6 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
-nagoverpayreimburse.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1572,6 +1576,7 @@ nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
+nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
@@ -1657,6 +1662,7 @@ ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
+outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -1691,6 +1697,7 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
+pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
@@ -1758,12 +1765,10 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
-ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1948,7 +1953,6 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
-smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -2117,7 +2121,6 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
-uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -2215,7 +2218,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2234,7 +2236,6 @@ xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
