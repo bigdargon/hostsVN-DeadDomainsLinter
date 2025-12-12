@@ -3,7 +3,9 @@ blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
+c.medialytics.com
 cdn.creative.medialytics.com
+p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
@@ -129,7 +131,6 @@ cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -142,6 +143,7 @@ cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
+aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -213,7 +215,6 @@ vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
 advinci.net
-count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -234,7 +235,6 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
-mobytrks.com
 go.mobytrks.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -577,6 +577,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
+29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
@@ -641,7 +642,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsemo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -654,7 +654,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -669,7 +668,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -871,7 +869,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1039,8 +1036,13 @@ eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
+egeemsob.com
 egraglauvoathog.com
+ehiibetu.com
+ehkualecb.com
+ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
+ejyymghi.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1110,6 +1112,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1141,7 +1144,6 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
-fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1164,7 +1166,6 @@ gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
-gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1289,9 +1290,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1455,7 +1454,6 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
-locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
@@ -1498,6 +1496,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1585,6 +1584,14 @@ nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
+nuryotzgl.com
+nuzatbdmy.com
+nvcrcf.com
+nwhnzkbfsnpf.com
+nxcygebmxxuo.com
+nycvqozkkmzti.com
+nygwcwsvnu.com
+nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1656,10 +1663,7 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
-otqxvqzdgl.com
-oufauthy.net
 ouftukoo.net
-ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1764,6 +1768,7 @@ proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
+proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -1828,6 +1833,7 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+rapepush.net
 raphanysteers.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1998,8 +2004,6 @@ stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
-stormyachiever.com
-streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
@@ -2110,6 +2114,7 @@ unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
+uphegroaglah.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
@@ -2221,7 +2226,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2263,6 +2267,7 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
+yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
@@ -2286,6 +2291,7 @@ yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
+zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
@@ -2305,7 +2311,6 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
