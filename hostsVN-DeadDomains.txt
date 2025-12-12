@@ -261,7 +261,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
-mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -338,6 +337,7 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
+ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -350,7 +350,6 @@ appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
-supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
@@ -402,10 +401,12 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv681.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -617,6 +618,7 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
+ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -628,6 +630,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -637,8 +640,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advantagesclotblend.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -700,7 +701,6 @@ api.ampiri.com
 appads.com
 appsflyer.club
 aptojeepsoopool.com
-apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
@@ -728,6 +728,7 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
+aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -926,6 +927,7 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
+croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -991,7 +993,6 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1049,7 +1050,6 @@ eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
-eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
@@ -1074,6 +1074,7 @@ fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
+fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
@@ -1220,6 +1221,7 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1245,6 +1247,7 @@ hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
+hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -1308,6 +1311,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1458,7 +1462,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -2254,7 +2257,6 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
-yfetyg.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
