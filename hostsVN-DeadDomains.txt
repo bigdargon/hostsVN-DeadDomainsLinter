@@ -268,6 +268,7 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -337,7 +338,6 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
-ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -617,7 +617,6 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
-ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -638,6 +637,8 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advantagesclotblend.com
+advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -674,6 +675,7 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
+allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
@@ -726,7 +728,6 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
-aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -925,7 +926,6 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
-croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1032,6 +1032,7 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
+emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -1073,7 +1074,6 @@ fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
-fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
@@ -1220,7 +1220,6 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1246,7 +1245,6 @@ hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
-hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
@@ -1269,10 +1267,12 @@ hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
+hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1562,6 +1562,7 @@ nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
+npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
@@ -1571,6 +1572,7 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
+nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
@@ -1622,6 +1624,7 @@ ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
+opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1699,6 +1702,7 @@ phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1805,6 +1809,7 @@ quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
+questaffiliates.net
 qujzruvf.com
 qumagee.com
 quzodcttub.com
@@ -2126,6 +2131,7 @@ vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
+vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
