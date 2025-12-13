@@ -7,6 +7,7 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+m.addthisedge.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
@@ -119,7 +120,6 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
-leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -199,7 +199,10 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
+global.proper.io
+monitoring.proper.io
 capi.bidtellect.com
+cdn.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -261,6 +264,7 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
+mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -346,10 +350,12 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
+rum.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
+supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
@@ -401,12 +407,10 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv681.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -465,7 +469,6 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
-hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
@@ -484,7 +487,6 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -570,7 +572,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
-4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
 52dvzo62i.com
@@ -630,7 +631,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -701,6 +701,7 @@ api.ampiri.com
 appads.com
 appsflyer.club
 aptojeepsoopool.com
+apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
@@ -993,6 +994,7 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1050,6 +1052,7 @@ eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
+eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
@@ -1311,7 +1314,6 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
-itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1462,6 +1464,7 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1548,7 +1551,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nefdcnmvbt.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
@@ -1855,6 +1857,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2217,6 +2220,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2257,12 +2261,12 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
+yfetyg.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
-yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
@@ -2277,7 +2281,6 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
-yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
@@ -2286,6 +2289,7 @@ zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
+zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2293,8 +2297,6 @@ zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
-zuisinchills.shop
-zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
