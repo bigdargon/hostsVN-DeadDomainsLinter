@@ -184,6 +184,7 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
+st.adxxx.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -377,6 +378,8 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
+delivery.taroads.com
+taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
@@ -392,6 +395,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -430,6 +434,7 @@ srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
+cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -440,6 +445,10 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+click.m.ambientplatform.vn
+delivery.m.ambientplatform.vn
+media.ambientplatform.vn
+metrics.m.ambientplatform.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -467,9 +476,11 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+xmadsapi.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.chetaomaysaigon.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -495,10 +506,12 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+adm.phunusuckhoe.vn
 ads.autonet.com.vn
 ads.ictnews.vn
 ads.inetgroup.vn
@@ -513,8 +526,6 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
-iads.vision
-imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
@@ -526,9 +537,11 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+digi.vinut.com.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
+logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -618,7 +631,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -657,7 +669,6 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
-ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
@@ -918,6 +929,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -965,6 +977,7 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
+dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1072,7 +1085,6 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
-febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
@@ -1151,7 +1163,6 @@ gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
-glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
@@ -1229,7 +1240,6 @@ hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
-hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1288,7 +1298,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1379,6 +1388,7 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
+kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
@@ -1406,9 +1416,11 @@ lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
+lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
+leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1458,7 +1470,6 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1692,6 +1703,7 @@ phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -2067,7 +2079,6 @@ tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
-twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
