@@ -30,7 +30,6 @@ ssl.ligatus.com
 www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
-certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
@@ -86,10 +85,12 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
+static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -140,6 +141,7 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
+aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -163,7 +165,6 @@ www.bkrtx.com
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
-bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
@@ -197,7 +198,6 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
-fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
@@ -502,8 +502,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-www.atdnetwork.com
-m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
@@ -565,7 +563,6 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
@@ -781,6 +778,7 @@ axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
+b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -856,6 +854,7 @@ breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
+bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
@@ -906,12 +905,13 @@ cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
 chickensstation.com
-chinaslauras.com
 chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
+chokedsmelt.com
+chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -1257,6 +1257,7 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1310,6 +1311,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1675,8 +1677,8 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1729,6 +1731,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1829,6 +1832,7 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
+qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1888,13 +1892,13 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
+rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
@@ -1905,6 +1909,7 @@ roashudiweeh.com
 robitoaceeb.net
 rockabox.co
 rodejessie.com
+romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
@@ -1934,7 +1939,6 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
-scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
@@ -1974,7 +1978,6 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
-skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1991,6 +1994,7 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
+softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2016,14 +2020,12 @@ static.scroll.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
-sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
-stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2080,6 +2082,7 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
+tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
@@ -2250,7 +2253,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
