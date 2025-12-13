@@ -158,7 +158,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -184,6 +183,7 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
+st.adxxx.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -205,7 +205,6 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
-rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -385,9 +384,6 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-cryptox-ads.io
-mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -398,7 +394,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -613,7 +608,6 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
-ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -623,6 +617,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -646,7 +641,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -687,6 +681,7 @@ annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
+apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
@@ -984,6 +979,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
+dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -1035,6 +1031,7 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
+eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1068,6 +1065,7 @@ farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
+faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
@@ -1146,7 +1144,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
@@ -1266,7 +1263,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1375,7 +1371,6 @@ kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
-klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1583,6 +1578,7 @@ ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
+odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
@@ -1721,8 +1717,6 @@ pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
-pofohensoahee.net
-poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1940,7 +1934,6 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
-smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -1960,6 +1953,7 @@ spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
+special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
@@ -2041,7 +2035,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
-tnkuetnoabuk.com
 toathoule.com
 toawaups.net
 toenailannouncehardworking.com
@@ -2078,6 +2071,7 @@ ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
 ufiledsit.com
+ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
@@ -2110,7 +2104,6 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
-uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -2152,8 +2145,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
-vugpakba.com
-vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
@@ -2197,7 +2188,6 @@ wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
-woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
@@ -2296,8 +2286,6 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
-ilogs.bytefence.com
-img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
