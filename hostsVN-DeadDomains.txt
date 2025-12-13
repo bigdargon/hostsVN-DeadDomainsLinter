@@ -5,6 +5,7 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
+cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
@@ -14,6 +15,7 @@ a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
+analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
@@ -115,7 +117,6 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -161,6 +162,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+st.adxxx.info
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
@@ -175,8 +177,6 @@ bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
-ui-ssp.ibillboard.com
-video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -427,7 +427,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-www.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -436,12 +435,10 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv639.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv671.me
-ads.livetv673.me
-ads.livetv676.me
+ads.livetv683.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -516,6 +513,7 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -567,6 +565,7 @@ imgcdnbet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -666,6 +665,7 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -678,7 +678,9 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
+adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -768,6 +770,7 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
+avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -886,8 +889,6 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
-canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -896,7 +897,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -970,6 +970,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1021,9 +1022,7 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
-diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1034,7 +1033,6 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
-dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -1141,6 +1139,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1158,8 +1157,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
-freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1183,6 +1180,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1205,6 +1203,7 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
+gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1289,7 +1288,6 @@ hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
-hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -1318,7 +1316,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1467,7 +1464,6 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1525,11 +1521,9 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
-mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1556,7 +1550,6 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkaragqzeov.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
@@ -1564,6 +1557,7 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
+moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1577,8 +1571,8 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
-mwekuzaj.com
 my.heloninremake.shop
+mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
@@ -1597,6 +1591,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
 netcommunities.com
+netflame.cc
 news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
@@ -1799,6 +1794,7 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
+profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1835,6 +1831,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1899,7 +1896,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1921,6 +1917,7 @@ romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
+rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
@@ -2212,7 +2209,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2233,9 +2229,6 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
-whoockeg.top
-whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whuwoawain.com
 wibtntmvox.com
@@ -2265,7 +2258,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2368,7 +2360,6 @@ saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
-track.hydro.online
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
