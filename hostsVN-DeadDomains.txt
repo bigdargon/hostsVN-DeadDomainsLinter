@@ -5,6 +5,7 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
+cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
@@ -15,7 +16,6 @@ sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
-analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
@@ -123,7 +123,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 apilw.epom.com
@@ -173,7 +172,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -524,9 +522,9 @@ motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
+vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
-analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -657,11 +655,9 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
-ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
-ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -690,7 +686,6 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
-appsflyer.club
 aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
@@ -929,6 +924,7 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
+cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -1066,6 +1062,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
@@ -1154,7 +1151,6 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
-gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1247,7 +1243,6 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
-hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1268,8 +1263,10 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
+iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1424,6 +1421,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+links-ranking.de
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
@@ -1533,7 +1531,6 @@ namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
-nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
@@ -1726,7 +1723,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1805,7 +1801,6 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1984,6 +1979,7 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
+stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2175,6 +2171,7 @@ wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
+wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
@@ -2299,6 +2296,7 @@ e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
+img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
