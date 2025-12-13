@@ -179,6 +179,7 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -206,7 +207,6 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
-eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -276,6 +276,7 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -428,6 +429,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+www.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -565,6 +567,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -676,7 +679,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -821,6 +823,7 @@ becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 beefoaloode.net
+belia-glp.com
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -831,6 +834,7 @@ berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
+besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -861,7 +865,6 @@ breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -896,7 +899,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -970,7 +972,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1014,6 +1015,7 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
+dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1053,6 +1055,7 @@ dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
+ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
@@ -1164,8 +1167,8 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
-fudukrujoa.com
 fumrafdwaapp.com
+futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1182,7 +1185,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1201,6 +1203,7 @@ gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 gloarteegnu.com
+globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
@@ -1298,6 +1301,7 @@ hookawep.net
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
+hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
@@ -1317,6 +1321,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1470,6 +1475,7 @@ libedgolart.com
 lidosquey.shop
 lifpv.com
 liftdna.com
+ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
@@ -1495,6 +1501,7 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1587,7 +1594,6 @@ nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
-ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
@@ -1678,6 +1684,7 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
+orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 orhavpfavxu.com
@@ -1885,7 +1892,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
@@ -1897,6 +1903,7 @@ rickerrotal.com
 ricthaaz.com
 rigelink.com
 ringedtusher.com
+ringerbaseballsilk.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1994,6 +2001,8 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
+snebbubbled.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
@@ -2121,7 +2130,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2265,6 +2273,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2341,7 +2350,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
@@ -2357,12 +2365,12 @@ moatpixel.com
 play.leadzutw.com
 q2melbourne.com
 richmetrics.com
-saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
 track.hydro.online
 track.lexico.com
+tracking.news360.store
 tracking.scenepass.com
 usergrid.com
 worldgravity.com
