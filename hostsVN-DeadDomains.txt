@@ -30,6 +30,7 @@ ssl.ligatus.com
 www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
+certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
@@ -100,7 +101,6 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
-s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
@@ -165,6 +165,7 @@ www.bkrtx.com
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
+bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
@@ -196,8 +197,8 @@ video.doublemax.net
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
-r.ivstracker.net
 static.adxxx.com
+fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
@@ -296,7 +297,6 @@ tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
-native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -502,6 +502,8 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
+www.atdnetwork.com
+m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
@@ -563,6 +565,7 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
+alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
@@ -577,7 +580,6 @@ track.winigroup.vn
 tracking.hapiwork.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -749,7 +751,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -905,6 +906,7 @@ cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
 chickensstation.com
+chinaslauras.com
 chinsnakes.com
 chioneflake.com
 chippedaugur.com
@@ -1022,7 +1024,6 @@ diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
-dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
@@ -1060,7 +1061,6 @@ egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
-ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
@@ -1180,9 +1180,6 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
-gdtgkshmc.com
-geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1398,7 +1395,6 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
-kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
@@ -1525,7 +1521,6 @@ maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
-mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
@@ -1541,7 +1536,6 @@ mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
-midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1677,6 +1671,7 @@ orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
+orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1857,7 +1852,6 @@ quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
-qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
@@ -1939,6 +1933,7 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
@@ -1978,6 +1973,7 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
+skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1995,8 +1991,6 @@ soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
-soliads.net
-solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
@@ -2020,12 +2014,14 @@ static.scroll.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
+sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
+stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2157,8 +2153,6 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
-valuationbothertoo.com
-valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
