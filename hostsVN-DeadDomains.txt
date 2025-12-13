@@ -117,6 +117,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -162,7 +163,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-st.adxxx.info
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
@@ -177,6 +177,8 @@ bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
+ui-ssp.ibillboard.com
+video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -437,8 +439,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv683.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -562,10 +562,10 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -665,7 +665,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -678,7 +677,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
@@ -832,7 +830,6 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestadbid.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -889,6 +886,8 @@ cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
+canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -970,7 +969,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1022,7 +1020,9 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
+diazoestmark.guru
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -1033,6 +1033,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
+dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -1139,7 +1140,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1157,6 +1157,8 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
+frameworkdeserve.com
+freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1180,7 +1182,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1247,8 +1248,6 @@ gxacvwmzfos.com
 gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
-gzegwior.com
-h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
@@ -1288,6 +1287,7 @@ hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
+hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
@@ -1316,6 +1316,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1521,6 +1522,7 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
+mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
@@ -1757,7 +1759,6 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1833,8 +1834,6 @@ qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
-qcerujcajnme.com
-qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -2229,6 +2228,9 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
+whoockeg.top
+whoonseepoutche.net
+whoostoo.net
 whowhipi.net
 whuwoawain.com
 wibtntmvox.com
@@ -2360,6 +2362,7 @@ saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
+track.hydro.online
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
