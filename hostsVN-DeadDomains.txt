@@ -101,13 +101,13 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
+s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -119,11 +119,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -178,25 +173,17 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
-ads.doublemax.net
-cap-ad.doublemax.net
-cdn.doublemax.net
-clg.doublemax.net
-dsp.doublemax.net
-ec.doublemax.net
-events.doublemax.net
-lg.doublemax.net
-static.doublemax.net
-video.doublemax.net
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
+r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -210,14 +197,6 @@ global.proper.io
 monitoring.proper.io
 s2s.proper.io
 capi.bidtellect.com
-api.publift.com
-cdn.publift.com
-hb.publift.com
-npm.publift.com
-prebid.publift.com
-showroom2.publift.com
-tools.publift.com
-wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -279,10 +258,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
-img.mondiad.net
-mondiad.net
-serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -297,6 +272,7 @@ tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -369,13 +345,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
-analytics.logsss.com
-logsss.com
-perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -408,8 +377,6 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
-pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -418,15 +385,10 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -480,7 +442,6 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -542,11 +503,9 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
-ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
-ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -573,13 +532,13 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
-log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 11ssq.com
@@ -624,7 +583,6 @@ acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
@@ -646,7 +604,6 @@ ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
-ads.contactmusic.com
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
@@ -664,6 +621,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -680,7 +638,6 @@ adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
-affiliates.digitalriver.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -751,6 +708,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -797,7 +755,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banners.clubseventeen.com
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -846,7 +803,6 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -931,7 +887,6 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
-coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
@@ -940,6 +895,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
+commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -1011,7 +967,6 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
-dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1024,6 +979,7 @@ diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
+dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
@@ -1061,6 +1017,7 @@ egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
+ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
@@ -1180,6 +1137,9 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
+gdtgkshmc.com
+geephugagee.com
+gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
 girls-only.online
@@ -1308,7 +1268,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1332,7 +1291,6 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
-internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1395,6 +1353,7 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
+kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
@@ -1519,8 +1478,8 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
-maximumcash.com
 mazbfiladr.com
+mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
@@ -1536,6 +1495,7 @@ mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
+midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1627,7 +1587,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1769,7 +1728,6 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
-poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1852,6 +1810,7 @@ quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
+qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
@@ -1875,7 +1834,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
@@ -1991,6 +1949,8 @@ soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
+soliads.net
+solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
@@ -2153,6 +2113,8 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
+valuationbothertoo.com
+valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
@@ -2316,7 +2278,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2332,7 +2293,6 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
@@ -2347,10 +2307,8 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-snnd.co
 tdf.ringier.ch
 track.hydro.online
-track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
