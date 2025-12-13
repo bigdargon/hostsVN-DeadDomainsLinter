@@ -108,6 +108,7 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -173,7 +174,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -377,8 +377,6 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
-delivery.taroads.com
-taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
@@ -432,7 +430,6 @@ srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
-cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -442,6 +439,7 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -497,7 +495,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -887,6 +884,7 @@ clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
+coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
@@ -1268,6 +1266,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1380,7 +1379,6 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
-kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
@@ -1408,11 +1406,9 @@ lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
-lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
-leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
@@ -1478,6 +1474,7 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
+maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1587,6 +1584,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1694,7 +1692,6 @@ phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
-phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1728,6 +1725,7 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
+poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1834,6 +1832,7 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
+repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
