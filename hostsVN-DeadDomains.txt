@@ -5,7 +5,6 @@ swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
@@ -91,6 +90,7 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
+static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -157,6 +157,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -172,6 +173,7 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -396,10 +398,8 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -524,7 +524,6 @@ motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
-vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
@@ -633,7 +632,6 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
-advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -853,11 +851,11 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
+cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -931,7 +929,6 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
-cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -1069,7 +1066,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
@@ -1272,10 +1268,8 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
-iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1307,7 +1301,6 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
-itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1324,6 +1317,7 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -1547,7 +1541,6 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
-netagent.cz
 netcommunities.com
 netflame.cc
 news-central.org
@@ -1991,7 +1984,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
-stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2001,6 +1993,7 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
+surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -2175,13 +2168,13 @@ wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
+wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
-wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
@@ -2204,6 +2197,7 @@ witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2274,6 +2268,8 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
+yseyxucrhjfi.com
+ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
@@ -2303,7 +2299,6 @@ e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
-img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
