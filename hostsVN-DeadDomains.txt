@@ -9,13 +9,13 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
-m.addthisedge.com
 v1.addthisedge.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
+analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
@@ -123,6 +123,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 apilw.epom.com
@@ -505,7 +506,6 @@ ads.autonet.com.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
-adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 aff2.linksht.online
@@ -525,6 +525,7 @@ upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
+analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -619,7 +620,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -655,9 +655,11 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
+ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -665,7 +667,6 @@ akxopgjuw.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
-altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -686,6 +687,7 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
+appsflyer.club
 aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
@@ -792,7 +794,6 @@ blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 blueswordksh.com
-bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
 bonertraffic14.pro
@@ -954,7 +955,6 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloplen.com
-deloton.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -1015,7 +1015,6 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1130,7 +1129,6 @@ gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galepush.net
-gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -1151,6 +1149,7 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
+gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1170,7 +1169,6 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -1243,6 +1241,7 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
+hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1421,7 +1420,6 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
-links-ranking.de
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
@@ -1455,7 +1453,6 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
-lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
@@ -1531,9 +1528,9 @@ namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
+nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1723,6 +1720,7 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
+pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1743,7 +1741,6 @@ processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
-propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -2232,7 +2229,6 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
