@@ -185,6 +185,7 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
+ads.doublemax.net
 cap-ad.doublemax.net
 cdn.doublemax.net
 clg.doublemax.net
@@ -216,8 +217,10 @@ cdn.publift.com
 hb.publift.com
 npm.publift.com
 prebid.publift.com
+showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
+advinci.net
 count.advinci.net
 www.advinci.net
 ads.adservme.com
@@ -261,17 +264,13 @@ mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
@@ -378,15 +377,12 @@ rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
-cdn.imhd.io
-imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
@@ -515,8 +511,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-cdn.myad.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
@@ -550,6 +544,7 @@ ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
+adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -563,7 +558,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -579,6 +573,7 @@ nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
+tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
@@ -599,7 +594,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
-2524june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
@@ -636,6 +630,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adimages.been.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -667,9 +662,9 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
+adsmart.net
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -677,10 +672,10 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 adxpose.com
 adxvalue.com
+adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -706,10 +701,10 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
-ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
+ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -874,7 +869,6 @@ burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
-buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
@@ -968,7 +962,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1093,7 +1086,6 @@ eringosdye.com
 erosyndc.com
 errantstetrole.com
 eryondistain.com
-escortlarbul.com
 euros4click.de
 evenimbauba.cfd
 ewpucbact.com
@@ -1140,7 +1132,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1469,7 +1460,6 @@ leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
-libedgolart.com
 lidosquey.shop
 lifpv.com
 liftdna.com
@@ -1529,7 +1519,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1579,7 +1568,6 @@ murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
-mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
@@ -1642,7 +1630,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1725,10 +1712,10 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
-parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
@@ -1855,6 +1842,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
@@ -1889,7 +1877,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
@@ -1900,7 +1887,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2022,7 +2008,6 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2057,6 +2042,7 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
+synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
@@ -2192,7 +2178,6 @@ vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
-vkeadqoff.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2267,7 +2252,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
