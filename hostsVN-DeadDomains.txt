@@ -86,12 +86,10 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
-static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -142,7 +140,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
-aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
@@ -179,7 +176,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -207,6 +203,7 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
+eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -429,7 +426,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-www.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -567,7 +563,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -786,7 +781,6 @@ axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
-b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -823,7 +817,6 @@ becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
 beefoaloode.net
-belia-glp.com
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -834,7 +827,6 @@ berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
-besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -864,7 +856,7 @@ breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
-bricius-ing.com
+broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -920,8 +912,6 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
-chokedsmelt.com
-chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -1167,8 +1157,8 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
+fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1267,7 +1257,6 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1321,7 +1310,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1501,7 +1489,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1594,6 +1581,7 @@ nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
+ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
@@ -1689,7 +1677,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 orhavpfavxu.com
 orige-duo.com
-ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1742,7 +1729,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1843,7 +1829,6 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
-qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1892,6 +1877,7 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
+repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
@@ -1902,14 +1888,13 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
-ringerbaseballsilk.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rkksbrkwdqbop.com
-rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
@@ -1920,7 +1905,6 @@ roashudiweeh.com
 robitoaceeb.net
 rockabox.co
 rodejessie.com
-romauntmirker.com
 romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
@@ -2007,7 +1991,6 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
-softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2097,7 +2080,6 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
-tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
@@ -2130,6 +2112,7 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
+tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2267,13 +2250,13 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2350,6 +2333,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
@@ -2365,6 +2349,7 @@ moatpixel.com
 play.leadzutw.com
 q2melbourne.com
 richmetrics.com
+saspreview.com
 showbiz.owndata.network
 snnd.co
 tdf.ringier.ch
