@@ -91,7 +91,6 @@ marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
-static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -158,7 +157,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -184,7 +182,6 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-st.adxxx.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -395,13 +392,14 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -445,10 +443,6 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-click.m.ambientplatform.vn
-delivery.m.ambientplatform.vn
-media.ambientplatform.vn
-metrics.m.ambientplatform.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -476,11 +470,9 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-xmadsapi.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.chetaomaysaigon.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -511,7 +503,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-adm.phunusuckhoe.vn
 ads.autonet.com.vn
 ads.ictnews.vn
 ads.inetgroup.vn
@@ -526,6 +517,8 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
+iads.vision
+imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
@@ -537,11 +530,9 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-digi.vinut.com.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
-logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -631,6 +622,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -641,6 +633,7 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
+advisormedia.cz
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -669,6 +662,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
@@ -859,11 +853,11 @@ cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
-cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -929,7 +923,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1085,6 +1078,7 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
+febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
@@ -1163,6 +1157,7 @@ gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
+glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
@@ -1240,6 +1235,7 @@ hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
+hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
@@ -1298,6 +1294,7 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1310,6 +1307,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1326,7 +1324,6 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
-jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -1470,6 +1467,7 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
+m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1549,6 +1547,7 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
+netagent.cz
 netcommunities.com
 netflame.cc
 news-central.org
@@ -2002,7 +2001,6 @@ sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
-surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
@@ -2079,6 +2077,7 @@ tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -2176,7 +2175,6 @@ wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
-wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
@@ -2206,7 +2204,6 @@ witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
-wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2277,8 +2274,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
-yseyxucrhjfi.com
-ytimm.com
 ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
