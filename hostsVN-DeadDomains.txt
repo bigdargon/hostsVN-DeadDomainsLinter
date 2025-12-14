@@ -170,6 +170,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
+bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -190,7 +191,6 @@ ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
-gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
@@ -241,6 +241,7 @@ srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
+mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
@@ -432,6 +433,7 @@ aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
+srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
@@ -511,6 +513,7 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
 adv.vnnshop.vn
+adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 bidgear-syndication.com
@@ -640,7 +643,6 @@ adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -748,6 +750,7 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
+bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
@@ -771,6 +774,7 @@ beakerweedjazz.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
+bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
@@ -849,6 +853,7 @@ carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
+cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
@@ -954,6 +959,7 @@ defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
+deligrassdull.com
 deliriamorula.shop
 deloplen.com
 demo123.info
@@ -1159,6 +1165,10 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
+gpfvumsxtbf.com
+gpmznplrczobob.com
+gpttuucg.com
+gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
@@ -1407,6 +1417,7 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
+lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1459,11 +1470,11 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
-maljuggu.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1544,6 +1555,7 @@ nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
+nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
@@ -1634,7 +1646,6 @@ ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
-ouftukoo.net
 ourithauphexaus.com
 outabsola.com
 outflednailbin.com
@@ -1895,7 +1906,6 @@ seaboblit.com
 seataverna.rest
 secondquaver.com
 seeablywitness.com
-seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
@@ -2001,7 +2011,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
-targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2013,6 +2022,7 @@ techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
+thads.cc
 that-muscle.com
 thebrighttag.com
 thedevband.com
@@ -2065,7 +2075,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2135,6 +2144,7 @@ vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
+voopsookie.net
 voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
