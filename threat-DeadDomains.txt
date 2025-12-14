@@ -73,7 +73,6 @@ acb.chamsocthe-uudaikhachhang-tructuyen.com
 acb.chamsocthe-uudaikhachhang.online
 acb.chamsocthe-uudaitructuyen.com.vn
 acb.chamsocthekhachhang-tructuyen-thang8.com.vn
-acb.hotrokhachhang-uudai-tructuyen.com.vn
 acb.uudaikhachhang-chamsocthetructuyen.com
 acb.uudaikhachhang-tructuyen-the.com.vn
 acb.uudaikhachhangthe-tructuyen-thang9.com.vn
@@ -285,6 +284,8 @@ chamsocthe-uudai-tructuyen-thang10.com.vn
 chamsocthe-uudaikhachhang-thang10.com.vn
 chamsocthe-uudaikhachhang-tructuyen.com
 chamsocthe-uudaikhachhang.com
+chamsocthe-uudaikhachhang.online
+chamsocthe-uudaitructuyen.com.vn
 chamsocthekhachang-truc-tuyen.com
 chamsocthekhachhang-thang4.com.vn
 chamsocthekhachhang-thang4.online
@@ -354,6 +355,7 @@ com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
+com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -544,7 +546,6 @@ dv-nang-cap-vpbank.com
 dvdienmayxanh.com
 dvfbnhan.com
 e-bankingshopee.vn
-e-sacombank.com
 easyloan-money-th.com
 easywbdesign.com
 easywebmanager.nl
@@ -852,6 +853,7 @@ hdbankfinance.website
 hdbankfinance.win
 hdbankfinance.world
 hdbankfinance.xyz
+hdbanks.com
 hdcreditvnn.com
 hdfn.online
 hdsaison-app.cc
@@ -1736,11 +1738,11 @@ nhungmiu.me
 nicevipshop.info
 niftygatevay.com
 niftygotevay.com
+nikdaoquan.vn
 nikestorevn.com
 nkstherefor.cfd
 notbeexcluded.cfd
 nouespaipenedes.com
-nova-ebill.xyz
 nqsncoau.buzz
 nsomomo.com
 nuk36952s.com
@@ -2055,7 +2057,6 @@ shinhan0.com
 shinhanapp.org
 shinhanbank-khcn.com
 shinhanbank-tindunghanoi.online
-shinhanbank.chamsockhachang-the.com
 shinhanbank.info.vn
 shinhanbank.tanghanmucthang11.com.vn
 shinhanbank.vnfiba.com
@@ -2490,7 +2491,6 @@ sso-garena.vn
 sso-hotro-taikhoan.com
 standardresourcebank.com
 starbucksthai.shop
-stbuyshopoui.com
 stcard-vib.com
 storebinzdapoet.shop
 storehaiyen.com
@@ -2651,6 +2651,7 @@ telegram.app0w.ltd
 teleway.top
 tescoshop.shop
 tet-lienquangarenavn.com
+tet2023.shop
 tetlienquan.com
 tetlienquan2023.website
 tetquatang.vn
@@ -3104,6 +3105,8 @@ vaynong123.online
 vayonline365.biz
 vayonlinesacombank.com
 vayqualuong.com
+vayqualuongshinhan.com
+vayshinhan.top
 vayshinhanbanks.com
 vaysieutoc.info
 vaysieuttoc.com
@@ -3584,6 +3587,8 @@ vnsehotro.com
 vnsendo.info
 vnsendo.net
 vnsendo.shop
+vnsendo.vip
+vnsendotv.vip
 vnshop00.com
 vnshop11.com
 vnshop111.com
