@@ -100,10 +100,13 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
+analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
+rtb.kau.li
+s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
@@ -201,7 +204,6 @@ gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
-bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
@@ -429,7 +431,6 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
-aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -645,6 +646,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -685,6 +687,7 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -748,14 +751,12 @@ avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
-avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
-axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
@@ -830,6 +831,7 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
+breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -1274,7 +1276,6 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1586,6 +1587,7 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
+nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1782,6 +1784,7 @@ psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
+ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1853,9 +1856,11 @@ realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
+redmas.com
 reecegrita.com
 refraintupaiid.com
 regardviolas.shop
+regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
@@ -2022,7 +2027,6 @@ supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
-svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2065,10 +2069,13 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
+tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
+toathoule.com
+toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2206,7 +2213,6 @@ whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
-whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2262,7 +2268,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
