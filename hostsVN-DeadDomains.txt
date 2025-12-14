@@ -110,8 +110,6 @@ s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
-go.advergine.com
-spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
@@ -179,7 +177,6 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -193,7 +190,6 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-st.adxxx.com
 static.adxxx.com
 admarvel.com
 automator.admarvel.com
@@ -310,6 +306,7 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -397,11 +394,11 @@ users.api.jeeng.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
-www.wiztube.xyz
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -444,6 +441,7 @@ ss15.litvp.com
 ss29.litvp.com
 aff-online.com
 aff-track.net
+mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -532,7 +530,6 @@ ads.seovietnam.pro
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
-adx.xemvtv.net
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -625,7 +622,6 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.6789live.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -650,7 +646,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -813,7 +808,6 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -930,6 +924,7 @@ combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
+compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -942,6 +937,7 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
+counting.kmindex.ru
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -1002,6 +998,7 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
+diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
@@ -1022,7 +1019,6 @@ dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
-ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
@@ -1336,6 +1332,7 @@ itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
+ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
@@ -1489,7 +1486,6 @@ luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
-lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
@@ -1534,7 +1530,6 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
-mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1581,7 +1576,6 @@ newsletterinspectallpurpose.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
-niltelreekrofik.net
 nmakilpumvt.com
 nomorepecans.com
 noowhaumurauy.net
@@ -1646,7 +1640,6 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
-ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
@@ -1786,6 +1779,7 @@ prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
+psipausaix.net
 psootchu.net
 ptaixout.net
 ptawehex.net
@@ -1841,8 +1835,6 @@ qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
-qwuopcbilw.com
-qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1878,7 +1870,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1936,7 +1927,6 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
-seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1944,12 +1934,10 @@ septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
 servedbyopenx.com
-setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1983,7 +1971,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
@@ -1991,7 +1978,6 @@ songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
-spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2134,6 +2120,7 @@ upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
+upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
@@ -2291,8 +2278,8 @@ yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonmewon.com
-yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
@@ -2308,11 +2295,12 @@ ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
+zeepmedia.com
 zihcabtkic.com
+zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
