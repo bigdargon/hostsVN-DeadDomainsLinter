@@ -128,6 +128,7 @@ beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
+prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -282,6 +283,7 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
+vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -373,12 +375,14 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
+ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -407,15 +411,13 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
-ads.livetv626.me
 ads.livetv630.me
+ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv655.me
 ads.livetv664.me
-ads.livetv681.me
-ads.livetv686.me
 ads.livetv687.me
-ads.livetv691.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -507,7 +509,6 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
@@ -659,6 +660,7 @@ adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
+adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
@@ -762,6 +764,7 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
+azoaltou.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -771,7 +774,6 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
-bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -846,7 +848,7 @@ btcijivtsvph.com
 btiatfobkjiv.com
 btrll.com
 budvawshes.ru
-burgerbrush.com
+bunceptsclosingh.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -856,8 +858,6 @@ bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
-ca4psell23a4bur.com
-cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -1008,7 +1008,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 dorkingvoust.com
@@ -1250,6 +1249,7 @@ helitagrfid.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
+hewokhn.com
 hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1261,6 +1261,7 @@ hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
+hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
@@ -1292,6 +1293,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1376,7 +1378,6 @@ jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
-kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
@@ -1450,7 +1451,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1529,7 +1529,6 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
-mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1971,7 +1970,6 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
-smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
@@ -1999,7 +1997,6 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
-starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
@@ -2064,8 +2061,6 @@ thootipheguph.com
 thougnoangi.com
 thounookra.com
 thumhuwbtt.com
-thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2089,6 +2084,7 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
 trendcounter.com
+tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -2138,6 +2134,7 @@ uselnk.com
 userreplay.net
 userresewn.com
 ushoofop.com
+usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
@@ -2244,6 +2241,7 @@ wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
+www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
