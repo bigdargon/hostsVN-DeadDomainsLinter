@@ -18,7 +18,6 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
-a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
@@ -27,7 +26,6 @@ d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
-i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
@@ -179,6 +177,7 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+st-n.popclck.org
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -192,6 +191,7 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
+st.adxxx.com
 static.adxxx.com
 admarvel.com
 automator.admarvel.com
@@ -411,13 +411,16 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
+ads.livetv632.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv655.me
 ads.livetv664.me
+ads.livetv686.me
 ads.livetv687.me
+ads.livetv691.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -447,7 +450,6 @@ aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
-srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
@@ -509,6 +511,7 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
+www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
@@ -658,6 +661,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -763,7 +767,6 @@ axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
-aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -774,6 +777,7 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
+bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -849,6 +853,7 @@ btiatfobkjiv.com
 btrll.com
 budvawshes.ru
 bunceptsclosingh.com
+burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -858,6 +863,8 @@ bzwo2lmwioxa.com
 bzydilasq.com
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
+ca4psell23a4bur.com
+cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -946,6 +953,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1008,6 +1016,7 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
+doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 dorkingvoust.com
@@ -1115,6 +1124,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1153,10 +1163,10 @@ ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
-gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1213,14 +1223,13 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gxacvwmzfos.com
-gyfumobo.com
 gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
@@ -1328,6 +1337,7 @@ irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
+itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1378,6 +1388,7 @@ jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
+kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
@@ -1501,6 +1512,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1529,12 +1541,12 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
+mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
-moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mptmaxggqf.com
@@ -1549,7 +1561,6 @@ murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
-mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
@@ -1843,7 +1854,6 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
-raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
@@ -1970,11 +1980,11 @@ slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
+smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
@@ -1997,6 +2007,7 @@ spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
+starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
@@ -2061,6 +2072,8 @@ thootipheguph.com
 thougnoangi.com
 thounookra.com
 thumhuwbtt.com
+thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2174,7 +2187,6 @@ vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
-vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
@@ -2229,7 +2241,6 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
-woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
