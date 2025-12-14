@@ -10,6 +10,7 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
+v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -197,6 +198,7 @@ api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
+global.proper.io
 monitoring.proper.io
 s2s.proper.io
 capi.bidtellect.com
@@ -242,7 +244,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
-zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
@@ -403,9 +404,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
-ads.livetv681.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -528,6 +526,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -628,7 +627,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -666,7 +664,6 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -944,6 +941,7 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1151,6 +1149,7 @@ ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
+gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1174,6 +1173,7 @@ gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
+greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -1222,6 +1222,7 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
+heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1268,10 +1269,8 @@ huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1305,7 +1304,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itop.cz
+itnuzleafan.com
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1605,6 +1604,7 @@ ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
+olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1620,8 +1620,6 @@ onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
-opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1728,6 +1726,7 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1883,7 +1882,6 @@ ruckingefs.com
 rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
-ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
@@ -2007,6 +2005,7 @@ synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
+tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
@@ -2074,7 +2073,6 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
-tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2173,6 +2171,7 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
+webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
