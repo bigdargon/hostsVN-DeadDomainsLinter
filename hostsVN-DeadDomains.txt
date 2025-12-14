@@ -273,7 +273,6 @@ cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
-tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
@@ -322,7 +321,9 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
+cdni.truepush.com
 img.truepush.com
+s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -625,6 +626,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -753,6 +755,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -769,7 +772,6 @@ bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
-bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
@@ -801,7 +803,6 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
-boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -903,7 +904,6 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -1617,7 +1617,6 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
-onmawmojth.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1674,6 +1673,7 @@ ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
+padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
@@ -1708,6 +1708,7 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
+pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1752,7 +1753,6 @@ profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1954,6 +1954,7 @@ soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
 soliads.net
+solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
@@ -2221,7 +2222,6 @@ wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
-www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
