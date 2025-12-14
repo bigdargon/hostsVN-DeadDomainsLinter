@@ -10,7 +10,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 addthisedge.com
 m.addthisedge.com
-v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -184,29 +183,20 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-ads.152media.com
-mob.152media.com
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
-admarvel.com
-automator.admarvel.com
-base-cdn.admarvel.com
-cdn.admarvel.com
-map.admarvel.com
-omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
+bids.proper.io
 eb.proper.io
 events.proper.io
-global.proper.io
 monitoring.proper.io
 s2s.proper.io
 capi.bidtellect.com
@@ -312,7 +302,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -387,7 +376,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-pixel.inforsea.com
 api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
@@ -415,6 +403,9 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
+ads.livetv681.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -431,6 +422,7 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
+aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -439,7 +431,6 @@ aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -497,10 +488,6 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -509,7 +496,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -532,7 +518,6 @@ adv.vnnshop.vn
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -546,7 +531,6 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -612,7 +596,6 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -632,7 +615,6 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.friendfinder.com
 ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
@@ -684,6 +666,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -738,7 +721,6 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
-audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -751,12 +733,14 @@ avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
+avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
+axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
@@ -791,7 +775,6 @@ bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
-beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -957,12 +940,10 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
-d.appsdt.com
 da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
-dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1170,7 +1151,6 @@ ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
-gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1194,7 +1174,6 @@ gralossortoob.net
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
-greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
@@ -1213,7 +1192,6 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
-gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1244,7 +1222,6 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
-heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1276,6 +1253,7 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
+hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1327,7 +1305,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itnuzleafan.com
+itop.cz
 itriyokj.com
 ivdjs.com
 ivhwlnlcgi.com
@@ -1570,7 +1548,6 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
-netshelter.net
 news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
@@ -1602,7 +1579,6 @@ oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
 oarouwousti.com
-oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1629,7 +1605,6 @@ ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
-olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1650,7 +1625,6 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
-optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1754,7 +1728,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1861,7 +1834,6 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1939,7 +1911,6 @@ seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
-servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -2027,6 +1998,7 @@ supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
+svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
@@ -2035,7 +2007,6 @@ synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
-tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
@@ -2202,7 +2173,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
-webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -2213,6 +2183,7 @@ whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
+whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2268,6 +2239,7 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
