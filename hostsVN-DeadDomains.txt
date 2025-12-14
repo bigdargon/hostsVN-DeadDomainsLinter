@@ -158,6 +158,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -183,7 +184,6 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-st.adxxx.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -205,6 +205,7 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
+rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -384,6 +385,9 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+cryptox-ads.io
+mat.cryptox-ads.io
+pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -410,7 +414,6 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
-aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -444,7 +447,6 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
-text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -582,7 +584,6 @@ ad-spb.ru
 ad.abctv.com
 ad.foxnetworks.com
 ad.kissasian.es
-ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -608,6 +609,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
+ads.jewishfriendfinder.com
 ads.outpersonals.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -617,7 +619,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -641,6 +642,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -709,7 +711,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audraghafamign.net
-aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -775,7 +776,6 @@ benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
-beseechpill.com
 beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
@@ -784,7 +784,6 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
-bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
@@ -1144,6 +1143,7 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
+glaingotseemt.net
 gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
@@ -1263,6 +1263,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1371,6 +1372,7 @@ kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
+klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1479,7 +1481,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1512,7 +1513,6 @@ mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
-mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1717,6 +1717,8 @@ pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
+pofohensoahee.net
+poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1934,6 +1936,7 @@ slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
+smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
@@ -1954,7 +1957,6 @@ spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
-specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
@@ -2035,6 +2037,7 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
+tnkuetnoabuk.com
 toathoule.com
 toawaups.net
 toenailannouncehardworking.com
@@ -2104,6 +2107,7 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
+uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -2123,7 +2127,6 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
-vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
@@ -2145,6 +2148,8 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
+vugpakba.com
+vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
@@ -2188,6 +2193,7 @@ wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
+woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
@@ -2216,7 +2222,6 @@ xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
@@ -2286,6 +2291,8 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
+ilogs.bytefence.com
+img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
