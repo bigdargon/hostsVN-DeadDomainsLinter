@@ -1,6 +1,10 @@
 googleads-cn.com
 blueserving.com
 ads.mobclix.com
+vserv.mobi
+admin.vserv.mobi
+c.vserv.mobi
+ads.vserv.mobi
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -71,6 +75,10 @@ us.lkqd.net
 v.lkqd.net
 api.parrable.com
 h.parrable.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
@@ -83,12 +91,18 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
@@ -179,6 +193,8 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+invitemedia.com
+www.invitemedia.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -201,6 +217,10 @@ events.proper.io
 global.proper.io
 monitoring.proper.io
 s2s.proper.io
+kitchen.consumable.com
+landing.consumable.com
+vid.consumable.com
+welcome.consumable.com
 capi.bidtellect.com
 advinci.net
 count.advinci.net
@@ -290,6 +310,7 @@ www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
+pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -473,6 +494,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
+flygame.io
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
@@ -508,8 +530,8 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ad.phunuxuavanay.vn
 ads.autonet.com.vn
+ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
@@ -536,6 +558,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.mekongasean.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
 stats.osd.vn
@@ -620,6 +643,7 @@ ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.outpersonals.com
+ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -668,9 +692,7 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
-ak.litaudrootsa.net
 ak.oneegrou.net
-ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alkalizemarineprude.com
@@ -1027,7 +1049,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
-ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -1193,6 +1214,7 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -1200,7 +1222,6 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
-gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1214,6 +1235,7 @@ hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
+hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
@@ -1245,6 +1267,7 @@ hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
+hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
@@ -1557,7 +1580,6 @@ niltelreekrofik.net
 nmakilpumvt.com
 nomorepecans.com
 noowhaumurauy.net
-notifyerr.com
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1595,7 +1617,6 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
-ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1720,7 +1741,6 @@ planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
-plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
@@ -1734,6 +1754,7 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
+pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1819,6 +1840,7 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1872,7 +1894,6 @@ rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
-rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
@@ -2106,6 +2127,7 @@ upr90.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
+urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
@@ -2182,7 +2204,6 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
-whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
@@ -2205,7 +2226,6 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2256,6 +2276,7 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
+yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
@@ -2309,6 +2330,7 @@ logs.bytefence.com
 metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
+poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
