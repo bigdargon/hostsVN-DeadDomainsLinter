@@ -91,6 +91,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -134,7 +135,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -275,6 +275,7 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
+tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -308,13 +309,13 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
+delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
@@ -332,7 +333,6 @@ www.showcasethat.com
 xml.showcasethat.com
 asdpoi.com
 widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -426,6 +426,7 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
@@ -649,6 +650,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -778,7 +780,6 @@ banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
-banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -1116,6 +1117,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1336,10 +1338,8 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
-jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1503,6 +1503,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1587,6 +1588,7 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
+nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1744,7 +1746,6 @@ planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
-pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -2080,6 +2081,7 @@ tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
+toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2140,7 +2142,6 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
-uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
