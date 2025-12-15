@@ -91,7 +91,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -126,6 +125,7 @@ y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
+spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
@@ -229,6 +229,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -274,7 +275,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -315,7 +315,6 @@ service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
-delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
@@ -427,7 +426,6 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
@@ -526,6 +524,7 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
+service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
@@ -595,6 +594,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 62ad.com
 aabtrrnspgtdi.com
 abbalgapb.com
+abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
@@ -646,11 +646,9 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -779,7 +777,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.goldenpalace.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -1078,6 +1075,7 @@ evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
+exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
@@ -1403,6 +1401,8 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
+kjqsnxibegvue.com
+kkoobzmirh.com
 klkchits.com
 klumn.com
 knlqdtcbi.com
@@ -1460,6 +1460,7 @@ lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
+lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
@@ -1502,7 +1503,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1587,7 +1587,6 @@ npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
-nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1680,6 +1679,7 @@ outwoodeuropa.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
+ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -2085,6 +2085,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
+traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
