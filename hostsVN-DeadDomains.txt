@@ -218,9 +218,7 @@ go.exrtbsrv.com
 syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
-geo.choice.faktor.io
 intranet.faktor.io
-logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
 lalaping.com
@@ -365,11 +363,15 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
+api.jeeng.com
+sdk.jeeng.com
+telemetries.jeeng.com
 users.api.jeeng.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -386,6 +388,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -597,13 +600,13 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
-adtology.com
 adtoma.com
 adtriplex.com
 advariant.com
@@ -623,6 +626,8 @@ agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
+ahqatjakvac.com
+ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
@@ -635,6 +640,7 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
@@ -706,7 +712,6 @@ awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
-axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
@@ -1121,7 +1126,6 @@ ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
-gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1243,7 +1247,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1368,6 +1371,7 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
+kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1409,7 +1413,9 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
+locketcattishson.com
 loftsbaacad.com
+lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
@@ -1427,7 +1433,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1589,6 +1594,7 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
+onmawmojth.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1615,7 +1621,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1659,7 +1664,6 @@ patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
-pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
@@ -1752,11 +1756,10 @@ pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
-pvnocbyq.com
-pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
+qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
@@ -1928,6 +1931,7 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
+softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2109,6 +2113,7 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+viiadr.com
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
@@ -2124,6 +2129,7 @@ volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
+vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
@@ -2259,6 +2265,7 @@ zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
+zipazvzu.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
