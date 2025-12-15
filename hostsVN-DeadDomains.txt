@@ -154,8 +154,6 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -256,7 +254,6 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -268,7 +265,6 @@ sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -477,6 +473,7 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -600,7 +597,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1581,7 +1577,6 @@ ojhtpopwofm.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
-olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
@@ -1623,7 +1618,6 @@ othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
-ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1777,6 +1771,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
+qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
@@ -1852,7 +1847,6 @@ roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
-rsalcau.com
 rtbpop.com
 rtbpopd.com
 rtcheajfn.com
@@ -1906,7 +1900,6 @@ shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
-shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
@@ -2149,7 +2142,6 @@ wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
-wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
@@ -2201,6 +2193,7 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
+xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
@@ -2222,6 +2215,7 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
+yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
