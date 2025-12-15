@@ -8,12 +8,12 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
+client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -162,7 +162,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
@@ -178,6 +177,7 @@ gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
+bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
@@ -370,6 +370,7 @@ users.api.jeeng.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
+connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -390,7 +391,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -495,6 +495,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -587,6 +588,7 @@ ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.outpersonals.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -776,7 +778,6 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -911,7 +912,6 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
-dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1035,7 +1035,6 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
-fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
@@ -1367,6 +1366,7 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
+kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1603,6 +1603,7 @@ oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
 orbsclawand.com
+orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
@@ -1743,7 +1744,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
-purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1768,7 +1768,6 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
-qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qs251.com
@@ -1790,6 +1789,7 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
+raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1866,7 +1866,6 @@ sacmeetekremsog.com
 saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
-sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
@@ -2213,7 +2212,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
@@ -2237,7 +2235,6 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
-yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
