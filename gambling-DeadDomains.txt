@@ -25,7 +25,6 @@
 002365i.com
 0024n.com
 0027n.com
-0027s.com
 0028n.com
 0030n.com
 0031004.com
@@ -40,6 +39,7 @@
 00443044.com
 0044789.com
 0045n.com
+0047n.com
 0048n.com
 0048v.com
 0049v.com
@@ -424,7 +424,10 @@
 046390.com
 0464073.com
 0465n.com
+<<<<<<< Updated upstream
 0465r.com
+=======
+>>>>>>> Stashed changes
 0466p.com
 04712k.com
 04712p.com
@@ -1141,6 +1144,7 @@
 116478.com
 1164j.com
 1164yb.com
+1165553.com
 1166130.com
 11666524.com
 116686.app
@@ -1428,12 +1432,9 @@
 127hgv.com
 127tycvip.com
 128145.com
-128166.com
-128167.com
 1281n.com
 1281t.com
 128222.net
-128252.com
 12828.vip
 1282n.com
 1282t.com
@@ -2727,21 +2728,22 @@
 1xbet-vhod1.top
 1xbet-web.com
 1xbet.in
+<<<<<<< Updated upstream
 1xbet12.com
 1xbet13.com
 1xbet14.com
 1xbet15.com
+=======
+>>>>>>> Stashed changes
 1xbet26.com
 1xbet27.com
 1xbet299064.top
-1xbet3.com
 1xbet32.com
 1xbet34.com
 1xbet35.com
 1xbet36.com
 1xbet37.com
 1xbet38.com
-1xbet4.com
 1xbet40.com
 1xbet41.com
 1xbet42.com
@@ -2752,7 +2754,6 @@
 1xbet48.com
 1xbet49.com
 1xbet50.com
-1xbet6.com
 1xbet688.mobi
 1xbet73.com
 1xbet788.mobi
@@ -2788,7 +2789,6 @@
 1xslotmobi6.xyz
 1xslotred11039.top
 1xslotred54194.top
-1xsp0rt.com
 1xsukan.com
 1xsultan.com
 1xsultanah.com
@@ -3932,7 +3932,6 @@
 261yd.com
 2621h.com
 2621t.com
-262267.com
 2622j.com
 2622n.com
 2622t.com
@@ -4201,6 +4200,7 @@
 27588v.com
 2758t.com
 275922.com
+275991.com
 275993.com
 2759t.com
 275yb.com
@@ -5160,6 +5160,7 @@
 33789vip.com
 337fun.com
 337vn.com
+3380n.com
 3381n.com
 3381w.com
 338357.com
@@ -5398,6 +5399,7 @@
 3521n.com
 3521t.com
 35227.wang
+352280.com
 35252.wang
 352577.com
 3526t.com
@@ -6612,6 +6614,7 @@
 3js44.net
 3js56.net
 3js58.net
+3js6.net
 3js66v.com
 3kingvn01.com
 3m.viewsta.net
@@ -7694,6 +7697,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858e.com
 4858ee.com
 4858i.com
@@ -7710,6 +7714,19 @@
 4858s.com
 4858sss.com
 4858u.com
+=======
+4858g.com
+4858gg.com
+4858jj.com
+4858jjj.com
+4858kkk.com
+4858l.com
+4858lll.com
+4858m.com
+4858qqq.com
+4858v.com
+4858w.com
+>>>>>>> Stashed changes
 4862x.com
 4864t.com
 4866s.com
@@ -8114,7 +8131,6 @@
 5199s.com
 51access.net
 51bet999.bet
-51xbet.com
 5202x.com
 52045.org
 52074.biz
@@ -11496,6 +11512,7 @@
 72671166.com
 72671188.com
 72671199.com
+72672222.com
 72672233.com
 72672266.com
 72673355.com
@@ -15307,6 +15324,7 @@
 9176j.com
 9176n.com
 9177.org
+917789.com
 9177yabo.com
 9178v.com
 9178x.com
@@ -16295,7 +16313,6 @@
 99958u.com
 99958y.com
 99958z.com
-999659.com
 999781999.com
 9998.biz
 99981.org
@@ -16497,7 +16514,6 @@ ad.gem88.win
 ad.giaitriwin79.club
 ad.go88ads.top
 ad.hitgame.in
-ad.mibet.com
 ad.pagedebet.org
 ad.qc789.vip
 ad.taigamengay.digital
@@ -16525,8 +16541,6 @@ aekkawit12.vip
 aesv388.com
 aewin88.com
 af0621.com
-aff-register.smart-complex.live
-aff.188bet.com
 aff.188f1play.com
 aff.bk8vietnam.com
 aff.c86118423.com
@@ -17669,7 +17683,15 @@ bet-86.bet
 bet-86.net
 bet-andyou.com
 bet-bet365.com
+<<<<<<< Updated upstream
 bet09.bet
+=======
+bet01.bet
+bet05.bet
+bet06.bet
+bet07.bet
+bet08.bet
+>>>>>>> Stashed changes
 bet1x-th.com
 bet1x-thai.com
 bet1x-thailand.com
@@ -18472,6 +18494,7 @@ cdntoos.cname88vn.com
 cdntoos.hcm6600.com
 cdntoos.hcm662.com
 ce358.ku16.net
+ceedendai.com
 cermat4d.live
 cf68.fun
 cf68.in
@@ -18567,7 +18590,6 @@ ckjili01.com
 ckjili07.com
 ckjili08.com
 ckw204.com
-click.mibet.com
 clothmap.co
 cls51.com
 club1187fun.com
@@ -18710,6 +18732,7 @@ cxcp01.com
 cxzksk3366.com
 cy479.com
 cy803.com
+cy88.org
 cy91.com
 cyber.bet
 cyh2222.com
@@ -20741,6 +20764,10 @@ haha686.com
 haha687.com
 haha833.com
 haha836.com
+haha977.com
+haha978.com
+haha979.com
+haha983.com
 haha997.com
 hahabet131.com
 haidang1102.vip
@@ -21561,6 +21588,7 @@ jinsha-app-002.com
 jiraras.vip
 jisutiyu1.com
 jj4766.com
+jj644.com
 jjfungame.com
 jji87v.ink
 jjj8222.com
@@ -22714,7 +22742,6 @@ m88abc.com
 m88fire.com
 m88idcs.com
 m88idv1.com
-m88link.net
 m88lis.com
 m88rd.com
 m88tip.com
@@ -23129,6 +23156,7 @@ n188xj.com
 n1p7j3.ink
 n2178.com
 n2378.com
+n26.live
 n2781.com
 n2783.com
 n2785.com
@@ -25116,6 +25144,7 @@ static.12bet.uk
 static.8live.com
 static.hi88.de
 storenosap.com
+su66.org
 subo6.com
 sudaporn.vip
 sujittrayodying.vip
@@ -25126,7 +25155,6 @@ sumclub1.live
 sumclub1.xyz
 sumvip88.pro
 sumvipclub.pro
-sun.win
 sun20.blog
 sun52.bid
 sun52.link
@@ -25630,7 +25658,6 @@ tonglejiazu.com
 tonglemanhua.com
 tonmway.com
 tonpichai2539.vip
-tool.mibet.com
 top88a.vip
 top88vn.club
 top88vn.net
@@ -26018,6 +26045,10 @@ v0035.com
 v0383.com
 v0486.com
 v0521.com
+<<<<<<< Updated upstream
+=======
+v0630.com
+>>>>>>> Stashed changes
 v1287.com
 v188xj.com
 v1qp.net
@@ -26810,8 +26841,11 @@ wllhoutai.com
 wlwqfq.xyz
 wns1231.com
 wns1616.com
+<<<<<<< Updated upstream
 wns666b.com
 wns666f.com
+=======
+>>>>>>> Stashed changes
 wns666j.com
 wns7038.com
 wnsqt7722.com
@@ -28619,10 +28653,7 @@ zfgj999.club
 zfhg3s9f6d7hd8bs8.com
 zfkj78hd65jnsk9jd68.com
 zfpaws.com
-zg160.com
 zg616.com
-zg890.com
-zg953.com
 zgzcw3.com
 zhichengyq.net
 zhongboyulecheng.com
