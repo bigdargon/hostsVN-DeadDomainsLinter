@@ -128,14 +128,14 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
+spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
+panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
@@ -341,7 +341,6 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -458,16 +457,12 @@ srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
-cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
-dt.polyad.net
-go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
 st.core.polyad.net
-st.html.polyad.net
 st.polyad.net
 adv.klick.vn
 demo.klick.vn
@@ -593,7 +588,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
-62ad.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
@@ -602,7 +596,6 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
-abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -697,6 +690,7 @@ ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -841,7 +835,6 @@ breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
-broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
@@ -919,8 +912,6 @@ coacoalaum.com
 coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
-coawujobups.com
-cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
@@ -963,7 +954,6 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
-da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -1015,8 +1005,6 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
-dorkingvoust.com
-doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
@@ -1496,7 +1484,6 @@ lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
 madriyelowd.com
 madserve.org
 mafrarc3e9h.com
@@ -1729,6 +1716,7 @@ pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
+phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1748,7 +1736,6 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1907,7 +1894,6 @@ roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
-rsalcau.com
 rtbpop.com
 rtbpopd.com
 rtcheajfn.com
@@ -1980,6 +1966,7 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
@@ -2070,7 +2057,6 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2192,8 +2178,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
-vugpakba.com
-vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
