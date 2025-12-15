@@ -5,7 +5,6 @@ vserv.mobi
 admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
-swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -365,6 +364,8 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
+ongastlya.com
+admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
@@ -394,8 +395,6 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 api.jeeng.com
@@ -502,6 +501,7 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -551,6 +551,7 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -649,7 +650,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -802,6 +802,7 @@ bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
@@ -833,7 +834,6 @@ boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
-brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
@@ -860,11 +860,9 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
-canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -874,6 +872,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1083,8 +1082,6 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
-exxohwvxupjv.com
-eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
@@ -1135,7 +1132,6 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
-fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
@@ -1242,6 +1238,7 @@ haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
+hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
@@ -1274,6 +1271,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1290,13 +1288,10 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1318,6 +1313,7 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1371,7 +1367,6 @@ jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
-jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1509,8 +1504,6 @@ maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
-mcuyfiwii.com
-medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1533,6 +1526,7 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
+mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1659,7 +1653,6 @@ oqnjfotketk.com
 orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
-orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
 orige-duo.com
@@ -1685,9 +1678,7 @@ ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
 owlqahovgog.com
-owvobdogd.com
 owxqunparw.com
-ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
@@ -1760,7 +1751,6 @@ pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
-pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
@@ -1795,7 +1785,6 @@ ptukasti.com
 ptuxapow.com
 ptygunjk.com
 pub.trads.io
-publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
@@ -2059,6 +2048,7 @@ theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
+thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thougnoangi.com
@@ -2129,7 +2119,6 @@ unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
-uphegroaglah.com
 upr90.com
 upset-project.com
 upspinarakor.com
@@ -2184,7 +2173,6 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
-vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
