@@ -56,7 +56,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -247,7 +246,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-go.exrtbsrv.com
 syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -328,7 +326,6 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
-push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -358,6 +355,7 @@ www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
+ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
@@ -426,10 +424,8 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv681.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv701.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -552,6 +548,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -654,7 +651,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -690,7 +686,6 @@ aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
-ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
@@ -733,7 +728,6 @@ arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
-armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
@@ -830,7 +824,6 @@ blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 blueswordksh.com
-bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
 bonertraffic14.pro
@@ -850,11 +843,9 @@ brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
-btiatfobkjiv.com
 btrll.com
 budvawshes.ru
 bunceptsclosingh.com
-burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -898,7 +889,6 @@ chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
-chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
@@ -909,7 +899,6 @@ chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
-cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
@@ -935,6 +924,7 @@ compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
+coniesnitch.com
 connect.scroll.com
 connexity.net
 consciouschairs.com
@@ -1115,7 +1105,6 @@ feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
-fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
@@ -1176,6 +1165,7 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1311,7 +1301,6 @@ idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
 ikengoti.com
-ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
 imageshh.com
@@ -1478,7 +1467,6 @@ louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
-lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
@@ -1556,6 +1544,7 @@ msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
+murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
@@ -1579,7 +1568,6 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 news-central.org
-news-muheji.com
 newsletterinspectallpurpose.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1594,6 +1582,7 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
+nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1615,6 +1604,8 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
+octteqlxtjagek.com
+odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
@@ -1710,7 +1701,6 @@ pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
-pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
 paypopup.com
@@ -1759,7 +1749,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1859,6 +1848,7 @@ rduaagcwsw.com
 readserver.net
 realizeparish.com
 recedechatprotestant.com
+receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
@@ -1919,6 +1909,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
+sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
 salivanmobster.com
@@ -1964,6 +1955,7 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
+skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -2119,6 +2111,7 @@ uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
+undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
