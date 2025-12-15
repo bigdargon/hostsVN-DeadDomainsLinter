@@ -8,6 +8,7 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+addthisedge.com
 m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
@@ -149,7 +150,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
@@ -162,6 +162,7 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
@@ -391,6 +392,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -454,7 +456,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -575,7 +576,6 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
@@ -598,6 +598,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -719,7 +720,6 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
@@ -778,6 +778,7 @@ bn.bfast.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -912,6 +913,7 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1035,6 +1037,7 @@ ezkeidkanjmvya.com
 ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
+fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
@@ -1240,7 +1243,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1306,6 +1308,7 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
+jnrtavp2x66u.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
@@ -1347,7 +1350,6 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1445,6 +1447,7 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
+malware-scan.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1488,7 +1491,6 @@ moonlitturbots.com
 morningamidamaruhal.com
 mptmaxggqf.com
 mpunuxpurs.com
-mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1704,7 +1706,6 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
-poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1744,6 +1745,7 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
+purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1751,7 +1753,6 @@ pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
-pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
@@ -1768,6 +1769,7 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
+qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qs251.com
@@ -1866,6 +1868,7 @@ sacmeetekremsog.com
 saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
+sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
@@ -2068,7 +2071,6 @@ unstoutgolfs.com
 unthem.com
 untrendenam.com
 unylgxxmrsbb.com
-upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
@@ -2212,6 +2214,7 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
@@ -2224,7 +2227,6 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
-yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
 yieldads.com
@@ -2235,6 +2237,7 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
+yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
