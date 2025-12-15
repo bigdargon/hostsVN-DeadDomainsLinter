@@ -46,7 +46,6 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
-ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
@@ -135,6 +134,7 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
+static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -309,6 +309,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
@@ -333,6 +334,7 @@ www.showcasethat.com
 xml.showcasethat.com
 asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -417,7 +419,6 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
-track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -780,6 +781,7 @@ banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
+banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -948,6 +950,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1117,7 +1120,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1136,7 +1138,6 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
-freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1160,6 +1161,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1264,7 +1266,6 @@ hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
-hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
@@ -1320,7 +1321,6 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
-interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
@@ -1338,8 +1338,10 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
+izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
+jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1503,7 +1505,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1660,7 +1661,6 @@ orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
-orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1746,6 +1746,7 @@ planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
+pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1890,7 +1891,6 @@ rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
-rodejessie.com
 romauntmirker.com
 romepoptahul.com
 rooptawu.net
@@ -2142,6 +2142,7 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
+uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
