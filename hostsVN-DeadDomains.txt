@@ -14,7 +14,6 @@ v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
-client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -133,11 +132,7 @@ afe2.specificclick.net
 afe3.specificclick.net
 dlx.specificclick.net
 dp2.specificclick.net
-mpp2.specificclick.net
-rome.specificclick.net
 www.specificclick.net
-cache.specificmedia.com
-cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
@@ -146,8 +141,6 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
-all.dspmulti.com
-dspmulti.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
@@ -197,6 +190,8 @@ events.proper.io
 global.proper.io
 monitoring.proper.io
 s2s.proper.io
+kitchen.consumable.com
+landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
@@ -220,7 +215,6 @@ rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
-static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
@@ -610,6 +604,7 @@ adlite.net
 admedia.network
 adqkkoajnan.com
 adreclaim.com
+adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
@@ -738,8 +733,6 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
-avvavcazs.com
-avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
@@ -936,6 +929,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1238,7 +1232,6 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-hentaicounter.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
@@ -1310,6 +1303,7 @@ innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
+interstitial-07.com
 interstitial-08.com
 intnotif.club
 intrarezsites.com
@@ -1395,7 +1389,6 @@ kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
-knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -1557,7 +1550,6 @@ nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1596,6 +1588,7 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
+oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1724,6 +1717,7 @@ photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
+pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
@@ -1932,6 +1926,7 @@ seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
+setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
@@ -2021,6 +2016,8 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
+synz.liveonce.online
+syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
@@ -2214,6 +2211,7 @@ wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
+wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
