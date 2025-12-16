@@ -1,7 +1,5 @@
 googleads-cn.com
 blueserving.com
-dsp.blueserving.com
-www.popadscdn.net
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
@@ -149,6 +147,8 @@ server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
@@ -213,6 +213,7 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
+syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -267,6 +268,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+play.nbryb.com
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -287,6 +289,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -343,7 +346,6 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
-www.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -389,10 +391,12 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
+ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -415,7 +419,6 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
-engine.adlogists.com
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -426,6 +429,7 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
@@ -457,7 +461,6 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-occi.opencoccoc.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -479,7 +482,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
@@ -566,12 +568,10 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
-ad.simgames.net
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -586,7 +586,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.directionsmag.com
-ads.epomtestsite.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
@@ -601,6 +600,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -611,7 +611,6 @@ adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
-advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -647,7 +646,6 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
-alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -730,7 +728,6 @@ banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
-banner.noblepoker.com
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -818,7 +815,6 @@ caiwheechous.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -873,6 +869,7 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
+coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commodityshortlysurviving.com
@@ -890,7 +887,6 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
-copyrightaccesscontrols.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -945,8 +941,8 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
+despicablereporthusband.com
 destisheem.com
-detachmentoccasionedarena.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1070,7 +1066,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1151,7 +1146,6 @@ grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
-grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
@@ -1190,6 +1184,7 @@ harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
+hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
@@ -1251,7 +1246,6 @@ iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
-ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
@@ -1406,7 +1400,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1459,7 +1452,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1533,6 +1525,7 @@ news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1737,6 +1730,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1810,7 +1804,6 @@ rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
-readymoon.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1825,7 +1818,6 @@ remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
-retintsmillion.com
 rev2pub.com
 revmob.com
 revoketypes.com
@@ -1909,7 +1901,6 @@ shaughixefooz.net
 shelfoka.com
 shestour.net
 shiglangee.net
-shndrktrk.com
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -1997,7 +1988,6 @@ tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -2264,7 +2254,6 @@ ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zantracker.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
