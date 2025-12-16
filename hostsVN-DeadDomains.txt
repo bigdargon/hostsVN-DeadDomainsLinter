@@ -309,8 +309,6 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
-www.adsterra.org
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -519,6 +517,7 @@ ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.seovietnam.pro
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -640,6 +639,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
@@ -865,7 +865,6 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
-cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -945,8 +944,10 @@ culwcoam.com
 curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
+cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
+cyjprljyvgqeg.com
 cynes-gwf.com
 da-ads.com
 dacmaiss.com
@@ -989,6 +990,7 @@ dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
+digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1103,7 +1105,6 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
-finahkcrevuv.com
 findcommerce.com
 fingahvf.top
 firmzecutci.com
@@ -1123,7 +1124,6 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
-freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1145,7 +1145,6 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
-gaiwhouvile.com
 gaizoopi.net
 galaxien.com
 galepush.net
@@ -1438,7 +1437,6 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
-limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1493,6 +1491,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1508,6 +1507,7 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
+mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1631,7 +1631,6 @@ omzostzuswm.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
-onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1655,6 +1654,7 @@ orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
+osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
@@ -1955,7 +1955,6 @@ sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
-slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
@@ -2018,6 +2017,7 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2266,6 +2266,7 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 yb26b.com
+ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
@@ -2276,6 +2277,7 @@ yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
+yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
@@ -2311,6 +2313,7 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
@@ -2333,7 +2336,6 @@ tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
-umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
