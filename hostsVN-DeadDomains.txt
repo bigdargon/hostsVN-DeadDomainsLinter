@@ -37,7 +37,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -80,12 +79,9 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
-origin-marketing.upsight.com
-static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -146,7 +142,9 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
+www.asianmedia.com
 classic.marketolive.com
+infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
@@ -162,7 +160,6 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
-static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -293,6 +290,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -571,7 +569,6 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
-adlure.net
 admedia.network
 adqkkoajnan.com
 adreclaim.com
@@ -603,6 +600,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
@@ -856,6 +854,7 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1013,6 +1012,7 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -1052,6 +1052,7 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
+feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1078,7 +1079,6 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
-fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1104,6 +1104,7 @@ gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
+gaizoopi.net
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1159,6 +1160,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1772,7 +1774,6 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
-qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -2179,6 +2180,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2255,7 +2257,6 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
-zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
@@ -2267,8 +2268,6 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
-zuqalzajno.com
-zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
