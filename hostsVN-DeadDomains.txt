@@ -18,21 +18,6 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
-a.ligatus.com
-analysis.ligatus.com
-analysis1.ligatus.com
-analysis2.ligatus.com
-a-ssl.ligatus.com
-d.ligatus.com
-directads.ligatus.com
-directads2.ligatus.com
-e.ligatus.com
-i.ligatus.com
-ligatus.com
-reporting.ligatus.com
-self-booking.ligatus.com
-ssl.ligatus.com
-www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -97,7 +82,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
-nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
@@ -129,11 +113,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-afe2.specificclick.net
-afe3.specificclick.net
-dlx.specificclick.net
-dp2.specificclick.net
-mpp2.specificclick.net
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -234,13 +213,6 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -269,16 +241,12 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
-img.mondiad.net
-serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-u.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -299,7 +267,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -410,6 +377,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+s.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -422,6 +390,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -530,9 +499,7 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -621,11 +588,9 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
-ads.outpersonals.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -644,7 +609,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -697,6 +661,7 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
+anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -704,7 +669,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-appads.com
 aptojeepsoopool.com
 apxszeaj.com
 apzdfakiso.com
@@ -763,8 +727,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
-banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -815,7 +777,6 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -966,6 +927,7 @@ decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
+deewansturacin.com
 defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
@@ -1105,7 +1067,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1148,6 +1109,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1342,6 +1304,7 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1538,7 +1501,6 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
-munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1665,7 +1627,6 @@ otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
-outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
@@ -1737,6 +1698,7 @@ planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
+plusungratefulinstruction.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
@@ -1868,7 +1830,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1878,7 +1839,6 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
-rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -2094,7 +2054,6 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
-tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
@@ -2161,6 +2120,7 @@ vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
+vivvuvkra.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2201,7 +2161,6 @@ wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
-whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
@@ -2209,6 +2168,7 @@ whowhipi.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
+wijwunrcoo.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
@@ -2234,7 +2194,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2325,7 +2284,6 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
-gotoip55.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
@@ -2338,7 +2296,6 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
