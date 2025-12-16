@@ -39,7 +39,6 @@ certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
-js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
@@ -172,7 +171,6 @@ classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
-partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
@@ -191,6 +189,7 @@ gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
+bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
@@ -262,7 +261,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -271,6 +269,7 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
+img.mondiad.net
 mondiad.net
 serve.mondiad.net
 c.netund.com
@@ -314,6 +313,7 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
+www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -422,7 +422,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -529,10 +528,10 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -557,7 +556,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 1frozenthrone1.com
 1slms.com
 228tuchuang.com
-2433march2024.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
@@ -635,7 +633,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -677,7 +674,6 @@ ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
-ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -836,7 +832,6 @@ btiatfobkjiv.com
 btrll.com
 budvawshes.ru
 bunceptsclosingh.com
-burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -859,10 +854,12 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
+cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1496,7 +1493,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1651,6 +1647,8 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
+orbsclawand.com
+orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
@@ -1696,8 +1694,6 @@ pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
-parentlargevia.com
-particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
@@ -1730,7 +1726,6 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1869,6 +1864,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1910,7 +1906,6 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
@@ -1964,7 +1959,6 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
-smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -1973,13 +1967,11 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -2118,7 +2110,6 @@ unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
-unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -2156,7 +2147,6 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
-viiadr.com
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
@@ -2236,6 +2226,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2294,7 +2285,6 @@ ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
-ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
@@ -2305,7 +2295,6 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
-zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
