@@ -147,7 +147,6 @@ server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
-infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
@@ -184,6 +183,7 @@ api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
+prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
@@ -293,7 +293,6 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -466,6 +465,7 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
@@ -478,6 +478,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
@@ -570,6 +571,7 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
+adlure.net
 admedia.network
 adqkkoajnan.com
 adreclaim.com
@@ -596,11 +598,11 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
@@ -751,7 +753,9 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
+berkshiretoday.xyz
 beseechpill.com
+beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -852,7 +856,6 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
-clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -907,6 +910,7 @@ cyjprljyvgqeg.com
 cynes-gwf.com
 da-ads.com
 dacmaiss.com
+daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
@@ -1009,7 +1013,6 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
-eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -1025,6 +1028,7 @@ exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -1048,7 +1052,6 @@ febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
-feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
@@ -1101,13 +1104,13 @@ gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
-gaizoopi.net
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 gdtgkshmc.com
+geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
@@ -1156,7 +1159,6 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
-gukrelrock.net
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1224,6 +1226,7 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
+hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
@@ -1235,6 +1238,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1374,6 +1378,7 @@ lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1473,6 +1478,7 @@ mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
+mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
@@ -1684,6 +1690,7 @@ pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
+playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
@@ -1885,6 +1892,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1937,6 +1945,7 @@ sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
+ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
@@ -2170,7 +2179,6 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
