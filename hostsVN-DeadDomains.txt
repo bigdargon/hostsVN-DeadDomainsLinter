@@ -80,6 +80,7 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
+zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -125,7 +126,6 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 afe2.specificclick.net
@@ -290,7 +290,6 @@ vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
-rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -319,7 +318,7 @@ www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
-stats.showcasethat.com
+showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
@@ -444,6 +443,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
@@ -485,7 +485,6 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -532,7 +531,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -632,10 +630,10 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -864,7 +862,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -925,7 +922,6 @@ connect.scroll.com
 connexity.net
 consciouschairs.com
 constintptr.com
-constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
@@ -934,7 +930,6 @@ cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
-craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
@@ -1182,6 +1177,7 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
+gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
@@ -1210,6 +1206,7 @@ gukrelrock.net
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
+gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
@@ -1304,6 +1301,7 @@ imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
+inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1495,7 +1493,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -2156,6 +2153,7 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+vikawjobtar.com
 viliaff.com
 vingtunacroter.top
 vipicmou.net
@@ -2234,7 +2232,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2324,8 +2321,8 @@ burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
+go.ad1data.com
 gotoip55.com
-hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
