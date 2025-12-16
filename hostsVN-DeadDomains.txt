@@ -197,8 +197,6 @@ events.proper.io
 global.proper.io
 monitoring.proper.io
 s2s.proper.io
-kitchen.consumable.com
-landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
 capi.bidtellect.com
@@ -309,6 +307,8 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
+www.adsterra.org
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -610,7 +610,6 @@ adlite.net
 admedia.network
 adqkkoajnan.com
 adreclaim.com
-adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
@@ -865,6 +864,7 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
+cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -936,7 +936,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1105,6 +1104,7 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
+finahkcrevuv.com
 findcommerce.com
 fingahvf.top
 firmzecutci.com
@@ -1124,6 +1124,7 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
+freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1145,6 +1146,7 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
+gaiwhouvile.com
 gaizoopi.net
 galaxien.com
 galepush.net
@@ -1236,6 +1238,7 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
+hentaicounter.com
 heraldet.com
 heratheacle.com
 heukpiroot.com
@@ -1282,6 +1285,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1306,7 +1310,6 @@ innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
-interstitial-07.com
 interstitial-08.com
 intnotif.club
 intrarezsites.com
@@ -1437,6 +1440,7 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
+limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1592,7 +1596,6 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oaraiwephoursou.net
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1631,6 +1634,7 @@ omzostzuswm.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
+onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -1720,7 +1724,6 @@ photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
-pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
@@ -1929,7 +1932,6 @@ seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
-setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
@@ -1955,6 +1957,7 @@ sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
+slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
@@ -2018,8 +2021,6 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
-synz.liveonce.online
-syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
@@ -2213,7 +2214,6 @@ wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
-wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
@@ -2336,6 +2336,7 @@ tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
+umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
