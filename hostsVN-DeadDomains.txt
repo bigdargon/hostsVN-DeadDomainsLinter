@@ -1,5 +1,7 @@
 googleads-cn.com
 blueserving.com
+dsp.blueserving.com
+www.popadscdn.net
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
@@ -147,8 +149,6 @@ server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
@@ -196,6 +196,7 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
+rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -212,7 +213,6 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
-syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -287,7 +287,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -344,6 +343,7 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
+www.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -393,7 +393,6 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
-ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -416,6 +415,7 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
+engine.adlogists.com
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -426,7 +426,6 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
@@ -458,6 +457,7 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+occi.opencoccoc.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -479,6 +479,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
@@ -565,6 +566,7 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
+ad.simgames.net
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -584,6 +586,7 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.directionsmag.com
+ads.epomtestsite.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
@@ -727,6 +730,7 @@ banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
+banner.noblepoker.com
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -869,8 +873,8 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
-coinblocktyrusmiram.com
 colonialismmarch.com
+combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
@@ -886,6 +890,7 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
+copyrightaccesscontrols.com
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -940,8 +945,8 @@ dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
-despicablereporthusband.com
 destisheem.com
+detachmentoccasionedarena.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1037,6 +1042,7 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
+fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
@@ -1064,6 +1070,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1183,10 +1190,10 @@ harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
-hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
+hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
@@ -1240,6 +1247,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1398,6 +1406,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1430,6 +1439,7 @@ lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
+lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
@@ -1449,6 +1459,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1522,7 +1533,6 @@ news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
-nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1727,7 +1737,6 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
-psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1801,6 +1810,7 @@ rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
 readserver.net
+readymoon.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1899,6 +1909,7 @@ shaughixefooz.net
 shelfoka.com
 shestour.net
 shiglangee.net
+shndrktrk.com
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -2195,6 +2206,7 @@ wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
+www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -2252,6 +2264,7 @@ ytjnpxiiqsblwb.com
 yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
+zantracker.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
