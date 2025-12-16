@@ -14,6 +14,7 @@ v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
+client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
@@ -132,7 +133,11 @@ afe2.specificclick.net
 afe3.specificclick.net
 dlx.specificclick.net
 dp2.specificclick.net
+mpp2.specificclick.net
+rome.specificclick.net
 www.specificclick.net
+cache.specificmedia.com
+cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
@@ -141,6 +146,8 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
+all.dspmulti.com
+dspmulti.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
@@ -184,7 +191,6 @@ gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
-bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
@@ -215,6 +221,7 @@ rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
+static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
@@ -264,7 +271,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
-img.mondiad.net
 mondiad.net
 serve.mondiad.net
 c.netund.com
@@ -308,7 +314,6 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
-www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -417,6 +422,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -629,6 +635,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -733,6 +740,8 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
+avvavcazs.com
+avvxcexk.com
 awaps.net
 awhauchoa.net
 awvracajcsu.com
@@ -850,7 +859,6 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
-cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -1142,7 +1150,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1389,6 +1396,7 @@ kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
+knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -1550,6 +1558,7 @@ nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1642,8 +1651,6 @@ oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
-orbsclawand.com
-orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhavpfavxu.com
@@ -1903,6 +1910,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
@@ -2148,6 +2156,7 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+viiadr.com
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
