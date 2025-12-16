@@ -82,6 +82,7 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
+nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
@@ -294,8 +295,6 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
-adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -377,7 +376,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-s.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -390,7 +388,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -609,6 +606,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -727,6 +725,8 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
+banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -1030,6 +1030,7 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+exploreannihilationquicker.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -1067,6 +1068,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1243,7 +1245,6 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
-hxpohplms.com
 hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
@@ -1363,11 +1364,7 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
-kudlyhhfccarb.com
-kuglcibhyhuj.com
-kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
@@ -1500,7 +1497,9 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
+mufsresuwoxg.com
 mulautuzign.com
+munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1559,7 +1558,6 @@ oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
-obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
@@ -1627,6 +1625,7 @@ otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
+outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
@@ -1698,7 +1697,6 @@ planesknob.com
 planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
-plusungratefulinstruction.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
@@ -1715,7 +1713,6 @@ poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
-potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
@@ -1823,7 +1820,6 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-rev2pub.com
 revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
@@ -1839,6 +1835,7 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
+rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -2054,6 +2051,7 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
+tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
@@ -2120,7 +2118,6 @@ vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
-vivvuvkra.com
 vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
@@ -2135,6 +2132,7 @@ vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
+vtacibqzopiw.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -2161,14 +2159,13 @@ wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whuwoawain.com
-wibtntmvox.com
 widespace.com
-wijwunrcoo.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
@@ -2179,7 +2176,6 @@ wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
-wiwqhootrf.com
 wizkrdxivl.com
 wmeozwavstre.com
 woamoogloow.net
@@ -2236,7 +2232,6 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
-yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
@@ -2260,6 +2255,7 @@ yu225.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
+zazmunokpvzi.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
