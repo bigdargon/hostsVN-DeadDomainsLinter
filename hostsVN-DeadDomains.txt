@@ -126,6 +126,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 afe2.specificclick.net
@@ -290,6 +291,7 @@ vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
+rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -319,6 +321,7 @@ click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
+stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
@@ -485,6 +488,7 @@ matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
@@ -784,7 +788,6 @@ bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
-beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
@@ -800,7 +803,6 @@ bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
-bhalukecky.com
 bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
@@ -922,6 +924,7 @@ connect.scroll.com
 connexity.net
 consciouschairs.com
 constintptr.com
+constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
@@ -930,6 +933,7 @@ cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
+craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
@@ -1003,7 +1007,6 @@ dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
-drubbersestia.com
 drydrum.com
 dsp.io
 ductathing.com
@@ -1096,7 +1099,6 @@ feegritoapoo.com
 feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
-fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
@@ -1104,6 +1106,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1493,6 +1496,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1834,7 +1838,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -1867,6 +1870,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1998,7 +2002,6 @@ stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
-stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
@@ -2232,6 +2235,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2323,6 +2327,7 @@ comscoreresearch.com
 dolohen.com
 go.ad1data.com
 gotoip55.com
+hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
