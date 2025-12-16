@@ -134,8 +134,6 @@ afe3.specificclick.net
 dlx.specificclick.net
 dp2.specificclick.net
 mpp2.specificclick.net
-rome.specificclick.net
-www.specificclick.net
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -273,7 +271,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
-mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -531,9 +528,11 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -636,7 +635,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -699,7 +697,6 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
-anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -865,7 +862,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -898,7 +894,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-click.kmindex.ru
 clickadin.com
 clicks.mods.de
 clicktracks.com
@@ -971,7 +966,6 @@ decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
-deewansturacin.com
 defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
@@ -1111,14 +1105,17 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
+fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
+fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1151,7 +1148,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1287,6 +1283,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1345,7 +1342,6 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1445,6 +1441,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
@@ -1532,6 +1529,7 @@ mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
+moonlitturbots.com
 morningamidamaruhal.com
 mptmaxggqf.com
 mpunuxpurs.com
@@ -1930,6 +1928,7 @@ seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
+sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
@@ -1954,6 +1953,7 @@ shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
+simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -2052,6 +2052,7 @@ thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
+thootipheguph.com
 thougnoangi.com
 thounookra.com
 thumhuwbtt.com
@@ -2227,6 +2228,7 @@ wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
+woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
@@ -2318,7 +2320,6 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
-bjdxhs.com
 burstly.com
 cankaowang.com
 comscoreresearch.com
