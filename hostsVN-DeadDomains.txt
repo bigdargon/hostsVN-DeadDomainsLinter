@@ -61,6 +61,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -190,6 +191,7 @@ wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
@@ -264,6 +266,7 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -327,6 +330,7 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
+ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
@@ -613,7 +617,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -873,7 +876,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-clickadin.com
 clicks.mods.de
 clicktracks.com
 clkofafcbk.com
@@ -1057,7 +1059,6 @@ ezxevghchjltrm.com
 facebookad.for88vn.com
 faciendtabour.shop
 fafmimgubcm.com
-fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
@@ -1127,11 +1128,11 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
-gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
@@ -1166,7 +1167,6 @@ great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
-greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
@@ -1244,7 +1244,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1478,7 +1477,6 @@ matecatenae.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
-mazbfiladr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
@@ -1684,6 +1682,7 @@ parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
+patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
@@ -1804,7 +1803,6 @@ qp.ezfxpuo.cn
 qruqon.com
 qs251.com
 qtoeofqazggu.com
-qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
@@ -1865,7 +1863,6 @@ rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
-rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
 rockabox.co
@@ -1916,7 +1913,6 @@ sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
-sermonoccupied.com
 servedbyopenx.com
 setypckq.com
 sf960.com
@@ -2191,6 +2187,7 @@ whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
+whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2239,6 +2236,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2297,9 +2295,12 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
+burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
@@ -2309,7 +2310,6 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
