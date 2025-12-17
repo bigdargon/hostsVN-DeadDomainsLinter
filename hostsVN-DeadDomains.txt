@@ -37,6 +37,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -79,9 +80,12 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
+origin-marketing.upsight.com
+static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
@@ -142,7 +146,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-www.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -160,6 +163,7 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
+static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -432,7 +436,6 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
-adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -444,7 +447,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -455,6 +457,8 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+beauty.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -595,7 +599,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -896,7 +899,6 @@ crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
-crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
@@ -1079,6 +1081,7 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
+fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1087,13 +1090,11 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
-fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
-fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
@@ -1161,6 +1162,7 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1264,6 +1266,7 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
+internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1519,10 +1522,7 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
-news-central.org
 news-muheji.com
-newsletterinspectallpurpose.com
-newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
@@ -1558,7 +1558,6 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
-octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1684,10 +1683,7 @@ pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
-pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
-pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1774,6 +1770,7 @@ qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
+qruqon.com
 qs251.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
@@ -2053,7 +2050,6 @@ tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
-tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
@@ -2257,6 +2253,7 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
@@ -2268,6 +2265,8 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
+zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
