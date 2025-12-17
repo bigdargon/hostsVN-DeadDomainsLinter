@@ -113,7 +113,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
@@ -249,7 +248,6 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
-vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -338,6 +336,7 @@ livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
+imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
@@ -366,6 +365,7 @@ taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
+fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
@@ -487,6 +487,7 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
+adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -573,7 +574,6 @@ adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
-admedia.network
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -637,6 +637,7 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
+ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -656,6 +657,7 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
+amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
@@ -814,7 +816,6 @@ ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -880,7 +881,6 @@ compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
-coniesnitch.com
 connect.scroll.com
 connexity.net
 consciouschairs.com
@@ -950,6 +950,7 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
+diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
@@ -1023,6 +1024,7 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
+evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -1109,7 +1111,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1246,7 +1247,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1424,6 +1424,7 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1445,7 +1446,6 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1482,7 +1482,6 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1525,7 +1524,6 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
-news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
@@ -1663,7 +1661,6 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
-pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
@@ -1777,6 +1774,7 @@ qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlfqkjluvz.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -1803,6 +1801,7 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
