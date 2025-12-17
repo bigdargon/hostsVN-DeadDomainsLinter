@@ -72,7 +72,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -126,9 +125,6 @@ prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-apilw.epom.com
-cdn.epom.com
-directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -161,6 +157,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -213,10 +210,6 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-adrevenueindex.optad360.com
-api.optad360.com
-apipublisher.optad360.com
-publisher.optad360.com
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -249,6 +242,7 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -344,7 +338,6 @@ livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
-imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
@@ -373,7 +366,6 @@ taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
-fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
@@ -384,7 +376,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -418,9 +409,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -436,6 +424,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -498,7 +487,6 @@ ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
-adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -521,7 +509,6 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.mekongasean.vn
 log.tinnhac.com
-log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -596,7 +583,6 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
-ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -670,7 +656,6 @@ alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
-amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
@@ -827,7 +812,6 @@ c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cads.scalemonk.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -863,6 +847,8 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
+chokedsmelt.com
+chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -873,7 +859,6 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
-clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -965,7 +950,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
-diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
@@ -1039,7 +1023,6 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
-evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -1126,7 +1109,9 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
+gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -1285,7 +1270,6 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
-internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1312,7 +1296,6 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
-jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -1379,6 +1362,7 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1476,7 +1460,6 @@ maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
-mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
@@ -1564,6 +1547,7 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
+nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
@@ -1620,6 +1604,7 @@ onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
@@ -1659,6 +1644,7 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
+ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
@@ -1681,7 +1667,6 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
-paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1818,7 +1803,6 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
-rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1899,6 +1883,7 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
+scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
@@ -2297,7 +2282,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.scalemonk.com
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
@@ -2308,18 +2292,14 @@ hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
-metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
-poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
-umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
