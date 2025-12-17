@@ -3,6 +3,7 @@ blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -84,7 +85,6 @@ nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
-upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
@@ -121,6 +121,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -248,6 +249,7 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
+exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -304,7 +306,6 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -380,6 +381,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
+ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -432,7 +434,6 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
@@ -565,7 +566,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
-adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
@@ -589,6 +589,7 @@ ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
+ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -1067,6 +1068,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1598,6 +1600,7 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
+ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
 opcharizardon.com
@@ -1672,7 +1675,6 @@ pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
-petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
@@ -1752,10 +1754,8 @@ pub.trads.io
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
-pumywyczbks.com
 purgavax.com
 pushanishe.com
-pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
@@ -1825,7 +1825,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
-revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
@@ -2043,6 +2042,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
@@ -2061,7 +2061,6 @@ tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
-tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
@@ -2128,6 +2127,7 @@ vmcxdaynkhnekp.com
 vncnu.com
 vnwtjgaqlsui.com
 voakulophy.com
+voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
@@ -2251,7 +2251,6 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
@@ -2289,7 +2288,6 @@ hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
-masasaudi.com
 moatpixel.com
 play.leadzutw.com
 q2melbourne.com
