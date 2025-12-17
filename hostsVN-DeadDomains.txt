@@ -22,8 +22,8 @@ alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
-certify-js.alexametrics.com
 certify-stage.alexametrics.com
+js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
@@ -89,6 +89,7 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -423,6 +424,7 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
+daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
@@ -523,6 +525,7 @@ log.mekongasean.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+stats.dongphim.net
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -564,6 +567,7 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
+abqguldudbi.com
 abservinean.com
 abyocawlfe.com
 acerolawaists.com
@@ -613,7 +617,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -659,7 +662,6 @@ ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
-alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -906,7 +908,6 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
-corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -945,10 +946,10 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
-deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
+defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1004,7 +1005,6 @@ ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
-eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
@@ -1093,6 +1093,7 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
+foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
@@ -1170,6 +1171,7 @@ grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
+groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
@@ -1326,6 +1328,7 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
+jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
@@ -1401,6 +1404,7 @@ lassampy.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1472,8 +1476,10 @@ manompas.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
+mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
+mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
@@ -1751,12 +1757,10 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
-ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -2136,7 +2140,6 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
-vikawjobtar.com
 viliaff.com
 vingtunacroter.top
 vipicmou.net
@@ -2148,7 +2151,6 @@ vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
-voopsookie.net
 voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
@@ -2157,6 +2159,7 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
@@ -2205,7 +2208,6 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2228,6 +2230,7 @@ xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
+xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
@@ -2249,7 +2252,6 @@ yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
-yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
@@ -2288,6 +2290,7 @@ zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
+zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
@@ -2310,7 +2313,6 @@ metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
-q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
