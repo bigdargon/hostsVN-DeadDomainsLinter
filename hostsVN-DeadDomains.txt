@@ -27,6 +27,7 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
+ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
@@ -154,6 +155,7 @@ www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
+tags.bkrtx.com
 www.bkrtx.com
 pmddby.com
 s.pmddby.com
@@ -302,7 +304,6 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -509,7 +510,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 serving-ad.tv24.vn
 upfile16.mediaphim.com
@@ -561,7 +561,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -607,6 +606,7 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
 ads.seniorfriendfinder.com
+ads.smartclick.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -663,6 +663,7 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
+allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -749,6 +750,7 @@ banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
+baresi.xyz
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -821,6 +823,7 @@ buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
+bzydilasq.com
 c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
@@ -841,6 +844,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1092,6 +1096,7 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+fnbauniukvi.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1135,6 +1140,7 @@ gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 ginpithed.live
 girls-only.online
 gishejuy.com
@@ -1224,6 +1230,7 @@ hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
+hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1250,6 +1257,8 @@ hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
+hugazdazst.com
+huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
@@ -1332,6 +1341,7 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
+jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1365,13 +1375,14 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
+kjqsnxibegvue.com
 kkoobzmirh.com
+klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
-kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1393,7 +1404,6 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
-lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
@@ -1404,9 +1414,7 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lhsnvrgcvnvuy.online
 libedgolart.com
-lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
@@ -1499,7 +1507,6 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
-mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
@@ -1519,6 +1526,7 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
+myscreen.com
 myvisualiq.net
 naishoochoh.com
 namol.xyz
@@ -1584,9 +1592,6 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
-ofplredpogw.com
-ofrvpeodmba.com
-ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
@@ -1767,6 +1772,7 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
+purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -2095,6 +2101,7 @@ unstoutgolfs.com
 unthem.com
 untrendenam.com
 unylgxxmrsbb.com
+upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
 uphegroaglah.com
@@ -2185,7 +2192,9 @@ whowhipi.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
+wikfuttupw.com
 wilslide.com
+wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -2208,6 +2217,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2240,6 +2250,7 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
+yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
@@ -2276,7 +2287,7 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
-zeroredirect1.com
+zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
