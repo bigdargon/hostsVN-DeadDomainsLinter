@@ -373,6 +373,8 @@ pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
+promo-3.vercel.app
+promo-4.vercel.app
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -380,6 +382,7 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
+s.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
@@ -442,7 +445,6 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
-hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
@@ -542,7 +544,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
-2441march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -618,17 +619,16 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -657,7 +657,6 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -923,7 +922,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1094,7 +1092,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1197,6 +1194,7 @@ gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
+gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
@@ -1316,7 +1314,6 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
-j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
@@ -1484,7 +1481,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1500,6 +1496,7 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
+mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1599,7 +1596,6 @@ odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
-offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1636,7 +1632,6 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
-optiontwentiethhart.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1750,7 +1745,6 @@ pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
-powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
@@ -1846,7 +1840,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -1939,7 +1932,6 @@ shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
-shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
@@ -2083,7 +2075,6 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
-trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2179,7 +2170,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2231,7 +2221,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2302,6 +2291,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2332,7 +2322,6 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
-showbiz.owndata.network
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
