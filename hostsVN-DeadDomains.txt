@@ -27,6 +27,7 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
+ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
@@ -60,7 +61,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -73,6 +73,7 @@ static.adthor.com
 v.adthor.com
 hb.adomik.com
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -189,7 +190,6 @@ wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
@@ -264,7 +264,6 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -299,6 +298,7 @@ asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -321,12 +321,12 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
-ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
@@ -545,6 +545,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
+29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
@@ -612,6 +613,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -679,6 +681,7 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+aphycolourses.info
 api.ampiri.com
 aptojeepsoopool.com
 apxszeaj.com
@@ -855,6 +858,7 @@ chelonebarpost.com
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
+chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
@@ -917,6 +921,7 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cussersimmure.click
+cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
@@ -941,6 +946,7 @@ decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
+defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
@@ -1147,6 +1153,7 @@ gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
 goesdeedinsensitive.com
+gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
@@ -1301,6 +1308,7 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
+jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
@@ -1676,7 +1684,6 @@ parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
-patro-sfe.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
@@ -1941,6 +1948,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
+smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -1951,6 +1959,7 @@ soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 softaignidsoom.net
+soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
@@ -2107,6 +2116,7 @@ urigagxnji.com
 uruswan.com
 uselnk.com
 userreplay.net
+userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
@@ -2181,7 +2191,6 @@ whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
-whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2230,7 +2239,6 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
-xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2289,12 +2297,9 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
-zuqalzajno.com
-zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.scalemonk.com
 analytics.shivamsinghis.me
-burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
