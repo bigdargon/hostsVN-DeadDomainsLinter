@@ -113,6 +113,7 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
@@ -248,6 +249,7 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
+vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -278,7 +280,6 @@ stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -551,7 +552,6 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
@@ -561,7 +561,6 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
@@ -574,6 +573,7 @@ adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admedia.network
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -612,7 +612,6 @@ adtriplex.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
-adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
@@ -637,7 +636,6 @@ aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
-ajratgatjav.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -649,7 +647,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
-allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -816,6 +813,7 @@ ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
+calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -839,7 +837,6 @@ cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
-checkbookdisgusting.com
 chelonebarpost.com
 chickensstation.com
 chinaslauras.com
@@ -881,6 +878,7 @@ compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
+coniesnitch.com
 connect.scroll.com
 connexity.net
 consciouschairs.com
@@ -1069,6 +1067,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1247,6 +1246,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1424,7 +1424,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lpuodgmca.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1446,6 +1445,7 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1482,6 +1482,7 @@ mingledventin.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
+mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1524,6 +1525,7 @@ nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
+news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
@@ -1573,12 +1575,7 @@ offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
-ogkvkuvfy.com
-ogsbpoofzlk.com
-ogtollhazv.com
-ohgorbqcegig.com
 ohjluvpunaxg.com
-oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
@@ -1661,6 +1658,7 @@ panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
+pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
@@ -1696,7 +1694,6 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1774,7 +1771,6 @@ qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
-qlfqkjluvz.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -2026,7 +2022,6 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
-tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
