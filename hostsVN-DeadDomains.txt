@@ -67,7 +67,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -217,7 +216,6 @@ srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
@@ -299,6 +297,7 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
+cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -387,6 +386,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -601,7 +601,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -705,6 +704,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
@@ -793,6 +793,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -1096,6 +1097,8 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futsonseeke.net
+futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
@@ -1127,7 +1130,6 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
-gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1246,7 +1248,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1746,7 +1747,6 @@ ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
 ptoahaistais.com
-ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
 ptygunjk.com
@@ -1839,7 +1839,6 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -2161,6 +2160,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
@@ -2293,7 +2293,6 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 moatpixel.com
-play.leadzutw.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
