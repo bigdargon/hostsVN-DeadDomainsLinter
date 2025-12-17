@@ -67,6 +67,7 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -84,7 +85,6 @@ nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
-upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
@@ -92,7 +92,6 @@ click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
-rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -216,6 +215,7 @@ srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
+mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
@@ -367,7 +367,6 @@ connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -386,7 +385,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -982,7 +980,6 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
-easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
@@ -1130,8 +1127,8 @@ gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
+gloarteegnu.com
 globaltakeoff.net
-glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
@@ -1203,7 +1200,6 @@ heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
-heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
@@ -1248,6 +1244,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1280,7 +1277,6 @@ inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
-iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivdjs.com
@@ -1368,7 +1364,6 @@ ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
-kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
@@ -1839,6 +1834,7 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
+rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1882,11 +1878,9 @@ salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
-scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
-sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
@@ -2045,7 +2039,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
-traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2099,7 +2092,6 @@ userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2293,6 +2285,7 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 moatpixel.com
+play.leadzutw.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
