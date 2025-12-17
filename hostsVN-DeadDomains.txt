@@ -22,6 +22,7 @@ alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
+certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
@@ -160,7 +161,6 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
@@ -249,7 +249,6 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -437,7 +436,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -525,7 +523,6 @@ log.mekongasean.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-stats.dongphim.net
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -594,7 +591,6 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.amigos.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -617,6 +613,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -662,6 +659,7 @@ ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 allodsubussu.com
 allstarmediagroup.com
@@ -865,8 +863,6 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
-chokedsmelt.com
-chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
@@ -908,6 +904,7 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
+corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -946,6 +943,7 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
+deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
@@ -1005,6 +1003,7 @@ ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
+eetchauglair.net
 eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
@@ -1128,7 +1127,6 @@ gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galepush.net
-gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
@@ -1381,7 +1379,6 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
-kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1567,7 +1564,6 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
-nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
@@ -1624,7 +1620,6 @@ onvictinitor.com
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
-openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
@@ -1664,7 +1659,6 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
-ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 oxwlhazto.com
@@ -1757,10 +1751,12 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
+ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
@@ -1903,7 +1899,6 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
-scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
@@ -2140,6 +2135,7 @@ vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+vikawjobtar.com
 viliaff.com
 vingtunacroter.top
 vipicmou.net
@@ -2151,6 +2147,7 @@ vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
+voopsookie.net
 voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
@@ -2208,6 +2205,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2252,6 +2250,7 @@ yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
+yb26b.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
@@ -2313,6 +2312,7 @@ metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
+q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
