@@ -303,6 +303,7 @@ checkaccff.com
 checkerviet.win
 checkfbviet.tk
 chientich-sinhnhat-lienquanvn.gq
+chientich-sinhnhatlienquangarenavn.ml
 chinhphu.cc
 chinhphu.dulieucutru.org
 chinhphu.hodancu.com
@@ -613,7 +614,6 @@ fairu-endpoint.com
 fairu-endpoint.xyz
 fajiafu30.com
 fajiafu50.com
-fasebook.com.vn
 fbviet88.com
 fc.adswt.com
 fcccredit.com
@@ -734,7 +734,6 @@ garena.mobi
 garena.xacminhtaikhoan-vn.com
 garenaa.vn
 garenaamembeship.com
-garenaamenbeship.com
 garenaffmembershipvn2021.com
 garenaffmembeships.com
 garenafreefire-memberrship.com
@@ -838,6 +837,7 @@ hanghaiqt.com
 hanmucvn.com
 happykitcr.com
 hdb.tang-han-muc-tin-dung-vn.com
+hdb.vntanghanmucvisadebit.com
 hdbank.tructuyen-uudai-thekhachhang.com
 hdbankfinancc.digital
 hdbankfinancc.icu
@@ -996,6 +996,8 @@ insvrvietnam.com
 internetbank.site
 investshopeemall.net
 ionthatco.cfd
+ionvictoriesin.cfd
+iplaytogethershop.com
 ipscanneronline.com
 ipscannershop.com
 irduwhojas.ga
@@ -1304,6 +1306,7 @@ mbbank.net.cn
 mbbank2.com
 mbbank247.top
 mbbank247.xyz
+mbbankl.com
 mbbankmn.com
 mbbankn.com
 mbbffn.online
@@ -1324,7 +1327,6 @@ member-gaarena.com
 member-garena-lienquan.com
 member-lienquan-garena.com
 member.sso-garena.vn
-member.sukien-lienquanmobile.com
 membergarenaviet.com
 memberr-garenaa.com
 memberrship-ff-garena.com
@@ -1356,6 +1358,7 @@ menbershipps-ffvn.com
 menberships-ff-garrena.com
 menhichs.cfd
 meokiemtien.online
+mershadclo.cfd
 metcoin-exchange.com
 mfacebok.com
 mhshopee.com
@@ -1376,7 +1379,6 @@ mlazada.com
 mljfff.zgbv.tech
 mlswl.shop
 mmbonline01.com
-mmocorporation2017.com
 mmomo.me
 mmovietnam.info
 mobaviet.shop
@@ -1616,7 +1618,6 @@ napthechinhthuc.com
 napthee.vn
 naptheff.net
 naptheff.org
-naptheff.vn
 napthefffreefire.com
 naptheffx2.com
 napthefootballmaster.com
@@ -1647,6 +1648,7 @@ napthevn.online
 napthex10.net
 napthex50.com
 napthex98.ga
+naptien.site
 naptienfreefire.com
 naptienfreefire.vn
 naptienfreefires.com
@@ -1952,6 +1954,7 @@ rocktrustbank.com
 royalshop2021.shop
 rutientuthetindung.com
 rutientuthetindung5s.com
+rutkimcuong24h.com
 rutthe-mpos.com
 rutthempos-vn.com
 rutthetindungmpos247.com
@@ -1970,7 +1973,6 @@ ruttientindung-nextpay.com
 ruttientindung-payonline.com
 ruttindungpos.com
 rutwdj.id
-rwrb55.com
 rwrb66.com
 rxfspe.ulthi.de
 s-fb.net
@@ -2390,10 +2392,8 @@ shopsimdata4g.online
 shopsonflo.com
 shoptaikhoangame.com
 shoptetlienquan.com
-shopteufunny.vn
 shoptgtv.tk
 shopthanhhungff.vn
-shopthanthoai.com
 shopthong.net
 shopthuracle.net
 shopthuthach.com
@@ -2724,7 +2724,6 @@ tiengia24h.com
 tienichshiinhan.com
 tiennahanh.com
 tiennhanh247.com
-tienoi.com.vn
 tientraotay.com
 tienve.pro
 tienve247.com
@@ -3082,7 +3081,6 @@ vaykimtruongphat.org
 vaylien88.com
 vaylientay79.com
 vaymb.org
-vaymbbank.com
 vaynewtech.online
 vaynganhang-techcombank.xyz
 vaynganhang.pro
@@ -3564,7 +3562,9 @@ vn85548s.com
 vn86414s.com
 vn88631p.com
 vn88khuyenmai.life
+vn88khuyenmai.site
 vn88khuyenmai.space
+vn88khuyenmai.store
 vn999mall.vip
 vnah567.com
 vnambzuon36sc.vip
@@ -3658,7 +3658,6 @@ vongquaylotus.xyz
 vongquaylqm.com
 vongquayngoc.com
 vongquayroblox.com
-vongquaysieupham-grnfreefirevietnam.club
 vongquaysieuphamfreefirevn.club
 vongquaysieuphamfreefirevn.com
 vongquayskinfree.tk
@@ -3693,7 +3692,6 @@ vonsieuxtoc.com
 vonsieuytoc.com
 vonsieuztoc.com
 vp-hanmuc.com
-vp-nanghanmuc.com
 vp-nanghanmuc.online
 vp111.vip
 vp7811.com
@@ -3732,7 +3730,6 @@ vstvst14toc.com
 vstvst15toc.com
 vstvst16toc.com
 vstvst1toc.com
-vstvst20toc.com
 vstvst21toc.com
 vstvst22toc.com
 vstvst24toc.com
@@ -3883,7 +3880,6 @@ xacnhan.vn
 xacnhankhoanvay.com
 xacnhankhoanvay247.com
 xacnhankhoanvay24h.com
-xacnhankhoanvay86.com
 xacnhankhoanvay999.com
 xacnhantaikhoannhanqua.com
 xacnhanvay247.com
