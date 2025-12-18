@@ -153,12 +153,18 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+bbnautid2.ibillboard.com
+bbnautid3.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
+player-aws.ads.152media.com
 cdn.bidfilter.com
+a.ivstracker.net
+r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -264,9 +270,9 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
-cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
@@ -341,6 +347,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -360,7 +367,6 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
-pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
@@ -784,7 +790,6 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
-bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
@@ -814,6 +819,7 @@ c.cdn-server.top
 c43a3cd8f99413891.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
+cacaobroach.com
 cafnqdsexgopiab.com
 caiwheechous.com
 calculatingtoothbrush.com
@@ -954,17 +960,16 @@ dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
+dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
-dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -1403,6 +1408,7 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
+limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1411,7 +1417,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1462,6 +1467,7 @@ mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mcuyfiwii.com
+medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
@@ -1521,7 +1527,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
@@ -1637,6 +1642,7 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
@@ -1704,7 +1710,6 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
-pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1712,6 +1717,7 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
@@ -1846,7 +1852,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1906,6 +1911,7 @@ shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
+shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
@@ -1968,6 +1974,7 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
+stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2082,7 +2089,6 @@ untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
-upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
@@ -2144,7 +2150,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2284,13 +2289,13 @@ burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
+e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 moatpixel.com
-play.leadzutw.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
