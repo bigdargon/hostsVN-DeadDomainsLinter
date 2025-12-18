@@ -99,6 +99,7 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
+pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -179,11 +180,10 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
-rtb-uswest.152media.com
-www.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -387,6 +387,7 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -411,8 +412,6 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
-static.jadspro.live
-www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -428,7 +427,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv676.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -471,6 +469,7 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+metrics.ambient-platform.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -547,6 +546,7 @@ adv.vnnshop.vn
 adx.kul.vn
 aff2.linksht.online
 ak9.6895588.com
+api2.boclinkads.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -587,7 +587,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
-2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -649,18 +648,15 @@ ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
-ads.rekmob.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-ads4homes.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -670,6 +666,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -679,6 +676,7 @@ afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
+africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
@@ -702,6 +700,7 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
+ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -750,6 +749,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -893,8 +893,6 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
-celoortdwt.com
-cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -918,6 +916,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
+clickadin.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1031,8 +1030,6 @@ dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
-ductathing.com
-duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
@@ -1129,6 +1126,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1160,7 +1158,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
-fxstyle.net
+fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1196,6 +1194,7 @@ glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.padstm.com
+go1.reachsrv.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
@@ -1230,6 +1229,7 @@ gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
+gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
@@ -1284,6 +1284,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1312,7 +1313,6 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
-idcounter.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1338,6 +1338,7 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
+irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1401,6 +1402,7 @@ kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
+kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1505,7 +1507,6 @@ madeupadoption.com
 madriyelowd.com
 madserve.org
 mafrarc3e9h.com
-magnetic.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1537,6 +1538,7 @@ mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
 midgetmaying.com
+mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
 missitzantiot.com
@@ -2342,7 +2344,6 @@ zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
-zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
@@ -2355,6 +2356,7 @@ go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
+leadzutw.com
 logs.bytefence.com
 moatpixel.com
 play.leadzutw.com
