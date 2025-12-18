@@ -217,7 +217,6 @@ uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -290,6 +289,7 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 urlhausa.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -314,6 +314,7 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
+sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -604,12 +605,14 @@ ads.jewishfriendfinder.com
 ads.passion.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
+ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -863,7 +866,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
-cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -899,7 +901,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1110,7 +1111,6 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
-gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -1237,6 +1237,7 @@ hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
+hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
@@ -1582,6 +1583,7 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okxparnalc.com
@@ -1596,6 +1598,7 @@ ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 oneandonlynetwork.com
+oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
@@ -1676,7 +1679,6 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
-phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1689,7 +1691,6 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
-pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -1700,7 +1701,6 @@ playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
-pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -1789,6 +1789,7 @@ quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
+quzodcttub.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
@@ -1827,7 +1828,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1884,6 +1884,7 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
+seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1979,7 +1980,6 @@ susifhfh2d8ldn09.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
-swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
@@ -2127,6 +2127,7 @@ vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
+vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
