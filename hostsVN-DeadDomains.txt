@@ -72,6 +72,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -96,7 +103,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -150,22 +156,44 @@ partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
-bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+action-rtb.ibillboard.com
+bbcdn-bbnaut.ibillboard.com
+bbcdn-static-adserver.ibillboard.com
+bbcdn-static-mbrdsp.ibillboard.com
+bbcdn-tag.ibillboard.com
+bbnaut.ibillboard.com
+bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
+bbnautid4.ibillboard.com
+bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
+static-mbrdsp.ibillboard.com
+tracker-adserver.ibillboard.com
+ui-ssp.ibillboard.com
+video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
 ads.152media.com
+mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
+c.ivstracker.net
+ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+admarvel.com
+automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
+map.admarvel.com
+omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -273,6 +301,7 @@ pgmcdn.com
 app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
+cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
@@ -354,7 +383,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -367,6 +395,7 @@ api.jeeng.com
 sdk.jeeng.com
 telemetries.jeeng.com
 users.api.jeeng.com
+pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
@@ -387,7 +416,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
@@ -417,12 +445,26 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+core.polyad.net
+cp.polyad.net
+cpx.polyad.net
+ds.polyad.net
+dst.polyad.net
+dt.polyad.net
+go.polyad.net
+html.polyad.net
+img.polyad.net
+polyad.net
+st.core.polyad.net
+st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -473,6 +515,7 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -583,6 +626,7 @@ adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
+adplus.co.id
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
@@ -790,6 +834,7 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
+bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
@@ -869,7 +914,6 @@ cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
-clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
@@ -898,7 +942,7 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-cousesheethain.net
+counter.cz
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -960,6 +1004,7 @@ dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
+digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
@@ -970,6 +1015,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
+dollsdeclare.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
@@ -1091,7 +1137,6 @@ forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
-fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
@@ -1163,7 +1208,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1216,6 +1260,7 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1417,6 +1462,7 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1527,6 +1573,7 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
+nervoustolsel.com
 netcommunities.com
 netflame.cc
 netshelter.net
@@ -1710,6 +1757,7 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
+pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1824,6 +1872,7 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1852,6 +1901,7 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1956,6 +2006,7 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
+spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -1965,6 +2016,7 @@ starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
+stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -2089,6 +2141,7 @@ untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
+upgastlyr.com
 uphegroaglah.com
 upr90.com
 upset-project.com
@@ -2110,7 +2163,6 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
@@ -2150,6 +2202,7 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
+vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2296,6 +2349,7 @@ ilogs.bytefence.com
 img.leadzutw.com
 logs.bytefence.com
 moatpixel.com
+play.leadzutw.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
