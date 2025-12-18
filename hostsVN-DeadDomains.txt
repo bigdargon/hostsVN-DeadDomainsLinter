@@ -201,7 +201,6 @@ showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
 advinci.net
-count.advinci.net
 www.advinci.net
 ads.adservme.com
 dsp.adservme.com
@@ -379,6 +378,7 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -398,6 +398,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -466,6 +467,7 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
+analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
@@ -495,6 +497,7 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -609,7 +612,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
-adserver2.mindshare.de
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -630,6 +632,7 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
+agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -978,7 +981,6 @@ drydrum.com
 dsp.io
 ductathing.com
 duimspruer.life
-dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
@@ -1096,6 +1098,7 @@ freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
+fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1132,7 +1135,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 gloarteegnu.com
 globaltakeoff.net
 glooroapoftus.com
@@ -1233,6 +1235,7 @@ hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1245,7 +1248,6 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
-huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
@@ -1306,7 +1308,6 @@ jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
-jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
@@ -1397,6 +1398,7 @@ lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
+lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
@@ -1454,6 +1456,7 @@ maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
+marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
@@ -1617,6 +1620,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1665,6 +1669,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1763,6 +1768,7 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
+qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
@@ -1813,7 +1819,6 @@ reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
-resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
@@ -2044,7 +2049,6 @@ tshfc.com
 tstats-13fkh44r.com
 tumblebit.org
 tunnedlehua.com
-twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -2182,7 +2186,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
