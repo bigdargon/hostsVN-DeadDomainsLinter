@@ -181,9 +181,12 @@ fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
+api.proper.io
+bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
+monitoring.proper.io
 s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
@@ -376,7 +379,6 @@ tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -464,7 +466,6 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
-analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
@@ -494,7 +495,6 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
-adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -619,6 +619,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -629,7 +630,6 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
-agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -904,6 +904,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1095,7 +1096,6 @@ freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
-fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1211,6 +1211,8 @@ hgub2polye.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
+hiqbejpsiyymatl.com
+hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1231,7 +1233,6 @@ hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
-hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1248,6 +1249,8 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
+iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
@@ -1394,7 +1397,6 @@ lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
-lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
@@ -1452,7 +1454,6 @@ maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
-marriagegray.com
 matecatenae.com
 mathcountryside.com
 maulupoa.com
@@ -1616,7 +1617,6 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
-orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1665,7 +1665,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1715,6 +1714,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1763,7 +1763,6 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
-qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
@@ -2176,10 +2175,14 @@ woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
+woochithoothie.net
+woomerapapacy.shop
+woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2249,6 +2252,7 @@ zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
 zeroredirect1.com
+zihcabtkic.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2267,6 +2271,7 @@ comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
+hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 leadzutw.com
