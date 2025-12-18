@@ -96,9 +96,9 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -179,10 +179,11 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
+rtb-uswest.152media.com
+www.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -386,7 +387,6 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
@@ -411,6 +411,8 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+static.jadspro.live
+www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -426,6 +428,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv676.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -596,6 +599,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4d5.net
 4hfchest5kdnfnut.com
 4info.com
+4wnet.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
@@ -645,16 +649,19 @@ ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
+ads.rekmob.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+ads4homes.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adshostnet.com
+adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -663,7 +670,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -673,7 +679,6 @@ afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
-africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
@@ -697,7 +702,6 @@ ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
-ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -729,6 +733,7 @@ apusx.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
+arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
@@ -888,6 +893,7 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
+celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -912,7 +918,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-clickadin.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -944,7 +949,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -954,6 +958,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1124,7 +1129,6 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1156,7 +1160,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
-fwilmdact.com
+fxstyle.net
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1167,7 +1171,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1281,7 +1284,6 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
-hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1310,6 +1312,7 @@ iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
+idcounter.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
@@ -1335,7 +1338,6 @@ intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
-irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
@@ -1399,7 +1401,6 @@ kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdm8.com
-kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1493,6 +1494,7 @@ lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
+lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -1503,6 +1505,7 @@ madeupadoption.com
 madriyelowd.com
 madserve.org
 mafrarc3e9h.com
+magnetic.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1534,7 +1537,6 @@ mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
 midgetmaying.com
-mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
 missitzantiot.com
@@ -1834,6 +1836,9 @@ qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
+qlpenuxctkhwv.com
+qmccocotadcab.com
+qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
