@@ -78,6 +78,7 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
+www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -422,8 +423,6 @@ js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -437,7 +436,6 @@ ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
-media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
@@ -483,7 +481,6 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
-pushdy.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -511,7 +508,6 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
-analytics.saas-vn.network
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -566,6 +562,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.mekongasean.vn
 log.tinnhac.com
+nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -644,6 +641,7 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
+ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
 ads.seniorfriendfinder.com
@@ -655,6 +653,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -677,6 +676,7 @@ afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
+agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
@@ -742,7 +742,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -759,7 +758,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avhkihpfabt.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -810,6 +808,7 @@ bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
@@ -947,7 +946,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -966,7 +964,6 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
-cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -1117,6 +1114,7 @@ fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
+feenyrpxyps.com
 feevefouhe.net
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
@@ -1150,7 +1148,6 @@ freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
-fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1256,7 +1253,6 @@ hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
-heap.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1318,6 +1314,7 @@ ichdpdbpv.com
 idyllteapots.com
 ietyofedinj89yewtburgh.com
 iiqbttkbfvgyo.com
+ikengoti.com
 ikilrategroahe.com
 ilbanner.com
 illegal-respond.pro
@@ -1364,6 +1361,7 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
+jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
@@ -1538,7 +1536,6 @@ mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
-midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 misqimohlpk.com
@@ -1571,7 +1568,6 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
-nagoverpayreimburse.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1735,7 +1731,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-peppaping.xyz
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -1864,8 +1859,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
-radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -2018,7 +2011,6 @@ spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
-specificallycries.com
 specifiedbloballowance.com
 spikereekvelocity.com
 spot.fitness.com
@@ -2032,7 +2024,6 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
-stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2066,7 +2057,6 @@ taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
-tampedirenica.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
@@ -2110,7 +2100,6 @@ tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
-tospointor.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2234,7 +2223,6 @@ wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
-webmasterplan.de
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
@@ -2279,6 +2267,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2370,10 +2359,12 @@ leadzutw.com
 logs.bytefence.com
 moatpixel.com
 play.leadzutw.com
+q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
 tracking.news360.store
+tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
