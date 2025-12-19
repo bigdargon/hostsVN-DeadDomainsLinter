@@ -116,6 +116,8 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+metrics.linkshare.com
+reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
@@ -124,7 +126,6 @@ aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
-aj2142.online
 aj2218.online
 aj2307.online
 aj2412.online
@@ -193,6 +194,7 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -228,8 +230,12 @@ go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
 intranet.faktor.io
+logos.choice.faktor.io
 m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -258,6 +264,10 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.mondiad.net
+img.mondiad.net
+mondiad.net
+serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
@@ -277,8 +287,10 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+api.traq.li
 pgmcdn.com
 app2.inorbitad.com
+pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -490,7 +502,6 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
@@ -515,10 +526,12 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -535,7 +548,6 @@ vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
-11ssq.com
 1frozenthrone1.com
 1slms.com
 228tuchuang.com
@@ -564,8 +576,10 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
+abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
+abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
@@ -599,14 +613,18 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.friendfinder.com
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.outpersonals.com
 ads.passion.com
 ads.seniorfriendfinder.com
+ads.soft32.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -615,7 +633,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -684,6 +701,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
@@ -729,6 +747,8 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
+azoaltou.com
+azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -879,7 +899,6 @@ coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
-cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
@@ -909,6 +928,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -954,6 +974,7 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
+destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -982,7 +1003,6 @@ dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
-dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -1038,7 +1058,6 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
-expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -1067,7 +1086,6 @@ feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
-feevefouhe.net
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
@@ -1076,6 +1094,7 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1118,6 +1137,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1142,6 +1162,7 @@ glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
+go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
@@ -1227,6 +1248,9 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
+hoocaumakopaibu.com
+hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1473,7 +1497,6 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
-mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1556,7 +1579,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oaraiwephoursou.net
 oarouwousti.com
 oas.roanoke.com
 oavowuftili.com
@@ -1594,6 +1616,7 @@ olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
+onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
@@ -1655,6 +1678,7 @@ p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
+panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
@@ -1715,7 +1739,6 @@ pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
-powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
@@ -1796,6 +1819,8 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
+raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -2014,6 +2039,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2151,7 +2177,6 @@ webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
 wheensamufouk.net
-whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
@@ -2191,7 +2216,6 @@ wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
-www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
@@ -2271,6 +2295,7 @@ comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
+gotoip55.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
