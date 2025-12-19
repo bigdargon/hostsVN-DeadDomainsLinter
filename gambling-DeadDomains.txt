@@ -25,7 +25,6 @@
 002365i.com
 0024n.com
 0027n.com
-0027s.com
 0028n.com
 0030n.com
 0031004.com
@@ -41,6 +40,7 @@
 00443044.com
 0044789.com
 0045n.com
+0047n.com
 0048n.com
 0048v.com
 0049v.com
@@ -423,7 +423,10 @@
 045390.com
 046390.com
 0464073.com
+<<<<<<< Updated upstream
 0465n.com
+=======
+>>>>>>> Stashed changes
 0465r.com
 0466p.com
 04712k.com
@@ -625,7 +628,6 @@
 07477c.com
 07488u.com
 074a6.com
-074d7.com
 074f6.com
 07584a.com
 07584b.com
@@ -713,7 +715,6 @@
 0886wns666.com
 0887v.com
 0889x.com
-088yb.com
 0891k365.com
 0891saibo.com
 089249.com
@@ -2713,7 +2714,6 @@
 1xbet-borc.top
 1xbet-bord.top
 1xbet-bors.top
-1xbet-domen.ru
 1xbet-glg.top
 1xbet-group.com
 1xbet-hz11.xyz
@@ -2727,7 +2727,6 @@
 1xbet-pros.top
 1xbet-reg13.top
 1xbet-reg30.top
-1xbet-reg31.top
 1xbet-rgzq.top
 1xbet-ru.com
 1xbet-telecharger.cm
@@ -7676,6 +7675,7 @@
 4772s.com
 4775641.com
 4775s.com
+4777999.com
 4778n.com
 4779x.com
 4782t.com
@@ -7754,6 +7754,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858mmm.com
 4858n.com
 4858o.com
@@ -7762,6 +7763,17 @@
 4858ppp.com
 4858u.com
 4858x.com
+=======
+4858e.com
+4858hh.com
+4858ii.com
+4858j.com
+4858kkk.com
+4858nnn.com
+4858ooo.com
+4858sss.com
+4858w.com
+>>>>>>> Stashed changes
 4862x.com
 4864t.com
 4866s.com
@@ -10519,6 +10531,7 @@
 6686b4.app
 6686b5.app
 6686b5.com
+6686b6.com
 6686b7.com
 6686b8.com
 6686b9.com
@@ -12110,6 +12123,7 @@
 750572.com
 750573.com
 750574.com
+750591.com
 750593.com
 7505x.com
 75076.vip
@@ -12453,6 +12467,7 @@
 76hd.bet
 76i.bet
 76j.bet
+76k.bet
 76one.com
 76t.bet
 76z.bet
@@ -12524,6 +12539,7 @@
 7734j.com
 7734w.com
 77366.biz
+7736h.com
 7736ky.com
 7736t.com
 7738n.com
@@ -12838,6 +12854,7 @@
 7884x.com
 7884yb.com
 7885.org
+7885888.com
 7885n.com
 7885v.com
 788678.biz
@@ -13246,6 +13263,7 @@
 8135j.com
 8135n.com
 8135x.com
+813628.com
 813653.com
 8137t.com
 8137x.com
@@ -14604,6 +14622,7 @@
 87bet999.fun
 87hthg.com
 8800002.com
+880036.com
 88004vip.com
 8801n.com
 8801v.com
@@ -15218,6 +15237,7 @@
 8xbet.net
 8z3l8.vip
 8zj3kc.ink
+90000tyc.com
 9001001.com
 9001003.com
 9001047.com
@@ -15384,6 +15404,7 @@
 9145yabo.com
 91468a.com
 91468b.com
+91468d.com
 91475.vip
 9148t.com
 9148yabo.com
@@ -16000,6 +16021,7 @@
 95vn1.lat
 96027.wang
 96051.wang
+96131.com
 9613j.com
 9613t.com
 961558.com
@@ -16554,6 +16576,7 @@ a9334.com
 a9762.com
 a999365.com
 a9m3t5.ink
+aa10666.com
 aa14666.com
 aa1983.com
 aa2901.vip
@@ -16881,6 +16904,7 @@ api.jun88.tv
 api.kfmapp.win
 api.linkchuanon.com
 api.mb664.vip
+api.mocbai.cc
 api.mu88.mu
 api.mxvietnam.com
 api.ok689d.com
@@ -17196,7 +17220,6 @@ b2891.com
 b2898.com
 b28w.com
 b29.cafe
-b2933.com
 b2c3d4.fun
 b3178.com
 b3187.com
@@ -18651,6 +18674,7 @@ cdnapiif.ev88z.com
 cdnapiif.hcm2200.com
 cdnapiif.hcm2211.com
 cdnapiif.hcm2222.com
+cdnnetworks.net
 cdntoos.039vip3.com
 cdntoos.3676pay.com
 cdntoos.8jbet08.com
@@ -19426,7 +19450,6 @@ f1.taiv8.com
 f1.taiv8.top
 f1366.com
 f16.site
-f1689.com
 f188xj.com
 f2.taiv8.com
 f2n8t5.buzz
@@ -21031,6 +21054,7 @@ herabet13.com
 herewegou.cn
 heroesoftheline.org
 hf331026828.com
+hg0204.com
 hg0443.com
 hg0476.com
 hg11.site
@@ -24240,6 +24264,7 @@ plae8ph.asia
 plae8ph.vip
 plae8php2.net
 plae8s.com
+play.789club.top
 play.appsdownload.shop
 play.b52vn.org
 play.downloadgame.club
@@ -24346,6 +24371,11 @@ q034034.com
 q1496688.com
 q15572917796.com
 q1663.com
+<<<<<<< Updated upstream
+=======
+q1800.com
+q1822.com
+>>>>>>> Stashed changes
 q1886.com
 q188xj.com
 q1991.com
@@ -26137,7 +26167,10 @@ uc8vn.casino
 ucz9eyllv.com
 udw11.com
 uea8thb.com
+<<<<<<< Updated upstream
 ued299.com
+=======
+>>>>>>> Stashed changes
 uedbet103.com
 uedbet112.com
 uedbet113.com
@@ -27348,6 +27381,7 @@ www.lg585.com
 www.lklklklk.space
 www.lt119.online
 www.lucky88.com
+www.m8winvip.com
 www.mibet.mobi
 www.mu055.com
 www.mu111.vip
@@ -28534,6 +28568,7 @@ yabo409.net
 yabo409.vip
 yabo411.net
 yabo412.net
+yabo413.com
 yabo413.vip
 yabo414.net
 yabo415.net
