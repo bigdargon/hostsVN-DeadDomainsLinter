@@ -1,12 +1,10 @@
 googleads-cn.com
-blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -106,7 +104,6 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
@@ -383,11 +380,13 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv673.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -608,7 +607,6 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -646,6 +644,7 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
+allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -686,6 +685,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -776,6 +776,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -887,11 +888,9 @@ cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 craterwhsle.com
-creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -939,6 +938,7 @@ despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
+dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
@@ -1043,7 +1043,6 @@ faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
-fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
@@ -1058,7 +1057,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1101,7 +1099,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1231,6 +1228,7 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
+hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -1427,6 +1425,7 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
+lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1443,7 +1442,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1529,6 +1527,7 @@ nowheresank.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
+nuckinxuco.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1545,13 +1544,13 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
+obnoljac.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
-odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
@@ -1631,6 +1630,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
+ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1776,7 +1776,6 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
-rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
@@ -1808,6 +1807,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1908,7 +1908,6 @@ smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
-snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
@@ -1929,6 +1928,7 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -1985,9 +1985,7 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
-theestauptooks.net
 thhwzyuktk.com
-thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -2006,7 +2004,6 @@ tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
-tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
@@ -2162,6 +2159,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2239,7 +2237,6 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
-zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
