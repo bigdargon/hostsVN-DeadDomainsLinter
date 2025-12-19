@@ -121,7 +121,6 @@ reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -181,7 +180,6 @@ ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
-gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
@@ -380,7 +378,6 @@ trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
-static.adclerks.com
 www.adclerks.com
 api.jeeng.com
 sdk.jeeng.com
@@ -410,10 +407,10 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -453,7 +450,6 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -713,6 +709,7 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -975,6 +972,7 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
+dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1008,6 +1006,7 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
+easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
@@ -1061,6 +1060,7 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1206,6 +1206,7 @@ gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
+hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
@@ -1323,6 +1324,7 @@ jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jewgn8une.com
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1362,6 +1364,7 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
+kcgkiumubea.com
 kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -1629,7 +1632,6 @@ optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
-oqfoczdfyag.com
 oqnjfotketk.com
 orb92.com
 orbsclawand.com
@@ -1690,7 +1692,6 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1701,6 +1702,7 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
+phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
@@ -1785,7 +1787,6 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
-qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
@@ -1809,6 +1810,7 @@ questaffiliates.net
 qumagee.com
 quzodcttub.com
 qvzpofgmlwlnrt.com
+qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
@@ -1845,7 +1847,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1939,7 +1940,6 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -1958,9 +1958,11 @@ soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
+spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
+specifiedbloballowance.com
 spikereekvelocity.com
 spot.fitness.com
 sprungencase.com
@@ -1982,7 +1984,6 @@ stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
-stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
@@ -2049,7 +2050,6 @@ tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
-touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
@@ -2108,6 +2108,7 @@ ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
+uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
@@ -2300,9 +2301,9 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-soperson.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
 worldgravity.com
+yoursitestatstube.ru
 zarget.com
