@@ -21,6 +21,7 @@ certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
+js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
@@ -187,6 +188,7 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
+rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -497,7 +499,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -598,7 +599,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -789,7 +789,6 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
-bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -820,7 +819,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -863,6 +861,7 @@ coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
+coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
@@ -1092,6 +1091,7 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
+gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -1183,6 +1183,7 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
+heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1368,7 +1369,6 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1427,6 +1427,7 @@ lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
+madserve.org
 mafrarc3e9h.com
 makemydownload.com
 makespram.com
@@ -1503,7 +1504,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nervoustolsel.com
 netcommunities.com
 netflame.cc
 news-central.org
@@ -1600,7 +1600,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
@@ -1614,6 +1613,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1781,7 +1781,6 @@ rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
-record.bonniergaming.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
@@ -1801,8 +1800,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
-ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1874,6 +1871,7 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
+shaughixefooz.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1962,6 +1960,7 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
+targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1993,6 +1992,7 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
+tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
@@ -2006,7 +2006,6 @@ total-fee.com
 toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
-tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 trendcounter.com
@@ -2154,7 +2153,6 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2193,6 +2191,7 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
+yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
 yieldads.com
