@@ -132,6 +132,7 @@ aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
+ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -339,6 +340,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
+tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -351,7 +353,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -363,7 +364,6 @@ ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
-beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
@@ -516,7 +516,6 @@ adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
-ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -528,6 +527,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -594,6 +594,7 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
+ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
@@ -630,7 +631,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -749,6 +749,7 @@ axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
+azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -857,6 +858,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -929,6 +931,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1004,6 +1007,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+dummieseardrum.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
@@ -1183,7 +1187,6 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -1296,7 +1299,6 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
-innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1446,6 +1448,7 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1652,7 +1655,6 @@ ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
-ouftukoo.net
 ourithauphexaus.com
 outabsola.com
 outflednailbin.com
@@ -1802,6 +1804,11 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
+qp.ezfxpuo.cn
+qruqon.com
+qs251.com
+qtoeofqazggu.com
+qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
@@ -1848,7 +1855,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
+ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1936,7 +1943,6 @@ simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
-slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -2075,6 +2081,7 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
+ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
 ufiledsit.com
@@ -2144,6 +2151,7 @@ volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
+vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
@@ -2205,14 +2213,12 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2236,6 +2242,7 @@ xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
