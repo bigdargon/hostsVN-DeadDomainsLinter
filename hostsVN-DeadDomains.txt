@@ -21,7 +21,6 @@ certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
-js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
@@ -48,6 +47,7 @@ rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
+t.lkqd.net
 us.lkqd.net
 v.lkqd.net
 api.parrable.com
@@ -187,7 +187,6 @@ ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
-rtb-apac.adservme.com
 rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
@@ -494,9 +493,11 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -508,6 +509,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
+stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -635,6 +637,8 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
+ak.groaxonsoow.net
+ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -693,6 +697,7 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
+aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avvavcazs.com
@@ -740,6 +745,7 @@ beakerweedjazz.com
 beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
+bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
@@ -853,11 +859,12 @@ cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
+coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
-coherentgleaminglone.com
 coinblocktyrusmiram.com
+colonialismmarch.com
 combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
@@ -1068,6 +1075,7 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
+freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1084,7 +1092,6 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
-gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
@@ -1176,7 +1183,6 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
-heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1297,6 +1303,7 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
+jrbicvcnx.com
 js.xzjhome.cc
 jucysh.com
 jugjetwok.com
@@ -1408,6 +1415,7 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1419,7 +1427,6 @@ lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
-madserve.org
 mafrarc3e9h.com
 makemydownload.com
 makespram.com
@@ -1607,7 +1614,6 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
-owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1645,6 +1651,7 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
+phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1660,8 +1667,10 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
+pkhhyool.com
 plaicecaught.com
 planesknob.com
+planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1792,6 +1801,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1838,6 +1848,7 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
@@ -1863,7 +1874,6 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
-shaughixefooz.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1983,7 +1993,6 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
-tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
@@ -2145,6 +2154,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2183,7 +2193,6 @@ ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
-yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
 yieldads.com
