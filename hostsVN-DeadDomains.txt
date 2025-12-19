@@ -48,7 +48,6 @@ rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
-t.lkqd.net
 us.lkqd.net
 v.lkqd.net
 api.parrable.com
@@ -275,6 +274,7 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
+www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -494,7 +494,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -509,7 +508,6 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
 nct1.logging.nextsmarty.com
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -637,8 +635,6 @@ ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
-ak.groaxonsoow.net
-ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
@@ -697,7 +693,6 @@ authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
-aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avvavcazs.com
@@ -737,6 +732,7 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -744,7 +740,6 @@ beakerweedjazz.com
 beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
-bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
@@ -858,16 +853,16 @@ cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
-coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
-colonialismmarch.com
+coinblocktyrusmiram.com
 combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
+compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -1065,6 +1060,7 @@ flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
+forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1072,7 +1068,6 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
-freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
@@ -1252,6 +1247,7 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
+innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1301,7 +1297,6 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
-jrbicvcnx.com
 js.xzjhome.cc
 jucysh.com
 jugjetwok.com
@@ -1413,7 +1408,6 @@ lstalwryflhourf.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1651,7 +1645,6 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
-phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1667,10 +1660,8 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
-pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1801,7 +1792,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1848,7 +1838,6 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
-scabbienne.com
 scammereating.com
 scarofnght.com
 scatteredhecheaper.com
@@ -2236,6 +2225,7 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
+burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
