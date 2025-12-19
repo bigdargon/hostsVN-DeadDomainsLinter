@@ -22,6 +22,7 @@ alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
+certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
@@ -108,6 +109,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
@@ -169,6 +171,7 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
@@ -178,6 +181,7 @@ ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
+gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
@@ -273,6 +277,7 @@ www.bitmedianetwork.com
 www.mobile-10.com
 exelatesync.extend.tv
 sync.extend.tv
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -398,6 +403,7 @@ u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -412,6 +418,7 @@ ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
+ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
@@ -432,10 +439,6 @@ aj3017.bid
 aj101.xyz
 aff-track.net
 mntzrlt.net
-daly2024.com
-media.daly2024.com
-srv.daly2024.com
-track.daly2024.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -497,6 +500,7 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -522,11 +526,9 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
@@ -590,6 +592,7 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
+ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -628,7 +631,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1226,6 +1228,7 @@ heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
+heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
@@ -1391,8 +1394,6 @@ ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
-kugmisawqo.com
-kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
@@ -1634,11 +1635,8 @@ oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
-orb92.com
 orbsclawand.com
 orcpfawzuvfe.com
-organicbonus.com
-orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1793,7 +1791,6 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
-qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
@@ -1850,7 +1847,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1912,6 +1908,7 @@ seemoovojezy.net
 sendmepixel.com
 seo4india.com
 septfd2em64eber.com
+serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
@@ -2209,6 +2206,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2249,11 +2247,11 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
-yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
+yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
@@ -2285,7 +2283,6 @@ zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
-zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
