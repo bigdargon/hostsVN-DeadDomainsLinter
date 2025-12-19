@@ -116,6 +116,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -217,6 +218,7 @@ uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
+ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -225,6 +227,9 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
+faktorid-fid.choice.faktor.io
+intranet.faktor.io
+m.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -559,10 +564,8 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
@@ -726,8 +729,6 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
-azoaltou.com
-azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -866,6 +867,7 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
+cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -901,12 +903,12 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -952,7 +954,6 @@ depechearshine.com
 dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
-destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dhuimjkivb.com
@@ -1075,7 +1076,6 @@ fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1111,13 +1111,13 @@ fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
+gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1227,9 +1227,6 @@ hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
 hoddlegamey.com
-hoocaumakopaibu.com
-hookawep.net
-hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1658,7 +1655,6 @@ p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
-panaxive.com
 pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
@@ -1679,6 +1675,7 @@ phaibeertou.com
 phaimtoata.com
 phamsacm.net
 phaubsunsi.com
+phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1691,6 +1688,7 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
+pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -1701,6 +1699,7 @@ playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
+pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -1797,8 +1796,6 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
-raphanysteers.com
-rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1980,6 +1977,7 @@ susifhfh2d8ldn09.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
+swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
@@ -2016,7 +2014,6 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
-tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
