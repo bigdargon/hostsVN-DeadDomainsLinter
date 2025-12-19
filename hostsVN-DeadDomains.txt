@@ -3,6 +3,7 @@ blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -74,6 +75,7 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
+www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -244,6 +246,7 @@ cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
+c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -478,6 +481,7 @@ ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
+ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -489,6 +493,7 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
+iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
@@ -1232,6 +1237,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1421,7 +1427,6 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
-lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1513,6 +1518,7 @@ newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
+nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
@@ -1523,6 +1529,7 @@ nowheresank.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1598,6 +1605,7 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
+ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1612,6 +1620,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1932,6 +1941,7 @@ steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
+stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
