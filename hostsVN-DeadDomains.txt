@@ -1,10 +1,12 @@
 googleads-cn.com
+blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
+p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -104,6 +106,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 a.adtechjp.com
@@ -272,7 +275,6 @@ cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -380,13 +382,11 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
-ads.livetv625.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv673.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -598,6 +598,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -644,7 +645,6 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
-allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -685,7 +685,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -738,7 +737,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
@@ -776,7 +774,6 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
-boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -822,6 +819,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -865,13 +863,11 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
-coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
-compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -888,6 +884,7 @@ cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -1043,6 +1040,7 @@ faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
+fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
@@ -1067,7 +1065,6 @@ flagmantensity.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1228,7 +1225,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -1256,7 +1252,6 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
-innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1527,7 +1522,6 @@ nowheresank.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
-nuckinxuco.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
@@ -1544,13 +1538,13 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
-obnoljac.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
+odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
@@ -1630,7 +1624,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
-ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 p.z4g6p1gu44zuyiuqj99.cfd
@@ -1776,6 +1769,7 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
@@ -1908,6 +1902,7 @@ smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
+snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
@@ -1928,7 +1923,6 @@ spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -1985,7 +1979,9 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
+theestauptooks.net
 thhwzyuktk.com
+thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
@@ -2004,6 +2000,7 @@ tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
+tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
@@ -2159,7 +2156,6 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2237,9 +2233,9 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
