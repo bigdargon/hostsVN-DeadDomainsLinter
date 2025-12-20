@@ -31,6 +31,7 @@ recs.engageya.com
 platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
+ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
@@ -75,6 +76,7 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
+hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -102,6 +104,7 @@ hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
+sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -139,6 +142,7 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
+www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
@@ -158,6 +162,7 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
+analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
@@ -265,7 +270,6 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
-ytvpaid.winadx.com
 api.traq.li
 pgmcdn.com
 app2.inorbitad.com
@@ -301,6 +305,7 @@ www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -345,6 +350,7 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
+px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -456,11 +462,9 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
@@ -519,7 +523,6 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -758,7 +761,6 @@ beefoaloode.net
 bemachopor.com
 bemalkrmc.com
 benevolencepair.com
-benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
@@ -800,6 +802,7 @@ bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
+btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
@@ -1118,6 +1121,7 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
+girls-only.online
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1240,6 +1244,7 @@ huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
+hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iadnet.com
@@ -1263,6 +1268,7 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
+innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1387,6 +1393,7 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
+lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
@@ -1442,7 +1449,6 @@ mafrarc3e9h.com
 makemydownload.com
 makespram.com
 makqfcvs.com
-malhfiacgx.com
 maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
@@ -1478,7 +1484,6 @@ misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
-mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1553,7 +1558,6 @@ oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
-observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
@@ -1732,6 +1736,10 @@ ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
+ptoahaistais.com
+ptoohojatchouz.net
+ptukasti.com
+ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1900,7 +1908,6 @@ sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
-skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
@@ -1944,7 +1951,6 @@ stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
-stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
@@ -2030,7 +2036,6 @@ trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
-tstats-13fkh44r.com
 tumblebit.org
 tunnedlehua.com
 twazzyoidwlfe.com
@@ -2129,6 +2134,7 @@ warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
@@ -2190,7 +2196,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
