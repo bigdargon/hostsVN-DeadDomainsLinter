@@ -12,6 +12,7 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
+a4.tl
 sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
@@ -32,6 +33,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -419,7 +421,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -593,7 +594,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -789,7 +789,6 @@ bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
-btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
@@ -836,8 +835,6 @@ chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
-chozarpeases.com
-chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -933,7 +930,6 @@ despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
 dgqlwqedzowhqb.com
-dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
@@ -1079,7 +1075,6 @@ fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
-fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1091,7 +1086,6 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
-gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
@@ -1232,7 +1226,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1340,6 +1333,7 @@ kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
+knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -1706,7 +1700,6 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
-presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
@@ -2072,7 +2065,6 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
-vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 vazcukap.com
@@ -2143,7 +2135,6 @@ widespace.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
