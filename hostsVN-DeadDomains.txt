@@ -359,9 +359,9 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.app.returnpath.net
@@ -388,6 +388,7 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv626.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -503,9 +504,11 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -555,6 +558,7 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
+abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -655,6 +659,7 @@ akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
+all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -1189,7 +1194,6 @@ harib-eir.info
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
-hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
@@ -1205,6 +1209,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
+hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1313,6 +1318,8 @@ jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
+jollytestpartying.com
+jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -1361,6 +1368,7 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
+kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1401,7 +1409,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1426,6 +1433,7 @@ lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lstalwryflhourf.com
+luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1665,6 +1673,7 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
+pgjt26tsm.com
 phaibeertou.com
 phaimtoata.com
 phamsacm.net
@@ -1757,6 +1766,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1783,6 +1793,7 @@ qumagee.com
 quzodcttub.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
+qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1958,7 +1969,6 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2098,7 +2108,6 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
-viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
