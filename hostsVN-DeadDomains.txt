@@ -76,6 +76,7 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
+hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -207,6 +208,10 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
+adrevenueindex.optad360.com
+api.optad360.com
+apipublisher.optad360.com
+publisher.optad360.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -252,6 +257,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
+u.heatmap.it
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -344,7 +350,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-www.wensixuetang.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -411,13 +416,15 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+litvp.com
+ss15.litvp.com
+ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
-cp.novanet.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -511,6 +518,7 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.tinnhac.com
+log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -536,6 +544,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
+2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 4d5.net
@@ -579,14 +588,17 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.passion.com
@@ -691,6 +703,9 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audraghafamign.net
+aulteeby.net
+aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
@@ -735,7 +750,7 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-bbyloavu.com
+baypops.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
@@ -817,6 +832,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -848,6 +864,7 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 clickadin.com
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -951,12 +968,12 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
+doqjhxavpdf.com
 dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
-drydrum.com
 dsp.io
 ductathing.com
 duimspruer.life
@@ -1053,6 +1070,7 @@ fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 filasseseeder.com
+filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
@@ -1231,7 +1249,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1259,7 +1276,6 @@ interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
-intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
@@ -1280,6 +1296,7 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
+jeewoo.xctd.me
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
@@ -1442,6 +1459,7 @@ maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
+mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
@@ -1461,6 +1479,7 @@ mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
+mirohqodlf.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1533,6 +1552,7 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
+oackoubs.com
 oahaurti.com
 oarouwousti.com
 oavowuftili.com
@@ -1638,6 +1658,7 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
+paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1801,6 +1822,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1901,7 +1923,6 @@ smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
-snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
@@ -2112,7 +2133,6 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
@@ -2155,6 +2175,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2247,14 +2268,18 @@ ilogs.bytefence.com
 img.leadzutw.com
 leadzutw.com
 logs.bytefence.com
+metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
+poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
+umeng.co
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
