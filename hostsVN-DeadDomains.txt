@@ -12,7 +12,6 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
-a4.tl
 sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
@@ -33,7 +32,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -151,6 +149,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -158,6 +157,7 @@ ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
+gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
@@ -298,6 +298,7 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
+cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -321,6 +322,7 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
@@ -591,6 +593,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1169,6 +1172,7 @@ harderjuniormisty.com
 harib-eir.info
 hasanjbam.com
 haufeechaukept.com
+hayforkminbu.com
 hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
@@ -1336,7 +1340,6 @@ kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
-knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
@@ -2069,6 +2072,7 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaitoasaut.net
 vaizeedy.com
 valuationbothertoo.com
 vazcukap.com
@@ -2234,6 +2238,7 @@ zkyqafavdg.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
+zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
