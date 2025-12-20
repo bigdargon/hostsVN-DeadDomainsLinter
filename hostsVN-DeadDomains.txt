@@ -31,7 +31,6 @@ recs.engageya.com
 platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
-ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
@@ -76,7 +75,6 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -104,7 +102,6 @@ hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
-sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -142,7 +139,6 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
-www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
@@ -162,7 +158,6 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
@@ -230,6 +225,7 @@ mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -286,6 +282,8 @@ anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
+stats.anymad.com
+www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
@@ -303,9 +301,9 @@ www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
-xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -347,7 +345,6 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
-px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -752,6 +749,7 @@ bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
+beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -802,7 +800,6 @@ bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
-btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 burgerbrush.com
@@ -1121,7 +1118,6 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 ginpithed.live
-girls-only.online
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1244,7 +1240,6 @@ huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
-hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 iadnet.com
@@ -1268,7 +1263,6 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
-innocentwax.com
 inquiryblue.com
 instrumentsponge.com
 interndry.com
@@ -1393,7 +1387,6 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
@@ -1739,9 +1732,6 @@ ptaixout.net
 ptawehex.net
 pteemsolrirgegi.com
 ptewarin.net
-ptoahaistais.com
-ptoohojatchouz.net
-ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1933,6 +1923,7 @@ solibothnic.qpon
 songbagoozes.com
 soodejeego.net
 sordimtaulee.com
+spacash.com
 spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
@@ -2138,7 +2129,6 @@ warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
-wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
