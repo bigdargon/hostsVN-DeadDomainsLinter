@@ -113,6 +113,7 @@ adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
+dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -201,7 +202,6 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
-mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
@@ -393,6 +393,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -400,6 +401,7 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
+aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -496,7 +498,6 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -564,7 +565,6 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
-ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -635,7 +635,6 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
-ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -745,7 +744,6 @@ bbyloavu.com
 bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
-beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -759,7 +757,6 @@ bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
-beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -955,6 +952,7 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
+dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
 doruffletr.com
@@ -962,6 +960,7 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
+dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -1731,6 +1730,7 @@ ptukasti.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1750,7 +1750,6 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -1788,6 +1787,7 @@ rdbzasvjgmnk.com
 rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
+receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
@@ -1795,7 +1795,6 @@ refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
 reinvigorate.net
-relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
@@ -1807,7 +1806,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2129,7 +2127,6 @@ webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
 wheensamufouk.net
-whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
 whoostoo.net
@@ -2161,7 +2158,6 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
