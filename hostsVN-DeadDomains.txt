@@ -14,6 +14,21 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
+a.ligatus.com
+analysis.ligatus.com
+analysis1.ligatus.com
+analysis2.ligatus.com
+a-ssl.ligatus.com
+d.ligatus.com
+directads.ligatus.com
+directads2.ligatus.com
+e.ligatus.com
+i.ligatus.com
+ligatus.com
+reporting.ligatus.com
+self-booking.ligatus.com
+ssl.ligatus.com
+www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -69,8 +84,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
@@ -83,6 +96,14 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+imgproxy.upsight.com
+marketing-api.upsight.com
+nexus.upsight.com
+o1.sendgrid.upsight.com
+origin-marketing.upsight.com
+static.upsight.com
+upsight.com
+www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -109,6 +130,11 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
+cdn2.specificmedia.com
+cdn3.specificmedia.com
+leads2.specificmedia.com
+redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -119,6 +145,9 @@ smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+apilw.epom.com
+cdn.epom.com
+directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -158,6 +187,12 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+admarvel.com
+automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
+map.admarvel.com
+omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -173,6 +208,7 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+capi.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -231,6 +267,7 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
+tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -249,6 +286,12 @@ engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 u.heatmap.it
+cdn.aicactus.io
+geo-service.aicactus.io
+staging-tag-cdn.aicactus.io
+tag-cdn.aicactus.io
+tags.aicactus.io
+vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -333,6 +376,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -372,6 +417,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -411,6 +457,19 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+core.polyad.net
+cp.polyad.net
+cpx.polyad.net
+ds.polyad.net
+dst.polyad.net
+dt.polyad.net
+go.polyad.net
+html.polyad.net
+img.polyad.net
+polyad.net
+st.core.polyad.net
+st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -440,8 +499,10 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -518,6 +579,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
+2439march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -547,6 +609,7 @@ abqguldudbi.com
 abservinean.com
 abyocawlfe.com
 acerolawaists.com
+achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
@@ -628,14 +691,12 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
-ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
-alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -659,6 +720,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
@@ -706,8 +768,6 @@ axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
-b5e75c56.com
-baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -974,6 +1034,7 @@ eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
+effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
@@ -1010,6 +1071,7 @@ euros4click.de
 evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
+exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1018,7 +1080,6 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
-ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
@@ -1036,6 +1097,7 @@ fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
+feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -1045,6 +1107,7 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
@@ -1125,6 +1188,7 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
+grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
 greatlove.pro
@@ -1226,6 +1290,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1323,7 +1388,6 @@ keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
-kighoadouk.net
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
@@ -1397,7 +1461,6 @@ loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
-lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
@@ -1648,7 +1711,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
-phaimtoata.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1739,6 +1801,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1829,6 +1892,7 @@ rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
+rtbpop.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
@@ -1857,7 +1921,6 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
-seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1905,10 +1968,11 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
-softaignidsoom.net
 soliads.net
 solibothnic.qpon
 songbagoozes.com
+soodejeego.net
+sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -1953,8 +2017,6 @@ sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
-syyycc.com
-szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -2141,6 +2203,7 @@ wistfulbalmy.com
 witnessremovalsoccer.com
 wiwqhootrf.com
 wizkrdxivl.com
+wkxcwkoazwju.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
