@@ -1,5 +1,4 @@
 googleads-cn.com
-blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -163,6 +162,7 @@ aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
+lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
@@ -180,6 +180,7 @@ www.bkrtx.com
 pmddby.com
 s.pmddby.com
 brand.ad
+a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
@@ -391,11 +392,11 @@ sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
+ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
@@ -431,6 +432,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -550,7 +552,9 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
+iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -563,7 +567,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -598,7 +601,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4hfchest5kdnfnut.com
 4info.com
 4wnet.com
-52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -658,8 +660,10 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -760,6 +764,7 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -926,7 +931,6 @@ coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commodityshortlysurviving.com
-communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
@@ -1000,6 +1004,7 @@ dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
+diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -1043,8 +1048,6 @@ effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
-ehiibetu.com
-ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -1102,7 +1105,6 @@ fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
-fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
@@ -1295,6 +1297,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1357,7 +1360,6 @@ jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
-jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
@@ -1394,6 +1396,7 @@ keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
+kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -1787,6 +1790,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
+ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
@@ -1816,7 +1820,6 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
-qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
@@ -1900,7 +1903,6 @@ rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
-ruckingefs.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -2021,7 +2023,6 @@ sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
-syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
@@ -2065,7 +2066,6 @@ tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
-tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
@@ -2155,7 +2155,6 @@ visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
-voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
@@ -2232,8 +2231,6 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
-xcinilwpypp.com
-xebadu.com
 xeiidlkuxsos.com
 xfvvygrv.com
 xgbsklmqm.com
@@ -2249,7 +2246,6 @@ xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
-xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
@@ -2325,6 +2321,7 @@ track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
+usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
