@@ -108,6 +108,7 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
+click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -239,7 +240,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
@@ -308,7 +308,10 @@ www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
+maxymiser.net
+service.maxymiser.net
 cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -532,7 +535,9 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.seovietnam.pro
 ads1.careerbuilder.vn
+adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -558,6 +563,7 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
+log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -574,6 +580,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
+2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -615,7 +622,6 @@ ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
-adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
@@ -650,6 +656,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -836,6 +843,7 @@ bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
+breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -954,6 +962,7 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -976,6 +985,7 @@ defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
+deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
@@ -1287,6 +1297,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1347,7 +1358,6 @@ jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1394,7 +1404,6 @@ kkoobzmirh.com
 klkchits.com
 klumn.com
 knlqdtcbi.com
-knurleddeblock.guru
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
@@ -1703,6 +1712,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+peppaping.xyz
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -1753,6 +1763,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pq8ithtdw.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1780,6 +1791,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1838,7 +1850,6 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
-realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1855,6 +1866,7 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
+revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
@@ -1892,6 +1904,7 @@ rtbpop.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
+rtk.io
 ruckingefs.com
 rundsp.com
 rutpunishsnitch.com
@@ -1987,7 +2000,6 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
-stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -2111,7 +2123,6 @@ uphegroaglah.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
-urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
@@ -2120,6 +2131,7 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
+uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
