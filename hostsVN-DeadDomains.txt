@@ -108,7 +108,6 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -170,6 +169,7 @@ whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
+magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
@@ -216,6 +216,7 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
+tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -252,7 +253,6 @@ static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
-vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -308,9 +308,7 @@ www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
-service.maxymiser.net
 cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -470,7 +468,6 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-static.ambient-platform.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -486,8 +483,6 @@ cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
-cdn.pushdy.com
-www.pushdy.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -537,9 +532,7 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads.seovietnam.pro
 ads1.careerbuilder.vn
-adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -581,7 +574,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
-2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -648,6 +640,7 @@ ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.lordlucky.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -843,7 +836,6 @@ bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
-breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -962,7 +954,6 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
-dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -985,7 +976,6 @@ defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
-deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
@@ -1050,6 +1040,7 @@ ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
+ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1160,7 +1151,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1170,7 +1160,6 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-ginpithed.live
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1234,6 +1223,7 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+harderjuniormisty.com
 harib-eir.info
 hasanjbam.com
 haufeechaukept.com
@@ -1244,7 +1234,6 @@ hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
-heap.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1438,6 +1427,7 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
+legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
@@ -1481,6 +1471,7 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
+lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1662,6 +1653,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1803,6 +1795,7 @@ pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
+pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
@@ -1840,6 +1833,7 @@ rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
+razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
@@ -1861,7 +1855,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
-revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
@@ -1899,7 +1892,6 @@ rtbpop.com
 rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
-rtk.io
 ruckingefs.com
 rundsp.com
 rutpunishsnitch.com
@@ -2128,7 +2120,6 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
-uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
@@ -2220,6 +2211,7 @@ woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
+wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
@@ -2285,6 +2277,8 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
+zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
