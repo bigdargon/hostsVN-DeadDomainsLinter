@@ -1,5 +1,4 @@
 googleads-cn.com
-blueserving.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -384,7 +383,6 @@ js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -591,6 +589,7 @@ ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
+ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
@@ -601,6 +600,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -757,7 +757,6 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
-beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -768,14 +767,12 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
-bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
-blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
@@ -1051,7 +1048,6 @@ fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
-feenyrpxyps.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
@@ -1218,6 +1214,8 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
+hpdvgejc.com
+hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
@@ -1237,7 +1235,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1767,6 +1764,7 @@ qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
+qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
@@ -1811,8 +1809,6 @@ ricthaaz.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
-ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
 rkksbrkwdqbop.com
@@ -1900,6 +1896,7 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
+slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -1913,9 +1910,9 @@ soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 soliads.net
-solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -1961,7 +1958,6 @@ swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
-szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -1983,7 +1979,6 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
-theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -2094,7 +2089,6 @@ vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
-volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
@@ -2226,7 +2220,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
