@@ -113,7 +113,6 @@ adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -286,6 +285,7 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -344,6 +344,7 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
+px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -365,6 +366,7 @@ hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -391,7 +393,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -399,7 +400,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -416,6 +416,7 @@ track.daly2024.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
+klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
@@ -495,6 +496,7 @@ mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -598,7 +600,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -777,7 +778,6 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
-boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -955,7 +955,6 @@ dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
-dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
 doruffletr.com
@@ -963,7 +962,6 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 drydrum.com
-dsp.io
 ductathing.com
 duimspruer.life
 dulrihaungy.com
@@ -986,6 +984,7 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
+egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
@@ -1237,6 +1236,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1302,6 +1302,7 @@ jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
+jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
@@ -1381,6 +1382,7 @@ leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligeia-gip.com
@@ -1405,6 +1407,7 @@ lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
+lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
@@ -1478,6 +1481,7 @@ mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
+morningamidamaruhal.com
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
@@ -1588,7 +1592,6 @@ opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
-opzazcvitci.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1728,7 +1731,6 @@ ptukasti.com
 ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1786,7 +1788,6 @@ rdbzasvjgmnk.com
 rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
-receptiveink.com
 record.bonniergaming.com
 redmas.com
 reecegrita.com
@@ -1806,6 +1807,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1854,6 +1856,7 @@ salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
+scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
@@ -1880,6 +1883,7 @@ shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
+shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -2157,6 +2161,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
