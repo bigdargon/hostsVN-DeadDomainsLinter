@@ -84,6 +84,8 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
@@ -654,6 +656,7 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -691,12 +694,14 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
+ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -768,6 +773,8 @@ axx.seovietnam.pro
 aytcepmvxtelzf.com
 azoaltou.com
 azqohjahfo.com
+b5e75c56.com
+baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
@@ -1044,7 +1051,6 @@ ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
-ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1080,6 +1086,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
@@ -1461,6 +1468,7 @@ loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
+lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
@@ -1627,7 +1635,6 @@ olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
-olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
@@ -1921,6 +1928,7 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
+seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -2005,7 +2013,6 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
-sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
@@ -2017,6 +2024,8 @@ sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
+syyycc.com
+szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -2213,7 +2222,6 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
-wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 wqjbldnnceroue.com
