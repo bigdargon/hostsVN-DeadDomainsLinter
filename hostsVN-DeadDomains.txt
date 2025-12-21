@@ -163,7 +163,6 @@ aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
-lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
@@ -181,7 +180,6 @@ www.bkrtx.com
 pmddby.com
 s.pmddby.com
 brand.ad
-a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
@@ -398,7 +396,6 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
-ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
@@ -553,9 +550,7 @@ bidgear-syndication.com
 bloggiamgia.info
 clix.vn
 crocopop.com
-iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 serving-ad.tv24.vn
@@ -665,7 +660,6 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
-adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -766,7 +760,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -1007,7 +1000,6 @@ dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
-diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -1330,6 +1322,7 @@ interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
+intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
@@ -1401,7 +1394,6 @@ keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
-kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -1466,6 +1458,7 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
+loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1665,6 +1658,7 @@ orbsclawand.com
 orcpfawzuvfe.com
 organicbonus.com
 orhavpfavxu.com
+orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
@@ -1748,6 +1742,7 @@ playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
+pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -1792,7 +1787,7 @@ ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
 ptuxapow.com
-ptygunjk.com
+publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
@@ -2176,6 +2171,7 @@ vudachisouxouk.net
 vugnubier.com
 vugpakba.com
 vujdudspear.com
+vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
@@ -2329,7 +2325,6 @@ track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
-usergrid.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
