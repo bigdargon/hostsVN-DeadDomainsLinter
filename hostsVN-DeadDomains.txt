@@ -136,6 +136,7 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
+www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
@@ -235,7 +236,6 @@ zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
-imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
@@ -321,6 +321,7 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
+stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -463,7 +464,6 @@ mautic.hicity.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
-img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -483,7 +483,6 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
-watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -621,9 +620,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
-adsk2.co
-adskape.ru
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -667,6 +663,7 @@ ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -705,6 +702,7 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
+asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -994,6 +992,7 @@ duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
+dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
@@ -1032,7 +1031,6 @@ enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
-epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -1058,6 +1056,7 @@ ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
+fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1549,6 +1548,7 @@ nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
+nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
@@ -1603,7 +1603,6 @@ olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
-ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
@@ -1783,7 +1782,6 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
-qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1919,6 +1917,7 @@ shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
+shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
