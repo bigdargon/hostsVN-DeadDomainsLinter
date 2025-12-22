@@ -17,7 +17,6 @@ sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
-certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -29,6 +28,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -176,6 +176,7 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+fadskis.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -216,6 +217,7 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
+uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -352,6 +354,7 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
+matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -476,6 +479,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.vmax.vn
 cdn.myad.vn
+customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
@@ -528,7 +532,6 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
-serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -635,7 +638,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -671,6 +673,8 @@ aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
+ajggirci.com
+ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
@@ -731,6 +735,7 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -752,7 +757,6 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
-azkcqs.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -955,6 +959,7 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
+dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -1057,14 +1062,11 @@ eringosdye.com
 erosyndc.com
 errantstetrole.com
 eryondistain.com
-escortlarbul.com
 euros4click.de
 evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
-exogripper.com
-exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
@@ -1281,7 +1283,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1591,6 +1592,7 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oalselry.com
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1610,6 +1612,7 @@ ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
+ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
@@ -1629,7 +1632,6 @@ omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
-oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
@@ -1786,6 +1788,7 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
+purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1921,7 +1924,6 @@ secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
-seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
@@ -1977,7 +1979,6 @@ spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
-specificallycries.com
 specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
@@ -2178,7 +2179,6 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
