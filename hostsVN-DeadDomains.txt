@@ -216,7 +216,6 @@ rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
-uswest.rtb.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -353,7 +352,6 @@ geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -478,7 +476,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.vmax.vn
 cdn.myad.vn
-customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
@@ -638,6 +635,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -647,6 +645,7 @@ adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
+advantagesclotblend.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -672,8 +671,6 @@ aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
-ajggirci.com
-ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
@@ -700,6 +697,7 @@ an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
+anmfweogja.com
 annxwustakf.com
 antio-nar.com
 anymoreeruptuncharted.com
@@ -733,7 +731,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -755,6 +752,7 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
+azkcqs.com
 azoaltou.com
 azqohjahfo.com
 b5e75c56.com
@@ -875,6 +873,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -896,6 +895,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
+clickadin.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -955,7 +955,6 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
-dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -1187,6 +1186,7 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
+gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
@@ -1281,6 +1281,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1609,7 +1610,6 @@ ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
-ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
@@ -1736,6 +1736,7 @@ playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
+pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -1785,7 +1786,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
-purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1950,6 +1950,7 @@ simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
+slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
@@ -1976,6 +1977,7 @@ spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
+specificallycries.com
 specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
@@ -2130,6 +2132,7 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
+vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
@@ -2190,6 +2193,7 @@ wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
+wholesaletraffic.info
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
@@ -2235,6 +2239,7 @@ wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
+xfohaxohrjr.com
 xfozizqidav.com
 xfvvygrv.com
 xgbsklmqm.com
@@ -2321,6 +2326,7 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
