@@ -17,6 +17,7 @@ sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -28,7 +29,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -176,7 +176,6 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
-fadskis.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -532,6 +531,7 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
+serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -605,7 +605,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -638,6 +637,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -772,8 +772,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
-banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
@@ -948,7 +946,6 @@ cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
-cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 dacmaiss.com
@@ -1062,11 +1059,14 @@ eringosdye.com
 erosyndc.com
 errantstetrole.com
 eryondistain.com
+escortlarbul.com
 euros4click.de
 evenimbauba.cfd
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
+exogripper.com
+exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
@@ -1283,6 +1283,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1592,7 +1593,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oalselry.com
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1632,6 +1632,7 @@ omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
+oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
@@ -1655,7 +1656,6 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
-orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1924,6 +1924,7 @@ secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
+seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
@@ -1981,7 +1982,6 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
-sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -2024,7 +2024,6 @@ szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
-tagular.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
@@ -2179,6 +2178,7 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
+wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
