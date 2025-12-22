@@ -224,7 +224,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
@@ -428,6 +427,8 @@ ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
+srv.amntx1.net
+track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -521,8 +522,6 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
-clix.vn
-crocopop.com
 iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
@@ -638,6 +637,7 @@ adserver2.mindshare.de
 adsk2.co
 adskape.ru
 adsmogo.mobi
+adsmogo.org
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -675,7 +675,6 @@ ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
-ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
@@ -684,11 +683,7 @@ alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
 allstarmediagroup.com
-altronopubacc.com
-aluminiumfamily.top
 alwtupwwafu.com
-alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -725,7 +720,6 @@ asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
-aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -796,6 +790,7 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
+bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -958,7 +953,6 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
-defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -1039,7 +1033,6 @@ encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
-enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
@@ -1087,7 +1080,6 @@ fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
-feenyrpxyps.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
@@ -1148,6 +1140,7 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+giggedguddle.com
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1182,6 +1175,7 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
+grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1377,6 +1371,7 @@ kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
+klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
@@ -1439,9 +1434,7 @@ loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
-lorybnfh.com
 louchees.net
-lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
@@ -1576,6 +1569,7 @@ nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
 oackoubs.com
+oahaurti.com
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1687,7 +1681,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1703,6 +1696,7 @@ phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
+piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
@@ -1813,6 +1807,7 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
+raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1989,9 +1984,7 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-svkmxwssih.com
 swarthymacula.com
-sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
@@ -2107,6 +2100,7 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 vazcukap.com
+vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
@@ -2288,6 +2282,7 @@ metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
+q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
