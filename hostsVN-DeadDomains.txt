@@ -102,13 +102,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-afe2.specificclick.net
-afe3.specificclick.net
-dlx.specificclick.net
-dp2.specificclick.net
-mpp2.specificclick.net
-rome.specificclick.net
-www.specificclick.net
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
@@ -131,7 +124,6 @@ aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
-ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -223,7 +215,6 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -235,9 +226,6 @@ apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -292,7 +280,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -351,9 +338,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -405,12 +389,14 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -605,6 +591,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admedia.network
@@ -618,7 +605,6 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
-ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -637,10 +623,8 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
-adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -709,7 +693,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
@@ -745,7 +728,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
@@ -772,10 +754,13 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
+banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
+baresi.xyz
 barnesandnoble.bfast.com
 barscreative1.com
 baste-znl.com
@@ -848,12 +833,10 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-c.cdn-server.top
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -862,7 +845,6 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
-carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -946,6 +928,7 @@ cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
+cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 dacmaiss.com
@@ -1042,7 +1025,6 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
-encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1073,7 +1055,6 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
-eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
@@ -1245,7 +1226,6 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1283,7 +1263,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1656,6 +1635,7 @@ organicbonus.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1806,7 +1786,6 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
-qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
@@ -1851,7 +1830,6 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1982,6 +1960,7 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
+sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -2024,6 +2003,7 @@ szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
+tagular.com
 tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
@@ -2300,6 +2280,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zkyrzoqc.com
 zmalalxt.com
 zmedia.com
 zpefriam.com
