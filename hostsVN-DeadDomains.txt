@@ -152,7 +152,6 @@ bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
-bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
@@ -472,7 +471,6 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -589,6 +587,7 @@ ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
+adcenter.net
 adcloud.net
 adformdsp.net
 adk2.co
@@ -620,6 +619,7 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
+adserver.pl
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -723,7 +723,6 @@ aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
-automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
@@ -927,8 +926,6 @@ culwcoam.com
 curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
-cuxdiqagcl.com
-cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -998,6 +995,7 @@ dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
+dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
@@ -1005,6 +1003,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 ecstaticquiltrye.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -1094,6 +1093,7 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
+foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
@@ -1227,6 +1227,7 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
+hittail.com
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
@@ -1262,7 +1263,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1625,6 +1625,7 @@ opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
+oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
@@ -1761,7 +1762,6 @@ ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
 ptukasti.com
-ptuxapow.com
 ptygunjk.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1937,6 +1937,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
+smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -2047,6 +2048,7 @@ tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
+touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
@@ -2103,7 +2105,6 @@ uselnk.com
 userresewn.com
 ushoofop.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
