@@ -45,6 +45,7 @@ rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
+ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
@@ -302,6 +303,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -354,10 +356,12 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
+cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
+delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 connect.idocdn.com
@@ -555,7 +559,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -598,7 +601,6 @@ ads2.rne.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -692,6 +694,7 @@ ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
+audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
@@ -870,7 +873,6 @@ colonialismmarch.com
 combitly.com
 commodityshortlysurviving.com
 communicatequietboost.com
-compatriotelephant.com
 compensationpropulsion.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -893,7 +895,6 @@ critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
-culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cussersimmure.click
@@ -961,7 +962,6 @@ doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
-drydrum.com
 dsp.io
 ductathing.com
 duimspruer.life
@@ -1084,6 +1084,7 @@ fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
+fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1134,8 +1135,8 @@ gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
+grand-prize.xyz
 grandioseguide.com
-great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
@@ -1305,7 +1306,6 @@ jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
-jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jucysh.com
@@ -1522,6 +1522,7 @@ niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
+noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 nqcgdvuuyxwj.com
@@ -1543,6 +1544,7 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
+obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1580,7 +1582,6 @@ onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
-ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
@@ -1648,7 +1649,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1742,7 +1742,9 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
+qakzfubfozaj.com
 qarhrytwyqp.com
+qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
@@ -1750,8 +1752,6 @@ qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
-qlpenuxctkhwv.com
-qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
@@ -1872,6 +1872,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1959,6 +1960,7 @@ syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
+tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
@@ -1982,8 +1984,8 @@ thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
-thootipheguph.com
 thougnoangi.com
+thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
@@ -2079,7 +2081,6 @@ viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
-vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
@@ -2120,7 +2121,6 @@ wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weuppwrlcper.com
-wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 whoonseepoutche.net
