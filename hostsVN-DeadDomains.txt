@@ -127,6 +127,7 @@ aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
+ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -144,6 +145,7 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
+action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -400,6 +402,8 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv671.me
+ads.livetv676.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -519,6 +523,7 @@ upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
+analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -542,7 +547,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
-2447march2024.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
@@ -618,11 +622,9 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -719,12 +721,12 @@ audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
-autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
+avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -735,7 +737,6 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
-azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -844,7 +845,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -914,6 +914,7 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
+creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -1096,6 +1097,7 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1338,7 +1340,6 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1735,6 +1736,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1836,12 +1838,12 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
+rev2pub.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1883,7 +1885,6 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
@@ -2013,6 +2014,7 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
+techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
@@ -2046,7 +2048,6 @@ tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
-tospointor.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2130,6 +2131,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2153,6 +2155,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2206,7 +2209,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
