@@ -80,7 +80,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 ad.kau.li
-analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -260,7 +259,6 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
 geo-service.aicactus.io
@@ -402,9 +400,8 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv671.me
-ads.livetv676.me
 ads.livetv687.me
+ads.livetv691.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -508,7 +505,6 @@ adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -518,6 +514,7 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
+quangcao.fff.com.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
@@ -534,6 +531,7 @@ log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
+tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
@@ -547,6 +545,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2435march2024.com
 2437march2024.com
 2439march2024.com
+2447march2024.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
@@ -567,8 +566,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abcahpkkuba.com
-abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -622,6 +619,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -721,6 +719,7 @@ audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
+autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
@@ -737,6 +736,7 @@ axiomaticalley.com
 axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
+azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
@@ -878,6 +878,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
+click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -1097,7 +1098,6 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
-forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1396,11 +1396,9 @@ lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
-lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
 lauloajaiph.net
-lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1446,6 +1444,7 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 luchuwarwrud.com
+lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1615,6 +1614,7 @@ oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
+onmawmojth.com
 ontosocietyweary.com
 onvictinitor.com
 ootchoft.com
@@ -2033,7 +2033,6 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2155,7 +2154,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
