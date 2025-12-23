@@ -42,7 +42,6 @@
 00443044.com
 0044789.com
 0045n.com
-0047n.com
 0048n.com
 0048v.com
 0049v.com
@@ -2182,6 +2181,11 @@
 1717x2.app
 1717x20.app
 1717x3.app
+<<<<<<< Updated upstream
+=======
+1717x4.app
+1717x5.app
+>>>>>>> Stashed changes
 1717x6.app
 1717x7.app
 1717x9.app
@@ -2627,6 +2631,8 @@
 1949yh.com
 194tycvip.com
 1951n.com
+195232.com
+195233.com
 1953n.com
 1953t.com
 1953x.com
@@ -3186,7 +3192,6 @@
 2144s.com
 2145511.com
 2145x.com
-21467.net
 214730.com
 21474.bet
 2147t.com
@@ -3313,6 +3318,7 @@
 22111888.com
 22115524.com
 22115v.com
+2211777.com
 2211789.com
 2212n.com
 2212p.com
@@ -3575,7 +3581,6 @@
 23388899.net
 23389966.net
 233hgc.com
-233yb.com
 234075.com
 234076.com
 2340f9.com
@@ -3649,10 +3654,7 @@
 2359t.com
 236040.com
 2360p.com
-<<<<<<< Updated upstream
 23610.vip
-=======
->>>>>>> Stashed changes
 23611.live
 23612.live
 23613.live
@@ -3662,7 +3664,12 @@
 23616.biz
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+23617.live
+>>>>>>> Stashed changes
+=======
+23616.live
 23617.live
 >>>>>>> Stashed changes
 =======
@@ -4385,6 +4392,7 @@
 2793t.com
 2795n.com
 2795t.com
+2796s.com
 2797t.com
 279yb.com
 27bet999.bet
@@ -5299,7 +5307,6 @@
 33789vip.com
 337fun.com
 337vn.com
-3380n.com
 3381n.com
 3381w.com
 338357.com
@@ -5534,12 +5541,14 @@
 3518t.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 35194.live
 >>>>>>> Stashed changes
 =======
-35194.live
+=======
 >>>>>>> Stashed changes
+35194.live
 35199s.com
 35211u.com
 352177.com
@@ -5590,6 +5599,7 @@
 3557n.com
 35585.com
 3558899.com
+355jhp.com
 355yb.com
 3561h.com
 3561j.com
@@ -5741,6 +5751,7 @@
 365337.vip
 365365248.com
 365488.com
+3655007.com
 365518.vip
 365519.vip
 36558h.com
@@ -5786,6 +5797,8 @@
 365777999.com
 365777gg.com
 365838.com
+365851.com
+365852.com
 365888666.com
 3658t.com
 3659003.vip
@@ -6883,7 +6896,6 @@
 40836.org
 408653.com
 4088n.com
-408mg.com
 408vn.com
 408yb.com
 4093t.com
@@ -7905,6 +7917,7 @@
 4855s.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 4858g.com
 4858h.com
 =======
@@ -7934,6 +7947,13 @@
 4858s.com
 4858sss.com
 4858t.com
+>>>>>>> Stashed changes
+=======
+4858e.com
+4858qqq.com
+4858s.com
+4858t.com
+4858y.com
 >>>>>>> Stashed changes
 4862x.com
 4864t.com
@@ -9621,6 +9641,7 @@
 5995n.com
 5995t.com
 5995w.com
+5996n.com
 5996t.com
 59975v.com
 59976v.com
@@ -9697,7 +9718,6 @@
 6067937.com
 6071x.com
 60764.wang
-60768.com
 6076x.com
 60777.xyz
 6077n.com
@@ -10166,7 +10186,6 @@
 6397x.com
 63998v.com
 63bet999.bet
-63wan.com
 63yd.bet
 6400js.com
 6400v.com
@@ -10545,9 +10564,12 @@
 666373a.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 666382.com
 =======
 666380.com
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -11325,7 +11347,6 @@
 6936v.com
 69370b.com
 6937t.com
-69387.vip
 6939j.com
 6939t.com
 6940t.com
@@ -11833,6 +11854,7 @@
 726750.com
 72675500.com
 72675544.com
+7267555.com
 72676644.com
 72676677.com
 72677733.com
@@ -14046,12 +14068,14 @@
 8311x.com
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 83124.vip
 >>>>>>> Stashed changes
 =======
-83124.vip
+=======
 >>>>>>> Stashed changes
+83124.vip
 83135.vip
 831390.com
 8315n.com
@@ -14729,12 +14753,14 @@
 87225.vip
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 87226.vip
 >>>>>>> Stashed changes
 =======
-87226.vip
+=======
 >>>>>>> Stashed changes
+87226.vip
 87229.vip
 8722p.com
 8723t.com
@@ -17189,6 +17215,7 @@ apnkpn.xyz
 app.333666.buzz
 app.vnd119.com
 app1.lwcip.vip
+app2337.com
 app53567.com
 app60060.com
 app60999.com
@@ -17416,7 +17443,6 @@ b2891.com
 b2898.com
 b28w.com
 b29.cafe
-b2933.com
 b2c3d4.fun
 b3178.com
 b3187.com
@@ -19454,7 +19480,6 @@ dss688.com
 dt167.com
 dt282.com
 dt298.com
-dt56.com
 dt585.com
 dt928.com
 dt986.com
@@ -19661,6 +19686,7 @@ f69779.com
 f6gwn.com
 f6vau.com
 f7wd3.com
+f8009.com
 f8016.com
 f8017.com
 f8025.com
@@ -19801,6 +19827,7 @@ fdcgkb4.com
 fdd35.com
 fe-source.czcbnnm.com
 feh03n9z5.com
+felix88.com
 fen1234.com
 fen1239.com
 fen1241.com
@@ -20541,6 +20568,7 @@ g22hf.com
 g2588.com
 g2775.com
 g2g168f.live
+g2g168t.online
 g2t5p8.buzz
 g3327.com
 g3555.com
@@ -20746,6 +20774,7 @@ go88play.net
 go88xyz.com
 go99.forex
 go99.vip
+goal123.info
 goal123.online
 gobet188.net
 gobetting.live
@@ -20815,7 +20844,6 @@ gql.lt119.online
 grabet777.com
 grandlisboa6.com
 group.vua2-ldp.com
-groupteamnames.com
 gs2299.com
 gs3338.com
 gs5514.com
@@ -21167,6 +21195,7 @@ haha997.com
 hahabet131.com
 haidang1102.vip
 haiduongclub88.vip
+haishengshipping.com
 haistrit.com
 haitac102.win
 hakim28.vip
@@ -23847,15 +23876,22 @@ noonjojo.vip
 nop2533.vip
 notp88.com
 notzakc9.vip
+nova88-indo.club
 nova88-indo.net
+nova88-indo.site
+nova88-indo105.info
 nova88-indo802.info
 nova88-indo805.info
 nova88-login.com
 nova88.social
 nova88asli.com
+nova88cash.com
+nova88casino.com
 nova88idn.club
+nova88idn.info
 nova88india.info
 nova88malay.com
+nova88win.com
 nsea.vip
 nss26.com
 nu008.vip
@@ -24125,6 +24161,7 @@ ph18.bet
 ph19.bet
 ph20.bet
 ph262.bet
+ph2ph.com
 ph4554.com
 ph77.biz
 ph77711.cc
@@ -24487,6 +24524,7 @@ play.appsdownload.shop
 play.b52vn.org
 play.downloadgame.club
 play.downloadgame.live
+play.gamedownload.info
 play.gamedownload.pro
 play.gamedownloads.app
 play.go88cx.com
@@ -25541,7 +25579,6 @@ srr181.com
 ss0104.com
 ss0110.com
 ss0112.com
-ss0126.com
 ss11.vip
 ss633.com
 ss8827.com
@@ -25660,14 +25697,11 @@ sx88994.com
 sx88996.com
 sx88997.com
 sy0002.com
-sy0008.com
-sy01.vip
 sy1115.com
 sy1116.com
 sy1117.com
 sy1800.com
 sy2224.com
-sy3003.com
 sy3355.com
 sy3838.com
 sy66.fun
@@ -26484,7 +26518,12 @@ uz42g.com
 v0035.com
 v0383.com
 v0486.com
+<<<<<<< Updated upstream
 v0521.com
+=======
+v0630.com
+v11112.com
+>>>>>>> Stashed changes
 v11169.com
 v1287.com
 v188xj.com
@@ -26722,7 +26761,6 @@ vn138casino.com
 vn138link.net
 vn138mayman.com
 vn138thomo.com
-vn2.ku6111.net
 vn270.com
 vn2ku61219.asia
 vn312.com
@@ -27320,7 +27358,6 @@ wt2985.com
 wt3568.com
 wt3569.com
 wu0000.com
-wu333.com
 ww3yt.com
 ww8818.com
 ww8826.cc
@@ -27563,6 +27600,7 @@ www.lchvn.com
 www.lg585.com
 www.lklklklk.space
 www.lt119.online
+www.m8winvip.com
 www.mu055.com
 www.mu111.vip
 www.mu88.ae
@@ -27590,6 +27628,7 @@ www.st00001.com
 www.tai789.net
 www.tai789.win
 www.taib52.vin
+www.tbab395.com
 www.thabet88.info
 www.tj3lm.vip
 www.tk326.com
@@ -27893,7 +27932,6 @@ x3059.com
 x3064.com
 x3143.com
 x31789.com
-x33033x.com
 x3476.com
 x3500.com
 x3543.com
