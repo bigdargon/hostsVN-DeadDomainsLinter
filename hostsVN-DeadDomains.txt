@@ -101,6 +101,7 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -126,7 +127,6 @@ aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
-ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -144,7 +144,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -266,6 +265,7 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
+vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -312,6 +312,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -475,6 +476,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
+embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -500,6 +502,7 @@ adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
+aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -516,7 +519,6 @@ upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
-analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -666,7 +668,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
-allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -715,6 +716,7 @@ atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
+aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -723,7 +725,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -766,6 +767,7 @@ bcaojrbriciw.com
 beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
+bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
 bedrapiona.com
@@ -842,6 +844,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -911,7 +914,6 @@ cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
-creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
@@ -1114,6 +1116,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
+fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
@@ -1259,6 +1262,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1334,6 +1338,7 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
+jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1372,6 +1377,7 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1430,6 +1436,7 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -1532,6 +1539,7 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
+netcommunities.com
 netflame.cc
 news-central.org
 news-muheji.com
@@ -1660,6 +1668,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1726,7 +1735,6 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1792,6 +1800,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
@@ -1827,12 +1836,12 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-rev2pub.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1874,6 +1883,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saimifoa.net
@@ -2003,7 +2013,6 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
-techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
@@ -2037,6 +2046,7 @@ tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
+tospointor.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2120,7 +2130,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2197,6 +2206,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
