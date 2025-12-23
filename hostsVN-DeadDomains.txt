@@ -17,10 +17,12 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
+alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
+certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
@@ -404,7 +406,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -585,6 +586,7 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
+ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
@@ -592,6 +594,8 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
+adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -641,14 +645,11 @@ adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 afearprevoid.com
-affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
-agafurretor.com
 agapios-gla.com
 agghriwaz.com
-agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -721,6 +722,7 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -755,6 +757,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -851,6 +854,7 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
+cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -1266,7 +1270,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1317,8 +1320,10 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
+jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
+jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -1381,7 +1386,6 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1462,7 +1466,6 @@ lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
-madserve.org
 mafrarc3e9h.com
 makemydownload.com
 makespram.com
@@ -1520,7 +1523,6 @@ msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
-munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1658,7 +1660,6 @@ ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjwhuaklf.com
-owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
@@ -1677,6 +1678,7 @@ pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
+parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
@@ -1921,6 +1923,7 @@ shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
+shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -1936,6 +1939,9 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
+slopeaota.com
+slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2151,7 +2157,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
