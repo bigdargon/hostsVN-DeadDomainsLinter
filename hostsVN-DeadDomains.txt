@@ -5,7 +5,11 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
+p.medialytics.com
 px.cdn.creative.medialytics.com
+addthisedge.com
+m.addthisedge.com
+v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -115,7 +119,6 @@ all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1549.online
-aj1754.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -374,6 +377,7 @@ telemetries.jeeng.com
 users.api.jeeng.com
 pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
+tiads.timeinc.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -613,6 +617,8 @@ ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
+ads.passion.com
+ads.redlightcenter.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -763,6 +769,7 @@ bannermarkt.nl
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
@@ -849,19 +856,21 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
+cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
+cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
+chertouz.net
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
@@ -896,7 +905,6 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
-commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -920,6 +928,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1022,7 +1031,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
-ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -1265,7 +1273,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1289,6 +1296,7 @@ ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
+internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1349,7 +1357,6 @@ jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
-kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
@@ -1506,7 +1513,7 @@ mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
-mobbersinwalls.com
+mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1738,7 +1745,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1983,6 +1989,7 @@ stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stormyachiever.com
+streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
@@ -2213,6 +2220,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2264,8 +2272,10 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
+yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
@@ -2291,6 +2301,7 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
+gotoip55.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
@@ -2304,12 +2315,14 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+snnd.co
 tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
+vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
