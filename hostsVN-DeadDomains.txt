@@ -32,7 +32,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -235,7 +234,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
-zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
@@ -300,7 +298,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -312,6 +309,7 @@ www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -328,9 +326,10 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
+image.b91vip.com
 www.b91vip.com
+network.adclickmedia.com
 tracking.adclickmedia.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -566,6 +565,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
+aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
@@ -584,6 +584,7 @@ ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
+ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
@@ -625,6 +626,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -704,7 +706,6 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
-arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -915,6 +916,7 @@ convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
+cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
@@ -1023,7 +1025,6 @@ ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
-ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1059,6 +1060,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
@@ -1161,6 +1163,7 @@ goohimom.net
 gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
+gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
@@ -1324,7 +1327,6 @@ jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
-jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -1800,6 +1802,9 @@ qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
+qtpwgglrohgp.com
+qtspkqzn.com
+quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -2158,6 +2163,7 @@ vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
+wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
@@ -2190,13 +2196,13 @@ wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
-wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2224,6 +2230,7 @@ xfvvygrv.com
 xgbsklmqm.com
 xgdnjxlmi.com
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
