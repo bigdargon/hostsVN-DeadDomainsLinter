@@ -5,7 +5,6 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
@@ -236,6 +235,7 @@ zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
+imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
@@ -464,6 +464,7 @@ mautic.hicity.vn
 mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -483,6 +484,7 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
+watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -602,6 +604,7 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -620,6 +623,9 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
+adsk2.co
+adskape.ru
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -843,15 +849,14 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
-cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
-cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -1031,6 +1036,7 @@ enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
+epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
@@ -1501,7 +1507,6 @@ mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
-mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
@@ -1603,6 +1608,7 @@ olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
+ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
@@ -1782,6 +1788,7 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
+qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1976,7 +1983,6 @@ stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stormyachiever.com
-streakattempt.com
 stunninglover.com
 subheroalgores.com
 suddenvampire.com
@@ -2207,7 +2213,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2259,10 +2264,8 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
-yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
-yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
