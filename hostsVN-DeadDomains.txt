@@ -17,12 +17,10 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
-alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
-certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
@@ -32,6 +30,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
+advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -234,6 +233,7 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
+zetadeo.com
 auxml.com
 ei.imstks.com
 i.imstks.com
@@ -298,6 +298,7 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
+images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -330,6 +331,7 @@ image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -402,6 +404,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -493,7 +496,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ad.phunuxuavanay.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -583,7 +585,6 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
-ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
@@ -591,8 +592,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
-adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
@@ -706,6 +705,7 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -721,7 +721,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -756,7 +755,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -853,7 +851,6 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
-cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -1025,6 +1022,7 @@ ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
+ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1268,6 +1266,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1318,15 +1317,14 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
-jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
-jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
+jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -1679,7 +1677,6 @@ pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
-parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
@@ -1924,7 +1921,6 @@ shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
-shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -1940,9 +1936,6 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
-slopeaota.com
-slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2196,6 +2189,7 @@ wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
+wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
