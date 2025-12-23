@@ -1,4 +1,4 @@
-# Version: 2512161623
+# Version: 2512231450
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14173,6 +14173,7 @@
 ||cutescale.online^
 ||cuxdiqagcl.com^
 ||cvvczlcg.com^
+||cwoamjkma.com^
 ||cwqljsecvr.com^
 ||cyberbounty.com^
 ||cycledaction.com^
@@ -15789,6 +15790,7 @@
 ||mg2connext.com^
 ||mgbid.net^
 ||mgepuynxttyi.com^
+||mgpsxcge.com^
 ||mgyccfrshz.com^
 ||mhavfytafo.com^
 ||mhelfiricbwa.com^
@@ -16295,6 +16297,7 @@
 ||ovrcuncunxp.com^
 ||ovxhhurafpi.com^
 ||owebmoney.ru^
+||owjaqdywlviyfe.com^
 ||owjwhuaklf.com^
 ||owlqahovgog.com^
 ||owlsr.us^
@@ -18317,6 +18320,7 @@
 ||yseyxucrhjfi.com^
 ||ytimm.com^
 ||ytjnpxiiqsblwb.com^
+||ytxwdnnlubenlm.com^
 ||yu225.com^
 ||yuilop.com^
 ||yume.com^

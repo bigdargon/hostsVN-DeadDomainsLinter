@@ -1,4 +1,4 @@
-# Version: 2512161623
+# Version: 2512231450
 ||000000.com^
 ||000000hd.com^
 ||000000tyc.com^
@@ -37468,6 +37468,7 @@
 ||789club.shop^
 ||789club.sx^
 ||789club.top^
+||789club.vin^
 ||789clubs.club^
 ||789clubs.vin^
 ||789clubvip.biz^
@@ -49258,6 +49259,7 @@
 ||api.ae88837.com^
 ||api.ae888sports02.com^
 ||api.aev9908.com^
+||api.atpman.net^
 ||api.az888ai.com^
 ||api.azhkthg1.net^
 ||api.bachhoa88.com^
@@ -49399,6 +49401,7 @@
 ||api.topbet.net^
 ||api.topbet.top^
 ||api.usbet.net^
+||api.usbet.win^
 ||api.uzzisk.site^
 ||api.v79top.com^
 ||api.v7king.com^
@@ -49422,6 +49425,7 @@
 ||api.wkfji4ut949jgmi9309rggnmk.com^
 ||api.yesgame.store^
 ||api.yeu88.games^
+||api100.atpman.net^
 ||api100.azhkthg1.net^
 ||api2-gateway.go88.com^
 ||api2.debet.uk^
@@ -52577,6 +52581,7 @@
 ||bii123.com^
 ||bikingkf.com^
 ||biliria.xyz^
+||billies.uk.com^
 ||bin88.com^
 ||bing.j88h7i.vip^
 ||bingo777a.com^
@@ -55618,6 +55623,7 @@
 ||cf68club.net^
 ||cf68vn.com^
 ||cfcrqc.com^
+||cfg.atpman.net^
 ||cfg.azhkthg1.com^
 ||cfi.vix88.com^
 ||cfi99.com^
@@ -57989,6 +57995,7 @@
 ||du5050.com^
 ||du5151.com^
 ||du5252.com^
+||du88.club^
 ||du88.com^
 ||duatop2024.net^
 ||dubai-speed.com^
@@ -63202,6 +63209,7 @@
 ||hbc789.com^
 ||hbc789.top^
 ||hbc789.work^
+||hbet.club^
 ||hbet.net^
 ||hbet.win^
 ||hbet888.com^
@@ -66204,7 +66212,10 @@
 ||ip5271.com^
 ||ip5279.com^
 ||ip9chokdee.com^
+||ipa.storeip-xeuiff.io^
+||ipa4.storeip-xeuiff.io^
 ||ipa4.vtnhatb.com^
+||ipa6.storeip-xeuiff.io^
 ||ipa6.vtnhatb.com^
 ||ipfunnew88.com^
 ||iph.bet^
@@ -69563,6 +69574,7 @@
 ||k8799.com^
 ||k87kjs32s239.com^
 ||k88.casino^
+||k88.club^
 ||k88.pro^
 ||k88.win^
 ||k8801.com^
@@ -73543,6 +73555,7 @@
 ||man88.net^
 ||man88.top^
 ||man88.vip^
+||man88.win^
 ||manabane.com^
 ||manasbotop.com^
 ||manbet111.com^
@@ -74504,6 +74517,7 @@
 ||modd168.com^
 ||modernspa-lb.com^
 ||modybb.com^
+||mohakchaturvedi.in.net^
 ||moi188188.com^
 ||momolloopp.xyz^
 ||monday271018.vip^
@@ -77853,6 +77867,7 @@
 ||prasitthichai.vip^
 ||premierbet.me^
 ||premierewagers444.com^
+||premiumcoffee.us.com^
 ||premiumpay88.com^
 ||presdyrc5.net^
 ||presport.bet^
@@ -79186,6 +79201,8 @@
 ||rh321c.com^
 ||rh3695.com^
 ||rhhseu.com^
+||ricbet.com^
+||ricbet.win^
 ||rich11sports.com^
 ||rich11sportsbet.com^
 ||rich55.com^
@@ -80964,6 +80981,8 @@
 ||snjh.vip^
 ||snjh8.com^
 ||so18tohieu.vip^
+||so79.com^
+||so79.win^
 ||so997.com^
 ||sobotop.com^
 ||soc.sieutaixiu79.club^
@@ -80994,6 +81013,7 @@
 ||socket.hdbet.com^
 ||socket.topbet.top^
 ||socket.usbet.net^
+||socket.usbet.win^
 ||soco88.com^
 ||socvip9.club^
 ||sodanum.vip^
@@ -81249,6 +81269,7 @@
 ||st855.com^
 ||st86ic.com^
 ||stack88.net^
+||stag.snstimg.com^
 ||stage-api-demo-games.top^
 ||staging.support^
 ||stake.bet^
@@ -81300,6 +81321,7 @@
 ||static.lu88.com^
 ||static.lucky88.com^
 ||static.roibest.com^
+||static.snstimg.com^
 ||static.thembong.tv^
 ||static.zo88.vip^
 ||static11bet.com^
@@ -84372,6 +84394,7 @@
 ||urbwhelp.com^
 ||url130.com^
 ||usbet.net^
+||usbet.win^
 ||uscasinos.com^
 ||usd111.vip^
 ||usd115.vip^
@@ -85035,6 +85058,8 @@
 ||vao.luky88.me^
 ||vao789club.win^
 ||vaob52.click^
+||vaobet.net^
+||vaobet.win^
 ||vaohitclub.me^
 ||vaoku.net^
 ||vaovchin.com^
@@ -85256,6 +85281,7 @@
 ||vic.win^
 ||vic2.club^
 ||vic88.com^
+||vic88.net^
 ||vicbet.com^
 ||vicplay.io^
 ||victorwin555.com^
@@ -88096,6 +88122,7 @@
 ||well789.com^
 ||well8089.com^
 ||well928.com^
+||wellbutrin.gb.net^
 ||wembley.co.com^
 ||weng6.com^
 ||wepxgq-5086140.w2pwa.com^
@@ -88736,6 +88763,7 @@
 ||wsports888.com^
 ||wsports888.net^
 ||wss.ra8988.com^
+||wssport.atpman.net^
 ||wstar77.com^
 ||wstar77.net^
 ||wt2358.com^
