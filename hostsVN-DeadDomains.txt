@@ -36,7 +36,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -120,6 +119,7 @@ dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -289,7 +289,6 @@ service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
-delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
@@ -335,7 +334,6 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
-hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
@@ -349,7 +347,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -481,6 +478,7 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
+embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -582,6 +580,7 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
+ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
@@ -627,6 +626,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -1144,7 +1144,6 @@ gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1271,7 +1270,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1330,7 +1328,10 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
+jizoqsor.com
 jkfdnofnz.com
+jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1521,7 +1522,6 @@ mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
-msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
@@ -1573,6 +1573,7 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
@@ -1841,6 +1842,7 @@ relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
+resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
 revoketypes.com
@@ -1881,6 +1883,7 @@ rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
+rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -2009,6 +2012,7 @@ taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
+tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2242,7 +2246,6 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
-yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
