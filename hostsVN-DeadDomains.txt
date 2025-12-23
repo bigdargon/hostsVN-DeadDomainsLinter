@@ -36,6 +36,7 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
@@ -289,6 +290,7 @@ service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
+delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
@@ -334,6 +336,7 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
@@ -341,12 +344,12 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -413,7 +416,6 @@ ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
-media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
@@ -582,7 +584,6 @@ acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
@@ -626,7 +627,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -646,7 +646,6 @@ affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
-agafurretor.com
 agapios-gla.com
 agghriwaz.com
 agtamzsm.com
@@ -751,8 +750,6 @@ babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
-baitpros.net
-baivideewou.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
@@ -895,7 +892,6 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -964,7 +960,6 @@ deligrassdull.com
 deliriamorula.shop
 deloplen.com
 demo123.info
-demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
@@ -1127,7 +1122,6 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
-fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -1144,6 +1138,7 @@ gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1270,6 +1265,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1459,12 +1455,10 @@ lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
-lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
-m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
@@ -1522,6 +1516,7 @@ mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
+msvobeuhec.com
 mt34iofvjay.com
 mulautuzign.com
 munchenviableski.com
@@ -1803,7 +1798,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
-qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1991,7 +1985,6 @@ stoorgel.com
 stormyachiever.com
 streakattempt.com
 stunninglover.com
-subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2079,7 +2072,6 @@ tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
-tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
 ufachoustoh.net
@@ -2131,7 +2123,6 @@ vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
-vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2246,6 +2237,7 @@ xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
+yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
