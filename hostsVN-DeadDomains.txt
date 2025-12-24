@@ -25,7 +25,6 @@ certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
-engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
@@ -91,7 +90,6 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -119,6 +117,7 @@ leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
+adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
@@ -193,8 +192,13 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+api.publift.com
+cdn.publift.com
 hb.publift.com
 npm.publift.com
+prebid.publift.com
+showroom2.publift.com
+tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
@@ -403,7 +407,7 @@ js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv637.me
+ads.livetv633.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -556,6 +560,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2451march2024.com
 2471april2024.com
 2473april2024.com
+2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
@@ -570,8 +575,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
-abbalgapb.com
-abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
@@ -737,9 +740,7 @@ avgkuvrtuz.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
-awhauchoa.net
 awvracajcsu.com
-awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
@@ -928,6 +929,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1019,8 +1021,10 @@ ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
+eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
@@ -1096,6 +1100,7 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1138,6 +1143,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1207,6 +1213,7 @@ gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
+hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
@@ -1272,6 +1279,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1389,8 +1397,12 @@ kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
+kuglcibhyhuj.com
 kugmisawqo.com
+kupefoarsadseer.com
 kvaurjynazce.com
+kvtaaa.top
+kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1490,6 +1502,7 @@ mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
+mg2connext.com
 mgbid.net
 mgepuynxttyi.com
 mhavfytafo.com
@@ -1537,7 +1550,6 @@ nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1878,7 +1890,6 @@ rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
-ru-traffic.com
 ruckingefs.com
 rukktiswibi.com
 rundsp.com
@@ -1959,7 +1970,6 @@ songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
-spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -1975,6 +1985,7 @@ starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
+stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
@@ -2211,6 +2222,7 @@ woomerapapacy.shop
 woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
+worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
