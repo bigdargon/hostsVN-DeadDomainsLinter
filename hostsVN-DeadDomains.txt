@@ -25,6 +25,7 @@ certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
+engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
 ext1.engageya.com
@@ -90,6 +91,7 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
+pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -219,7 +221,6 @@ ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
 xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -258,7 +259,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
-img.mondiad.net
 mondiad.net
 serve.mondiad.net
 c.netund.com
@@ -327,7 +327,6 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
-sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -408,6 +407,7 @@ track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -443,7 +443,6 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
-text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -566,15 +565,11 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
-3a2qi55fr.com
-3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
-3in6ko.com
-4d5.net
-4hfchest5kdnfnut.com
-4wnet.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
+abbalgapb.com
+abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
@@ -675,6 +670,7 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
+ak.unblitzlean.com
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
@@ -740,7 +736,9 @@ avgkuvrtuz.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awhauchoa.net
 awvracajcsu.com
+awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
@@ -888,6 +886,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
+click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -929,7 +928,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1100,7 +1098,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1209,7 +1206,6 @@ gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
-gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
@@ -1281,7 +1277,6 @@ hxpohplms.com
 hydraulzonure.com
 iadnet.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
@@ -1467,7 +1462,6 @@ lumpbackstage.com
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
-lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
@@ -1550,6 +1544,7 @@ nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1670,7 +1665,6 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
-owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
@@ -1970,6 +1964,7 @@ songbagoozes.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
+spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2273,7 +2268,6 @@ ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
-yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
