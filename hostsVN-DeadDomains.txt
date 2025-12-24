@@ -24,7 +24,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
@@ -254,6 +253,9 @@ ytvpaid.winadx.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
+delivery.adsterra.org
+www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -359,6 +361,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -455,6 +458,7 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.lamchame.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
@@ -560,11 +564,9 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
-ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
-ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
@@ -780,6 +782,7 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -873,7 +876,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -902,7 +904,6 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
-deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
@@ -1010,6 +1011,7 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
+exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1042,7 +1044,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1085,7 +1086,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1221,6 +1221,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1253,7 +1254,6 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
 ivwbox.de
@@ -1408,7 +1408,6 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
-lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
@@ -1864,6 +1863,7 @@ sermonoccupied.com
 servedbyopenx.com
 setypckq.com
 sf960.com
+sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
@@ -1900,6 +1900,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
+sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2145,6 +2146,7 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2183,6 +2185,8 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xsaeafkfilbcur.com
+xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
