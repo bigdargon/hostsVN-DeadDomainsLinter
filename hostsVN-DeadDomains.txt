@@ -13,7 +13,6 @@ alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
-certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
@@ -25,7 +24,6 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
-creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
@@ -117,6 +115,7 @@ aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
+ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
@@ -153,6 +152,7 @@ video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
+a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
@@ -401,7 +401,6 @@ www.klick.vn
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -495,9 +494,11 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
+228tuchuang.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
@@ -525,6 +526,7 @@ abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
+abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
@@ -562,6 +564,7 @@ ads.crakmedia.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.gaming-universe.de
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -836,10 +839,7 @@ cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
-clonesmesopic.com
-cloueewinkles.com
 cnt.spbland.ru
-coacoalaum.com
 coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
@@ -937,6 +937,7 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
@@ -959,7 +960,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -980,6 +980,7 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
+emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -1068,6 +1069,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1218,6 +1220,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1262,7 +1265,6 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
-jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1272,7 +1274,6 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
-jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
@@ -1314,6 +1315,7 @@ kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
+kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
@@ -1344,6 +1346,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1410,6 +1413,7 @@ lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
+madserve.org
 mafrarc3e9h.com
 makemydownload.com
 makespram.com
@@ -1478,6 +1482,7 @@ myolnyr5bsk18.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
+nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
@@ -1573,7 +1578,6 @@ opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
-oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
@@ -1858,6 +1862,7 @@ servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
+shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
@@ -1914,7 +1919,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
@@ -1990,7 +1994,6 @@ toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
-top20.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
@@ -2118,6 +2121,7 @@ wedxuaksargvlf.com
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
 whoonseepoutche.net
