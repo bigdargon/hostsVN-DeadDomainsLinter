@@ -16,6 +16,7 @@ client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
+sdk.a4.tl
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -77,10 +78,10 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
+torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -278,6 +279,10 @@ sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
+syndication.winadx.com
+tracking.winadx.com
+traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -407,9 +412,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv681.me
 ads.livetv687.me
-ads.livetv691.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -481,7 +484,6 @@ vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
-jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
@@ -588,9 +590,7 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 ad.bizo.com
-ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
@@ -858,6 +858,7 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -889,7 +890,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -1101,7 +1101,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1377,6 +1376,7 @@ keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
+kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
@@ -1495,7 +1495,6 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
-meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1503,6 +1502,7 @@ mfajfikmyqan.com
 mg2connext.com
 mgbid.net
 mgepuynxttyi.com
+mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
@@ -1787,7 +1787,6 @@ pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
-pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
@@ -1807,6 +1806,7 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
+qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
@@ -1856,7 +1856,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2216,7 +2215,6 @@ woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
-wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
@@ -2305,7 +2303,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
@@ -2315,6 +2312,7 @@ go.ad1data.com
 gotoip55.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
+img.leadzutw.com
 leadzutw.com
 logs.bytefence.com
 metrics.sdkbox.com
