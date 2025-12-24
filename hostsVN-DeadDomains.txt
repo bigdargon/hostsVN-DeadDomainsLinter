@@ -13,6 +13,7 @@ alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
+certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
@@ -24,6 +25,7 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
+creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
@@ -252,9 +254,6 @@ ytvpaid.winadx.com
 pgmcdn.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
-adsterra.org
-delivery.adsterra.org
-www.adsterra.org
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -360,7 +359,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -401,6 +399,7 @@ www.klick.vn
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
+hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -564,7 +563,6 @@ ads.crakmedia.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.gaming-universe.de
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -579,7 +577,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -783,7 +780,6 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
-bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -839,7 +835,10 @@ cjbmanagement.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
+clonesmesopic.com
+cloueewinkles.com
 cnt.spbland.ru
+coacoalaum.com
 coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
@@ -874,6 +873,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1010,7 +1010,6 @@ expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
-exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1043,6 +1042,7 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1085,6 +1085,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1220,7 +1221,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1265,6 +1265,7 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
+jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
@@ -1274,6 +1275,7 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
+jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
@@ -1578,6 +1580,7 @@ opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
+oqdtuqat.com
 oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
@@ -1861,7 +1864,6 @@ sermonoccupied.com
 servedbyopenx.com
 setypckq.com
 sf960.com
-sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
@@ -1898,7 +1900,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1919,6 +1920,7 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
+static.scptpx.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
@@ -2143,7 +2145,6 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
-wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2182,8 +2183,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
-xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
