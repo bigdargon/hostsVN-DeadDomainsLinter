@@ -32,9 +32,7 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -71,6 +69,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -84,7 +89,6 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -302,9 +306,11 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+eu.adpicmedia.net
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
@@ -346,6 +352,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -390,11 +398,13 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
+ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -428,6 +438,11 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+imp.m.ambientplatform.vn
+media.ambientplatform.vn
+metrics.m.ambientplatform.vn
+tool.cleverads.vn
+widget.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -437,6 +452,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -454,12 +470,16 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+www.codon.vn
+xads.codon.vn
 adx.vn
 matomo.hicity.vn
+matomo.shac.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.vmax.vn
+loind.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -531,6 +551,7 @@ log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
+tracker.phunusuckhoe.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -593,12 +614,13 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
+adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.asiafriendfinder.com
 ads.aspalliance.com
-ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
@@ -615,14 +637,13 @@ ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
-ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
+adskape.ru
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -634,7 +655,6 @@ adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
-adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -761,6 +781,7 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
+batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
@@ -931,6 +952,7 @@ cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
+d.appsdt.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
@@ -939,7 +961,6 @@ dancemistake.com
 dangerouswinter.com
 dapper.net
 dapperminecraft.online
-dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
@@ -1194,6 +1215,7 @@ gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
+gzaqwebtipm.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1247,7 +1269,6 @@ houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
-hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
@@ -1258,12 +1279,14 @@ hugazdazst.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
+huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1334,7 +1357,6 @@ jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
-jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -1419,6 +1441,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1632,6 +1655,7 @@ orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
+orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1756,7 +1780,6 @@ pscbrveha.com
 psipausaix.net
 psootchu.net
 ptaixout.net
-ptawehex.net
 ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
@@ -1771,6 +1794,7 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1896,7 +1920,6 @@ scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
-seaboblit.com
 seataverna.rest
 secondquaver.com
 seeablywitness.com
@@ -1997,6 +2020,7 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
+syndicate.purch.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2009,6 +2033,8 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
+tdcietast.com
+tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 tentaculos.net
@@ -2072,10 +2098,13 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
+ujqwhqjckhscl.com
+uknlemmsnn.com
 uktwvhfezyvxn.com
+ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
@@ -2096,6 +2125,7 @@ urechar.com
 urigagxnji.com
 uruswan.com
 uselnk.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2112,6 +2142,7 @@ vbqtfejdtqkjuf.com
 vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
+vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
@@ -2285,6 +2316,7 @@ burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
+e2.platform88798.com
 go.ad1data.com
 gotoip55.com
 hsbarbershop.co.uk
