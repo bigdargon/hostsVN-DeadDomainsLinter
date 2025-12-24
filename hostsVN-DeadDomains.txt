@@ -32,7 +32,6 @@ rfp.lkqd.net
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
-s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
@@ -40,7 +39,6 @@ us.lkqd.net
 v.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
@@ -67,6 +65,7 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
+yasni.adnetasia.com
 zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
@@ -228,7 +227,6 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 cdn.aicactus.io
@@ -541,6 +539,7 @@ ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
+ad.foxnetworks.com
 ad.kissasian.es
 ad1.emediate.dk
 adaftegloomto.com
@@ -576,7 +575,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
-adserver.beggarspromo.com
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
@@ -852,6 +850,7 @@ coherentgleaminglone.com
 coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
+commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
@@ -1008,7 +1007,6 @@ exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
-expdirclk.com
 expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
@@ -1059,7 +1057,6 @@ forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
-fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
@@ -1074,15 +1071,18 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
+fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
+gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
+gaiwhouvile.com
 gaizoopi.net
 galepush.net
 gaunchdelimes.com
@@ -1131,7 +1131,6 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
-grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -1219,6 +1218,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1289,7 +1289,6 @@ jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
-jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
@@ -1379,8 +1378,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
-lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
@@ -1485,6 +1482,7 @@ nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
+naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
@@ -1733,6 +1731,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1841,6 +1840,7 @@ salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
+scammereating.com
 scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -1935,7 +1935,6 @@ stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
-sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
@@ -2163,6 +2162,7 @@ wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
+www.shndrktrk.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2193,7 +2193,6 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -2206,7 +2205,6 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
-yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
@@ -2255,7 +2253,6 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
