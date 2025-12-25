@@ -24,6 +24,7 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
@@ -458,7 +459,6 @@ ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads.lamchame.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
@@ -491,7 +491,6 @@ log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -564,9 +563,11 @@ ads.bumq.com
 ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
+ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
@@ -579,6 +580,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -596,7 +598,6 @@ adyieldoptimizer.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
-afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
@@ -904,6 +905,7 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
+deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
@@ -1026,7 +1028,6 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
-fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
@@ -1105,7 +1106,6 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
-gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
@@ -1254,6 +1254,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
+itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
 ivwbox.de
@@ -1395,7 +1396,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1408,6 +1408,7 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
+lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 lzoazzruvkze.com
@@ -1662,7 +1663,6 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1879,7 +1879,6 @@ shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
-sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -2134,7 +2133,6 @@ whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
-wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
@@ -2209,7 +2207,6 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
-yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
