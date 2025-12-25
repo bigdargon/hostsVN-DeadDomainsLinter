@@ -2,7 +2,6 @@ googleads-cn.com
 blueserving.com
 swift.lifestreet.com
 medialytics.com
-a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -218,7 +217,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -289,6 +287,8 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
+sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -460,6 +460,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -496,8 +497,11 @@ log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
+logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
+statistics.vov2.vn
 stats.osd.vn
+track.kyna.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -579,6 +583,7 @@ ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
 ads.soft32.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -672,6 +677,7 @@ armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
+asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
@@ -1383,6 +1389,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1419,7 +1426,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1685,7 +1691,6 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
-pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1737,6 +1742,7 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1747,7 +1753,6 @@ pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
-qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
@@ -1792,6 +1797,7 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
+reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -1813,6 +1819,7 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
+rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -2058,7 +2065,6 @@ updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upset-project.com
-upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
@@ -2195,6 +2201,7 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
@@ -2249,7 +2256,6 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
-cankaowang.com
 comscoreresearch.com
 dolohen.com
 e2.platform88798.com
