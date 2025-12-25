@@ -18,6 +18,7 @@ certify-stage.alexametrics.com
 js.alexametrics.com
 pixel.alexametrics.com
 advertica-cdn.com
+ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
@@ -102,6 +103,7 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
+prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -144,6 +146,7 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -286,8 +289,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
-sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -340,6 +341,7 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
+delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
@@ -508,6 +510,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
+2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -576,7 +579,6 @@ ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
 ads.soft32.com
-ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -669,7 +671,7 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
-asfobftirag.com
+asdhhuztul.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
@@ -856,7 +858,6 @@ coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
-commissionmonster.com
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
@@ -919,6 +920,7 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloplen.com
+demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -1227,6 +1229,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1432,6 +1435,7 @@ mallogrow.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
+matecatenae.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1733,7 +1737,6 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
-pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1789,7 +1792,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -1811,7 +1813,6 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
@@ -1919,6 +1920,7 @@ spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
+spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -1965,6 +1967,7 @@ tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -2001,6 +2004,7 @@ tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
+tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
@@ -2191,7 +2195,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
