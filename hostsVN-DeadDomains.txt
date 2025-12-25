@@ -7,7 +7,9 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
 sdk.a4.tl
+alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
@@ -31,6 +33,7 @@ rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
+ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
@@ -44,7 +47,6 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
-zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
@@ -176,7 +178,6 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 optvx.com
-s.optvx.com
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -334,6 +335,7 @@ perf.logsss.com
 rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
+lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
@@ -356,7 +358,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
@@ -492,7 +493,6 @@ adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
-ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -609,6 +609,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -700,7 +701,6 @@ asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
-ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
@@ -732,7 +732,6 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 bajavdafwafp.com
@@ -908,6 +907,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -969,7 +969,6 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
@@ -1086,6 +1085,7 @@ fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
+fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1118,7 +1118,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1166,6 +1165,7 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
+grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -1185,7 +1185,6 @@ gyfumobo.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
-hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
@@ -1254,6 +1253,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1285,7 +1285,6 @@ inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
-iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
@@ -1379,6 +1378,7 @@ kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
+labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
@@ -1568,7 +1568,6 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
-octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1791,7 +1790,6 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
-quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
@@ -1808,6 +1806,7 @@ raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
+rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rduaagcwsw.com
@@ -1925,7 +1924,6 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2016,6 +2014,7 @@ thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
+thor-pom.com
 thougnoangi.com
 thounookra.com
 thumhuwbtt.com
@@ -2130,6 +2129,7 @@ voopsookie.net
 voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
+vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
@@ -2242,14 +2242,9 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
-yonomastara.com
-yonsandileer.com
-yougotacheck.com
-yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
-yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
@@ -2276,7 +2271,6 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
-burstly.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
