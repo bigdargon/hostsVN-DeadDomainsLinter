@@ -101,6 +101,7 @@ cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
+adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
@@ -273,6 +274,7 @@ pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
+adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 bidadx.com
@@ -304,6 +306,7 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
+cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -387,8 +390,8 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv673.me
-ads.livetv676.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -560,14 +563,12 @@ abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
-abqguldudbi.com
 abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -622,7 +623,9 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
+advariant.com
 adverdirect.com
+advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -660,6 +663,7 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
+allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -672,6 +676,7 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
+ancotvpaxoz.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -717,7 +722,6 @@ auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
-avhkihpfabt.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -777,7 +781,6 @@ beseechpill.com
 beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
-bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
@@ -803,7 +806,6 @@ brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
-bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -818,10 +820,10 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-bzyfzusiqohk.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -847,6 +849,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+centalkochab.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -912,12 +915,14 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cussersimmure.click
+cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
@@ -996,6 +1001,7 @@ earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
+ebvvvnjesjgx.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1006,8 +1012,6 @@ effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
-ehiibetu.com
-ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -1055,7 +1059,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1080,7 +1083,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1089,7 +1091,6 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
-foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
@@ -1107,7 +1108,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1115,6 +1115,7 @@ fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
+fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
@@ -1333,11 +1334,11 @@ jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
-jufbcunisak.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jwuoxhjuq.com
 jxjttecednvb.com
 jxkqgoicxthrb.com
 jyhlgpkn.com
@@ -1404,7 +1405,6 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1454,7 +1454,6 @@ lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
-madriyelowd.com
 madserve.org
 mafrarc3e9h.com
 mage98rquewz.com
@@ -1470,6 +1469,7 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
@@ -1496,20 +1496,22 @@ mirohqodlf.com
 misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkaragqzeov.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
+mobisla.com
 mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
+mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
+mrycibqutoz.com
 msincsayqmji.com
 msvobeuhec.com
 mt34iofvjay.com
@@ -1539,7 +1541,6 @@ netcommunities.com
 netflame.cc
 news-central.org
 news-muheji.com
-newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1551,9 +1552,11 @@ nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
+npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
+nuckinxuco.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1620,7 +1623,6 @@ opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
-opzazcvitci.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1638,7 +1640,6 @@ osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
-othabqmag.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1667,13 +1668,13 @@ ozkpkocib.com
 ozmahtadn.com
 ozmbzowg.com
 ozongees.com
+ozvvmicixrh.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1687,6 +1688,7 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
+perryvolleyball.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pgjt26tsm.com
@@ -1813,8 +1815,6 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-qzyztuwulo.com
-radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -2023,7 +2023,6 @@ that-muscle.com
 thebrighttag.com
 thedevband.com
 theedreemteedro.com
-theekedgleamed.com
 theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
@@ -2156,7 +2155,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2184,10 +2182,8 @@ whowhipi.net
 whuwoawain.com
 wibtntmvox.com
 widespace.com
-wijwunrcoo.com
 wikfuttupw.com
 wilslide.com
-wiltiqkc.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
@@ -2275,7 +2271,6 @@ ytimm.com
 ytjnpxiiqsblwb.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -2311,6 +2306,7 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
