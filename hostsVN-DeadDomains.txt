@@ -68,12 +68,12 @@ serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
-zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
+pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -388,6 +388,8 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -419,6 +421,7 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+business.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -446,9 +449,13 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+s2.codon.vn
+xads.codon.vn
+xmadsapi.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -482,12 +489,13 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ad.zinimedia.com
+adm.phunusuckhoe.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
-ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -513,12 +521,15 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+kh.suno.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
+log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -615,6 +626,7 @@ adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -630,11 +642,9 @@ afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
-africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
-agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -676,6 +686,7 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
+antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -694,6 +705,7 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
+artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -880,7 +892,6 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
-coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
@@ -890,6 +901,7 @@ compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
+coniesnitch.com
 connexity.net
 consciouschairs.com
 constintptr.com
@@ -954,7 +966,6 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
-dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -984,7 +995,6 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
-duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1118,6 +1128,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1233,6 +1244,7 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
+hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1253,6 +1265,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1579,6 +1592,7 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
+ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1915,7 +1929,6 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
-sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -2029,6 +2042,7 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
+tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
@@ -2074,6 +2088,7 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2141,6 +2156,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2194,6 +2210,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
