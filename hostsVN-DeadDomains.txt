@@ -60,7 +60,6 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
-www.appadhoc.com
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -232,6 +231,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
+cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
@@ -318,6 +318,7 @@ s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
@@ -431,7 +432,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-www.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -487,7 +487,6 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-admin.phunusuckhoe.vn
 alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
@@ -593,6 +592,7 @@ adserver2.mindshare.de
 adsk2.co
 adskape.ru
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -667,13 +667,12 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
-areamindless.com
-aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
+asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -814,6 +813,7 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -836,7 +836,6 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
-chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -892,6 +891,7 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cussersimmure.click
+cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
@@ -973,6 +973,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 ecstaticquiltrye.com
 eechuraubsaud.com
+eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -1085,6 +1086,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -1472,6 +1474,7 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
+moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1544,6 +1547,7 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
+octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1610,6 +1614,9 @@ otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
+outabsola.com
+outflednailbin.com
+outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
@@ -1714,7 +1721,6 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
-psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1972,6 +1978,7 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
+tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 tentaculos.net
@@ -2146,7 +2153,6 @@ wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
-windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
@@ -2175,7 +2181,6 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2238,9 +2243,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
-zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
@@ -2262,6 +2265,7 @@ hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
 metrics.sdkbox.com
+moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
