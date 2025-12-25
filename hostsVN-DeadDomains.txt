@@ -60,6 +60,7 @@ count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
+www.appadhoc.com
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -75,7 +76,6 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
-s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
@@ -312,8 +312,6 @@ s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
 logsss.com
-perf.logsss.com
-rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -589,10 +587,10 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -650,7 +648,6 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -667,6 +664,8 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
+areamindless.com
+aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
@@ -836,6 +835,7 @@ chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
+chtsayil.com
 chulhawakened.com
 chullohagrode.com
 ciar-kep.com
@@ -1040,7 +1040,6 @@ fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
-fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
@@ -1200,7 +1199,6 @@ hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
-hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
@@ -1421,7 +1419,6 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
-lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1721,6 +1718,7 @@ propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
+psausuck.net
 pscbrveha.com
 psipausaix.net
 psootchu.net
@@ -1811,7 +1809,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2000,7 +1997,6 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2153,7 +2149,7 @@ wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
-wishedverde.com
+windsattributeron.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
@@ -2174,7 +2170,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2243,7 +2238,9 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
+zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
@@ -2254,7 +2251,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
