@@ -363,7 +363,9 @@ smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv630.me
+ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -438,6 +440,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
+gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
@@ -494,7 +497,6 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
@@ -585,6 +587,7 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
@@ -732,7 +735,6 @@ bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
-beabsolom.com
 beakerweedjazz.com
 beauty-tea.com
 bebreloomr.com
@@ -749,7 +751,6 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -767,7 +768,6 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
-boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -778,6 +778,7 @@ brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
+bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -812,7 +813,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -878,7 +878,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
 cpykudhagov.com
@@ -918,7 +917,6 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
-defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
@@ -1003,7 +1001,6 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1112,6 +1109,7 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
+glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1218,6 +1216,7 @@ hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
+hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
@@ -1538,8 +1537,10 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
+oackoubs.com
 oahaurti.com
 oarouwousti.com
+oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
@@ -1718,7 +1719,9 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
+pscbrveha.com
 psipausaix.net
 psootchu.net
 ptaixout.net
@@ -1845,13 +1848,11 @@ rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
-rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
-salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
@@ -1876,6 +1877,7 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
+shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2104,7 +2106,6 @@ volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
-vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
