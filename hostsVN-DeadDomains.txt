@@ -76,6 +76,7 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
+s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
@@ -312,6 +313,8 @@ s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
 logsss.com
+perf.logsss.com
+rum.logsss.com
 s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -361,7 +364,6 @@ js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -436,7 +438,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
-gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
@@ -584,10 +585,8 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -648,6 +647,7 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
+anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -767,6 +767,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -811,6 +812,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1040,6 +1042,7 @@ fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
+fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
@@ -1109,7 +1112,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1199,6 +1201,7 @@ hitopadxdz.xyz
 hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
+hmazuxhikosj.com
 hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
@@ -1215,7 +1218,6 @@ hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
@@ -1419,6 +1421,7 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
+lzexnxwjsmof.com
 lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1535,10 +1538,8 @@ nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
-oackoubs.com
 oahaurti.com
 oarouwousti.com
-oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
@@ -1717,9 +1718,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
-pscbrveha.com
 psipausaix.net
 psootchu.net
 ptaixout.net
@@ -1877,7 +1876,6 @@ sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -1997,6 +1995,7 @@ thougnoangi.com
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2150,6 +2149,7 @@ wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
+wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
@@ -2170,6 +2170,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2251,6 +2252,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
