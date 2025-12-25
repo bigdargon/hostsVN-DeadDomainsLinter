@@ -68,6 +68,7 @@ serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
+zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -155,13 +156,6 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-cm.send.microadinc.com
-dsp.send.microadinc.com
-d-track.send.microadinc.com
-microadinc.com
-prcache.microadinc.com
-s-rtb.send.microadinc.com
-ssp.send.microadinc.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -171,7 +165,6 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-capi.bidtellect.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -204,18 +197,8 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -249,7 +232,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
@@ -268,7 +250,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-api.traq.li
 pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
@@ -283,7 +264,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -338,7 +318,6 @@ s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
@@ -376,7 +355,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -388,8 +366,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -421,7 +397,6 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
-business.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -449,9 +424,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-s2.codon.vn
-xads.codon.vn
-xmadsapi.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
@@ -459,6 +431,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+www.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -475,7 +448,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -489,13 +461,12 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ad.zinimedia.com
-adm.phunusuckhoe.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -516,20 +487,18 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
+admin.phunusuckhoe.vn
 alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-kh.suno.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
@@ -607,7 +576,6 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -622,11 +590,9 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -642,9 +608,11 @@ afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
+africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
+agtamzsm.com
 agxoxnyum.com
 ahkoqzxuzsf.com
 ahqatjakvac.com
@@ -706,7 +674,6 @@ armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
 artax-evn.com
-asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
@@ -847,7 +814,6 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
-caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -892,6 +858,7 @@ coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
+coinblocktyrusmiram.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
@@ -925,7 +892,6 @@ culturalsameunbridle.com
 culwcoam.com
 curlyhomes.com
 cussersimmure.click
-cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
 cycledaction.com
@@ -966,6 +932,7 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
+dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -995,6 +962,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1005,7 +973,6 @@ ebuzzing.com
 ebvvvnjesjgx.com
 ecstaticquiltrye.com
 eechuraubsaud.com
-eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -1118,7 +1085,6 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
-fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -1128,7 +1094,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1322,7 +1287,6 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1508,7 +1472,6 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
-moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1581,7 +1544,6 @@ obituaryfuneral.com
 obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
-octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
@@ -1648,9 +1610,6 @@ otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
-outabsola.com
-outflednailbin.com
-outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 oversnubbulltor.com
@@ -1846,6 +1805,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1909,7 +1869,6 @@ seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
-servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1929,6 +1888,7 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
+sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -2012,7 +1972,6 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
-tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 tentaculos.net
@@ -2156,7 +2115,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2217,6 +2175,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2303,7 +2262,6 @@ hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
 metrics.sdkbox.com
-moatpixel.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
