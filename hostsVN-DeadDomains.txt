@@ -74,7 +74,6 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -294,6 +293,7 @@ www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
+www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
@@ -388,7 +388,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -405,6 +404,7 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
+aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -419,9 +419,6 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
-business.cleverads.vn
-cleverads.vn
-tool.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -452,7 +449,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -512,32 +508,28 @@ qc.mhsolution.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
-admin.phunusuckhoe.vn
 alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-cdptracker.hocmai.com.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.infonet.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
-widget.kyna.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
+228tuchuang.com
 2433march2024.com
 2435march2024.com
 2437march2024.com
@@ -619,6 +611,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -664,6 +657,7 @@ ak.oneegrou.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -682,7 +676,6 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
-antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -701,7 +694,6 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
-artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -898,11 +890,11 @@ compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
-coniesnitch.com
 connexity.net
 consciouschairs.com
 constintptr.com
 constructpoll.com
+contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
@@ -1136,6 +1128,7 @@ geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 gishejuy.com
+gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1219,6 +1212,7 @@ heukpiroot.com
 hewokhn.com
 hgub2polye.com
 hhecta.com
+hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1239,7 +1233,6 @@ hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
 houptaupaiho.net
-hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
@@ -1290,6 +1283,7 @@ intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
+irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
@@ -1532,6 +1526,7 @@ nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
+neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
@@ -1557,6 +1552,7 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
+nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
@@ -1583,7 +1579,6 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
-ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1720,6 +1715,7 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 pokreess.com
+politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1773,6 +1769,9 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
+qakzfubfozaj.com
+qarhrytwyqp.com
+qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
@@ -1972,6 +1971,7 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -2029,7 +2029,6 @@ tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
-tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
@@ -2075,7 +2074,6 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
-unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
