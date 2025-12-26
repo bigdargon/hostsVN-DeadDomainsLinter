@@ -54,6 +54,7 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
+ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -131,6 +132,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -204,6 +206,7 @@ filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
+rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
@@ -218,6 +221,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -275,7 +279,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
-www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
@@ -322,7 +325,6 @@ truepush.com
 www.truepush.com
 b91vip.com
 image.b91vip.com
-www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -582,7 +584,6 @@ abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
-abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -639,7 +640,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -763,11 +763,13 @@ backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
+baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.goldenpalace.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -798,6 +800,7 @@ bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
+beshucklean.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -1041,7 +1044,6 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
-emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -1108,8 +1110,10 @@ filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
+fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
+fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
@@ -1366,8 +1370,8 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
+kangaroohiccups.com
 katukaunamiss.com
-kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1414,7 +1418,6 @@ lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
 lauloajaiph.net
-lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1734,7 +1737,6 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
-plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
@@ -1767,7 +1769,6 @@ proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
-proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
@@ -2074,6 +2075,7 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
+traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2244,13 +2246,14 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
+xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
