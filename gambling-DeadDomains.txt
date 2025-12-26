@@ -141,9 +141,11 @@
 00900994.com
 00900995.com
 00900996.com
+00900997.com
 00900998.com
 009068.com
 0091004.com
+009129.com
 009146.com
 009149.com
 009160.com
@@ -367,7 +369,6 @@
 039dh.com
 03ggg.cn
 04000.vip
-040108.com
 040390.com
 0404vn.com
 041390.com
@@ -636,6 +637,7 @@
 07477c.com
 07488u.com
 074a6.com
+074d7.com
 074f6.com
 07584a.com
 07584b.com
@@ -723,6 +725,7 @@
 0886wns666.com
 0887v.com
 0889x.com
+088yb.com
 0891k365.com
 0891saibo.com
 089249.com
@@ -733,6 +736,7 @@
 0898k365.com
 0898saibo.com
 0898yy.net
+08qp057.com
 08qp061.com
 08qp062.com
 08qp063.com
@@ -951,7 +955,6 @@
 104411.com
 10444vip.com
 1044v.com
-1044yb.com
 10454.net
 104am.com
 104tycvip.com
@@ -1137,7 +1140,6 @@
 11551192.com
 11551196.com
 11551400.com
-11551680.com
 11553044.com
 1155311.com
 11553862.com
@@ -1159,6 +1161,7 @@
 11555717.com
 11555719.com
 11555720.com
+11555721.com
 11555722.com
 11555723.com
 11555724.com
@@ -1172,6 +1175,7 @@
 11555738.com
 11555739.com
 11555742.com
+11555744.com
 11555746.com
 11555747.com
 11555749.com
@@ -1180,6 +1184,7 @@
 11555752.com
 11555753.com
 11555755.com
+11555756.com
 11555758.com
 11555761.com
 11555763.com
@@ -1208,7 +1213,6 @@
 116tycvip.com
 1170v.com
 117231.com
-117356.com
 117369.com
 1175s.com
 1176v.com
@@ -1278,7 +1282,6 @@
 118622s.com
 118622y.com
 118629.com
-1187118705a.com
 1188244.com
 118831y.com
 11887s.com
@@ -1490,10 +1493,13 @@
 127bi.com
 127hgv.com
 128145.com
+128166.com
 1281n.com
 1281t.com
 128222.net
+128252.com
 12828.vip
+128292.com
 1282n.com
 1282t.com
 128325.com
@@ -1949,6 +1955,7 @@
 1581x.com
 1583094.com
 1583t.com
+15855.vip
 1585t.com
 15866v.com
 1586p.com
@@ -2237,7 +2244,6 @@
 1728866a.com
 1728866c.com
 1728866d.com
-1728866e.com
 1728866g.com
 1728866j.com
 1728866p.com
@@ -2480,6 +2486,7 @@
 188bedt.com
 188best.net
 188best188.net
+188bet.com
 188bet.direct
 188bet.lol
 188bet36.com
@@ -2797,6 +2804,7 @@
 1xbet-borc.top
 1xbet-bord.top
 1xbet-bors.top
+1xbet-domen.ru
 1xbet-glg.top
 1xbet-group.com
 1xbet-hz11.xyz
@@ -3330,7 +3338,6 @@
 22111888.com
 22115524.com
 22115v.com
-2211777.com
 2211789.com
 2212n.com
 2212p.com
@@ -3594,6 +3601,7 @@
 23388866.net
 23388899.net
 23389966.net
+233yb.com
 234075.com
 234076.com
 2340f9.com
@@ -3799,6 +3807,7 @@
 243yd.com
 2440n.com
 2442s.com
+244555.com
 2445n.com
 2445p.com
 2445s.com
@@ -4053,6 +4062,7 @@
 262187.com
 2621h.com
 2621t.com
+262267.com
 2622j.com
 2622n.com
 2622t.com
@@ -4145,6 +4155,7 @@
 26629v.com
 2663x.com
 2664x.com
+266526.com
 26652h.com
 266558c.com
 266558f.com
@@ -4552,6 +4563,7 @@
 28882v.com
 28883v.com
 2888818.com
+288949.com
 288jsjs.com
 2891n.com
 2891t.com
@@ -5170,6 +5182,7 @@
 33003044.com
 33011b.com
 3302x.com
+33030.vip
 33033u.com
 33033v.com
 33033xx.com
@@ -5367,6 +5380,7 @@
 339838.com
 3398n.com
 33992.org
+339921.com
 339979c.com
 339979f.com
 339979g.com
@@ -5383,7 +5397,6 @@
 33n666.com
 33wb9.com
 3402733.com
-34034a.com
 3411j.com
 3411n.com
 3411s.com
@@ -5550,6 +5563,7 @@
 351826.com
 3518t.com
 35194.live
+35198.xyz
 35199s.com
 35211u.com
 352177.com
@@ -5909,11 +5923,6 @@
 36yabo.com
 370068.com
 37069.org
-<<<<<<< Updated upstream
-370758.com
-=======
-3709x.com
->>>>>>> Stashed changes
 370yb.com
 370yd.com
 3711x.com
@@ -6504,12 +6513,14 @@
 3918x.com
 3919p.com
 3921w.com
+3922947.com
 3923t.com
 3923v.com
 3927t.com
 3927v.com
 3928762.com
 3928n.com
+3929n.com
 3930x.com
 3931n.com
 3932j.com
@@ -6577,7 +6588,6 @@
 39651p.com
 39651y.com
 3965t.com
-396662.com
 3966688.com
 3966n.com
 3967j.com
@@ -6882,7 +6892,6 @@
 4032ii.com
 4032kk.com
 4032qq.com
-4032xx.com
 4039482.com
 403yb.com
 4041t.com
@@ -7007,6 +7016,7 @@
 41xbet.com
 41yabo.com
 4200n.com
+42031.shop
 4203t.com
 4206t.com
 4211n.com
@@ -7045,6 +7055,7 @@
 42336p.com
 4234.info
 4236t.com
+4236x.com
 4237t.com
 4237x.com
 42387f.com
@@ -7126,7 +7137,6 @@
 4292958.com
 4292t.com
 4292x.com
-429368.com
 4293t.com
 4293x.com
 429423.com
@@ -7134,7 +7144,6 @@
 4295t.com
 4295x.com
 4297t.com
-42982p.com
 4298t.com
 4299n.com
 429yb.com
@@ -7573,7 +7582,6 @@
 4579777.com
 4579t.com
 4579x.com
-45809999.com
 45819999.com
 4581x.com
 45829999.com
@@ -7666,7 +7674,6 @@
 4641x.com
 4642x.com
 464390.com
-4644999.com
 4644n.com
 4645x.com
 4646vn.com
@@ -7834,7 +7841,6 @@
 47596s.com
 4759t.com
 4761t.com
-476258.com
 4762t.com
 4765517.com
 476777.net
@@ -7846,6 +7852,7 @@
 4772s.com
 4775641.com
 4775s.com
+47769.com
 4777999.com
 4778n.com
 4779x.com
@@ -7926,45 +7933,18 @@
 485525.com
 4855n.com
 4855s.com
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-4858g.com
 4858gg.com
-4858h.com
-4858o.com
-=======
-4858e.com
-4858j.com
-4858kkk.com
-4858m.com
-4858mmm.com
->>>>>>> Stashed changes
-4858p.com
-4858ppp.com
-4858y.com
-4858z.com
-=======
-4858e.com
-4858ff.com
-4858h.com
-4858hh.com
 4858jj.com
-4858l.com
-4858n.com
-=======
-4858e.com
-4858ee.com
-4858g.com
-4858gg.com
-4858ii.com
 4858jjj.com
->>>>>>> Stashed changes
-4858ooo.com
+4858l.com
+4858nnn.com
 4858q.com
 4858r.com
 4858s.com
-4858w.com
+4858sss.com
+4858t.com
+4858v.com
+4858y.com
 4862x.com
 4864t.com
 4866s.com
@@ -8087,7 +8067,6 @@
 4989x.com
 498yb.com
 49906.wang
-499066.com
 4990n.com
 4991.org
 4992.org
@@ -8491,7 +8470,6 @@
 52808002.com
 52808003.com
 52808008.com
-52808010.com
 5281x.com
 5282j.com
 5283p.com
@@ -9017,7 +8995,6 @@
 5603p.net
 5603q.net
 5603s.net
-5604h.com
 5604j.com
 5604l.com
 5604o.com
@@ -9615,7 +9592,6 @@
 59779q.com
 59779r.com
 59779s.com
-59779t.com
 59779u.com
 59779v.com
 59779w.com
@@ -9698,13 +9674,6 @@
 6010x.com
 6014t.com
 6015588.com
-<<<<<<< Updated upstream
-60155e.com
-60155o.com
-=======
-60155s.com
-60155vv.com
->>>>>>> Stashed changes
 6016t.com
 6017x.com
 601922.com
@@ -9737,6 +9706,7 @@
 60666xy.com
 6066n.com
 6067937.com
+60714.shop
 6071x.com
 60764.wang
 607666.cn
@@ -9927,7 +9897,6 @@
 62227n.com
 62228n.com
 6222s.com
-6222t.com
 6223.games
 62232022.vip
 62232026.bet
@@ -9998,6 +9967,7 @@
 6262vns.com
 6263t.com
 6263v.com
+6264.vip
 6264t.com
 6265588.com
 6266m.com
@@ -10367,7 +10337,6 @@
 65246655.com
 65246677.com
 65246688.com
-65249911.com
 65249999.com
 6525n.com
 6525v.com
@@ -10584,11 +10553,11 @@
 6661v.com
 6662083.com
 66622p.com
-6663122.com
 66633718.com
 66633n.com
 66636m.com
 666373a.com
+666380.com
 6663822.com
 6663977.com
 66655p.com
@@ -10972,6 +10941,7 @@
 66phginto.com
 66phmaya.com
 66pj555.com
+66pp99.com
 66wb9.com
 66win.bingo
 66yy789.com
@@ -11041,7 +11011,7 @@
 673195.com
 6731bbb.com
 6731yy.com
-6732qq.com
+6732ee.com
 6733388.com
 6733n.com
 6733v.com
@@ -11083,7 +11053,6 @@
 6767345.com
 6767vn.com
 6767vns.com
-6768-hmkkfyqf.com
 6768n.com
 6768t.com
 6768v.com
@@ -11474,6 +11443,7 @@
 6h700.com
 6h77.vip
 6h800.com
+6h88.vip
 6h900.com
 6h902.com
 6h903.com
@@ -11854,24 +11824,22 @@
 72675544.com
 7267555.com
 72676644.com
-72676666.com
 72676677.com
 72677733.com
 72677744.com
 72677788.com
 72677799.com
+72678800.com
 72678822.com
 72678833.com
 72678855.com
 72678866.com
 72679911.com
-72679922.com
 72679944.com
 72679955.com
 72679999.com
 726yb.com
 72718.cn
-7272004.com
 7272678.com
 7272805.com
 7272807.com
@@ -12512,6 +12480,7 @@
 7598h.com
 7598p.com
 7599933.com
+7599h.com
 7599v.com
 75bet999.bet
 75bet999.fun
@@ -12619,7 +12588,6 @@
 7683yb.com
 7684yb.com
 76872.vip
-7687x.com
 7687yb.com
 7688yb.com
 7690yb.com
@@ -12780,7 +12748,6 @@
 77366.biz
 7736h.com
 7736ky.com
-7736t.com
 7738n.com
 7738yb.com
 7741w.com
@@ -12817,18 +12784,6 @@
 7758n.com
 77598v.com
 7759yb.com
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-77611.vip
-77612.vip
-77615.vip
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 7762n.com
 7762yb.com
 7763m.com
@@ -13321,7 +13276,6 @@
 7938s.com
 7938t.com
 7941.org
-794258.com
 79426a.com
 7942t.com
 7943293.com
@@ -13530,7 +13484,6 @@
 8139s.com
 8139t.com
 813yb.com
-814089.com
 8141t.com
 8141x.com
 8142t.com
@@ -13602,12 +13555,12 @@
 8193t.com
 8194x.com
 8197t.com
-8198d.com
 8198t.com
 81995.vip
 8199p.com
 81bet999.bet
 81bet999.fun
+81c4.bet
 81c5.bet
 81c53.com
 81c8.bet
@@ -14234,6 +14187,7 @@
 8453t.com
 8453yabo.com
 8454t.com
+8457t.com
 8460555.com
 846090.com
 8460yabo.com
@@ -14394,6 +14348,7 @@
 8566s.com
 8566v.com
 8566yabo.com
+85676.com
 8568x.com
 8568yabo.com
 8569h.com
@@ -14428,6 +14383,7 @@
 8582.org
 8583x.com
 8584yabo.com
+858566.com
 8585878.com
 8585n.com
 8585vn.com
@@ -14437,7 +14393,6 @@
 8587t.com
 8587x.com
 8587yabo.com
-8588008.com
 85881s.com
 8589t.com
 85904.org
@@ -14495,7 +14450,6 @@
 8631p.com
 8632t.com
 8632yabo.com
-863300.com
 8633j.com
 8633x.com
 8634t.com
@@ -14854,7 +14808,6 @@
 8774yabo.com
 87766hj.com
 87771p.com
-8777byc.com
 8777v.com
 8779yabo.com
 8780yabo.com
@@ -14907,7 +14860,6 @@
 87yabo.com
 88.i9betlixi.com
 8800002.com
-880036.com
 88004vip.com
 8801n.com
 8801v.com
@@ -15007,6 +14959,7 @@
 88576.app
 8857yabo.com
 8858801.com
+8858803.com
 8858805.com
 8858806.com
 8858808.com
@@ -15033,7 +14986,6 @@
 8862m.com
 8862yabo.com
 886338.com
-886358.com
 886387.com
 8863yabo.com
 88647.wang
@@ -15222,6 +15174,7 @@
 88983773.com
 88992.vip
 88993366.com
+88bet.cfd
 88bet.sbs
 88bet.website
 88bet999.bet
@@ -15500,13 +15453,13 @@
 8k235sj.top
 8k3453y.buzz
 8k371sj.top
+8k438sj.top
 8k5m.com
 8k8.2404mtg06.top
 8k8z.vip
 8k982sj.top
 8kbet04.com
 8kbet08.com
-8kbet10.com
 8kk50.com
 8kmqd99.info
 8kwin03.com
@@ -15768,6 +15721,7 @@
 918ek.com
 918gvv.com
 918ivv.com
+918oi.com
 918pph.com
 918rt.com
 918uuw.com
@@ -16424,6 +16378,7 @@
 9743x.com
 9744v.com
 9746.org
+974666.com
 9751t.com
 9752x.com
 9756s.com
@@ -16565,7 +16520,6 @@
 98966v.com
 9899.site
 98bet999.bet
-98gamingvip.com
 98ggd.com
 98kb88.com
 98yabo.com
@@ -16692,9 +16646,9 @@
 9993954.com
 9993v.com
 999403.com
+999496.com
 999506.com
 99955.app
-99958a.com
 99958r.com
 99958s.com
 99958t.com
@@ -16939,15 +16893,15 @@ aekkawit12.vip
 aesv388.com
 aewin88.com
 af0621.com
+aff-online.com
 aff-register.smart-complex.live
+aff.188bet.com
 aff.188f1play.com
 aff.bk8vietnam.com
 aff.c86118423.com
-<<<<<<< Updated upstream
-=======
+affiliate.fb88.com
 affiliate.happynb.com
 affiliate.ms3388.com
->>>>>>> Stashed changes
 affiliate.vn88hn.live
 affiliates-365.com
 affiliates.cyber.bet
@@ -17027,6 +16981,7 @@ amkxm2.com
 amkxm3.com
 amp-slots.com
 amtiyu.com
+amwl2.com
 amzonmytvamzon.com
 anan6532.vip
 andcniw86.68wincdn.com
@@ -17071,6 +17026,7 @@ ap-009-llkkl-11922.com
 apaldo49.com
 apaldo90.com
 api-demo-games.top
+api.11zalo.com
 api.225699.top
 api.22zalo.com
 api.449917.com
@@ -17136,6 +17092,7 @@ api.888ae888.com
 api.88new.cc
 api.ae888sports02.com
 api.az888ai.com
+api.betlv.com
 api.ddhc.club
 api.degame88.com
 api.f8bet0.com
@@ -17143,13 +17100,19 @@ api.go88r.pro
 api.hb88p.com
 api.hgkwxnfs.com
 api.i8bet.org
+api.i9bet108.com
+api.i9bet36.com
+api.jun88.tv
 api.kfmapp.win
 api.linkchuanon.com
 api.mb664.vip
+api.mocbai.cc
+api.mu88.mu
 api.ok689d.com
 api.ok689f.com
 api.opztws.top
 api.red88.us
+api.red88.vin
 api.sa88066.com
 api.sa88119.com
 api.sa88133.com
@@ -17203,9 +17166,11 @@ api.sky88.fun
 api.sv66z4.com
 api.t3cdn.com
 api.uzzisk.site
+api.v7king.com
 api.vie2655650.com
 api.vl16894.com
 api.vl886.vip
+api.vnq8.com
 api.vnxoso22.me
 api.vnxoso30.net
 api.vnxoso33.xyz
@@ -17227,9 +17192,9 @@ apkciputrabet.com
 apkreplay88.com
 apnkpn.xyz
 app.333666.buzz
+app.betlv.com
 app.vnd119.com
 app1.lwcip.vip
-app5132.com
 app53567.com
 app60060.com
 app60999.com
@@ -17457,7 +17422,6 @@ b2891.com
 b2898.com
 b28w.com
 b29.cafe
-b2933.com
 b2c3d4.fun
 b3178.com
 b3187.com
@@ -17516,6 +17480,7 @@ b5139.com
 b5143.com
 b51665.com
 b5176.com
+b52.vin
 b5224.com
 b5228.com
 b5246.com
@@ -18103,7 +18068,6 @@ bet08.bet
 bet1x-th.com
 bet1x-thai.com
 bet1x-thailand.com
-bet222.com
 bet24h.top
 bet2736.com
 bet29.club
@@ -18111,8 +18075,7 @@ bet2nite.com
 bet2win.win
 bet320x.com
 bet322.vip
-bet33027.com
-bet33041.com
+bet33042.com
 bet338.top
 bet3652244.com
 bet36536514.com
@@ -18139,6 +18102,7 @@ bet69966.com
 bet7378.com
 bet7386.com
 bet7525.com
+bet777app.com
 bet8575.com
 bet868.vip
 bet8766.com
@@ -18773,6 +18737,7 @@ bwhelp247.com
 bwhelp8.com
 bwhelp88.com
 bwingmkt7.com
+bwingmkt8.com
 bwlzq.com
 bwsoccer.com
 bwthaiwc88.com
@@ -18885,6 +18850,7 @@ cache.gofu689.com
 cache.l6t2t1-fba8.com
 cache.le987fun.com
 cache.ltt3fun28.com
+cache.one88.com
 cache.vupfun26.com
 cache.wanltt9991.com
 cache.win122fun.com
@@ -18893,7 +18859,6 @@ cache1.one88.com
 cacuoconline.site
 cadomienphi.org
 cadovip.com
-caipiaokuang.com
 captor7531.vip
 carken26.vip
 casadelcastano.com
@@ -18970,7 +18935,6 @@ cgcp5.com
 cgcp6.com
 cgcp7.com
 cgcp9.com
-ch0887.com
 chao.news
 chat.taisum2.com
 chee6666.vip
@@ -18978,6 +18942,7 @@ cheer222.com
 cheer6.com
 chh84.com
 chiendp123123.win
+chinese-th.com
 choang.tv
 choi789.link
 choi9fun.com
@@ -19032,6 +18997,7 @@ ckjili01.com
 ckjili07.com
 ckjili08.com
 ckw204.com
+click.mibet.com
 clothmap.co
 cls51.com
 club1187fun.com
@@ -19184,11 +19150,13 @@ d0309.com
 d0e1f2.click
 d131433.site
 d188xj.com
+d2.dabet.me
 d2201.com
 d2588.com
 d25oq0.ink
 d2aq1e5n0x5iut.cloudfront.net
 d2e3f4.icu
+d3.dabet.me
 d3078.cn
 d3572.com
 d3ffp.com
@@ -19569,6 +19537,7 @@ e87918.com
 e89315.com
 e8dfjuir0tjvnrifmjweuwuicpt93hjf.com
 e8m8.com
+e9762.com
 e9783.com
 e9th.net
 eaah5.com
@@ -19583,7 +19552,6 @@ eac0473.com
 eac0518.com
 eac0537.com
 eac0538.com
-eac0551.com
 eac0556.com
 eac0572.com
 eac0576.com
@@ -19681,6 +19649,7 @@ ew8651.com
 ew8655.com
 ew8657.com
 ew8712.com
+ewrty.fb85.top
 exzkqofsqgsuda26.app
 ez2fg956x.com
 ezbook88.com
@@ -19691,6 +19660,7 @@ f0g1h2.buzz
 f0u8x5qg3.com
 f1.one88.vin
 f1.taiv8.com
+f1.taiv8.top
 f16.site
 f188xj.com
 f2.taiv8.com
@@ -19700,6 +19670,7 @@ f4g5h6.click
 f609.bet
 f616888.com
 f6603.com
+f6604.com
 f6608.com
 f66521.com
 f66615.com
@@ -19838,7 +19809,6 @@ fcb88.cc
 fcbet.com
 fcgw888.com
 fcw00000.com
-fcw345.com
 fcw538.com
 fcw787.com
 fcw828.com
@@ -19863,7 +19833,6 @@ ff333333.com
 ff555555.com
 ff836596.com
 ff8910.com
-ff9762.com
 ffbet48.com
 ffbo88.com
 fff6732.com
@@ -19884,12 +19853,15 @@ fi9yw.com
 fiba88.com
 fibv032qqxstwy.com
 fifa500.com
+files.xtpag.top
 findk8.com
 finebetlink.com
 fishapi.taisum2.com
 fishapi.xinloiduocchua.co
 five-88.net
 five-appyuming.com
+five88.me
+five88vn.me
 fivevn.net
 fjaog253.com
 fjd6677.com
@@ -20620,6 +20592,7 @@ gabets777.com
 gachoiviet.com
 gacorinaja.com
 galvipsports.com
+game.789d.club
 game.estargame.cc
 game.v99win.app
 game2.bet
@@ -20627,6 +20600,7 @@ game2539.vip
 game3.bet
 game5.bet
 game6.bet
+game69.co
 game8.bet
 game8388.com
 game88.pro
@@ -20712,6 +20686,7 @@ gb909.com
 gb910.com
 gb912.com
 gb917.com
+gbhvip399.com
 gbnl8iu.com
 gc968.com
 gcash.bet
@@ -21192,6 +21167,7 @@ h9564.com
 h9643.com
 h9653.com
 h9664.com
+h9694.com
 h9747.com
 h9827.com
 h9884.com
@@ -21341,7 +21317,6 @@ hg56s.com
 hg56t.com
 hg56u.com
 hg56v.com
-hg56vv.com
 hg56w.com
 hg56x.com
 hg56y.com
@@ -21367,6 +21342,7 @@ hg886v8.ceo
 hg886v9.ceo
 hg88x.com
 hg88z.com
+hg8m.net
 hg99568.com
 hg999038.com
 hgbet1.vip
@@ -21522,6 +21498,7 @@ hotshotsc.com
 hotupdate.cyber88.live
 hplay.fabet.me
 hpnxb.com
+hqgc.net
 hrgj18.com
 hrgj28.com
 hrgj30.com
@@ -21623,10 +21600,12 @@ ifun67.com
 ig418.com
 ihfis59y9.com
 images.388bet.vip
+images.ku6110.net
 img.fabet.me
 img.hbsf888.com
 img.may88.com
 img.oigngns6zvx3.com
+img.red88.vin
 imgcdn.henho24h.net
 imgmin133.top
 imi7bet.xyz
@@ -22154,6 +22133,7 @@ jykf0y3js.com
 jyv67.com
 jza96.com
 k00008.com
+k1.uk88.top
 k131a.com
 k1496688.com
 k158168.com
@@ -22161,6 +22141,7 @@ k168188.com
 k16gwm.vip
 k188xj.com
 k1l2m3.fun
+k2.uk88.top
 k22bet-a.com
 k22bet-b.com
 k22bet-d.com
@@ -22570,6 +22551,7 @@ king789.top1go.info
 king999.pro
 kingbet86.app
 kingbet86.com
+kingbet86.info
 kingbet86.me
 kingman.fun
 kingme1.fun
@@ -22593,7 +22575,6 @@ kk1663.com
 kk1996.com
 kk234.top
 kk258.vip
-kk2669.com
 kk268.vip
 kk3315.com
 kk3556.com
@@ -22936,6 +22917,7 @@ linefun98.com
 linefun988.com
 linemess.com
 linkchuanon.com
+linkw88dn.com
 linok.buzz
 linokok.buzz
 liong88.xn--6frz82g
@@ -23008,6 +22990,8 @@ lovefun98.com
 lovefun99.com
 lp.b52choi.pro
 lp.choitet.vip
+lp.taiv8.top
+lp.vip79.vip
 lp.zo.club
 lpbets.vip
 lq15pm.buzz
@@ -23139,8 +23123,10 @@ m.6tt4704.com
 m.6tt6220.com
 m.6tt8017.com
 m.6tt8795.com
+m.8live.com
 m.998877.co
 m.aabbll.cc
+m.bong99.live
 m.bty1017.com
 m.bty1019.com
 m.bty1022.com
@@ -23168,7 +23154,9 @@ m.bty899.com
 m.casino888vn.com
 m.dibongda777.com
 m.div88.com
+m.five88.me
 m.fivevn.net
+m.i9bet.tw
 m.k8vip.me
 m.ko66bb.vip
 m.lixi88vip.com
@@ -23176,8 +23164,11 @@ m.lode88.vip
 m.m88vina.com
 m.mig8.vip
 m.mig8.xyz
+m.ms3388.com
 m.ole76.com
+m.ole777vietnam.com
 m.s26.lol
+m.twin188.co
 m.v99win.app
 m.vn88hn.live
 m.vnboc.com
@@ -23281,6 +23272,7 @@ mec0791.com
 mec0812.com
 mec0851.com
 media.dreamteamaffiliates.com
+media.happynb.com
 media.lsbetmed.com
 meechok69.com
 meechok999.com
@@ -23555,6 +23547,7 @@ msurgh.com
 msvn6688.net
 msvvp.com
 msx44.vip
+mt000.com
 mt5857.com
 mtc31.vip
 mtc45.vip
@@ -23571,6 +23564,7 @@ mu86.win
 mu88.ae
 mu88.ag
 mu88.fo
+mu88.game
 mu88.sc
 mu88.ski
 mu88.sx
@@ -23638,7 +23632,6 @@ n2yfu.com
 n2zh55.vip
 n3178.com
 n3278.com
-n34034.com
 n3562.com
 n368.bet
 n3756.com
@@ -24019,6 +24012,7 @@ otyrw.com
 our188.net
 ouy6675.vip
 ownjbb.com
+oxbet.in
 oya888.com
 p034034.com
 p0901.com
@@ -24148,6 +24142,7 @@ pb36577.net
 pb36588.com
 pb36588.net
 pb36599.net
+pc.choita88.club
 pc24g.com
 pc9595.cn
 pc9595.net
@@ -24167,7 +24162,6 @@ pg-slot.game
 pg-slot77777.xyz
 pg514.com
 pg666n.vip
-pg789.xyz
 pg8002.com
 pg88002.site
 pg88nohu.cc
@@ -24177,7 +24171,6 @@ pgslotonlinenet.xyz
 ph090.com
 ph091.com
 ph092.com
-ph094.com
 ph096.com
 ph097.com
 ph098.com
@@ -24570,6 +24563,8 @@ play.sao789a.vin
 play.sao789b.pro
 play.taingayking52.fun
 play.vie2655649.com
+play.vip79.com
+play.vip79.vip
 play.vuigiaitri.online
 play.web345.biz
 play.wo88.ac
@@ -24582,6 +24577,7 @@ playaction247.com
 playbaowin.net
 playdemoslotroma.com
 playdsb.com
+player.ole777vietnam.com
 playgem.club
 playgem.me
 playgo88.top
@@ -24625,6 +24621,7 @@ premiumpay88.com
 presdyrc5.net
 prestigesb.com
 printable365.com
+prod.goal68.com
 professional-trademark.com
 progame88.com
 promo.shangrilalive.com
@@ -24670,8 +24667,10 @@ q99group.com
 qajjqi.xyz
 qaz66888.com
 qc.789b.asia
+qc.789d.club
 qc.conggiaitri.com
 qc.hitpro.run
+qc.mibet.com
 qc.thethao88.vin
 qc789.vip
 qd9659.com
@@ -25038,7 +25037,6 @@ ror002.com
 royal88.live
 royalsgames.online
 rqyg212bixhpmu.com
-rr668.com
 rr88f1.com
 rr88sh.com
 rrfanbvt92.za.com
@@ -25316,7 +25314,6 @@ schg7788.com
 scrfh.com
 scs228.com
 scspst.cn
-scx4a.com
 sd72did02j24.com
 sddfjyd.com
 sdhg7788.com
@@ -25587,6 +25584,7 @@ so18tohieu.vip
 soccermemes.net
 socgiay99.win
 sock.red88.us
+sock.red88.vin
 sock.sky88.fun
 soco88.com
 socvip9.club
@@ -25607,6 +25605,7 @@ sowin.org
 sp88.fun
 spboapp.com
 spin247.com
+sport.five88.biz
 sport998.com
 sportbet95.club
 sporting7.com
@@ -25651,6 +25650,7 @@ star889.vip
 star890.vip
 startcasino89.com
 static.12bet.uk
+static.8live.com
 storenosap.com
 su66.org
 subo6.com
@@ -25663,6 +25663,7 @@ sumclub1.xyz
 sumvip88.pro
 sumvipclub.pro
 sun20.blog
+sun52.bid
 sun52.link
 sun88.online
 sun9910.com
@@ -25799,6 +25800,7 @@ t04t04.com
 t0704.com
 t0941.com
 t1.ta88.com
+t1.ta88.vip
 t1496688.com
 t1745.com
 t1842.com
@@ -25932,9 +25934,13 @@ t9dhf.com
 taaof2533.vip
 tai-bk09ws.us
 tai.b69.bar
+tai.fa88vn.live
 tai.gem79.win
 tai.genvip88.com
+tai.go88.live
 tai.nhatvip.live
+tai.rik.bet
+tai.rik.club
 tai.taisum2.com
 tai68gamebai.biz
 tai789.net
@@ -26010,6 +26016,7 @@ tc88sn.com
 tc99sn.com
 tcxhua.com
 td3d8olk9ma.life
+tdtc833.com
 tee255499.vip
 teen-titans-hentai.net
 teerarak2545.vip
@@ -26096,6 +26103,7 @@ thk66.com
 thk99.com
 thomo45.fun
 thomo45.site
+thomo888.net
 thomoh.com
 thucla98.win
 thuvi.vip
@@ -26305,6 +26313,7 @@ twin1199.com
 twin161.com
 twin162.com
 twin163.com
+twin188.co
 twin2021.com
 twin2022.com
 twin2288.com
@@ -26326,6 +26335,7 @@ twin9968.com
 twincode.club
 twinn68.com
 twinvnclub.com
+tx.king96.net
 tx.socvip9.club
 txh1188.com
 txmd5.opztws.top
@@ -26489,7 +26499,6 @@ up6599.com
 up777.asia
 up777.xyz
 upst123.com
-usd118.vip
 usd881.com
 usdt8860.com
 usdt8861.com
@@ -26564,6 +26573,8 @@ uz42g.com
 v0035.com
 v0383.com
 v0486.com
+v0521.com
+v0630.com
 v11112.com
 v11169.com
 v1287.com
@@ -26780,6 +26791,7 @@ vl16894.com
 vn-appstore.com
 vn-fv88.com
 vn-vv88.com
+vn.ku6110.net
 vn.qh822.com
 vn.vndbetway.com
 vn015.com
@@ -27173,7 +27185,6 @@ w5006.com
 w5009.com
 w5778.com
 w5x7p3.buzz
-w6446.com
 w667722.com
 w66mm.com
 w67b6.com
@@ -27263,6 +27274,8 @@ web.hitlub.fun
 web.nemo.vin
 web.sunwin89.bz
 web.taiv8.com
+web.taiv8.top
+web.top88.vip
 web.vicplay.io
 webapi.estargame.cc
 webtha8.com
@@ -27583,6 +27596,7 @@ www.bty872.com
 www.bty891.com
 www.bty897.com
 www.bty899.com
+www.bwingmkt8.com
 www.casino888vn.com
 www.cmd368t.com
 www.cmd368worldcup.com
@@ -27603,8 +27617,10 @@ www.diole7887.com
 www.diole7997.com
 www.diole8778.com
 www.dkhh8w.vip
+www.ebet.com
 www.ee6611.com
 www.ent678.com
+www.fcb8.com
 www.fun1118.com
 www.fun7778.com
 www.funsky.life
@@ -27644,6 +27660,7 @@ www.lchvn.com
 www.lg585.com
 www.lklklklk.space
 www.lt119.online
+www.m8winvip.com
 www.mibet.mobi
 www.mu055.com
 www.mu111.vip
@@ -27654,10 +27671,12 @@ www.mu921.com
 www.mu929.com
 www.my188Bet.com
 www.my188bet.com
+www.nbet.com
 www.nemo.vin
 www.nex8vn.com
 www.nhanthuong88.com
 www.olhwonqwtv.link
+www.one88.com
 www.phbet.com
 www.playdsb.com
 www.qh221.com
@@ -27679,6 +27698,7 @@ www.tk326.com
 www.tobet88.net
 www.trybk8.net
 www.tt128viet.com
+www.twin188.co
 www.ty6699.net
 www.uuyl88.xyz
 www.v99win.app
@@ -27687,6 +27707,7 @@ www.vg770.com
 www.vg977.com
 www.vie2655650.com
 www.vl16894.com
+www.vn34.com
 www.vnbet111.com
 www.vnbong88.live
 www.vnd88vip.com
@@ -29039,7 +29060,6 @@ yxapp10.com
 yxapp20.com
 yxapp30.com
 yxapp48.xyz
-yy60080.com
 yy65983.com
 yy80100.com
 yy83191.com
@@ -29071,6 +29091,7 @@ z227227.com
 z23023.com
 z264tdr3l.com
 z3.zbet.com
+z3.zbetvn.com
 z3358z.com
 z3412.us
 z368.bet
@@ -29111,6 +29132,7 @@ zb99666.com
 zbcnst.ink
 zbet.win
 zbetvn.club
+zbetvn.com
 zbo11a.com
 zbo11f.com
 zbo1aa.com
@@ -29155,17 +29177,6 @@ zf7799.com
 zf886.com
 zf9988.com
 zfb23023.com
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-zfgj3.win
-zfgj4.win
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 zfgj888.club
 zfgj888.com
 zfgj888.net
@@ -29216,16 +29227,10 @@ zx1008.vip
 zx1009.vip
 zx2468.com
 zx2bmeeko.com
-zx5200.com
 zx5222.com
 zx5233.com
 zx5255.com
 zx5277.com
-<<<<<<< Updated upstream
-zx6691.com
-=======
-zx5333.com
->>>>>>> Stashed changes
 zx6692.com
 zx6694.com
 zx6695.com
