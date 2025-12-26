@@ -38,7 +38,6 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
@@ -88,7 +87,6 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -111,13 +109,10 @@ adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
-aj2142.online
-aj2218.online
 aj2307.online
 aj2412.online
 aj2498.online
@@ -208,7 +203,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
-mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -323,7 +317,6 @@ trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
-static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
 taroads.com
@@ -375,7 +368,6 @@ ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
-daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
@@ -409,6 +401,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -479,7 +472,6 @@ log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
-tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
@@ -631,10 +623,6 @@ amusingsnow.pro
 an.cliphub.net
 anahtars.com
 anglemarrowoccurs.com
-anjzallkoomb.com
-anmfweogja.com
-annxwustakf.com
-antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -791,6 +779,7 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
+carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -848,13 +837,11 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -1061,7 +1048,6 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1102,11 +1088,9 @@ glugherg.net
 gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
-goohimom.net
 gossishauphy.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
@@ -1307,7 +1291,6 @@ kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
-kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
@@ -1361,6 +1344,8 @@ leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
+lidosquey.shop
 lifpv.com
 ligeia-gip.com
 ligvraojlrr.com
@@ -1481,13 +1466,13 @@ naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
+nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
-neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
@@ -1960,7 +1945,6 @@ tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
-tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
@@ -2053,7 +2037,6 @@ upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
-uruswan.com
 uselnk.com
 userresewn.com
 ushoofop.com
@@ -2108,6 +2091,7 @@ vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
+waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
@@ -2164,6 +2148,7 @@ wrestcut.com
 wryqahbilc.com
 www.money4exit.de
 www.qcerujcajnme.com
+www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
