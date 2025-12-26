@@ -212,6 +212,7 @@ mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
@@ -265,6 +266,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -411,6 +413,8 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+api.mobio.vn
+mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -440,12 +444,14 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ad.sunflower.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
+ads.sexyland.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -470,6 +476,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -572,12 +579,15 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
+adverdirect.com
+advertica-cdn2.com
 adworx.nl
 adxpose.com
 adxvalue.com
@@ -658,6 +668,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -666,12 +677,10 @@ atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
-aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
-aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -758,6 +767,7 @@ brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
+bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -948,6 +958,7 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
+easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
@@ -1037,7 +1048,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -1272,7 +1282,6 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -1493,6 +1502,7 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
+news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
@@ -1573,6 +1583,8 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
+optimost.com
+opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1620,6 +1632,7 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1661,6 +1674,8 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
+planningdesigned.com
+plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
@@ -1721,7 +1736,6 @@ pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
-pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
@@ -1759,6 +1773,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+ranking-liste.de
 rapepush.net
 raphanysteers.com
 rapidcounter.com
@@ -1853,6 +1868,7 @@ sendmepixel.com
 seo4india.com
 septfd2em64eber.com
 serconmp.com
+sermonoccupied.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1897,13 +1913,13 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
-sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
+specificallycries.com
 spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
@@ -1958,7 +1974,7 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
-terrapsps.com
+tentaculos.net
 tetrylscullion.com
 thads.cc
 that-muscle.com
@@ -2074,7 +2090,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
