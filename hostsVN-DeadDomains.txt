@@ -136,7 +136,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -413,8 +412,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-api.mobio.vn
-mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -444,14 +441,12 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ad.sunflower.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
-ads.sexyland.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -588,7 +583,6 @@ adtriplex.com
 advantagesclotblend.com
 adverdirect.com
 advertica-cdn2.com
-adworx.nl
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -647,7 +641,6 @@ anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
-api.ampiri.com
 appads.com
 apprefaculty.pro
 aptojeepsoopool.com
@@ -668,7 +661,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -677,10 +669,12 @@ atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
+aungudie.com
 authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
+aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
@@ -757,6 +751,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -767,7 +762,6 @@ brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
-bredmykixnaj.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -802,6 +796,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -997,11 +992,9 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
-eringosdye.com
 erosyndc.com
 errantstetrole.com
 eryondistain.com
-escortlarbul.com
 euros4click.de
 evenimbauba.cfd
 ewpucbact.com
@@ -1014,7 +1007,6 @@ expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1048,6 +1040,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -1160,7 +1153,6 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
-harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
@@ -1282,6 +1274,7 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
@@ -1528,7 +1521,6 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
 oackoubs.com
@@ -1736,6 +1728,7 @@ pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
+pvnocbyq.com
 pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
@@ -1913,13 +1906,12 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
+sordimtaulee.com
 spacash.com
 spanuletubings.com
-spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
-specificallycries.com
 spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
@@ -1936,7 +1928,6 @@ steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
-stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
@@ -1975,6 +1966,7 @@ tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
 tentaculos.net
+terrapsps.com
 tetrylscullion.com
 thads.cc
 that-muscle.com
@@ -2077,7 +2069,6 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
-vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
@@ -2090,6 +2081,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2166,6 +2158,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
