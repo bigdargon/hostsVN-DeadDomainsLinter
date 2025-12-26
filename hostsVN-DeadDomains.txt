@@ -54,7 +54,6 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
-ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -132,7 +131,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -206,7 +204,6 @@ filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
 rtb-eu.adservme.com
-rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
@@ -221,7 +218,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -387,6 +383,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
@@ -534,6 +531,7 @@ vnadssb.com
 alexajstrack.com
 analytic.thuanbui.me
 analytics.amedigital.vn
+analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
@@ -591,6 +589,7 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
+ad-spb.ru
 ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
@@ -640,6 +639,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -791,13 +791,13 @@ bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
-beshucklean.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -896,6 +896,7 @@ clickadin.com
 clicks.mods.de
 clicktracks.com
 clkofafcbk.com
+clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
@@ -1107,10 +1108,8 @@ filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
-fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
-fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
 foogeetoary.net
@@ -1244,6 +1243,7 @@ hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
+hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
@@ -1327,6 +1327,7 @@ jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
+jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
@@ -1365,7 +1366,6 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
-kangaroohiccups.com
 katukaunamiss.com
 kaulouvaun.com
 kaurieseluxate.com
@@ -1415,6 +1415,7 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1862,7 +1863,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2074,7 +2074,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
-traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2245,8 +2244,6 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
-xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
