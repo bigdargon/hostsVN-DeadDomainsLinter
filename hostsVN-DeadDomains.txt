@@ -107,6 +107,7 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
+advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
@@ -157,6 +158,7 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
@@ -318,8 +320,6 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
-sdki.truepush.com
-stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -392,7 +392,6 @@ js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -417,7 +416,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
@@ -490,7 +488,6 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
-embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -642,7 +639,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -741,6 +737,7 @@ aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
+automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
@@ -874,6 +871,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -1200,6 +1198,7 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
+grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -1525,7 +1524,6 @@ misqimohlpk.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
-mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1691,7 +1689,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
-ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
@@ -1771,7 +1768,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
@@ -1915,6 +1911,7 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
+saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2083,7 +2080,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
-trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
@@ -2102,7 +2098,6 @@ tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
-udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
@@ -2149,7 +2144,6 @@ vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
-vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
@@ -2236,6 +2230,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
