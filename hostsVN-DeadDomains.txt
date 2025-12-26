@@ -1,13 +1,17 @@
 googleads-cn.com
 blueserving.com
+ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
+analysis.ligatus.com
+directads.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
@@ -60,7 +64,6 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -68,6 +71,8 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+upsight.com
+www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -127,7 +132,6 @@ classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
-partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
@@ -217,6 +221,7 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -431,6 +436,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+api.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -460,7 +466,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -497,11 +502,8 @@ log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
-logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
-statistics.vov2.vn
 stats.osd.vn
-track.kyna.vn
 track.winigroup.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
@@ -594,6 +596,7 @@ adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -680,7 +683,6 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
-asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -1054,11 +1056,11 @@ fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
-firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
@@ -1118,7 +1120,6 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
-gmobhnktqiur.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
@@ -1389,7 +1390,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1425,7 +1425,7 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
-lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1581,7 +1581,6 @@ ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
-oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
 onmarshtompor.com
@@ -1592,7 +1591,6 @@ opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
-opsivesh.net
 optimost.com
 opxaxqxaqo.com
 oqdavkguftan.com
@@ -1664,7 +1662,6 @@ petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
-phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1691,6 +1688,7 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
+pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1717,7 +1715,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1753,6 +1750,7 @@ pzshzhja.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
+qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
@@ -1791,7 +1789,6 @@ razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
-rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1808,6 +1805,7 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 rev2pub.com
+revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
@@ -2022,7 +2020,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
-traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2065,6 +2062,7 @@ updatedbut.com
 upgastlyr.com
 uphegroaglah.com
 upset-project.com
+upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
@@ -2256,6 +2254,7 @@ zwnsuuaoqfab.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
+cankaowang.com
 comscoreresearch.com
 dolohen.com
 e2.platform88798.com
