@@ -443,7 +443,6 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-campaigns.ambientplatform.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -472,7 +471,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.ecoe.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -488,11 +486,7 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
-jana1.jeoway.net
-jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
@@ -501,6 +495,7 @@ fly-ads.net
 tags.fly-ads.net
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
@@ -593,6 +588,7 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
+ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -639,18 +635,17 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -1015,6 +1010,7 @@ dpyabvkadg.com
 drubbersestia.com
 drydrum.com
 dsp.io
+ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
@@ -1117,7 +1113,6 @@ fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
-fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
@@ -1155,6 +1150,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1276,7 +1272,6 @@ hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
-hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
@@ -1291,7 +1286,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1555,6 +1549,7 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
+naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
@@ -1604,7 +1599,6 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1751,7 +1745,6 @@ pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
-pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 pokreess.com
@@ -2063,6 +2056,7 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2238,6 +2232,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
