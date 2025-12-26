@@ -185,10 +185,6 @@ brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 static.adxxx.com
 fadskiz.com
 gadskis.com
@@ -375,7 +371,6 @@ static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -387,7 +382,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
@@ -643,6 +637,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adtology.com
@@ -719,7 +714,6 @@ apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
-aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
@@ -885,8 +879,6 @@ chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
-chlod-qui.com
-chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -1092,6 +1084,7 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
+fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
@@ -1108,8 +1101,8 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
-filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1144,6 +1137,7 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
+ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1232,6 +1226,8 @@ hazaraspekt.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
+hcilralhi.com
+hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1244,6 +1240,7 @@ hewokhn.com
 hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
+hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
@@ -1284,6 +1281,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1453,7 +1451,6 @@ lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
-lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
@@ -1474,6 +1471,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1617,6 +1615,7 @@ oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
+okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
@@ -1711,6 +1710,7 @@ petiteumbrella.com
 pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
+phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
@@ -1927,11 +1927,11 @@ seo4india.com
 septfd2em64eber.com
 serconmp.com
 sermonoccupied.com
+setypckq.com
 sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
-shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
@@ -2167,6 +2167,7 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
@@ -2246,6 +2247,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
