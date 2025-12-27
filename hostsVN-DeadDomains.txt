@@ -107,15 +107,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -143,8 +134,6 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
-premium-adserver.djaxadserver.com
-pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
@@ -218,12 +207,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-cdn.aicactus.io
-geo-service.aicactus.io
-staging-tag-cdn.aicactus.io
-tag-cdn.aicactus.io
-tags.aicactus.io
-vt2-tags.aicactus.io
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -331,7 +314,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-tiads.timeinc.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -377,9 +359,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -451,11 +430,9 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
-ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
-ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -488,6 +465,7 @@ log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
+tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
@@ -544,7 +522,6 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
-adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -736,6 +713,7 @@ bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
+bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
@@ -780,7 +758,6 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -873,7 +850,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -898,6 +874,7 @@ daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
+dangerouswinter.com
 dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
@@ -965,7 +942,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1044,6 +1020,7 @@ feenyrpxyps.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fhsmtrnsfnt.com
+fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
@@ -1136,6 +1113,7 @@ grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
+groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
@@ -1227,6 +1205,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1345,6 +1324,7 @@ kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
+kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
@@ -1512,7 +1492,6 @@ newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
-niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
@@ -1660,7 +1639,6 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
-phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1673,6 +1651,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1731,6 +1710,7 @@ ptuxapow.com
 ptygunjk.com
 pubaka5.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1764,6 +1744,7 @@ qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
+quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -1834,7 +1815,6 @@ rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
 rprinc6etodn9kunjiv.com
-rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
 rtbpopd.com
@@ -2124,6 +2104,7 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2228,6 +2209,7 @@ yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
+ytimm.com
 ytjnpxiiqsblwb.com
 yummiergangue.shop
 yzqjaltdhlv.com
@@ -2256,7 +2238,6 @@ comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
-gotoip55.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
@@ -2274,7 +2255,6 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
-visitor.pixplug.in
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
