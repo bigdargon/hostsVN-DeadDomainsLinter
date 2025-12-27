@@ -26,6 +26,7 @@ analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
+directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
@@ -65,7 +66,9 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
+hb.adomik.com
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -81,7 +84,6 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -323,6 +325,7 @@ o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
+cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
@@ -419,6 +422,7 @@ fly-ads.net
 tags.fly-ads.net
 d.watanet.work
 watanet.work
+cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
@@ -604,7 +608,6 @@ alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
-allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -846,6 +849,7 @@ coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
+cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
@@ -956,6 +960,7 @@ ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
+ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
@@ -1019,14 +1024,12 @@ fhkfdgwtzueans.com
 fhsmtrnsfnt.com
 fidokhffekm.com
 fidszeoqwjf.com
-fijimtadee.net
 fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
-fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -1405,6 +1408,7 @@ malhfiacgx.com
 maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
+manompas.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1573,7 +1577,6 @@ organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
-ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1682,6 +1685,7 @@ praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
 praterswhally.com
+pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
@@ -1793,8 +1797,6 @@ rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
-rleibfzdny.com
-rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1945,7 +1947,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
-targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -1996,7 +1997,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
-trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
@@ -2060,7 +2060,6 @@ vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
-vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
 vertadnet.com
@@ -2141,8 +2140,6 @@ wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
-woomerapapacy.shop
-woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
