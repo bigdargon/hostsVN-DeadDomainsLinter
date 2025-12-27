@@ -1,5 +1,4 @@
 googleads-cn.com
-blueserving.com
 ads.mobclix.com
 vserv.mobi
 admin.vserv.mobi
@@ -56,6 +55,7 @@ zcoup.com
 adthor.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
@@ -250,7 +250,6 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
-push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -369,7 +368,6 @@ media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
-aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -503,6 +501,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
+2471april2024.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
@@ -790,7 +789,6 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
-ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
@@ -1162,7 +1160,6 @@ gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
-hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
@@ -1214,7 +1211,6 @@ hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
-hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
@@ -1225,6 +1221,7 @@ hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
+hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
@@ -1247,6 +1244,7 @@ imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
+inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1460,6 +1458,7 @@ mhelfiricbwa.com
 mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
+mingledventin.com
 mirohqodlf.com
 misqimohlpk.com
 missitzantiot.com
@@ -1757,7 +1756,6 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
-qiptamcupl.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1814,7 +1812,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1865,6 +1862,7 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scarofnght.com
+scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
@@ -1885,7 +1883,6 @@ shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
-shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
@@ -1960,7 +1957,6 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
-susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -2079,6 +2075,7 @@ usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
+uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
@@ -2087,7 +2084,6 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
-vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
@@ -2162,7 +2158,6 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
-wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
@@ -2246,7 +2241,6 @@ zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
-zipazvzu.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
