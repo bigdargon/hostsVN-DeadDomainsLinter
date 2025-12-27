@@ -36,6 +36,8 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -78,7 +80,6 @@ www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
-clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
@@ -147,6 +148,8 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
+tools.publift.com
+wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -450,11 +453,11 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
 clix.vn
@@ -464,13 +467,14 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
+quangcao.fff.com.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
@@ -516,7 +520,6 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
@@ -552,7 +555,6 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
-ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.horyzon-media.com
@@ -793,7 +795,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -831,10 +832,10 @@ clickadin.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
+cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
-coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
@@ -855,7 +856,6 @@ constintptr.com
 constructpoll.com
 contehos.com
 convertedhorace.com
-coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
@@ -890,13 +890,11 @@ dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
-daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
-deewansturacin.com
 defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
@@ -1072,7 +1070,6 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1115,7 +1112,6 @@ gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
-greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
@@ -1125,7 +1121,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1158,7 +1153,6 @@ hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
-hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
@@ -1216,7 +1210,6 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1235,7 +1228,6 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 inabsolor.com
-ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1266,7 +1258,6 @@ jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
-jewgn8une.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -1369,6 +1360,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1520,7 +1512,6 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
-nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1539,7 +1530,6 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
-ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1599,7 +1589,6 @@ oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
 outabsola.com
-outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
@@ -1672,6 +1661,7 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
+pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
@@ -1845,6 +1835,7 @@ salutationcheerlessdemote.com
 sarinfalun.com
 scabbienne.com
 scammereating.com
+scarofnght.com
 scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
@@ -1999,7 +1990,6 @@ tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
-toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2025,6 +2015,7 @@ tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
+udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
@@ -2231,6 +2222,7 @@ zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
+zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
@@ -2260,5 +2252,7 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
+visitor.pixplug.in
 worldgravity.com
 yoursitestatstube.ru
+zarget.com
