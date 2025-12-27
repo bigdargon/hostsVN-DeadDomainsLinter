@@ -1,4 +1,5 @@
 googleads-cn.com
+blueserving.com
 ads.mobclix.com
 vserv.mobi
 admin.vserv.mobi
@@ -75,7 +76,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
-nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
@@ -162,7 +162,6 @@ showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
 advinci.net
-count.advinci.net
 www.advinci.net
 m.optvx.com
 main.optvx.com
@@ -250,6 +249,7 @@ stats.anymad.com
 www.anymad.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -368,6 +368,7 @@ media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
+aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -403,7 +404,6 @@ atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
-track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
@@ -789,6 +789,7 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
+ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
@@ -863,7 +864,6 @@ conformfavoredgauging.com
 coniesnitch.com
 consciouschairs.com
 constintptr.com
-constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
@@ -877,6 +877,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1160,6 +1161,7 @@ gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
+hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
@@ -1211,6 +1213,7 @@ hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
+hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
@@ -1357,7 +1360,6 @@ lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
-lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
@@ -1883,6 +1885,7 @@ shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
+shaughaupoo.net
 shaughixefooz.net
 shelfoka.com
 shestour.net
@@ -1957,6 +1960,7 @@ sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
+susifhfh2d8ldn09.com
 suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
@@ -1989,7 +1993,6 @@ theedreemteedro.com
 theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
-thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thor-pom.com
@@ -2084,6 +2087,7 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
+vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
 venetrigni.com
@@ -2158,6 +2162,7 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
