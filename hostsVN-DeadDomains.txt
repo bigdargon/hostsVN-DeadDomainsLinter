@@ -142,6 +142,7 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
@@ -158,15 +159,13 @@ cdn.publift.com
 hb.publift.com
 npm.publift.com
 prebid.publift.com
+showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
 main.optvx.com
-optvx.com
-s.optvx.com
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -185,6 +184,7 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
+syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
@@ -594,6 +594,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -602,6 +603,7 @@ adtoma.com
 adtriplex.com
 advantagesclotblend.com
 adverdirect.com
+advertica-cdn2.com
 adxpose.com
 adxvalue.com
 adyieldoptimizer.com
@@ -663,7 +665,6 @@ aphycolourses.info
 api.ampiri.com
 appads.com
 apprefaculty.pro
-aptojeepsoopool.com
 apusx.com
 apxszeaj.com
 apzdfakiso.com
@@ -816,6 +817,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1174,6 +1176,7 @@ gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
+hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
@@ -1240,6 +1243,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1445,6 +1449,7 @@ maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1611,7 +1616,6 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhassagvaqw.com
-orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1697,7 +1701,6 @@ plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
-pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1752,6 +1755,7 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1864,6 +1868,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
+sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
@@ -1880,6 +1885,7 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
+seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1933,6 +1939,7 @@ soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
+spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
@@ -2047,6 +2054,7 @@ tunnedlehua.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
+tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
@@ -2078,8 +2086,10 @@ upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
+uruswan.com
 uselnk.com
 userresewn.com
+ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uxumhgvends.com
@@ -2181,6 +2191,7 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
+wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
