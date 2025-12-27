@@ -19,6 +19,7 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
+a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
@@ -83,7 +84,6 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -130,6 +130,7 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
+cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
@@ -212,7 +213,6 @@ native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
-vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
@@ -291,7 +291,6 @@ truepush.com
 www.truepush.com
 b91vip.com
 image.b91vip.com
-www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
@@ -735,7 +734,6 @@ banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
-baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -1014,7 +1012,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1116,7 +1113,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 gishejuy.com
 gk79a2oup.com
@@ -1232,7 +1228,6 @@ hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
-htyzpilijhki.com
 hubarejnbsobic.com
 hugazdazst.com
 huhskyavngw.com
@@ -1245,8 +1240,10 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
+iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1262,6 +1259,7 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 inabsolor.com
+ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1327,6 +1325,7 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
+kangaroohiccups.com
 katukaunamiss.com
 kaulouvaun.com
 kaurieseluxate.com
@@ -1771,6 +1770,8 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
+qjwglnuwqvr.com
+qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -1788,7 +1789,6 @@ questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
-qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -1825,6 +1825,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1939,7 +1940,6 @@ spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
-special.beatifulllhistory.com
 spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
@@ -1952,6 +1952,7 @@ static.scptpx.com
 stats.x14.eu
 stawhoph.com
 stay.decentralappps.com
+steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -2042,6 +2043,7 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
+tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -2136,6 +2138,7 @@ vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
+wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
@@ -2184,7 +2187,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wowshortvideos.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2195,7 +2197,6 @@ www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
-wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
