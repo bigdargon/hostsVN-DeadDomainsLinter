@@ -357,7 +357,6 @@ com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
-com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -438,7 +437,6 @@ dautruongdanhvong.com
 dautukiemtien.net
 dcommerc.cfd
 defi.hsfdefi.com
-demo.sc0mvn.com
 dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
@@ -812,7 +810,6 @@ goshop2018.com
 goshopback.vip
 goshopbackvip.vip
 goshopee.cc
-goshopee.club
 goshopee.net
 goshopee.vip
 gpay-mpos-ruttientindung.com
@@ -823,7 +820,6 @@ greenvay8.com
 griefcube.cc
 grn-membershipff.com
 grn-memberships.com
-grn-memberships2021.com
 gt091102204euc.click
 h092021u.click
 h49vnk.cyou
@@ -1042,6 +1038,7 @@ kdsf11.com
 kerrysexchange.com
 kfdg22.com
 kfdg55.com
+kh-cn-mrd-f5-tpbank.com
 kh-cn-uutien-3fv-vib.com
 kh-vibquocte.com
 khach-hang-ca-nhan-vip5.com
@@ -2132,7 +2129,6 @@ shopbangbang.xyz
 shopbehantv.net
 shopbloxfruit.click
 shopbloxfruit.com
-shopcao10sao.com
 shopccv.pro
 shopclonegiare.site
 shopcocphuchoai.com
@@ -2730,6 +2726,7 @@ tienanhanh.com
 tienbnhanh.com
 tiencnhanh.com
 tiendnhanh.com
+tienfnhanh.com
 tiengia24h.com
 tienichshiinhan.com
 tiennahanh.com
@@ -2747,6 +2744,7 @@ tiki111.com
 tiki136.com
 tiki1566.com
 tiki2022.vn
+tiki333.com
 tiki333.vip
 tiki35.com
 tiki36.com
@@ -2884,7 +2882,6 @@ tochucthetindung.com
 tomo5933.vip
 tomo5963.vip
 tongdaicaptruyenhinh.online
-tongdaifacebook.online
 tongdaitruyenhinhcap.info
 tongdaitruyenhinhcap24h.online
 topdienthoaia72.com
@@ -3278,7 +3275,6 @@ vidientu24h.com
 vidientunganhangso247.com
 vidientusp.vn
 vidientutrangtructuyen247.com
-vidientuvietnam247.com
 vie-tcapital.com
 vieatbank.com
 vieclam12.com
@@ -3468,8 +3464,6 @@ vipmomo247.com
 vipmomo79.club
 vipoasis.shop
 vipshopee.cc
-vipshopee.com
-viptikivn.club
 visa-mb.com
 visa-vibbank.com
 visa-vpbank-uu-tien.com
@@ -3673,6 +3667,7 @@ vongquaylotus.xyz
 vongquaylqm.com
 vongquayngoc.com
 vongquayroblox.com
+vongquaysieupham-grnfreefirevietnam.club
 vongquaysieuphamfreefirevn.club
 vongquaysieuphamfreefirevn.com
 vongquayskinfree.tk
@@ -3694,7 +3689,11 @@ vonsieujtoc.com
 vonsieuktoc.com
 vonsieultoc.com
 vonsieumtoc.com
+vonsieuntoc.com
+vonsieuotoc.com
+vonsieuptoc.com
 vonsieuqtoc.com
+vonsieurtoc.com
 vonsieustoc.com
 vonsieuttoc.com
 vonsieuutoc.com
