@@ -93,7 +93,6 @@ i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
-ssl.ligatus.com
 www.ligatus.com
 click-mdsp.avazutracking.net
 apx.trck.avazutracking.net
@@ -982,11 +981,14 @@ ads.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
 k8s2.testcentre.vn
+<<<<<<< Updated upstream
 testcentre.vn
 api.subiz.xyz
 codon.vn
 rp.codon.vn
 wpn.codon.vn
+=======
+>>>>>>> Stashed changes
 adx.vn
 mon.adx.vn
 matomo.ecoe.vn
@@ -1673,10 +1675,13 @@ apxszeaj.com
 apzdfakiso.com
 aq7ua5ma85rddeinve.com
 aqncinxrexa.com
+<<<<<<< Updated upstream
 aquaticowl.com
 arcobsarrod.com
 areamindless.com
 arhribadjqp.com
+=======
+>>>>>>> Stashed changes
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -1794,13 +1799,11 @@ banquetunarmedgrater.com
 bans.bride.ru
 baresi.xyz
 barnesandnoble.bfast.com
-barscreative1.com
 basebanner.com
 baskettexture.com
 baste-znl.com
 batomqsmoocc.com
 batteusp2hilenor.com
-bawdybeast.com
 baypops.com
 baywednesday.com
 bbbpromos.org
@@ -1997,8 +2000,11 @@ charitylingoreformer.com
 charming-people.com
 charmshoist.com
 cheap-result.pro
+<<<<<<< Updated upstream
 checkbookdisgusting.com
 cheetieaha.com
+=======
+>>>>>>> Stashed changes
 chelonebarpost.com
 chertouz.net
 chickensstation.com
@@ -2137,7 +2143,10 @@ crispmedia.com
 crispwireless.com
 critical-replacement.com
 croniesobli.com
+<<<<<<< Updated upstream
 crtv.mate1.com
+=======
+>>>>>>> Stashed changes
 crumbrationally.com
 crumplylenient.com
 cubics.com
@@ -2893,7 +2902,6 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
-js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jufbcunisak.com
@@ -3091,8 +3099,11 @@ magetrigla.com
 makafdsugxco.com
 makemydownload.com
 makespram.com
+<<<<<<< Updated upstream
 makqfcvs.com
 malatiswirled.com
+=======
+>>>>>>> Stashed changes
 malhfiacgx.com
 maljuggu.com
 mallogrow.com
@@ -3862,9 +3873,12 @@ ringedtusher.com
 riotedstuccos.top
 ripe-heart.com
 ritzykey.com
+<<<<<<< Updated upstream
 rivalbuffetdifferently.com
 riverstressful.com
 rjkrefyqrixk.com
+=======
+>>>>>>> Stashed changes
 rjprpydgnco.com
 rjw4obbw.com
 rkksbrkwdqbop.com
@@ -3965,10 +3979,13 @@ secretspiders.com
 secure.webconnect.net
 sedotracker.com
 seeablywitness.com
+<<<<<<< Updated upstream
 seekoflol.com
 seemoovojezy.net
 seethisinaction.com
 seguingjungled.com
+=======
+>>>>>>> Stashed changes
 sendmepixel.com
 sensenetworks.com
 sensorpluck.com
@@ -4645,7 +4662,6 @@ xsaheqapygdykxq.com
 xszpuvwr7.com
 xtendmedia.com
 xtuokkzro.com
-xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
