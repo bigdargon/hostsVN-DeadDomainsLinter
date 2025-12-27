@@ -165,7 +165,10 @@ wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
 main.optvx.com
+optvx.com
+s.optvx.com
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -218,7 +221,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -594,7 +596,6 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -665,6 +666,7 @@ aphycolourses.info
 api.ampiri.com
 appads.com
 apprefaculty.pro
+aptojeepsoopool.com
 apusx.com
 apxszeaj.com
 apzdfakiso.com
@@ -817,7 +819,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -859,7 +860,6 @@ cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
-coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
@@ -967,7 +967,6 @@ drubbersestia.com
 drydrum.com
 dsp.io
 ductathing.com
-duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
@@ -997,7 +996,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
-ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -1082,7 +1080,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
@@ -1442,14 +1439,12 @@ madserve.org
 mafrarc3e9h.com
 mage98rquewz.com
 makemydownload.com
-makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
-manpowerspiritualunrented.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
@@ -1506,7 +1501,6 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
-myntelligence.com
 myolnyr5bsk18.com
 naishoochoh.com
 namol.xyz
@@ -1551,7 +1545,6 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
-nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1606,7 +1599,6 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
-opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1616,6 +1608,7 @@ orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
 orhassagvaqw.com
+orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
@@ -1700,7 +1693,6 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
-plutothejewel.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1828,6 +1820,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2025,7 +2018,6 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
-toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2204,7 +2196,6 @@ www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
-xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
@@ -2253,7 +2244,6 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
-yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
@@ -2292,7 +2282,6 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
