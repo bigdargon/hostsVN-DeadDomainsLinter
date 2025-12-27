@@ -19,7 +19,6 @@ client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
-a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
@@ -131,7 +130,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 articles.asianmedia.com
-cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
@@ -221,6 +219,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -596,6 +595,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -819,6 +819,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -860,6 +861,7 @@ cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
+coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
@@ -967,6 +969,7 @@ drubbersestia.com
 drydrum.com
 dsp.io
 ductathing.com
+duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
@@ -996,6 +999,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
+ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -1080,6 +1084,7 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
+frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
@@ -1240,10 +1245,8 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
-iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1259,7 +1262,6 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 inabsolor.com
-ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1325,7 +1327,6 @@ jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
 kamak-mab.com
-kangaroohiccups.com
 katukaunamiss.com
 kaulouvaun.com
 kaurieseluxate.com
@@ -1439,6 +1440,7 @@ madserve.org
 mafrarc3e9h.com
 mage98rquewz.com
 makemydownload.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1501,6 +1503,7 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
+myntelligence.com
 myolnyr5bsk18.com
 naishoochoh.com
 namol.xyz
@@ -1545,6 +1548,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1599,6 +1603,7 @@ openads.org
 opntwymri.com
 opsivesh.net
 optimost.com
+opxaxqxaqo.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -1693,6 +1698,8 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
+plutothejewel.com
+pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1764,8 +1771,6 @@ qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
-qjwglnuwqvr.com
-qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -1820,7 +1825,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1948,7 +1952,6 @@ static.scptpx.com
 stats.x14.eu
 stawhoph.com
 stay.decentralappps.com
-steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
@@ -2018,6 +2021,7 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
+toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2038,7 +2042,6 @@ troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
-tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
@@ -2079,7 +2082,6 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-uselnk.com
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2134,7 +2136,6 @@ vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
-wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
@@ -2196,6 +2197,7 @@ www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
+xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
@@ -2244,6 +2246,7 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
+yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
@@ -2282,6 +2285,7 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+tdf.ringier.ch
 track.hydro.online
 tracking.news360.store
 tracking.scenepass.com
