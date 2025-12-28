@@ -20,6 +20,7 @@ sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
+analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
@@ -137,12 +138,10 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
@@ -214,11 +213,11 @@ mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 native-vpaid.winadx.com
+rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -456,7 +455,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -548,7 +546,6 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
-ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -698,6 +695,7 @@ baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
+banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -989,6 +987,8 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
+eringosdye.com
+erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -1036,7 +1036,6 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
-filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
@@ -1100,6 +1099,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
+go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
@@ -1259,6 +1259,7 @@ izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
+jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
@@ -1282,8 +1283,6 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
-jpovulldaghw.com
-jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -1348,7 +1347,9 @@ lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
 lauloajaiph.net
+lbmqciazrpm.com
 leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1481,6 +1482,8 @@ namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
+nativewpsh.com
+naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
 nazolncubha.com
@@ -1751,6 +1754,7 @@ qp.ezfxpuo.cn
 qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
+qtspkqzn.com
 quaintcan.com
 qualityadverse.com
 quarterserver.de
@@ -1767,6 +1771,7 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1875,12 +1880,10 @@ shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
-shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
-simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -2079,6 +2082,7 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
+viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
@@ -2163,6 +2167,7 @@ wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 wtylahmaro.com
+www.go-rillatrack.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
