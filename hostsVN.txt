@@ -1,4 +1,4 @@
-# Version: 2512252304
+# Version: 2512281622
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||metrics.icloud.com^
@@ -14176,6 +14176,7 @@
 ||cutescale.online^
 ||cuxdiqagcl.com^
 ||cvvczlcg.com^
+||cwifabvze.com^
 ||cwoamjkma.com^
 ||cwqljsecvr.com^
 ||cyberbounty.com^
@@ -14839,6 +14840,7 @@
 ||giddycoat.com^
 ||giggedguddle.com^
 ||gimoqwmikakv.com^
+||gimxukhmcrbl.com^
 ||ginchoirblessed.com^
 ||ginpithed.live^
 ||girls-only.online^
@@ -16815,6 +16817,7 @@
 ||rcvlink.com^
 ||rcyorjkze.com^
 ||rdbzasvjgmnk.com^
+||rdqysipvmuleeoy.com^
 ||rdr.wargaming.net^
 ||rduaagcwsw.com^
 ||reachjunction.com^
@@ -17836,6 +17839,7 @@
 ||utils.mediageneral.net^
 ||utubepwhml.com^
 ||uuomdlaslopcrx.com^
+||uvettjofogfozc.com^
 ||uwoaptee.com^
 ||uxumhgvends.com^
 ||uyledjlevq.com^
