@@ -111,6 +111,9 @@ services.scanscout.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+apilw.epom.com
+cdn.epom.com
+directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -141,8 +144,10 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
+ads.152media.com
+mob.152media.com
+player-aws.ads.152media.com
 cdn.bidfilter.com
-static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -164,7 +169,6 @@ s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
-origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -177,6 +181,9 @@ apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -335,6 +342,7 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -381,6 +389,7 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
@@ -459,6 +468,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -514,6 +524,7 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
+ad-miner.com
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -669,6 +680,7 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
@@ -738,6 +750,7 @@ blueswordksh.com
 bmaahwahpofp.com
 bn.bfast.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -753,6 +766,7 @@ brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
+bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
@@ -765,6 +779,8 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+bzyfzusiqohk.com
+c.cdn-server.top
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -781,6 +797,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -808,7 +825,6 @@ chozarpeases.com
 chtsayil.com
 chulhawakened.com
 chullohagrode.com
-ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
@@ -868,6 +884,7 @@ cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 d.appsdt.com
+d6jfiirio372.com
 da-ads.com
 dacmaiss.com
 daintydragged.com
@@ -939,7 +956,6 @@ dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
-eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 eclickz.com
@@ -950,6 +966,7 @@ eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
+effectiveperformanceformat.com
 efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
@@ -1003,6 +1020,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1328,7 +1346,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
@@ -1451,7 +1468,6 @@ mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
-morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
@@ -1484,6 +1500,7 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
+netshelter.net
 news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
@@ -1527,6 +1544,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
+odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1598,6 +1616,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjaqdywlviyfe.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -1725,6 +1744,7 @@ pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
+qahntenkyf.com
 qainfcnvfensl.site
 qakzfubfozaj.com
 qarhrytwyqp.com
@@ -1777,6 +1797,7 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
+reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1790,6 +1811,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1906,6 +1928,7 @@ spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
 spikereekvelocity.com
+spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -1971,7 +1994,6 @@ thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
-thootipheguph.com
 thor-pom.com
 thougnoangi.com
 thoungoofeed.net
@@ -1980,6 +2002,7 @@ thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
 tiiytaekjajw.com
+tilqwekuszfa.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2213,6 +2236,7 @@ ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
+ytxwdnnlubenlm.com
 yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
