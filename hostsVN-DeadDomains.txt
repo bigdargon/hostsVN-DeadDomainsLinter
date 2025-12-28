@@ -144,7 +144,6 @@ static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -193,6 +192,7 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -297,7 +297,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -351,7 +350,6 @@ www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
-k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -613,6 +611,7 @@ audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
+autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
@@ -642,7 +641,6 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.elisa.net
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -720,7 +718,6 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
-ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
@@ -768,7 +765,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
-click.kmindex.ru
 clickadin.com
 clicktracks.com
 clkofafcbk.com
@@ -801,7 +797,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counting.kmindex.ru
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -985,6 +980,7 @@ fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
+fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 foliumumu.com
@@ -1215,6 +1211,7 @@ jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
+jkfdnofnz.com
 jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
@@ -1327,6 +1324,7 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -1401,6 +1399,7 @@ mobpushup.com
 moodokay.com
 moomenog.com
 moonlitturbots.com
+morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
@@ -1456,7 +1455,6 @@ numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
-nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
@@ -1484,7 +1482,6 @@ ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
-ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
@@ -1495,7 +1492,6 @@ olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
-oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
@@ -1591,6 +1587,7 @@ phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
+phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
 photographpan.com
@@ -1612,11 +1609,11 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
+plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
-poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -1900,6 +1897,7 @@ tacticmarshannouncing.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -2086,7 +2084,6 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
-wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
