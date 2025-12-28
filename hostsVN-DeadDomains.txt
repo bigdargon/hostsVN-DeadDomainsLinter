@@ -168,7 +168,6 @@ main.optvx.com
 optvx.com
 s.optvx.com
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -337,6 +336,9 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
+mat.cryptox-ads.io
+pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -736,7 +738,6 @@ betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
-bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
@@ -1063,6 +1064,7 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
+fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1204,6 +1206,7 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
+htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -1542,7 +1545,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1599,6 +1601,7 @@ osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
+oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
 outabsola.com
@@ -1637,7 +1640,6 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 paxzfenara.com
-paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1648,6 +1650,7 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
+phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1660,6 +1663,7 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
+pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1900,6 +1904,10 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
+snitzsauteur.shop
+snxewpxrhegslq.com
+soaheeme.net
+soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
@@ -2115,7 +2123,6 @@ wapjwujfipuz.com
 warlog.info
 wateryvan.com
 wathoojoba.com
-wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
@@ -2137,6 +2144,7 @@ wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
+windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
