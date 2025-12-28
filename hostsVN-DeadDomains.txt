@@ -75,11 +75,13 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
+marketing-api.upsight.com
 nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
 upsight.com
+www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -267,7 +269,6 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
-sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -345,8 +346,8 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv640.me
 ads.livetv664.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -365,7 +366,6 @@ aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
-aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
@@ -467,7 +467,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -529,6 +528,7 @@ ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
+ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -759,7 +759,6 @@ brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
-brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
@@ -772,6 +771,7 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -792,13 +792,13 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
-ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
@@ -900,6 +900,7 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
+defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -930,7 +931,6 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
-dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
@@ -1153,12 +1153,14 @@ hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
+harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
+hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
@@ -1197,7 +1199,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1285,7 +1286,6 @@ jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
-js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
@@ -1363,7 +1363,6 @@ libedgolart.com
 lidosquey.shop
 lifpv.com
 liftdna.com
-ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
@@ -1462,6 +1461,7 @@ moodokay.com
 moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
+mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
@@ -1496,7 +1496,6 @@ netflame.cc
 netshelter.net
 news-central.org
 news-muheji.com
-newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1802,7 +1801,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1907,6 +1905,7 @@ snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
+soliads.net
 solibothnic.qpon
 songbagoozes.com
 soodejeego.net
