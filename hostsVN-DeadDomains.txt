@@ -138,10 +138,12 @@ magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
@@ -213,6 +215,7 @@ mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
@@ -334,9 +337,6 @@ p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
-mat.cryptox-ads.io
-pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -455,6 +455,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -546,6 +547,7 @@ ads.cdn2-img.net
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
+ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -1036,6 +1038,7 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
+filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
@@ -1060,7 +1063,6 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1202,7 +1204,6 @@ hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
-htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
 huhskyavngw.com
@@ -1283,6 +1284,8 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
+jpovulldaghw.com
+jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -1596,7 +1599,6 @@ osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
-oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
 outabsola.com
@@ -1646,7 +1648,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
-phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1659,7 +1660,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1880,10 +1880,12 @@ shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
+shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
+simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -1898,10 +1900,6 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
-snitzsauteur.shop
-snxewpxrhegslq.com
-soaheeme.net
-soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
@@ -2139,7 +2137,6 @@ wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
-windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
