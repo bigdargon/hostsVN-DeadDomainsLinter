@@ -22,6 +22,7 @@ js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
+ecs1.engageya.com
 ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
@@ -129,7 +130,6 @@ monitor.simpleanalytics.io
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
-magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
@@ -144,9 +144,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
-bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
@@ -160,9 +158,6 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-ads.152media.com
-mob.152media.com
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -172,7 +167,6 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
@@ -220,6 +214,7 @@ track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
@@ -251,6 +246,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -345,6 +341,7 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
+ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
@@ -417,7 +414,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-alpha.onfluencer.net
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
@@ -601,6 +597,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -610,6 +607,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advantagesclotblend.com
 advariant.com
 adverdirect.com
 advertica-cdn2.com
@@ -781,6 +779,7 @@ blearspellaea.shop
 bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
+bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -806,7 +805,6 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
-bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -835,6 +833,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
@@ -903,7 +902,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -925,6 +923,7 @@ dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
+dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
@@ -1039,6 +1038,8 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
@@ -1136,6 +1137,7 @@ glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
+go-rank.de
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
@@ -1274,6 +1276,7 @@ imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
+inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1366,7 +1369,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1459,13 +1461,11 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
-mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
@@ -1505,7 +1505,6 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mulautuzign.com
-munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
@@ -1535,7 +1534,6 @@ news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
-nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1720,8 +1718,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -2114,11 +2110,7 @@ vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
-vazcukap.com
-vbqtfejdtqkjuf.com
 vdopia.com
-vdyunvfrfale.com
-ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -2132,6 +2124,7 @@ viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2245,6 +2238,7 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
+ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -2297,7 +2291,6 @@ comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
-hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
 leadzutw.com
