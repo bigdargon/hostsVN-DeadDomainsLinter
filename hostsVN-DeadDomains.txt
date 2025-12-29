@@ -46,6 +46,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+askingpoint.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -91,7 +92,6 @@ cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -112,7 +112,6 @@ cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
-madsecz.com
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -179,7 +178,6 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
-native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -329,6 +327,7 @@ mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
+track.daly2024.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -505,7 +504,6 @@ ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
-ads.flooble.com
 ads.foxnetworks.com
 ads.gplusmedia.com
 ads.horyzon-media.com
@@ -545,7 +543,6 @@ affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
-afrjhanwosa.com
 agafurretor.com
 agapios-gla.com
 agghriwaz.com
@@ -647,6 +644,7 @@ azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
+baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
@@ -770,7 +768,6 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
-chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -1012,7 +1009,6 @@ forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
-fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
@@ -1313,16 +1309,17 @@ lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
 lauloajaiph.net
+lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
-legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligeia-gip.com
@@ -1643,7 +1640,6 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
-politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1893,9 +1889,11 @@ stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
+stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
+stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
@@ -1970,6 +1968,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
@@ -2179,6 +2178,7 @@ yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
+yrumdfslwabv.com
 ysbddgay.com
 yseyxucrhjfi.com
 ytimm.com
