@@ -38,6 +38,9 @@ ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
+rfp.lkqd.net
+rs-lb-a.lkqd.net
+rs-lb-b.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
@@ -136,6 +139,10 @@ tags.bkrtx.com
 www.bkrtx.com
 action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
+bbcdn-static-adserver.ibillboard.com
+bbcdn-static-mbrdsp.ibillboard.com
+bbcdn-tag.ibillboard.com
+bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
@@ -485,15 +492,14 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
-quangcao.fff.com.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
-analytics.gotama.link
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -595,6 +601,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -610,6 +617,7 @@ adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
+adyea.com
 adyieldoptimizer.com
 af.endballbemires.com
 afearprevoid.com
@@ -696,7 +704,6 @@ audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
-authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
@@ -713,6 +720,7 @@ awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
 axkwmsivme.com
+aytcepmvxtelzf.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -772,6 +780,7 @@ blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
+bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
@@ -897,6 +906,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -906,6 +916,7 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
+cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -1111,6 +1122,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1174,7 +1186,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
@@ -1322,6 +1333,7 @@ jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1406,9 +1418,7 @@ litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
-llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1581,7 +1591,6 @@ ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
-okueroskynt.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
@@ -1645,7 +1654,6 @@ owjaqdywlviyfe.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
-owxqunparw.com
 ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
@@ -1771,6 +1779,8 @@ py.dautedtwiny.shop
 pzshzhja.com
 qa.cleckvenin.com
 qainfcnvfensl.site
+qakzfubfozaj.com
+qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
@@ -1890,6 +1900,8 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
+seataverna.rest
+secondquaver.com
 seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
@@ -2248,7 +2260,6 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
-yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
@@ -2272,7 +2283,6 @@ zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
-zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
