@@ -46,7 +46,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-askingpoint.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -92,6 +91,7 @@ cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
+whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -112,6 +112,7 @@ cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
+madsecz.com
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -178,6 +179,7 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -375,7 +377,6 @@ app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
@@ -510,7 +511,6 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
-ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -530,7 +530,6 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -768,6 +767,7 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
+chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -779,7 +779,6 @@ cihwactuqkco.com
 circularnothing.com
 cjbmanagement.com
 claroadsclick.com
-clickadin.com
 clicks.mods.de
 clicktracks.com
 clkofafcbk.com
@@ -822,7 +821,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -953,7 +951,6 @@ euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -993,7 +990,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1009,6 +1005,7 @@ forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
+fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
@@ -1036,7 +1033,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1048,7 +1044,6 @@ gelclinchfranz.com
 gfugafoz.com
 gishejuy.com
 gk79a2oup.com
-gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
@@ -1135,7 +1130,6 @@ hewokhn.com
 hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
-hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
@@ -1315,6 +1309,7 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
+legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
@@ -1348,7 +1343,6 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1380,7 +1374,6 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1640,6 +1633,7 @@ poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
+politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
@@ -1689,6 +1683,7 @@ pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
+pvrladcyxnico.com
 pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
@@ -1752,7 +1747,6 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
-retryngs.com
 rev2pub.com
 revmob.com
 revoketypes.com
