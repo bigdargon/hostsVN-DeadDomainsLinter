@@ -68,6 +68,7 @@ appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
+sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 crunchyroll.adnetasia.com
@@ -174,7 +175,6 @@ gadskis.com
 madsecz.com
 analytics.proper.io
 api.proper.io
-bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
@@ -382,6 +382,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv655.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -630,6 +631,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -648,8 +650,6 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
 ak.stikroltiltoowi.net
-akximhhcunr.com
-akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
@@ -1122,7 +1122,6 @@ gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galaxien.com
-galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1260,6 +1259,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+hz.methylstewed.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
@@ -1289,7 +1289,6 @@ interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
-ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
@@ -1302,7 +1301,6 @@ ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
-jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
@@ -1372,6 +1370,7 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
+ktaehxdlf.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1425,6 +1424,7 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1463,6 +1463,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1666,7 +1667,6 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
-pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1825,6 +1825,7 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
+reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -1863,7 +1864,6 @@ rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
-rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -2127,6 +2127,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
