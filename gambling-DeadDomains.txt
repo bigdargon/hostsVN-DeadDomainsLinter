@@ -81,6 +81,7 @@
 0074661.com
 0074663.com
 0074664.com
+0074665.com
 0074667.com
 0074669.com
 0074684.com
@@ -93,7 +94,6 @@
 0081004.com
 0081v.com
 0082v.com
-0082x.com
 0084v.com
 00882007.com
 0088n.com
@@ -434,10 +434,6 @@
 045390.com
 046390.com
 0464073.com
-<<<<<<< Updated upstream
-=======
-0465r.com
->>>>>>> Stashed changes
 0466p.com
 04712k.com
 04712p.com
@@ -641,7 +637,6 @@
 07477c.com
 07488u.com
 074a6.com
-074d7.com
 074f6.com
 07584a.com
 07584b.com
@@ -1500,11 +1495,6 @@
 127bi.com
 127hgv.com
 128145.com
-<<<<<<< Updated upstream
-128166.com
-=======
->>>>>>> Stashed changes
-128167.com
 1281n.com
 1281t.com
 128222.net
@@ -3620,7 +3610,6 @@
 23388866.net
 23388899.net
 23389966.net
-233yb.com
 234075.com
 234076.com
 2340f9.com
@@ -3747,6 +3736,7 @@
 2373t.com
 2375t.com
 2375w.com
+23775v.com
 23777i.com
 23777l.com
 23777v.com
@@ -7956,22 +7946,19 @@
 485525.com
 4855n.com
 4855s.com
-<<<<<<< Updated upstream
-4858jj.com
-4858lll.com
+4858ff.com
+4858hh.com
+4858ii.com
+4858j.com
 4858m.com
-4858n.com
+4858mmm.com
+4858q.com
 4858qqq.com
 4858r.com
+4858s.com
 4858sss.com
-=======
-4858f.com
-4858g.com
-4858hh.com
-4858lll.com
-4858n.com
 4858t.com
->>>>>>> Stashed changes
+4858v.com
 4862x.com
 4864t.com
 4866s.com
@@ -8423,6 +8410,7 @@
 5231x.com
 5232v.com
 5233s.com
+5233t.com
 5234v.com
 5235588.com
 5235n.com
@@ -9299,6 +9287,7 @@
 57775p.com
 57775v.com
 57776v.com
+5778t.com
 5778v.com
 5778w.com
 5779n.com
@@ -10080,6 +10069,7 @@
 63310a.com
 6331j.com
 6331w.com
+6331x.com
 6332j.com
 6332w.com
 63331.org
@@ -10397,6 +10387,7 @@
 654613.com
 6546x.com
 6547200.com
+654818.com
 654896.com
 6550n.com
 6551s.com
@@ -10985,6 +10976,7 @@
 6713t.com
 671401.com
 671403.com
+671405.com
 671406.com
 671410.com
 671411.com
@@ -11031,8 +11023,15 @@
 673121.com
 673143.com
 673164.com
+673165.com
+673170.com
+673171.com
+673172.com
+673175.com
 673177.com
 673185.com
+673186.com
+673187.com
 673189.com
 673190.com
 673192.com
@@ -12538,6 +12537,7 @@
 7618n.com
 7619n.com
 7619yb.com
+7621n.com
 7623n.com
 7623t.com
 7623v.com
@@ -12781,7 +12781,6 @@
 7734j.com
 7734w.com
 77366.biz
-7736h.com
 7736ky.com
 7738n.com
 7738yb.com
@@ -13211,6 +13210,7 @@
 789bet47.cc
 789bet5.tv
 789bet50.com
+789bet60.cc
 789bet64.com
 789bet66.com
 789bet77.co
@@ -13251,7 +13251,6 @@
 789wnsr.com
 78bet999.bet
 78bet999.fun
-78hjd.com
 78k11.com
 78k222.com
 78k444.com
@@ -14891,10 +14890,7 @@
 87hthg.com
 87yabo.com
 8800002.com
-<<<<<<< Updated upstream
-=======
 880036.com
->>>>>>> Stashed changes
 88004vip.com
 8801n.com
 8801v.com
@@ -16599,6 +16595,7 @@
 9914t.com
 99186v.com
 9919w.com
+992067.com
 9920sbet.com
 99222.org
 99222v.com
@@ -17486,7 +17483,6 @@ b2891.com
 b2898.com
 b28w.com
 b29.cafe
-b2933.com
 b2c3d4.fun
 b3178.com
 b3187.com
@@ -18706,6 +18702,7 @@ bw1687.com
 bw1689.com
 bw1698.com
 bw1887.com
+bw197.com
 bw2.site
 bw2228.com
 bw22tiyu.com
@@ -19279,6 +19276,7 @@ dali77k.cc
 dali77l.cc
 dali77l.xyz
 dali77o.cc
+dali77oo.cfd
 dali77p.cc
 dali77p.xyz
 dali77s.cc
@@ -20593,6 +20591,7 @@ fun88indo1.com
 fun88link.org
 fun88love.com
 fun88vn.info
+fun88vnwin.com
 fun88win1.com
 fun890.com
 fun8922.com
@@ -20652,6 +20651,7 @@ g5528.com
 g5781.com
 g5877.com
 g5996.com
+g6331.com
 g67811.com
 g697.net
 g69779.com
@@ -20695,7 +20695,6 @@ gametimewagers.com
 gametop88.me
 gamevip.info
 gamevui.club
-gamevui68.live
 gamewin68.com
 gamewin79vip.net
 gameza3129.vip
@@ -22076,7 +22075,6 @@ jixiangfang2027.com
 jixiangfang2028.com
 jj004.com
 jj4766.com
-jj644.com
 jj909.com
 jjfungame.com
 jji87v.ink
@@ -23296,7 +23294,6 @@ m88lis.com
 m88rd.com
 m88tip.com
 m88tld.com
-m8winvip.com
 m8x28d.com
 m9j.btytg3.com
 m9q21sk.info
@@ -24762,6 +24759,7 @@ q034034.com
 q1496688.com
 q15572917796.com
 q1663.com
+q1822.com
 q1886.com
 q188xj.com
 q1991.com
@@ -25354,12 +25352,10 @@ saibo16.com
 saibo2.com
 saibo4.com
 saibo44.com
-saibo5.com
 saibo55.com
 saibo5566.com
 saibo888.vip
 saibo8899.com
-saibo9.com
 saibo998.com
 saiboaa.com
 saiboapp.com
@@ -25685,6 +25681,7 @@ slotgamek8cc.com
 slotmania333.com
 slotph.bet
 slotpkvgames.net
+slots69mvp.com
 slotwesterngold.xyz
 slotwin.fun
 slotwin.vip
@@ -26388,6 +26385,7 @@ tt-ng1.xyz
 tt128viet.com
 tt222.net
 tt2china.com
+tt3979.com
 ttcp771.com
 ttcp883.com
 ttcp884.com
@@ -26690,8 +26688,6 @@ uz42g.com
 v0035.com
 v0383.com
 v0486.com
-v0521.com
-v0630.com
 v11112.com
 v11169.com
 v1287.com
@@ -27772,6 +27768,7 @@ www.hb88z.com
 www.hcm66-vip.com
 www.i8bet.org
 www.ivobet1.com
+www.jackpotjunction.com
 www.jjdtt.com
 www.k8vip.me
 www.ko66bb.vip
@@ -27779,9 +27776,7 @@ www.kubet86.com
 www.lchvn.com
 www.lg585.com
 www.lklklklk.space
-www.lode555.com
 www.lt119.online
-www.m8winvip.com
 www.mibet.mobi
 www.mu055.com
 www.mu111.vip
@@ -27985,6 +27980,7 @@ x0946.com
 x0947.com
 x0951.com
 x0962.com
+x0968.com
 x0972.com
 x0973.com
 x0984.com
