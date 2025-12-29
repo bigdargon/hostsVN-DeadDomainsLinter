@@ -41,6 +41,7 @@ m.lkqd.net
 rfp.lkqd.net
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
+rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
 ssp-cw.lkqd.net
@@ -351,7 +352,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.app.returnpath.net
@@ -384,7 +384,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -495,11 +494,13 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
+quangcao.fff.com.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
+analytics.gotama.link
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -601,7 +602,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -704,6 +704,7 @@ audiens.com
 audraghafamign.net
 aulteeby.net
 aungudie.com
+authoaxoms.net
 autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
@@ -1165,7 +1166,6 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
-grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1186,6 +1186,7 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
@@ -1418,7 +1419,9 @@ litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
+llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1591,6 +1594,7 @@ ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
+okueroskynt.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
@@ -1654,6 +1658,7 @@ owjaqdywlviyfe.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
+owxqunparw.com
 ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
@@ -1677,7 +1682,6 @@ pasjcutadak.com
 patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
-paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -1795,7 +1799,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qruqon.com
-qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1984,7 +1987,6 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 suddenvampire.com
 sujjkoshod.com
@@ -2260,6 +2262,7 @@ ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
+yonomastara.com
 yonsandileer.com
 yougotacheck.com
 yovqnwnmpzz.com
@@ -2283,6 +2286,7 @@ zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
+zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
