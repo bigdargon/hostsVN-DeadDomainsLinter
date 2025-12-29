@@ -35,6 +35,7 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
+creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
@@ -217,7 +218,6 @@ static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -277,13 +277,13 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
+images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
-static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
@@ -366,6 +366,7 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -380,6 +381,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -478,6 +480,7 @@ ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 adserver.trangphim.net
+adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -600,6 +603,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.org
@@ -683,7 +687,6 @@ aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
-arrqumzr.com
 artax-evn.com
 asdhhuztul.com
 asfobftirag.com
@@ -757,8 +760,6 @@ bemachopor.com
 bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
-bepansaer.com
-beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -808,6 +809,7 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+bzyfzusiqohk.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -961,7 +963,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -970,6 +971,7 @@ dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
+doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
@@ -1114,6 +1116,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1143,6 +1146,7 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
+gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1198,7 +1202,6 @@ hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
-hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1302,6 +1305,7 @@ jaumevie.com
 jerboasjourney.com
 jewgn8une.com
 jfgeuisugoekf.com
+jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
@@ -1393,6 +1397,7 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
+lfalfehuq.com
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1469,6 +1474,7 @@ mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
+metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
@@ -1491,7 +1497,6 @@ mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
-moomenog.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1631,6 +1636,7 @@ ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
+ouftukoo.net
 ourithauphexaus.com
 outabsola.com
 outflednailbin.com
@@ -1770,7 +1776,6 @@ pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qainfcnvfensl.site
-qakcceob.com
 qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
@@ -1792,11 +1797,13 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
+qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -1823,7 +1830,6 @@ regletsminings.shop
 reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
-remox.com
 repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
@@ -1907,6 +1913,8 @@ shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
+shaughaupoo.net
+shaughixefooz.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1919,7 +1927,6 @@ sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
-sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
@@ -1948,6 +1955,7 @@ spacash.com
 spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
+speakspurink.com
 special.beatifulllhistory.com
 spikereekvelocity.com
 spot.fitness.com
