@@ -68,7 +68,6 @@ appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
-sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
 crunchyroll.adnetasia.com
@@ -313,6 +312,7 @@ network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
+hetaruwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -337,6 +337,7 @@ livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
+imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
@@ -346,6 +347,7 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
+ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
@@ -612,6 +614,7 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -627,12 +630,12 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
+aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
@@ -903,6 +906,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -912,6 +916,7 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
+cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -949,6 +954,7 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
+dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
@@ -1069,8 +1075,10 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
+filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1113,6 +1121,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1251,6 +1260,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1344,6 +1354,8 @@ kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
+keefoocauby.com
+kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
@@ -1360,8 +1372,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1382,6 +1392,7 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1414,7 +1425,6 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1549,6 +1559,7 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
@@ -1707,6 +1718,7 @@ plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
+podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
@@ -1813,7 +1825,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -2116,7 +2127,6 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
-viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
