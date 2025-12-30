@@ -70,7 +70,6 @@ sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -87,7 +86,9 @@ aj2503.online
 ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
+lb.asianmedia.com
 server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -109,6 +110,7 @@ cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
+madsecz.com
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -155,6 +157,7 @@ auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
+t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
@@ -377,7 +380,6 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -389,9 +391,11 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -556,7 +560,6 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
-ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
@@ -599,6 +602,7 @@ areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
+armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -852,7 +856,6 @@ defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
-deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
@@ -883,6 +886,7 @@ dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
+doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
@@ -1423,7 +1427,6 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
-naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
@@ -1866,7 +1869,6 @@ speakspurink.com
 special.beatifulllhistory.com
 spikereekvelocity.com
 spot.fitness.com
-sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -1965,6 +1967,7 @@ trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
+trtjigpsscmv9epe10.com
 trustbummler.com
 trustisimportant.fun
 tshfc.com
@@ -2107,6 +2110,7 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
+wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -2155,7 +2159,6 @@ yeljusxttq.com
 yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
-ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
