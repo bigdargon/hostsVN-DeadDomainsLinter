@@ -80,6 +80,7 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
+prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
@@ -123,7 +124,6 @@ cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
-madsecz.com
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -254,7 +254,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -528,6 +527,7 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -554,6 +554,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adsk2.co
 adskape.ru
 adsmogo.org
 adspace.ro
@@ -563,9 +564,9 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
+adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 af.endballbemires.com
@@ -742,7 +743,6 @@ bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
-breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
@@ -1025,6 +1025,7 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1068,7 +1069,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1152,7 +1152,9 @@ hazaraspekt.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
+hcetcuwit.com
 hcilralhi.com
+hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1206,7 +1208,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1248,6 +1249,7 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
+j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
@@ -1335,7 +1337,6 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
-lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
@@ -1479,7 +1480,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nervoustolsel.com
 netcommunities.com
 netflame.cc
 news-central.org
@@ -1491,13 +1491,11 @@ nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
-noerwe5gianfor19e4st.com
 nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
-nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
@@ -1618,6 +1616,7 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
+pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1750,7 +1749,6 @@ quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
-questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1920,7 +1918,6 @@ static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
 stats.x14.eu
-stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
@@ -1946,6 +1943,7 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2056,6 +2054,7 @@ uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
+uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2170,7 +2169,6 @@ www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
-xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
@@ -2229,6 +2227,7 @@ zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
+zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zmedia.com
@@ -2248,7 +2247,6 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
-moatpixel.com
 play.leadzutw.com
 q2melbourne.com
 richmetrics.com
