@@ -20,7 +20,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-x.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -85,6 +84,8 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
+all.dspmulti.com
+dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -186,6 +187,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -293,7 +295,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
@@ -340,7 +341,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
-litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-track.net
@@ -387,6 +387,8 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
@@ -808,6 +810,7 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
+coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -833,6 +836,7 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -927,7 +931,6 @@ ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
-eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -942,6 +945,7 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
+ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -951,7 +955,6 @@ encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
-enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
@@ -965,7 +968,6 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
-ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -1189,6 +1191,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1334,7 +1337,6 @@ leiki.com
 lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
-libedgolart.com
 lidosquey.shop
 lifpv.com
 ligeia-gip.com
@@ -1384,7 +1386,6 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
-mage98rquewz.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1466,6 +1467,7 @@ netcommunities.com
 netflame.cc
 news-central.org
 news-muheji.com
+newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1631,7 +1633,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1714,7 +1715,6 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -2092,7 +2092,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
-wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
