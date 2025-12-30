@@ -70,10 +70,24 @@ sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
+cdn2.specificmedia.com
+cdn3.specificmedia.com
+leads2.specificmedia.com
+redirect-ash.specificmedia.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
+metrics.linkshare.com
+reporting.linkshare.com
+smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+aj1015.online
 aj1549.online
 aj1754.online
 aj1863.online
@@ -143,6 +157,13 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -177,6 +198,15 @@ cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
+heatmap.it
+u.heatmap.it
+www.heatmap.it
+cdn.aicactus.io
+geo-service.aicactus.io
+staging-tag-cdn.aicactus.io
+tag-cdn.aicactus.io
+tags.aicactus.io
+vt2-tags.aicactus.io
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -311,9 +341,7 @@ ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
-media.amntx1.net
 srv.amntx1.net
-track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -322,6 +350,9 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+litvp.com
+ss15.litvp.com
+ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -380,6 +411,7 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ads-admin.hubs.vn
 ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -393,6 +425,7 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
+ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads1.careerbuilder.vn
@@ -474,6 +507,7 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
+ad-pay.de
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -505,6 +539,7 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -560,6 +595,7 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
+ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.oneegrou.net
@@ -640,6 +676,7 @@ aytcepmvxtelzf.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
+babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
@@ -706,7 +743,6 @@ bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
-breakupbun.com
 breathelicense.com
 brechtembrowd.com
 brffhnhnqc.com
@@ -718,6 +754,7 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
+bunceptsclosingh.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -856,6 +893,7 @@ defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
+deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
@@ -899,7 +937,6 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1170,6 +1207,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1213,7 +1251,6 @@ iytsnelqs.com
 izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
-jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
@@ -1225,6 +1262,7 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1427,6 +1465,7 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
+naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
@@ -1484,7 +1523,6 @@ octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
-odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1773,7 +1811,6 @@ robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
-romepoptahul.com
 rooptawu.net
 rosolicdalapon.com
 rotumal.com
@@ -1815,6 +1852,7 @@ sendmepixel.com
 seo4india.com
 serconmp.com
 sermonoccupied.com
+servedbyopenx.com
 setypckq.com
 sf960.com
 sghehllds.com
@@ -1824,6 +1862,7 @@ shakytaste.com
 shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
+sheesoah.net
 shelfoka.com
 shestour.net
 shiglangee.net
@@ -1859,7 +1898,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 sonyzetuxx.com
-soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
@@ -1868,7 +1906,9 @@ spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
 spikereekvelocity.com
+sponsorpro.de
 spot.fitness.com
+sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -1911,6 +1951,7 @@ szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
+tagmngrs.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
@@ -2127,7 +2168,6 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
-xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
@@ -2159,6 +2199,7 @@ yeljusxttq.com
 yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
+ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
@@ -2204,7 +2245,6 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
-img.leadzutw.com
 leadzutw.com
 moatpixel.com
 play.leadzutw.com
