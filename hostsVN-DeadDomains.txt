@@ -20,6 +20,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+x.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -84,8 +85,6 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
-all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -187,7 +186,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -342,6 +340,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-track.net
@@ -388,8 +387,6 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
@@ -560,6 +557,7 @@ adxvalue.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
+affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -680,10 +678,12 @@ bannermarkt.nl
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
+basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
+bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
 beauty-tea.com
@@ -808,7 +808,6 @@ cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
 coappreciate.com
-coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
@@ -834,7 +833,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -917,6 +915,7 @@ ductathing.com
 duimspruer.life
 dulrihaungy.com
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -943,7 +942,6 @@ ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
-ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
@@ -1068,6 +1066,7 @@ gkuocadgecsga.com
 glaignicmo.com
 glaingotseemt.net
 globaltakeoff.net
+glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
@@ -1103,6 +1102,7 @@ grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
+gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1189,7 +1189,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1467,7 +1466,6 @@ netcommunities.com
 netflame.cc
 news-central.org
 news-muheji.com
-newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1543,6 +1541,7 @@ onvictinitor.com
 oodseengairgy.net
 ootchoft.com
 opcharizardon.com
+opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1889,6 +1888,7 @@ spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
+special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
 spot.fitness.com
