@@ -80,6 +80,7 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
+prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
@@ -401,7 +402,6 @@ static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -432,6 +432,7 @@ ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
+adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
@@ -461,6 +462,7 @@ nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
+tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
@@ -563,7 +565,6 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -576,6 +577,7 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
+agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -638,7 +640,6 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
-artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -650,6 +651,7 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
+audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -694,12 +696,12 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
-batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
+beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -789,7 +791,6 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
-chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
@@ -998,7 +999,6 @@ ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
-fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1066,7 +1066,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1320,7 +1319,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1395,7 +1393,6 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
-lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
@@ -1420,8 +1417,6 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1510,7 +1505,6 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
-nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
@@ -2081,7 +2075,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2218,6 +2211,7 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
@@ -2263,5 +2257,6 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
+worldgravity.com
 yoursitestatstube.ru
 zarget.com
