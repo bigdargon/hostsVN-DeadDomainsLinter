@@ -52,6 +52,7 @@ click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
+rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -79,7 +80,6 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
-prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
@@ -387,7 +387,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-s2.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
@@ -421,6 +420,7 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -503,6 +503,7 @@ abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
+acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -520,13 +521,13 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admedia.network
 adplus.co.id
 adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
@@ -553,7 +554,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adsk2.co
 adskape.ru
 adsmogo.org
 adspace.ro
@@ -563,9 +563,9 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
-adxpose.com
 adxvalue.com
 adyieldoptimizer.com
 af.endballbemires.com
@@ -773,6 +773,7 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
+cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -786,13 +787,19 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chickensstation.com
+chinaslauras.com
 chinsnakes.com
+chioneflake.com
+chippedaugur.com
+chirpyreemergespotty.com
+chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
@@ -886,6 +893,8 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
+deloplen.com
+demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -1009,6 +1018,7 @@ feegritoapoo.com
 feenyrpxyps.com
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
+fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
@@ -1058,6 +1068,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1090,6 +1101,7 @@ gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
+gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
@@ -1140,9 +1152,7 @@ hazaraspekt.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
-hcetcuwit.com
 hcilralhi.com
-hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1153,6 +1163,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
+hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1237,7 +1248,6 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
-j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
@@ -1402,9 +1412,9 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
-mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
@@ -1608,7 +1618,6 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1691,6 +1700,7 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
+psootchu.net
 ptaixout.net
 ptewarin.net
 ptoahaistais.com
@@ -1936,7 +1946,6 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
-sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2047,7 +2056,6 @@ uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
-uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2200,6 +2208,8 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
+yovqnwnmpzz.com
+yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
@@ -2219,7 +2229,6 @@ zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
-zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
 zmedia.com
