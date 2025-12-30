@@ -130,7 +130,6 @@ cdn.publift.com
 hb.publift.com
 npm.publift.com
 prebid.publift.com
-showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
 advinci.net
@@ -295,6 +294,7 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
+cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 delivery.taroads.com
@@ -341,6 +341,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aj101.xyz
+litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-track.net
@@ -416,7 +417,6 @@ ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
-ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -812,7 +812,6 @@ coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
-cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
 colinsdemirep.com
@@ -843,7 +842,6 @@ crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
-crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 cupidonmedia.com
@@ -931,6 +929,7 @@ ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
+eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -955,6 +954,7 @@ encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
+enrichyummy.com
 entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
@@ -968,6 +968,7 @@ eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
+ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
@@ -1025,7 +1026,6 @@ formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
-fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
@@ -1326,7 +1326,6 @@ lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
 lauloajaiph.net
-lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1336,7 +1335,7 @@ legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
-lhsnvrgcvnvuy.online
+libedgolart.com
 lidosquey.shop
 lifpv.com
 ligeia-gip.com
@@ -1386,6 +1385,7 @@ m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
 madserve.org
+mage98rquewz.com
 makemydownload.com
 makespram.com
 makqfcvs.com
@@ -1590,8 +1590,6 @@ ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
-ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
@@ -1633,6 +1631,7 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
+pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1715,6 +1714,7 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
+qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
 qjwglnuwqvr.com
@@ -1813,7 +1813,6 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
-sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
 saimifoa.net
@@ -2071,7 +2070,6 @@ voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
-vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
@@ -2090,8 +2088,8 @@ wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
-wapjwujfipuz.com
 warlog.info
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
