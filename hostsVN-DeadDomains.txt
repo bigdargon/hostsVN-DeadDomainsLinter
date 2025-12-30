@@ -32,7 +32,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
@@ -85,6 +84,7 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
+all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1549.online
@@ -273,6 +273,7 @@ ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
+geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
 s400.mxcdn.net
@@ -289,7 +290,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-jg.wensixuetang.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -521,7 +521,6 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
-admedia.network
 adplus.co.id
 adprotected.com
 adqkkoajnan.com
@@ -621,7 +620,6 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
-anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -714,7 +712,6 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
-berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
@@ -1123,6 +1120,10 @@ grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
+gueqiwsbxp.com
+guhalxqa.com
+guhomnfuzq.com
+gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
@@ -1161,6 +1162,7 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
+hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1484,6 +1486,7 @@ news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
+nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1540,7 +1543,6 @@ okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
 olmzbnuihptsw.com
-olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
@@ -1797,10 +1799,10 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
-rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
+rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1921,6 +1923,7 @@ stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
+stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
@@ -1954,7 +1957,6 @@ tagmngrs.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
