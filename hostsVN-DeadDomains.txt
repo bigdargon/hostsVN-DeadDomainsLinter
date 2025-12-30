@@ -52,7 +52,6 @@ click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
-rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
@@ -388,6 +387,7 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+s2.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
@@ -402,6 +402,7 @@ static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -420,7 +421,6 @@ watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -503,7 +503,6 @@ abpvhymadq.com
 abqguldudbi.com
 abservinean.com
 abyocawlfe.com
-acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
@@ -521,7 +520,6 @@ adcloud.net
 adk2.co
 adkchtmtns.com
 adlite.net
-admedia.network
 adplus.co.id
 adprotected.com
 adqkkoajnan.com
@@ -640,6 +638,7 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
+artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -696,6 +695,7 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
+batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
@@ -773,7 +773,6 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
-cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -787,18 +786,13 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
+chelonebarpost.com
 chertouz.net
 chickensstation.com
-chinaslauras.com
 chinsnakes.com
-chioneflake.com
-chippedaugur.com
-chirpyreemergespotty.com
-chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
@@ -892,8 +886,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloplen.com
-demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -999,6 +991,7 @@ ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
+fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1016,7 +1009,6 @@ feegritoapoo.com
 feenyrpxyps.com
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
-fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
@@ -1098,7 +1090,6 @@ gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
-gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
@@ -1162,7 +1153,6 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
-hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1319,6 +1309,7 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
+ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1393,6 +1384,7 @@ lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
+lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
@@ -1412,11 +1404,14 @@ marriagegray.com
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
+mawptuaz.com
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
+medialets.com
+mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1505,6 +1500,7 @@ nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
+nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
@@ -1695,7 +1691,6 @@ providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
-psootchu.net
 ptaixout.net
 ptewarin.net
 ptoahaistais.com
@@ -2075,6 +2070,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2204,8 +2200,6 @@ yonmewon.com
 yonomastara.com
 yonsandileer.com
 yougotacheck.com
-yovqnwnmpzz.com
-yoxwrdiw.com
 ypmtvlaktm.com
 yralpspdvnqaqv.com
 yrscfbbegumijt.com
