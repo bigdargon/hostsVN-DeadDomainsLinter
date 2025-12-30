@@ -80,7 +80,6 @@ redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
-prod.adtechjp.com
 metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
@@ -167,6 +166,7 @@ mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
+srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
@@ -432,7 +432,6 @@ ads.inetgroup.vn
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
-adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
@@ -462,7 +461,6 @@ nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
-tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
@@ -565,10 +563,12 @@ adtology.com
 adtoma.com
 adtriplex.com
 advantagesclotblend.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
+adyieldoptimizer.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
@@ -576,7 +576,6 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
-agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -651,7 +650,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -666,6 +664,7 @@ avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
+awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
@@ -701,7 +700,6 @@ baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
-beauty-tea.com
 bebreloomr.com
 becketsbesogne.top
 bedaoibe.com
@@ -1068,6 +1066,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1135,6 +1134,7 @@ gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
+gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
@@ -1414,6 +1414,7 @@ manompas.com
 marriagegray.com
 matecatenae.com
 maulupoa.com
+mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
@@ -1891,6 +1892,7 @@ smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
+snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
@@ -2039,6 +2041,7 @@ undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
+unstoutgolfs.com
 unthem.com
 untrendenam.com
 unylgxxmrsbb.com
@@ -2059,6 +2062,7 @@ uuomdlaslopcrx.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2072,6 +2076,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
 viliaff.com
@@ -2118,6 +2123,7 @@ wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
+wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
@@ -2212,7 +2218,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
-yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
@@ -2258,6 +2263,5 @@ tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
-worldgravity.com
 yoursitestatstube.ru
 zarget.com
