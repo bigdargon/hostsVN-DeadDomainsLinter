@@ -1,7 +1,5 @@
 googleads-cn.com
 blueserving.com
-sender.megapopads.com
-www.megapopads.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -87,7 +85,6 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
-all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1549.online
@@ -276,7 +273,6 @@ ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
-geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
 s400.mxcdn.net
@@ -293,6 +289,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+jg.wensixuetang.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -572,7 +569,6 @@ adverdirect.com
 advertica-cdn2.com
 adxpose.com
 adxvalue.com
-adyieldoptimizer.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
@@ -791,6 +787,7 @@ cavbildi.com
 cccpmo.com
 ccg90.com
 ceegrevoaphail.com
+celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
@@ -804,6 +801,7 @@ chinsnakes.com
 chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
+chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
@@ -1069,6 +1067,7 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
+gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galepush.net
@@ -1092,6 +1091,7 @@ glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
 go-rillatrack.com
+go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
@@ -1101,6 +1101,7 @@ goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
+gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
@@ -1122,14 +1123,11 @@ grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
-gueqiwsbxp.com
-guhalxqa.com
-guhomnfuzq.com
-gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
+gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
@@ -1163,7 +1161,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1200,7 +1197,6 @@ huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
-hurarwjrirti.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -1488,7 +1484,6 @@ news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
-nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1548,6 +1543,7 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
+olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
@@ -1805,7 +1801,6 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
-rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1850,9 +1845,9 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
+seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
-sensorpluck.com
 seo4india.com
 serconmp.com
 sermonoccupied.com
@@ -1926,7 +1921,6 @@ stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
-stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
