@@ -39,8 +39,8 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
-api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -81,7 +81,6 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
-analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -91,6 +90,7 @@ s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -233,6 +233,7 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -335,7 +336,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-d.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -494,6 +494,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
+2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -710,6 +711,7 @@ banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
+barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
@@ -748,7 +750,6 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
-blogcounter.de
 bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
@@ -942,7 +943,10 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
+doqjhxavpdf.com
 dorkingvoust.com
+doruffletr.com
+dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 dsp.io
@@ -961,7 +965,6 @@ ebuzzing.com
 ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
-eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -992,7 +995,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1056,6 +1058,7 @@ fm.zipperszebecs.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
+forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1260,6 +1263,7 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
+itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
 ivwbox.de
@@ -1315,7 +1319,6 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
-kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
@@ -1457,11 +1460,9 @@ mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
-mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
-mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1489,7 +1490,6 @@ naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
-nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -1578,7 +1578,6 @@ ontosocietyweary.com
 onvictinitor.com
 oodseengairgy.net
 ootchoft.com
-opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
@@ -1685,7 +1684,11 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
+pocrowpush.com
+podsklzegshmnd.com
+poepksqs.com
 pofohensoahee.net
+poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1813,6 +1816,7 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
+rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1908,6 +1912,7 @@ snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
+soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
@@ -1940,7 +1945,6 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
-stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stormyachiever.com
@@ -1970,7 +1974,6 @@ tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
-targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2122,6 +2125,7 @@ vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
+waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
