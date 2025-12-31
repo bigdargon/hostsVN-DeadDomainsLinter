@@ -116,9 +116,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-metrics.linkshare.com
-reporting.linkshare.com
-smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -143,7 +140,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-trazk.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -195,18 +191,8 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -243,12 +229,6 @@ www.mobile-10.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
-cdn.aicactus.io
-geo-service.aicactus.io
-staging-tag-cdn.aicactus.io
-tag-cdn.aicactus.io
-tags.aicactus.io
-vt2-tags.aicactus.io
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -280,7 +260,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -369,6 +348,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -493,12 +473,9 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.mekongasean.vn
-log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.fff.com.vn
@@ -556,7 +533,6 @@ ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
-ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
@@ -582,7 +558,6 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
 ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -599,7 +574,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -609,7 +583,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -701,11 +674,11 @@ audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
+autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
-avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -730,7 +703,6 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -784,6 +756,7 @@ bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
 boudja.com
+bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
@@ -926,7 +899,6 @@ dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
-daufouwhoag.net
 daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
@@ -988,7 +960,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1001,6 +972,7 @@ egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
+ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
@@ -1243,7 +1215,6 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
-hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1255,6 +1226,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1349,7 +1321,6 @@ kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
-kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
@@ -1410,6 +1381,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+linktarget.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1448,6 +1420,7 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
+madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
@@ -1468,8 +1441,6 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1515,7 +1486,6 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 naishoochoh.com
-nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
@@ -1527,6 +1497,7 @@ nawatlawgliq.com
 nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
+neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netshelter.net
@@ -1562,13 +1533,11 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
-oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
 observantice.com
-ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1631,6 +1600,7 @@ orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
+ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
@@ -1692,7 +1662,6 @@ phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
-photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
 pieceredirect.com
@@ -1823,7 +1792,6 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
-reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -1990,7 +1958,6 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
@@ -2169,7 +2136,6 @@ wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
-weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
@@ -2293,13 +2259,11 @@ a.zillastream.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
-c2i-cdn.startappnetwork.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
-gotoip55.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
@@ -2310,13 +2274,11 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-tdf.ringier.ch
 track.hydro.online
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
-visitor.pixplug.in
 worldgravity.com
 yoursitestatstube.ru
