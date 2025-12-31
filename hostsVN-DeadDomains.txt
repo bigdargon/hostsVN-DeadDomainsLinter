@@ -185,6 +185,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
 api.optad360.com
@@ -327,6 +328,7 @@ www.adclerks.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -555,6 +557,7 @@ ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
+ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.gplusmedia.com
@@ -648,6 +651,7 @@ appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
+apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
@@ -866,6 +870,7 @@ coogoanu.net
 corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
+cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
@@ -932,7 +937,6 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
-dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -953,6 +957,7 @@ dulrihaungy.com
 dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
+dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
@@ -1227,6 +1232,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1347,7 +1353,6 @@ kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
 kvtaaa.top
-kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
@@ -1645,7 +1650,6 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 pauewr4cw2xs5q.com
-paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
@@ -1698,7 +1702,6 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
-portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1788,7 +1791,6 @@ raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
-rdbzasvjgmnk.com
 rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
@@ -1806,7 +1808,6 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
-rev2pub.com
 revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
@@ -1837,7 +1838,6 @@ rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
-rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
@@ -2054,7 +2054,6 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
-uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
@@ -2121,6 +2120,7 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
+vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
