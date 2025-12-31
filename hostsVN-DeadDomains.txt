@@ -55,6 +55,7 @@ v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
+h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
@@ -85,7 +86,6 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
-pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
@@ -124,6 +124,7 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
+aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -136,7 +137,6 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
-share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -371,7 +371,6 @@ aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
@@ -402,6 +401,7 @@ www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
+k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -422,7 +422,6 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
-platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -488,6 +487,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
+2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -641,7 +641,6 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
-aphycolourses.info
 api.ampiri.com
 appads.com
 apprefaculty.pro
@@ -754,6 +753,7 @@ bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -974,7 +974,6 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1187,7 +1186,6 @@ hewokhn.com
 hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
-hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1229,7 +1227,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1261,6 +1258,7 @@ intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
+irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
@@ -1379,7 +1377,6 @@ lifpv.com
 liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
-likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
@@ -1549,6 +1546,7 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
+offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -1655,7 +1653,6 @@ pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
-petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1756,7 +1753,6 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
-qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1943,7 +1939,6 @@ static.scptpx.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
-sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1953,7 +1948,6 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 subsequentstew.com
 suddenvampire.com
@@ -1968,7 +1962,6 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
-sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -2010,8 +2003,6 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
-tkoqgxnvt.com
-tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
@@ -2176,6 +2167,7 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
+wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -2202,7 +2194,6 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
-xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
@@ -2215,6 +2206,8 @@ xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
+yatkaddvhk.com
+yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
