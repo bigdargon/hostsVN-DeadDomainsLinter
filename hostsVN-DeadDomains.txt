@@ -55,7 +55,6 @@ v.adthor.com
 appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
-h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
@@ -70,6 +69,7 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
+yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 imgproxy.upsight.com
@@ -124,7 +124,6 @@ directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
-aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -403,7 +402,6 @@ www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
 kabbmedia.com
-k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -490,7 +488,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
-2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -571,10 +568,12 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
+adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -755,7 +754,6 @@ bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
@@ -915,6 +913,7 @@ delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
 deloplen.com
+demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
@@ -981,6 +980,7 @@ ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
+emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
@@ -1187,6 +1187,7 @@ hewokhn.com
 hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
+hidden.gogoceleb.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
@@ -1198,6 +1199,7 @@ hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
 hmepalobfn.com
+hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
 hoardhopefullypromptly.com
@@ -1227,6 +1229,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1258,7 +1261,6 @@ intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
-irritateinformantmeddle.com
 iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
@@ -1358,6 +1360,7 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
+laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
@@ -1395,6 +1398,7 @@ loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
+lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
@@ -1403,6 +1407,7 @@ lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
+lstalwryflhourf.com
 luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
@@ -1544,7 +1549,6 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
@@ -2042,7 +2046,6 @@ typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
-u1pmt.com
 ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
@@ -2173,7 +2176,6 @@ wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
 woorucauhou.net
-wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
@@ -2213,8 +2215,6 @@ xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
-yatkaddvhk.com
-yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
