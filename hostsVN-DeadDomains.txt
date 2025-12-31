@@ -246,6 +246,7 @@ www.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
+tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
 native-vpaid.winadx.com
@@ -310,6 +311,8 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetaint.com
+ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
@@ -345,6 +348,7 @@ www.adclerks.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
@@ -594,7 +598,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
 adserver.quizdingo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
 adskape.ru
@@ -606,7 +609,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -644,6 +646,7 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
+alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
 allstarmediagroup.com
@@ -770,7 +773,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
@@ -844,6 +846,7 @@ chioneflake.com
 chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
+chokedsmelt.com
 chozarpeases.com
 chtsayil.com
 chulhawakened.com
@@ -888,7 +891,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -898,7 +900,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -964,7 +965,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
@@ -991,7 +991,6 @@ eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
-eemsouftas.com
 eetchauglair.net
 eezegrip.net
 effateuncrisp.com
@@ -1018,7 +1017,6 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1073,7 +1071,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1117,7 +1114,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1206,6 +1202,7 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
+heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1350,6 +1347,7 @@ kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
+kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
@@ -1448,7 +1446,6 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
@@ -1462,10 +1459,8 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
-maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
@@ -1557,7 +1552,6 @@ nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
-nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
@@ -1609,10 +1603,6 @@ onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
-oodseengairgy.net
-ootchoft.com
-opcharizardon.com
-opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
@@ -1644,6 +1634,8 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
+ov.gumdropolena.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
@@ -1690,7 +1682,6 @@ pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
 phaubsunsi.com
-phinsebsou.com
 phloxsub73ulata.com
 phocmogo.com
 phoompoukoaltin.net
@@ -1778,6 +1769,7 @@ py.dautedtwiny.shop
 pzshzhja.com
 qa.cleckvenin.com
 qainfcnvfensl.site
+qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
@@ -1946,6 +1938,7 @@ soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 soliads.net
+solibothnic.qpon
 songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
@@ -2202,6 +2195,7 @@ wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
+woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
