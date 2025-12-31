@@ -1,5 +1,4 @@
 googleads-cn.com
-cdn.oem.inmobi.net
 blueserving.com
 ads.mobclix.com
 vserv.mobi
@@ -41,6 +40,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -81,6 +81,7 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
+analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -734,7 +735,6 @@ benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
-beseechpill.com
 beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
@@ -810,7 +810,6 @@ celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
-cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
@@ -965,6 +964,7 @@ ebuzzing.com
 ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
+eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
 eetchauglair.net
@@ -987,7 +987,6 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
-endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -995,6 +994,7 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
+eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1319,6 +1319,7 @@ katukaunamiss.com
 kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
+kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
@@ -1428,7 +1429,6 @@ mage98rquewz.com
 makemydownload.com
 makespram.com
 makqfcvs.com
-malhfiacgx.com
 maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
@@ -1460,9 +1460,11 @@ mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
+mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
+mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1490,6 +1492,7 @@ naishoochoh.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
+nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -1578,6 +1581,7 @@ ontosocietyweary.com
 onvictinitor.com
 oodseengairgy.net
 ootchoft.com
+opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
@@ -1945,6 +1949,7 @@ stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
+stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stormyachiever.com
@@ -2013,7 +2018,6 @@ tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
-tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
@@ -2080,7 +2084,6 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
-valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
