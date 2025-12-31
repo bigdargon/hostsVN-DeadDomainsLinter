@@ -99,6 +99,7 @@ spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
+img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
@@ -183,7 +184,6 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -261,6 +261,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -429,6 +430,7 @@ mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
+mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -514,6 +516,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
+2471april2024.com
 2473april2024.com
 2510june2024.com
 2512june2024.com
@@ -812,6 +815,7 @@ cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -821,6 +825,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
@@ -852,7 +857,6 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
-cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicks.mods.de
@@ -897,6 +901,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -955,7 +960,9 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+digyniahuffle.com
 diluteacerbity.com
+dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -1110,7 +1117,6 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
-gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galaxien.com
@@ -1178,7 +1184,6 @@ gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
 gwyvusam.com
-gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
 gzegwior.com
@@ -1242,6 +1247,10 @@ hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
+huhskyavngw.com
+hunchlastlysluice.com
+hupaiowicog.com
+huppontic.com
 huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
@@ -1249,7 +1258,10 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
+iasds01.com
+iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1383,12 +1395,14 @@ laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
+lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1417,6 +1431,7 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -2001,6 +2016,7 @@ tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2016,7 +2032,6 @@ theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
-thirstytwig.com
 thootipheguph.com
 thor-pom.com
 thougnoangi.com
@@ -2189,7 +2204,6 @@ wkxcwkoazwju.com
 wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
-wokseephishopty.net
 wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
@@ -2282,6 +2296,7 @@ zuqalzajno.com
 zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
+analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 c2i-cdn.startappnetwork.com
