@@ -64,8 +64,6 @@ api.content.ad
 app.content.ad
 media.content.ad
 partners.content.ad
-rest.content.ad
-www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -352,6 +350,7 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -440,6 +439,7 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -607,6 +607,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -726,7 +727,6 @@ baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
-banner.casino.net
 banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
@@ -759,7 +759,6 @@ bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
-beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -900,6 +899,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -966,6 +966,7 @@ dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
+dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
@@ -1073,6 +1074,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1081,6 +1083,9 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 fm.zipperszebecs.com
+foliumumu.com
+foogeetoary.net
+fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
@@ -1113,6 +1118,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1121,6 +1127,7 @@ gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
+gfugafoz.com
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1187,7 +1194,6 @@ hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
-hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
@@ -1252,6 +1258,8 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 iaglkpracviogn.com
+iasds01.com
+iauzsghijpmq.com
 ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1358,7 +1366,6 @@ klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 kogutcho.net
-kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
@@ -1373,6 +1380,7 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
+kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1456,8 +1464,8 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
-mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
@@ -1980,6 +1988,7 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
+subsequentstew.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2121,6 +2130,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+vfurwydryli.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2139,7 +2149,6 @@ voosaivege.com
 vounaipu.net
 vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
-vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
@@ -2250,7 +2259,6 @@ yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
 ykqcsawnlnvsgo.com
-ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
