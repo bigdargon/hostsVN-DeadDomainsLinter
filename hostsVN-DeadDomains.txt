@@ -7,7 +7,9 @@ admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
 swift.lifestreet.com
+medialytics.com
 a.medialytics.com
+c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
@@ -21,7 +23,6 @@ a-ssl.ligatus.com
 d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
-e.ligatus.com
 i.ligatus.com
 ligatus.com
 reporting.ligatus.com
@@ -218,6 +219,7 @@ www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
+syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
@@ -450,7 +452,6 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
-watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -488,7 +489,6 @@ analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
-log.bizlive.vn
 log.dubaotiente.com
 log.mekongasean.vn
 log.tapchitaichinh.vn
@@ -606,6 +606,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -687,6 +688,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -770,6 +772,7 @@ bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
+blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
 bn.bfast.com
@@ -800,6 +803,8 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
+buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
@@ -895,6 +900,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1069,6 +1075,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1112,6 +1119,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1181,6 +1189,7 @@ gyfumobo.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
+hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
@@ -1248,6 +1257,7 @@ hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
+hydraulzonure.com
 hz.methylstewed.com
 iadnet.com
 iaglkpracviogn.com
@@ -1332,6 +1342,7 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
+kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
@@ -1399,7 +1410,6 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
-ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
@@ -1425,6 +1435,7 @@ lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
+lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
@@ -1455,6 +1466,7 @@ mamsauphoachoap.net
 manompas.com
 marriagegray.com
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1483,6 +1495,7 @@ mingledventin.com
 mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
+mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1518,6 +1531,8 @@ naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
 nazolncubha.com
+ncaxvlngll.com
+nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
 netcommunities.com
@@ -1527,6 +1542,7 @@ news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
+nfucujozv.com
 nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
@@ -1554,7 +1570,6 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
-oas.roanoke.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1641,7 +1656,6 @@ ovrcuncunxp.com
 ovxhhurafpi.com
 owjaqdywlviyfe.com
 owjwhuaklf.com
-owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
@@ -1735,9 +1749,6 @@ processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
-propbigo.com
-proposedpartly.com
-prosecutioncredulity.com
 providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
@@ -1956,6 +1967,7 @@ sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
+ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
@@ -2059,6 +2071,7 @@ tstats-13fkh44r.com
 tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -2197,7 +2210,6 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
-worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2278,7 +2290,6 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
-zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
