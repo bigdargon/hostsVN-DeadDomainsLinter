@@ -39,7 +39,6 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
@@ -86,12 +85,12 @@ analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
+pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
-go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -137,6 +136,7 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -233,7 +233,6 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -336,6 +335,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+d.pssy.xyz
 r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -371,6 +371,7 @@ aj101.xyz
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
+aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
@@ -422,6 +423,7 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
+platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -492,7 +494,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
-2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
@@ -641,6 +642,7 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+aphycolourses.info
 api.ampiri.com
 appads.com
 apprefaculty.pro
@@ -708,7 +710,6 @@ banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
-barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
@@ -747,6 +748,7 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
+blogcounter.de
 bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
@@ -940,10 +942,7 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
-doqjhxavpdf.com
 dorkingvoust.com
-doruffletr.com
-dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 dsp.io
@@ -974,6 +973,7 @@ egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
+ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1056,7 +1056,6 @@ fm.zipperszebecs.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
-forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1227,6 +1226,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1260,7 +1260,6 @@ ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
 iswashiscourtsh.com
-itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
 ivwbox.de
@@ -1377,6 +1376,7 @@ lifpv.com
 liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
+likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
@@ -1653,6 +1653,7 @@ pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
+petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1684,11 +1685,7 @@ plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
-pocrowpush.com
-podsklzegshmnd.com
-poepksqs.com
 pofohensoahee.net
-poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
@@ -1753,6 +1750,7 @@ qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
+qipshozipsah.com
 qjwglnuwqvr.com
 qkcgorbrs.com
 qlpenuxctkhwv.com
@@ -1815,7 +1813,6 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
-rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1911,7 +1908,6 @@ snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
-soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
@@ -1939,6 +1935,7 @@ static.scptpx.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
+sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -1948,6 +1945,7 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 subsequentstew.com
 suddenvampire.com
@@ -1962,6 +1960,7 @@ svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
+sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
@@ -1971,6 +1970,7 @@ tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
+targad.de
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2003,6 +2003,8 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
+tkoqgxnvt.com
+tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
@@ -2120,7 +2122,6 @@ vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
-waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
@@ -2194,6 +2195,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
