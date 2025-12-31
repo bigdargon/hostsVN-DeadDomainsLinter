@@ -121,6 +121,7 @@ reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
+dspmulti.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
@@ -493,9 +494,11 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
 log.mekongasean.vn
+log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.fff.com.vn
@@ -752,7 +755,6 @@ bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
-benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
@@ -981,6 +983,7 @@ dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
+dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -990,7 +993,9 @@ eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
+eemsouftas.com
 eetchauglair.net
+eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
@@ -1066,7 +1071,6 @@ fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
-fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
@@ -1199,7 +1203,6 @@ hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
 hcjfmbra.com
-heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
@@ -1252,6 +1255,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1506,6 +1510,7 @@ msvobeuhec.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
+mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1764,6 +1769,7 @@ pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
+pushanishe.com
 pushazer.com
 pushlum.com
 pushokey.com
@@ -1832,6 +1838,7 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
+retryngs.com
 rev2pub.com
 revmob.com
 revoketypes.com
@@ -2160,6 +2167,7 @@ warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
+wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
