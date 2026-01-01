@@ -124,8 +124,6 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -210,6 +208,7 @@ gadskis.com
 madsecz.com
 capi.bidtellect.com
 advinci.net
+count.advinci.net
 www.advinci.net
 m.optvx.com
 main.optvx.com
@@ -290,8 +289,6 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
-cdn.anymad.com
-cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -343,6 +340,7 @@ s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
+sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -351,7 +349,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -512,6 +509,7 @@ bloggiamgia.info
 clix.vn
 crocopop.com
 iads.vision
+imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
@@ -595,7 +593,6 @@ adkchtmtns.com
 adlite.net
 admedia.network
 adplus.co.id
-adprofile.net
 adprotected.com
 adqkkoajnan.com
 adreclaim.com
@@ -829,6 +826,7 @@ btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
+burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -1011,6 +1009,7 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
+easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
@@ -1099,7 +1098,7 @@ fijimtadee.net
 fiksu.com
 filasseseeder.com
 filgzukroj.com
-findcommerce.com
+finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1143,7 +1142,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1458,7 +1456,6 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
-lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1587,7 +1584,6 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
-nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
@@ -1613,6 +1609,7 @@ ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
 ogtollhazv.com
+ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
@@ -1736,13 +1733,13 @@ pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
+planesknob.com
 planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
-pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -2260,6 +2257,7 @@ www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
+xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
 xfohaxohrjr.com
@@ -2287,7 +2285,6 @@ yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
-yeljusxttq.com
 yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
