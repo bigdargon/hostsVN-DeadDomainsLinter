@@ -1,4 +1,5 @@
 googleads-cn.com
+cdn.oem.inmobi.net
 blueserving.com
 ads.mobclix.com
 vserv.mobi
@@ -29,6 +30,7 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+ext1-api.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -36,6 +38,9 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+cs.lkqd.net
+rfp.lkqd.net
+t.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -84,7 +89,6 @@ ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
-js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
@@ -181,7 +185,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
@@ -271,7 +274,6 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
-app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -296,7 +298,6 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
-ssp.admix.in
 s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
@@ -735,6 +736,7 @@ benonblkd.xyz
 bepansaer.com
 beplusleor.com
 berkshiretoday.xyz
+beseechpill.com
 beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
@@ -747,7 +749,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
@@ -810,6 +811,7 @@ celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
 charming-people.com
+cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
@@ -987,6 +989,7 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
+endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -1045,7 +1048,6 @@ fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
 filasseseeder.com
-filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
@@ -1255,8 +1257,6 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
-interstitial-08.com
-intnotif.club
 intrarezsites.com
 inwraptsekane.com
 ipyefimivc.com
@@ -1429,6 +1429,7 @@ mage98rquewz.com
 makemydownload.com
 makespram.com
 makqfcvs.com
+malhfiacgx.com
 maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
@@ -1501,7 +1502,6 @@ nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
-nervoustolsel.com
 netcommunities.com
 netshelter.net
 news-central.org
@@ -1603,7 +1603,6 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
-osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1630,7 +1629,6 @@ oxldadxib.com
 oxthrilled.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
-ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
@@ -1885,7 +1883,6 @@ shakyseat.com
 shakytaste.com
 shareadspace.com
 shaughaupoo.net
-shaughixefooz.net
 sheesoah.net
 shelfoka.com
 shestour.net
@@ -2018,6 +2015,7 @@ tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
+tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
@@ -2084,6 +2082,7 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
+valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
