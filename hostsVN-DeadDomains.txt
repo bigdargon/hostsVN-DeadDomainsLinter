@@ -142,6 +142,7 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
+leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -258,6 +259,7 @@ go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
+api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
@@ -299,7 +301,6 @@ heatmap.it
 u.heatmap.it
 www.heatmap.it
 exelatesync.extend.tv
-sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -425,6 +426,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -514,6 +516,7 @@ vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
+jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
@@ -529,6 +532,7 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -560,6 +564,7 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -722,7 +727,6 @@ altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -889,7 +893,6 @@ canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
-cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
@@ -1099,7 +1102,6 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
-euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
@@ -1328,6 +1330,7 @@ huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
+hz.methylstewed.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
@@ -1537,6 +1540,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1553,6 +1557,7 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
+mgbid.net
 mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
@@ -1618,6 +1623,7 @@ nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
 noowhaumurauy.net
+notifyerr.com
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1813,6 +1819,7 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
+processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
@@ -1884,6 +1891,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+qzyztuwulo.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1988,6 +1996,7 @@ sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
+shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
@@ -2040,6 +2049,7 @@ spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2300,6 +2310,7 @@ wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
+www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
@@ -2362,7 +2373,6 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
-zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2381,6 +2391,7 @@ analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
+dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
