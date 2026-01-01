@@ -39,7 +39,6 @@ certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
-pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -57,6 +56,7 @@ web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
+m.lkqd.net
 rfp.lkqd.net
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
@@ -108,6 +108,7 @@ ad.kau.li
 analytics.kau.li
 click.kau.li
 clk.kau.li
+js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
@@ -135,7 +136,6 @@ cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
-adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
@@ -180,7 +180,6 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -243,8 +242,11 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
+www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -286,6 +288,7 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -319,7 +322,6 @@ sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
-b91vip.com
 image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
@@ -352,6 +354,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -406,13 +409,13 @@ aj3007.bid
 aj3017.bid
 aj101.xyz
 litvp.com
+ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
-track.daly2024.com
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -513,6 +516,7 @@ qc.mhsolution.vn
 quangcao.fff.com.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
+vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -704,7 +708,6 @@ areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
-armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -913,6 +916,7 @@ constructpoll.com
 contehos.com
 convertedhorace.com
 coogoanu.net
+corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -1122,7 +1126,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1266,6 +1269,7 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
+hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1277,7 +1281,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1647,7 +1650,6 @@ oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
-organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
@@ -1736,7 +1738,6 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
-plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
@@ -1872,6 +1873,7 @@ rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
+riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
 rkksbrkwdqbop.com
@@ -1969,7 +1971,6 @@ smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
-snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
@@ -2345,6 +2346,7 @@ saspreview.com
 showbiz.owndata.network
 track.hydro.online
 track.lexico.com
+tracking.news360.store
 tracking.scenepass.com
 umeng.co
 usergrid.com
