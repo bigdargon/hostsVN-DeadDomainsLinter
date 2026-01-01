@@ -35,7 +35,6 @@ www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
-certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -124,6 +123,8 @@ api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
@@ -289,6 +290,8 @@ delivery.adsterra.org
 www.adsterra.org
 bidadx.com
 anymad.com
+cdn.anymad.com
+cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
@@ -349,6 +352,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -469,7 +473,6 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
-gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
@@ -673,9 +676,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
-allodsubussu.com
-allstarmediagroup.com
-altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
@@ -751,7 +751,6 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 baivifogrouk.com
-bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -957,7 +956,6 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
-deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
@@ -1064,9 +1062,7 @@ exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
-exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1281,7 +1277,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1456,6 +1451,7 @@ lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
+lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
@@ -1584,6 +1580,7 @@ nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
+nycvqozkkmzti.com
 nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
@@ -1740,6 +1737,7 @@ playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
 pmagumovfma.com
+pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
 poepksqs.com
@@ -2120,7 +2118,6 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
-unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2285,6 +2282,7 @@ yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
 yealnk.com
+yeljusxttq.com
 yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
