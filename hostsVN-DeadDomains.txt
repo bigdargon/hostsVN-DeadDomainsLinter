@@ -35,6 +35,7 @@ www.ligatus.com
 alexametrics.com
 atrk.alexametrics.com
 certify.alexametrics.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
@@ -58,7 +59,6 @@ creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
-rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
@@ -201,7 +201,6 @@ player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
-ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
@@ -452,7 +451,6 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
@@ -473,6 +471,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
+gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
@@ -623,10 +622,12 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -676,12 +677,14 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
+allodsubussu.com
+allstarmediagroup.com
+altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
-amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -751,6 +754,7 @@ backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 baivifogrouk.com
+bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
@@ -956,6 +960,7 @@ daugegeezeeboot.net
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
+deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
@@ -1062,7 +1067,9 @@ exomonyf.com
 expdirclk.com
 expertnifg.com
 expressgutterlevers.com
+exterminateantique.com
 exxohwvxupjv.com
+eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
@@ -1122,7 +1129,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1179,7 +1185,6 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
-grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -1277,6 +1282,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1647,7 +1653,6 @@ orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
-orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1667,7 +1672,6 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 ov.gumdropolena.com
-oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
@@ -1916,7 +1920,6 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
-scabbienne.com
 scammereating.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -2028,7 +2031,6 @@ sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
-taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagmngrs.com
@@ -2118,6 +2120,7 @@ ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
+unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
@@ -2200,7 +2203,6 @@ wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
-wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
