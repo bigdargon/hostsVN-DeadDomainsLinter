@@ -39,6 +39,7 @@ certify-amp.alexametrics.com
 certify-js.alexametrics.com
 certify-stage.alexametrics.com
 js.alexametrics.com
+pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -136,6 +137,7 @@ cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
+adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
@@ -180,6 +182,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
+bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -322,6 +325,7 @@ sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
+b91vip.com
 image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
@@ -416,6 +420,7 @@ mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
+track.daly2024.com
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -475,7 +480,6 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
-platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -614,6 +618,7 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
+ads.rpgdot.com
 ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -708,6 +713,7 @@ areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
+armoursviolino.com
 arrqumzr.com
 artax-evn.com
 asdhhuztul.com
@@ -716,8 +722,6 @@ asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
-ataccwpdiqqnfl.com
-aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -773,8 +777,6 @@ bcaojrbriciw.com
 beakerweedjazz.com
 beauty-tea.com
 bebreloomr.com
-becketsbesogne.top
-bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
@@ -1129,7 +1131,6 @@ fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
-fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
@@ -1189,7 +1190,6 @@ gristleupanaya.com
 grooksom.com
 groopsie.net
 groumaux.net
-grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1484,13 +1484,11 @@ makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mallogrow.com
-mamsauphoachoap.net
 manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
-mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
 mbgbqdrosr.com
@@ -1650,6 +1648,7 @@ oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
+organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
@@ -1738,6 +1737,7 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
+plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
@@ -1971,6 +1971,7 @@ smnyayzhv.com
 smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
+snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
 sofinpushpile.com
@@ -2020,7 +2021,6 @@ suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
-suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
@@ -2085,7 +2085,6 @@ tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
-traovrjwu.com
 trendcounter.com
 tribedone.org
 trololopush2023push.com
@@ -2220,7 +2219,6 @@ widespace.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
-window.nixnet.cz
 windsattributeron.com
 wishedverde.com
 wissoony.net
