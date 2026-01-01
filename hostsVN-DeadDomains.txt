@@ -142,7 +142,6 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
-leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -215,7 +214,6 @@ ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
-offer.gop1.co
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -294,6 +292,7 @@ mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
@@ -532,7 +531,6 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -671,7 +669,6 @@ adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adsk2.co
-adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -766,7 +763,6 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
-atrmkoopdlhu.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -789,6 +785,7 @@ awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
+azkcqs.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -899,7 +896,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1176,6 +1172,7 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
+ftte.xyz
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1332,6 +1329,7 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
+hwpnocpctu.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
@@ -1378,11 +1376,13 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
+j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
+jaumevie.com
 jerboasjourney.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
@@ -1473,6 +1473,7 @@ leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
+leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
@@ -1503,6 +1504,7 @@ loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
+lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
@@ -1551,6 +1553,7 @@ medaaebqmbpx.com
 medialets.com
 mediamind.com
 mediasprucetree.com
+meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
 metahv.xyz
@@ -1594,7 +1597,6 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
-nagoverpayreimburse.com
 naishoochoh.com
 namol.xyz
 nangalupeose.com
@@ -1676,6 +1678,7 @@ olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
 olzlmemumcwe.com
+ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
@@ -1720,6 +1723,7 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
 ov.gumdropolena.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -1821,7 +1825,6 @@ processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
-propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1872,7 +1875,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
-qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
@@ -1881,6 +1883,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
+qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1921,8 +1924,8 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1964,6 +1967,7 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
+rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -1999,7 +2003,6 @@ shaughixefooz.net
 sheesoah.net
 shelfoka.com
 shestour.net
-shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
