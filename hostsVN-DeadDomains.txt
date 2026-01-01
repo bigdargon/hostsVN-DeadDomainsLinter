@@ -59,6 +59,7 @@ creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
+rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
@@ -115,7 +116,6 @@ s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
-go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -127,7 +127,6 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -201,6 +200,7 @@ player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
+ivstracker.net
 r.ivstracker.net
 static.adxxx.com
 fadskiz.com
@@ -379,7 +379,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
@@ -388,6 +387,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -407,7 +407,6 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
-aj3007.bid
 aj3017.bid
 aj101.xyz
 litvp.com
@@ -451,6 +450,7 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
+static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
@@ -459,7 +459,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -622,7 +621,6 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -685,6 +683,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 ambulanceappealingrut.com
+amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -692,7 +691,6 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
-antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -812,7 +810,6 @@ bookletblockedcaught.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
-bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
@@ -994,7 +991,6 @@ dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
-doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
@@ -1129,6 +1125,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
@@ -1185,6 +1182,7 @@ greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
+grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
 grooksom.com
@@ -1409,7 +1407,6 @@ kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
-lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
@@ -1653,6 +1650,7 @@ orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
 organicbonus.com
+orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
@@ -1672,6 +1670,7 @@ outpagefitroot.shop
 outtimburrtor.com
 outwoodeuropa.com
 ov.gumdropolena.com
+oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
@@ -1920,6 +1919,7 @@ saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
+scabbienne.com
 scammereating.com
 scatteredhecheaper.com
 scenescrockery.com
@@ -2031,6 +2031,7 @@ sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
+taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagmngrs.com
@@ -2188,7 +2189,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2203,6 +2203,7 @@ wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
+wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
