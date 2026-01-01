@@ -80,6 +80,7 @@ v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
+image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -149,6 +150,7 @@ adserver-toy.adtechjp.com
 prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
+dspmulti.com
 apilw.epom.com
 cdn.epom.com
 directads.epom.com
@@ -262,8 +264,6 @@ apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
 static.lalaping.com
-c.mstorer.net
-m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
@@ -456,8 +456,6 @@ media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 core.polyad.net
-cp.polyad.net
-cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -474,7 +472,6 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
@@ -566,6 +563,7 @@ log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
+log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -644,7 +642,6 @@ ads.asiafriendfinder.com
 ads.aspalliance.com
 ads.bumq.com
 ads.cdn2-img.net
-ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
@@ -667,7 +664,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -909,7 +905,6 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
-chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
@@ -949,6 +944,7 @@ colinsdemirep.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
+commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -1086,6 +1082,7 @@ encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
+enduresopens.com
 enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
@@ -1350,8 +1347,6 @@ inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
-instrumentsponge.com
-internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1496,8 +1491,6 @@ loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
-lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1565,7 +1558,6 @@ mingledventin.com
 mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
-mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
@@ -1697,6 +1689,7 @@ oqfoczdfyag.com
 oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
+orfabfbu.com
 organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
@@ -1739,6 +1732,7 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -1765,7 +1759,6 @@ phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
-phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
@@ -1775,7 +1768,6 @@ pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
-pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
@@ -1865,6 +1857,7 @@ qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
+qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
 qruqon.com
@@ -2073,6 +2066,7 @@ suwcaxazzn.com
 svkmxwssih.com
 swarthymacula.com
 sweetiesurveys.com
+swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
@@ -2347,7 +2341,6 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
