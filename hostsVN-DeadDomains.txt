@@ -142,6 +142,7 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
+leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -531,6 +532,7 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -668,7 +670,9 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
+adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -677,7 +681,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -758,11 +761,9 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
-asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
-atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -785,7 +786,6 @@ awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
-azkcqs.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -799,7 +799,6 @@ baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
-banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -871,6 +870,7 @@ btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
+bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
 burstmedia.com
@@ -896,6 +896,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1019,7 +1020,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
-dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1172,7 +1172,6 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-ftte.xyz
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
@@ -1201,7 +1200,6 @@ gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
-gfugafoz.com
 gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
@@ -1294,7 +1292,6 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
-hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1329,7 +1326,6 @@ huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
-hwpnocpctu.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
@@ -1611,7 +1607,6 @@ ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
-netcommunities.com
 netshelter.net
 news-central.org
 news-muheji.com
@@ -1763,7 +1758,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
@@ -1825,6 +1819,7 @@ processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
+propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
 providingcrechepartnership.com
@@ -1875,6 +1870,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
+qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
@@ -1883,13 +1879,11 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
 qwuopcbilw.com
-qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
@@ -1967,7 +1961,6 @@ ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
 rwukupjis.com
-rwulzuaqsafn.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -2003,6 +1996,7 @@ shaughixefooz.net
 sheesoah.net
 shelfoka.com
 shestour.net
+shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -2134,7 +2128,6 @@ toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
-toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2236,7 +2229,6 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
-vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
