@@ -142,7 +142,6 @@ beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
-leads2.specificmedia.com
 redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -215,6 +214,7 @@ ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
+a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
@@ -258,7 +258,6 @@ go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
 adrevenueindex.optad360.com
-api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
 lalaping.com
@@ -515,7 +514,6 @@ vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
-jeoway.com
 platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
@@ -531,7 +529,6 @@ wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
@@ -679,6 +676,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -949,6 +947,7 @@ colinsdemirep.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
+commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
@@ -972,6 +971,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1145,6 +1145,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1188,6 +1189,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1322,10 +1324,10 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
-hz.methylstewed.com
 iadnet.com
 iaglkpracviogn.com
 iasds01.com
@@ -1391,7 +1393,9 @@ jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
+jollytestpartying.com
 jomtingi.net
+jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
@@ -1549,7 +1553,6 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
-mgbid.net
 mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
@@ -1615,7 +1618,6 @@ nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
 noowhaumurauy.net
-notifyerr.com
 nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
@@ -1811,7 +1813,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
@@ -1987,7 +1988,6 @@ sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
-shareadspace.com
 shaughaupoo.net
 shaughixefooz.net
 sheesoah.net
@@ -2025,6 +2025,7 @@ sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
+sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
 spacash.com
@@ -2380,7 +2381,6 @@ analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
-dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
