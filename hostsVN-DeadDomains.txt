@@ -116,6 +116,7 @@ s.kau.li
 y.kau.li
 native.propellerclick.com
 advergine.com
+go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
@@ -127,6 +128,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -250,7 +252,6 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -379,6 +380,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
@@ -387,7 +389,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv686.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -407,6 +408,7 @@ aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
+aj3007.bid
 aj3017.bid
 aj101.xyz
 litvp.com
@@ -459,6 +461,7 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
+matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -691,6 +694,7 @@ anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
+antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
@@ -754,7 +758,6 @@ baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
-banner.casino.net
 banner.coza.com
 banner.mindshare.de
 banner.nixnet.cz
@@ -810,6 +813,7 @@ bookletblockedcaught.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
+bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
@@ -935,7 +939,6 @@ curlyhomes.com
 cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
-cvvczlcg.com
 cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
@@ -989,8 +992,8 @@ diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
-dklvqrfgvwror.com
 doaglunoupa.net
+doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
@@ -1260,7 +1263,6 @@ hookawep.net
 hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
-hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
@@ -1407,6 +1409,7 @@ kxnggkh2nj.com
 kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
+lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
@@ -1513,7 +1516,6 @@ mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
-mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
@@ -1655,7 +1657,6 @@ orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
 orywrjsf.com
-osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -2189,6 +2190,7 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
+vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2212,7 +2214,6 @@ whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
 whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
@@ -2271,7 +2272,6 @@ xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
