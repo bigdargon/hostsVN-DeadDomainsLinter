@@ -69,7 +69,6 @@ content.ad
 api.content.ad
 app.content.ad
 media.content.ad
-partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
@@ -206,7 +205,6 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -242,7 +240,6 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
 www.bitmedianetwork.com
 heatmap.it
 u.heatmap.it
@@ -284,6 +281,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -794,6 +792,7 @@ boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
+br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
 breathelicense.com
@@ -906,6 +905,7 @@ cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
+critical-replacement.com
 croniesobli.com
 crumbrationally.com
 crumplylenient.com
@@ -917,6 +917,7 @@ cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
+cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 d.appsdt.com
@@ -1148,7 +1149,6 @@ go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
-gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
@@ -1582,7 +1582,6 @@ observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
-odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
@@ -1802,7 +1801,6 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
-qp.ezfxpuo.cn
 qrodufobzbav.com
 qruqon.com
 qtoeofqazggu.com
@@ -2109,7 +2107,6 @@ unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
-unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -2126,6 +2123,7 @@ ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uvettjofogfozc.com
+uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
@@ -2174,7 +2172,6 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
-wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -2330,6 +2327,7 @@ saspreview.com
 showbiz.owndata.network
 track.hydro.online
 track.lexico.com
+tracking.news360.store
 tracking.scenepass.com
 umeng.co
 weborama.net
