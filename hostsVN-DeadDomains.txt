@@ -15,8 +15,6 @@ px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
-analysis.ligatus.com
-analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
@@ -69,6 +67,7 @@ content.ad
 api.content.ad
 app.content.ad
 media.content.ad
+partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
@@ -205,6 +204,7 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
+adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
@@ -240,6 +240,7 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
 www.bitmedianetwork.com
 heatmap.it
 u.heatmap.it
@@ -321,7 +322,6 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
-ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
@@ -355,7 +355,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
@@ -390,7 +389,6 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -537,7 +535,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
-3in6ko.com
 4d5.net
 4hfchest5kdnfnut.com
 4info.com
@@ -741,7 +738,6 @@ banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
-bannermarkt.nl
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
@@ -779,7 +775,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
@@ -997,7 +992,6 @@ ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
-eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -1137,8 +1131,6 @@ gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
-glaignicmo.com
-glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1149,6 +1141,7 @@ go.mobisla.com
 go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
+gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
@@ -1582,6 +1575,7 @@ observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
+odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
@@ -1693,7 +1687,6 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
@@ -1801,6 +1794,7 @@ qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
+qp.ezfxpuo.cn
 qrodufobzbav.com
 qruqon.com
 qtoeofqazggu.com
@@ -1826,7 +1820,6 @@ rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
-rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
 rduaagcwsw.com
@@ -2107,6 +2100,7 @@ unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
+unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
@@ -2172,6 +2166,7 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
