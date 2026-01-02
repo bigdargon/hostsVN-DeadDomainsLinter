@@ -5,6 +5,10 @@ vserv.mobi
 admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
+adv.yllix.com
+banners.yllix.com
+click2.yllix.com
+click.yllix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -208,8 +212,6 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
-cdn.bidfilter.com
-a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
@@ -374,6 +376,7 @@ sense.tapdb.com
 cdn.ggsfq.com
 px2.4cinsights.com
 ad.samsungadhub.com
+samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -554,9 +557,9 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -658,13 +661,14 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adserv.etv.sale
 adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
+adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
@@ -673,6 +677,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -735,7 +740,6 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
-apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
@@ -789,6 +793,7 @@ babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
+baitpros.net
 baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
@@ -891,6 +896,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -968,6 +974,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1138,6 +1145,7 @@ fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
+filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
@@ -1323,7 +1331,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1527,7 +1534,6 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
-mallogrow.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1603,6 +1609,7 @@ nddjdbxwbpp.com
 neevouglu.com
 nervoustolsel.com
 netcommunities.com
+netflame.cc
 netshelter.net
 news-central.org
 news-muheji.com
@@ -1796,6 +1803,8 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
+poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1916,6 +1925,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2042,6 +2052,7 @@ spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
+stat.dealtime.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
