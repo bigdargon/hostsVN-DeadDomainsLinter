@@ -11,6 +11,7 @@ a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
+px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
@@ -22,6 +23,7 @@ d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
+i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
@@ -182,6 +184,7 @@ a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
+static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -344,7 +347,6 @@ pixel.inforsea.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
-promo-4.vercel.app
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -356,6 +358,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+d.pssy.xyz
+r.pssy.xyz
+s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -368,6 +373,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -456,6 +462,8 @@ vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
+jeoway.com
+platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -503,6 +511,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -604,6 +613,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -614,7 +624,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -831,6 +840,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1106,6 +1116,7 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
+futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1118,10 +1129,10 @@ ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
+gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1206,6 +1217,8 @@ hazaraspekt.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
+hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1301,7 +1314,6 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
@@ -1347,11 +1359,14 @@ kaisauwoure.net
 kalwundked.com
 kamak-mab.com
 kangaroohiccups.com
+katukaunamiss.com
+kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
+kdpxksukngrg.com
 keapeiros.xyz
 keefoocauby.com
 kempucmouftordo.com
@@ -1441,6 +1456,7 @@ lstalwryflhourf.com
 luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
+lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
@@ -1489,6 +1505,7 @@ mhelfiricbwa.com
 mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
+mingledventin.com
 mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
@@ -1513,7 +1530,6 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
-mwekuzaj.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1537,10 +1553,10 @@ netcommunities.com
 netflame.cc
 netshelter.net
 news-central.org
+news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
-nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1607,7 +1623,6 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1915,8 +1930,8 @@ serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
-sf960.com
 sghehllds.com
+shaiksuk.net
 shakyseat.com
 shakytaste.com
 shareadspace.com
@@ -1926,7 +1941,6 @@ shelfoka.com
 shestour.net
 shiglangee.net
 shoacmoackaugnu.com
-shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -2056,6 +2070,7 @@ tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
+total-fee.com
 toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2219,6 +2234,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2271,6 +2287,7 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
+yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
