@@ -6,14 +6,6 @@ admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
 swift.lifestreet.com
-adstage-analytics.herokuapp.com
-anti-adblock.herokuapp.com
-collection-endpoint-prod.herokuapp.com
-collection-endpoint-staging.herokuapp.com
-filament-stats.herokuapp.com
-onespot-tracking.herokuapp.com
-statt-collect.herokuapp.com
-sworkitads.herokuapp.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -222,7 +214,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
@@ -355,9 +346,6 @@ pixel.inforsea.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
-promo-1.vercel.app
-promo-3.vercel.app
-promo-4.vercel.app
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -384,7 +372,6 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
-ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -616,9 +603,9 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
+adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -669,6 +656,7 @@ alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
+allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -716,7 +704,6 @@ atonementwisely.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
-aulteeby.net
 aungudie.com
 authoaxoms.net
 autjaetpxhj.com
@@ -965,6 +952,7 @@ demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
+desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
@@ -1096,6 +1084,7 @@ firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
+fkwnnfwhvjmubrl.com
 flagmantensity.com
 fm.zipperszebecs.com
 foliumumu.com
@@ -1272,6 +1261,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1321,10 +1311,10 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
-jeewoo.xctd.me
 jerboasjourney.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
+jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
@@ -1344,6 +1334,7 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1496,6 +1487,7 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
+mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1523,6 +1515,7 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
+mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1822,7 +1815,6 @@ questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
-qvzpofgmlwlnrt.com
 qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
@@ -1848,6 +1840,7 @@ refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
 reinvigorate.net
+relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
@@ -1987,7 +1980,6 @@ sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
-static.scptpx.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
@@ -2130,6 +2122,7 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
+uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2252,7 +2245,6 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
