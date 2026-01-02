@@ -5,10 +5,6 @@ vserv.mobi
 admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
-adv.yllix.com
-banners.yllix.com
-click2.yllix.com
-click.yllix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -212,6 +208,8 @@ www.brand.ad
 ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
+cdn.bidfilter.com
+a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
@@ -335,7 +333,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -557,9 +554,9 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -661,12 +658,12 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserv.etv.sale
 adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -740,6 +737,7 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
+apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
@@ -896,7 +894,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -974,7 +971,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1191,6 +1187,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1276,7 +1273,6 @@ hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1391,7 +1387,6 @@ jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1465,7 +1460,6 @@ lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
-lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
@@ -1534,6 +1528,7 @@ makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
+mallogrow.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
@@ -1613,7 +1608,6 @@ netflame.cc
 netshelter.net
 news-central.org
 news-muheji.com
-newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
@@ -1626,7 +1620,6 @@ noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
-nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
@@ -1925,7 +1918,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2052,7 +2044,6 @@ spywarelabs.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
-stat.dealtime.com
 static-ads.akamaized.net
 static.scptpx.com
 static.scroll.com
