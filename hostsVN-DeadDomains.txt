@@ -6,6 +6,14 @@ admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
 swift.lifestreet.com
+adstage-analytics.herokuapp.com
+anti-adblock.herokuapp.com
+collection-endpoint-prod.herokuapp.com
+collection-endpoint-staging.herokuapp.com
+filament-stats.herokuapp.com
+onespot-tracking.herokuapp.com
+statt-collect.herokuapp.com
+sworkitads.herokuapp.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -232,6 +240,7 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
+aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -346,6 +355,9 @@ pixel.inforsea.com
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
+promo-1.vercel.app
+promo-3.vercel.app
+promo-4.vercel.app
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -368,8 +380,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv676.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -606,7 +616,6 @@ ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
-adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
 adshostnet.com
@@ -660,7 +669,6 @@ alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
-allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -820,7 +828,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-bzyfzusiqohk.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -958,7 +965,6 @@ demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
-desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
@@ -1090,7 +1096,6 @@ firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
-fkwnnfwhvjmubrl.com
 flagmantensity.com
 fm.zipperszebecs.com
 foliumumu.com
@@ -1320,7 +1325,6 @@ jeewoo.xctd.me
 jerboasjourney.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
-jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
@@ -1340,7 +1344,6 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
-jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1493,7 +1496,6 @@ metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
-mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1521,7 +1523,6 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
-mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1619,7 +1620,6 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1762,6 +1762,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1847,7 +1848,6 @@ refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
 reinvigorate.net
-relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
 resolutekey.com
@@ -1936,6 +1936,7 @@ shaughaupoo.net
 sheesoah.net
 shelfoka.com
 shestour.net
+shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
 shorteh.com
@@ -2129,7 +2130,6 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
-uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2171,6 +2171,7 @@ vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
+vudachisouxouk.net
 vugnubier.com
 vugpakba.com
 vujdudspear.com
@@ -2207,6 +2208,9 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
+wimswuppoxan.com
+window.nixnet.cz
+windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
