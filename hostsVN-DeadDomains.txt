@@ -232,7 +232,6 @@ vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
@@ -358,9 +357,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-d.pssy.xyz
-r.pssy.xyz
-s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -372,8 +368,9 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv676.me
+ads.livetv683.me
 ads.livetv687.me
-ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -511,7 +508,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -824,6 +820,7 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+bzyfzusiqohk.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -840,7 +837,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1116,7 +1112,6 @@ fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
-futcceabr.com
 futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
@@ -1272,7 +1267,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1314,6 +1308,7 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
+izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
@@ -1557,6 +1552,7 @@ news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
+nhusjhrshwxvl.com
 nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
@@ -1623,6 +1619,7 @@ onclasrv.com
 oneandonlynetwork.com
 oneegrou.net
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1765,7 +1762,6 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1930,6 +1926,7 @@ serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
+sf960.com
 sghehllds.com
 shaiksuk.net
 shakyseat.com
@@ -1939,8 +1936,8 @@ shaughaupoo.net
 sheesoah.net
 shelfoka.com
 shestour.net
-shiglangee.net
 shoacmoackaugnu.com
+shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
@@ -2174,7 +2171,6 @@ vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
-vudachisouxouk.net
 vugnubier.com
 vugpakba.com
 vujdudspear.com
@@ -2211,9 +2207,6 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
-wimswuppoxan.com
-window.nixnet.cz
-windsattributeron.com
 wishedverde.com
 wissoony.net
 wistfulbalmy.com
@@ -2341,5 +2334,6 @@ track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
+weborama.net
 worldgravity.com
 yoursitestatstube.ru
