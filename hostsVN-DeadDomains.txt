@@ -80,7 +80,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
-image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -220,7 +219,6 @@ madsecz.com
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
-welcome.consumable.com
 capi.bidtellect.com
 advinci.net
 count.advinci.net
@@ -400,6 +398,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
+p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
@@ -417,7 +416,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -459,7 +457,6 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
-st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -506,7 +503,6 @@ gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
-jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -576,7 +572,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
-2437march2024.com
 2439march2024.com
 2447march2024.com
 2451march2024.com
@@ -656,12 +651,14 @@ ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
+ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
 adserver.html.it
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -773,7 +770,6 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
-awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
@@ -844,6 +840,7 @@ blearspellaea.shop
 bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
+bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -887,7 +884,6 @@ canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
-capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
@@ -923,7 +919,6 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
-circularnothing.com
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
@@ -1026,8 +1021,6 @@ dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
-digiadzone.com
-digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
@@ -1151,7 +1144,6 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
-fm.zipperszebecs.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1264,6 +1256,7 @@ hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
+hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
@@ -1327,6 +1320,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1347,14 +1341,14 @@ importedincrease.com
 impractical-award.com
 inabsolor.com
 ingotedbooze.com
+innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 internalads.gammae.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
 intnotif.club
-intrarezsites.com
-inwraptsekane.com
 ipyefimivc.com
 irousbisayan.com
 irritateinformantmeddle.com
@@ -1373,12 +1367,12 @@ jadeitite.com
 jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
-jaumevie.com
 jeewoo.xctd.me
 jerboasjourney.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
+jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
@@ -1542,7 +1536,6 @@ mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1595,7 +1588,6 @@ nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
-naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
 nazolncubha.com
@@ -1665,7 +1657,6 @@ ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
 olkhtegk.com
-olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
@@ -1736,7 +1727,6 @@ ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
-ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
@@ -1887,6 +1877,7 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
+raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1916,10 +1907,10 @@ rev2pub.com
 revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
+richwebmaster.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2214,6 +2205,7 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
+viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
