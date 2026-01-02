@@ -44,7 +44,6 @@
 00443044.com
 0044789.com
 0045n.com
-0047n.com
 0048n.com
 0048v.com
 0049v.com
@@ -441,7 +440,10 @@
 045390.com
 046390.com
 0464073.com
+<<<<<<< Updated upstream
 0465n.com
+=======
+>>>>>>> Stashed changes
 0466p.com
 04712k.com
 04712p.com
@@ -739,7 +741,6 @@
 08873.net
 0887v.com
 0889x.com
-088yb.com
 0891k365.com
 0891saibo.com
 089249.com
@@ -1013,6 +1014,7 @@
 1057t.com
 105848.com
 1058yb.com
+105tycvip.com
 106133.com
 1061x.com
 1064yb.com
@@ -4620,7 +4622,6 @@
 28882v.com
 28883v.com
 2888818.com
-288949.com
 288jsjs.com
 2891n.com
 2891t.com
@@ -5261,6 +5262,7 @@
 3311t.com
 33123.org
 33128s.com
+331292.com
 331317.com
 33131s.com
 3313n.com
@@ -6197,7 +6199,6 @@
 3831j.com
 3832h.com
 3832t.com
-3832v.com
 3833s.com
 3835.org
 3835j.com
@@ -6991,7 +6992,6 @@
 40836.org
 408653.com
 4088n.com
-408mg.com
 408vn.com
 408yb.com
 4093t.com
@@ -7687,6 +7687,7 @@
 4591t.com
 4591x.com
 4592x.com
+459315.com
 4595t.com
 4595x.com
 4596664.com
@@ -8018,6 +8019,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858jj.com
 4858jjj.com
 4858kkk.com
@@ -8029,6 +8031,18 @@
 4858x.com
 4858y.com
 4858z.com
+=======
+4858e.com
+4858ee.com
+4858f.com
+4858gg.com
+4858ii.com
+4858lll.com
+4858ooo.com
+4858p.com
+4858s.com
+4858x.com
+>>>>>>> Stashed changes
 4862x.com
 4864t.com
 4866s.com
@@ -8124,7 +8138,6 @@
 4965t.com
 4965x.com
 4966s.com
-496750.com
 4967t.com
 4967x.com
 4968t.com
@@ -9785,7 +9798,6 @@
 6077n.com
 6077x.com
 6079x.com
-6080dy3.com
 6081t.com
 6082t.com
 60838.wang
@@ -10781,11 +10793,13 @@
 66763v.com
 6676v.com
 66771v.com
+667753.com
 66777v.com
 66778v.com
 66779x.com
 667874.com
 66789bet.vip
+6678f.com
 66790.net
 66797v.com
 6679s.com
@@ -10971,6 +10985,7 @@
 6694s.com
 6694x.com
 669580.com
+6695f.com
 6695n.com
 66965s.com
 66968v.com
@@ -15575,7 +15590,10 @@
 8k8z.vip
 8kbet04.com
 8kbet08.com
+<<<<<<< Updated upstream
 8kbet9.com
+=======
+>>>>>>> Stashed changes
 8kmqd99.info
 8kwin03.com
 8kwin04.com
@@ -15836,12 +15854,13 @@
 918bzz.com
 918ccb.com
 918ccy.com
+918ccz.com
+918ckk.com
 918cyy.com
 918ek.com
 918et.com
 918gvv.com
 918ivv.com
-918oi.com
 918pph.com
 918rt.com
 918uuw.com
@@ -16810,7 +16829,6 @@
 99958u.com
 99958y.com
 99958z.com
-999659.com
 999781999.com
 9998.biz
 99981.org
@@ -17265,7 +17283,6 @@ api.go88r.pro
 api.hb88p.com
 api.hgkwxnfs.com
 api.i8bet.org
-api.i9bet108.com
 api.i9bet34.com
 api.i9bet36.com
 api.kfmapp.win
@@ -18276,6 +18293,7 @@ bet99way.com
 betaa77.com
 betat188.com
 betcom.one
+betcom88.com
 betconstraop.com
 bete003.com
 bete55.com
@@ -19866,6 +19884,7 @@ f8b4.com
 f8bet.live
 f8bet0.ceo
 f8bet0.ec
+f8bet00.vip
 f8bet08.vip
 f8bet1.ceo
 f8bet1b.art
@@ -21034,7 +21053,6 @@ gv5x.com
 gv8at.vip
 gw.zbet.com
 gw132b8x8.com
-gwfd.qatgwawm.net
 gy99000.com
 gy99022.com
 gy9903.com
@@ -21658,6 +21676,7 @@ hrgj48.com
 hrgj49.com
 hrgj50.com
 hrgj555.com
+hsbc88123.com
 hsx60.com
 ht1711.com
 ht5v0.vip
@@ -21747,8 +21766,6 @@ images.388bet.vip
 images.ku6110.net
 img.fabet.me
 img.hbsf888.com
-img.lucky88.com
-img.may88.com
 img.oigngns6zvx3.com
 img.red88.vin
 imgcdn.henho24h.net
@@ -22117,6 +22134,7 @@ jerry333.vip
 jh0r7.vip
 jiang1991712.com
 jiasu.f1680.mobi
+jiasu.f1681.run
 jiasu.f1687.online
 jiasutupian.com
 jili5c.cc
@@ -22152,7 +22170,6 @@ jixiangfang2027.com
 jixiangfang2028.com
 jj004.com
 jj4766.com
-jj644.com
 jj909.com
 jjfungame.com
 jji87v.ink
@@ -23392,7 +23409,6 @@ m.ole76.com
 m.ole777vietnam.com
 m.oleviet777.com
 m.s26.lol
-m.tinbongdaw88.com
 m.twin188.co
 m.v99win.app
 m.vn88hn.live
@@ -23759,6 +23775,7 @@ ms567ms.com
 ms666ms.com
 ms887979.site
 ms888s.com
+ms88vina.com
 ms8del.com
 ms8opb.com
 ms8zrsi.com
@@ -24215,6 +24232,7 @@ ok689a.com
 ok9khuyenmai.com
 ok9v5.com
 okdbet.biz
+okf168.com
 oklavip17.com
 oklavip24.com
 oklavip25.com
@@ -25659,6 +25677,7 @@ shbet1.ec
 shbet1.zone
 shbet11.cc
 shbet11.vip
+shbet17.cc
 shbet17.ren
 shbet18.ren
 shbet19.ren
@@ -25896,8 +25915,11 @@ star890.vip
 startcasino89.com
 static.12bet.uk
 static.8live.com
+<<<<<<< Updated upstream
 static.lucky88.com
 static2.lucky88.com
+=======
+>>>>>>> Stashed changes
 storenosap.com
 su66.org
 subo6.com
@@ -26258,6 +26280,7 @@ tangotangoasia.com
 tangzongvip.com
 tanyakon.vip
 taobao.j88h7i.vip
+tap-master-color-rush-challenge.vercel.app
 tape1993.vip
 tavesan09.vip
 tb5ozow3g.com
@@ -26276,7 +26299,6 @@ tc88sn.com
 tc99sn.com
 tcxhua.com
 td3d8olk9ma.life
-tdtc833.com
 tee255499.vip
 teen-titans-hentai.net
 teerarak2545.vip
@@ -26446,7 +26468,6 @@ topzaza321.vip
 tosjar55.vip
 tou12.com
 tou17.com
-tou19.com
 tou25.com
 tou28.com
 tou29.com
@@ -26611,6 +26632,7 @@ ty224.com
 ty22cc.com
 ty28k.com
 ty2xh.com
+ty3989.com
 ty3xh.com
 ty3yn.com
 ty53a.com
@@ -26829,7 +26851,7 @@ v0483.com
 v0486.com
 v0487.com
 v0489.com
-v0630.com
+v0729.com
 v0827.com
 v11112.com
 v11118.com
