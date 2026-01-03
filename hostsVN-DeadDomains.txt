@@ -108,7 +108,6 @@ sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
@@ -163,7 +162,6 @@ clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
-video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -178,7 +176,6 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 admarvel.com
-automator.admarvel.com
 base-cdn.admarvel.com
 cdn.admarvel.com
 map.admarvel.com
@@ -217,6 +214,7 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -299,7 +297,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -394,6 +391,7 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
+aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -531,7 +529,6 @@ vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
-1frozenthrone1.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
@@ -561,9 +558,7 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
-abpvhymadq.com
 abqguldudbi.com
-abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -584,6 +579,7 @@ adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
+admagnet.net
 admedia.network
 adplus.co.id
 adprotected.com
@@ -748,6 +744,7 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
@@ -771,7 +768,6 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
-beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -812,7 +808,6 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-bunceptsclosingh.com
 bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
@@ -1050,6 +1045,7 @@ exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
+expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1429,6 +1425,7 @@ littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
+llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1506,10 +1503,12 @@ mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
+mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
+moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1599,6 +1598,7 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
+ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1690,6 +1690,8 @@ pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
 pefsustazvzgop.com
+penbouncingmagpie.com
+pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
@@ -1950,7 +1952,6 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
-slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2148,6 +2149,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2236,6 +2238,7 @@ www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
 www.qcerujcajnme.com
+www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -2294,7 +2297,6 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
-zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
