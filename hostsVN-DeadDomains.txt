@@ -251,6 +251,7 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
@@ -368,7 +369,6 @@ u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -396,6 +396,7 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
+aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -432,6 +433,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+www.ad.org.vn
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
@@ -453,6 +455,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.chetaomaysaigon.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -481,6 +484,7 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+tracking.vtcnew.com.vn
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -492,7 +496,9 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
+adv.autosurf.vn
 adv.vnnshop.vn
+adx.hoanggia.net.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -510,10 +516,12 @@ motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
+toppage.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
+analytics.bachtuongphat.com
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -521,6 +529,7 @@ log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
+logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.fff.com.vn
@@ -559,6 +568,7 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
+abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -793,7 +803,6 @@ blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
 bn.bfast.com
-bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
@@ -1058,7 +1067,6 @@ exxohwvxupjv.com
 eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
-ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1169,6 +1177,7 @@ gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
+great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
@@ -1184,6 +1193,7 @@ grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
+gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1370,6 +1380,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1476,6 +1487,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1688,6 +1700,7 @@ parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
+patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
@@ -1781,11 +1794,11 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
-pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qa.cleckvenin.com
@@ -1993,6 +2006,7 @@ sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
+stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
