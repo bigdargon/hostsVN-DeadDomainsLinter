@@ -64,8 +64,10 @@ v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
+media.content.ad
 partners.content.ad
 rest.content.ad
+www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -156,6 +158,8 @@ bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
+bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -493,6 +497,7 @@ adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
+aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -688,7 +693,6 @@ apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
-apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
@@ -705,6 +709,7 @@ asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
+aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -815,6 +820,7 @@ bunceptsclosingh.com
 bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -994,7 +1000,6 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1011,7 +1016,6 @@ efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
-ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -1187,6 +1191,7 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1267,7 +1272,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1342,11 +1346,11 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
+juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
-jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
@@ -1481,7 +1485,6 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1500,6 +1503,7 @@ midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 mirohqodlf.com
+missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
@@ -1520,9 +1524,9 @@ msvobeuhec.com
 mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
+murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
-mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
@@ -1643,6 +1647,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1695,6 +1700,7 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
+pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
@@ -1916,7 +1922,6 @@ seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
-sendmepixel.com
 seo4india.com
 serconmp.com
 sermonoccupied.com
@@ -1938,7 +1943,6 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
-siccash.com
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
@@ -1947,7 +1951,6 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
-sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
@@ -2098,7 +2101,6 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
-ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2219,7 +2221,6 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
