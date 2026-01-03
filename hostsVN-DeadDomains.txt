@@ -29,6 +29,7 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -143,8 +144,6 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -320,6 +319,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -350,7 +350,6 @@ supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
-imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
@@ -428,11 +427,9 @@ core.polyad.net
 cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
-dst.polyad.net
 dt.polyad.net
 go.polyad.net
 html.polyad.net
-img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
@@ -442,6 +439,7 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -466,8 +464,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.educe.vn
-mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
@@ -937,6 +933,7 @@ croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
+culwcoam.com
 cupidonmedia.com
 curlyhomes.com
 cussersimmure.click
@@ -949,6 +946,7 @@ cynes-gwf.com
 d.appsdt.com
 d6jfiirio372.com
 da-ads.com
+dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
 dalysb.com
@@ -977,7 +975,6 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
-dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1052,7 +1049,6 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
-eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1068,6 +1064,7 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
+expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -1105,7 +1102,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -1287,6 +1283,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1479,7 +1476,6 @@ luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
-lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1508,6 +1504,7 @@ medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
+mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
@@ -2323,7 +2320,6 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
-zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
@@ -2340,6 +2336,7 @@ zy.eilaeliza.top
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
+c2i-cdn.startappnetwork.com
 cankaowang.com
 comscoreresearch.com
 dolohen.com
