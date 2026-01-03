@@ -54,7 +54,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-x.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -112,6 +111,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -467,9 +467,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.hicity.vn
-mautic.casso.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -613,7 +610,6 @@ ads-to.click
 ads.amigos.com
 ads.aspalliance.com
 ads.bumq.com
-ads.cdn2-img.net
 ads.clickdigisol.net
 ads.contactmusic.com
 ads.crakmedia.com
@@ -636,7 +632,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -682,6 +677,7 @@ ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
+alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -882,7 +878,6 @@ chinaslauras.com
 chinsnakes.com
 chioneflake.com
 chippedaugur.com
-chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
@@ -1018,7 +1013,6 @@ dumkcuakrlka.com
 duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
-dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
@@ -1096,7 +1090,6 @@ fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
-fedapush.net
 feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
@@ -1149,7 +1142,6 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
-gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
@@ -1409,7 +1401,6 @@ kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1660,6 +1651,7 @@ opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
+opzoxvxut.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
@@ -2056,7 +2048,9 @@ tagmngrs.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2129,6 +2123,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+uitopadxdy.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2152,6 +2147,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2332,6 +2328,7 @@ zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
+zijaipse.com
 zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
@@ -2367,6 +2364,7 @@ tdf.ringier.ch
 track.hydro.online
 track.lexico.com
 tracking.news360.store
+tracking.scenepass.com
 umeng.co
 visitor.pixplug.in
 weborama.net
