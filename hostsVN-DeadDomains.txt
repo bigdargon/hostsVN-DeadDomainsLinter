@@ -54,6 +54,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+x.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -104,13 +105,13 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
+hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
@@ -346,6 +347,7 @@ s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
@@ -516,6 +518,7 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clipbongda.info
 clix.vn
 crocopop.com
 iads.vision
@@ -622,6 +625,7 @@ ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
+ads.lordlucky.com
 ads.passion.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -640,6 +644,7 @@ adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
+adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
@@ -677,7 +682,6 @@ ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
-alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
@@ -775,6 +779,7 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
@@ -1642,6 +1647,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1854,6 +1860,7 @@ rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
+razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
@@ -1993,6 +2000,8 @@ songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
+spacash.com
+spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2047,9 +2056,7 @@ tagmngrs.com
 tagular.com
 tangerinenet.biz
 tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
-tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2106,6 +2113,7 @@ trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
+tumblebit.org
 tunnedlehua.com
 tutnabqcyqky.com
 twazzyoidwlfe.com
@@ -2120,6 +2128,7 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2143,7 +2152,6 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2343,6 +2351,7 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
+gotoip55.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
@@ -2350,6 +2359,7 @@ metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
+richmetrics.com
 saspreview.com
 showbiz.owndata.network
 snnd.co
@@ -2357,7 +2367,6 @@ tdf.ringier.ch
 track.hydro.online
 track.lexico.com
 tracking.news360.store
-tracking.scenepass.com
 umeng.co
 visitor.pixplug.in
 weborama.net
