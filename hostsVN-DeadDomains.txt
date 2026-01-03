@@ -66,6 +66,7 @@ api.content.ad
 app.content.ad
 media.content.ad
 partners.content.ad
+rest.content.ad
 www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
@@ -250,7 +251,6 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
@@ -396,7 +396,6 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
-aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
@@ -506,6 +505,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
@@ -559,7 +559,6 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
-abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -1170,7 +1169,6 @@ gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
-great-ads-right-now.com
 greatlove.pro
 greenedenlarge.uno
 grewquartersupporting.com
@@ -1186,7 +1184,6 @@ grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
-gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1210,6 +1207,7 @@ handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
+hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
@@ -1339,6 +1337,7 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
+jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1371,7 +1370,6 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
-kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1426,7 +1424,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1479,7 +1476,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1692,7 +1688,6 @@ parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
-patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
@@ -1786,7 +1781,6 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
-pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1999,7 +1993,6 @@ sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
-stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
