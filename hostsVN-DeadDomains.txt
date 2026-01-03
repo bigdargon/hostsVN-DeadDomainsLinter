@@ -5,6 +5,7 @@ vserv.mobi
 admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
+swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -85,6 +86,7 @@ nexus.upsight.com
 o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
+upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
@@ -102,7 +104,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
-hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
@@ -345,7 +346,6 @@ s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
@@ -359,6 +359,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -621,7 +622,6 @@ ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
-ads.lordlucky.com
 ads.passion.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
@@ -640,7 +640,6 @@ adsmogo.org
 adspace.ro
 adsrv.wtf
 adsrveys.com
-adtology.com
 adtoma.com
 adtriplex.com
 adverdirect.com
@@ -665,6 +664,7 @@ aickeebsi.com
 aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
+ailtashoackie.com
 aimaniape.club
 aividruzeemi.com
 ajggirci.com
@@ -775,7 +775,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
@@ -1454,6 +1453,7 @@ lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
+lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
@@ -1590,6 +1590,7 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1614,6 +1615,7 @@ odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
 oewabox.at
+offergate-other32.com
 offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
@@ -1691,6 +1693,7 @@ owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
 oxldadxib.com
+oxthrilled.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
@@ -1822,6 +1825,7 @@ qhfjamsmjyn.com
 qipshozipsah.com
 qj.asokapygmoid.com
 qjwglnuwqvr.com
+qkcgorbrs.com
 qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
@@ -1850,7 +1854,6 @@ rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
-razzedwhimsic.website
 rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
@@ -1990,8 +1993,6 @@ songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
-spacash.com
-spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
@@ -2101,10 +2102,10 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
+trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
-tumblebit.org
 tunnedlehua.com
 tutnabqcyqky.com
 twazzyoidwlfe.com
@@ -2119,7 +2120,6 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2343,7 +2343,6 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
-gotoip55.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
@@ -2351,7 +2350,6 @@ metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
-richmetrics.com
 saspreview.com
 showbiz.owndata.network
 snnd.co
