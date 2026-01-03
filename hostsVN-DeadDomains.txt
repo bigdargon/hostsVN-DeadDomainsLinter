@@ -66,7 +66,6 @@ api.content.ad
 app.content.ad
 media.content.ad
 partners.content.ad
-rest.content.ad
 www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
@@ -108,6 +107,7 @@ sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
@@ -162,6 +162,7 @@ clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
+video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -176,6 +177,7 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 admarvel.com
+automator.admarvel.com
 base-cdn.admarvel.com
 cdn.admarvel.com
 map.admarvel.com
@@ -297,6 +299,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -503,7 +506,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
@@ -529,6 +531,7 @@ vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
+1frozenthrone1.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
@@ -558,7 +561,9 @@ abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
+abpvhymadq.com
 abqguldudbi.com
+abservinean.com
 abyocawlfe.com
 acerolawaists.com
 achieverknee.com
@@ -610,6 +615,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -768,6 +774,7 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
+beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -808,6 +815,7 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
+bunceptsclosingh.com
 bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
@@ -1202,7 +1210,6 @@ handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
-hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
@@ -1332,7 +1339,6 @@ jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
-jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
@@ -1420,6 +1426,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1952,6 +1959,7 @@ sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
+slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
@@ -2297,6 +2305,7 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
