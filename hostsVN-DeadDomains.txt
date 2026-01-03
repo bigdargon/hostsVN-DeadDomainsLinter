@@ -102,7 +102,6 @@ advergine.com
 go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -144,6 +143,8 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -350,6 +351,7 @@ supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
+imhd.io
 beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
@@ -427,9 +429,11 @@ core.polyad.net
 cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
+dst.polyad.net
 dt.polyad.net
 go.polyad.net
 html.polyad.net
+img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
@@ -464,6 +468,8 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educe.vn
+mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
 cdn.myad.vn
@@ -628,7 +634,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -975,6 +980,7 @@ demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
+dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
@@ -1049,6 +1055,7 @@ entertainingeyes.com
 eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
+eqgmnmqlz.com
 eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
@@ -1102,6 +1109,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+fingahvf.top
 firmzecutci.com
 fistofzeus.com
 fixespreoccupation.com
@@ -1136,7 +1144,6 @@ fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
-ga-ads.com
 gabanxaq.com
 gagowtvi.com
 gaijiglo.net
@@ -1443,7 +1450,6 @@ linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
-lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
@@ -1476,6 +1482,7 @@ luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
+lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
@@ -1523,7 +1530,6 @@ missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
-mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
@@ -1538,7 +1544,6 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
-mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1584,7 +1589,6 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1972,7 +1976,6 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
-smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -2034,7 +2037,6 @@ swarthymacula.com
 sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
-synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
@@ -2186,7 +2188,6 @@ vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
-vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
@@ -2320,6 +2321,7 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
+zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
@@ -2361,5 +2363,4 @@ tracking.scenepass.com
 umeng.co
 visitor.pixplug.in
 weborama.net
-worldgravity.com
 yoursitestatstube.ru
