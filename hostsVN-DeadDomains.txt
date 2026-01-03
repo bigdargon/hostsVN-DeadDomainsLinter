@@ -70,7 +70,6 @@ api.content.ad
 app.content.ad
 media.content.ad
 partners.content.ad
-rest.content.ad
 www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
@@ -505,6 +504,7 @@ ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
+ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
@@ -625,6 +625,7 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.passion.com
+ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
@@ -633,6 +634,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -682,6 +684,7 @@ alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
+allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
@@ -700,6 +703,7 @@ antio-nar.com
 anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
+aphycolourses.info
 api.ampiri.com
 appads.com
 apprefaculty.pro
@@ -991,6 +995,7 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
+diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
@@ -1000,7 +1005,6 @@ doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1042,6 +1046,7 @@ emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
+encounterboastful.com
 endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
@@ -1118,7 +1123,6 @@ fopteefteex.com
 forfeitsubscribe.com
 formalitydetached.com
 forspearowor.com
-fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
@@ -1381,6 +1385,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
+kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1430,6 +1435,7 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
+lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1532,7 +1538,6 @@ mobisla.com
 mobpushup.com
 moodokay.com
 moonlitturbots.com
-morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
 mpunuxpurs.com
@@ -1594,6 +1599,7 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
+nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1921,6 +1927,7 @@ ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
 rwturquxinm.com
+rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
@@ -2159,7 +2166,6 @@ valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
-vdopia.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
@@ -2171,6 +2177,7 @@ vfuqivac.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
+viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
