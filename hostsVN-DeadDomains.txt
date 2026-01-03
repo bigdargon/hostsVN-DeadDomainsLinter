@@ -15,9 +15,7 @@ analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
-d.ligatus.com
 directads.ligatus.com
-directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
@@ -46,7 +44,6 @@ ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
-ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -235,7 +232,6 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -341,6 +337,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+jg.wensixuetang.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -369,6 +366,7 @@ u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -433,7 +431,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-www.ad.org.vn
 mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
@@ -455,7 +452,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
-mautic.chetaomaysaigon.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -484,8 +480,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-tracking.vtcnew.com.vn
-cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -496,9 +490,7 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
-adv.autosurf.vn
 adv.vnnshop.vn
-adx.hoanggia.net.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -516,12 +508,10 @@ motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
-toppage.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
-analytics.bachtuongphat.com
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -529,7 +519,6 @@ log.bizlive.vn
 log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
-logs.docnhanh.com.vn
 nct1.logging.nextsmarty.com
 track.winigroup.vn
 tracking.fff.com.vn
@@ -597,7 +586,6 @@ admagnet.net
 admedia.network
 adplus.co.id
 adprotected.com
-adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
@@ -803,6 +791,7 @@ blacurlik.com
 blearspellaea.shop
 bmaahwahpofp.com
 bn.bfast.com
+bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
@@ -850,7 +839,6 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
-caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -884,7 +872,6 @@ circularnothing.com
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
-clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1067,6 +1054,7 @@ exxohwvxupjv.com
 eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
+ezxevghchjltrm.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1726,7 +1714,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1799,6 +1786,7 @@ pushokey.com
 pushup.wtf
 pvnocbyq.com
 pvrladcyxnico.com
+pwysruffoza.com
 py.dautedtwiny.shop
 pzshzhja.com
 qa.cleckvenin.com
@@ -1984,7 +1972,6 @@ sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
 spanuletubings.com
-spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
@@ -2064,7 +2051,6 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2135,7 +2121,6 @@ upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
-uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
