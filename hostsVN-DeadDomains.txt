@@ -29,7 +29,6 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
-advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
@@ -59,6 +58,7 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
@@ -184,10 +184,20 @@ c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
 static.adxxx.com
+admarvel.com
+automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
+map.admarvel.com
+omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
 capi.bidtellect.com
+api.screenshot.triplelift.com
+assets.corpui.triplelift.com
+audit.triplelift.com
+corp-assets.triplelift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -209,8 +219,18 @@ adrevenueindex.optad360.com
 api.optad360.com
 apipublisher.optad360.com
 publisher.optad360.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -260,6 +280,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -297,8 +318,8 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
+stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -316,7 +337,11 @@ geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
 s400.mxcdn.net
+analytics.logsss.com
+logsss.com
+perf.logsss.com
 rum.logsss.com
+s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -324,6 +349,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
@@ -416,7 +442,6 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
-text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -440,6 +465,7 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -592,6 +618,7 @@ ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -661,10 +688,13 @@ aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
+ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
+anglemarrowoccurs.com
+anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
@@ -733,6 +763,7 @@ baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
+banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -830,6 +861,7 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
+cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -905,7 +937,6 @@ croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
-culwcoam.com
 cupidonmedia.com
 curlyhomes.com
 cussersimmure.click
@@ -918,8 +949,8 @@ cynes-gwf.com
 d.appsdt.com
 d6jfiirio372.com
 da-ads.com
-dacmaiss.com
 daintydragged.com
+daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
@@ -1037,7 +1068,6 @@ exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
-expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
@@ -1061,6 +1091,7 @@ fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
 fedapush.net
+feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
@@ -1117,6 +1148,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1147,6 +1179,7 @@ goodnotification.net
 goohimom.net
 gossishauphy.com
 gouthoat.com
+gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
 gralossortoob.net
@@ -1232,6 +1265,7 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
+houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
@@ -1253,7 +1287,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1350,6 +1383,7 @@ kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
+kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
@@ -1474,7 +1508,6 @@ medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
-mesangefanwise.tech
 messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
@@ -1518,6 +1551,7 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 naishoochoh.com
+nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
@@ -1605,7 +1639,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1614,6 +1647,7 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
+opntwymri.com
 opsivesh.net
 optimost.com
 opxaxqxaqo.com
@@ -1655,6 +1689,7 @@ owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
 ox4h1dk85.com
+oxldadxib.com
 oxthrilled.com
 ozbkfuhpuolf.com
 ozbnagojbop.com
@@ -2203,6 +2238,7 @@ wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
 wiwqhootrf.com
+wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
 woamoogloow.net
@@ -2308,20 +2344,25 @@ cankaowang.com
 comscoreresearch.com
 dolohen.com
 go.ad1data.com
+gotoip55.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
 metrics.sdkbox.com
+play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+snnd.co
+tdf.ringier.ch
 track.hydro.online
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 umeng.co
+visitor.pixplug.in
 weborama.net
 worldgravity.com
 yoursitestatstube.ru
