@@ -15,7 +15,9 @@ analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
+d.ligatus.com
 directads.ligatus.com
+directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
 ligatus.com
@@ -44,6 +46,7 @@ ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -61,10 +64,8 @@ v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
-media.content.ad
 partners.content.ad
 rest.content.ad
-www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -155,8 +156,6 @@ bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
-bidproxy.ibillboard.com
-clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -232,6 +231,7 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
+tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
@@ -337,7 +337,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-jg.wensixuetang.com
 cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -480,6 +479,7 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -493,7 +493,6 @@ adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
-aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
@@ -586,6 +585,7 @@ admagnet.net
 admedia.network
 adplus.co.id
 adprotected.com
+adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
@@ -705,7 +705,6 @@ asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
-aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
@@ -816,7 +815,6 @@ bunceptsclosingh.com
 bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
-burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -839,6 +837,7 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -872,6 +871,7 @@ circularnothing.com
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
+clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -939,6 +939,7 @@ dataretinalsubtotal.com
 daudejuw.com
 daufouwhoag.net
 daugegeezeeboot.net
+dckifhpovvbpb.com
 decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
@@ -1186,7 +1187,6 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
-gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
@@ -1342,7 +1342,6 @@ js.xzjhome.cc
 jtoabhvw.com
 jucysh.com
 jugjetwok.com
-juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
@@ -1501,7 +1500,6 @@ midgetmaying.com
 mifoqnwi.com
 mingledventin.com
 mirohqodlf.com
-missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
@@ -1522,7 +1520,6 @@ msvobeuhec.com
 mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
-murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
@@ -1646,7 +1643,6 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
-osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1699,7 +1695,6 @@ pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
-pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
 phamsacm.net
@@ -1714,6 +1709,7 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
+pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1942,6 +1938,7 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
+siccash.com
 sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
@@ -1972,6 +1969,7 @@ sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
 spanuletubings.com
+spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
@@ -2051,6 +2049,7 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2121,6 +2120,7 @@ upspinarakor.com
 uqkcroib.com
 urechar.com
 urigagxnji.com
+uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
