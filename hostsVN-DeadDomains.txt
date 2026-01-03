@@ -3,6 +3,7 @@ blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -35,6 +36,7 @@ ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
 m.lkqd.net
+rfp.lkqd.net
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
 rtb.lkqd.net
@@ -46,6 +48,7 @@ us.lkqd.net
 v.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
@@ -214,7 +217,6 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -319,6 +321,7 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 analytics.logsss.com
@@ -391,7 +394,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -512,7 +514,6 @@ upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
-analytics.bachtuongphat.com
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -613,7 +614,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -748,7 +748,6 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
 barnesandnoble.bfast.com
@@ -1046,11 +1045,11 @@ evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
+exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
-expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
@@ -1135,6 +1134,7 @@ gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
+gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
@@ -1429,7 +1429,6 @@ littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
-llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1507,12 +1506,10 @@ mitaxsodwrfu.com
 mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
-mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
-moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1602,7 +1599,6 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
-ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1694,8 +1690,6 @@ pauewr4cw2xs5q.com
 paxzfenara.com
 pc2ads.com
 pefsustazvzgop.com
-penbouncingmagpie.com
-pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
@@ -1777,6 +1771,7 @@ ptuxapow.com
 ptygunjk.com
 pubaka5.com
 publicunloadbags.com
+pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -1948,6 +1943,7 @@ sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
+sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
@@ -2006,6 +2002,7 @@ subsequentstew.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
+suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
@@ -2027,6 +2024,7 @@ tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2150,7 +2148,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2239,7 +2236,6 @@ www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
 www.qcerujcajnme.com
-www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
@@ -2299,6 +2295,7 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
+zeepmedia.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
