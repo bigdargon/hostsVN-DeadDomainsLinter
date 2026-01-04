@@ -77,7 +77,6 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
-crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -119,6 +118,7 @@ zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
+cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
@@ -132,6 +132,7 @@ smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+aj1015.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -438,7 +439,6 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
-core.polyad.net
 cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
@@ -587,6 +587,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
+aaddzz.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
@@ -646,7 +647,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -672,7 +672,6 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
-ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -929,6 +928,7 @@ combitly.com
 commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
+compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
@@ -1032,7 +1032,6 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
-earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1305,7 +1304,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1407,6 +1405,7 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
+kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1416,7 +1415,6 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
-kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1456,7 +1454,6 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
-limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1594,6 +1591,7 @@ niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
+noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1897,7 +1895,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2118,7 +2115,6 @@ tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
-trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
@@ -2201,8 +2197,10 @@ volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
+vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
+vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
