@@ -10,9 +10,6 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
-a.ligatus.com
-directads.ligatus.com
-directads2.ligatus.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -139,7 +136,6 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
-www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 action-rtb.ibillboard.com
@@ -162,8 +158,6 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
-player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -175,7 +169,6 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
-eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -208,7 +201,6 @@ go.exrtbsrv.com
 syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
-c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -314,7 +306,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-perf.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -398,6 +389,7 @@ srv.daly2024.com
 track.daly2024.com
 core.polyad.net
 cp.polyad.net
+cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -490,6 +482,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
@@ -503,7 +496,6 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -763,6 +755,7 @@ berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
+bestlampjoy.com
 bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
@@ -850,7 +843,6 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
-chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
@@ -1003,7 +995,6 @@ egeemsob.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
-ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1357,6 +1348,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1377,7 +1369,6 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
-kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1397,7 +1388,6 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
-legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
@@ -1610,7 +1600,6 @@ onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
-oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1890,6 +1879,7 @@ rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
+rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -2220,6 +2210,7 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
+wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
@@ -2312,6 +2303,7 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
+metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
