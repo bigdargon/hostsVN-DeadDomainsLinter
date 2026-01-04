@@ -63,9 +63,11 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
+cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
+tracker.appadhoc.com
 www.appadhoc.com
 content.ad
 api.content.ad
@@ -275,7 +277,6 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 heatmap.it
@@ -351,10 +352,10 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+analytics.logsss.com
 logsss.com
 perf.logsss.com
 rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -405,7 +406,10 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
+ads.livetv671.me
+ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -543,7 +547,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -626,11 +629,13 @@ ads-to.click
 ads.aspalliance.com
 ads.bumq.com
 ads.clickdigisol.net
+ads.contactmusic.com
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -998,6 +1003,7 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
+dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1015,8 +1021,6 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
-doqjhxavpdf.com
-dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1055,6 +1059,7 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
+encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1102,6 +1107,7 @@ faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
+fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
@@ -1258,7 +1264,6 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
-hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1277,7 +1282,6 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
-hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1423,6 +1427,7 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
+kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1597,6 +1602,7 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
+numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1648,7 +1654,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1850,6 +1855,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
+qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1860,7 +1866,6 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
-raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1870,7 +1875,6 @@ rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
 rduaagcwsw.com
 realizeparish.com
-recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
@@ -1975,7 +1979,6 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
-sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
@@ -2121,7 +2124,6 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 tutnabqcyqky.com
-twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -2202,6 +2204,7 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
@@ -2246,6 +2249,8 @@ wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
+wiwoqcmp.com
+wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
@@ -2344,6 +2349,7 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 zy.eilaeliza.top
+a.zillastream.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
