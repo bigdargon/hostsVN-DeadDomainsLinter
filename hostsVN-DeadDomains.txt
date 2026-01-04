@@ -31,8 +31,6 @@ ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
-ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
@@ -136,6 +134,7 @@ infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
+www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 action-rtb.ibillboard.com
@@ -143,7 +142,6 @@ bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
-bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
@@ -158,6 +156,7 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -169,6 +168,7 @@ madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
+eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
@@ -201,6 +201,7 @@ go.exrtbsrv.com
 syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
+c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
@@ -340,7 +341,6 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -591,7 +591,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -788,7 +787,6 @@ broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
-btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
@@ -843,6 +841,7 @@ chlod-qui.com
 chokedsmelt.com
 chozarpeases.com
 chtsayil.com
+chulhawakened.com
 chullohagrode.com
 ciar-kep.com
 cifzuqopdpzi.com
@@ -995,6 +994,7 @@ egeemsob.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
+ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1199,7 +1199,6 @@ hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
-heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
 heratheacle.com
@@ -1236,7 +1235,6 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
-hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1269,7 +1267,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1369,6 +1366,7 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
+kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1388,6 +1386,7 @@ leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
+legitfizzed.shop
 leiki.com
 lephaush.net
 lessemujust.live
@@ -1600,6 +1599,7 @@ onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
+oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1824,7 +1824,6 @@ reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
-reinvigorate.net
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -2035,7 +2034,6 @@ tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
-tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
@@ -2233,7 +2231,6 @@ xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
-xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
