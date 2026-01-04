@@ -30,7 +30,6 @@ ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
-v.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -205,6 +204,7 @@ syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
+m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
@@ -275,7 +275,9 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asdpoi.com
 widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -345,6 +347,7 @@ u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -477,6 +480,7 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clipbongda.info
 clix.vn
 crocopop.com
 iads.vision
@@ -557,7 +561,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admagnet.net
@@ -568,7 +571,6 @@ adqkkoajnan.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
-ads.bumq.com
 ads.clickdigisol.net
 ads.contactmusic.com
 ads.crakmedia.com
@@ -630,7 +632,6 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
-ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
@@ -716,7 +717,6 @@ baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
-baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
@@ -757,6 +757,7 @@ bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
+bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
@@ -766,6 +767,7 @@ bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
+blibberon.xyz
 bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
@@ -866,7 +868,6 @@ coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
-colinsdemirep.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
@@ -1005,6 +1006,7 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
+endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -1013,11 +1015,9 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
-eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
-eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
@@ -1089,6 +1089,7 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
+fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1246,7 +1247,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1405,12 +1405,12 @@ linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
+lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
-loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1777,7 +1777,12 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
+qhfjamsmjyn.com
+qipshozipsah.com
 qj.asokapygmoid.com
+qjwglnuwqvr.com
+qkcgorbrs.com
+qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1805,6 +1810,7 @@ rapepush.net
 raphanysteers.com
 raunoaptotoaw.com
 razzedwhimsic.website
+rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
@@ -1867,6 +1873,7 @@ rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 ru-traffic.com
+ruckingefs.com
 rukktiswibi.com
 rutpunishsnitch.com
 ruwertur.com
