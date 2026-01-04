@@ -31,6 +31,9 @@ ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
 api.zcoup.com
@@ -295,6 +298,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
@@ -361,7 +365,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
@@ -411,7 +414,6 @@ wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
 hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
@@ -482,7 +484,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
@@ -512,8 +513,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 228tuchuang.com
 2433march2024.com
 2435march2024.com
-2437march2024.com
-2439march2024.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
@@ -591,6 +590,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -705,6 +705,8 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
+axkwmsivme.com
+axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
 b5e75c56.com
@@ -825,6 +827,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -871,6 +874,7 @@ commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
+compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -900,7 +904,6 @@ cussersimmure.click
 cutepopcorn.com
 cuxdiqagcl.com
 cvvczlcg.com
-cycledaction.com
 cyjprljyvgqeg.com
 cynes-gwf.com
 d.appsdt.com
@@ -1094,7 +1097,6 @@ futsonseeke.net
 futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
-fvchjvaiisuxrpb.com
 fwilmdact.com
 fyljifajkqe.com
 fziwzaalp.com
@@ -1133,7 +1135,6 @@ go.onclasrv.com
 go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
-goodnotification.net
 goohimom.net
 gossishauphy.com
 gouthoat.com
@@ -1245,7 +1246,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1388,7 +1388,6 @@ leestoptee.com
 leetmenllew.com
 legitfizzed.shop
 leiki.com
-lephaush.net
 lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
@@ -1556,7 +1555,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1596,7 +1594,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1793,6 +1790,7 @@ qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
+quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
@@ -1855,6 +1853,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1893,7 +1892,6 @@ scatteredhecheaper.com
 scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
-seaboblit.com
 seataverna.rest
 secondquaver.com
 seeablywitness.com
@@ -1982,6 +1980,7 @@ subheroalgores.com
 subsequentstew.com
 suddenvampire.com
 sujjkoshod.com
+sunnycategoryopening.com
 suppliedhopelesspredestination.com
 supportiverarity.com
 surtaultathoado.com
@@ -2051,7 +2050,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
-trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
