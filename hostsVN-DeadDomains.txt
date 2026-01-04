@@ -277,6 +277,7 @@ serve.mondiad.net
 c.netund.com
 netund.com
 cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
 www.bitmedianetwork.com
 www.mobile-10.com
 heatmap.it
@@ -356,6 +357,7 @@ analytics.logsss.com
 logsss.com
 perf.logsss.com
 rum.logsss.com
+s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -376,9 +378,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
@@ -406,10 +405,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv644.me
 ads.livetv664.me
-ads.livetv671.me
-ads.livetv683.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -424,7 +420,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -779,7 +774,6 @@ baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.coza.com
-banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -982,7 +976,6 @@ daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
-decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
@@ -993,7 +986,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloplen.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -1021,6 +1013,8 @@ doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
+doqjhxavpdf.com
+dorkingvoust.com
 doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
@@ -1264,6 +1258,7 @@ heratheacle.com
 heukpiroot.com
 hewokhn.com
 hgub2polye.com
+hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
@@ -1282,6 +1277,7 @@ hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
+hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
@@ -1304,6 +1300,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1427,7 +1424,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzuocxorfo.com
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1464,7 +1460,6 @@ littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
-llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
@@ -1559,7 +1554,6 @@ mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
-mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
@@ -1855,7 +1849,6 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1866,6 +1859,7 @@ qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
 rapepush.net
+raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
@@ -1875,6 +1869,7 @@ rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
 rduaagcwsw.com
 realizeparish.com
+recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
@@ -1902,7 +1897,6 @@ riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
-rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
@@ -1959,7 +1953,6 @@ seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
-serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
@@ -1979,6 +1972,7 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
+sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
@@ -1988,7 +1982,6 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
-slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -2018,7 +2011,6 @@ spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
@@ -2124,6 +2116,7 @@ tufoknaqzolp.com
 tumblebit.org
 tunnedlehua.com
 tutnabqcyqky.com
+twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
@@ -2261,7 +2254,6 @@ wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
-woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
@@ -2294,8 +2286,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
-xsaheqapygdykxq.com
 xtuokkzro.com
 xumamropnox.com
 xwdoxgilvdbj.com
