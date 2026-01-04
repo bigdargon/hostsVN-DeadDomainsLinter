@@ -119,7 +119,6 @@ zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
-cdn2.specificmedia.com
 cdn3.specificmedia.com
 leads2.specificmedia.com
 redirect-ash.specificmedia.com
@@ -133,7 +132,6 @@ smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-aj1015.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -348,6 +346,7 @@ ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
 ak.hetaint.com
+ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
@@ -465,6 +464,8 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -540,6 +541,8 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
+analytics.amedigital.vn
+analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
@@ -870,7 +873,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -927,7 +929,6 @@ combitly.com
 commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
-compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
@@ -1070,6 +1071,8 @@ eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
+eringosdye.com
+erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
@@ -1153,6 +1156,7 @@ futuristicfairies.com
 fuwalrnce.com
 fvchjvaiisuxrpb.com
 fwilmdact.com
+fyljifajkqe.com
 fziwzaalp.com
 ga-ads.com
 gabanxaq.com
@@ -1403,7 +1407,6 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1591,7 +1594,6 @@ niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
-noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1895,6 +1897,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2157,6 +2160,7 @@ upset-project.com
 upspinarakor.com
 uqkcroib.com
 urechar.com
+urigagxnji.com
 uruswan.com
 userresewn.com
 ushoofop.com
@@ -2197,10 +2201,8 @@ volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
 vounaipu.net
-vpldfujttsdfj.com
 vqhlhfjmvcvxw.com
 vrancaozgdw.com
-vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
 vtvldhbbdilepes.com
@@ -2252,6 +2254,7 @@ wiwoqcmp.com
 wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
+wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
