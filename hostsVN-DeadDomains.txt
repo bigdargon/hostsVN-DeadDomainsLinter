@@ -75,7 +75,6 @@ app.content.ad
 media.content.ad
 partners.content.ad
 rest.content.ad
-www.content.ad
 hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -286,6 +285,7 @@ www.heatmap.it
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
+syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -545,7 +545,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -604,6 +603,7 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
+ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
@@ -647,12 +647,10 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -720,12 +718,12 @@ apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
 appads.com
-apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
+arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
@@ -828,7 +826,6 @@ bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
-boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -1070,7 +1067,6 @@ enoratraffic.com
 enrichyummy.com
 entertainingeyes.com
 eodufofs.com
-eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
 eqwzfnbjbkz.com
@@ -1203,7 +1199,6 @@ gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
-gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
@@ -1248,6 +1243,7 @@ harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
+hayforkminbu.com
 hazaraspekt.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
@@ -1404,6 +1400,8 @@ kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
+kiltcusks.shop
+kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -1447,6 +1445,7 @@ leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
+lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1495,7 +1494,6 @@ lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
@@ -1609,7 +1607,6 @@ nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
-nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
@@ -1783,6 +1780,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pq8ithtdw.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -2098,6 +2096,7 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
+toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2146,7 +2145,6 @@ undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
-unstoutgolfs.com
 unthem.com
 untrendenam.com
 unylgxxmrsbb.com
@@ -2183,7 +2181,6 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
-vfurwydryli.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2227,6 +2224,7 @@ wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
+wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -2235,6 +2233,7 @@ whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
 whoonseepoutche.net
+whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
