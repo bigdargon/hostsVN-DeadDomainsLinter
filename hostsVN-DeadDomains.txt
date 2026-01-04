@@ -11,20 +11,8 @@ px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
-analysis.ligatus.com
-analysis1.ligatus.com
-analysis2.ligatus.com
-a-ssl.ligatus.com
-d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
-e.ligatus.com
-i.ligatus.com
-ligatus.com
-reporting.ligatus.com
-self-booking.ligatus.com
-ssl.ligatus.com
-www.ligatus.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -77,6 +65,7 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
+crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -117,11 +106,6 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
-cache.specificmedia.com
-cdn2.specificmedia.com
-cdn3.specificmedia.com
-leads2.specificmedia.com
-redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -179,20 +163,12 @@ s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-ads.152media.com
-mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
 r.ivstracker.net
-admarvel.com
-automator.admarvel.com
-base-cdn.admarvel.com
-cdn.admarvel.com
-map.admarvel.com
-omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -230,22 +206,8 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
-adrevenueindex.optad360.com
-api.optad360.com
-apipublisher.optad360.com
-publisher.optad360.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -352,11 +314,7 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.logsss.com
-logsss.com
 perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -385,7 +343,6 @@ www.adclerks.com
 pixel.inforsea.com
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -439,8 +396,8 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+core.polyad.net
 cp.polyad.net
-cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
 dt.polyad.net
@@ -533,7 +490,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
@@ -551,13 +507,11 @@ log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
-newlog.tapchitaichinh.vn
 stats.osd.vn
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
-traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -587,7 +541,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
-aaddzz.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
@@ -622,7 +575,6 @@ adplus.co.id
 adprotected.com
 adqkkoajnan.com
 adreclaim.com
-adrevolver.com
 ads-to.click
 ads.aspalliance.com
 ads.bumq.com
@@ -647,6 +599,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -672,6 +625,7 @@ agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
+ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
@@ -809,7 +763,6 @@ berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
-bestlampjoy.com
 bestzba.com
 betmagnezonea.com
 bezzzxoscu.com
@@ -1032,6 +985,7 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
+earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1089,7 +1043,6 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
-eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 faciendtabour.shop
@@ -1304,6 +1257,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1403,7 +1357,6 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
-kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1411,10 +1364,12 @@ klkchits.com
 klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
+koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1454,6 +1409,7 @@ liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
+limurol.com
 linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
@@ -1863,7 +1819,6 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
-rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1935,7 +1890,6 @@ rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
-rwturquxinm.com
 rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
@@ -2013,7 +1967,6 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
-spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -2115,6 +2068,7 @@ tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
+trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
@@ -2266,7 +2220,6 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
-wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
@@ -2359,7 +2312,6 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
-metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
