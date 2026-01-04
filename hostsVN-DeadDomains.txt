@@ -62,6 +62,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 content.ad
 api.content.ad
 app.content.ad
@@ -121,6 +128,8 @@ adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 metrics.linkshare.com
+reporting.linkshare.com
+smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -188,7 +197,23 @@ omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
+analytics.proper.io
+api.proper.io
+bids.proper.io
+eb.proper.io
+events.proper.io
+global.proper.io
+monitoring.proper.io
+s2s.proper.io
 capi.bidtellect.com
+api.publift.com
+cdn.publift.com
+hb.publift.com
+npm.publift.com
+prebid.publift.com
+showroom2.publift.com
+tools.publift.com
+wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -254,13 +279,13 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -409,6 +434,7 @@ ss15.litvp.com
 ss29.litvp.com
 aff-online.com
 aff-track.net
+mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -519,12 +545,16 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
+log.tapchitaichinh.vn
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
+newlog.tapchitaichinh.vn
+stats.osd.vn
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
@@ -552,6 +582,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
+3in6ko.com
 4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
@@ -573,7 +604,6 @@ aclickads.com
 acpolxakcl.com
 ad-miner.com
 ad-spb.ru
-ad.abctv.com
 ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
@@ -622,6 +652,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -695,7 +726,6 @@ apusx.com
 apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
-arcobsarrod.com
 areamindless.com
 aries-nbl.com
 arleavannya.com
@@ -798,6 +828,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -827,6 +858,7 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
+c.cdn-server.top
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
@@ -875,6 +907,7 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
+civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
@@ -1017,7 +1050,6 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
-egraglauvoathog.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
@@ -1216,7 +1248,6 @@ harib-eir.info
 hasalmarvt.com
 hasanjbam.com
 haufeechaukept.com
-hayforkminbu.com
 hazaraspekt.com
 hbntxrwmvf.com
 hbwncbwgyvgt.com
@@ -1279,7 +1310,6 @@ hz.methylstewed.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
-ichachoakiglop.com
 ichdpdbpv.com
 idyllteapots.com
 ii.decastebonise.com
@@ -1374,8 +1404,6 @@ kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
-kiltcusks.shop
-kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
@@ -1419,7 +1447,6 @@ leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
-lessemujust.live
 lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
@@ -1601,6 +1628,7 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
+ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1633,7 +1661,9 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
+opntwymri.com
 opsivesh.net
+optimost.com
 opxaxqxaqo.com
 opzoxvxut.com
 oqdavkguftan.com
@@ -1673,6 +1703,7 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
+ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 ozbkfuhpuolf.com
@@ -1695,6 +1726,7 @@ pasjcutadak.com
 patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
+paypopup.com
 pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
@@ -2005,6 +2037,7 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
+stunninglover.com
 subheroalgores.com
 subsequentstew.com
 suddenvampire.com
@@ -2065,7 +2098,6 @@ tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
-toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2151,6 +2183,7 @@ velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
+vfurwydryli.com
 viewlnk.com
 viewyentreat.guru
 vikawjobtar.com
@@ -2187,13 +2220,13 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
+wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
 wcuamsmakq.com
 webpower.com
-wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
@@ -2202,7 +2235,6 @@ whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
 whoonseepoutche.net
-whoostoo.net
 whowhipi.net
 whugesto.net
 whuwoawain.com
@@ -2300,6 +2332,7 @@ ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
 yummiergangue.shop
 yzqjaltdhlv.com
+zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -2316,11 +2349,13 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 zy.eilaeliza.top
+a.zillastream.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 dolohen.com
+e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
