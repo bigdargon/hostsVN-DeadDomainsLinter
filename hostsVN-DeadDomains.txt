@@ -63,11 +63,9 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 appadhoc.com
-cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
-tracker.appadhoc.com
 www.appadhoc.com
 content.ad
 api.content.ad
@@ -93,6 +91,7 @@ static.upsight.com
 upsight.com
 www.upsight.com
 ad.kau.li
+analytics.kau.li
 click.kau.li
 clk.kau.li
 js.kau.li
@@ -352,7 +351,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.logsss.com
 logsss.com
 perf.logsss.com
 rum.logsss.com
@@ -539,13 +537,13 @@ motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
-ttus.tructiepbongda.me
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -573,12 +571,14 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2447march2024.com
 2451march2024.com
 2471april2024.com
+2473april2024.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
+3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 3in6ko.com
 4d5.net
@@ -626,13 +626,11 @@ ads-to.click
 ads.aspalliance.com
 ads.bumq.com
 ads.clickdigisol.net
-ads.contactmusic.com
 ads.crakmedia.com
 ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -646,7 +644,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1001,7 +998,6 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
-dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1051,6 +1047,7 @@ egeemsob.com
 ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
+ejwpnkvnchjmxw.com
 ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
@@ -1058,7 +1055,6 @@ ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
-encloselavanga.com
 encodehelped.com
 encounterboastful.com
 endoverphageda.cfd
@@ -1106,7 +1102,6 @@ faukeeshie.com
 fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
-fdqrfiwkaeds.com
 febadu.com
 fedapush.net
 feed-xml.com
@@ -1224,11 +1219,13 @@ gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
+gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
@@ -1281,6 +1278,7 @@ hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
 hoowooze.net
+houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
@@ -1302,7 +1300,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1600,7 +1597,6 @@ nqcgdvuuyxwj.com
 nqucjilr.com
 nrknstdms.com
 nudgehydrogen.com
-numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
 nvcrcf.com
@@ -1652,6 +1648,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1917,6 +1914,7 @@ rodejessie.com
 romauntmirker.com
 romepoptahul.com
 roofprison.com
+rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -2204,7 +2202,6 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
-vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
@@ -2249,8 +2246,6 @@ wishedverde.com
 wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
-wiwoqcmp.com
-wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
@@ -2349,7 +2344,6 @@ zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
 zy.eilaeliza.top
-a.zillastream.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
@@ -2366,6 +2360,7 @@ poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
+showbiz.owndata.network
 tdf.ringier.ch
 track.hydro.online
 track.lexico.com
