@@ -205,7 +205,6 @@ syndication.exrtbsrv.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
-m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
@@ -276,9 +275,7 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-asdpoi.com
 widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -348,7 +345,6 @@ u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -481,7 +477,6 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
-clipbongda.info
 clix.vn
 crocopop.com
 iads.vision
@@ -595,6 +590,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -761,7 +757,6 @@ bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
-bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
 bibulustartane.guru
@@ -1010,7 +1005,6 @@ emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
-endoverphageda.cfd
 enduresopens.com
 enoratraffic.com
 enrichyummy.com
@@ -1095,7 +1089,6 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1185,6 +1178,7 @@ gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
+hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
@@ -1411,7 +1405,6 @@ linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
-lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
@@ -1725,6 +1718,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1783,12 +1777,7 @@ qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
 qfeadpmagq.com
-qhfjamsmjyn.com
-qipshozipsah.com
 qj.asokapygmoid.com
-qjwglnuwqvr.com
-qkcgorbrs.com
-qlpenuxctkhwv.com
 qmccocotadcab.com
 qmixnhyxc.com
 qojrlxsbxvfqqx.com
@@ -1816,7 +1805,6 @@ rapepush.net
 raphanysteers.com
 raunoaptotoaw.com
 razzedwhimsic.website
-rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
@@ -1879,7 +1867,6 @@ rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 ru-traffic.com
-ruckingefs.com
 rukktiswibi.com
 rutpunishsnitch.com
 ruwertur.com
@@ -2191,7 +2178,6 @@ wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
-wiltiqkc.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
