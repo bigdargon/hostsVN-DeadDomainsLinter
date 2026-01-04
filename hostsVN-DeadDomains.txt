@@ -50,6 +50,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -119,6 +120,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+metrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -407,7 +409,6 @@ ss15.litvp.com
 ss29.litvp.com
 aff-online.com
 aff-track.net
-mntzrlt.net
 daly2024.com
 media.daly2024.com
 srv.daly2024.com
@@ -551,7 +552,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
-3in6ko.com
 4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
@@ -693,6 +693,7 @@ apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
+apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
@@ -877,6 +878,7 @@ circularnothing.com
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1000,6 +1002,7 @@ duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
+earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
@@ -1016,6 +1019,7 @@ efyglwbapki.com
 egeemsob.com
 egraglauvoathog.com
 ehiibetu.com
+ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
@@ -1351,6 +1355,7 @@ junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
 jxkqgoicxthrb.com
+jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
 kalwundked.com
@@ -1485,6 +1490,7 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1527,6 +1533,7 @@ munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
 my.heloninremake.shop
+mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
@@ -1594,7 +1601,6 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
-ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1627,9 +1633,7 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
-opntwymri.com
 opsivesh.net
-optimost.com
 opxaxqxaqo.com
 opzoxvxut.com
 oqdavkguftan.com
@@ -1669,7 +1673,6 @@ owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
 owxqunparw.com
-ox4h1dk85.com
 oxldadxib.com
 oxthrilled.com
 ozbkfuhpuolf.com
@@ -1922,6 +1925,7 @@ seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
+sendmepixel.com
 seo4india.com
 serconmp.com
 sermonoccupied.com
@@ -1951,6 +1955,7 @@ sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
+sljtqfcyi.com
 slockertummies.com
 slopeaota.com
 slopingunrein.com
@@ -2000,7 +2005,6 @@ stoopfalse.com
 stoorgel.com
 stormyachiever.com
 streakattempt.com
-stunninglover.com
 subheroalgores.com
 subsequentstew.com
 suddenvampire.com
@@ -2101,6 +2105,7 @@ ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
+ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
@@ -2182,7 +2187,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
-wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2221,6 +2225,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
@@ -2295,7 +2300,6 @@ ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
