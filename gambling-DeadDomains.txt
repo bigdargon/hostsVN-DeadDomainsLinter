@@ -28,6 +28,7 @@
 002365i.com
 0024n.com
 0027n.com
+0027s.com
 0028n.com
 002d88.com
 0030n.com
@@ -96,7 +97,6 @@
 0081004.com
 0081v.com
 0082v.com
-0082x.com
 0084v.com
 00882007.com
 0088n.com
@@ -440,6 +440,10 @@
 045390.com
 046390.com
 0464073.com
+<<<<<<< Updated upstream
+=======
+0465n.com
+>>>>>>> Stashed changes
 0465r.com
 0466p.com
 04712k.com
@@ -744,6 +748,7 @@
 08873.net
 0887v.com
 0889x.com
+088yb.com
 0891k365.com
 0891saibo.com
 089249.com
@@ -1539,10 +1544,12 @@
 127bi.com
 127hgv.com
 128145.com
+128167.com
 1281n.com
 1281t.com
 128222.net
 12828.vip
+128292.com
 1282n.com
 1282t.com
 128325.com
@@ -1897,7 +1904,6 @@
 1519hhh.com
 1519iii.com
 1519jjj.com
-1519kkk.com
 1519lll.com
 1519mmm.com
 1519n.com
@@ -4621,6 +4627,7 @@
 28882v.com
 28883v.com
 2888818.com
+288949.com
 288jsjs.com
 2891n.com
 2891t.com
@@ -7651,6 +7658,7 @@
 4569v.com
 456betpay.com
 456kxm.com
+456win.club
 45719999.com
 4572x.com
 457390.com
@@ -8019,6 +8027,7 @@
 485525.com
 4855n.com
 4855s.com
+<<<<<<< Updated upstream
 4858ff.com
 4858i.com
 4858lll.com
@@ -8030,6 +8039,18 @@
 4858q.com
 4858qqq.com
 4858u.com
+=======
+4858e.com
+4858ii.com
+4858kkk.com
+4858l.com
+4858n.com
+4858p.com
+4858ppp.com
+4858qqq.com
+4858sss.com
+4858w.com
+>>>>>>> Stashed changes
 4862x.com
 4864t.com
 4866s.com
@@ -10923,6 +10944,7 @@
 6686vn-6.vip
 6686vn.biz
 6686vn.win
+6686vn2.tv
 6686vn34.com
 6686vn35.com
 6686vn36.com
@@ -12918,6 +12940,7 @@
 77366.biz
 7736h.com
 7736ky.com
+7736t.com
 7738n.com
 7738yb.com
 7741w.com
@@ -13585,7 +13608,6 @@
 8044t.com
 8046057.com
 8047t.com
-805.ee
 8051d.com
 8053t.com
 805yb.com
@@ -14253,7 +14275,6 @@
 8341x.com
 834390.com
 8344t.com
-835.ee
 8350x.com
 8351j.com
 8352s.com
@@ -14677,7 +14698,10 @@
 8667p.com
 8667s.com
 866813.com
+<<<<<<< Updated upstream
 866827.com
+=======
+>>>>>>> Stashed changes
 866895.com
 866897.com
 8669h.com
@@ -15036,7 +15060,6 @@
 87hthg.com
 87yabo.com
 8800002.com
-880036.com
 88004vip.com
 8801n.com
 8801v.com
@@ -15319,7 +15342,6 @@
 8888956.com
 8888d88.com
 88891.biz
-8889368.com
 888971.net
 888972.vip
 8889bet365.com
@@ -15636,7 +15658,6 @@
 8jbet44.com
 8k235sj.top
 8k3453y.buzz
-8k371sj.top
 8k5m.com
 8k8.2404mtg06.top
 8k843sj.top
@@ -16382,7 +16403,6 @@
 9506x.com
 9507t.com
 9507x.com
-951.ee
 9511h.com
 951203.com
 9512x.com
@@ -17103,7 +17123,6 @@ ad.gem88.win
 ad.giaitriwin79.club
 ad.go88ads.top
 ad.hitgame.in
-ad.mibet.com
 ad.pagedebet.org
 ad.qc789.vip
 ad.taigamengay.digital
@@ -17135,14 +17154,12 @@ aekkawit12.vip
 aesv388.com
 aewin88.com
 af0621.com
-aff-online.com
 aff-register.smart-complex.live
 aff.188f1play.com
 aff.bk8vietnam.com
 aff.c86118423.com
 affiliate.fb88.com
 affiliate.happynb.com
-affiliate.ms3388.com
 affiliate.vn88hn.live
 affiliates-365.com
 affiliates.cyber.bet
@@ -17224,6 +17241,7 @@ amkxm2.com
 amkxm3.com
 amp-slots.com
 amtiyu.com
+amwl2.com
 amx188.com
 amzonmytvamzon.com
 anan6532.vip
@@ -17331,12 +17349,10 @@ api.880ae888.com
 api.881ae888.com
 api.882ae888.com
 api.883ae888.com
-api.884ae888.com
 api.887ae888.com
 api.888ae888.com
 api.88new.cc
 api.ae888sports02.com
-api.az888ai.com
 api.betlv.com
 api.ddhc.club
 api.degame88.com
@@ -17685,6 +17701,7 @@ b2891.com
 b2898.com
 b28w.com
 b29.cafe
+b2933.com
 b2c3d4.fun
 b3178.com
 b3187.com
@@ -19391,7 +19408,6 @@ ckjili01.com
 ckjili07.com
 ckjili08.com
 ckw204.com
-click.mibet.com
 clothmap.co
 cls51.com
 club1187fun.com
@@ -21951,6 +21967,7 @@ ibway86.com
 ibway88.com
 ibway98.com
 ichadoh55.vip
+idabet.com
 idclub1721737.com
 iddemo1.com
 iddemonstration.com
@@ -22663,6 +22680,7 @@ k8cc.city
 k8cc.life
 k8cc.ltd
 k8cc.plus
+k8cc.today
 k8ccbanca.com
 k8ccnohu.com
 k8city.com
@@ -23558,7 +23576,6 @@ m.6tt4704.com
 m.6tt6220.com
 m.6tt8017.com
 m.6tt8795.com
-m.8live.com
 m.998877.co
 m.aabbll.cc
 m.bong99.live
@@ -23602,7 +23619,6 @@ m.ole76.com
 m.ole777vietnam.com
 m.oleviet777.com
 m.s26.lol
-m.tinbongdaw88.com
 m.twin188.co
 m.v99win.app
 m.vn88hn.live
@@ -24544,6 +24560,11 @@ p8169.com
 p8580.com
 p8669.com
 p8678.com
+<<<<<<< Updated upstream
+=======
+p8711.com
+p8722.com
+>>>>>>> Stashed changes
 p8833.com
 p8883.com
 p8884.com
@@ -25104,6 +25125,10 @@ q034034.com
 q1496688.com
 q15572917796.com
 q1663.com
+<<<<<<< Updated upstream
+=======
+q1800.com
+>>>>>>> Stashed changes
 q1886.com
 q188xj.com
 q1991.com
@@ -25846,7 +25871,6 @@ shb8877.com
 shb9955.com
 shb9966.com
 shb9977.com
-shbet.live
 shbet.me
 shbet0.ceo
 shbet0.ec
@@ -27889,8 +27913,6 @@ wonder96.com
 worldcupbw.com
 wosmg.com
 wp.choigiaitri.net
-wp.red88.us
-wp.red88.vin
 wp.sky88.fun
 wq202.com
 wq212.com
@@ -29706,7 +29728,6 @@ zf7799.com
 zf886.com
 zf9988.com
 zfb23023.com
-zfgj4.win
 zfgj888.club
 zfgj888.com
 zfgj888.net
