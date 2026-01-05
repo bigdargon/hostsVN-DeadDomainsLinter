@@ -13,7 +13,6 @@ m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
-client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
@@ -312,6 +311,7 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
@@ -348,6 +348,7 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
+appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -396,7 +397,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
@@ -447,7 +447,6 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
-st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -666,6 +665,7 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
+agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -907,6 +907,7 @@ cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
+civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
@@ -1032,6 +1033,7 @@ dsp.io
 ductathing.com
 duimspruer.life
 dumkcuakrlka.com
+duzcujquzl.com
 dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
@@ -1128,6 +1130,7 @@ filgzukroj.com
 finahkcrevuv.com
 fingahvf.top
 firmzecutci.com
+fistofzeus.com
 fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
@@ -1172,12 +1175,14 @@ galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
+gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
 gimxukhmcrbl.com
 gishejuy.com
+gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1251,6 +1256,7 @@ hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1304,6 +1310,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1436,7 +1443,9 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
+laughedaffront.com
 lauloajaiph.net
+lbmqciazrpm.com
 leadbolt.net
 leadingedgecash.com
 lecapush.net
@@ -1517,7 +1526,6 @@ mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1994,6 +2002,7 @@ slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
+smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
@@ -2085,6 +2094,7 @@ thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
+thor-pom.com
 thougnoangi.com
 thoungoofeed.net
 thounookra.com
@@ -2101,6 +2111,8 @@ tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
+tooglidanog.net
+tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
@@ -2126,6 +2138,7 @@ tunnedlehua.com
 tutnabqcyqky.com
 twazzyoidwlfe.com
 tygsqtkyiwxb.com
+typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
 tzwtzygxslrk.com
@@ -2157,6 +2170,8 @@ upset-project.com
 upspinarakor.com
 uqkcroib.com
 urechar.com
+urigagxnji.com
+uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2177,6 +2192,7 @@ ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
+venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
@@ -2214,7 +2230,6 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
-warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
