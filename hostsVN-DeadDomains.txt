@@ -1,4 +1,3 @@
-googleads-cn.com
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -64,12 +63,14 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
 cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
+content.ad
 api.content.ad
 app.content.ad
 media.content.ad
@@ -94,7 +95,6 @@ upsight.com
 www.upsight.com
 ad.kau.li
 analytics.kau.li
-click.kau.li
 clk.kau.li
 js.kau.li
 pixel.kau.li
@@ -271,6 +271,7 @@ tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
 exelatesync.extend.tv
+sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -331,6 +332,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+network.adclickmedia.com
 tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
@@ -570,7 +572,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2510june2024.com
 2512june2024.com
 2522june2024.com
-29vpnmv4q.com
 2llmonds4ehcr93nb.com
 2ucz3ymr1.com
 3a2qi55fr.com
@@ -630,7 +631,6 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -695,7 +695,6 @@ all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
-aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -759,7 +758,6 @@ awvracajcsu.com
 awwagqorqpty.com
 axiabanners.exodus.gr
 axiomaticalley.com
-axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
@@ -812,6 +810,7 @@ beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
+betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
@@ -953,7 +952,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1062,7 +1060,6 @@ ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
 emhnyqdeuwtnrh.com
-emsi.livetwo.store
 encloselavanga.com
 encodehelped.com
 encounterboastful.com
@@ -1375,7 +1372,6 @@ jmrnews.pro
 jncdvibhdaddmu.com
 joglomsexurgod.net
 jollytestpartying.com
-jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -1439,6 +1435,7 @@ kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
+lakequincy.com
 lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
@@ -1562,7 +1559,6 @@ mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
-msvobeuhec.com
 mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
@@ -1602,7 +1598,6 @@ nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
-nomorepecans.com
 noowhaumurauy.net
 notifyerr.com
 nowheresank.com
@@ -1656,12 +1651,14 @@ olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
 olxxugltoku.com
+olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1765,7 +1762,6 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
-pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1824,7 +1820,6 @@ publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
-purgavax.com
 pushanishe.com
 pushazer.com
 pushlum.com
@@ -1905,6 +1900,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+ringedtusher.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1925,7 +1921,6 @@ rodejessie.com
 romauntmirker.com
 romepoptahul.com
 roofprison.com
-rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
@@ -2317,9 +2312,6 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
-yealnk.com
-yeljusxttq.com
 yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
