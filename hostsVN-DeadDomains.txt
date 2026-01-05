@@ -25,6 +25,7 @@ ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
+aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
@@ -226,7 +227,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -381,6 +381,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -626,6 +627,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -670,6 +672,7 @@ altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -693,7 +696,6 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
-areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -852,6 +854,7 @@ ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
+charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
 chelonebarpost.com
@@ -913,7 +916,6 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
-cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
@@ -1083,6 +1085,7 @@ feed-xml.com
 feedyourtralala.com
 feegritoapoo.com
 feenyrpxyps.com
+fer2oxheou4nd.com
 ffuoqgdhiqu.com
 fhkfdgwtzueans.com
 fidokhffekm.com
@@ -1135,6 +1138,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1154,6 +1158,7 @@ glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
+glugherg.net
 gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
@@ -1238,7 +1243,6 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
-hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
@@ -1480,6 +1484,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1526,6 +1531,7 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
+mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
@@ -1632,6 +1638,7 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
+openmarket.com
 opntwymri.com
 opsivesh.net
 optimost.com
@@ -1962,6 +1969,7 @@ slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
 slopeaota.com
+slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
@@ -2024,6 +2032,7 @@ sweetiesurveys.com
 swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
+syyycc.com
 szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
@@ -2074,6 +2083,7 @@ tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
+total-fee.com
 toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
@@ -2081,7 +2091,6 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
-trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
@@ -2139,7 +2148,6 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
-valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
@@ -2200,7 +2208,6 @@ wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
-wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
