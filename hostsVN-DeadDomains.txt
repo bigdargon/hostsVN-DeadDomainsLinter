@@ -227,6 +227,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -262,7 +263,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -329,7 +329,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -439,7 +438,6 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
-hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
@@ -616,7 +614,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -696,6 +693,7 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
+areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -878,7 +876,6 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
-claroadsclick.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
@@ -916,11 +913,13 @@ corrumpsublid.top
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
+cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1095,6 +1094,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1243,6 +1243,7 @@ hilltopads.net
 hiqbejpsiyymatl.com
 hitexchange.net
 hitopadxdz.xyz
+hivaqfofkche.com
 hjbtunmh.com
 hkilops.com
 hmazuxhikosj.com
@@ -1331,7 +1332,6 @@ jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
-jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1412,8 +1412,6 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadbolt.net
-leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1440,7 +1438,6 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
-locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
@@ -1547,7 +1544,6 @@ namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
-nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
@@ -1613,7 +1609,6 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
-ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1638,7 +1633,6 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
-openmarket.com
 opntwymri.com
 opsivesh.net
 optimost.com
@@ -2091,6 +2085,7 @@ tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
+trendcounter.com
 tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
@@ -2148,6 +2143,7 @@ uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
+valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
@@ -2208,6 +2204,7 @@ wedxuaksargvlf.com
 weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
+wheensamufouk.net
 whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
