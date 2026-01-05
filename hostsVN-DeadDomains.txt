@@ -1,4 +1,3 @@
-googleads-cn.com
 blueserving.com
 ads.mobclix.com
 swift.lifestreet.com
@@ -150,7 +149,6 @@ premium-adserver.djaxadserver.com
 bkrtx.com
 tags.bkrtx.com
 www.bkrtx.com
-action-rtb.ibillboard.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
@@ -312,6 +310,7 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
+stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -555,6 +554,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
+52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -615,6 +615,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -625,7 +626,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -776,7 +776,6 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
-berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
@@ -944,6 +943,7 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
+dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
@@ -1087,6 +1087,7 @@ feegritoapoo.com
 feenyrpxyps.com
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
+fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
@@ -1094,7 +1095,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1199,10 +1199,13 @@ guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
+guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
+gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
+gyfumobo.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1275,7 +1278,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1320,6 +1322,7 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
+jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
@@ -1335,6 +1338,7 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
+jnrtavp2x66u.com
 joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
@@ -1687,6 +1691,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1818,7 +1823,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
-qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
@@ -2029,6 +2033,9 @@ sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
+taaqhr6axacd2um.com
+tabookbusines.info
+tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
@@ -2055,6 +2062,7 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thor-pom.com
+thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
@@ -2120,6 +2128,7 @@ unreshiramor.com
 unstoutgolfs.com
 unthem.com
 untrendenam.com
+unusuallypilgrim.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -2135,6 +2144,7 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
+uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2306,6 +2316,7 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
+zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
