@@ -107,7 +107,6 @@ native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
-spf2.advergine.com
 spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
@@ -215,9 +214,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 m.optvx.com
-main.optvx.com
 optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -301,6 +298,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -342,6 +340,8 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+admix.in
+geoip5m1y07.admix.in
 ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
@@ -405,7 +405,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -458,6 +457,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -613,7 +613,6 @@ adkchtmtns.com
 adlite.net
 admagnet.net
 admedia.network
-adplus.co.id
 adprotected.com
 adqkkoajnan.com
 adreclaim.com
@@ -643,7 +642,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -809,7 +807,6 @@ beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -856,7 +853,6 @@ burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
-bzwo2lmwioxa.com
 bzydilasq.com
 c.cdn-server.top
 c44wergiu87heghoconutdx.com
@@ -993,7 +989,6 @@ defensive-living.com
 defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
-deligrassdull.com
 deliriamorula.shop
 deloplen.com
 demo123.info
@@ -1005,6 +1000,7 @@ desertsfraze.com
 despicablereporthusband.com
 destisheem.com
 dfyvcihusajf.com
+dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
@@ -1096,6 +1092,7 @@ exxohwvxupjv.com
 eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1144,7 +1141,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
@@ -1308,6 +1304,8 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
+iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichdpdbpv.com
@@ -1317,6 +1315,7 @@ iiqbttkbfvgyo.com
 ikengoti.com
 ikilrategroahe.com
 ilbanner.com
+illegal-respond.pro
 imageshh.com
 imarketservices.com
 imfvggmqrltbp.com
@@ -1429,6 +1428,7 @@ kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
+kyrialbeknots.digital
 kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
@@ -1454,6 +1454,7 @@ libedgolart.com
 lidosquey.shop
 lifpv.com
 liftdna.com
+ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
@@ -1544,6 +1545,7 @@ mkysuerau.com
 mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
+mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
@@ -1959,6 +1961,7 @@ seaboblit.com
 seataverna.rest
 secondquaver.com
 seeablywitness.com
+seemoovojezy.net
 sendmepixel.com
 seo4india.com
 serconmp.com
@@ -2209,6 +2212,7 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
+vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
