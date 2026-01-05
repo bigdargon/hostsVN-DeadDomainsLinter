@@ -13,6 +13,7 @@ m.addthisedge.com
 v1.addthisedge.com
 addthiscdn.com
 cache.addthiscdn.com
+client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a4.tl
@@ -26,7 +27,6 @@ platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -180,7 +180,6 @@ pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
@@ -397,6 +396,7 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
@@ -447,6 +447,7 @@ go.polyad.net
 html.polyad.net
 img.polyad.net
 polyad.net
+st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
 adv.klick.vn
@@ -540,7 +541,6 @@ serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
@@ -673,7 +673,6 @@ ahkoqzxuzsf.com
 ahqatjakvac.com
 ahtomjpzymf.com
 aickeebsi.com
-aiftoupsains.net
 aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
@@ -863,7 +862,6 @@ c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
-calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
@@ -906,7 +904,6 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
-circularnothing.com
 civadsoo.net
 cjbmanagement.com
 claroadsclick.com
@@ -1038,10 +1035,8 @@ dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
-easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
-ebvvvnjesjgx.com
 eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
@@ -1291,7 +1286,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hpimavpico.com
 hrjbylofyso.com
 hscozgoqffn.com
 hsestonicaawofw.com
@@ -1310,7 +1304,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1388,7 +1381,6 @@ juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
 jxjttecednvb.com
-jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kaisauwoure.net
@@ -1450,7 +1442,6 @@ leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
-leetmenllew.com
 legitfizzed.shop
 leiki.com
 lephaush.net
@@ -1526,6 +1517,7 @@ mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
+mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1662,6 +1654,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1927,7 +1920,6 @@ romauntmirker.com
 romepoptahul.com
 roofprison.com
 rooptawu.net
-rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
 rozamimo9za10.com
@@ -2151,7 +2143,6 @@ ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
-uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
 undooptimisticsuction.com
@@ -2165,7 +2156,6 @@ unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
 upgastlyr.com
-uphegroaglah.com
 upset-project.com
 upspinarakor.com
 uqkcroib.com
@@ -2220,7 +2210,6 @@ vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
-vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
@@ -2230,6 +2219,7 @@ wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
+warlog.info
 wateryvan.com
 wathoojoba.com
 wauthaik.net
