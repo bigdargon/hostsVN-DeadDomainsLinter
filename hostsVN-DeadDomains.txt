@@ -179,7 +179,6 @@ ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
-brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -241,7 +240,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
@@ -331,7 +329,6 @@ sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
-b91vip.com
 image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
@@ -374,7 +371,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
-cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
@@ -406,7 +402,9 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
+ads.livetv643.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -534,7 +532,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -548,7 +545,6 @@ analytics.gotama.link
 analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
-log.dubaotiente.com
 log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -609,7 +605,6 @@ ad.kissasian.es
 ad.nwt.cz
 ad1.emediate.dk
 adaftegloomto.com
-adbrn.com
 adcloud.net
 adformdsp.net
 adk2.co
@@ -647,6 +642,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -684,7 +680,6 @@ aimaniape.club
 aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
-ajglirsuk.com
 ajvhagmuvfm.com
 ak.ceegriwuwoa.net
 ak.groaxonsoow.net
@@ -809,6 +804,7 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
+berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
@@ -860,7 +856,6 @@ bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
-bzyfzusiqohk.com
 c.cdn-server.top
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
@@ -990,6 +985,7 @@ decisiveducks.com
 decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
+deewansturacin.com
 defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
@@ -1083,6 +1079,7 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
+euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
@@ -1171,7 +1168,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1311,7 +1307,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1333,6 +1328,7 @@ inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
+instrumentsponge.com
 interndry.com
 interstitial-07.com
 interstitial-08.com
@@ -1518,7 +1514,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-maulupoa.com
 mauzanapsusi.net
 maximumcash.com
 mazbfiladr.com
@@ -1531,6 +1526,7 @@ mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
+metahv.xyz
 mfajfikmyqan.com
 mg2connext.com
 mgbid.net
@@ -1695,7 +1691,6 @@ othniqvu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
-ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
@@ -1775,8 +1770,6 @@ plutothejewel.com
 pmagumovfma.com
 pocrd.cc
 pocrowpush.com
-podsklzegshmnd.com
-poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -2103,13 +2096,11 @@ tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
-tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
-toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
@@ -2220,8 +2211,6 @@ vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
-vujdudspear.com
-vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
@@ -2281,6 +2270,7 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
+wrestcut.com
 wryqahbilc.com
 wtylahmaro.com
 www.claroadsclick.com
@@ -2377,7 +2367,6 @@ metrics.sdkbox.com
 play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
-richmetrics.com
 saspreview.com
 showbiz.owndata.network
 tdf.ringier.ch
