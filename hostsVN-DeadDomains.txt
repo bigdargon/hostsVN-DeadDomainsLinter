@@ -292,6 +292,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -336,6 +337,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
+ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -356,6 +358,8 @@ cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
+delivery.taroads.com
+taroads.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -380,6 +384,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv673.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -410,6 +415,7 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
+mobile.novanet.vn
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -451,6 +457,7 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
+matomo.ecoe.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -486,6 +493,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
+ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
@@ -496,6 +504,8 @@ adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
+banner.uto.vn
+bidgear-syndication.com
 bloggiamgia.info
 clipbongda.info
 clix.vn
@@ -514,6 +524,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+live.vnpgroup.net
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -566,6 +577,8 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
+aczopdxfy.com
+aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -611,6 +624,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -753,12 +767,17 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
+batomqsmoocc.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
+beakerweedjazz.com
 beauty-tea.com
+bebreloomr.com
+becketsbesogne.top
+bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
@@ -956,7 +975,6 @@ deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
-dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -1061,6 +1079,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1110,6 +1129,7 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
+fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1387,7 +1407,6 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
-kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1458,6 +1477,7 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
+lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1471,6 +1491,7 @@ maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
+manpowerspiritualunrented.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
@@ -1591,6 +1612,7 @@ odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
+odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1618,6 +1640,7 @@ omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
+oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
@@ -1676,6 +1699,7 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
+ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
@@ -1962,7 +1986,6 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
-snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
@@ -2062,9 +2085,6 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
-tmebhjkjrtbb.com
-tnkuetnoabuk.com
-toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2179,6 +2199,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2260,7 +2281,6 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
-xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
