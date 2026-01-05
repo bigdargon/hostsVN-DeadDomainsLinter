@@ -292,7 +292,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -337,7 +336,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
-ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -358,8 +356,6 @@ cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
-delivery.taroads.com
-taroads.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -500,8 +496,6 @@ adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
-banner.uto.vn
-bidgear-syndication.com
 bloggiamgia.info
 clipbongda.info
 clix.vn
@@ -617,7 +611,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -765,11 +758,7 @@ bawdybeast.com
 baypops.com
 bbyloavu.com
 bcaojrbriciw.com
-beakerweedjazz.com
 beauty-tea.com
-bebreloomr.com
-becketsbesogne.top
-bedaoibe.com
 bedrapiona.com
 beefoaloode.net
 bemachopor.com
@@ -1121,7 +1110,6 @@ frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
-fubmalafdti.com
 fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
@@ -1197,6 +1185,7 @@ gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
+gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
 guvnatar.com
@@ -1278,6 +1267,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1376,6 +1366,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1673,6 +1664,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjaqdywlviyfe.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -1806,6 +1798,7 @@ qakzfubfozaj.com
 qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
+qdfxeqhnjuknyy.com
 qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
@@ -1843,6 +1836,8 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
+rduaagcwsw.com
+realizeparish.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1987,7 +1982,6 @@ special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
-spylog.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
@@ -2061,6 +2055,7 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
+tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
