@@ -263,6 +263,7 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -311,7 +312,6 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
-stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -329,6 +329,7 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -438,6 +439,7 @@ mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
@@ -553,7 +555,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
-52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -876,6 +877,7 @@ cihwactuqkco.com
 circularnothing.com
 civadsoo.net
 cjbmanagement.com
+claroadsclick.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
@@ -942,7 +944,6 @@ daintypurpleunfocused.com
 dalysb.com
 dancemistake.com
 dangerouswinter.com
-dapper.net
 dapperminecraft.online
 dataretinalsubtotal.com
 daudejuw.com
@@ -1086,7 +1087,6 @@ feegritoapoo.com
 feenyrpxyps.com
 fer2oxheou4nd.com
 ffuoqgdhiqu.com
-fhkfdgwtzueans.com
 fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
@@ -1199,13 +1199,10 @@ guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
 gutackaxgo.com
-guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
-gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
-gyfumobo.com
 gzefitkcep.com
 gzegwior.com
 h78xb.pw
@@ -1323,7 +1320,6 @@ j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
 jagnoans.com
-jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jerboasjourney.com
@@ -1332,6 +1328,7 @@ jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
+jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1412,6 +1409,8 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadbolt.net
+leadingedgecash.com
 lecapush.net
 leestoptee.com
 leetmenllew.com
@@ -1438,6 +1437,7 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
+locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
@@ -1544,6 +1544,7 @@ namol.xyz
 nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
+nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
@@ -1609,6 +1610,7 @@ ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
+ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
@@ -1685,7 +1687,6 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
-p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -2028,9 +2029,6 @@ sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
-taaqhr6axacd2um.com
-tabookbusines.info
-tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
@@ -2057,7 +2055,6 @@ thinkappetitefeud.com
 thirstytwig.com
 thootipheguph.com
 thor-pom.com
-thougnoangi.com
 thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
@@ -2138,7 +2135,6 @@ userresewn.com
 ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
-uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
@@ -2310,7 +2306,6 @@ yzqjaltdhlv.com
 zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
-zeegreen.net
 zeepmedia.com
 zihcabtkic.com
 zintext.com
