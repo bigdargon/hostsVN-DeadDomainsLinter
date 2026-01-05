@@ -30,6 +30,7 @@ ssp.lkqd.net
 ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
+v.lkqd.net
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -230,8 +231,6 @@ cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -239,6 +238,8 @@ www.mobile-10.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
+tag-cdn.aicactus.io
+exelatesync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -358,7 +359,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -487,6 +487,7 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
@@ -561,6 +562,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admagnet.net
@@ -571,6 +573,7 @@ adqkkoajnan.com
 adreclaim.com
 ads-to.click
 ads.aspalliance.com
+ads.bumq.com
 ads.clickdigisol.net
 ads.contactmusic.com
 ads.crakmedia.com
@@ -592,7 +595,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -632,6 +634,7 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajvhagmuvfm.com
+ak.ceegriwuwoa.net
 ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
@@ -688,7 +691,6 @@ aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
 audiens.com
-audraghafamign.net
 aulteeby.net
 aungudie.com
 authoaxoms.net
@@ -717,6 +719,7 @@ baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
 baitpros.net
+baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
@@ -868,6 +871,7 @@ coawujobups.com
 cohawaut.com
 coherentgleaminglone.com
 coinblocktyrusmiram.com
+colinsdemirep.com
 colonialismmarch.com
 combitly.com
 commindo-media-ressourcen.de
@@ -1015,9 +1019,11 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
+eryondistain.com
 escortlarbul.com
 euros4click.de
 evenimbauba.cfd
@@ -1180,7 +1186,6 @@ gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
-hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
@@ -1247,6 +1252,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1411,6 +1417,7 @@ llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
+loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1473,7 +1480,6 @@ mgbid.net
 mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
-mhelfiricbwa.com
 mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
@@ -1756,7 +1762,6 @@ ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
-pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -2245,7 +2250,6 @@ xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
-yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
 ycxajdcpesguqh.com
@@ -2301,6 +2305,7 @@ dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
+ilogs.bytefence.com
 img.leadzutw.com
 leadzutw.com
 metrics.sdkbox.com
