@@ -114,7 +114,6 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -186,7 +185,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.mondiad.net
 img.mondiad.net
 mondiad.net
 serve.mondiad.net
@@ -219,6 +217,7 @@ ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
+ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -362,7 +361,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
@@ -528,7 +526,6 @@ ads.crakmedia.com
 ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
@@ -882,7 +879,6 @@ deewansturacin.com
 defensive-bad.com
 defensive-living.com
 defusefinishedsleep.com
-delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -1074,7 +1070,6 @@ gfugafoz.com
 gimxukhmcrbl.com
 girls-only.online
 gishejuy.com
-gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
@@ -1203,6 +1198,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1263,9 +1259,6 @@ jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
-joglomsexurgod.net
-jollytestpartying.com
-jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
@@ -1389,6 +1382,7 @@ lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
+lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -1438,6 +1432,7 @@ mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
+mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1472,6 +1467,7 @@ nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
+nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1550,6 +1546,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1775,8 +1772,6 @@ record.bonniergaming.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
-regardviolas.shop
-regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
@@ -1923,6 +1918,7 @@ stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
+stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
@@ -2148,6 +2144,7 @@ wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
+woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
