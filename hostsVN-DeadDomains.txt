@@ -204,7 +204,6 @@ api.publift.com
 cdn.publift.com
 hb.publift.com
 npm.publift.com
-prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
@@ -243,6 +242,7 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
+www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -398,6 +398,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
+ads.livetv691.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -467,7 +468,6 @@ www.clevernet.vn
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -486,7 +486,6 @@ analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
-platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -643,13 +642,11 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
 af.endballbemires.com
 afearprevoid.com
-affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
@@ -767,6 +764,7 @@ banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
+bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
 banquetunarmedgrater.com
@@ -925,7 +923,6 @@ consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -937,8 +934,8 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
-crumplylenient.com
 culturalsameunbridle.com
 culwcoam.com
 cupidonmedia.com
@@ -1025,6 +1022,7 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
+eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1155,7 +1153,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1184,6 +1181,7 @@ go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
+goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -1251,7 +1249,6 @@ heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
-hgub2polye.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
@@ -1313,6 +1310,7 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 inabsolor.com
+ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1448,6 +1446,7 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
+litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
@@ -1471,8 +1470,6 @@ lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
-lstalwryflhourf.com
-luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1514,7 +1511,6 @@ mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
-metahv.xyz
 mfajfikmyqan.com
 mfymrypcirm.com
 mg2connext.com
@@ -1531,7 +1527,6 @@ mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
-mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1592,6 +1587,7 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
+nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1645,6 +1641,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1742,7 +1739,6 @@ phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
-pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
@@ -1782,7 +1778,6 @@ pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
-processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
@@ -1888,7 +1883,6 @@ rickerrotal.com
 ricthaaz.com
 rigelink.com
 ringedtusher.com
-riotedstuccos.top
 ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
@@ -2059,8 +2053,6 @@ tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
-tdpjzjpfuiis.com
-tearerernest.com
 techclicks.net
 tentaculos.net
 terrapsps.com
@@ -2242,11 +2234,9 @@ wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
-wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
-wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
