@@ -131,6 +131,7 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
+all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1549.online
@@ -191,6 +192,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
+api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
@@ -214,7 +216,6 @@ main.optvx.com
 optvx.com
 s.optvx.com
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -372,7 +373,6 @@ www.adclerks.com
 pixel.inforsea.com
 delivery.taroads.com
 taroads.com
-connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -504,12 +504,12 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
+ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
-adx.phunuadong.vn
 aff2.linksht.online
 ak9.6895588.com
 banner.uto.vn
@@ -544,7 +544,6 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
-n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
 228tuchuang.com
@@ -684,9 +683,7 @@ allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
 aluminiumfamily.top
-alwtupwwafu.com
 alzfaklcuzc.com
-amanda-cle.info
 ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
@@ -865,6 +862,7 @@ cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
+ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
@@ -924,6 +922,7 @@ consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
+convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -935,7 +934,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1109,7 +1107,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1154,7 +1151,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1267,7 +1263,6 @@ hmepalobfn.com
 hnyhiytf.com
 hoanoola.net
 hoaphosurer.com
-hoardhopefullypromptly.com
 hoddlegamey.com
 hoocaumakopaibu.com
 hookawep.net
@@ -1294,6 +1289,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1350,6 +1346,7 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
+jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1638,6 +1635,7 @@ olmsoneenh.info
 olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
+olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
@@ -1645,7 +1643,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1718,6 +1715,7 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 pauewr4cw2xs5q.com
+paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
@@ -1729,6 +1727,7 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
+phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1889,7 +1888,6 @@ rigelink.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
-riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
 rkksbrkwdqbop.com
@@ -2100,6 +2098,7 @@ total-fee.com
 toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
+tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
@@ -2161,6 +2160,7 @@ uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2329,7 +2329,6 @@ zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
-zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
