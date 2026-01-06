@@ -88,6 +88,7 @@ serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
+zoover.adnetasia.com
 imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
@@ -105,6 +106,7 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -129,12 +131,12 @@ metrics.linkshare.com
 reporting.linkshare.com
 smetrics.linkshare.com
 static.cbsileads.com
-all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -189,7 +191,6 @@ fadskiz.com
 gadskis.com
 madsecz.com
 analytics.proper.io
-api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
@@ -359,6 +360,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -502,7 +504,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
-ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 adserver.trangphim.net
@@ -643,8 +644,8 @@ adtoma.com
 adtriplex.com
 advariant.com
 adverdirect.com
+advertica-cdn2.com
 adxpose.com
-adxvalue.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
@@ -720,6 +721,7 @@ asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
 asgclickpop.com
+asqsphwgybanh.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -863,7 +865,6 @@ cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
-ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
 chaikempakr.com
@@ -923,7 +924,6 @@ consciouschairs.com
 constintptr.com
 constructpoll.com
 contehos.com
-convertedhorace.com
 coogoanu.net
 corrumpsublid.top
 cousesheethain.net
@@ -1132,6 +1132,7 @@ fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
+frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
@@ -1293,7 +1294,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1350,7 +1350,6 @@ jildiklta.com
 jiordgxkpglzm.com
 jizoqsor.com
 jkfdnofnz.com
-jkuadhaf.com
 jkuwfofr.com
 jmrnews.pro
 jncdvibhdaddmu.com
@@ -1484,6 +1483,7 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
+lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1510,6 +1510,7 @@ mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
 mediamind.com
+mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
 messsomehow.com
@@ -1634,9 +1635,9 @@ okueroskynt.com
 okxparnalc.com
 olkhtegk.com
 olmsoneenh.info
+olmzbnuihptsw.com
 olnalbogxra.com
 oltnukjafo.com
-olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
@@ -1644,6 +1645,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1716,7 +1718,6 @@ pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
 pauewr4cw2xs5q.com
-paxzfenara.com
 paypopup.com
 pc2ads.com
 pefsustazvzgop.com
@@ -1728,7 +1729,6 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
-phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1897,6 +1897,7 @@ rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
+rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
@@ -2099,7 +2100,6 @@ total-fee.com
 toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
-tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
@@ -2161,7 +2161,6 @@ uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
-vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
