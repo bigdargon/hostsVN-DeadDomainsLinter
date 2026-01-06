@@ -47,6 +47,7 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -218,7 +219,6 @@ ytvpaid.winadx.com
 pgmcdn.com
 app2.inorbitad.com
 cb-api-eu.maxymiser.com
-ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -350,6 +350,7 @@ ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
+media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 adv.klick.vn
@@ -542,6 +543,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -654,6 +656,7 @@ awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
+axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
 azqohjahfo.com
@@ -730,6 +733,7 @@ br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
 breathelicense.com
+brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -1199,7 +1203,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1364,6 +1367,7 @@ lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
+lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
@@ -1385,7 +1389,6 @@ lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
-lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
@@ -1435,7 +1438,6 @@ mirohqodlf.com
 missitzantiot.com
 mitaxsodwrfu.com
 mkysuerau.com
-mlvgxzenoiz.com
 mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
@@ -1459,6 +1461,7 @@ my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
+myolnyr5bsk18.com
 naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
@@ -1469,7 +1472,6 @@ nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
-nazolncubha.com
 ncaxvlngll.com
 nddjdbxwbpp.com
 neevouglu.com
@@ -1891,6 +1893,7 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
+soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 soliads.net
@@ -1920,7 +1923,6 @@ stawhoph.com
 steinfqwe6782beck.com
 sterdatsisto.net
 stickerchapelsailing.com
-stnyirechxxi.com
 stoakrestultan.com
 stolenforensicssausage.com
 stooghopsee.net
@@ -1961,6 +1963,7 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
+tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -2136,6 +2139,8 @@ wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
+wishedverde.com
+wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
@@ -2143,7 +2148,6 @@ wiwqhootrf.com
 wizkrdxivl.com
 wkxcwkoazwju.com
 wmeozwavstre.com
-woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
 wollybelayer.shop
