@@ -67,7 +67,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -156,6 +155,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -437,7 +437,6 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
@@ -529,7 +528,6 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -651,6 +649,7 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
+awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
@@ -931,7 +930,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -983,7 +981,6 @@ expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 f5biz.com
@@ -1082,7 +1079,6 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
-gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
@@ -1121,11 +1117,6 @@ guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
-gutackaxgo.com
-guvnatar.com
-gvsnhzmjr.com
-gwfqxkelp.com
-gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
@@ -1219,7 +1210,6 @@ imarketservices.com
 imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
-impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
@@ -1243,8 +1233,6 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
-j0x87i0og.com
-jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
@@ -1350,7 +1338,6 @@ lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
-liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
@@ -1454,7 +1441,6 @@ mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
-mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1581,6 +1567,7 @@ ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
+osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
@@ -1630,6 +1617,7 @@ pc2ads.com
 pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
+pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
@@ -1712,6 +1700,7 @@ pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
 pulvinioreodon.com
+pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
@@ -1767,6 +1756,7 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
+rduaagcwsw.com
 realizeparish.com
 recedechatprotestant.com
 receptiveink.com
@@ -1800,6 +1790,7 @@ rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
+rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
@@ -1893,7 +1884,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -1947,6 +1937,7 @@ swrggntsvmsgv.com
 sya9yncn3q.com
 synz.liveonce.online
 syyycc.com
+szgoetmggljs.com
 taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
@@ -1990,6 +1981,7 @@ tlkbfilacsw.com
 tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
+toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
 tornbed.pro
@@ -2180,7 +2172,6 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
-xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
