@@ -1,6 +1,10 @@
 googleads-cn.com
 blueserving.com
 ads.mobclix.com
+vserv.mobi
+admin.vserv.mobi
+c.vserv.mobi
+ads.vserv.mobi
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -13,6 +17,14 @@ m.addthisedge.com
 v1.addthisedge.com
 a4.tl
 sdk.a4.tl
+alexametrics.com
+atrk.alexametrics.com
+certify.alexametrics.com
+certify-amp.alexametrics.com
+certify-js.alexametrics.com
+certify-stage.alexametrics.com
+js.alexametrics.com
+pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -30,10 +42,8 @@ web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
 cs.lkqd.net
-m.lkqd.net
 rfp.lkqd.net
 rs-lb-a.lkqd.net
-rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
@@ -161,6 +171,7 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
+clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -248,7 +259,6 @@ www.bitmedianetwork.com
 www.mobile-10.com
 heatmap.it
 u.heatmap.it
-www.heatmap.it
 cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
@@ -329,6 +339,8 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+s385.mxcdn.net
+s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -476,6 +488,7 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -536,6 +549,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 1frozenthrone1.com
 228tuchuang.com
 2433march2024.com
+2435march2024.com
 2437march2024.com
 2439march2024.com
 2447march2024.com
@@ -553,15 +567,14 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 3in6ko.com
 4d5.net
 4hfchest5kdnfnut.com
+4info.com
 4wnet.com
 52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
-abbvagoz.com
 abcahpkkuba.com
 abkoxlikbzs.com
-abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
@@ -606,6 +619,7 @@ ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
+ads.seniorfriendfinder.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -618,6 +632,7 @@ adserver2.mindshare.de
 adshostnet.com
 adsk2.co
 adskape.ru
+adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -963,7 +978,6 @@ deligrassdull.com
 deliriamorula.shop
 deloplen.com
 demo123.info
-demtaudeeg.com
 dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
@@ -974,6 +988,7 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
+dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -981,7 +996,6 @@ digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
-dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
@@ -990,6 +1004,7 @@ dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
+doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
@@ -1006,7 +1021,6 @@ easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
-eclickz.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1092,6 +1106,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1104,6 +1119,7 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1114,6 +1130,7 @@ frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
+fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
@@ -1134,6 +1151,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1141,7 +1159,6 @@ gbbqyadej.com
 gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
-gelclinchfranz.com
 gfugafoz.com
 gimxukhmcrbl.com
 gishejuy.com
@@ -1264,9 +1281,6 @@ htyzpilijhki.com
 hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
-hupaiowicog.com
-huppontic.com
-huskymeloid.qpon
 hutchieshode.com
 huwqhqezemv.com
 hvxnlmjx.com
@@ -1408,7 +1422,6 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1457,6 +1470,7 @@ luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lumupu.xyz
 lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
@@ -1502,7 +1516,6 @@ mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
-mhvllvgrefplg.com
 midgetmaying.com
 mifoqnwi.com
 mingledventin.com
@@ -1540,8 +1553,6 @@ naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
-nastedsuglu.com
-nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -1591,6 +1602,7 @@ oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
 observantice.com
+ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1727,6 +1739,7 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
+pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1959,7 +1972,6 @@ skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
 slockertummies.com
-slopeaota.com
 slopingunrein.com
 slwrozacmq.com
 smileoffennec.com
@@ -1978,6 +1990,7 @@ songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
+spacash.com
 spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
@@ -1985,6 +1998,7 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
+spinbox.versiontracker.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -2131,6 +2145,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2277,7 +2292,6 @@ yakbwmncsfnqgvx.com
 yatkaddvhk.com
 yawnspuker.com
 ychv8p3i5.com
-ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
@@ -2309,6 +2323,7 @@ zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
 zeepmedia.com
+zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
@@ -2326,17 +2341,20 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+comscoreresearch.com
 dolohen.com
 e2.platform88798.com
 go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
+moatpixel.com
 play.leadzutw.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+snnd.co
 tdf.ringier.ch
 track.hydro.online
 track.lexico.com
