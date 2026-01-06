@@ -243,7 +243,6 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
-www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -440,6 +439,7 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -633,7 +633,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -668,6 +667,7 @@ aiglaidra.com
 aigretsulaups.net
 ailtashoackie.com
 aimaniape.club
+aividruzeemi.com
 ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
@@ -762,11 +762,11 @@ baivifogrouk.com
 bajavdafwafp.com
 bande2az.com
 banner.casino.net
+banner.coza.com
 banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
-bannerconnect.net
 bannermarkt.nl
 banners.clubseventeen.com
 banquetunarmedgrater.com
@@ -777,6 +777,7 @@ baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
+bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
 beauty-tea.com
@@ -836,6 +837,7 @@ bunceptsclosingh.com
 bungalowdispleasedwheeled.com
 burgerbrush.com
 burgoastougregy.net
+burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
 buzzardcraizey.com
@@ -849,6 +851,7 @@ calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -934,7 +937,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1089,6 +1091,7 @@ fashmuqpi.com
 fatsosjogs.com
 faukeeshie.com
 fauphauvuzeey.net
+fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
 febadu.com
@@ -1181,7 +1184,6 @@ go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
-goohimom.net
 gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
@@ -1279,7 +1281,9 @@ hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
+htyzpilijhki.com
 hubarejnbsobic.com
+huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
@@ -1309,7 +1313,6 @@ immerseweariness.com
 importedincrease.com
 impractical-award.com
 inabsolor.com
-ingotedbooze.com
 innocentwax.com
 inquiryblue.com
 instrumentsponge.com
@@ -1336,6 +1339,7 @@ jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
+jaletemetia.com
 jaumevie.com
 jerboasjourney.com
 jfgeuisugoekf.com
@@ -1359,6 +1363,7 @@ jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
+jtoabhvw.com
 jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
@@ -1379,6 +1384,7 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
+kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
 keefoocauby.com
@@ -1386,6 +1392,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1396,6 +1403,7 @@ knurleddeblock.guru
 koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
+kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1440,7 +1448,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
 lkhbcpwpyecs.com
@@ -1493,6 +1500,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1584,7 +1592,6 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
-nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -2093,6 +2100,7 @@ toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
+tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -2124,6 +2132,7 @@ ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
+uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
