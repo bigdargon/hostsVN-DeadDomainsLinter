@@ -45,7 +45,6 @@ app.content.ad
 media.content.ad
 partners.content.ad
 rest.content.ad
-www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -67,6 +66,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
 img.sociaplus.com
@@ -237,7 +237,6 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -437,6 +436,7 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
+qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
@@ -528,6 +528,7 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
+ads.geekswithblogs.net
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -740,10 +741,6 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
-bunceptsclosingh.com
-bungalowdispleasedwheeled.com
-burgerbrush.com
-burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
@@ -753,7 +750,6 @@ bzydilasq.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
-cafnqdsexgopiab.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -775,7 +771,6 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
-chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
@@ -981,6 +976,7 @@ expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
+eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 f5biz.com
@@ -1079,6 +1075,7 @@ globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
+gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
@@ -1117,6 +1114,11 @@ guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
+gutackaxgo.com
+guvnatar.com
+gvsnhzmjr.com
+gwfqxkelp.com
+gwvlrourhdkp.com
 gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
@@ -1182,7 +1184,6 @@ hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
-huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
@@ -1193,7 +1194,6 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1210,6 +1210,7 @@ imarketservices.com
 imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
+impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
@@ -1233,6 +1234,8 @@ iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
+j0x87i0og.com
+jacadpjirs.com
 jadeitite.com
 jagnoans.com
 jagzrmdyw.com
@@ -1290,7 +1293,6 @@ kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
-kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
@@ -1338,6 +1340,7 @@ lhsnvrgcvnvuy.online
 libedgolart.com
 lidosquey.shop
 lifpv.com
+liftdna.com
 ligeia-gip.com
 ligvraojlrr.com
 likedstring.com
@@ -1441,6 +1444,7 @@ mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
+mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
@@ -1539,6 +1543,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1563,7 +1568,6 @@ organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
-ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1641,7 +1645,6 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
-pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1660,7 +1663,6 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
-ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
@@ -1884,6 +1886,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
+sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2059,6 +2062,7 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
+vebo-vast.pages.dev
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
@@ -2172,6 +2176,7 @@ xgdnjxlmi.com
 xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
+xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
