@@ -161,7 +161,6 @@ bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
-clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
@@ -384,7 +383,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv673.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -415,7 +413,6 @@ daly2024.com
 media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
-mobile.novanet.vn
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -457,7 +454,6 @@ kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
-matomo.ecoe.vn
 matomo.hicity.vn
 mautic.casso.vn
 mautic.educe.vn
@@ -493,7 +489,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ads.admatrix.vn
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
@@ -524,7 +519,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-live.vnpgroup.net
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -542,7 +536,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 1frozenthrone1.com
 228tuchuang.com
 2433march2024.com
-2435march2024.com
 2437march2024.com
 2439march2024.com
 2447march2024.com
@@ -577,8 +570,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczopdxfy.com
-aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -627,7 +618,6 @@ adserver2.mindshare.de
 adshostnet.com
 adsk2.co
 adskape.ru
-adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
@@ -767,7 +757,6 @@ barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
 baste-znl.com
-batomqsmoocc.com
 batteusp2hilenor.com
 bawdybeast.com
 baypops.com
@@ -975,6 +964,7 @@ deliriamorula.shop
 deloplen.com
 demo123.info
 demtaudeeg.com
+dendranthe4edm7um.com
 depechearshine.com
 dependpinch.com
 desertsfraze.com
@@ -984,7 +974,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
-dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -1001,7 +990,6 @@ dolatiaschan.com
 dollsdeclare.com
 doqjhxavpdf.com
 dorkingvoust.com
-doruffletr.com
 dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
@@ -1079,7 +1067,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1127,7 +1114,6 @@ frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
-fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
@@ -1407,6 +1393,7 @@ kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
 kvaurjynazce.com
+kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
@@ -1477,7 +1464,6 @@ lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
 lzexnxwjsmof.com
-lzoazzruvkze.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1491,7 +1477,6 @@ maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
-manpowerspiritualunrented.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
@@ -1606,13 +1591,11 @@ oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
 observantice.com
-ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
-odqdkealzr.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
@@ -1640,7 +1623,6 @@ omlbaftroofj.com
 omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
-oneegrou.net
 onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
@@ -1699,7 +1681,6 @@ ozbkfuhpuolf.com
 ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
-ozmahtadn.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
@@ -1746,7 +1727,6 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
-pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1986,6 +1966,7 @@ smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
 smstcksjn.com
+snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
@@ -2085,6 +2066,9 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
+tmebhjkjrtbb.com
+tnkuetnoabuk.com
+toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
@@ -2199,7 +2183,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2281,6 +2264,7 @@ xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
 xnfmbejucgoldi.com
+xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
