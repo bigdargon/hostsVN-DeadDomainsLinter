@@ -63,7 +63,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -96,6 +95,7 @@ o1.sendgrid.upsight.com
 origin-marketing.upsight.com
 static.upsight.com
 upsight.com
+www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -212,9 +212,8 @@ count.advinci.net
 www.advinci.net
 m.optvx.com
 main.optvx.com
+optvx.com
 s.optvx.com
-ssp.adservme.com
-uswest.rtb.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -239,7 +238,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -530,6 +528,7 @@ quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
+vnadssb.com
 alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
@@ -599,6 +598,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adjuggler.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -614,6 +614,7 @@ ads.bigchurch.com
 ads.bumq.com
 ads.clickdigisol.net
 ads.crakmedia.com
+ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
@@ -632,7 +633,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -692,7 +692,6 @@ amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
-anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -722,6 +721,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -966,6 +966,7 @@ daufouwhoag.net
 daugegeezeeboot.net
 dckifhpovvbpb.com
 decisiveducks.com
+decoycreation.com
 dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
@@ -1011,6 +1012,7 @@ dotranquilla.com
 dpyabvkadg.com
 drubbersestia.com
 dsp.io
+ductathing.com
 duimspruer.life
 dumkcuakrlka.com
 duzcujquzl.com
@@ -1080,7 +1082,6 @@ f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
-fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1123,7 +1124,6 @@ forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
-fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
@@ -1180,7 +1180,6 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
-gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
@@ -1486,7 +1485,6 @@ lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
-madserve.org
 mage98rquewz.com
 makemydownload.com
 makespram.com
@@ -1767,7 +1765,6 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
-poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1781,6 +1778,7 @@ pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
+presidestatelycondition.com
 processsky.com
 proetusbramble.com
 profileoffencewithdraw.com
@@ -1902,7 +1900,6 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
-rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -2153,7 +2150,6 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
-userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2208,6 +2204,7 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -2362,7 +2359,6 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
-snnd.co
 tdf.ringier.ch
 track.hydro.online
 track.lexico.com
