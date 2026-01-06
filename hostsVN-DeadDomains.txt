@@ -49,7 +49,6 @@ rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
-ssp-cw.lkqd.net
 t.lkqd.net
 us.lkqd.net
 v.lkqd.net
@@ -63,6 +62,7 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 adthor.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -189,7 +189,6 @@ ivstracker.net
 r.ivstracker.net
 fadskiz.com
 gadskis.com
-madsecz.com
 analytics.proper.io
 api.proper.io
 bids.proper.io
@@ -238,6 +237,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -341,7 +341,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -386,7 +385,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
@@ -394,6 +392,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -526,7 +525,6 @@ motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
-serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -598,7 +596,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adjuggler.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -691,7 +688,7 @@ ambulanceappealingrut.com
 amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
-anahtars.com
+anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
@@ -919,7 +916,6 @@ compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
-connexity.net
 consciouschairs.com
 constintptr.com
 constructpoll.com
@@ -1082,6 +1078,7 @@ f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
+fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1124,6 +1121,7 @@ forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
+fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
@@ -1180,6 +1178,7 @@ goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
+gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
@@ -1485,6 +1484,7 @@ lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
+madserve.org
 mage98rquewz.com
 makemydownload.com
 makespram.com
@@ -1560,7 +1560,6 @@ nangalupeose.com
 nastedsuglu.com
 nastinessreplicaupload.com
 nativewpsh.com
-naturalistsbumpmystic.com
 nauzaphoay.net
 nawatlawgliq.com
 nazolncubha.com
@@ -1642,10 +1641,8 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
-onvictinitor.com
 oodseengairgy.net
 ootchoft.com
 opcharizardon.com
@@ -1765,6 +1762,7 @@ pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
+poopelouque.com
 poowucatuz.net
 pop.bid
 portlysingkenneth.com
@@ -1900,6 +1898,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -1943,7 +1942,6 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
-seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1968,7 +1966,6 @@ shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
-sictwizaszur.com
 sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
@@ -2150,6 +2147,7 @@ uqkcroib.com
 urechar.com
 urigagxnji.com
 uruswan.com
+userreplay.net
 userresewn.com
 ushoofop.com
 usounoul.com
@@ -2169,7 +2167,6 @@ vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
-velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
@@ -2359,6 +2356,7 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+snnd.co
 tdf.ringier.ch
 track.hydro.online
 track.lexico.com
