@@ -47,7 +47,6 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -74,6 +73,7 @@ img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
+tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
@@ -350,7 +350,6 @@ ss29.litvp.com
 aff-track.net
 mntzrlt.net
 daly2024.com
-media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 adv.klick.vn
@@ -420,6 +419,7 @@ ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
+ads.inetgroup.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -494,6 +494,7 @@ abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
 abservinean.com
+abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
@@ -653,7 +654,6 @@ awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
-axiomaticalley.com
 axkwmsivme.com
 aytcepmvxtelzf.com
 azqohjahfo.com
@@ -730,7 +730,6 @@ br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
 breathelicense.com
-brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
@@ -756,6 +755,7 @@ cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
 camberchimp.com
+canangafierier.uno
 canoevaguely.com
 canuncartes.help
 canzosswager.com
@@ -938,6 +938,7 @@ eezegrip.net
 effateuncrisp.com
 efyglwbapki.com
 egeemsob.com
+ehiibetu.com
 ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
@@ -1363,7 +1364,6 @@ lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
-lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
@@ -1459,7 +1459,6 @@ my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
-myolnyr5bsk18.com
 naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
@@ -1783,6 +1782,7 @@ resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
+rev2pub.com
 revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
@@ -1891,7 +1891,6 @@ smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
-soaheeme.net
 soaperdeils.com
 sofinpushpile.com
 soliads.net
@@ -1962,7 +1961,6 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
-tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -2138,8 +2136,6 @@ wilslide.com
 wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
-wishedverde.com
-wissoony.net
 wistfulbalmy.com
 witnessremovalsoccer.com
 wiwoqcmp.com
