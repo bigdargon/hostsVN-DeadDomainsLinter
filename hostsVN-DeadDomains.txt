@@ -53,7 +53,6 @@ cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
-tracker.appadhoc.com
 www.appadhoc.com
 content.ad
 api.content.ad
@@ -62,7 +61,6 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
-crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -173,6 +171,7 @@ wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
@@ -354,6 +353,7 @@ hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
@@ -476,6 +476,7 @@ adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
+ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
@@ -490,6 +491,7 @@ qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -539,6 +541,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 4hfchest5kdnfnut.com
 4info.com
 4wnet.com
+52dvzo62i.com
 5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
@@ -564,6 +567,7 @@ ad1.emediate.dk
 adaftegloomto.com
 adbrn.com
 adcloud.net
+adformdsp.net
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -610,7 +614,6 @@ adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
-adxpose.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
@@ -756,7 +759,6 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
-berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
@@ -772,6 +774,7 @@ bilqi-omv.com
 bjtrjviiovl.com
 blacknesskeepplan.com
 blacurlik.com
+blearspellaea.shop
 blibberon.xyz
 bmaahwahpofp.com
 bn.bfast.com
@@ -790,7 +793,6 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
-brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -802,7 +804,6 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
-bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -834,12 +835,14 @@ cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
+checkbookdisgusting.com
 chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
 chinsnakes.com
 chioneflake.com
+chippedaugur.com
 chirpyreemergespotty.com
 chlod-qui.com
 chokedsmelt.com
@@ -858,6 +861,7 @@ claroadsclick.com
 clickadin.com
 clicktracks.com
 clkofafcbk.com
+clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
@@ -998,6 +1002,7 @@ ehkualecb.com
 ejejyunqvzdfx.com
 ejwpnkvnchjmxw.com
 ejyymghi.com
+ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
@@ -1042,7 +1047,6 @@ f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
-fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1069,6 +1073,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1116,6 +1121,7 @@ gaizoopi.net
 galaxien.com
 galepush.net
 gaunchdelimes.com
+gaut-hil.com
 gbbqyadej.com
 gboxrthnyezkx.com
 gdtgkshmc.com
@@ -1147,6 +1153,7 @@ gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
+gpttuucg.com
 gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
@@ -1351,6 +1358,7 @@ kedaddinfinemem.com
 keefoocauby.com
 kempucmouftordo.com
 kiklazopnqce.com
+kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
@@ -1606,6 +1614,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1692,7 +1701,6 @@ petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
-phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1997,7 +2005,6 @@ suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
-supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
@@ -2010,7 +2017,6 @@ syndicate.purch.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
-taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagmngrs.com
@@ -2032,7 +2038,6 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
-thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
@@ -2090,6 +2095,7 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
+ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
@@ -2220,6 +2226,7 @@ woorucauhou.net
 wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
+worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
@@ -2229,7 +2236,6 @@ wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2303,6 +2309,7 @@ zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
 zwnsuuaoqfab.com
+zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
 analytics.shivamsinghis.me
