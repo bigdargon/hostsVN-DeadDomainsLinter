@@ -223,7 +223,6 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
-vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -317,7 +316,6 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
-adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
@@ -424,6 +422,7 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
@@ -566,7 +565,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -682,6 +680,7 @@ awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
+aytcepmvxtelzf.com
 azqohjahfo.com
 b5e75c56.com
 baaomenaltho.com
@@ -724,7 +723,6 @@ bemalkrmc.com
 benevolencepair.com
 benonblkd.xyz
 bepansaer.com
-beplusleor.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
@@ -825,7 +823,6 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
-cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
@@ -833,9 +830,6 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
-coacoalaum.com
-coaphumewy.net
-coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
@@ -930,6 +924,7 @@ digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
 diluteacerbity.com
+dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
@@ -955,7 +950,6 @@ earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
-ebvvvnjesjgx.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1041,7 +1035,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1086,7 +1079,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1112,7 +1104,6 @@ gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
-go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
@@ -1131,6 +1122,7 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
+grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1142,7 +1134,6 @@ gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
 gueqiwsbxp.com
-guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
@@ -1254,6 +1245,7 @@ inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
+interstitial-08.com
 intnotif.club
 intrarezsites.com
 inwraptsekane.com
@@ -1276,7 +1268,6 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
-jerboasjourney.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
@@ -1397,7 +1388,6 @@ lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
-louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
@@ -1431,11 +1421,11 @@ makqfcvs.com
 malhfiacgx.com
 maljuggu.com
 mallogrow.com
+mamsauphoachoap.net
 manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1739,6 +1729,8 @@ ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
+pulvinioreodon.com
+pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
@@ -1777,7 +1769,6 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -2090,6 +2081,7 @@ usounoul.com
 uuomdlaslopcrx.com
 uvettjofogfozc.com
 uxumhgvends.com
+uyledjlevq.com
 uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
@@ -2235,6 +2227,7 @@ yfetyg.com
 yfshutispht.com
 yhmfmugyq.com
 yieldads.com
+ykqcsawnlnvsgo.com
 ylcziaipyztvv.com
 yogar2ti8nf09.com
 yonmewon.com
@@ -2254,7 +2247,6 @@ ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
 yummiergangue.shop
 yzqjaltdhlv.com
-zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
