@@ -45,6 +45,7 @@ app.content.ad
 media.content.ad
 partners.content.ad
 rest.content.ad
+www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -136,6 +137,7 @@ fadskiz.com
 gadskis.com
 madsecz.com
 capi.bidtellect.com
+eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -161,6 +163,7 @@ mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
 syndication.exrtbsrv.com
+api.optad360.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -209,7 +212,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -237,6 +239,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 asdpoi.com
@@ -420,6 +423,7 @@ ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.ictnews.vn
 ads.inetgroup.vn
+ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
@@ -434,7 +438,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -533,6 +536,7 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.seniorfriendfinder.com
+ads.soft32.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -542,6 +546,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -606,7 +611,6 @@ anjzallkoomb.com
 anmfweogja.com
 annxwustakf.com
 antio-nar.com
-anymoreeruptuncharted.com
 anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
@@ -741,6 +745,10 @@ btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 budvawshes.ru
+bunceptsclosingh.com
+bungalowdispleasedwheeled.com
+burgerbrush.com
+burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
 bustlemiszone.com
@@ -750,6 +758,7 @@ bzydilasq.com
 c44wergiu87heghoconutdx.com
 ca4psell23a4bur.com
 cacaobroach.com
+cafnqdsexgopiab.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
@@ -771,6 +780,7 @@ ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
 cenerncyjl.com
+chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
@@ -1088,8 +1098,6 @@ gossishauphy.com
 gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
-gpttuucg.com
-gralossortoob.net
 grand-prize.xyz
 grandioseguide.com
 great-ads-right-now.com
@@ -1158,6 +1166,7 @@ hhuajhdidxut.com
 hikedwarfgipsy.com
 hilltopads.net
 hiqbejpsiyymatl.com
+hit-parade.com
 hitexchange.net
 hitopadxdz.xyz
 hivaqfofkche.com
@@ -1184,6 +1193,7 @@ hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
 hubarejnbsobic.com
+huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
 huppontic.com
@@ -1194,6 +1204,7 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1293,6 +1304,7 @@ kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
+kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
@@ -1539,11 +1551,10 @@ olxxugltoku.com
 olzlmemumcwe.com
 ombwzonwupu.com
 omlbaftroofj.com
-omzostzuswm.com
+omniscientspark.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1568,6 +1579,7 @@ organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1645,6 +1657,7 @@ pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
+pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
@@ -1663,6 +1676,7 @@ poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
 pompadawe.com
+ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
@@ -1721,7 +1735,6 @@ qarhrytwyqp.com
 qavhivvcex.com
 qcerujcajnme.com
 qdfxeqhnjuknyy.com
-qfeadpmagq.com
 qhfjamsmjyn.com
 qipshozipsah.com
 qj.asokapygmoid.com
@@ -1752,6 +1765,7 @@ qxadsk.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -2034,7 +2048,6 @@ unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
-untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -2062,7 +2075,6 @@ vazcukap.com
 vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
-vebo-vast.pages.dev
 vecmekreghesh.net
 vekseptaufin.com
 velsirtohoosh.net
