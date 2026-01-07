@@ -328,7 +328,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
-p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
@@ -339,11 +338,15 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv625.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
+ads.livetv643.me
 ads.livetv664.me
+ads.livetv671.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -460,9 +463,9 @@ imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
-quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -472,6 +475,7 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
+log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
 track.winigroup.vn
@@ -566,6 +570,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -670,6 +675,7 @@ automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
 avenaryconcent.com
+avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
@@ -729,6 +735,7 @@ beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
+betmagnezonea.com
 bezzzxoscu.com
 bfiauqscsotjcy.com
 bhalukecky.com
@@ -760,6 +767,8 @@ broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
+btcijivtsvph.com
+btiatfobkjiv.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
@@ -780,13 +789,13 @@ camberchimp.com
 canangafierier.uno
 canoevaguely.com
 canuncartes.help
-canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -917,7 +926,6 @@ dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
-dhurratrait.qpon
 diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
@@ -1089,6 +1097,7 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
+gimxukhmcrbl.com
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1148,13 +1157,11 @@ gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
-gzegwior.com
 h78xb.pw
 hacspynha.com
 hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
-harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
 hasanjbam.com
@@ -1293,6 +1300,7 @@ jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
+jucysh.com
 jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
@@ -1427,7 +1435,6 @@ mallogrow.com
 mamsauphoachoap.net
 manompas.com
 marriagegray.com
-massiveanalyticssys.net
 matecatenae.com
 maulupoa.com
 mauzanapsusi.net
@@ -1572,7 +1579,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1638,7 +1644,6 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1711,6 +1716,7 @@ praterswhally.com
 pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
+proetusbramble.com
 profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
@@ -1923,6 +1929,7 @@ soaperdeils.com
 sofinpushpile.com
 soliads.net
 solibothnic.qpon
+songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
 sordimtaulee.com
@@ -2141,6 +2148,7 @@ wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
 wbehwesvucqmvx.com
+wcuamsmakq.com
 webpower.com
 wedxuaksargvlf.com
 weesatoothoamu.net
@@ -2236,7 +2244,6 @@ yogar2ti8nf09.com
 yonmewon.com
 yonomastara.com
 yonsandileer.com
-yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
