@@ -1,4 +1,4 @@
-# Version: 2512281622
+# Version: 2601071034
 ||0088shop.com^
 ||009855.com^
 ||010172.com^
@@ -619,6 +619,7 @@
 ||defi.hsfdefi.com^
 ||demo.sc0mvn.com^
 ||dendrito.name^
+||depandirect.be^
 ||dev-checkmoneypayment-mpos.com^
 ||dfeenxea.tidc.bid^
 ||dfsshop66.com^
