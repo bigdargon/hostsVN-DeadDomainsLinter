@@ -95,6 +95,7 @@ articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
@@ -171,7 +172,6 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
@@ -204,7 +204,6 @@ c.netund.com
 netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 heatmap.it
 u.heatmap.it
@@ -266,6 +265,7 @@ app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
+img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -341,7 +341,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv643.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -468,7 +467,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -524,7 +522,6 @@ acerolawaists.com
 achieverknee.com
 aclickads.com
 acpolxakcl.com
-aczridptoo.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -579,6 +576,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -658,7 +656,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-asslfeqadv.com
 astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
@@ -795,7 +792,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -835,6 +831,7 @@ clickadin.com
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
+cloueewinkles.com
 cnt.spbland.ru
 coacoalaum.com
 coaphumewy.net
@@ -871,6 +868,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1041,9 +1039,9 @@ fidokhffekm.com
 fidszeoqwjf.com
 fijimtadee.net
 fiksu.com
-filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1088,6 +1086,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1190,6 +1189,7 @@ hh-btr.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
+hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
@@ -1331,7 +1331,6 @@ kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
 kixgpapwia.com
-kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
 klumn.com
@@ -1454,7 +1453,9 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mfymrypcirm.com
+mgbid.net
 mgepuynxttyi.com
+mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
 mhvllvgrefplg.com
@@ -1672,7 +1673,6 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
-phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
@@ -1709,6 +1709,7 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
+pr-star.de
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1787,6 +1788,7 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+radxabsah.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
@@ -1823,7 +1825,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1880,7 +1881,6 @@ scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
-seataverna.rest
 secondquaver.com
 seeablywitness.com
 seemoovojezy.net
@@ -2145,7 +2145,6 @@ waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
-wateryvan.com
 wathoojoba.com
 wauthaik.net
 wawhoufteedaksu.com
@@ -2169,8 +2168,6 @@ whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
-wilslide.com
-wimswuppoxan.com
 window.nixnet.cz
 windsattributeron.com
 wishedverde.com
@@ -2194,7 +2191,6 @@ wopsedoaltuwp.com
 wormslitty.top
 worstideatum.com
 worstspotchafe.com
-wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
 wrestcut.com
@@ -2258,11 +2254,9 @@ yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
+yummiergangue.shop
 yzqjaltdhlv.com
 zavawvsa.com
-zbwp6ghm.com
-zcmnhyhbaokc.com
-zeegreen.net
 zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
