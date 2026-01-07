@@ -9,7 +9,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
 sdk.a4.tl
 a.ligatus.com
 analysis.ligatus.com
@@ -117,6 +116,7 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
+server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -255,6 +255,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+app2.inorbitad.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -293,7 +294,6 @@ app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
-img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -392,6 +392,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 litvp.com
+ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
@@ -490,6 +491,7 @@ qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
+tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -499,7 +501,6 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
-log.mekongasean.vn
 log.tapchitaichinh.vn
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
@@ -545,6 +546,7 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
+abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -565,6 +567,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adk2.co
 adkchtmtns.com
 adlite.net
 admagnet.net
@@ -598,7 +601,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -615,7 +617,6 @@ advertica-cdn2.com
 adxpose.com
 af.endballbemires.com
 afearprevoid.com
-affcpatrk.com
 affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
@@ -754,7 +755,6 @@ bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
-benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
@@ -901,7 +901,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -967,7 +966,6 @@ dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
 dklvqrfgvwror.com
-doaglunoupa.net
 doateeseeja.com
 dolatiaschan.com
 dollsdeclare.com
@@ -1118,9 +1116,9 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
+gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1472,7 +1470,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1490,7 +1487,6 @@ metahv.xyz
 mfajfikmyqan.com
 mfymrypcirm.com
 mgbid.net
-mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
 mhelfiricbwa.com
@@ -1551,7 +1547,6 @@ newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
 nhusjhrshwxvl.com
-nicohgokppuj.com
 niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
@@ -1717,7 +1712,6 @@ pienbitore.com
 piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
-pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
@@ -1818,6 +1812,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
+qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1858,6 +1853,7 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
+ricthaaz.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
@@ -1997,6 +1993,7 @@ stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
+stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
@@ -2136,15 +2133,18 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
+vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
+velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
+vikawjobtar.com
 viliaff.com
 vingtunacroter.top
 vipicmou.net
@@ -2163,6 +2163,7 @@ vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
+vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
@@ -2251,6 +2252,9 @@ xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
+xnfmbejucgoldi.com
+xovq5nemr.com
+xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
@@ -2266,6 +2270,7 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
+yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
