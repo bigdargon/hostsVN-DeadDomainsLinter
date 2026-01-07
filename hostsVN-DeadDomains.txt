@@ -5,6 +5,7 @@ ads.mobclix.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
+c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
@@ -121,7 +122,6 @@ share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
-jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
@@ -141,6 +141,7 @@ bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
+ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
 s.pmddby.com
@@ -339,7 +340,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -356,7 +356,6 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -381,6 +380,7 @@ ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
+media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
@@ -576,7 +576,6 @@ adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
-ads-to.click
 ads.aspalliance.com
 ads.bumq.com
 ads.clickdigisol.net
@@ -611,6 +610,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -694,6 +694,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrmkoopdlhu.com
 atrochaxctl.shop
 audiens.com
 audraghafamign.net
@@ -737,6 +738,7 @@ banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
 banquetunarmedgrater.com
+baresi.xyz
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -781,6 +783,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -902,6 +905,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -962,7 +966,6 @@ diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
-diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
 dk4ywix.com
@@ -1120,6 +1123,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1168,6 +1172,8 @@ grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
+groumaux.net
+grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
@@ -1205,6 +1211,7 @@ hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
 hcilralhi.com
+hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
 heeceeceejo.com
@@ -1259,9 +1266,9 @@ hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
+i1media.no
 iadnet.com
 iaglkpracviogn.com
-iasds01.com
 iauzsghijpmq.com
 ichdpdbpv.com
 idyllteapots.com
@@ -1359,7 +1366,6 @@ kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
 kirteexe.tv
-kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
@@ -1388,6 +1394,7 @@ labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
 lambingsyddir.com
+lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
 laughedaffront.com
@@ -1518,8 +1525,8 @@ mwejhobumo.com
 my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
-myntelligence.com
 myolnyr5bsk18.com
+nagoverpayreimburse.com
 naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
@@ -1539,6 +1546,7 @@ netcommunities.com
 netflame.cc
 netshelter.net
 news-central.org
+news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
 nfucujozv.com
@@ -1808,6 +1816,7 @@ quaintcan.com
 qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
+questaffiliates.net
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1968,7 +1977,6 @@ spbeknkulo.com
 speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
-spikereekvelocity.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -2145,6 +2153,7 @@ vingtunacroter.top
 vipicmou.net
 virleth.com
 visualrevenue.com
+vivvuvkra.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
@@ -2193,6 +2202,7 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
+wibtntmvox.com
 widespace.com
 wikfuttupw.com
 wilslide.com
