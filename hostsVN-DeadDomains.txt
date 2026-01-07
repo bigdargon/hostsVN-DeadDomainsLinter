@@ -53,6 +53,7 @@ cdn-api.appadhoc.com
 count.appadhoc.com
 h5.appadhoc.com
 sdk.appadhoc.com
+tracker.appadhoc.com
 www.appadhoc.com
 content.ad
 api.content.ad
@@ -61,6 +62,7 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
+crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
@@ -115,7 +117,6 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
-server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
 classic.marketolive.com
@@ -254,7 +255,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-app2.inorbitad.com
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -392,7 +392,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 litvp.com
-ss15.litvp.com
 ss29.litvp.com
 aff-track.net
 mntzrlt.net
@@ -491,7 +490,6 @@ qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -547,7 +545,6 @@ aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
 abcahpkkuba.com
-abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
 abqguldudbi.com
@@ -568,7 +565,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adk2.co
 adkchtmtns.com
 adlite.net
 admagnet.net
@@ -602,6 +598,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -612,8 +609,10 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
+adxpose.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
@@ -759,6 +758,7 @@ benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 beplusleor.com
+berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
@@ -793,6 +793,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -804,6 +805,7 @@ burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
+bustlemiszone.com
 buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
@@ -1047,6 +1049,7 @@ f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
+fagywalu.pro
 faisaphoofa.net
 farcivinage.shop
 faronqdkimah.com
@@ -1115,7 +1118,6 @@ gabanxaq.com
 gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
-gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
 galaxien.com
@@ -1262,6 +1264,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1614,7 +1617,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1701,6 +1703,7 @@ petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
+phamsacm.net
 phaubsunsi.com
 phinsebsou.com
 phloxsub73ulata.com
@@ -1815,7 +1818,6 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1856,7 +1858,6 @@ revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
-ricthaaz.com
 rigelink.com
 ringedtusher.com
 riotedstuccos.top
@@ -1996,7 +1997,6 @@ stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
-stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
@@ -2005,6 +2005,7 @@ suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
+supportiverarity.com
 surtaultathoado.com
 susifhfh2d8ldn09.com
 suwcaxazzn.com
@@ -2017,6 +2018,7 @@ syndicate.purch.com
 synz.liveonce.online
 syyycc.com
 szgoetmggljs.com
+taaqhr6axacd2um.com
 tabookbusines.info
 tacticmarshannouncing.com
 tagmngrs.com
@@ -2038,6 +2040,7 @@ that-muscle.com
 thedevband.com
 theedreemteedro.com
 theestauptooks.net
+thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
 thirstytwig.com
@@ -2133,18 +2136,15 @@ valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
 vazcukap.com
-vbqtfejdtqkjuf.com
 vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
-velsirtohoosh.net
 venetrigni.com
 vertadnet.com
 vfuqivac.com
 viewlnk.com
 viewyentreat.guru
-vikawjobtar.com
 viliaff.com
 vingtunacroter.top
 vipicmou.net
@@ -2163,7 +2163,6 @@ vqhlhfjmvcvxw.com
 vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
-vtqddgntio.com
 vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
@@ -2236,6 +2235,7 @@ wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
+www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2251,9 +2251,6 @@ xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
-xnfmbejucgoldi.com
-xovq5nemr.com
-xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
 xtuokkzro.com
@@ -2269,7 +2266,6 @@ ycxajdcpesguqh.com
 yealnk.com
 yeljusxttq.com
 yfetyg.com
-yfshutispht.com
 yhmfmugyq.com
 yieldads.com
 ykqcsawnlnvsgo.com
