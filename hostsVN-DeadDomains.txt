@@ -135,7 +135,6 @@ gadskis.com
 madsecz.com
 eu.xmlppcbuzz.com
 api.publift.com
-cdn.publift.com
 hb.publift.com
 npm.publift.com
 prebid.publift.com
@@ -223,6 +222,7 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -233,6 +233,7 @@ ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
@@ -316,6 +317,7 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
+adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
@@ -565,6 +567,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -575,7 +578,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -680,6 +682,7 @@ awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
 axkwmsivme.com
+axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
 b5e75c56.com
@@ -823,6 +826,7 @@ cigdizwu.com
 cihwactuqkco.com
 circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
@@ -830,6 +834,9 @@ clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
+coacoalaum.com
+coaphumewy.net
+coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
 cohawaut.com
@@ -862,7 +869,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -950,6 +956,7 @@ earphonetipperzombie.com
 easy2cnjuh34jb.com
 eatsbot.com
 ebuzzing.com
+ebvvvnjesjgx.com
 ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
@@ -1042,7 +1049,6 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
-fm.zipperszebecs.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1104,6 +1110,7 @@ gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
+go.padstm.com
 goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
@@ -1123,17 +1130,15 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
-gristleupanaya.com
 grooksom.com
 groopsie.net
-groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
-gtubumgalb.com
 gueqiwsbxp.com
+guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
@@ -1381,17 +1386,15 @@ lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
-lo8ve6ygour3pea4cee.com
 locketcattishson.com
-loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
 lorybnfh.com
+louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
-lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
@@ -1518,7 +1521,6 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
-nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
@@ -1708,7 +1710,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1769,6 +1770,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
+qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
 qvzpofgmlwlnrt.com
@@ -1811,6 +1813,7 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2021,7 +2024,6 @@ toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
-tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -2093,7 +2095,6 @@ vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
-velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewlnk.com
@@ -2152,7 +2153,6 @@ whoonseepoutche.net
 whoostoo.net
 whowhipi.net
 whugesto.net
-whuwoawain.com
 wibtntmvox.com
 widespace.com
 wikfuttupw.com
@@ -2247,6 +2247,7 @@ ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
 yummiergangue.shop
 yzqjaltdhlv.com
+zavawvsa.com
 zbwp6ghm.com
 zcmnhyhbaokc.com
 zeegreen.net
@@ -2275,6 +2276,7 @@ go.ad1data.com
 hsbarbershop.co.uk
 img.leadzutw.com
 leadzutw.com
+metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
 q2melbourne.com
