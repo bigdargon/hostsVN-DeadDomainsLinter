@@ -19,6 +19,7 @@ analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
+d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
@@ -119,7 +120,6 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -332,7 +332,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -447,7 +446,6 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
-fly-ads.net
 tags.fly-ads.net
 d.watanet.work
 watanet.work
@@ -480,6 +478,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -804,6 +803,7 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
+ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
@@ -1068,6 +1068,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1144,7 +1145,6 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
-gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1465,7 +1465,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1867,6 +1866,7 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
+robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -2028,6 +2028,7 @@ tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
+tharbadir.com
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -2072,6 +2073,7 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
+trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2090,6 +2092,7 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
+uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2114,7 +2117,6 @@ urechar.com
 urigagxnji.com
 uruswan.com
 userresewn.com
-ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uvettjofogfozc.com
@@ -2209,6 +2211,7 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
+wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
