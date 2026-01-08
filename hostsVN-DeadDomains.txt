@@ -60,10 +60,6 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -245,10 +241,7 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
-voodoo-ads.io
 trackers.voodoo-analytics.io
-voodoo-analytics.io
-www.voodoo-analytics.io
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -290,9 +283,9 @@ ext-arango.ad4mat.net
 nexus.ad4mat.net
 static.ad4mat.net
 b91vip.com
-image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
+tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -328,6 +321,7 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 ad.samsungadhub.com
+samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -388,9 +382,9 @@ litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-online.com
-aff-track.net
 mntzrlt.net
 daly2024.com
+media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 adv.klick.vn
@@ -497,6 +491,7 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
+track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.lsvn.vn
@@ -569,6 +564,7 @@ adrevolver.com
 ads-to.click
 ads.amigos.com
 ads.aspalliance.com
+ads.bumq.com
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -590,7 +586,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -701,6 +696,7 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
+awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
@@ -708,7 +704,6 @@ axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
-b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -784,7 +779,6 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
-brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -1024,7 +1018,6 @@ evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
-exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1079,7 +1072,6 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
-forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1275,7 +1267,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1518,7 +1509,6 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
-naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
@@ -1615,6 +1605,7 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
+opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
 opzoxvxut.com
@@ -1687,7 +1678,6 @@ pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
-petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1983,7 +1973,6 @@ sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
-stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
@@ -2021,7 +2010,6 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
-techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
@@ -2029,7 +2017,6 @@ thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
-theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -2167,6 +2154,7 @@ vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
+wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
@@ -2181,10 +2169,8 @@ weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
-whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
-whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
