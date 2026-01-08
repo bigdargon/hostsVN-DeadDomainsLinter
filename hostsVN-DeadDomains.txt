@@ -120,6 +120,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
+bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -332,6 +333,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 adn1.adclerks.com
@@ -446,6 +448,7 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
+fly-ads.net
 tags.fly-ads.net
 d.watanet.work
 watanet.work
@@ -809,7 +812,6 @@ cafnqdsexgopiab.com
 calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
-canoevaguely.com
 canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
@@ -980,7 +982,6 @@ dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
-eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 ecstaticquiltrye.com
@@ -1068,7 +1069,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1123,7 +1123,6 @@ gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
 gfugafoz.com
-gimxukhmcrbl.com
 girls-only.online
 gishejuy.com
 gk79a2oup.com
@@ -1145,6 +1144,7 @@ gogglemessenger.com
 goodnotification.net
 goohimom.net
 gossishauphy.com
+gouthoat.com
 gpfvumsxtbf.com
 gpmznplrczobob.com
 gpttuucg.com
@@ -1381,7 +1381,6 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
-kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
@@ -1443,7 +1442,6 @@ luloffer.com
 lumpbackstage.com
 lumupu.xyz
 lutoorgourgi.com
-luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1465,6 +1463,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1728,7 +1727,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
@@ -1857,8 +1855,6 @@ ritzykey.com
 riverstressful.com
 rjkrefyqrixk.com
 rjprpydgnco.com
-rkksbrkwdqbop.com
-rkumfyomg.com
 rkvldurquedh.com
 rleibfzdny.com
 rlfvuficzdmsx.com
@@ -1909,7 +1905,6 @@ sdkfjxjertertry.com
 seaboblit.com
 seataverna.rest
 secondquaver.com
-seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
@@ -1935,7 +1930,6 @@ shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
 sictwizaszur.com
-sikrouxoopte.net
 simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
@@ -2028,7 +2022,6 @@ tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
-tharbadir.com
 that-muscle.com
 thedevband.com
 theedreemteedro.com
@@ -2081,7 +2074,6 @@ tumblebit.org
 tunnedlehua.com
 tutnabqcyqky.com
 twazzyoidwlfe.com
-tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
 tzirtatakoqf.com
@@ -2117,6 +2109,7 @@ urechar.com
 urigagxnji.com
 uruswan.com
 userresewn.com
+ushoofop.com
 usounoul.com
 uuomdlaslopcrx.com
 uvettjofogfozc.com
@@ -2317,7 +2310,6 @@ img.leadzutw.com
 leadzutw.com
 metrics.sdkbox.com
 moatpixel.com
-play.leadzutw.com
 poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
