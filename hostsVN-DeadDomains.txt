@@ -36,6 +36,7 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -292,7 +293,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -328,7 +328,6 @@ beta.tapdb.com
 sense.tapdb.com
 cdn.ggsfq.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -392,7 +391,6 @@ aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
-media.daly2024.com
 srv.daly2024.com
 track.daly2024.com
 adv.klick.vn
@@ -402,6 +400,7 @@ klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
+wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
@@ -498,7 +497,6 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
-track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.lsvn.vn
@@ -571,7 +569,6 @@ adrevolver.com
 ads-to.click
 ads.amigos.com
 ads.aspalliance.com
-ads.bumq.com
 ads.clickdigisol.net
 ads.crakmedia.com
 ads.detelefoongids.nl
@@ -588,10 +585,12 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
+ads2.rne.com
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -702,7 +701,6 @@ avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
 awaps.net
-awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
@@ -855,6 +853,7 @@ cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
+clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -884,7 +883,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -1068,6 +1066,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1191,6 +1190,7 @@ handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
+hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
@@ -1235,6 +1235,10 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
+hpimavpico.com
+hrjbylofyso.com
+hscozgoqffn.com
+hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
@@ -1496,6 +1500,7 @@ mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
+moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1610,7 +1615,6 @@ ootchoft.com
 opcharizardon.com
 opdhoxor.com
 openads.org
-opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
 opzoxvxut.com
@@ -2135,6 +2139,7 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
+vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2158,10 +2163,10 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
-wairowomoaps.com
 wapjwujfipuz.com
 warlog.info
 wateryvan.com
