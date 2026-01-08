@@ -7,6 +7,11 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+addthiscdn.com
+cache.addthiscdn.com
+client.addthiscdn.com
+client-uat.addthiscdn.com
+sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
@@ -35,6 +40,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -53,6 +59,7 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
+hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -76,6 +83,7 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+services.scanscout.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -130,11 +138,13 @@ ads.152media.com
 mob.152media.com
 player-aws.ads.152media.com
 cdn.bidfilter.com
+static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
 eu.xmlppcbuzz.com
 api.publift.com
+cdn.publift.com
 hb.publift.com
 npm.publift.com
 prebid.publift.com
@@ -179,6 +189,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -233,6 +244,7 @@ ui-eu.maxymiser.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
@@ -274,6 +286,9 @@ sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
+ext-arango.ad4mat.net
+nexus.ad4mat.net
+static.ad4mat.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -282,6 +297,8 @@ tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
+hetartwg.com
+ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -289,6 +306,9 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+analytics.truffle.bid
+cdn.truffle.bid
+matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 analytics.logsss.com
@@ -335,6 +355,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -368,6 +389,7 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
+aff-online.com
 aff-track.net
 mntzrlt.net
 daly2024.com
@@ -403,6 +425,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
+mautic.educa.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -442,6 +465,7 @@ ads.careerbuilder.vn
 ads.chanhtuoi.com
 ads.ictnews.vn
 ads.inetgroup.vn
+ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
 adv.vnnshop.vn
@@ -472,6 +496,7 @@ analytics.tintuc.vn
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
+log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
@@ -546,6 +571,7 @@ adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
+ads.amigos.com
 ads.aspalliance.com
 ads.bumq.com
 ads.clickdigisol.net
@@ -555,9 +581,11 @@ ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
 ads.geekswithblogs.net
+ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
+ads.outpersonals.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -567,7 +595,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -578,6 +605,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -869,6 +897,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1042,6 +1071,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1049,6 +1079,7 @@ fixespreoccupation.com
 fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
+fm.zipperszebecs.com
 foliumumu.com
 foogeetoary.net
 fopteefteex.com
@@ -1085,6 +1116,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1101,7 +1133,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1130,13 +1161,16 @@ grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
 grishoussaiz.com
+gristleupanaya.com
 grooksom.com
 groopsie.net
+groumaux.net
 grovkuma.com
 grubsnuchale.com
 grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
+gtubumgalb.com
 gueqiwsbxp.com
 guhalxqa.com
 guhomnfuzq.com
@@ -1225,7 +1259,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1273,12 +1306,14 @@ jagnoans.com
 jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
+jeewoo.xctd.me
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1387,6 +1422,7 @@ llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
 locketcattishson.com
+loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
@@ -1395,6 +1431,7 @@ louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
 lowseelan.com
+lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
 lreapfalkguh.com
@@ -1429,6 +1466,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1463,7 +1501,6 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
-mobpushup.com
 moodokay.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1521,6 +1558,7 @@ nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
+nuzatbdmy.com
 nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
@@ -1710,6 +1748,7 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
+profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1813,7 +1852,6 @@ rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
 rigelink.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2024,6 +2062,7 @@ toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
+tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
 trafficstrategies.com
@@ -2095,6 +2134,7 @@ vdyunvfrfale.com
 ve01.mgod33cme.com
 vecmekreghesh.net
 vekseptaufin.com
+velsirtohoosh.net
 vertadnet.com
 vfuqivac.com
 viewlnk.com
@@ -2279,6 +2319,7 @@ leadzutw.com
 metrics.sdkbox.com
 moatpixel.com
 play.leadzutw.com
+poole-collector-prod.n3twork.com
 q2melbourne.com
 richmetrics.com
 saspreview.com
