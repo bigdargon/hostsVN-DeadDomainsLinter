@@ -37,7 +37,6 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
@@ -60,6 +59,10 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -241,7 +244,10 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
+voodoo-ads.io
 trackers.voodoo-analytics.io
+voodoo-analytics.io
+www.voodoo-analytics.io
 bidadx.com
 anymad.com
 cdn.anymad.com
@@ -283,6 +289,7 @@ ext-arango.ad4mat.net
 nexus.ad4mat.net
 static.ad4mat.net
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 network.adclickmedia.com
 tracking.adclickmedia.com
@@ -382,6 +389,7 @@ litvp.com
 ss15.litvp.com
 ss29.litvp.com
 aff-online.com
+aff-track.net
 mntzrlt.net
 daly2024.com
 media.daly2024.com
@@ -586,6 +594,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -704,6 +713,7 @@ axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
+b5e75c56.com
 baaomenaltho.com
 babyniceshark.com
 baccytorve.com
@@ -768,7 +778,6 @@ bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
-boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -779,6 +788,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -807,7 +817,6 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
-carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -1018,6 +1027,7 @@ evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
+exobafrgdf.com
 exogripper.com
 exomonyf.com
 expdirclk.com
@@ -1072,6 +1082,7 @@ foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
+forgerylimit.com
 formalitydetached.com
 forspearowor.com
 fossorplumper.com
@@ -1150,7 +1161,6 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
-grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1190,7 +1200,6 @@ hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
-hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1247,6 +1256,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1267,6 +1277,7 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1509,6 +1520,7 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
+naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
@@ -1607,7 +1619,6 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
-opxaxqxaqo.com
 opzoxvxut.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1678,6 +1689,7 @@ pencilcongress.com
 pepepush.net
 perceivequarter.com
 peskyclarifysuitcases.com
+petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
 phaibeertou.com
@@ -1973,6 +1985,7 @@ sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
+stolenforensicssausage.com
 stooghopsee.net
 stoopfalse.com
 stoorgel.com
@@ -1980,7 +1993,6 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
-subsequentstew.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2010,6 +2022,7 @@ tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
+techclicks.net
 tentaculos.net
 terrapsps.com
 tetrylscullion.com
@@ -2017,6 +2030,7 @@ thads.cc
 that-muscle.com
 thedevband.com
 theedreemteedro.com
+theestauptooks.net
 thhwzyuktk.com
 thiem-csl.com
 thinkappetitefeud.com
@@ -2041,8 +2055,6 @@ toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
-tornbed.pro
-toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2068,7 +2080,6 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
-tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -2169,8 +2180,10 @@ weesatoothoamu.net
 weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
+whimogheshestid.net
 whoarguwaghu.net
 wholesaletraffic.info
+whoockeg.top
 whoonseepoutche.net
 whoostoo.net
 whowhipi.net
