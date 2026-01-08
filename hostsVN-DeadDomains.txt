@@ -1,5 +1,6 @@
 googleads-cn.com
 blueserving.com
+www.megapopads.com
 swift.lifestreet.com
 medialytics.com
 a.medialytics.com
@@ -51,7 +52,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
@@ -91,6 +91,7 @@ aj1015.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2307.online
@@ -292,7 +293,6 @@ hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
-ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
@@ -301,7 +301,6 @@ analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -344,7 +343,6 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
-ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -794,6 +792,7 @@ carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
+cauvousy.net
 cavbildi.com
 cccpmo.com
 ccg90.com
@@ -994,7 +993,6 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
-evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
@@ -1066,6 +1064,7 @@ frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
+fudukrujoa.com
 fumrafdwaapp.com
 futsonseeke.net
 futuristicapparatus.com
@@ -1226,7 +1225,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1338,6 +1336,7 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
@@ -1576,6 +1575,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1620,6 +1620,7 @@ oversnubbulltor.com
 ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
+owjaqdywlviyfe.com
 owjwhuaklf.com
 owlqahovgog.com
 owvobdogd.com
@@ -1985,6 +1986,7 @@ tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
+tcseehnbrn.com
 tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
@@ -2150,7 +2152,6 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
-whoarguwaghu.net
 wholesaletraffic.info
 whoockeg.top
 whoonseepoutche.net
@@ -2213,12 +2214,6 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
-xsaeafkfilbcur.com
-xsaheqapygdykxq.com
-xtuokkzro.com
-xumamropnox.com
-xwdoxgilvdbj.com
-xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -2262,7 +2257,6 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
-zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
