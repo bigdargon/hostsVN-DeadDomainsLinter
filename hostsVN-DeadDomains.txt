@@ -52,6 +52,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
@@ -293,6 +294,7 @@ hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
+ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
@@ -301,6 +303,7 @@ analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
+s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -343,6 +346,7 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -993,6 +997,7 @@ errantstetrole.com
 eryondistain.com
 escortlarbul.com
 euros4click.de
+evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
@@ -1172,7 +1177,6 @@ hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
-heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
 heraldet.com
@@ -1448,7 +1452,6 @@ messsomehow.com
 metahv.xyz
 mfajfikmyqan.com
 mfymrypcirm.com
-mgbid.net
 mgepuynxttyi.com
 mgpsxcge.com
 mhavfytafo.com
@@ -1575,7 +1578,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1591,7 +1593,6 @@ opzoxvxut.com
 oqdavkguftan.com
 oqdtuqat.com
 oqfoczdfyag.com
-oqnjfotketk.com
 orbsclawand.com
 orcpfawzuvfe.com
 orfabfbu.com
@@ -1630,18 +1631,14 @@ oxldadxib.com
 oxthrilled.com
 oyfuhknvk.com
 ozbkfuhpuolf.com
-ozbnagojbop.com
 ozctkohaqmc.com
 ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
-padstm.com
 pajnutas.com
 pallivermis.shop
-panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1708,7 +1705,6 @@ powershatchet.com
 pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
-pramviable.com
 pranavafolksey.com
 praterswhally.com
 pre4sentre8dhf.com
@@ -1854,7 +1850,6 @@ rtfvtxer.com
 ru-traffic.com
 ruckingefs.com
 rukktiswibi.com
-rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -2125,7 +2120,6 @@ vrancaozgdw.com
 vruaskogjsu.com
 vstvstsa.com
 vtqddgntio.com
-vtvldhbbdilepes.com
 vudachisouxouk.net
 vugnubier.com
 vugpakba.com
@@ -2152,6 +2146,7 @@ weuppwrlcper.com
 wfuhkyardawh.com
 wheensamufouk.net
 whimogheshestid.net
+whoarguwaghu.net
 wholesaletraffic.info
 whoockeg.top
 whoonseepoutche.net
@@ -2214,6 +2209,12 @@ xmkmuadkefzav.com
 xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
+xsaeafkfilbcur.com
+xsaheqapygdykxq.com
+xtuokkzro.com
+xumamropnox.com
+xwdoxgilvdbj.com
+xxxmyself.com
 yaarlnk.com
 yakbwmncsfnqgvx.com
 yatkaddvhk.com
@@ -2257,6 +2258,7 @@ zintext.com
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
+zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
