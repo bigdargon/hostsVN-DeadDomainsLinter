@@ -129,19 +129,15 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
-pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
 www.brand.ad
-ads.152media.com
-mob.152media.com
 cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -166,10 +162,7 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 go.exrtbsrv.com
-adrevenueindex.optad360.com
-api.optad360.com
-apipublisher.optad360.com
-publisher.optad360.com
+syndication.exrtbsrv.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
 geo.choice.faktor.io
@@ -210,7 +203,6 @@ img.mondiad.net
 mondiad.net
 serve.mondiad.net
 c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -309,11 +301,6 @@ cdn.truffle.bid
 matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
-analytics.logsss.com
-logsss.com
-perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -325,7 +312,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-cdn.ggsfq.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -353,7 +339,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-r.grvmedia.com
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -368,7 +353,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
@@ -384,9 +368,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 aff-online.com
 aff-track.net
 mntzrlt.net
@@ -400,7 +381,6 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
@@ -437,7 +417,6 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -456,11 +435,9 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
-ads.chanhtuoi.com
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
@@ -485,7 +462,6 @@ qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -502,7 +478,6 @@ stats.osd.vn
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
-tracking.lsvn.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
@@ -579,8 +554,6 @@ ads.detelefoongids.nl
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
-ads.geekswithblogs.net
-ads.gplusmedia.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -594,13 +567,13 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
-adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
@@ -933,7 +906,6 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
-defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1176,6 +1148,7 @@ guhalxqa.com
 guhomnfuzq.com
 gukrelrock.net
 gusabfluchu.com
+gutackaxgo.com
 guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
@@ -1349,7 +1322,6 @@ kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
 kcgkiumubea.com
-kdm8.com
 kdpxksukngrg.com
 keapeiros.xyz
 kedaddinfinemem.com
@@ -1383,6 +1355,7 @@ kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
 kyrialbeknots.digital
+kzyadnfufmif.com
 labapwlkyov.com
 lacoacmokregh.net
 lakequincy.com
@@ -1455,7 +1428,6 @@ madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
-makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1474,7 +1446,6 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
-medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1802,6 +1773,7 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
+qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -1827,6 +1799,7 @@ rbkhpjfwtmirk.com
 rcyorjkze.com
 rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
+rduaagcwsw.com
 realizeparish.com
 rebtpzkgtas.com
 recedechatprotestant.com
@@ -1843,12 +1816,13 @@ repeatedspotlessstrobe.com
 resolutekey.com
 resolvedswordlinked.com
 retintsmillion.com
+retryngs.com
 rev2pub.com
 revmob.com
 revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
-rigelink.com
+ricthaaz.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2145,6 +2119,7 @@ visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
+voglgmlelzhlzo.com
 volsairdoagnaum.com
 voopsookie.net
 voosaivege.com
@@ -2161,7 +2136,6 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
-vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
