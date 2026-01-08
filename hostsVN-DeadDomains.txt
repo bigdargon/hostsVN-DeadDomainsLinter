@@ -36,7 +36,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -146,6 +145,7 @@ eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
+npm.publift.com
 prebid.publift.com
 showroom2.publift.com
 tools.publift.com
@@ -298,6 +298,7 @@ ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
+hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
@@ -312,10 +313,13 @@ s400.mxcdn.net
 analytics.logsss.com
 logsss.com
 perf.logsss.com
+rum.logsss.com
+s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -382,6 +386,7 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 litvp.com
+ss15.litvp.com
 ss29.litvp.com
 aff-online.com
 aff-track.net
@@ -397,7 +402,6 @@ klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
-wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
@@ -542,6 +546,7 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
+acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -583,7 +588,6 @@ ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
-ads2.rne.com
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
@@ -598,6 +602,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -850,7 +855,6 @@ cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
-clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -880,6 +884,7 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
+counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -889,6 +894,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1106,6 +1112,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1184,7 +1191,6 @@ handkerchiefpersonnel.com
 harderjuniormisty.com
 harib-eir.info
 hasalmarvt.com
-hasanjbam.com
 haufeechaukept.com
 hayforkminbu.com
 hazaraspekt.com
@@ -1229,10 +1235,6 @@ hoowooze.net
 houptaupaiho.net
 hpdvgejc.com
 hpikarkucasz.com
-hpimavpico.com
-hrjbylofyso.com
-hscozgoqffn.com
-hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
@@ -1249,7 +1251,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1270,6 +1271,7 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
+inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1334,6 +1336,7 @@ kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
+kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1456,6 +1459,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1492,7 +1496,6 @@ mobbersinwalls.com
 mobisla.com
 mobpushup.com
 moodokay.com
-moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
 mptmaxggqf.com
@@ -1904,6 +1907,7 @@ seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
+serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
@@ -2131,7 +2135,6 @@ viewyentreat.guru
 vikawjobtar.com
 viliaff.com
 vingtunacroter.top
-vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
@@ -2155,7 +2158,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
