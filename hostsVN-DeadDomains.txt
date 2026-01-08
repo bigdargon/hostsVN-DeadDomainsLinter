@@ -141,11 +141,11 @@ cdn.bidfilter.com
 static.adxxx.com
 fadskiz.com
 gadskis.com
+madsecz.com
 eu.xmlppcbuzz.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
-npm.publift.com
 prebid.publift.com
 showroom2.publift.com
 tools.publift.com
@@ -298,7 +298,6 @@ ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
-hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
@@ -313,13 +312,10 @@ s400.mxcdn.net
 analytics.logsss.com
 logsss.com
 perf.logsss.com
-rum.logsss.com
-s.logsss.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -386,7 +382,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 litvp.com
-ss15.litvp.com
 ss29.litvp.com
 aff-online.com
 aff-track.net
@@ -547,7 +542,6 @@ abyocawlfe.com
 acerolawaists.com
 achieverknee.com
 aclickads.com
-acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
@@ -594,7 +588,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -821,6 +814,7 @@ carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
+caugrithoowhu.net
 cauvousy.net
 cavbildi.com
 cccpmo.com
@@ -886,7 +880,6 @@ contehos.com
 convertedhorace.com
 coogoanu.net
 corrumpsublid.top
-counter.cz
 cousesheethain.net
 cpfqsubp.com
 cpxadroit.com
@@ -895,6 +888,7 @@ craterwhsle.com
 creepingbrings.com
 crepedzincite.top
 critical-replacement.com
+croniesobli.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1242,6 +1236,7 @@ hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
 htyzpilijhki.com
+hubarejnbsobic.com
 huhskyavngw.com
 hunchlastlysluice.com
 hupaiowicog.com
@@ -1275,7 +1270,6 @@ impractical-award.com
 inabsolor.com
 ingotedbooze.com
 innocentwax.com
-inquiryblue.com
 instrumentsponge.com
 interndry.com
 interstitial-07.com
@@ -1340,7 +1334,6 @@ kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
-kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
 kcaapxanwv.com
@@ -1911,7 +1904,6 @@ seeablywitness.com
 seemoovojezy.net
 sendmepixel.com
 seo4india.com
-serconmp.com
 sermonoccupied.com
 servedbyopenx.com
 setypckq.com
@@ -2062,6 +2054,7 @@ touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
 tracker-pm2.spilleren.com
+trafficstrategies.com
 traovrjwu.com
 trendcounter.com
 tribedone.org
@@ -2080,6 +2073,7 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
+tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
