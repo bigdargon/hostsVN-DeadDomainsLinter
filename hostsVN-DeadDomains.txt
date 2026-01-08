@@ -1,6 +1,5 @@
 googleads-cn.com
 blueserving.com
-swift.lifestreet.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -122,13 +121,13 @@ bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
-bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+pmddby.com
 s.pmddby.com
 brand.ad
 a.brand.ad
@@ -203,6 +202,7 @@ img.mondiad.net
 mondiad.net
 serve.mondiad.net
 c.netund.com
+netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -381,6 +381,7 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
@@ -417,6 +418,7 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -435,6 +437,7 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
+ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
@@ -512,7 +515,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
-abcahpkkuba.com
 abkoxlikbzs.com
 abmgpaqf.com
 abpvhymadq.com
@@ -574,6 +576,7 @@ adsmogo.mobi
 adsmogo.org
 adspace.ro
 adsrv.wtf
+adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
@@ -681,7 +684,6 @@ awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
 axiomaticalley.com
-axkwmsivme.com
 axx.seovietnam.pro
 aytcepmvxtelzf.com
 azqohjahfo.com
@@ -869,7 +871,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -906,6 +907,7 @@ deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
 defensive-living.com
+defusefinishedsleep.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
@@ -1271,7 +1273,6 @@ ivwbox.de
 iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
-izleskulked.shop
 j0x87i0og.com
 jacadpjirs.com
 jadeitite.com
@@ -1313,7 +1314,6 @@ jxkqgoicxthrb.com
 jyhlgpkn.com
 jyjfycnpodkjp.com
 kalwundked.com
-kamak-mab.com
 kangaroohiccups.com
 katukaunamiss.com
 kauleeci.com
@@ -1381,6 +1381,7 @@ lidosquey.shop
 lifpv.com
 liftdna.com
 ligeia-gip.com
+lightspeedcash.com
 ligvraojlrr.com
 likedstring.com
 limurol.com
@@ -1428,6 +1429,7 @@ madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
+makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
@@ -1446,6 +1448,7 @@ mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
+medialets.com
 mediamind.com
 mediasprucetree.com
 meowpushnot.com
@@ -1492,7 +1495,6 @@ mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
-naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
@@ -1987,7 +1989,6 @@ tabookbusines.info
 tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
-tangerinenet.biz
 tarybabottega.com
 tautauphaur.net
 tccnqgnmeveay.com
@@ -2136,6 +2137,7 @@ vugnubier.com
 vugpakba.com
 vujdudspear.com
 vupurdeeks.net
+vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2300,5 +2302,4 @@ tracking.scenepass.com
 umeng.co
 usergrid.com
 visitor.pixplug.in
-worldgravity.com
 yoursitestatstube.ru
