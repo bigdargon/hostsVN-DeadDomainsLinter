@@ -19,7 +19,6 @@ analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
-d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
@@ -37,6 +36,7 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
@@ -480,7 +480,6 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
-mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -594,7 +593,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -778,6 +776,7 @@ bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
+boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -805,7 +804,6 @@ buzzardcraizey.com
 bzwo2lmwioxa.com
 bzydilasq.com
 c44wergiu87heghoconutdx.com
-ca4psell23a4bur.com
 cacaobroach.com
 cafnqdsexgopiab.com
 calculatingtoothbrush.com
@@ -817,6 +815,7 @@ canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
 capsizehatlessprude.com
+carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
 cashewsforlife208.com
@@ -1069,7 +1068,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1161,6 +1159,7 @@ greyinstrument.com
 grirtouy.com
 grishoussaiz.com
 gristleupanaya.com
+grooksom.com
 groopsie.net
 groumaux.net
 grovkuma.com
@@ -1200,6 +1199,7 @@ hbntxrwmvf.com
 hbwncbwgyvgt.com
 hccaxtxfq.com
 hcetcuwit.com
+hcilralhi.com
 hcjfmbra.com
 heardsoppy.com
 hedgehoghugsyou.com
@@ -1619,6 +1619,7 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
+opxaxqxaqo.com
 opzoxvxut.com
 oqdavkguftan.com
 oqdtuqat.com
@@ -1866,7 +1867,6 @@ rmxpppehecrmz.com
 rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
-robitoaceeb.net
 rockabox.co
 rodejessie.com
 romauntmirker.com
@@ -1993,6 +1993,7 @@ stormyachiever.com
 streakattempt.com
 stunninglover.com
 subheroalgores.com
+subsequentstew.com
 suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
@@ -2055,6 +2056,8 @@ toawaups.net
 toenailannouncehardworking.com
 tooglidanog.net
 tookoupanoafig.com
+tornbed.pro
+toroadvertisingmedia.com
 total-fee.com
 toufajitoatuji.com
 touphudipodou.net
@@ -2069,7 +2072,6 @@ trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
 trustbummler.com
-trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
 tufoknaqzolp.com
@@ -2080,6 +2082,7 @@ twazzyoidwlfe.com
 tygsqtkyiwxb.com
 typiconrices.com
 tzhrmcnidxqwrb.com
+tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
@@ -2087,7 +2090,6 @@ ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
-uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
@@ -2207,7 +2209,6 @@ wmeozwavstre.com
 woamoogloow.net
 woamowhoastoup.net
 wokseephishopty.net
-wollybelayer.shop
 wonderlandads.com
 woochithoothie.net
 woomerapapacy.shop
