@@ -226,9 +226,6 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -474,6 +471,7 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -605,6 +603,7 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
+adjuggler.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -656,6 +655,7 @@ af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
+afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
@@ -683,6 +683,7 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
+alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
 allstarmediagroup.com
@@ -715,6 +716,7 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -724,6 +726,7 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
+astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -765,7 +768,6 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
-banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -837,7 +839,6 @@ btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
-burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -1134,7 +1135,6 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
-frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -1222,7 +1222,6 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
-gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
@@ -1300,6 +1299,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1367,7 +1367,6 @@ jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
-jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -1409,14 +1408,14 @@ knurleddeblock.guru
 koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
-kqalbhgnd.com
 kraapmanmb.com
+kronosspell.com
+ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
-kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
@@ -1429,6 +1428,7 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
+laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
@@ -1453,6 +1453,8 @@ linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
+lj.ochreargue.shop
+lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
@@ -1509,6 +1511,7 @@ mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
+mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1608,6 +1611,7 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
+obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1618,6 +1622,7 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
+ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1646,6 +1651,7 @@ onetouch12.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
+oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1680,10 +1686,8 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
-outwoodeuropa.com
 ov.gumdropolena.com
 oversnubbulltor.com
-ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjaqdywlviyfe.com
@@ -1745,7 +1749,6 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
-pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1753,7 +1756,6 @@ plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
-pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1798,7 +1800,6 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
-ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -1990,6 +1991,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
+sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2059,7 +2061,6 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
-tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -2287,8 +2288,6 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
-xtuokkzro.com
-xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
@@ -2313,6 +2312,7 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
+yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
