@@ -390,7 +390,6 @@ connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -419,8 +418,6 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
-amntx1.net
-media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
@@ -709,7 +706,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
@@ -777,6 +773,7 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
+banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -801,7 +798,6 @@ bepansaer.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
-bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -897,9 +893,7 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
-circularnothing.com
 civadsoo.net
-cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
@@ -1001,6 +995,7 @@ dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
+diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -1118,7 +1113,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1163,7 +1157,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1373,6 +1366,7 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
+jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1513,7 +1507,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1666,6 +1659,7 @@ oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
+openads.org
 opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
@@ -1900,7 +1894,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2286,10 +2279,10 @@ www.go-rillatrack.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
+www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
-xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
@@ -2379,7 +2372,6 @@ richmetrics.com
 saspreview.com
 showbiz.owndata.network
 tracking.news360.store
-tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
