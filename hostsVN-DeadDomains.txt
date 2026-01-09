@@ -38,6 +38,7 @@ platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -180,6 +181,7 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
+analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
@@ -264,10 +266,8 @@ www.mobile-10.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
-cdn.aicactus.io
 geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
-tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
 native-vpaid.winadx.com
@@ -426,7 +426,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2566.bid
 aj2581.bid
 aj2582.bid
 aj2584.bid
@@ -487,7 +486,6 @@ cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
@@ -531,11 +529,9 @@ bloggiamgia.info
 clipbongda.info
 clix.vn
 crocopop.com
-iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
@@ -650,7 +646,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -699,7 +694,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
-allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -755,7 +749,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -833,6 +826,7 @@ bmaahwahpofp.com
 bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
+boilhumoristpacifist.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
@@ -1016,6 +1010,7 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
+digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
@@ -1041,7 +1036,6 @@ dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
 easy2cnjuh34jb.com
-eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
@@ -1187,6 +1181,7 @@ gelclinchfranz.com
 gfugafoz.com
 gimxukhmcrbl.com
 girls-only.online
+gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1318,7 +1313,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1417,6 +1411,7 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
+kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1428,6 +1423,7 @@ koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
+kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
@@ -1629,7 +1625,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1763,7 +1758,6 @@ phocmogo.com
 phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
-phyfzaothmfy.com
 pieceredirect.com
 pienbitore.com
 piet2eix3l.com
@@ -1776,6 +1770,7 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
+planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
@@ -1901,6 +1896,7 @@ regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
+resolutekey.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
@@ -1909,7 +1905,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2003,6 +1998,7 @@ sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
+slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
@@ -2358,7 +2354,6 @@ zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
-zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
