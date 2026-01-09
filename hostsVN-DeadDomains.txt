@@ -63,7 +63,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -75,7 +74,11 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+content.ad
+api.content.ad
 app.content.ad
+media.content.ad
+partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
@@ -106,7 +109,6 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
-static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -208,7 +210,6 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -403,7 +404,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
@@ -447,11 +447,10 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-prebid.ants.vn
-schemas.ants.vn
-staging-d.ants.vn
-t.ants.vn
-t.d.ants.vn
+babe.ants.vn
+tool.cleverads.vn
+widget.cleverads.vn
+www.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -478,6 +477,7 @@ m.clevernet.vn
 www.clevernet.vn
 k8s2.testcentre.vn
 testcentre.vn
+wpn.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
@@ -494,6 +494,7 @@ static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -510,18 +511,20 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
+ads.businessstyle.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
-adv.autosurf.vn
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -548,7 +551,6 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -639,7 +641,6 @@ ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
-ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -699,6 +700,7 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
+akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
@@ -762,6 +764,7 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
+awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
@@ -776,7 +779,6 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
-backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 baivifogrouk.com
@@ -880,6 +882,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1009,6 +1012,7 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
+dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
@@ -1107,6 +1111,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
@@ -1176,7 +1181,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1228,7 +1232,6 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
-grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -1487,7 +1490,6 @@ locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
-lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
@@ -1518,6 +1520,7 @@ madriyelowd.com
 madserve.org
 mage98rquewz.com
 makemydownload.com
+makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1527,7 +1530,6 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1623,8 +1625,6 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
-nvcrcf.com
-nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
@@ -1650,7 +1650,6 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
-ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1804,7 +1803,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-star.de
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1917,6 +1915,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2043,6 +2042,7 @@ sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
+ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
@@ -2373,7 +2373,6 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
-zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
