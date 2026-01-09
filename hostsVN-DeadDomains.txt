@@ -45,11 +45,9 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
-cs.lkqd.net
 m.lkqd.net
 rfp.lkqd.net
 rs-lb-a.lkqd.net
-rs-lb-b.lkqd.net
 rtb.lkqd.net
 s.lkqd.net
 ssp.lkqd.net
@@ -226,6 +224,9 @@ m.faktor.io
 mobile.faktor.io
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -379,7 +380,6 @@ static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
 pixel.app.returnpath.net
-pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
 hummingbird.mavencoalition.io
@@ -603,7 +603,6 @@ adaftegloomto.com
 adbrn.com
 adcloud.net
 adformdsp.net
-adjuggler.com
 adk2.co
 adkchtmtns.com
 adlite.net
@@ -768,6 +767,7 @@ bajavdafwafp.com
 bande2az.com
 banner.casino.net
 banner.coza.com
+banner.eurogrand.com
 banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
@@ -799,6 +799,7 @@ berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
 bestcond1tions.com
+besthealthblog.pro
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -839,6 +840,7 @@ btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
+burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -981,7 +983,6 @@ delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
-deloplen.com
 demo123.info
 demtaudeeg.com
 dendranthe4edm7um.com
@@ -1135,6 +1136,7 @@ fpukxcinlf.com
 fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
+frenchequal.pro
 frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
@@ -1222,6 +1224,7 @@ guvnatar.com
 gvsnhzmjr.com
 gwfqxkelp.com
 gwvlrourhdkp.com
+gwyvusam.com
 gxacvwmzfos.com
 gyfumobo.com
 gzefitkcep.com
@@ -1367,6 +1370,7 @@ jomtingi.net
 jozowgldpc.com
 jpjmpqaupc.com
 jpovulldaghw.com
+jpphaqpmugm.com
 jrbicvcnx.com
 js.xzjhome.cc
 jtoabhvw.com
@@ -1408,6 +1412,7 @@ knurleddeblock.guru
 koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
+kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
@@ -1416,6 +1421,7 @@ kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
 kupefoarsadseer.com
+kvaurjynazce.com
 kvtaaa.top
 kwanvibist.com
 kxnggkh2nj.com
@@ -1462,7 +1468,6 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
-loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -1486,7 +1491,6 @@ lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
 lysim-lre.com
-lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
 madeupadoption.com
 madriyelowd.com
@@ -1686,8 +1690,10 @@ outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
 ov.gumdropolena.com
 oversnubbulltor.com
+ovlliiwtxgjlz.com
 ovrcuncunxp.com
 ovxhhurafpi.com
 owjaqdywlviyfe.com
@@ -1749,6 +1755,7 @@ pilgrimarduouscorruption.com
 pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
+pkhhyool.com
 plaicecaught.com
 planesknob.com
 planningdesigned.com
@@ -1756,6 +1763,7 @@ plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
 plutothejewel.com
+pmagumovfma.com
 pocrd.cc
 pocrowpush.com
 podsklzegshmnd.com
@@ -1800,6 +1808,7 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
@@ -2061,6 +2070,7 @@ tdcietast.com
 tdpjzjpfuiis.com
 tearerernest.com
 techclicks.net
+tentaculos.net
 terrapsps.com
 tetrylscullion.com
 thads.cc
@@ -2080,7 +2090,6 @@ thoungoofeed.net
 thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
-tigubsovouwo.com
 tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
@@ -2288,6 +2297,8 @@ xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
 xsaheqapygdykxq.com
+xtuokkzro.com
+xumamropnox.com
 xwdoxgilvdbj.com
 xxxmyself.com
 yaarlnk.com
