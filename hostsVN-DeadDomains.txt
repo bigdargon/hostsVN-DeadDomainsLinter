@@ -36,12 +36,6 @@ ext1.engageya.com
 recs.engageya.com
 platform.engageya.com
 widget.engageya.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
 web.advertica-cdn.com
 ad.lkqd.net
 creative.lkqd.net
@@ -63,6 +57,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
+vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -109,6 +104,7 @@ image.sociaplus.com
 img.sociaplus.com
 panel.sociaplus.com
 sociaplus.com
+static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
@@ -210,6 +206,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -404,6 +401,7 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
@@ -411,6 +409,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv671.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -447,10 +446,6 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-babe.ants.vn
-tool.cleverads.vn
-widget.cleverads.vn
-www.cleverads.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -477,7 +472,6 @@ m.clevernet.vn
 www.clevernet.vn
 k8s2.testcentre.vn
 testcentre.vn
-wpn.codon.vn
 adx.vn
 matomo.hicity.vn
 mautic.casso.vn
@@ -486,7 +480,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-app.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -508,7 +501,6 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 d.watanet.work
-watanet.work
 cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
@@ -518,7 +510,6 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
-ads.businessstyle.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
@@ -551,6 +542,7 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -563,7 +555,6 @@ tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
-us.mplis.gov.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -641,6 +632,7 @@ ads.detelefoongids.nl
 ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
+ads.foxnetworks.com
 ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
@@ -655,6 +647,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -779,6 +772,7 @@ baaomenaltho.com
 babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
+backspacecomprisedgoliath.com
 baitpros.net
 baivideewou.com
 baivifogrouk.com
@@ -882,7 +876,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1093,7 +1086,6 @@ euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1136,7 +1128,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1181,6 +1172,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1232,6 +1224,7 @@ groopsie.net
 groumaux.net
 grovkuma.com
 grubsnuchale.com
+grudgewallet.com
 gruwrebutnar.com
 gsnb048lj.com
 gtubumgalb.com
@@ -1327,7 +1320,6 @@ iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
-ichdpdbpv.com
 idyllteapots.com
 ii.decastebonise.com
 iiqbttkbfvgyo.com
@@ -1376,7 +1368,6 @@ jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
-jildiklta.com
 jiordgxkpglzm.com
 jiwire.com
 jizoqsor.com
@@ -1427,7 +1418,6 @@ kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
 klkchits.com
-klumn.com
 knlqdtcbi.com
 knurleddeblock.guru
 koacocoosy.com
@@ -1437,7 +1427,6 @@ kqalbhgnd.com
 kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
-kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -1489,7 +1478,7 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
-loopassume.com
+lootoshevub.net
 lorybnfh.com
 louchees.net
 lowhoughevoass.com
@@ -1530,6 +1519,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1570,10 +1560,7 @@ moodokay.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
-mptmaxggqf.com
-mpunuxpurs.com
 mrybahnw.com
-msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
 mulautuzign.com
@@ -1591,7 +1578,6 @@ nakedfulfilhairy.com
 namol.xyz
 nangalupeose.com
 nastedsuglu.com
-nastinessreplicaupload.com
 nativewpsh.com
 naturalistsbumpmystic.com
 nauzaphoay.net
@@ -1625,6 +1611,8 @@ nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
 nuzatbdmy.com
+nvcrcf.com
+nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
 nygwcwsvnu.com
@@ -1646,10 +1634,10 @@ odfsmijima.com
 odgomfabcas.com
 oewabox.at
 offergate-other32.com
-offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
+ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1672,7 +1660,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1791,7 +1778,6 @@ podsklzegshmnd.com
 poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
-pointedpleasure.com
 politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
@@ -1826,7 +1812,6 @@ ptaixout.net
 ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
-ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
@@ -1917,6 +1902,7 @@ rickerrotal.com
 ricthaaz.com
 rightmedia.com
 ringedtusher.com
+ringerbaseballsilk.com
 riotedstuccos.top
 ritzykey.com
 riverstressful.com
@@ -1985,7 +1971,6 @@ sermonoccupied.com
 servedbyopenx.com
 setypckq.com
 sf960.com
-sghehllds.com
 shaiksuk.net
 shakyseat.com
 shakytaste.com
@@ -1997,7 +1982,6 @@ shestour.net
 shiglangee.net
 shoacmoackaugnu.com
 shoadroocoosso.com
-shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
 sickflock.com
@@ -2016,7 +2000,6 @@ slwrozacmq.com
 smileoffennec.com
 smilingwaves.com
 smnyayzhv.com
-smstcksjn.com
 snebbubbled.com
 snitzsauteur.shop
 snxewpxrhegslq.com
@@ -2373,6 +2356,7 @@ zmedia.com
 zpefriam.com
 zuisinchills.shop
 zuqalzajno.com
+zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
