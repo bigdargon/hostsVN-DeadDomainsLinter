@@ -390,6 +390,7 @@ connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
@@ -418,6 +419,8 @@ ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
+amntx1.net
+media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
@@ -593,7 +596,6 @@ acpolxakcl.com
 ad-miner.com
 ad-spb.ru
 ad.abctv.com
-ad.bizo.com
 ad.foxnetworks.com
 ad.kissasian.es
 ad.nwt.cz
@@ -636,7 +638,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -647,7 +648,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -706,6 +706,7 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
@@ -798,6 +799,7 @@ bepansaer.com
 berkshiretoday.xyz
 beseechpill.com
 beshucklean.com
+bestcond1tions.com
 bestlampjoy.com
 bestzba.com
 betmagnezonea.com
@@ -875,7 +877,6 @@ chaikempakr.com
 charming-people.com
 cheap-result.pro
 checkbookdisgusting.com
-chelonebarpost.com
 chertouz.net
 chickensstation.com
 chinaslauras.com
@@ -893,7 +894,9 @@ ciar-kep.com
 cifzuqopdpzi.com
 cigdizwu.com
 cihwactuqkco.com
+circularnothing.com
 civadsoo.net
+cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
@@ -938,7 +941,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1155,8 +1157,8 @@ gagowtvi.com
 gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
-gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1507,6 +1509,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1542,7 +1545,6 @@ mmrjzyaqzwcad.com
 mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
-mobpushup.com
 moodokay.com
 moonlitturbots.com
 morningamidamaruhal.com
@@ -1597,7 +1599,6 @@ nowheresank.com
 npipajajn.com
 nqcgdvuuyxwj.com
 nqucjilr.com
-nrknstdms.com
 nudgehydrogen.com
 numerosuffice.shop
 nuryotzgl.com
@@ -1606,7 +1607,6 @@ nvcrcf.com
 nwhnzkbfsnpf.com
 nxcygebmxxuo.com
 nycvqozkkmzti.com
-nygwcwsvnu.com
 nyvpezvddyb.com
 nzaza.com
 oackoubs.com
@@ -1652,6 +1652,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1844,7 +1845,6 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
-qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
@@ -2114,7 +2114,6 @@ tracker-pm2.spilleren.com
 trafficstrategies.com
 traovrjwu.com
 trendcounter.com
-tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
@@ -2283,6 +2282,7 @@ www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
+xeiidlkuxsos.com
 xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
@@ -2357,7 +2357,6 @@ analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 dolohen.com
-go.ad1data.com
 hsbarbershop.co.uk
 ilogs.bytefence.com
 img.leadzutw.com
@@ -2372,6 +2371,7 @@ richmetrics.com
 saspreview.com
 showbiz.owndata.network
 tracking.news360.store
+tracking.scenepass.com
 usergrid.com
 worldgravity.com
 yoursitestatstube.ru
