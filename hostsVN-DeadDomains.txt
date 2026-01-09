@@ -64,6 +64,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
@@ -118,7 +119,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-services.scanscout.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -254,6 +254,7 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.mondiad.net
 img.mondiad.net
+mondiad.net
 serve.mondiad.net
 c.netund.com
 netund.com
@@ -281,7 +282,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 app2.inorbitad.com
 maxymiser.net
 service.maxymiser.net
@@ -333,9 +333,6 @@ sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
-ext-arango.ad4mat.net
-nexus.ad4mat.net
-static.ad4mat.net
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -477,8 +474,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.casso.vn
-mautic.educa.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -535,18 +530,15 @@ iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
-qc.mhsolution.vn
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
-analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -584,9 +576,9 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 3in6ko.com
 4d5.net
 4hfchest5kdnfnut.com
-4info.com
 4wnet.com
 52dvzo62i.com
+5enaovbz2.com
 aabtrrnspgtdi.com
 abbalgapb.com
 abbvagoz.com
@@ -618,22 +610,18 @@ adkchtmtns.com
 adlite.net
 admagnet.net
 admedia.network
-adnotch.com
 adplus.co.id
 adprotected.com
 adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
-ads.amigos.com
 ads.aspalliance.com
 ads.bigchurch.com
 ads.bumq.com
 ads.clickdigisol.net
-ads.contactmusic.com
 ads.crakmedia.com
 ads.detelefoongids.nl
-ads.digitalmedianet.com
 ads.directionsmag.com
 ads.expat-blog.biz
 ads.foxnetworks.com
@@ -651,6 +639,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -744,6 +733,7 @@ astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
+atrochaxctl.shop
 audiens.com
 audraghafamign.net
 aulteeby.net
@@ -787,7 +777,6 @@ banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
 bannermarkt.nl
-banquetunarmedgrater.com
 barnesandnoble.bfast.com
 barscreative1.com
 basebanner.com
@@ -869,6 +858,7 @@ calculatingtoothbrush.com
 camberchimp.com
 canangafierier.uno
 canoevaguely.com
+canuncartes.help
 canzosswager.com
 capitalgolfmushily.com
 cappuccinoeliza.com
@@ -1011,7 +1001,6 @@ dgxmvglp.com
 dhuimjkivb.com
 dhurratrait.qpon
 diazoestmark.guru
-diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
 digyniahuffle.com
@@ -1169,6 +1158,7 @@ fziwzaalp.com
 ga-ads.com
 gabanxaq.com
 gagowtvi.com
+gaijiglo.net
 gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
@@ -1383,7 +1373,6 @@ joglomsexurgod.net
 jollytestpartying.com
 jomtingi.net
 jozowgldpc.com
-jpjmpqaupc.com
 jpovulldaghw.com
 jpphaqpmugm.com
 jrbicvcnx.com
@@ -1472,7 +1461,6 @@ likedstring.com
 limurol.com
 linkadvdirect.com
 linkshighway.net
-liquidad.narrowcastmedia.com
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1484,6 +1472,7 @@ lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
 lollipopsurveys.com
+loopassume.com
 lootoshevub.net
 lorybnfh.com
 louchees.net
@@ -1501,8 +1490,8 @@ luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
-lumupu.xyz
 lutoorgourgi.com
+luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
@@ -1677,7 +1666,6 @@ oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
-openads.org
 opntwymri.com
 opsivesh.net
 opxaxqxaqo.com
@@ -1693,6 +1681,7 @@ organicbonus.com
 orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
+ornpuxmucb.com
 orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
@@ -1729,6 +1718,7 @@ ozkpkocib.com
 ozmbzowg.com
 ozongees.com
 ozxakfawm.com
+p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
 pajnutas.com
 pallivermis.shop
@@ -1877,6 +1867,7 @@ qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
 ranking-liste.de
+rapepush.net
 raphanysteers.com
 rapidcounter.com
 raunoaptotoaw.com
@@ -1947,7 +1938,6 @@ rtk.io
 ru-traffic.com
 ruckingefs.com
 rukktiswibi.com
-rumadel.com
 rundsp.com
 rutpunishsnitch.com
 ruwertur.com
@@ -2032,7 +2022,6 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
-spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
@@ -2109,6 +2098,7 @@ thounookra.com
 thumhuwbtt.com
 thvhjgxmyjnoqvq.com
 tigubsovouwo.com
+tiiytaekjajw.com
 tipcatscarola.com
 tixoxzfpur.com
 tkivhuluzcwi.com
@@ -2296,7 +2286,6 @@ www.go-rillatrack.com
 www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
-www.xumamropnox.com
 wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
@@ -2374,7 +2363,6 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
-comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
@@ -2392,9 +2380,7 @@ saspreview.com
 showbiz.owndata.network
 tracking.news360.store
 tracking.scenepass.com
-umeng.co
 usergrid.com
-visitor.pixplug.in
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
