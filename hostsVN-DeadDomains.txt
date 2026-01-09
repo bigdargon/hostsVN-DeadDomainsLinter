@@ -78,6 +78,7 @@ v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
+media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
@@ -445,8 +446,11 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
+klick.vn
+qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -470,7 +474,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
@@ -510,6 +513,7 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
+adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -534,7 +538,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -626,6 +629,7 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.outpersonals.com
+ads.passion.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -635,7 +639,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -653,7 +656,6 @@ af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
 affiliates.devilfishpartners.com
-afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
 agapios-gla.com
@@ -681,7 +683,6 @@ ak.stikroltiltoowi.net
 akximhhcunr.com
 akxopgjuw.com
 alebrinkfed.com
-alkalizemarineprude.com
 all4spy.com
 allodsubussu.com
 allstarmediagroup.com
@@ -714,7 +715,6 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
-arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -724,7 +724,6 @@ asfobftirag.com
 asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
-astivysauran.com
 ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
@@ -1174,6 +1173,7 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
+glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1300,7 +1300,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1412,8 +1411,6 @@ kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
 kraapmanmb.com
-kronosspell.com
-ktaehxdlf.com
 kteopzgukl.com
 kudlyhhfccarb.com
 kuglcibhyhuj.com
@@ -1432,7 +1429,6 @@ lambingsyddir.com
 lame7bsqu8barters.com
 lapnicjaqxu.com
 lassampy.com
-laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
 leadbolt.net
@@ -1457,8 +1453,6 @@ linkadvdirect.com
 linkshighway.net
 litaudrootsa.net
 littlecdn.com
-lj.ochreargue.shop
-lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
@@ -1500,6 +1494,7 @@ makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
+maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
@@ -1514,7 +1509,6 @@ mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
 medialets.com
-mediamind.com
 mediasprucetree.com
 meowpushnot.com
 mesangefanwise.tech
@@ -1614,7 +1608,6 @@ oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
-obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
@@ -1625,7 +1618,6 @@ odgomfabcas.com
 oewabox.at
 offergate-other32.com
 offgalvantulaom.com
-ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
 ogsbpoofzlk.com
@@ -1651,11 +1643,9 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
-oodseengairgy.net
 ootchoft.com
 opcharizardon.com
 opdhoxor.com
@@ -1929,6 +1919,7 @@ rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ru-traffic.com
+ruckingefs.com
 rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
@@ -1999,7 +1990,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2192,6 +2182,7 @@ vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
+vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
@@ -2322,7 +2313,6 @@ yougotacheck.com
 yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
-yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
