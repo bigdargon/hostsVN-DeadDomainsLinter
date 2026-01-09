@@ -38,7 +38,6 @@ platform.engageya.com
 widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -181,13 +180,13 @@ static.adxxx.com
 fadskiz.com
 gadskis.com
 madsecz.com
-analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
+s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -368,6 +367,7 @@ ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
+beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -546,7 +546,6 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -651,6 +650,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -668,6 +668,7 @@ adxpose.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
+affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -694,9 +695,11 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
+akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
+allaqxoh.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -752,6 +755,7 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
+avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -821,6 +825,7 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
+blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 blibberon.xyz
@@ -874,7 +879,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -912,6 +916,7 @@ cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
+clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -952,7 +957,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1012,7 +1016,6 @@ diazoestmark.guru
 diedstubbornforge.com
 digiadzone.com
 digitalmerkat.com
-digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
@@ -1060,7 +1063,6 @@ ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
-elitedollars.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1112,6 +1114,7 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
+febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
@@ -1150,6 +1153,7 @@ fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
+frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
@@ -1183,7 +1187,6 @@ gelclinchfranz.com
 gfugafoz.com
 gimxukhmcrbl.com
 girls-only.online
-gishejuy.com
 gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
@@ -1274,6 +1277,7 @@ hh-btr.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
+hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
@@ -1314,6 +1318,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1412,7 +1417,6 @@ kempucmouftordo.com
 kiklazopnqce.com
 kiltcusks.shop
 kindly-face.pro
-kirteexe.tv
 kixgpapwia.com
 kjqsnxibegvue.com
 kkoobzmirh.com
@@ -1424,7 +1428,6 @@ koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
-kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
@@ -1498,6 +1501,7 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
+lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1631,6 +1635,7 @@ oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
 observantice.com
+ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1771,11 +1776,9 @@ pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
 planesknob.com
-planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
-plusungratefulinstruction.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
@@ -1810,6 +1813,7 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
+providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -1897,8 +1901,6 @@ regletsminings.shop
 relievedgeoff.com
 remastcoolth.life
 repeatedspotlessstrobe.com
-resolutekey.com
-resolvedswordlinked.com
 retintsmillion.com
 retryngs.com
 rev2pub.com
@@ -2001,7 +2003,6 @@ sjvaovqhn.com
 skynightmidm.com
 slickaffiliate.com
 sljtqfcyi.com
-slockertummies.com
 slopeaota.com
 slopingunrein.com
 slwrozacmq.com
@@ -2077,6 +2078,8 @@ tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
+tarybabottega.com
+tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -2301,6 +2304,7 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
+xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
@@ -2340,6 +2344,7 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
+yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
