@@ -74,7 +74,6 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
-v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
@@ -305,7 +304,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 urlhausa.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -380,7 +378,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
@@ -394,13 +391,17 @@ hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 o.agentanalytics.com
+p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -411,6 +412,7 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -532,6 +534,7 @@ clix.vn
 crocopop.com
 iads.vision
 imgcdnbet.com
+mobileads.dieuviet.com
 motphimqq.pro
 qc.mhsolution.vn
 quangcao.fff.com.vn
@@ -544,7 +547,6 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -645,11 +647,11 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
+adsage.cn
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -661,6 +663,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -706,9 +709,7 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 amoteehoodaumse.net
-amusingsnow.pro
 an.cliphub.net
-anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -835,6 +836,7 @@ bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
+bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
@@ -954,6 +956,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1103,6 +1106,7 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
+faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1128,6 +1132,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1141,6 +1146,7 @@ foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 forgerylimit.com
+formalitydetached.com
 forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
@@ -1315,6 +1321,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1486,7 +1493,6 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
-lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
 lqbkshojlhmyj.com
@@ -1558,7 +1564,6 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
-moodokay.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1578,6 +1583,7 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
+nagoverpayreimburse.com
 naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
@@ -1606,7 +1612,6 @@ niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
-noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1738,7 +1743,6 @@ particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
-pauewr4cw2xs5q.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
@@ -1761,6 +1765,7 @@ phoompoukoaltin.net
 photographpan.com
 phoucmiwashook.com
 phyfzaothmfy.com
+pieceredirect.com
 pienbitore.com
 piet2eix3l.com
 pignuwoa.com
@@ -1866,6 +1871,7 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
+qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1924,6 +1930,7 @@ rndnoibattor.com
 rngpaluydont.com
 roashudiweeh.com
 robitoaceeb.net
+rockabox.co
 rodejessie.com
 romauntmirker.com
 romepoptahul.com
@@ -2157,6 +2164,7 @@ ujqwhqjckhscl.com
 uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
+unarbokor.com
 undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
@@ -2370,6 +2378,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+comscoreresearch.com
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
