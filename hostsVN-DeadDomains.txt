@@ -75,11 +75,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-content.ad
-api.content.ad
 app.content.ad
-media.content.ad
-partners.content.ad
 rest.content.ad
 www.content.ad
 hb.adomik.com
@@ -303,9 +299,11 @@ cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
+www.anymad.com
 urlhausa.com
 click.showcasethat.com
 images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -328,6 +326,7 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -448,6 +447,11 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+prebid.ants.vn
+schemas.ants.vn
+staging-d.ants.vn
+t.ants.vn
+t.d.ants.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -482,6 +486,7 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
+app.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -489,7 +494,6 @@ static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -506,8 +510,6 @@ d.watanet.work
 watanet.work
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
@@ -519,6 +521,7 @@ ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
 adserver.trangphim.net
+adv.autosurf.vn
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -558,6 +561,7 @@ tracking.fff.com.vn
 tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
+us.mplis.gov.vn
 vietnamdaily-log.trithuccuocsong.vn
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
@@ -602,7 +606,6 @@ achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
-ad-pay.de
 ad-spb.ru
 ad.abctv.com
 ad.bizo.com
@@ -655,6 +658,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -695,7 +699,6 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
-akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
@@ -759,7 +762,6 @@ avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
 avvxcexk.com
-awaps.net
 awhauchoa.net
 awvracajcsu.com
 awwagqorqpty.com
@@ -837,6 +839,8 @@ bookletblockedcaught.com
 boozoomamesha.net
 bouncecardiganculture.com
 bouptinoolaiwam.net
+br3azil334nutsz.com
+brattieseries.com
 breakupbun.com
 breathelicense.com
 brechtembrowd.com
@@ -1005,7 +1009,6 @@ dependpinch.com
 desertsfraze.com
 despicablereporthusband.com
 destisheem.com
-dfyvcihusajf.com
 dgqlwqedzowhqb.com
 dgxmvglp.com
 dhuimjkivb.com
@@ -1082,7 +1085,6 @@ erosyndc.com
 errantstetrole.com
 eryondistain.com
 escortlarbul.com
-european-toplist.de
 euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
@@ -1105,7 +1107,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
 fatsosjogs.com
@@ -1313,6 +1314,7 @@ hupaiowicog.com
 huppontic.com
 huskymeloid.qpon
 hutchieshode.com
+huwqhqezemv.com
 hvxnlmjx.com
 hxpohplms.com
 hydraulzonure.com
@@ -1367,6 +1369,7 @@ jagzrmdyw.com
 jaletemetia.com
 jaumevie.com
 jeewoo.xctd.me
+jfgeuisugoekf.com
 jfiwzimupbt.com
 jhxakdmdlz.com
 jighucme.com
@@ -1515,7 +1518,6 @@ madriyelowd.com
 madserve.org
 mage98rquewz.com
 makemydownload.com
-makespram.com
 makqfcvs.com
 malhfiacgx.com
 maljuggu.com
@@ -1833,6 +1835,7 @@ ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
+pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -1897,6 +1900,7 @@ recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
 redmas.com
+reecegrita.com
 refraintupaiid.com
 regardviolas.shop
 regletsminings.shop
@@ -2034,13 +2038,11 @@ speakspurink.com
 special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
-sponsorpro.de
 spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
 sqhneencmysrk.com
-ssqyuvavse.com
 starkuno.com
 static-ads.akamaized.net
 static.scptpx.com
@@ -2314,6 +2316,7 @@ xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
 xmkmuadkefzav.com
+xnfmbejucgoldi.com
 xovq5nemr.com
 xpbbyiqbcawamy.com
 xsaeafkfilbcur.com
@@ -2362,6 +2365,7 @@ zeepmedia.com
 zeroredirect1.com
 zihcabtkic.com
 zintext.com
+zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zmalalxt.com
@@ -2373,6 +2377,7 @@ zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 comscoreresearch.com
