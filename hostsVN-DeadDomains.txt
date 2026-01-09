@@ -188,7 +188,6 @@ eb.proper.io
 events.proper.io
 global.proper.io
 monitoring.proper.io
-s2s.proper.io
 kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
@@ -369,7 +368,6 @@ ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
-beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
 ad.samsungadhub.com
@@ -383,6 +381,7 @@ trk.vidible.tv
 adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
+static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
 pixel.app.returnpath.net
@@ -529,6 +528,7 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
+clipbongda.info
 clix.vn
 crocopop.com
 iads.vision
@@ -647,30 +647,27 @@ ads.websiteservices.com
 ads1.rne.com
 ads2.net-communities.co.uk
 ads2.rne.com
-adsage.cn
 adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
 af.endballbemires.com
 afearprevoid.com
 affcpatrk.com
-affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
@@ -697,7 +694,6 @@ ak.groaxonsoow.net
 ak.litaudrootsa.net
 ak.stikroltiltoowi.net
 akximhhcunr.com
-akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
@@ -756,7 +752,6 @@ autjaetpxhj.com
 automatedrepsturmoil.com
 auucktbehfdr.com
 aveguijdwp.com
-avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
 avvavcazs.com
@@ -826,7 +821,6 @@ bibulustartane.guru
 bikrurda.net
 bilqi-omv.com
 bjtrjviiovl.com
-blacknesskeepplan.com
 blacurlik.com
 blearspellaea.shop
 blibberon.xyz
@@ -918,7 +912,6 @@ cjbmanagement.com
 claroadsclick.com
 clickadin.com
 clicktracks.com
-clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
 cnt.spbland.ru
@@ -1067,6 +1060,7 @@ ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
 elephantqueue.com
+elitedollars.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1118,7 +1112,6 @@ fauphauvuzeey.net
 fcqqbrfucuf.com
 fd5orie8e.com
 fdqrfiwkaeds.com
-febadu.com
 fedapush.net
 feed-xml.com
 feedyourtralala.com
@@ -1157,7 +1150,6 @@ fpyhuktuwatn.com
 frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
-frllfmjaku.com
 fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
@@ -1282,7 +1274,6 @@ hh-btr.com
 hhecta.com
 hhuajhdidxut.com
 hikedwarfgipsy.com
-hilltopads.net
 hiqbejpsiyymatl.com
 hit-parade.com
 hitexchange.net
@@ -1457,6 +1448,7 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
+leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1496,6 +1488,7 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1505,13 +1498,14 @@ lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
 lumupu.xyz
-lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
+lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
+madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
@@ -1526,6 +1520,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1636,7 +1631,6 @@ oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
 observantice.com
-ocixbjnnmabufn.com
 octteqlxtjagek.com
 odcatfvt.com
 odfohvwi.com
@@ -1781,6 +1775,7 @@ planningdesigned.com
 plantationthrillednoncommittal.com
 playsdonkey.com
 plinsaqhsu.com
+plusungratefulinstruction.com
 plutothejewel.com
 pmagumovfma.com
 pocrd.cc
@@ -1815,7 +1810,6 @@ profitableheavilylord.com
 propbigo.com
 proposedpartly.com
 prosecutioncredulity.com
-providingcrechepartnership.com
 psausuck.net
 pscbrveha.com
 psipausaix.net
@@ -2039,7 +2033,6 @@ spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
-spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
@@ -2084,8 +2077,6 @@ tacticmarshannouncing.com
 tagmngrs.com
 tagular.com
 tangerinenet.biz
-tarybabottega.com
-tautauphaur.net
 tccnqgnmeveay.com
 tcseehnbrn.com
 tdcietast.com
@@ -2310,7 +2301,6 @@ xfohaxohrjr.com
 xfozizqidav.com
 xgbsklmqm.com
 xgdnjxlmi.com
-xkesalwueyz.com
 xkfvceil.com
 xldncyivwazvfy.com
 xlwaluyw.com
@@ -2350,7 +2340,6 @@ yralpspdvnqaqv.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ysbddgay.com
-yseyxucrhjfi.com
 ytimm.com
 ytjnpxiiqsblwb.com
 ytxwdnnlubenlm.com
