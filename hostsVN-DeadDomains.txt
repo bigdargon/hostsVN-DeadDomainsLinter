@@ -74,6 +74,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
@@ -304,6 +305,7 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 urlhausa.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -378,9 +380,9 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
 adn2.adclerks.com
 cdn.adclerks.com
-static.adclerks.com
 www.adclerks.com
 pixel.inforsea.com
 pixel.app.returnpath.net
@@ -401,7 +403,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-s.pssy.xyz
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -412,7 +413,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv644.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -529,7 +529,6 @@ ak9.6895588.com
 banner.uto.vn
 bidgear-syndication.com
 bloggiamgia.info
-clipbongda.info
 clix.vn
 crocopop.com
 iads.vision
@@ -547,6 +546,7 @@ analytic.thuanbui.me
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -652,6 +652,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -663,7 +664,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -709,7 +709,9 @@ alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
 amoteehoodaumse.net
+amusingsnow.pro
 an.cliphub.net
+anahtars.com
 anglemarrowoccurs.com
 anjzallkoomb.com
 anmfweogja.com
@@ -878,6 +880,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -1106,7 +1109,6 @@ fafmimgubcm.com
 fagawdasv.com
 fagywalu.pro
 faisaphoofa.net
-faqlikbid.com
 farcivinage.shop
 faronqdkimah.com
 fashmuqpi.com
@@ -1321,7 +1323,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1456,7 +1457,6 @@ lassampy.com
 laughedaffront.com
 lauloajaiph.net
 lbmqciazrpm.com
-leadbolt.net
 leadingedgecash.com
 lecapush.net
 leestoptee.com
@@ -1493,9 +1493,9 @@ lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
+lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
-lqbkshojlhmyj.com
 lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
@@ -1510,10 +1510,8 @@ luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
 lycopuscris.com
-lysim-lre.com
 lzexnxwjsmof.com
 m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com
-madeupadoption.com
 madriyelowd.com
 madserve.org
 mage98rquewz.com
@@ -1564,6 +1562,7 @@ mnjhrleahonkq.com
 mobbersinwalls.com
 mobisla.com
 mobpushup.com
+moodokay.com
 moonlitturbots.com
 morningamidamaruhal.com
 mousheebaivy.net
@@ -1583,7 +1582,6 @@ mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 myvisualiq.net
-nagoverpayreimburse.com
 naishoochoh.com
 nakedfulfilhairy.com
 namol.xyz
@@ -1612,6 +1610,7 @@ niltelreekrofik.net
 nmakilpumvt.com
 noerwe5gianfor19e4st.com
 nomorepecans.com
+noowhaumurauy.net
 notifyerr.com
 nowheresank.com
 npipajajn.com
@@ -1743,6 +1742,7 @@ particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
+pauewr4cw2xs5q.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
@@ -1871,7 +1871,6 @@ qualityadverse.com
 quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
-qujzruvf.com
 qumagee.com
 quzodcttub.com
 quzwteqzaabm.com
@@ -1914,6 +1913,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2039,6 +2039,7 @@ spot.fitness.com
 sprungencase.com
 spyokjoxdl.com
 spywarelabs.com
+spywarenuker.com
 sqhneencmysrk.com
 ssqyuvavse.com
 starkuno.com
