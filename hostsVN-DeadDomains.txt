@@ -78,7 +78,6 @@ v.adthor.com
 content.ad
 api.content.ad
 app.content.ad
-media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
@@ -446,11 +445,8 @@ polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
-adv.klick.vn
 demo.klick.vn
 euro.klick.vn
-klick.vn
-qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -472,6 +468,7 @@ m.clevernet.vn
 www.clevernet.vn
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -513,7 +510,6 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 ads1.careerbuilder.vn
-adserver.trangphim.net
 adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
@@ -538,6 +534,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -629,7 +626,6 @@ ads.horyzon-media.com
 ads.jewishfriendfinder.com
 ads.lordlucky.com
 ads.outpersonals.com
-ads.passion.com
 ads.thrillsaffiliates.com
 ads.websiteservices.com
 ads1.rne.com
@@ -644,6 +640,7 @@ adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adspace.ro
 adsrv.wtf
 adsrveys.com
 adtology.com
@@ -721,6 +718,7 @@ arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
+artax-evn.com
 asdhhuztul.com
 asfobftirag.com
 asgclickkl.com
@@ -781,6 +779,7 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
+baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
@@ -871,6 +870,7 @@ cccpmo.com
 ccg90.com
 ceegrevoaphail.com
 celoortdwt.com
+cenerncyjl.com
 chaikempakr.com
 charming-people.com
 cheap-result.pro
@@ -1020,6 +1020,7 @@ ductathing.com
 duimspruer.life
 dumkcuakrlka.com
 duzcujquzl.com
+dv.pictunoctette.com
 dzienkudrow.com
 dzvuvtwbp.com
 earphonetipperzombie.com
@@ -1173,7 +1174,6 @@ gk79a2oup.com
 gkbhrj49a.com
 gkuocadgecsga.com
 glaignicmo.com
-glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
@@ -1500,7 +1500,6 @@ makemydownload.com
 makespram.com
 makqfcvs.com
 malhfiacgx.com
-maljuggu.com
 mallogrow.com
 mamsauphoachoap.net
 manompas.com
@@ -1633,6 +1632,7 @@ ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
+oiswdtwxwub.net
 ojgzyztrmr.com
 ojhtpopwofm.com
 okueroskynt.com
@@ -1651,6 +1651,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1928,7 +1929,6 @@ rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ru-traffic.com
-ruckingefs.com
 rukktiswibi.com
 rundsp.com
 rutpunishsnitch.com
@@ -2011,6 +2011,7 @@ spanuletubings.com
 spathalbarmie.com
 spbeknkulo.com
 speakspurink.com
+special.beatifulllhistory.com
 specifiedbloballowance.com
 spikereekvelocity.com
 sprungencase.com
@@ -2191,7 +2192,6 @@ vipicmou.net
 virleth.com
 visualrevenue.com
 vmcxdaynkhnekp.com
-vnwtjgaqlsui.com
 voakulophy.com
 voglgmlelzhlzo.com
 volsairdoagnaum.com
