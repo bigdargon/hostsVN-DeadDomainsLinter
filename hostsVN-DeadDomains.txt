@@ -1,4 +1,5 @@
 googleads-cn.com
+cdn.oem.inmobi.net
 blueserving.com
 swift.lifestreet.com
 medialytics.com
@@ -29,7 +30,13 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+alexametrics.com
+atrk.alexametrics.com
+certify.alexametrics.com
 certify-amp.alexametrics.com
+certify-js.alexametrics.com
+certify-stage.alexametrics.com
+js.alexametrics.com
 pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
@@ -66,7 +73,6 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
-stats.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -93,8 +99,14 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+imgproxy.upsight.com
 marketing-api.upsight.com
 nexus.upsight.com
+o1.sendgrid.upsight.com
+origin-marketing.upsight.com
+static.upsight.com
+upsight.com
+www.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -104,6 +116,7 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+native.propellerclick.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -120,8 +133,11 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cache.specificmedia.com
 cdn2.specificmedia.com
 cdn3.specificmedia.com
+leads2.specificmedia.com
+redirect-ash.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -177,6 +193,8 @@ static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
+invitemedia.com
+www.invitemedia.com
 pmddby.com
 s.pmddby.com
 brand.ad
@@ -185,6 +203,11 @@ www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
 admarvel.com
+automator.admarvel.com
+base-cdn.admarvel.com
+cdn.admarvel.com
+map.admarvel.com
+omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -200,6 +223,7 @@ kitchen.consumable.com
 landing.consumable.com
 vid.consumable.com
 welcome.consumable.com
+capi.bidtellect.com
 api.publift.com
 cdn.publift.com
 hb.publift.com
@@ -279,6 +303,7 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
+exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -292,6 +317,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 app2.inorbitad.com
+pclk.name
 maxymiser.net
 service.maxymiser.net
 cb-api-eu.maxymiser.com
@@ -369,6 +395,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+livetracker.rfe.pangea-cms.com
+livetracker.voa.pangea-cms.com
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -479,6 +507,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 m.clevernet.vn
 www.clevernet.vn
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -548,6 +577,7 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
+analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -649,11 +679,11 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
+adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -704,7 +734,6 @@ aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
-amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -781,7 +810,6 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
-banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -877,6 +905,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -913,7 +942,7 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
-clicktag.de
+clicks.mods.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1062,6 +1091,7 @@ ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
+elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1096,6 +1126,7 @@ expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
 eyeblaster.com
+eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 f5biz.com
@@ -1143,7 +1174,6 @@ fopteefteex.com
 forfeitsubscribe.com
 forgerylimit.com
 formalitydetached.com
-forspearowor.com
 fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
@@ -1298,6 +1328,7 @@ hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
+hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1483,6 +1514,7 @@ loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
+lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
@@ -1594,6 +1626,7 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
+netshelter.net
 news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
@@ -1676,6 +1709,7 @@ opdhoxor.com
 openads.org
 opntwymri.com
 opsivesh.net
+optimost.com
 opxaxqxaqo.com
 opzoxvxut.com
 oqdavkguftan.com
@@ -1690,7 +1724,6 @@ orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
-orywrjsf.com
 osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
@@ -1767,6 +1800,7 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
+pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1794,7 +1828,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
-pphtrwrnsuyl.com
+pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -2012,6 +2046,7 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
+sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2226,6 +2261,7 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
+wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -2281,12 +2317,12 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
+wrestcut.com
 wryqahbilc.com
 wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
-www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2381,9 +2417,11 @@ q2melbourne.com
 richmetrics.com
 saspreview.com
 showbiz.owndata.network
+track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
+vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
 zarget.com
