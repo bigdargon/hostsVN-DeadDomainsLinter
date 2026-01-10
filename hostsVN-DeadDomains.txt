@@ -130,7 +130,6 @@ sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 cache.specificmedia.com
 cdn2.specificmedia.com
@@ -243,6 +242,7 @@ p.zetadeo.com
 zetadeo.com
 auxml.com
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -267,6 +267,7 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
@@ -369,7 +370,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-www.wensixuetang.com
 px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -454,9 +454,6 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
-text1.klick.vn
-wakeup.klick.vn
-wakeup247.klick.vn
 www.klick.vn
 mediaz.asia
 www.mediaz.asia
@@ -641,6 +638,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -693,6 +691,8 @@ altronopubacc.com
 aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
+amanda-cle.info
+amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -819,7 +819,6 @@ bn.bfast.com
 bo2ffe45ss4gie.com
 bohonef.com
 bonertraffic14.pro
-bookletblockedcaught.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
@@ -864,7 +863,6 @@ cappuccinoeliza.com
 capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
-carscannon.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -912,6 +910,8 @@ coaphumewy.net
 coappreciate.com
 coastdetectiveoptical.com
 coawujobups.com
+cohawaut.com
+coherentgleaminglone.com
 coinblocktyrusmiram.com
 colinsdemirep.com
 colonialismmarch.com
@@ -1075,7 +1075,6 @@ ewerlgufrpkg.com
 ewpucbact.com
 exclusivebrass.com
 exobafrgdf.com
-exogripper.com
 exomonyf.com
 expdirclk.com
 expertnifg.com
@@ -1122,12 +1121,12 @@ fkabzoarsoz.com
 fkwnnfwhvjmubrl.com
 flagmantensity.com
 fm.zipperszebecs.com
+foliumumu.com
 foogeetoary.net
 fopteefteex.com
 forfeitsubscribe.com
 forgerylimit.com
 formalitydetached.com
-fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
@@ -1178,11 +1177,11 @@ glooroapoftus.com
 glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
-go-clicks.de
 go-rillatrack.com
 go.mobisla.com
 go.onclasrv.com
 go.padstm.com
+goesdeedinsensitive.com
 gogglemessenger.com
 goodnotification.net
 goohimom.net
@@ -1335,6 +1334,8 @@ iswashiscourtsh.com
 itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
+ivwbox.de
+iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -1481,6 +1482,7 @@ luchuwarwrud.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
+lutoorgourgi.com
 luzongixoo.net
 lvtuucmyfpz.com
 lwddlhcdwmr.com
@@ -1631,6 +1633,7 @@ ohgorbqcegig.com
 ohjluvpunaxg.com
 oiswdtwxwub.net
 ojgzyztrmr.com
+ojhtpopwofm.com
 okueroskynt.com
 okxparnalc.com
 olkhtegk.com
@@ -1676,7 +1679,6 @@ osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
-otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
@@ -1717,7 +1719,6 @@ particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
 patro-sfe.com
-pauewr4cw2xs5q.com
 paxzfenara.com
 paypopup.com
 pc2ads.com
@@ -1730,6 +1731,7 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
+pgpartner.com
 phaibeertou.com
 phamsacm.net
 phaubsunsi.com
@@ -1805,7 +1807,6 @@ ptuxapow.com
 ptygunjk.com
 pubaka5.com
 publicunloadbags.com
-pukqysdsgt.com
 pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
@@ -2091,6 +2092,7 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
+tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
@@ -2127,7 +2129,6 @@ tzirtatakoqf.com
 tzwtzygxslrk.com
 ubewpjbfo.com
 udinugoo.com
-ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
 ufoacmocmu.net
@@ -2166,6 +2167,7 @@ uzxkuwalnjp.com
 vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
+vanwuqjujnf.com
 vazcukap.com
 vbqtfejdtqkjuf.com
 vdopia.com
@@ -2206,6 +2208,7 @@ vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
+wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
