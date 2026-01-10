@@ -155,7 +155,6 @@ aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -319,7 +318,6 @@ ytvpaid.winadx.com
 app2.inorbitad.com
 pclk.name
 maxymiser.net
-service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -585,6 +583,7 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
+track.kyna.vn
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
@@ -679,11 +678,11 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
-adsonar.com
 adspace.ro
 adsrv.wtf
 adsrveys.com
@@ -734,6 +733,7 @@ aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
+amoteehoodaumse.net
 amusingsnow.pro
 an.cliphub.net
 anahtars.com
@@ -757,7 +757,6 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
-arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -810,6 +809,7 @@ bande2az.com
 banner.casino.net
 banner.coza.com
 banner.eurogrand.com
+banner.mindshare.de
 banner.nixnet.cz
 banner.penguin.cz
 bannerconnect.net
@@ -905,7 +905,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-casalmedia.com
 cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
@@ -965,7 +964,6 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -1116,7 +1114,6 @@ euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
-exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1527,6 +1524,7 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 luchuwarwrud.com
+lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1556,7 +1554,6 @@ matecatenae.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
-mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1659,7 +1656,6 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
-oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
@@ -1676,7 +1672,6 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
-ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1828,6 +1823,7 @@ portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
+pphtrwrnsuyl.com
 pr-ten.de
 praiseddisintegrate.com
 pramviable.com
@@ -1854,11 +1850,11 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
+ptuzrywmega.com
 ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
-pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -1940,6 +1936,7 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
+rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -2259,6 +2256,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2323,6 +2321,8 @@ wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
+www.pro-ads.club
+www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
 wywtpkeai.com
@@ -2402,6 +2402,7 @@ analytics.hostyour.video
 analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
+cdn.traffic60s.xyz
 dolohen.com
 go.ad1data.com
 hsbarbershop.co.uk
