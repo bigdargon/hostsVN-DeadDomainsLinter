@@ -29,6 +29,8 @@ reporting.ligatus.com
 self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
+certify-amp.alexametrics.com
+pixel.alexametrics.com
 engageya.com
 ext1-api.engageya.com
 ecs1.engageya.com
@@ -64,6 +66,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 vod.adspruce.com
+stats.fidelity-media.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -90,6 +93,8 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+marketing-api.upsight.com
+nexus.upsight.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -115,6 +120,8 @@ tikivn.api.sociaplus.com
 zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 beacon.statful.com
+cdn2.specificmedia.com
+cdn3.specificmedia.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -177,6 +184,7 @@ a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 static.adxxx.com
+admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -234,6 +242,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+auxml.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -270,6 +279,7 @@ staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
 vt2-tags.aicactus.io
+sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -532,7 +542,6 @@ motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
-tvc.biphim.club
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -640,6 +649,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -763,6 +773,7 @@ babyniceshark.com
 baccytorve.com
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
+baitpros.net
 baivideewou.com
 baivifogrouk.com
 bajavdafwafp.com
@@ -822,6 +833,7 @@ bohonef.com
 bonertraffic14.pro
 bookletblockedcaught.com
 boozoomamesha.net
+boudja.com
 bouncecardiganculture.com
 bouptinoolaiwam.net
 br3azil334nutsz.com
@@ -901,6 +913,7 @@ civadsoo.net
 cjbmanagement.com
 claroadsclick.com
 clickadin.com
+clicktag.de
 clicktracks.com
 clkofafcbk.com
 clonesmesopic.com
@@ -1049,7 +1062,6 @@ ejyymghi.com
 ekgloczbsblg.com
 ekkrgsqygqp.com
 ekvalqwmly.com
-elephantqueue.com
 emhnyqdeuwtnrh.com
 emsi.livetwo.store
 encloselavanga.com
@@ -1286,7 +1298,6 @@ hpdvgejc.com
 hpikarkucasz.com
 hpimavpico.com
 hrjbylofyso.com
-hscozgoqffn.com
 hsestonicaawofw.com
 hsoqywhckjlcmjn.com
 htyqiwzunj.com
@@ -1472,7 +1483,6 @@ loftsbaacad.com
 lollipopsurveys.com
 loopassume.com
 lootoshevub.net
-lorybnfh.com
 louchees.net
 lowhoughevoass.com
 lowpoliwhirler.com
@@ -1656,7 +1666,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1758,7 +1767,6 @@ pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
 pinpricktuxedokept.com
-pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
 plaicecaught.com
@@ -1787,7 +1795,6 @@ potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
 pphtrwrnsuyl.com
-pr-ten.de
 praiseddisintegrate.com
 pramviable.com
 pranavafolksey.com
@@ -1821,6 +1828,7 @@ pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
+pushazer.com
 pushlum.com
 pushokey.com
 pushup.wtf
@@ -2004,7 +2012,6 @@ snitzsauteur.shop
 snxewpxrhegslq.com
 soaheeme.net
 soaperdeils.com
-sofinpushpile.com
 soliads.net
 solibothnic.qpon
 songbagoozes.com
@@ -2219,7 +2226,6 @@ vupurdeeks.net
 vvliookawgs.com
 vyfrxuytzn.com
 wagenerfevers.com
-wagersinging.com
 waigoakauhou.com
 wairowomoaps.com
 wapjwujfipuz.com
@@ -2245,6 +2251,7 @@ whoostoo.net
 whowhipi.net
 whugesto.net
 wibtntmvox.com
+widespace.com
 wikfuttupw.com
 wilslide.com
 wimswuppoxan.com
@@ -2274,7 +2281,6 @@ worstspotchafe.com
 wqjbldnnceroue.com
 wqzyxxrrep.com
 wreaksyolkier.com
-wrestcut.com
 wryqahbilc.com
 wtylahmaro.com
 www.claroadsclick.com
@@ -2378,5 +2384,6 @@ showbiz.owndata.network
 tracking.news360.store
 tracking.scenepass.com
 usergrid.com
+worldgravity.com
 yoursitestatstube.ru
 zarget.com
