@@ -23,6 +23,7 @@ d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
+i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
@@ -65,6 +66,7 @@ t.lkqd.net
 us.lkqd.net
 v.lkqd.net
 api.parrable.com
+h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -191,6 +193,8 @@ tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
+s.pmddby.com
+brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -425,8 +429,6 @@ srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
-aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -514,6 +516,7 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
+adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -524,13 +527,13 @@ bloggiamgia.info
 clipbongda.info
 clix.vn
 crocopop.com
-iads.vision
 imgcdnbet.com
 mobileads.dieuviet.com
 motphimqq.pro
 quangcao.fff.com.vn
 r.tinmoi24.vn
 serving-ad.tv24.vn
+ttus.tructiepbongda.me
 upfile16.mediaphim.com
 vnadssb.com
 alexajstrack.com
@@ -568,7 +571,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 2522june2024.com
 29vpnmv4q.com
 2llmonds4ehcr93nb.com
-2ucz3ymr1.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 3in6ko.com
@@ -637,6 +639,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -726,7 +729,6 @@ asgclickkl.com
 asgclickpop.com
 asqsphwgybanh.com
 astivysauran.com
-ataccwpdiqqnfl.com
 aterroppop.com
 atonementwisely.com
 atrochaxctl.shop
@@ -943,6 +945,7 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
+crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1115,6 +1118,7 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1655,7 +1659,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1808,6 +1811,7 @@ ptaixout.net
 ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
+ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
@@ -1922,17 +1926,17 @@ rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
+routeserve.info
+rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
 rtbpop.com
-rtbpopd.com
 rtcheajfn.com
 rtfvtxer.com
 rtk.io
 ruckingefs.com
 rukktiswibi.com
-rundsp.com
 rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
@@ -2119,7 +2123,6 @@ tribedone.org
 trololopush2023push.com
 troubledcontradiction.com
 trtjigpsscmv9epe10.com
-trustbummler.com
 trustisimportant.fun
 tshfc.com
 tstats-13fkh44r.com
@@ -2214,6 +2217,7 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
+vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
@@ -2378,5 +2382,4 @@ tracking.news360.store
 tracking.scenepass.com
 usergrid.com
 worldgravity.com
-yoursitestatstube.ru
 zarget.com
