@@ -78,7 +78,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-adthor.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
@@ -184,6 +183,7 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
+bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -229,8 +229,6 @@ hb.publift.com
 npm.publift.com
 prebid.publift.com
 showroom2.publift.com
-tools.publift.com
-wp-static.publift.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -239,8 +237,7 @@ main.optvx.com
 optvx.com
 s.optvx.com
 a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
+origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -300,7 +297,6 @@ geo-service.aicactus.io
 staging-tag-cdn.aicactus.io
 tag-cdn.aicactus.io
 tags.aicactus.io
-vt2-tags.aicactus.io
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -337,9 +333,6 @@ stats.anymad.com
 www.anymad.com
 urlhausa.com
 click.showcasethat.com
-images.showcasethat.com
-push.showcasethat.com
-showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -545,7 +538,6 @@ syndication.adlinknetwork.vn
 ad.chieuhoa.com
 ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
-ads.careerbuilder.vn
 ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
@@ -676,7 +668,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -687,6 +678,7 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
+adverdirect.com
 advertica-cdn2.com
 adxpose.com
 af.endballbemires.com
@@ -723,7 +715,6 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
-alleviatepracticableaddicted.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -862,7 +853,6 @@ bookletblockedcaught.com
 boozoomamesha.net
 boudja.com
 bouncecardiganculture.com
-bouptinoolaiwam.net
 br3azil334nutsz.com
 brattieseries.com
 breakupbun.com
@@ -1180,7 +1170,6 @@ frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
-fryawlauk.com
 fswiycpwnujv.com
 fubmalafdti.com
 fudukrujoa.com
@@ -1245,6 +1234,7 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
+grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1293,6 +1283,7 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
+heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -1342,7 +1333,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1453,7 +1443,6 @@ koacocoosy.com
 kogutcho.net
 kolkwi4tzicraamabilis.com
 kqalbhgnd.com
-kraapmanmb.com
 kronosspell.com
 ktaehxdlf.com
 kteopzgukl.com
@@ -1654,7 +1643,6 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
-oarouwousti.com
 oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
@@ -1700,6 +1688,7 @@ ontosocietyweary.com
 onvictinitor.com
 oodseengairgy.net
 ootchoft.com
+opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
@@ -1814,10 +1803,6 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
-pompadawe.com
-ponysomebodymartyr.com
-poopelouque.com
-poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1886,13 +1871,13 @@ qmixnhyxc.com
 qojrlxsbxvfqqx.com
 qp.ezfxpuo.cn
 qrodufobzbav.com
+qruqon.com
 qtoeofqazggu.com
 qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
 quarterserver.de
-quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
 quzodcttub.com
@@ -1914,7 +1899,6 @@ rdbzasvjgmnk.com
 rdqysipvmuleeoy.com
 rduaagcwsw.com
 realizeparish.com
-rebtpzkgtas.com
 recedechatprotestant.com
 receptiveink.com
 record.bonniergaming.com
@@ -1990,6 +1974,7 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scatteredhecheaper.com
+scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -2047,6 +2032,7 @@ solibothnic.qpon
 songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
+sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -2146,6 +2132,7 @@ tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
+toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
