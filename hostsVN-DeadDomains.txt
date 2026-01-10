@@ -1,6 +1,10 @@
 googleads-cn.com
 blueserving.com
 swift.lifestreet.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
@@ -19,7 +23,6 @@ d.ligatus.com
 directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
-i.ligatus.com
 ligatus.com
 reporting.ligatus.com
 self-booking.ligatus.com
@@ -62,7 +65,6 @@ t.lkqd.net
 us.lkqd.net
 v.lkqd.net
 api.parrable.com
-h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -110,6 +112,7 @@ js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
+y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -141,6 +144,7 @@ all.dspmulti.com
 dspmulti.com
 apilw.epom.com
 cdn.epom.com
+directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -187,8 +191,6 @@ tracker-adserver.ibillboard.com
 ui-ssp.ibillboard.com
 video-adserver.ibillboard.com
 pmddby.com
-s.pmddby.com
-brand.ad
 a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
@@ -370,6 +372,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -511,7 +514,6 @@ ads.ictnews.vn
 ads.inetgroup.vn
 ads.seovietnam.pro
 adserver.trangphim.net
-adv.vnnshop.vn
 adx.kul.vn
 adx.phunuadong.vn
 aff2.linksht.online
@@ -570,6 +572,7 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 3in6ko.com
+4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
 52dvzo62i.com
@@ -710,6 +713,7 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
+areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -788,9 +792,12 @@ bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
+benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 berkshiretoday.xyz
+beseechpill.com
+beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -914,6 +921,7 @@ commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
+compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -935,7 +943,6 @@ creepingbrings.com
 crepedzincite.top
 critical-replacement.com
 croniesobli.com
-crowdgravity.com
 crumbrationally.com
 crumplylenient.com
 culturalsameunbridle.com
@@ -1108,7 +1115,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1649,6 +1655,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1748,6 +1755,7 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
+pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -1772,6 +1780,7 @@ ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
+portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1799,7 +1808,6 @@ ptaixout.net
 ptewarin.net
 ptoahaistais.com
 ptoohojatchouz.net
-ptukasti.com
 ptumsess.com
 ptuxapow.com
 ptygunjk.com
@@ -1811,6 +1819,7 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
+pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1869,6 +1878,7 @@ realizeparish.com
 rebtpzkgtas.com
 recedechatprotestant.com
 receptiveink.com
+record.bonniergaming.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
@@ -1912,7 +1922,6 @@ rooptawu.net
 rosolicdalapon.com
 rotumal.com
 roundspaniardindefinitely.com
-rozamimo9za10.com
 rprinc6etodn9kunjiv.com
 rqaefhvkkxls.com
 rsalcau.com
@@ -1924,6 +1933,7 @@ rtk.io
 ruckingefs.com
 rukktiswibi.com
 rundsp.com
+rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1969,8 +1979,10 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
+sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
+simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -2159,6 +2171,7 @@ uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
+vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
@@ -2201,7 +2214,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
 waigoakauhou.com
