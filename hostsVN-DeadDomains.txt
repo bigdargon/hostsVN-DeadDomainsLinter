@@ -145,8 +145,6 @@ prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-apilw.epom.com
-cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -404,6 +402,7 @@ imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
+ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -589,7 +588,6 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
-e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -688,7 +686,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -873,6 +870,7 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
+brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -964,6 +962,7 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
+conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -1002,6 +1001,7 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
+dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1344,6 +1344,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichdpdbpv.com
@@ -1663,7 +1664,6 @@ obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
-odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
@@ -1904,10 +1904,10 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
-rampidads.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
+rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -2180,7 +2180,6 @@ ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
-ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
@@ -2398,7 +2397,6 @@ zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
-analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 cdn.traffic60s.xyz
