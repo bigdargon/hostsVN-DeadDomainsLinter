@@ -21,7 +21,6 @@ analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
-directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
@@ -211,6 +210,7 @@ omax.admarvel.com
 fadskiz.com
 gadskis.com
 madsecz.com
+analytics.proper.io
 api.proper.io
 bids.proper.io
 eb.proper.io
@@ -396,7 +396,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
-ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -1073,7 +1072,6 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
-ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1159,6 +1157,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1202,6 +1201,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1382,6 +1382,7 @@ itnuzleafan.com
 itriyokj.com
 ivhwlnlcgi.com
 ivwbox.de
+iwamwxsgnlsa.com
 ixyyijop.com
 iytsnelqs.com
 izleskulked.shop
@@ -1505,7 +1506,6 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
-lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1697,6 +1697,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1728,12 +1729,14 @@ osrzawox.com
 ostaigukeshoak.com
 othniqvu.com
 otqxvqzdgl.com
+oufauthy.net
 ouftukoo.net
 ourithauphexaus.com
 outabsola.com
 outflednailbin.com
 outpagefitroot.shop
 outtimburrtor.com
+outwoodeuropa.com
 ov.gumdropolena.com
 oversnubbulltor.com
 ovlliiwtxgjlz.com
@@ -1775,10 +1778,10 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
-phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1817,7 +1820,6 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
-poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1983,7 +1985,6 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
-saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2179,7 +2180,6 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
-ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
@@ -2311,9 +2311,8 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
-wqzyxxrrep.com
-wreaksyolkier.com
 wrestcut.com
+wryqahbilc.com
 wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
@@ -2417,6 +2416,7 @@ showbiz.owndata.network
 track.lexico.com
 tracking.news360.store
 tracking.scenepass.com
+usergrid.com
 vercel-analytics.com
 worldgravity.com
 yoursitestatstube.ru
