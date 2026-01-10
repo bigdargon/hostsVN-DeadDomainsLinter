@@ -155,6 +155,7 @@ aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2307.online
 aj2412.online
 aj2498.online
 aj2503.online
@@ -318,6 +319,7 @@ ytvpaid.winadx.com
 app2.inorbitad.com
 pclk.name
 maxymiser.net
+service.maxymiser.net
 cb-api-eu.maxymiser.com
 ui-eu.maxymiser.com
 adsterra.org
@@ -575,7 +577,6 @@ alexajstrack.com
 analytics.amedigital.vn
 analytics.gotama.link
 analytics.tintuc.vn
-analytics.videocloud.top
 log.baobackan.com.vn
 log.bizlive.vn
 log.dubaotiente.com
@@ -583,7 +584,6 @@ log.tinnhac.com
 log.vnfinance.vn
 nct1.logging.nextsmarty.com
 stats.osd.vn
-track.kyna.vn
 track.winigroup.vn
 tracking.fff.com.vn
 tracking.hapiwork.vn
@@ -678,8 +678,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
-adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -747,7 +745,6 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
-appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
@@ -757,6 +754,7 @@ aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
+arleavannya.com
 armfullitigateslate.com
 armoursviolino.com
 arrqumzr.com
@@ -905,7 +903,6 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
-cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
@@ -943,6 +940,7 @@ claroadsclick.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
+clickxchange.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -964,6 +962,7 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
+conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -1114,6 +1113,7 @@ euros4click.de
 evenimbauba.cfd
 ewerlgufrpkg.com
 ewpucbact.com
+exclusivebrass.com
 exobafrgdf.com
 exogripper.com
 exomonyf.com
@@ -1126,7 +1126,6 @@ eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
-f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1420,9 +1419,7 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
-jxjttecednvb.com
 jxkqgoicxthrb.com
-jyhlgpkn.com
 jyjfycnpodkjp.com
 kalwundked.com
 kamak-mab.com
@@ -1524,7 +1521,6 @@ lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
 luchuwarwrud.com
-lufdzaqcoadm.com
 lugtzejkowhi.com
 luloffer.com
 lumpbackstage.com
@@ -1554,6 +1550,7 @@ matecatenae.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
+mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1656,6 +1653,7 @@ nzaza.com
 oackoubs.com
 oahaurti.com
 oarouwousti.com
+oavowuftili.com
 oaxntxan.com
 obituaryfuneral.com
 obradjgifja.com
@@ -1672,6 +1670,7 @@ offgalvantulaom.com
 ofplredpogw.com
 ofrvpeodmba.com
 ogkvkuvfy.com
+ogsbpoofzlk.com
 ogtollhazv.com
 ohgorbqcegig.com
 ohjluvpunaxg.com
@@ -1850,11 +1849,11 @@ ptoohojatchouz.net
 ptukasti.com
 ptumsess.com
 ptuxapow.com
-ptuzrywmega.com
 ptygunjk.com
 pubaka5.com
 publicunloadbags.com
 pukqysdsgt.com
+pulvinioreodon.com
 pumywyczbks.com
 purgavax.com
 pushanishe.com
@@ -1936,7 +1935,6 @@ revoketypes.com
 rhkyufodw8ochdr3ogsite.com
 rickerrotal.com
 ricthaaz.com
-rightmedia.com
 ringedtusher.com
 riotedstuccos.top
 ritzykey.com
@@ -1946,7 +1944,6 @@ rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
-rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -2197,7 +2194,6 @@ untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
-upgastlyr.com
 uphegroaglah.com
 upset-project.com
 upspinarakor.com
@@ -2256,7 +2252,6 @@ vugpakba.com
 vujdudspear.com
 vupurdeeks.net
 vvliookawgs.com
-vwahacrubri.com
 vyfrxuytzn.com
 wagenerfevers.com
 wagersinging.com
@@ -2321,7 +2316,6 @@ wtylahmaro.com
 www.claroadsclick.com
 www.go-rillatrack.com
 www.money4exit.de
-www.pro-ads.club
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
