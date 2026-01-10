@@ -21,6 +21,7 @@ analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
 d.ligatus.com
+directads.ligatus.com
 directads2.ligatus.com
 e.ligatus.com
 i.ligatus.com
@@ -396,13 +397,13 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
+ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
 px2.4cinsights.com
-ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -676,6 +677,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -871,7 +873,6 @@ brechtembrowd.com
 brffhnhnqc.com
 bricius-ing.com
 broadboundary.com
-brookgetupshorts.com
 bse4usdqd52m.com
 btcadtop.com
 btcijivtsvph.com
@@ -963,7 +964,6 @@ communicatequietboost.com
 compatriotelephant.com
 compensationpropulsion.com
 conary-invered.com
-conformfavoredgauging.com
 coniesnitch.com
 connect.scroll.com
 connexity.net
@@ -1002,7 +1002,6 @@ da-ads.com
 dacmaiss.com
 daintydragged.com
 daintypurpleunfocused.com
-dalysb.com
 dancemistake.com
 dangerouswinter.com
 dapper.net
@@ -1072,6 +1071,7 @@ eatsbot.com
 ebuzzing.com
 ebvvvnjesjgx.com
 echifobi.top
+ecstaticquiltrye.com
 eechuraubsaud.com
 eeksoabo.com
 eemsouftas.com
@@ -1201,7 +1201,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1345,8 +1344,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
-iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
 ichdpdbpv.com
@@ -1506,6 +1503,7 @@ lj.ochreargue.shop
 lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
+lmmjj.lqbvjmkoozark.top
 lo8ve6ygour3pea4cee.com
 locketcattishson.com
 loftsbaacad.com
@@ -1551,6 +1549,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1697,7 +1696,6 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1782,6 +1780,7 @@ peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
+phaibeertou.com
 phamsacm.net
 phaubsunsi.com
 phinsebsou.com
@@ -1820,6 +1819,7 @@ politegoldfish.com
 pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
+poowucatuz.net
 pop.bid
 portlysingkenneth.com
 potencyissuedflashlight.com
@@ -1904,10 +1904,10 @@ qwuopcbilw.com
 qwyaqhortog.com
 qwykgrylxyl.com
 qxadsk.com
+rampidads.com
 ranking-liste.de
 rapepush.net
 raphanysteers.com
-rapidcounter.com
 raunoaptotoaw.com
 razzedwhimsic.website
 rbkhpjfwtmirk.com
@@ -1985,6 +1985,7 @@ rwukupjis.com
 sackbarngroups.com
 sacmeetekremsog.com
 saigopooramee.net
+saimifoa.net
 salivanmobster.com
 salutationcheerlessdemote.com
 sarinfalun.com
@@ -2180,6 +2181,7 @@ udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
 ufiledsit.com
+ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
 uknlemmsnn.com
@@ -2311,6 +2313,8 @@ wormslitty.top
 worstideatum.com
 worstspotchafe.com
 wqjbldnnceroue.com
+wqzyxxrrep.com
+wreaksyolkier.com
 wrestcut.com
 wryqahbilc.com
 wtylahmaro.com
