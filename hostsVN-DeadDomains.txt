@@ -184,7 +184,6 @@ bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
 bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -239,11 +238,9 @@ m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
-uswest.rtb.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
-origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -679,6 +676,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -687,8 +685,8 @@ adspace.ro
 adsrv.wtf
 adsrveys.com
 adtology.com
+adtoma.com
 adtriplex.com
-adverdirect.com
 advertica-cdn2.com
 adxpose.com
 af.endballbemires.com
@@ -725,6 +723,7 @@ akxopgjuw.com
 alebrinkfed.com
 alkalizemarineprude.com
 all4spy.com
+alleviatepracticableaddicted.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
@@ -881,6 +880,7 @@ btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
+burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -1205,6 +1205,7 @@ galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
+gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
@@ -1244,7 +1245,6 @@ greenedenlarge.uno
 grewquartersupporting.com
 greyinstrument.com
 grirtouy.com
-grishoussaiz.com
 gristleupanaya.com
 grooksom.com
 groopsie.net
@@ -1293,7 +1293,6 @@ hedgehoghugsyou.com
 heeceeceejo.com
 heenojouwofoupt.com
 helitagrfid.com
-heraldet.com
 heratheacle.com
 heukpiroot.com
 hewokhn.com
@@ -1553,6 +1552,7 @@ matecatenae.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
+mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1695,13 +1695,11 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
-onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
 oodseengairgy.net
 ootchoft.com
-opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
@@ -1721,6 +1719,7 @@ orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
+osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -1892,6 +1891,7 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
+quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
@@ -1990,7 +1990,6 @@ sarinfalun.com
 scabbienne.com
 scammereating.com
 scatteredhecheaper.com
-scenescrockery.com
 schoonnonform.com
 sdkfjxjertertry.com
 seaboblit.com
@@ -2048,7 +2047,6 @@ solibothnic.qpon
 songbagoozes.com
 sonyzetuxx.com
 soodejeego.net
-sordimtaulee.com
 spacash.com
 spanuletubings.com
 spathalbarmie.com
@@ -2148,7 +2146,6 @@ tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
-toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
