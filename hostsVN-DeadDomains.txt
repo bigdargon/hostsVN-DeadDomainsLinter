@@ -1,10 +1,6 @@
 googleads-cn.com
 blueserving.com
 swift.lifestreet.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 addthiscdn.com
@@ -114,7 +110,6 @@ js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
-y.kau.li
 native.propellerclick.com
 advergine.com
 go.advergine.com
@@ -146,7 +141,6 @@ all.dspmulti.com
 dspmulti.com
 apilw.epom.com
 cdn.epom.com
-directads.epom.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -247,6 +241,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
@@ -284,6 +279,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+app2.inorbitad.com
 pclk.name
 maxymiser.net
 service.maxymiser.net
@@ -374,7 +370,6 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
-expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -553,6 +548,7 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -574,7 +570,6 @@ n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 3a2qi55fr.com
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
 3in6ko.com
-4d5.net
 4hfchest5kdnfnut.com
 4wnet.com
 52dvzo62i.com
@@ -639,7 +634,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -716,7 +710,6 @@ apxszeaj.com
 apzdfakiso.com
 aqncinxrexa.com
 arcobsarrod.com
-areamindless.com
 aries-nbl.com
 arleavannya.com
 armfullitigateslate.com
@@ -795,12 +788,9 @@ bedrapiona.com
 beefoaloode.net
 bemachopor.com
 bemalkrmc.com
-benevolencepair.com
 benonblkd.xyz
 bepansaer.com
 berkshiretoday.xyz
-beseechpill.com
-beshucklean.com
 bestcond1tions.com
 bestlampjoy.com
 bestzba.com
@@ -836,6 +826,7 @@ bricius-ing.com
 broadboundary.com
 brookgetupshorts.com
 bse4usdqd52m.com
+btcadtop.com
 btcijivtsvph.com
 btiatfobkjiv.com
 btrll.com
@@ -923,7 +914,6 @@ commindo-media-ressourcen.de
 commodityshortlysurviving.com
 communicatequietboost.com
 compatriotelephant.com
-compensationpropulsion.com
 conary-invered.com
 conformfavoredgauging.com
 coniesnitch.com
@@ -1009,6 +999,7 @@ digyniahuffle.com
 diluteacerbity.com
 dimfarlow.com
 dizbirmwavic.com
+dk4ywix.com
 dklvqrfgvwror.com
 doaglunoupa.net
 doateeseeja.com
@@ -1066,6 +1057,7 @@ eodufofs.com
 eogaeapolaric.com
 epyqerhah.com
 eqgmnmqlz.com
+eqwzfnbjbkz.com
 eringosdye.com
 erosyndc.com
 errantstetrole.com
@@ -1116,6 +1108,7 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1179,6 +1172,7 @@ glaignicmo.com
 glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
+glpweawxkodtvta.com
 glugherg.net
 gmobhnktqiur.com
 go-rillatrack.com
@@ -1509,6 +1503,7 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
+mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
@@ -1659,6 +1654,7 @@ ontosocietyweary.com
 onvictinitor.com
 oodseengairgy.net
 ootchoft.com
+opcharizardon.com
 opdhoxor.com
 openads.org
 opntwymri.com
@@ -1732,6 +1728,7 @@ penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
 perceivequarter.com
+peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
 pgjt26tsm.com
@@ -1751,7 +1748,6 @@ piet2eix3l.com
 pignuwoa.com
 pijmahktoan.com
 pilgrimarduouscorruption.com
-pinpricktuxedokept.com
 pistolsizehoe.com
 pixel.personagraph.com
 pkhhyool.com
@@ -1771,11 +1767,11 @@ pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
 politegoldfish.com
+pompadawe.com
 ponysomebodymartyr.com
 poopelouque.com
 poowucatuz.net
 pop.bid
-portlysingkenneth.com
 potencyissuedflashlight.com
 pouhoshootake.net
 powershatchet.com
@@ -1815,7 +1811,6 @@ pumywyczbks.com
 purgavax.com
 pushanishe.com
 pushazer.com
-pushlum.com
 pushokey.com
 pushup.wtf
 pvnocbyq.com
@@ -1874,7 +1869,6 @@ realizeparish.com
 rebtpzkgtas.com
 recedechatprotestant.com
 receptiveink.com
-record.bonniergaming.com
 redmas.com
 reecegrita.com
 refraintupaiid.com
@@ -1930,7 +1924,6 @@ rtk.io
 ruckingefs.com
 rukktiswibi.com
 rundsp.com
-rutpunishsnitch.com
 ruwertur.com
 ruwoxglzab.com
 rvotdlvpwmynan.xyz
@@ -1976,10 +1969,8 @@ shoadroocoosso.com
 shorteh.com
 shuceposhaiftoo.net
 shunsipticogral.net
-sickflock.com
 sictwizaszur.com
 sikrouxoopte.net
-simojkhtia.com
 sitegoto.com
 sjvaovqhn.com
 skynightmidm.com
@@ -2168,7 +2159,6 @@ uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
 uzxkuwalnjp.com
-vaizeedy.com
 valuationbothertoo.com
 valuedalludejoy.com
 vanwuqjujnf.com
