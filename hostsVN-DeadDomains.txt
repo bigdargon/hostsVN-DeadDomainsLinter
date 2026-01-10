@@ -145,6 +145,8 @@ prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+apilw.epom.com
+cdn.epom.com
 directads.epom.com
 aj1015.online
 aj1549.online
@@ -237,6 +239,7 @@ m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
+uswest.rtb.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -588,6 +591,7 @@ tracking.hapiwork.vn
 tracking.phunuadong.vn
 traffic.vietnhan.co
 vietnamdaily-log.trithuccuocsong.vn
+e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz
 n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com
 0redird.com
 1frozenthrone1.com
@@ -675,7 +679,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -684,7 +687,6 @@ adspace.ro
 adsrv.wtf
 adsrveys.com
 adtology.com
-adtoma.com
 adtriplex.com
 adverdirect.com
 advertica-cdn2.com
@@ -879,7 +881,6 @@ btrll.com
 budvawshes.ru
 bunceptsclosingh.com
 bungalowdispleasedwheeled.com
-burgerbrush.com
 burgoastougregy.net
 burstmedia.com
 buskerreshoes.website
@@ -1157,7 +1158,6 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1205,7 +1205,6 @@ galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
-gboxrthnyezkx.com
 gdtgkshmc.com
 geephugagee.com
 gelclinchfranz.com
@@ -1344,6 +1343,7 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
+iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1550,11 +1550,9 @@ manompas.com
 marriagegray.com
 massiveanalyticssys.net
 matecatenae.com
-mathcountryside.com
 maulupoa.com
 mauzanapsusi.net
 maximumcash.com
-mazbfiladr.com
 mbgbqdrosr.com
 mcuyfiwii.com
 medaaebqmbpx.com
@@ -1664,6 +1662,7 @@ obradjgifja.com
 observantice.com
 ocixbjnnmabufn.com
 octteqlxtjagek.com
+odcatfvt.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
@@ -1696,6 +1695,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1721,7 +1721,6 @@ orhassagvaqw.com
 orhavpfavxu.com
 orige-duo.com
 ornpuxmucb.com
-osfkfaacqx.com
 osrxzucira.com
 osrzawox.com
 ostaigukeshoak.com
@@ -1893,7 +1892,6 @@ qtpwgglrohgp.com
 qtspkqzn.com
 quaintcan.com
 qualityadverse.com
-quarterserver.de
 quenchskirmishcohere.com
 questaffiliates.net
 qumagee.com
@@ -2180,6 +2178,7 @@ ubewpjbfo.com
 udinugoo.com
 ufabsoonsijeerg.net
 ufachoustoh.net
+ufiledsit.com
 ufoacmocmu.net
 uiiocpfx.com
 ujqwhqjckhscl.com
@@ -2397,6 +2396,7 @@ zwnsuuaoqfab.com
 zy.eilaeliza.top
 a.zillastream.com
 analytics.hostyour.video
+analytics.shivamsinghis.me
 burstly.com
 cankaowang.com
 cdn.traffic60s.xyz
