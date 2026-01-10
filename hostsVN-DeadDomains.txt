@@ -47,6 +47,7 @@ widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -181,8 +182,6 @@ bbcdn-static-adserver.ibillboard.com
 bbcdn-static-mbrdsp.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbnaut.ibillboard.com
-bbnautid1.ibillboard.com
-bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
 bidproxy.ibillboard.com
@@ -241,7 +240,6 @@ mstorer.net
 p.zetadeo.com
 zetadeo.com
 auxml.com
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -316,7 +314,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
@@ -397,7 +394,6 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -615,7 +611,6 @@ admedia.network
 adnet-media.net
 adplus.co.id
 adprotected.com
-adqkkoajnan.com
 adreclaim.com
 adrevolver.com
 ads-to.click
@@ -640,7 +635,6 @@ ads2.net-communities.co.uk
 ads2.rne.com
 adserv.etv.sale
 adserver.quizdingo.com
-adserver1.mindshare.de
 adserver2.mindshare.de
 adshostnet.com
 adsk2.co
@@ -653,7 +647,6 @@ adsrveys.com
 adtology.com
 adtoma.com
 adtriplex.com
-advariant.com
 adverdirect.com
 advertica-cdn2.com
 adxpose.com
@@ -1090,7 +1083,6 @@ expertnifg.com
 expressgutterlevers.com
 exterminateantique.com
 exxohwvxupjv.com
-eyeblaster.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
 f5biz.com
@@ -1122,7 +1114,6 @@ fijimtadee.net
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
-findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1141,7 +1132,6 @@ fossorplumper.com
 fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
-frameworkdeserve.com
 freakishmartyr.com
 frenchequal.pro
 frllfmjaku.com
@@ -1166,7 +1156,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galaxien.com
 galepush.net
 gaunchdelimes.com
 gaut-hil.com
@@ -1187,7 +1176,6 @@ glaingotseemt.net
 globaltakeoff.net
 glooroapoftus.com
 glpweawxkodtvta.com
-glugherg.net
 gmobhnktqiur.com
 go-rillatrack.com
 go.mobisla.com
@@ -1239,6 +1227,7 @@ gzefitkcep.com
 gzegwior.com
 h78xb.pw
 hacspynha.com
+hadabqhbewcrt.com
 hamulustueiron.com
 handkerchiefpersonnel.com
 harderjuniormisty.com
@@ -1309,7 +1298,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1327,6 +1315,7 @@ imfvggmqrltbp.com
 immerseweariness.com
 importedincrease.com
 impractical-award.com
+inabsolor.com
 ingotedbooze.com
 innocentwax.com
 inquiryblue.com
@@ -1465,6 +1454,7 @@ linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
+lkhbcpwpyecs.com
 llryoelwpse.com
 llzv.lzazqroyklozv.top
 lmmjj.lqbvjmkoozark.top
@@ -1720,6 +1710,7 @@ ozongees.com
 ozxakfawm.com
 p.z4g6p1gu44zuyiuqj99.cfd
 padstm.com
+pajnutas.com
 pallivermis.shop
 panaxive.com
 pansymerbaby.com
@@ -2010,7 +2001,6 @@ soliads.net
 solibothnic.qpon
 songbagoozes.com
 sonyzetuxx.com
-soodejeego.net
 sordimtaulee.com
 spacash.com
 spanuletubings.com
@@ -2032,6 +2022,7 @@ static.scroll.com
 stats.x14.eu
 stawhoph.com
 steinfqwe6782beck.com
+sterdatsisto.net
 stickerchapelsailing.com
 stnyirechxxi.com
 stoakrestultan.com
@@ -2154,6 +2145,7 @@ unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
+untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -2168,6 +2160,7 @@ uruswan.com
 userresewn.com
 ushoofop.com
 usounoul.com
+uuomdlaslopcrx.com
 uvettjofogfozc.com
 uxumhgvends.com
 uyledjlevq.com
