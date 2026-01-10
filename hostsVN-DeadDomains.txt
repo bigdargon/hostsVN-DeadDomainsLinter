@@ -232,8 +232,6 @@ prebid.publift.com
 showroom2.publift.com
 tools.publift.com
 wp-static.publift.com
-advinci.net
-count.advinci.net
 www.advinci.net
 m.optvx.com
 main.optvx.com
@@ -545,7 +543,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.chieuhoa.com
-ads.autonet.com.vn
 ads.baotainguyenmoitruong.vn
 ads.careerbuilder.vn
 ads.ictnews.vn
@@ -678,6 +675,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adsk2.co
 adskape.ru
 adsmogo.mobi
 adsmogo.org
@@ -745,12 +743,12 @@ anymoresentencevirgin.com
 apdozzbkyasc.com
 aphycolourses.info
 api.ampiri.com
+appads.com
 apprefaculty.pro
 aptojeepsoopool.com
 apusx.com
 apxszeaj.com
 apzdfakiso.com
-aqncinxrexa.com
 arcobsarrod.com
 areamindless.com
 aries-nbl.com
@@ -819,7 +817,6 @@ basebanner.com
 baste-znl.com
 batteusp2hilenor.com
 bawdybeast.com
-baypops.com
 bbyloavu.com
 bcaojrbriciw.com
 beakerweedjazz.com
@@ -903,6 +900,7 @@ capsizehatlessprude.com
 carbarnbonang.shop
 carryingfarmerlumber.com
 carscannon.com
+cashewsforlife208.com
 caugrithoowhu.net
 cauvousy.net
 cavbildi.com
@@ -940,7 +938,6 @@ claroadsclick.com
 clickadin.com
 clicks.mods.de
 clicktracks.com
-clickxchange.com
 clkofafcbk.com
 clonesmesopic.com
 cloueewinkles.com
@@ -1073,7 +1070,6 @@ ebvvvnjesjgx.com
 echifobi.top
 ecstaticquiltrye.com
 eechuraubsaud.com
-eeksoabo.com
 eemsouftas.com
 eetchauglair.net
 eezegrip.net
@@ -1126,6 +1122,7 @@ eyeblaster.com
 eyeviewads.com
 ezkeidkanjmvya.com
 ezxevghchjltrm.com
+f5biz.com
 faciendtabour.shop
 fafmimgubcm.com
 fagawdasv.com
@@ -1156,6 +1153,7 @@ fiksu.com
 filasseseeder.com
 filgzukroj.com
 finahkcrevuv.com
+findcommerce.com
 fingahvf.top
 firmzecutci.com
 fistofzeus.com
@@ -1419,7 +1417,9 @@ jugjetwok.com
 juicyriverboatunlit.com
 junkieswudge.com
 jvmhtxiqdfr.xyz
+jxjttecednvb.com
 jxkqgoicxthrb.com
+jyhlgpkn.com
 jyjfycnpodkjp.com
 kalwundked.com
 kamak-mab.com
@@ -1693,6 +1693,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1832,7 +1833,6 @@ pre4sentre8dhf.com
 presidestatelycondition.com
 processsky.com
 proetusbramble.com
-profileoffencewithdraw.com
 profitableheavilylord.com
 propbigo.com
 proposedpartly.com
@@ -1944,6 +1944,7 @@ rjprpydgnco.com
 rkksbrkwdqbop.com
 rkumfyomg.com
 rkvldurquedh.com
+rleibfzdny.com
 rlfvuficzdmsx.com
 rmxpppehecrmz.com
 rndnoibattor.com
@@ -2194,6 +2195,7 @@ untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
+upgastlyr.com
 uphegroaglah.com
 upset-project.com
 upspinarakor.com
@@ -2382,9 +2384,7 @@ zeroredirect1.com
 zihcabtkic.com
 zintext.com
 zitauptajoumti.com
-zkuziwzzyf.com
 zkyqafavdg.com
-zmalalxt.com
 zmedia.com
 zpefriam.com
 zuisinchills.shop
