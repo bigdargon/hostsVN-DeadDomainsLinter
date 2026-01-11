@@ -52,13 +52,19 @@ jobs:
         run: npm i -g @adguard/dead-domains-linter
 
       - name: Run linter
-        run: dead-domains-linter -i ${{ matrix.list.input }} --export=${{ matrix.list.output }}
+        run: |
+          dead-domains-linter \
+            -i ${{ matrix.list.input }} \
+            --export=${{ matrix.list.output }}
 
       - name: Cleanup input file
         run: rm -f ${{ matrix.list.input }}
 
-      - name: Move file to outputs folder
-        run: mv ${{ matrix.list.output }} outputs/
+      - name: Upload dead-domains result
+        uses: actions/upload-artifact@v6
+        with:
+          name: dead-domains-results
+          path: ${{ matrix.list.output }}
 
   commit-results:
     name: Commit All Dead Domains Results
@@ -67,11 +73,19 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Download all dead-domains results
+        uses: actions/download-artifact@v6
+        with:
+          name: dead-domains-results
+          path: .
+
       - name: Commit and push outputs
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add outputs/
+
+          git status
+          git add *-DeadDomains.txt
           git commit -m "chore: update dead-domains outputs" || echo "No changes"
           git push
         env:
