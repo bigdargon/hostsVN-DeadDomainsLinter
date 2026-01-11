@@ -1,0 +1,61 @@
+name: Scheduled Tasks
+
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: Schedule Download
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Run download script
+        run: |
+          chmod +x ./download.sh
+          ./download.sh
+
+  dead-domains:
+    name: Dead Domains Linter
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        list:
+          - input: threat.txt
+            output: threat-DeadDomains.txt
+          - input: adult.txt
+            output: adult-DeadDomains.txt
+          - input: gambling.txt
+            output: gambling-DeadDomains.txt
+          - input: hostsVN.txt
+            output: hostsVN-DeadDomains.txt
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install Dead Domains Linter
+        run: npm i -g @adguard/dead-domains-linter
+
+      - name: Run linter
+        run: |
+          dead-domains-linter \
+            -i ${{ matrix.list.input }} \
+            --export=${{ matrix.list.output }}
+
+      - name: Cleanup input file
+        run: rm -f ${{ matrix.list.input }}
+
+      - name: Commit and push results
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add .
+          git commit -m "chore: update ${{ matrix.list.output }}" || echo "No changes"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
