@@ -9,7 +9,6 @@ jobs:
   download:
     name: Schedule Download
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v6
 
@@ -46,11 +45,8 @@ jobs:
       - name: Cleanup input file
         run: rm -f ${{ matrix.list.input }}
 
-      - name: Upload output as artifact
-        uses: actions/upload-artifact@v6
-        with:
-          name: dead-domains-outputs
-          path: ${{ matrix.list.output }}
+      - name: Move file to outputs folder
+        run: mv ${{ matrix.list.output }} outputs/
 
   commit-results:
     name: Commit All Dead Domains Results
@@ -59,17 +55,12 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Download all artifacts
-        uses: actions/download-artifact@v6
-        with:
-          path: .
-
-      - name: Commit and push all results
+      - name: Commit and push outputs
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "chore: update dead-domains results" || echo "No changes"
+          git add outputs/
+          git commit -m "chore: update dead-domains outputs" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
