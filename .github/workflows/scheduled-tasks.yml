@@ -17,6 +17,12 @@ jobs:
           chmod +x ./download.sh
           ./download.sh
 
+      - name: Upload inputs as artifact
+        uses: actions/upload-artifact@v6
+        with:
+          name: inputs
+          path: '*.txt'
+
   dead-domains:
     name: Dead Domains Linter
     runs-on: ubuntu-latest
@@ -35,6 +41,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+
+      - name: Download input files
+        uses: actions/download-artifact@v6
+        with:
+          name: inputs
+          path: .
 
       - name: Install Dead Domains Linter
         run: npm i -g @adguard/dead-domains-linter
