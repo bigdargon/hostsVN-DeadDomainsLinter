@@ -49,7 +49,7 @@ jobs:
       - name: Upload output as artifact
         uses: actions/upload-artifact@v6
         with:
-          name: dead-domains-${{ matrix.list.input }}
+          name: dead-domains-outputs
           path: ${{ matrix.list.output }}
 
   commit-results:
