@@ -152,6 +152,7 @@ prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
+apilw.epom.com
 cdn.epom.com
 directads.epom.com
 aj1015.online
@@ -300,7 +301,6 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -343,7 +343,6 @@ asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -695,6 +694,7 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
+agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -779,6 +779,7 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
+avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -1196,6 +1197,7 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
+galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1394,7 +1396,6 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
-jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1428,6 +1429,7 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
+kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -1493,7 +1495,6 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
-linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1596,7 +1597,6 @@ mulautuzign.com
 munchenviableski.com
 murozwuddtow.com
 mwejhobumo.com
-my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
@@ -1756,7 +1756,6 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
-pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
@@ -1770,6 +1769,7 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
+perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
@@ -2082,7 +2082,6 @@ streakattempt.com
 stunninglover.com
 subheroalgores.com
 subsequentstew.com
-suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -2186,11 +2185,13 @@ uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
+undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
+untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -2233,6 +2234,7 @@ viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
+visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
