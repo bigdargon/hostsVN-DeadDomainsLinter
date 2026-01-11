@@ -21,7 +21,7 @@ jobs:
   dead-domains:
     name: Dead Domains Linter
     runs-on: ubuntu-latest
-
+    needs: download
     strategy:
       matrix:
         list:
@@ -41,20 +41,35 @@ jobs:
         run: npm i -g @adguard/dead-domains-linter
 
       - name: Run linter
-        run: |
-          dead-domains-linter \
-            -i ${{ matrix.list.input }} \
-            --export=${{ matrix.list.output }}
+        run: dead-domains-linter -i ${{ matrix.list.input }} --export=${{ matrix.list.output }}
 
       - name: Cleanup input file
         run: rm -f ${{ matrix.list.input }}
 
-      - name: Commit and push results
+      - name: Upload output as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: dead-domains-${{ matrix.list.input }}
+          path: ${{ matrix.list.output }}
+
+  commit-results:
+    name: Commit All Dead Domains Results
+    runs-on: ubuntu-latest
+    needs: dead-domains
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v6
+        with:
+          path: .
+
+      - name: Commit and push all results
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "chore: update ${{ matrix.list.output }}" || echo "No changes"
+          git commit -m "chore: update dead-domains results" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
