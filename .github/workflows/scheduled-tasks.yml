@@ -53,9 +53,9 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add .
           git commit -m "chore: update ${{ matrix.list.output }}" || echo "No changes"
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
