@@ -301,6 +301,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -343,6 +344,7 @@ asdpoi.com
 widgets.asdpoi.com
 www.asdpoi.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -622,7 +624,6 @@ abservinean.com
 absoluteclickscom.com
 abyocawlfe.com
 acerolawaists.com
-achieverknee.com
 aclickads.com
 acpolxakcl.com
 ad-miner.com
@@ -674,7 +675,6 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
-adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -1341,7 +1341,6 @@ hxpohplms.com
 hydraulzonure.com
 hz.methylstewed.com
 i1media.no
-iadnet.com
 iaglkpracviogn.com
 iasds01.com
 iauzsghijpmq.com
@@ -1396,6 +1395,7 @@ jhxakdmdlz.com
 jighucme.com
 jildiklta.com
 jiordgxkpglzm.com
+jiwire.com
 jizoqsor.com
 jkfdnofnz.com
 jkuadhaf.com
@@ -1495,6 +1495,7 @@ ligvraojlrr.com
 likedstring.com
 limurol.com
 linkadvdirect.com
+linkshighway.net
 litaudrootsa.net
 littlecdn.com
 lj.ochreargue.shop
@@ -1593,10 +1594,7 @@ mrybahnw.com
 msincsayqmji.com
 msvobeuhec.com
 mufsresuwoxg.com
-mulautuzign.com
-munchenviableski.com
-murozwuddtow.com
-mwejhobumo.com
+my.heloninremake.shop
 mybestmv.com
 mylwwuqdhidkmx.com
 myntelligence.com
@@ -1619,7 +1617,6 @@ neevouglu.com
 nervoustolsel.com
 netcommunities.com
 netflame.cc
-news-central.org
 news-muheji.com
 newsletterinspectallpurpose.com
 newstarads.com
@@ -1692,6 +1689,7 @@ omzostzuswm.com
 onclasrv.com
 oneandonlynetwork.com
 onetouch12.com
+onlyfanssubscriber.com
 onmarshtompor.com
 ontosocietyweary.com
 onvictinitor.com
@@ -1756,11 +1754,11 @@ padstm.com
 pajnutas.com
 pallivermis.shop
 panaxive.com
+pansymerbaby.com
 parentlargevia.com
 particularundoubtedly.com
 pasheeheghie.net
 pasjcutadak.com
-patro-sfe.com
 pauewr4cw2xs5q.com
 paxzfenara.com
 paypopup.com
@@ -2082,6 +2080,7 @@ streakattempt.com
 stunninglover.com
 subheroalgores.com
 subsequentstew.com
+suddenvampire.com
 sujjkoshod.com
 sunnycategoryopening.com
 suppliedhopelesspredestination.com
@@ -2323,7 +2322,6 @@ www.money4exit.de
 www.qcerujcajnme.com
 www.tribedone.org
 www.xumamropnox.com
-wywtpkeai.com
 xcinilwpypp.com
 xebadu.com
 xeiidlkuxsos.com
