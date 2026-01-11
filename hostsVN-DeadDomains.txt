@@ -152,7 +152,6 @@ prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-apilw.epom.com
 cdn.epom.com
 directads.epom.com
 aj1015.online
@@ -176,6 +175,7 @@ whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
+magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
@@ -423,6 +423,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
+p.agentanalytics.com
 t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
@@ -674,6 +675,7 @@ adserv.etv.sale
 adserver.quizdingo.com
 adserver1.mindshare.de
 adserver2.mindshare.de
+adshostnet.com
 adsk2.co
 adskape.ru
 adsmogo.mobi
@@ -693,7 +695,6 @@ affiliates.devilfishpartners.com
 afqsrygmu.com
 africaewgrhdtb.com
 agafurretor.com
-agapios-gla.com
 agghriwaz.com
 agtamzsm.com
 agxoxnyum.com
@@ -723,6 +724,7 @@ all4spy.com
 allodsubussu.com
 allstarmediagroup.com
 altronopubacc.com
+aluminiumfamily.top
 alwtupwwafu.com
 alzfaklcuzc.com
 amanda-cle.info
@@ -777,7 +779,6 @@ aveguijdwp.com
 avenaryconcent.com
 avgkuvrtuz.com
 avsakrcapna.com
-avvavcazs.com
 avvxcexk.com
 awaps.net
 awhauchoa.net
@@ -976,6 +977,7 @@ cpxadroit.com
 cpykudhagov.com
 craterwhsle.com
 creepingbrings.com
+crepedzincite.top
 critical-replacement.com
 croniesobli.com
 crumbrationally.com
@@ -1013,7 +1015,9 @@ dedicatedmedia.com
 deductionkeepingbabysitter.com
 deewansturacin.com
 defensive-bad.com
+defensive-living.com
 defusefinishedsleep.com
+delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
 deliriamorula.shop
@@ -1192,7 +1196,6 @@ gaimauroogrou.net
 gaithaiwap.com
 gaiwhouvile.com
 gaizoopi.net
-galepush.net
 gaunchdelimes.com
 gaut-hil.com
 gbbqyadej.com
@@ -1425,7 +1428,6 @@ kauleeci.com
 kaulouvaun.com
 kaurieseluxate.com
 kautefaunenit.net
-kcaapxanwv.com
 kcgkiumubea.com
 kdpxksukngrg.com
 keapeiros.xyz
@@ -1512,6 +1514,8 @@ lowpoliwhirler.com
 lowseelan.com
 lowtyroguer.com
 lp3tdqle.com
+lqbkshojlhmyj.com
+lreapfalkguh.com
 lryadsotb.com
 lryofjrfogp.com
 lstalwryflhourf.com
@@ -1586,6 +1590,7 @@ mptmaxggqf.com
 mpunuxpurs.com
 mrybahnw.com
 msincsayqmji.com
+msvobeuhec.com
 mufsresuwoxg.com
 mulautuzign.com
 munchenviableski.com
@@ -1645,6 +1650,7 @@ nyvpezvddyb.com
 nzaza.com
 oackoubs.com
 oahaurti.com
+oaraiwephoursou.net
 oarouwousti.com
 oavowuftili.com
 oaxntxan.com
@@ -1764,7 +1770,6 @@ pefsustazvzgop.com
 penbouncingmagpie.com
 pencilcongress.com
 pepepush.net
-perceivequarter.com
 peskyclarifysuitcases.com
 petiteumbrella.com
 pfewuzbtkr.com
@@ -2134,6 +2139,7 @@ tixoxzfpur.com
 tkivhuluzcwi.com
 tkoqgxnvt.com
 tlkbfilacsw.com
+tmebhjkjrtbb.com
 tnkuetnoabuk.com
 toawaups.net
 toenailannouncehardworking.com
@@ -2142,6 +2148,7 @@ tookoupanoafig.com
 tornbed.pro
 toroadvertisingmedia.com
 total-fee.com
+toufajitoatuji.com
 touphudipodou.net
 tpmagqvjzgvos.com
 tpudapafr.com
@@ -2179,13 +2186,11 @@ uknlemmsnn.com
 uktwvhfezyvxn.com
 ulrzovfukgkljw.com
 unarbokor.com
-undooptimisticsuction.com
 unknowntray.com
 unphionetor.com
 unreshiramor.com
 unstoutgolfs.com
 unthem.com
-untrendenam.com
 unylgxxmrsbb.com
 upcomingmonkeydolphin.com
 updatedbut.com
@@ -2228,7 +2233,6 @@ viliaff.com
 vingtunacroter.top
 vipicmou.net
 virleth.com
-visualrevenue.com
 vmcxdaynkhnekp.com
 vnwtjgaqlsui.com
 voakulophy.com
