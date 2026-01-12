@@ -223,7 +223,6 @@ beoneviet.com
 bgtib222.com
 bhxh.co
 bideo-cdn.com
-bideo-chat.com
 bideo-endpoint.xyz
 bideo-schnellvpn.com
 bideo-schnellvpn.xyz
@@ -619,7 +618,6 @@ facebook.c0m.ltd
 facebookk.life
 facebookvni.com
 faecbooks.com
-fairu-chat.com
 fairu-chat.xyz
 fairu-endpoint.com
 fairu-endpoint.xyz
@@ -1039,7 +1037,6 @@ jaemoney.ltd
 japan-shopac.asia
 jetkingncsc.online
 jewvvkh.cyou
-jeyrkyshop.com
 jo9p72.cyou
 jomashopsa.com
 jsivqe.aramco8.com
@@ -1410,7 +1407,6 @@ mohopnhanpham-garena.com
 momo.builders
 momo10s.com
 momo113.me
-momo113.win
 momo12.net
 momo147.com
 momo247.me
@@ -1760,6 +1756,8 @@ nhantienvipay.com
 nhantienvivnpay.com
 nhanvientiki.info
 nhapcode-lienquan-garena.net
+nhungmiu.me
+nicevipshop.info
 niftygatevay.com
 niftygotevay.com
 nikdaoquan.vn
@@ -1776,6 +1774,7 @@ nykkky.com
 nzu66938s.com
 nzx65821s.com
 ocb.chamsocthekhachhang-uudai-tructuyen-thang9.com.vn
+ocb.chamsocthekhachhang-uudai-tructuyen.com
 offer.great1waytowsuccess.com
 officials-kmspico.com
 ofth546ebr.cfd
@@ -1961,6 +1960,7 @@ re0y7d.cyou
 regis2tarsgroup.click
 regis2tarsinc.click
 reglienquan.online
+resonherse.cfd
 rest.redirectme.net
 restless.su
 restlesz.su
@@ -2265,7 +2265,6 @@ shopeetro.club
 shopeetro.shop
 shopeetro.xyz
 shopeetuyendung.com
-shopeetx.com
 shopeev.com
 shopeev.net
 shopeev.vip
@@ -2552,6 +2551,7 @@ sukien-pubgmbvng.com
 sukien-pubgmobielievng.com
 sukien-pubgmobilevietnam.club
 sukien-quaythuongmembers.com
+sukien-tet-mung1-lienquan.ga
 sukienbts2022.com
 sukiendtdv-lienquan-garena.co
 sukienff.me
@@ -2790,6 +2790,8 @@ tiki94.com
 tiki98.com
 tiki9833.com
 tikia.vip
+tikib.vip
+tikictv.com
 tikictv1.com
 tikictv12.com
 tikictv2.com
@@ -3083,8 +3085,6 @@ vay-666.com
 vay-abc8.com
 vay-shb.com
 vay-shb8.com
-vay-tpbank.site
-vay-vang.com
 vay-vib8.com
 vay-vietcombank.biz
 vay-vietcombank.com.vn
@@ -3266,9 +3266,7 @@ vib-tindung-khcn.com
 vib-tindung.click
 vib-tindung.online
 vib-up-the.shop
-vib-vay.com
 vib.cham-soc-the-truc-tuyen.com.vn
-vib.chamsockhachang-tructuyen-the.online
 vib.chamsockhachang-tructuyen.online
 vib.chamsockhachhang-tructuyen-the-visa.com
 vib.chamsockhachhang-tructuyenuudaithe.online
@@ -3531,6 +3529,7 @@ vn-iy.life
 vn-iz.info
 vn-jss.vip
 vn-khachhang.click
+vn-kn.vip
 vn-lienket.shop
 vn-lienkettaikhoannhanqua.online
 vn-lk.shop
@@ -3774,7 +3773,6 @@ vstvst21toc.com
 vstvst22toc.com
 vstvst24toc.com
 vstvst25toc.com
-vstvst26toc.com
 vstvst27toc.com
 vstvst28toc.com
 vstvst29toc.com
@@ -3835,9 +3833,7 @@ winmomo.com
 winsbank.io
 wkkug.vcbnw.de
 wmail-blog.xyz
-wmail-chat.com
 wmail-chat.xyz
-wmail-schnellvpn.com
 woorivn.online
 word.emldn.com
 wutienitme247.info

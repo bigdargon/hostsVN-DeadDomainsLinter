@@ -71,7 +71,6 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-vod.adspruce.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -83,13 +82,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 content.ad
 api.content.ad
 app.content.ad
@@ -142,9 +134,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-metrics.linkshare.com
-reporting.linkshare.com
-smetrics.linkshare.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -169,9 +158,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-chat.simpleanalytics.io
-gif.simpleanalytics.io
-monitor.simpleanalytics.io
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -377,7 +363,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -399,7 +384,6 @@ pixel.app.returnpath.net
 pixel.monitor1.returnpath.net
 delivery.taroads.com
 taroads.com
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -428,7 +412,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
-ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -448,21 +431,21 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-online.com
 aff-track.net
 mntzrlt.net
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
-dst.polyad.net
 dt.polyad.net
 go.polyad.net
+html.polyad.net
 img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
 st.polyad.net
+media.m.ambientplatform.vn
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -505,6 +488,8 @@ ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
+delivery.lavamedia.vn
+pub.lavamedia.vn
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -513,7 +498,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ads-admin.hubs.vn
 ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
@@ -527,8 +511,11 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.mhsolution.vn
+s1.zzz.vn
+analytics.ungdungtructuyen.vn
+kh.suno.vn
+track.kyna.vn
 4info.com
-ads.alt.com
 ads.amigos.com
 ads.tripod.com
 advariant.com
@@ -552,7 +539,6 @@ linkads.xyz
 lumupu.xyz
 mathcountryside.com
 nycvqozkkmzti.com
-oas.roanoke.com
 playsdonkey.com
 rzuohgfwyoxx.com
 sidebar.angelfire.com
@@ -561,6 +547,5 @@ untidyquestion.com
 wellmadefrog.com
 wiwqhootrf.com
 comscoreresearch.com
-tdf.ringier.ch
 umeng.co
 visitor.pixplug.in
