@@ -15,7 +15,6 @@ px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
-analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
@@ -30,7 +29,6 @@ self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
 alexametrics.com
-atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
@@ -242,8 +240,6 @@ intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
-lalaping.com
-static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
@@ -377,9 +373,6 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
-jg.wensixuetang.com
-wensixuetang.com
-www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -498,7 +491,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-www.mobio.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -523,12 +515,12 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.mhsolution.vn
+s1.zzz.vn
 4info.com
 ads.alt.com
 ads.amigos.com
@@ -537,10 +529,10 @@ advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 bmycupptafr.com
-boustahe.com
 bpipihwhumif.com
 breathelicense.com
 colonserve.com
+crowdgravity.com
 fadzudvracat.com
 findcommerce.com
 frightenedpotato.com
@@ -554,11 +546,9 @@ lumupu.xyz
 mathcountryside.com
 nycvqozkkmzti.com
 oas.roanoke.com
-opzazcvitci.com
 playsdonkey.com
 rzuohgfwyoxx.com
 sidebar.angelfire.com
-tilqwekuszfa.com
 tranquilside.com
 untidyquestion.com
 wellmadefrog.com
