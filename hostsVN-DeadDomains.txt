@@ -15,6 +15,7 @@ px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 a.ligatus.com
+analysis.ligatus.com
 analysis1.ligatus.com
 analysis2.ligatus.com
 a-ssl.ligatus.com
@@ -29,6 +30,7 @@ self-booking.ligatus.com
 ssl.ligatus.com
 www.ligatus.com
 alexametrics.com
+atrk.alexametrics.com
 certify.alexametrics.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
@@ -240,6 +242,8 @@ intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
+lalaping.com
+static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
 track.vivaclix.com
@@ -373,6 +377,7 @@ cdn.imhd.io
 imhd.io
 beta.tapdb.com
 sense.tapdb.com
+www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -422,6 +427,8 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv760.me
+ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
@@ -451,7 +458,6 @@ ds.polyad.net
 dst.polyad.net
 dt.polyad.net
 go.polyad.net
-html.polyad.net
 img.polyad.net
 polyad.net
 st.core.polyad.net
@@ -515,12 +521,12 @@ tags.fly-ads.net
 d.watanet.work
 watanet.work
 cdn.wataads.com
+wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.mhsolution.vn
-s1.zzz.vn
 4info.com
 ads.alt.com
 ads.amigos.com
@@ -528,6 +534,7 @@ ads.tripod.com
 advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
+blutrumpet.com
 bmycupptafr.com
 bpipihwhumif.com
 breathelicense.com
