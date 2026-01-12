@@ -48,6 +48,7 @@ jobs:
     needs: download
 
     strategy:
+      fail-fast: false
       matrix:
         list:
           - input: threat.txt
@@ -77,14 +78,12 @@ jobs:
             -i ${{ matrix.list.input }} \
             --export=${{ matrix.list.output }}
 
-      - name: Cleanup input file
-        run: rm -f ${{ matrix.list.input }}
-
       - name: Upload dead-domains result
         uses: actions/upload-artifact@v6
         with:
-          name: dead-domains-results
+          name: dead-domains-${{ matrix.list.output }}
           path: ${{ matrix.list.output }}
+          if-no-files-found: error
 
   commit-results:
     name: Commit All Dead Domains Results
@@ -94,10 +93,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Download all dead-domains results
+      - name: Download all dead-domains artifacts
         uses: actions/download-artifact@v6
         with:
-          name: dead-domains-results
+          pattern: dead-domains-*
+          merge-multiple: true
           path: .
 
       - name: Commit and push outputs
@@ -106,7 +106,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           git status
-          git add .
+          git add *.txt
           git commit -m "chore: update dead-domains outputs" || echo "No changes"
           git push
         env:
