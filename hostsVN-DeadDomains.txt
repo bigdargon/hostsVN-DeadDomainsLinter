@@ -2,6 +2,7 @@ googleads-cn.com
 blueserving.com
 ads.mobclix.com
 vserv.mobi
+admin.vserv.mobi
 c.vserv.mobi
 ads.vserv.mobi
 swift.lifestreet.com
@@ -527,6 +528,7 @@ mautic.casso.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
+mautic.vmax.vn
 cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -559,12 +561,9 @@ ads.careerbuilder.vn
 ads1.careerbuilder.vn
 qc.mhsolution.vn
 ttus.tructiepbongda.me
-tvc.biphim.club
 analytic.thuanbui.me
-analytics.videocloud.top
 4info.com
 adformdsp.net
-adsonar.com
 affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -572,16 +571,12 @@ blutrumpet.com
 bmycupptafr.com
 bpipihwhumif.com
 breathelicense.com
-casalmedia.com
 colonserve.com
-crowdgravity.com
 eyeviewads.com
 fadzudvracat.com
 feed-xml.com
 fiksu.com
-findcommerce.com
 frightenedpotato.com
-galaxien.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
@@ -595,7 +590,6 @@ nycvqozkkmzti.com
 optimost.com
 phaimtoata.com
 playsdonkey.com
-rightmedia.com
 rzuohgfwyoxx.com
 softaignidsoom.net
 tranquilside.com
