@@ -362,7 +362,6 @@ com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
 com.vn-sp.xyz
-com.vn-ub.info
 com.vn-uz.info
 comptrffc.com
 condandthi.cfd
@@ -392,7 +391,6 @@ cskh-ca-nhan-vpbank.com
 cskh-dienmay-xanh.com
 cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
-cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
 cskh-vib.nang-han-muc-the-visa.com
 cskhcanhanhd.com
@@ -706,7 +704,6 @@ freefire-membershipp-garena.com
 freefire-membershipp-vn.com
 freefire-membershipvn-garena.com
 freefire-vietnam.com
-freefirehopqua.com
 freefiremembership-garenas.com
 freefiremembershipq.com
 freefiremenbershipvn.com
@@ -740,6 +737,7 @@ garena-membership.site
 garena-membershipffvn.com
 garena-membershipp.online
 garena-membershippvn.com
+garena-menberships.com
 garena-sukien-codegiftlqmb.com
 garena-sukien-skinsss.com
 garena.fan
@@ -848,6 +846,7 @@ handico.vaytienmat-nhanh24h.com
 hangairsoft.com
 hanghaiqt.com
 hanmucvn.com
+happykitcr.com
 hdb.tang-han-muc-tin-dung-vn.com
 hdb.vntanghanmucvisadebit.com
 hdbank.tructuyen-uudai-thekhachhang.com
@@ -979,7 +978,6 @@ idmfullcrack.info
 idnhanquatang.vn
 iesandb.cfd
 igoda.shop
-ihgatms.cfd
 iisacombank.com
 ilsacombank.com
 images.emldn.com
@@ -1658,6 +1656,8 @@ naptheplaytogether.games
 naptheplaytogether.vn
 napthequanhuy.com
 napthequocte.com
+napthesukien.ml
+napthesukienlqmb.com
 napthetc.com
 napthetogether.ga
 napthetrian.com
@@ -1684,7 +1684,6 @@ napucpubgmobile.com
 napvatpham.com
 napvisieutoc.tk
 napxquanhuy.com
-napzingvng.news
 natvxgkbb.9pz1.tech
 ncb-bank.pw
 ncbbank.online
@@ -2020,6 +2019,7 @@ saifcrack.com
 salu.gq
 sandealshopee.com
 sanduon.com
+sanmomo.me
 sanqua-lienminh2021.cf
 saokenganhangvn.com
 sbvhn.com
@@ -2564,7 +2564,6 @@ sukienffvn2021.com
 sukienffvn2021.net
 sukienfreefirervn.com
 sukienfreefirevietnam2021.com
-sukienfreefive.com
 sukiengarena2022.com
 sukiengarenafreefire.tk
 sukienhefreefire.com
@@ -2957,7 +2956,6 @@ tranggiaivangvn.com
 trangnapthelienquan.com
 trangnganhangdientu247.com
 trangnganhangso247.com
-trangqua696.com
 trangsucluxurydiamond.com
 trangthaithe247.com
 trangthuongmai.com
@@ -3080,6 +3078,7 @@ vanmay.net
 vanmay.win
 vanmay1.net
 vanmaymm24h.com
+vanmayshoppe.com
 vanthangcltxmomo.xyz
 vatgia306.com
 vavietcombank.cc
@@ -3631,6 +3630,7 @@ vnponte.top
 vnpt99.com
 vnsehotro.com
 vnsendo.info
+vnsendo.net
 vnsendo.shop
 vnsendo.vip
 vnsendotv.vip
@@ -3798,7 +3798,6 @@ vtvay.com
 vuabem.com
 vuacltxmomo.net
 vuamomo.com
-vui-vay.com
 vuimomo.club
 vuimomo.fun
 vuimomo.vin
