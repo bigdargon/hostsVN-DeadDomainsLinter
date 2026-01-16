@@ -1,9 +1,5 @@
-medialytics.com
-a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
@@ -35,15 +31,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -101,8 +88,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -177,7 +162,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -208,20 +192,11 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-www.adclerks.com
 delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -279,7 +254,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -288,7 +262,6 @@ mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
 mautic.vmax.vn
-cdn.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -311,9 +284,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
-tvc.biphim.club
-analytics.videocloud.top
-ads.printscr.com
 advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -322,7 +292,6 @@ bmycupptafr.com
 bpipihwhumif.com
 breathelicense.com
 brightinfo.com
-casalmedia.com
 colonserve.com
 crowdgravity.com
 fadzudvracat.com
@@ -336,8 +305,7 @@ jhukfaosdjfa.com
 kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
-liquidad.narrowcastmedia.com
-mathcountryside.com
+linktarget.com
 nycvqozkkmzti.com
 omciecoa37tw4.com
 ozqoztrkoaj.com
