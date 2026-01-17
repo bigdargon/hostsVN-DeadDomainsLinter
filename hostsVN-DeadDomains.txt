@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -53,8 +51,6 @@ ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
 www.marketolive.com
 fadskiz.com
 gadskis.com
@@ -209,7 +205,6 @@ media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2566.bid
-aj2581.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
@@ -260,9 +255,7 @@ ttus.tructiepbongda.me
 tvc.biphim.club
 affiliates.devilfishpartners.com
 afrjhanwosa.com
-ah-ha.com
-allaqxoh.com
-avhkihpfabt.com
+ambleads.com
 blutrumpet.com
 bmycupptafr.com
 bpipihwhumif.com
@@ -279,7 +272,6 @@ kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
 nycvqozkkmzti.com
-odqdkealzr.com
 omciecoa37tw4.com
 oranegfodnd.com
 outloginequity.com
@@ -288,6 +280,7 @@ pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
 ptawehex.net
+rhiowzaht.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
 softaignidsoom.net
@@ -298,5 +291,5 @@ vebo-vast.pages.dev
 wellmadefrog.com
 wiwqhootrf.com
 wonderhsjnsd.com
+www.ambleads.com
 xruamzpanbca.com
-zkyrzoqc.com
