@@ -56,7 +56,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-cdn.bidfilter.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -67,12 +66,6 @@ m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
-ads.adservme.com
-rtb.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-www.adservme.com
-xml.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -208,7 +201,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -241,7 +233,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -261,7 +252,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-d.watanet.work
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
@@ -270,13 +260,16 @@ ttus.tructiepbongda.me
 tvc.biphim.club
 affiliates.devilfishpartners.com
 afrjhanwosa.com
-bannerserver.com
+ah-ha.com
+allaqxoh.com
+avhkihpfabt.com
 blutrumpet.com
 bmycupptafr.com
 bpipihwhumif.com
 breathelicense.com
 colonserve.com
 fadzudvracat.com
+frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
@@ -286,6 +279,7 @@ kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
 nycvqozkkmzti.com
+odqdkealzr.com
 omciecoa37tw4.com
 oranegfodnd.com
 outloginequity.com
@@ -305,3 +299,4 @@ wellmadefrog.com
 wiwqhootrf.com
 wonderhsjnsd.com
 xruamzpanbca.com
+zkyrzoqc.com
