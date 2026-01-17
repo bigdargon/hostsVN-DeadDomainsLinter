@@ -56,8 +56,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
@@ -69,6 +67,12 @@ m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
+ads.adservme.com
+rtb.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+www.adservme.com
+xml.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -147,6 +151,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -236,8 +241,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -274,7 +277,6 @@ bpipihwhumif.com
 breathelicense.com
 colonserve.com
 fadzudvracat.com
-frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
@@ -288,6 +290,7 @@ omciecoa37tw4.com
 oranegfodnd.com
 outloginequity.com
 ozqoztrkoaj.com
+pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
 ptawehex.net
