@@ -1,4 +1,3 @@
-blueserving.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -32,7 +31,6 @@ spf3.advergine.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -176,7 +174,6 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
@@ -221,7 +218,6 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
@@ -250,7 +246,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
 ads.vnd89.com
-advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
