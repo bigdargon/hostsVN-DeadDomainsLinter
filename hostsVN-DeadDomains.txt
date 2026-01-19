@@ -29,7 +29,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -45,12 +44,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -87,10 +80,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -242,6 +231,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -264,6 +254,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
 ads.vnd89.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -274,6 +265,7 @@ breathelicense.com
 cdn.adimo.co
 ceksevairs.com
 colonserve.com
+crowdgravity.com
 fadzudvracat.com
 frightenedpotato.com
 gimoqwmikakv.com
@@ -302,7 +294,6 @@ taqavmaplont.com
 tranquilside.com
 untidyquestion.com
 vebo-vast.pages.dev
-viiadr.com
 wellmadefrog.com
 wiwqhootrf.com
 wonderhsjnsd.com
