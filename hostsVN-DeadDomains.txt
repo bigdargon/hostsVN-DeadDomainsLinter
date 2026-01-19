@@ -189,7 +189,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
@@ -231,8 +230,8 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
-ad-space.net
 ads.vnd89.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -243,6 +242,7 @@ breathelicense.com
 cdn.adimo.co
 ceksevairs.com
 colonserve.com
+crowdgravity.com
 fadzudvracat.com
 frightenedpotato.com
 gimoqwmikakv.com
