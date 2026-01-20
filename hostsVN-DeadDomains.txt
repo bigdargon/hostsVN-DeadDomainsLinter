@@ -2,7 +2,6 @@ advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 api.zcoup.com
@@ -103,7 +102,6 @@ click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -185,6 +183,7 @@ ads.livetv760.me
 ads.livetv765.me
 amntx1.net
 media.amntx1.net
+srv.amntx1.net
 track.amntx1.net
 aj2566.bid
 aj2581.bid
@@ -216,9 +215,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -239,7 +235,6 @@ duamilsyr.com
 ttus.tructiepbongda.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ads.vnd89.com
-advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -250,9 +245,7 @@ breathelicense.com
 cdn.adimo.co
 ceksevairs.com
 colonserve.com
-crowdgravity.com
 fadzudvracat.com
-findcommerce.com
 frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
@@ -271,8 +264,8 @@ ozqoztrkoaj.com
 pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
-pq8ithtdw.com
 ptawehex.net
+qakcceob.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
