@@ -194,7 +194,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ads.adiiix.com
 cdn.imhd.io
 imhd.io
 ad.samsungadhub.com
@@ -255,7 +254,6 @@ img.polyad.net
 polyad.net
 st.core.polyad.net
 st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -310,7 +308,7 @@ breathelicense.com
 cdn.adimo.co
 ceksevairs.com
 colonserve.com
-counter.cz
+crowdgravity.com
 e5asyhilodice.com
 fadzudvracat.com
 findcommerce.com
@@ -329,6 +327,7 @@ omciecoa37tw4.com
 oranegfodnd.com
 outloginequity.com
 ozqoztrkoaj.com
+palaroleg.guru
 pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
@@ -344,6 +343,7 @@ vebo-vast.pages.dev
 wellmadefrog.com
 wiwqhootrf.com
 wonderhsjnsd.com
+worshippers.store
 www.ambleads.com
 xruamzpanbca.com
 zumdivdwug.com
