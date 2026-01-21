@@ -7,6 +7,7 @@ px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
+client-uat.addthiscdn.com
 sharebar.addthiscdn.com
 a.ligatus.com
 analysis.ligatus.com
@@ -61,7 +62,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -194,7 +194,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
 imhd.io
@@ -249,6 +248,7 @@ cp.polyad.net
 cpx.polyad.net
 ds.polyad.net
 dst.polyad.net
+dt.polyad.net
 go.polyad.net
 html.polyad.net
 img.polyad.net
@@ -299,6 +299,7 @@ duamilsyr.com
 ttus.tructiepbongda.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ads.vnd89.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -309,8 +310,10 @@ breathelicense.com
 cdn.adimo.co
 ceksevairs.com
 colonserve.com
+counter.cz
 e5asyhilodice.com
 fadzudvracat.com
+findcommerce.com
 frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
