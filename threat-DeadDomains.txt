@@ -604,6 +604,7 @@ eximbank.today
 eximbank.xyz
 exovietnam.xyz
 expressmoney.cc
+facabook.id.vn
 faceb.me
 faceb.pro
 facebook.c0m.ltd
@@ -1381,13 +1382,10 @@ mljfff.zgbv.tech
 mlswl.shop
 mmbonline01.com
 mmocorporation2017.com
-mmomo.me
 mmovietnam.info
 mobaviet.shop
 mobil177.com
 mobile-facebook.com.vn
-mobile-ibankingshopee.vn
-mobilebanking-shopee.vn
 mobilebankingvn.com
 mohopnhanpham-garena.com
 momo.builders
@@ -1544,6 +1542,7 @@ nanghanmuc-tindungvn.com
 nanghanmuc-vp.online
 nanghanmuc-vpb.com
 nanghanmuc-vpb.online
+nanghanmucthe-thetindung.com
 nanghanmucthetindung247.com
 nanghanmucthevib.com
 nanghanmucvisa-vn.com
@@ -1652,6 +1651,7 @@ napthex98.ga
 naptien.site
 naptienfreefire.com
 naptienfreefire.vn
+naptienfreefires.com
 naptienminiworld.com
 naptienminiworld.net
 naptienplaytogethers.com
@@ -1741,6 +1741,7 @@ nhantienvipay.com
 nhantienvivnpay.com
 nhanvientiki.info
 nhapcode-lienquan-garena.net
+nhungmiu.me
 nicevipshop.info
 niftygatevay.com
 niftygotevay.com
@@ -1786,6 +1787,7 @@ pagelazada.com
 panyruld.cfd
 paylienquan.club
 payon-rutienmat5.com
+payon-ruttiennhanh5.com
 paypquan.vip
 petrovietnam.pro
 petrovietnam.top
@@ -2180,6 +2182,7 @@ shopee192.vip
 shopee2.net
 shopee20.com
 shopee2288.com
+shopee24.vip
 shopee27.vip
 shopee298.com
 shopee3.net
@@ -2748,7 +2751,6 @@ tiki35.com
 tiki36.com
 tiki37.com
 tiki44.com
-tiki444.com
 tiki444.vip
 tiki4988.com
 tiki518.com
@@ -3200,6 +3202,7 @@ vayvon-nganhang.online
 vayvon-sacombank.cf
 vayvon-shinhanbank-24h.com
 vayvon-techcombank.biz
+vayvoncgcredit.com
 vayvonlotte.online
 vayvonnganhang-techcombank24h.online
 vayvonnganhangvn.online
@@ -3209,6 +3212,7 @@ vayvonshinhanhanoi.com
 vayvonshinhantoanquoc.online
 vayvonshinhanvn.com
 vayvontheoluong.site
+vayvontieudungshinhanbank.com
 vayysieutoc.com
 vcb-diglicabrnk.com
 vcb-vaysodo.com
