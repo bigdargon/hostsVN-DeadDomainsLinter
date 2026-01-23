@@ -86,8 +86,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-maxymiser.net
-service.maxymiser.net
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -131,7 +129,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -143,8 +140,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -191,7 +186,6 @@ ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
-track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
@@ -228,7 +222,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -260,14 +253,13 @@ blutrumpet.com
 bmycupptafr.com
 bpipihwhumif.com
 breathelicense.com
-cdn.adimo.co
 ceksevairs.com
 chaipoksore.com
 colonserve.com
+crowdgravity.com
 e5asyhilodice.com
 fadzudvracat.com
 frightenedpotato.com
-galaxien.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
