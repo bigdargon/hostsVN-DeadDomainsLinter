@@ -103,7 +103,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -116,7 +115,6 @@ www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
-xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -284,6 +282,7 @@ palaroleg.guru
 pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
+ptawehex.net
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
