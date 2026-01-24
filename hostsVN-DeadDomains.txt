@@ -26,7 +26,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -42,9 +41,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 fadskiz.com
 gadskis.com
@@ -103,6 +99,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 www.anymad.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -115,6 +112,7 @@ www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
+xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -150,7 +148,6 @@ cdn.imhd.io
 imhd.io
 ad.samsungadhub.com
 samsungadhub.com
-click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
