@@ -20,6 +20,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -87,7 +88,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -167,9 +167,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
@@ -287,7 +284,6 @@ palaroleg.guru
 pekajmkimvx.com
 phaimtoata.com
 playsdonkey.com
-ptawehex.net
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
