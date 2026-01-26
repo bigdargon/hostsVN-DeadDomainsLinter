@@ -85,9 +85,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -96,14 +93,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -224,7 +213,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -274,6 +262,7 @@ ttus.tructiepbongda.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0xon2uo9s.com
 1fkx796mw.com
+adscholar.com
 afrjhanwosa.com
 ambleads.com
 arhribadjqp.com
@@ -287,7 +276,6 @@ cdn.adimo.co
 ceksevairs.com
 chaipoksore.com
 colonserve.com
-crowdgravity.com
 cwoamjkma.com
 dulrihaungy.com
 e5asyhilodice.com
@@ -344,4 +332,5 @@ www.pro-ads.club
 xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
+redinvestor.com
 umeng.co
