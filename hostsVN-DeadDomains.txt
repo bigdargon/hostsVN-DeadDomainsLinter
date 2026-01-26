@@ -1,15 +1,9 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 a.ligatus.com
 analysis.ligatus.com
 analysis1.ligatus.com
@@ -120,8 +114,6 @@ www.bitmedianetwork.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
-exelatesync.extend.tv
-sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -192,8 +184,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -277,8 +267,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
@@ -305,14 +293,12 @@ dulrihaungy.com
 e5asyhilodice.com
 espionagegardenerthicket.com
 fadzudvracat.com
-fiksu.com
 frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
 goldtrailmotorlodge.com
 hccxwfunnpxngz.com
-idot.cz
 inspirationstarednope.com
 jhukfaosdjfa.com
 kighoadouk.net
