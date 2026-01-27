@@ -26,10 +26,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -48,12 +44,6 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-hb.adomik.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 advergine.com
@@ -169,6 +159,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -242,7 +233,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv782.me
-ads.livetv785.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -329,7 +319,6 @@ frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
-goldtrailmotorlodge.com
 hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
@@ -359,7 +348,6 @@ rzuohgfwyoxx.com
 sacwumsf.com
 shaughixefooz.net
 softaignidsoom.net
-sumbreta.com
 taqavmaplont.com
 timohtazxazej.website
 tranquilside.com
