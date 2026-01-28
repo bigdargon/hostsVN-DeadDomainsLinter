@@ -29,11 +29,6 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -177,11 +172,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -208,8 +198,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-js-sdk.analytics-data.io
-track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -310,6 +298,7 @@ cdn.adimo.co
 ceksevairs.com
 chaipoksore.com
 colonserve.com
+crowdgravity.com
 cwoamjkma.com
 dulrihaungy.com
 e5asyhilodice.com
@@ -371,6 +360,5 @@ www.pro-ads.club
 xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
-beacon.errorception.com
 ping.kitidi.com
 umeng.co
