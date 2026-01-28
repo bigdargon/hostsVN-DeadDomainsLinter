@@ -103,8 +103,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 heatmap.it
 u.heatmap.it
 www.heatmap.it
@@ -262,6 +260,7 @@ www.klick.vn
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
+platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
@@ -316,6 +315,7 @@ dulrihaungy.com
 e5asyhilodice.com
 espionagegardenerthicket.com
 fadzudvracat.com
+findcommerce.com
 frightenedpotato.com
 gimoqwmikakv.com
 gketcakpeh.com
@@ -334,7 +334,6 @@ nasadfgzaq.com
 nicksstevmark.com
 nycvqozkkmzti.com
 omciecoa37tw4.com
-optimost.com
 oranegfodnd.com
 orylhull.com
 outloginequity.com
