@@ -1,5 +1,3 @@
-blueserving.com
-medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
@@ -89,7 +87,7 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 optvx.com
-mobytrks.com
+s.optvx.com
 go.mobytrks.com
 faktorid-fid.choice.faktor.io
 faktornet.faktor.io
@@ -114,11 +112,9 @@ adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
-tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -137,8 +133,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-maxymiser.net
-service.maxymiser.net
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -211,8 +205,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -307,7 +299,6 @@ syndication.adlinknetwork.vn
 duamilsyr.com
 ttus.tructiepbongda.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
-0xon2uo9s.com
 1fkx796mw.com
 4info.com
 ads.kitidi.com
@@ -377,7 +368,6 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 untidyquestion.com
-v6rxv5coo5.com
 vebo-vast.pages.dev
 vtacibqzopiw.com
 wellmadefrog.com
