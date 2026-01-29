@@ -60,9 +60,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -115,9 +112,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-heatmap.it
 u.heatmap.it
-www.heatmap.it
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -235,7 +230,6 @@ aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
-aj3017.bid
 core.polyad.net
 cp.polyad.net
 cpx.polyad.net
@@ -275,10 +269,6 @@ mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -301,7 +291,6 @@ kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 4info.com
 ads.kitidi.com
 ads.vnd89.com
-advariant.com
 afrjhanwosa.com
 ambleads.com
 arhribadjqp.com
