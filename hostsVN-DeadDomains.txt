@@ -25,9 +25,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -82,14 +79,9 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -222,7 +214,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv787.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -256,8 +247,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -288,6 +277,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
 ttus.tructiepbongda.me
+statistics.tapchimypham.com.vn
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0xon2uo9s.com
 1fkx796mw.com
@@ -349,7 +339,6 @@ rzuohgfwyoxx.com
 sacwumsf.com
 sfiannzilgi.com
 shaughixefooz.net
-softaignidsoom.net
 synonymdetected.com
 taqavmaplont.com
 timohtazxazej.website
