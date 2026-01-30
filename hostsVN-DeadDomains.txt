@@ -10,6 +10,7 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -24,16 +25,9 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -55,12 +49,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -134,7 +122,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -236,7 +223,6 @@ ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
 ads.livetv787.me
-ads.livetv788.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -279,8 +265,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-m.clevernet.vn
-www.clevernet.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -389,4 +373,3 @@ xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
 ping.kitidi.com
-umeng.co
