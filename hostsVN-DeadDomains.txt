@@ -245,7 +245,6 @@ mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -295,6 +294,7 @@ gketcakpeh.com
 gloarteegnu.com
 hccxwfunnpxngz.com
 hostnetadv.site
+ichachoakiglop.com
 inspirationstarednope.com
 jhukfaosdjfa.com
 kaisauwoure.net
@@ -306,7 +306,6 @@ moomenog.com
 nasadfgzaq.com
 nicksstevmark.com
 nycvqozkkmzti.com
-omciecoa37tw4.com
 oranegfodnd.com
 orylhull.com
 outloginequity.com
