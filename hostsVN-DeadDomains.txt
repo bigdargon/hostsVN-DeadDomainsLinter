@@ -35,12 +35,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -50,10 +44,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -171,8 +161,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -183,8 +171,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-js-sdk.analytics-data.io
-track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -243,8 +229,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-customers.fptad.com
-img.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -306,6 +290,7 @@ moomenog.com
 nasadfgzaq.com
 nicksstevmark.com
 nycvqozkkmzti.com
+omciecoa37tw4.com
 oranegfodnd.com
 orylhull.com
 outloginequity.com
