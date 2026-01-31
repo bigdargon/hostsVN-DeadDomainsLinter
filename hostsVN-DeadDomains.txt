@@ -1,8 +1,3 @@
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -54,6 +49,7 @@ gop1.co
 img.gop1.co
 in1.gop1.co
 log.gop1.co
+offer.gop1.co
 a.ivstracker.net
 c.ivstracker.net
 ivstracker.net
@@ -86,14 +82,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -155,8 +143,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -197,6 +183,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -279,6 +267,7 @@ kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 1fkx796mw.com
 ads.kitidi.com
 ads.vnd89.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
 arhribadjqp.com
@@ -293,6 +282,7 @@ cdn.adimo.co
 ceksevairs.com
 chaipoksore.com
 colonserve.com
+cwifabvze.com
 cwoamjkma.com
 dulrihaungy.com
 e5asyhilodice.com
@@ -305,7 +295,6 @@ gketcakpeh.com
 gloarteegnu.com
 hccxwfunnpxngz.com
 hostnetadv.site
-ichachoakiglop.com
 inspirationstarednope.com
 jhukfaosdjfa.com
 kaisauwoure.net
@@ -329,6 +318,7 @@ playsdonkey.com
 pro-ads.club
 ptawehex.net
 riotousgrit.com
+ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
