@@ -1,10 +1,3 @@
-engageya.com
-ext1-api.engageya.com
-ecs1.engageya.com
-ext1.engageya.com
-recs.engageya.com
-platform.engageya.com
-widget.engageya.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -94,9 +87,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pclk.name
-maxymiser.net
-service.maxymiser.net
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -151,11 +141,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 ad-track.adiiix.com
 ads.adiiix.com
 cdn.imhd.io
@@ -202,7 +187,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aff-track.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -244,7 +228,6 @@ ttus.tructiepbongda.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0xon2uo9s.com
 1fkx796mw.com
-ads.kitidi.com
 ads.vnd89.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -302,7 +285,6 @@ pro-ads.club
 ptawehex.net
 rankingchart.de
 riotousgrit.com
-ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
@@ -329,7 +311,7 @@ wonderhsjnsd.com
 worshippers.store
 www.ambleads.com
 www.pro-ads.club
+www.servsave.com
 xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
-ping.kitidi.com
