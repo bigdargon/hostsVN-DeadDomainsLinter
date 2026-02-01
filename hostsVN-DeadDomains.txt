@@ -83,8 +83,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -142,7 +140,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -206,19 +203,6 @@ aj2587.bid
 aj3007.bid
 aj3017.bid
 aff-track.net
-core.polyad.net
-cp.polyad.net
-cpx.polyad.net
-ds.polyad.net
-dst.polyad.net
-dt.polyad.net
-go.polyad.net
-html.polyad.net
-img.polyad.net
-polyad.net
-st.core.polyad.net
-st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -253,8 +237,6 @@ ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
