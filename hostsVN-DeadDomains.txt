@@ -5,13 +5,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
+v.zcoup.com
 zcoup.com
 adthor.com
 api.adthor.com
@@ -19,6 +16,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -40,7 +44,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -218,6 +221,9 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -277,7 +283,6 @@ kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
 literalcorpulent.com
-mathcountryside.com
 moomenog.com
 nasadfgzaq.com
 nicksstevmark.com
@@ -296,6 +301,7 @@ playsdonkey.com
 pro-ads.club
 ptawehex.net
 rankingchart.de
+richwebmaster.com
 riotousgrit.com
 ruvsraaklrih.com
 ruwjkygaxo.com
