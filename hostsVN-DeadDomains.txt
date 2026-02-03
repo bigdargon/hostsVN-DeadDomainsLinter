@@ -219,7 +219,6 @@ www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -257,6 +256,7 @@ bpipihwhumif.com
 breathelicense.com
 cdn.adimo.co
 ceksevairs.com
+chaipoksore.com
 colonserve.com
 cwifabvze.com
 cwoamjkma.com
@@ -282,7 +282,6 @@ kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
 literalcorpulent.com
-mathcountryside.com
 moomenog.com
 nasadfgzaq.com
 nicksstevmark.com
