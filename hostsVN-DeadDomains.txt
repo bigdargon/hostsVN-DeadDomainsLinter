@@ -5,7 +5,6 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -195,7 +194,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -224,6 +222,7 @@ hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
+platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
@@ -245,6 +244,7 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
+tags.fly-ads.net
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
@@ -281,6 +281,7 @@ egraglauvoathog.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
 gimoqwmikakv.com
