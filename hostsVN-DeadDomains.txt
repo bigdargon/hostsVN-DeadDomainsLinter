@@ -33,11 +33,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -89,7 +84,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -142,6 +136,7 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -202,10 +197,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv785.me
-ads.livetv787.me
-ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -260,6 +251,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
+ttus.tructiepbongda.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -296,6 +288,7 @@ egraglauvoathog.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
 gimoqwmikakv.com
@@ -333,7 +326,6 @@ ptawehex.net
 rankingchart.de
 richwebmaster.com
 riotousgrit.com
-ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
@@ -344,7 +336,6 @@ softaignidsoom.net
 synonymdetected.com
 taqavmaplont.com
 timohtazxazej.website
-tirosagalite.com
 topmmorpgsites.com
 tranquilside.com
 trblocked.com
