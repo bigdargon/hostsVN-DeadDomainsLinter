@@ -26,11 +26,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -114,6 +109,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -231,12 +227,12 @@ ttus.tructiepbongda.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0xon2uo9s.com
 1fkx796mw.com
 adgardener.com
 adnetwork.net
+ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
 advariant.com
