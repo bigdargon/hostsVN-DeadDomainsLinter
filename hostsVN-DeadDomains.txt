@@ -77,7 +77,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -99,7 +98,6 @@ www.voodoo-analytics.io
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
-click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
@@ -226,7 +224,6 @@ duamilsyr.com
 ttus.tructiepbongda.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
-m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0xon2uo9s.com
@@ -236,7 +233,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
