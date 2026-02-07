@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -134,6 +136,7 @@ www.b91vip.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
+ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -235,7 +238,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -296,6 +298,7 @@ playsdonkey.com
 pokreess.com
 pro-ads.club
 ptawehex.net
+railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
 riotousgrit.com
@@ -307,6 +310,7 @@ servsave.com
 sfiannzilgi.com
 shaughixefooz.net
 softaignidsoom.net
+stay.decentralappps.com
 synonymdetected.com
 taqavmaplont.com
 timohtazxazej.website
