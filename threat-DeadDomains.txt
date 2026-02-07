@@ -459,7 +459,6 @@ dich-vu-the-ez-vpbank.com
 dich-vu-the-kt3-vib.com
 dich-vu-the-sat-vib.com
 dich-vu-the-svip-vib.com
-dich-vu-the-vdiamond-vib.com
 dich-vu-the-vdiamond-vpbank.com
 dich-vu-the-vvip-vib.com
 dich-vu-the-vvip-vpb.com
@@ -1018,6 +1017,8 @@ itsdebri.cfd
 iviietcombank.com
 ivvietcombank.com
 ivz7x63ymy.ru
+iyogo.shop
+jaccsc.com
 jaccscom.com
 jaccsn.com
 jaemoney.ltd
@@ -1082,7 +1083,6 @@ kiemtientaigia2018.com
 kiemtratindung.com
 kimtruongphat.org
 kingking79.com
-kirov1.xyz
 kjgb11.com
 kkh818.com
 klingxai.com
@@ -1136,7 +1136,6 @@ lazada438.com
 lazada556.com
 lazada6.net
 lazada6.org
-lazada6.vip
 lazada66.vip
 lazada7788.com
 lazada8.net
@@ -1500,7 +1499,6 @@ muasamtiki24h.com
 muaso24h.store
 muathietke.com
 muatiengia.club
-muatiennhanh.com
 muatrian2022.com
 muc247-vidientu.com
 mucquanly247.com
@@ -1549,6 +1547,7 @@ napasvidientu247.com
 napblockmango.com
 napcardplaytogethervn.com
 napchinhthuc.com
+napdaquy.com
 napdaquygame.com
 napefootball2022.com
 napff3s.com
@@ -1928,8 +1927,12 @@ quetthepos.com
 quettheruttien-24hmpos.com
 quettheruttienvn.com
 quetthetindung-247mpos.com
+quetthetindung-vnpay.com
+quetthetindungvn-thanhtoan.com
 quettindung247-mpos.com
 quezachieve.cfd
+quickvayorg.com
+quocdanhbank.online
 quocthang.me
 quydautuvingroup.com
 quytiente.com
@@ -2147,7 +2150,6 @@ shopee-deal.com
 shopee-lienkettaikhoan.vn
 shopee-mobilebanking.vn
 shopee-tuyendung.com
-shopee.bio
 shopee.ccooppcc.online
 shopee.cnddakm.com
 shopee.coepes.com
@@ -2730,7 +2732,6 @@ tienvenhanhvtb.com
 tieudung-nganhangvn.online
 tieudungshinhanbank.com
 tiki-vn.com
-tiki.rest
 tiki11.com
 tiki11.top
 tiki111.com
@@ -3061,7 +3062,6 @@ vay-vietcombank.biz
 vay-vietcombank.com.vn
 vay.nhanh.24h.ubte6.com
 vay247-doctor-dong.com
-vay247-doctordong.com
 vay247.xyz
 vay247h.vn
 vay247nhanh.com
@@ -3742,6 +3742,7 @@ vstvst1toc.com
 vstvst20toc.com
 vstvst21toc.com
 vstvst22toc.com
+vstvst24toc.com
 vstvst25toc.com
 vstvst26toc.com
 vstvst27toc.com
@@ -3753,6 +3754,7 @@ vstvst3toc.com
 vstvst4toc.com
 vstvst5toc.com
 vstvst6toc.com
+vstvst7toc.com
 vstvst8toc.com
 vstvst9toc.com
 vtdpgbank.com
