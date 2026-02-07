@@ -152,7 +152,6 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
-ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -238,6 +237,7 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
