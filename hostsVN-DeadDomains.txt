@@ -23,8 +23,12 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+advergine.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
+spf3.advergine.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -99,10 +103,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -142,6 +142,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -187,6 +188,7 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
+t.agentanalytics.com
 u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -209,7 +211,7 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
@@ -242,11 +244,19 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+adscare.myad.vn
+cdn.myad.vn
+dmp.myad.vn
+www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jana1.jeoway.net
@@ -284,10 +294,12 @@ azoaltou.com
 bahmemohod.com
 blutrumpet.com
 bmycupptafr.com
+bpacihfabm.com
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
 cdn.adimo.co
+cdn.easyads28.mobi
 ceksevairs.com
 chaipoksore.com
 clenchedyouthmatching.com
@@ -305,6 +317,7 @@ fadzudvracat.com
 findcommerce.com
 forspearowor.com
 frightenedpotato.com
+galaxien.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
@@ -319,6 +332,7 @@ kuqfudazkn.com
 linkads.xyz
 literalcorpulent.com
 moomenog.com
+movie-pass.live
 nasadfgzaq.com
 nicksstevmark.com
 nycvqozkkmzti.com
@@ -348,8 +362,10 @@ sacwumsf.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
+softaignidsoom.net
 stay.decentralappps.com
 synonymdetected.com
+t.easyads28.mobi
 taqavmaplont.com
 timohtazxazej.website
 topmmorpgsites.com
@@ -363,7 +379,6 @@ untidyquestion.com
 v6rxv5coo5.com
 vebo-vast.pages.dev
 vtacibqzopiw.com
-wda.com
 wellmadefrog.com
 wiwqhootrf.com
 wonderhsjnsd.com
