@@ -98,6 +98,7 @@ www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
+syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
@@ -117,7 +118,6 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
-voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
@@ -206,6 +206,7 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
+ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
@@ -312,7 +313,6 @@ egraglauvoathog.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
-findcommerce.com
 forspearowor.com
 frightenedpotato.com
 galaxien.com
@@ -337,7 +337,6 @@ nicksstevmark.com
 nycvqozkkmzti.com
 omciecoa37tw4.com
 oranegfodnd.com
-orylhull.com
 orywrjsf.com
 outloginequity.com
 ozqoztrkoaj.com
