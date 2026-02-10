@@ -23,6 +23,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -103,6 +110,10 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -118,6 +129,7 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
+voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
@@ -174,6 +186,9 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+beta.tapdb.com
+sense.tapdb.com
+www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -291,6 +306,7 @@ arhribadjqp.com
 ast2ya4ee8wtnax.com
 azoaltou.com
 bahmemohod.com
+beplusleor.com
 blutrumpet.com
 bmycupptafr.com
 bpacihfabm.com
@@ -301,6 +317,7 @@ cdn.adimo.co
 cdn.easyads28.mobi
 ceksevairs.com
 chaipoksore.com
+chipmanksmochus.com
 clenchedyouthmatching.com
 colonserve.com
 cwifabvze.com
@@ -313,9 +330,9 @@ egraglauvoathog.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
-galaxien.com
 gimoqwmikakv.com
 gketcakpeh.com
 gloarteegnu.com
@@ -324,12 +341,14 @@ hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
+jerboasjourney.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kighoadouk.net
 kuqfudazkn.com
 linkads.xyz
 literalcorpulent.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 nasadfgzaq.com
@@ -337,6 +356,7 @@ nicksstevmark.com
 nycvqozkkmzti.com
 omciecoa37tw4.com
 oranegfodnd.com
+orylhull.com
 orywrjsf.com
 outloginequity.com
 ozqoztrkoaj.com
@@ -348,6 +368,7 @@ playsdonkey.com
 pokreess.com
 pro-ads.club
 ptawehex.net
+qa.shboshbok.com
 railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
@@ -377,8 +398,10 @@ uhland24.de
 untidyquestion.com
 v6rxv5coo5.com
 vebo-vast.pages.dev
+vr.ringentkenlore.com
 vtacibqzopiw.com
 wellmadefrog.com
+whuwoawain.com
 wiwqhootrf.com
 wonderhsjnsd.com
 worshippers.store
