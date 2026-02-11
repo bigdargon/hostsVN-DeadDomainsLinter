@@ -1,4 +1,3 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -12,6 +11,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -51,6 +54,10 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+brand.ad
+a.brand.ad
+www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -97,6 +104,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -114,6 +123,11 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -133,6 +147,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -154,6 +169,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -167,6 +183,9 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+network.adclickmedia.com
+tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -185,6 +204,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+beta.tapdb.com
 sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -194,6 +214,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -222,7 +244,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv788.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
@@ -235,6 +256,7 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+aff-track.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -256,6 +278,7 @@ www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -276,6 +299,8 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 duamilsyr.com
@@ -292,6 +317,7 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ambleads.com
@@ -300,6 +326,7 @@ ast2ya4ee8wtnax.com
 azoaltou.com
 bahmemohod.com
 beplusleor.com
+blueswordksh.com
 blutrumpet.com
 bmycupptafr.com
 bpacihfabm.com
@@ -308,7 +335,9 @@ bpipihwhumif.com
 breathelicense.com
 cdn.adimo.co
 cdn.easyads28.mobi
+cdn.uponelectabuzzor.club
 ceksevairs.com
+centalkochab.com
 chaipoksore.com
 chipmanksmochus.com
 clenchedyouthmatching.com
@@ -323,6 +352,7 @@ egraglauvoathog.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
 galaxien.com
@@ -335,18 +365,22 @@ hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
 jerboasjourney.com
+jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kighoadouk.net
+ksvjmvrjjo.com
 kuqfudazkn.com
 linkads.xyz
 literalcorpulent.com
 mathcountryside.com
 moomenog.com
 movie-pass.live
+mwekuzaj.com
 nasadfgzaq.com
 nicksstevmark.com
 nycvqozkkmzti.com
+obnoljac.com
 omciecoa37tw4.com
 oranegfodnd.com
 orylhull.com
@@ -376,10 +410,13 @@ sfiannzilgi.com
 shaughixefooz.net
 softaignidsoom.net
 specially4u.net
+spywarenuker.com
 stay.decentralappps.com
+swuojrovqf.com
 synonymdetected.com
 t.easyads28.mobi
 taqavmaplont.com
+thripelbertie.website
 timohtazxazej.website
 topmmorpgsites.com
 tranquilside.com
@@ -391,8 +428,10 @@ uhland24.de
 untidyquestion.com
 v6rxv5coo5.com
 vebo-vast.pages.dev
+vkeadqoff.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
+vteskyombq.com
 wellmadefrog.com
 whuwoawain.com
 wiwqhootrf.com
@@ -401,6 +440,7 @@ worshippers.store
 www.ambleads.com
 www.pro-ads.club
 www.servsave.com
+xm.geslingclime.shop
 xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
