@@ -177,11 +177,10 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -218,9 +217,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -235,7 +231,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -307,8 +302,10 @@ adgardener.com
 adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
-affiliates.devilfishpartners.com
+advantagesclotblend.com
+advariant.com
 afrjhanwosa.com
+airdropcassino.cfd
 ambleads.com
 arhribadjqp.com
 ast2ya4ee8wtnax.com
