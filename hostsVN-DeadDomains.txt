@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -31,6 +25,8 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -328,7 +324,6 @@ chaipoksore.com
 chipmanksmochus.com
 clenchedyouthmatching.com
 colonserve.com
-crowdgravity.com
 cwifabvze.com
 cwoamjkma.com
 dulrihaungy.com
@@ -343,6 +338,7 @@ findcommerce.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
+galaxien.com
 ggz48pxys.com
 gimoqwmikakv.com
 gkemujoccwin.com
@@ -388,6 +384,7 @@ palaroleg.guru
 pekajmkimvx.com
 peppaping.xyz
 phaimtoata.com
+physicalblueberry.com
 playsdonkey.com
 pokreess.com
 pro-ads.club
