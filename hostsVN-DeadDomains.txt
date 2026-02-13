@@ -131,6 +131,7 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -213,7 +214,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv787.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -258,8 +258,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
-jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -285,7 +283,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 afrjhanwosa.com
 ahlcujguphr.com
 airdropcassino.cfd
@@ -326,7 +323,6 @@ espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
-findcommerce.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
@@ -346,6 +342,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+kighoadouk.net
 ksvjmvrjjo.com
 kuqfudazkn.com
 lfeorrzkua.com
@@ -386,7 +383,6 @@ railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
 riotousgrit.com
-ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
