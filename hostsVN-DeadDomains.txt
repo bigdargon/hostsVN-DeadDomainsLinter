@@ -184,8 +184,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -283,6 +281,7 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 afrjhanwosa.com
 ahlcujguphr.com
 airdropcassino.cfd
@@ -323,6 +322,7 @@ espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
@@ -352,6 +352,8 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+materialplayground.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 nasadfgzaq.com
@@ -415,7 +417,6 @@ vebo-vast.pages.dev
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
-wellmadefrog.com
 whuwoawain.com
 wiwqhootrf.com
 wonderhsjnsd.com
