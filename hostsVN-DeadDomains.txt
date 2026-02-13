@@ -90,6 +90,7 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -213,7 +214,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv785.me
 ads.livetv787.me
 amntx1.net
 media.amntx1.net
@@ -222,10 +222,10 @@ track.amntx1.net
 aj2566.bid
 aj2581.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-aff-track.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -239,10 +239,7 @@ cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
 static01.atdnetwork.com
-track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
@@ -316,6 +313,7 @@ clenchedyouthmatching.com
 colonserve.com
 cwifabvze.com
 cwoamjkma.com
+deckdistant.com
 dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
@@ -325,7 +323,7 @@ elderlybean.com
 espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
-findcommerce.com
+fhsmtrnsfnt.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
@@ -355,7 +353,6 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
-mathcountryside.com
 moomenog.com
 movie-pass.live
 nasadfgzaq.com
@@ -392,6 +389,8 @@ ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
 sacwumsf.com
+scarofnght.com
+septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
@@ -429,6 +428,7 @@ www.ambleads.com
 www.pro-ads.club
 www.servsave.com
 xm.geslingclime.shop
+xr.staxisclivias.com
 xruamzpanbca.com
 zazmunokpvzi.com
 zumdivdwug.com
