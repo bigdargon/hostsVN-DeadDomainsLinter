@@ -131,7 +131,6 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-anymad.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -239,7 +238,10 @@ cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
+delivery.atdnetwork.com
+platform.atdnetwork.com
 static01.atdnetwork.com
+track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
@@ -324,6 +326,7 @@ espionagegardenerthicket.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
+findcommerce.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
@@ -343,7 +346,6 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
-kighoadouk.net
 ksvjmvrjjo.com
 kuqfudazkn.com
 lfeorrzkua.com
