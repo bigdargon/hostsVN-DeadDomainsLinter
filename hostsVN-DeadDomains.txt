@@ -52,9 +52,6 @@ share.asianmedia.com
 whm.asianmedia.com
 n.popclck.org
 st-n.popclck.org
-brand.ad
-a.brand.ad
-www.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -120,14 +117,11 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -248,8 +242,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -257,7 +249,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -296,7 +287,6 @@ ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
 advariant.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
 airdropcassino.cfd
@@ -333,7 +323,6 @@ deckdistant.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
-effacedefend.com
 effectiveperformanceformat.com
 egraglauvoathog.com
 elderlybean.com
@@ -373,6 +362,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -448,6 +438,7 @@ waisheph.com
 wellmadefrog.com
 whairtoa.com
 whuwoawain.com
+wiwqhootrf.com
 wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
