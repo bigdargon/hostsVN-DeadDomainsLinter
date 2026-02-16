@@ -31,6 +31,7 @@ content.ad
 api.content.ad
 app.content.ad
 media.content.ad
+partners.content.ad
 rest.content.ad
 www.content.ad
 ad.kau.li
@@ -41,6 +42,7 @@ js.kau.li
 pixel.kau.li
 rtb.kau.li
 s.kau.li
+y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -61,8 +63,6 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
-st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -88,6 +88,7 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
+rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -222,7 +223,6 @@ ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
 ads.livetv790.me
-amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
@@ -395,6 +395,7 @@ peppaping.xyz
 phaimtoata.com
 physicalblueberry.com
 playsdonkey.com
+pokreess.com
 potenza.cz
 potsaglu.net
 pro-ads.club
