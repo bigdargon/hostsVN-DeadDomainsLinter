@@ -27,6 +27,20 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+content.ad
+api.content.ad
+app.content.ad
+media.content.ad
+rest.content.ad
+www.content.ad
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -74,7 +88,6 @@ dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
-rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
@@ -175,6 +188,8 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+beta.tapdb.com
+sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -302,6 +317,7 @@ cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
 chipmanksmochus.com
+citronsstealed.website
 clenchedyouthmatching.com
 colonserve.com
 cwifabvze.com
@@ -350,6 +366,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -362,6 +379,7 @@ nycvqozkkmzti.com
 obdshyohcog.com
 ojwoqdpiwdt.com
 omciecoa37tw4.com
+ophoacit.com
 oranegfodnd.com
 orb92.com
 orylhull.com
@@ -377,7 +395,6 @@ peppaping.xyz
 phaimtoata.com
 physicalblueberry.com
 playsdonkey.com
-pokreess.com
 potenza.cz
 potsaglu.net
 pro-ads.club
@@ -390,6 +407,7 @@ railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
 riotousgrit.com
+ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
@@ -401,6 +419,7 @@ servsave.com
 sfiannzilgi.com
 shaughixefooz.net
 slidbecauseemerald.com
+snowdayonline.xyz
 soccercadencefridge.com
 softaignidsoom.net
 sotchoum.com
@@ -428,6 +447,7 @@ vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
 waisheph.com
+wellmadefrog.com
 whairtoa.com
 whuwoawain.com
 wiwqhootrf.com
@@ -446,3 +466,4 @@ yrhnw7h63.com
 zazmunokpvzi.com
 zikroarg.com
 zumdivdwug.com
+vizu.com
