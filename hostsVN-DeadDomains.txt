@@ -146,8 +146,6 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
-app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -174,8 +172,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 beta.tapdb.com
 sense.tapdb.com
 ad.samsungadhub.com
@@ -276,7 +272,6 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
-ashoupsu.com
 ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
@@ -294,7 +289,6 @@ breathelicense.com
 butalksuw9dj10.com
 cagamvnuqhuh.com
 cameesse.net
-cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -330,7 +324,6 @@ gloarteegnu.com
 gq.binesyorker.com
 hccxwfunnpxngz.com
 hostnetadv.site
-ichachoakiglop.com
 inspirationstarednope.com
 ivdjs.com
 jailorscoman.cfd
@@ -355,9 +348,7 @@ movie-pass.live
 mt34iofvjay.com
 nasadfgzaq.com
 nd.prosilyingles.cyou
-nessainy.net
 nicksstevmark.com
-ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
 ojwoqdpiwdt.com
@@ -394,7 +385,6 @@ ru-traffic.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rzuohgfwyoxx.com
-sacwumsf.com
 scarofnght.com
 scripte-monster.de
 septfd2em64eber.com
@@ -424,7 +414,6 @@ tutgcinarlak.com
 uhland24.de
 untidyquestion.com
 upr90.com
-v6rxv5coo5.com
 vebo-vast.pages.dev
 vr.ringentkenlore.com
 vtacibqzopiw.com
