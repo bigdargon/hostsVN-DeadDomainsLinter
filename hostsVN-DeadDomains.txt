@@ -26,6 +26,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -47,6 +54,12 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -102,6 +115,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -125,6 +146,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -146,6 +168,8 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -185,6 +209,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -202,7 +230,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv788.me
 aj2566.bid
 aj2582.bid
 aj2584.bid
@@ -213,7 +240,6 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
-qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -225,9 +251,11 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -263,7 +291,6 @@ adgardener.com
 adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
-advantagesclotblend.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -272,8 +299,8 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
+ashoupsu.com
 ast2ya4ee8wtnax.com
-ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
@@ -289,6 +316,7 @@ breathelicense.com
 butalksuw9dj10.com
 cagamvnuqhuh.com
 cameesse.net
+cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -315,15 +343,14 @@ fhsmtrnsfnt.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
-galaxien.com
 ggz48pxys.com
 gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
 gq.binesyorker.com
-hccxwfunnpxngz.com
 hostnetadv.site
+ichachoakiglop.com
 inspirationstarednope.com
 ivdjs.com
 jailorscoman.cfd
@@ -332,6 +359,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 kighoadouk.net
 ksvjmvrjjo.com
 kuqfudazkn.com
@@ -348,6 +376,7 @@ movie-pass.live
 mt34iofvjay.com
 nasadfgzaq.com
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nycvqozkkmzti.com
 obdshyohcog.com
@@ -369,7 +398,6 @@ phaimtoata.com
 physicalblueberry.com
 playsdonkey.com
 pokreess.com
-potenza.cz
 potsaglu.net
 pro-ads.club
 ptawehex.net
@@ -383,8 +411,6 @@ richwebmaster.com
 riotousgrit.com
 ru-traffic.com
 ruvsraaklrih.com
-ruwjkygaxo.com
-rzuohgfwyoxx.com
 scarofnght.com
 scripte-monster.de
 septfd2em64eber.com
@@ -414,7 +440,9 @@ tutgcinarlak.com
 uhland24.de
 untidyquestion.com
 upr90.com
+v6rxv5coo5.com
 vebo-vast.pages.dev
+vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -435,6 +463,7 @@ xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
+yu225.com
 zazmunokpvzi.com
 zikroarg.com
 zumdivdwug.com
