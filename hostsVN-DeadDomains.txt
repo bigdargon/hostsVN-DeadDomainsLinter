@@ -123,10 +123,7 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -196,8 +193,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -222,7 +217,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -240,6 +234,7 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
+qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -286,11 +281,12 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
-ad.leadboltapps.net
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
+advantagesclotblend.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -299,7 +295,6 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
-ashoupsu.com
 ast2ya4ee8wtnax.com
 azoaltou.com
 azrwwodreta.com
@@ -316,7 +311,6 @@ breathelicense.com
 butalksuw9dj10.com
 cagamvnuqhuh.com
 cameesse.net
-cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -349,6 +343,7 @@ gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
 gq.binesyorker.com
+hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
@@ -370,17 +365,14 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
-mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
-nasadfgzaq.com
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
 nycvqozkkmzti.com
 obdshyohcog.com
-ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
 oranegfodnd.com
@@ -398,6 +390,7 @@ phaimtoata.com
 physicalblueberry.com
 playsdonkey.com
 pokreess.com
+potenza.cz
 potsaglu.net
 pro-ads.club
 ptawehex.net
@@ -411,6 +404,7 @@ richwebmaster.com
 riotousgrit.com
 ru-traffic.com
 ruvsraaklrih.com
+ruwjkygaxo.com
 scarofnght.com
 scripte-monster.de
 septfd2em64eber.com
@@ -427,7 +421,6 @@ stay.decentralappps.com
 swuojrovqf.com
 synonymdetected.com
 t.easyads28.mobi
-taqavmaplont.com
 taughtwandamazingly.com
 thripelbertie.website
 timohtazxazej.website
