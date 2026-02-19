@@ -105,6 +105,7 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -132,6 +133,7 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
+voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
@@ -156,7 +158,13 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
+app.truepush.com
+bid.truepush.com
+cdn.truepush.com
 cdni.truepush.com
+img.truepush.com
+s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -179,7 +187,6 @@ ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
 supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
@@ -264,13 +271,16 @@ h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
+v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
+ads.printscr.com
 ads.vnd89.com
 advantagesclotblend.com
 advariant.com
@@ -283,7 +293,6 @@ apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
 ast2ya4ee8wtnax.com
-ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
@@ -303,7 +312,6 @@ cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
-chipmanksmochus.com
 citronsstealed.website
 clenchedyouthmatching.com
 colonserve.com
@@ -375,6 +383,7 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
+pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
