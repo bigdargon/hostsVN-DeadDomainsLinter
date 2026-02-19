@@ -1,10 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -61,6 +55,7 @@ a.brand.ad
 www.brand.ad
 aos.gop1.co
 g.gop1.co
+geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
@@ -91,6 +86,7 @@ uswest.rtb.adservme.com
 www.adservme.com
 xml.adservme.com
 xml-g.adservme.com
+a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
@@ -130,6 +126,7 @@ ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
@@ -155,9 +152,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -166,7 +161,6 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -274,14 +268,11 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
-1slms.com
-ad.leadboltapps.net
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -311,7 +302,6 @@ cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
-chipmanksmochus.com
 citronsstealed.website
 clenchedyouthmatching.com
 colonserve.com
@@ -321,7 +311,6 @@ deckdistant.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
-effacedefend.com
 effectiveperformanceformat.com
 egraglauvoathog.com
 elderlybean.com
@@ -362,6 +351,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -381,6 +371,7 @@ osknimkihvr.com
 oswavmov.com
 outloginequity.com
 ovmhwiccikr.com
+ozqoztrkoaj.com
 palaroleg.guru
 pekajmkimvx.com
 peppaping.xyz
@@ -452,7 +443,6 @@ xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
-yu225.com
 zazmunokpvzi.com
 zikroarg.com
 zumdivdwug.com
