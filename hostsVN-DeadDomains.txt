@@ -38,6 +38,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -53,12 +54,8 @@ aj2412.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
+n.popclck.org
+st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -108,7 +105,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -136,7 +132,6 @@ adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
-voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
@@ -161,13 +156,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
-app.truepush.com
-bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
-img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -224,6 +213,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
+ads.livetv785.me
 aj2566.bid
 aj2582.bid
 aj2584.bid
@@ -250,7 +240,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -284,6 +273,7 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -299,8 +289,8 @@ azrwwodreta.com
 bahmemohod.com
 beplusleor.com
 blueswordksh.com
-blutrumpet.com
 bmycupptafr.com
+bouzechoby.net
 bpacihfabm.com
 bpaqzithab.com
 bpipihwhumif.com
@@ -341,6 +331,7 @@ gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
 gq.binesyorker.com
+hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
@@ -352,7 +343,7 @@ jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
-kighoadouk.net
+kiynew.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 lfeorrzkua.com
@@ -368,6 +359,7 @@ movie-pass.live
 mt34iofvjay.com
 nasadfgzaq.com
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nycvqozkkmzti.com
 obdshyohcog.com
@@ -383,9 +375,7 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
-pekajmkimvx.com
 peppaping.xyz
-phaimtoata.com
 physicalblueberry.com
 playsdonkey.com
 pokreess.com
@@ -396,6 +386,7 @@ ptawehex.net
 pyicbcxvs.com
 qa.shboshbok.com
 qs251.com
+qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
@@ -411,7 +402,6 @@ shaughixefooz.net
 slidbecauseemerald.com
 snowdayonline.xyz
 soccercadencefridge.com
-softaignidsoom.net
 sotchoum.com
 stay.decentralappps.com
 swuojrovqf.com
@@ -430,6 +420,7 @@ tutgcinarlak.com
 uhland24.de
 untidyquestion.com
 upr90.com
+uz.louchefunnel.shop
 v6rxv5coo5.com
 vebo-vast.pages.dev
 vncnu.com
