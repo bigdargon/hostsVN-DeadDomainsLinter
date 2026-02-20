@@ -1,4 +1,3 @@
-blueserving.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -32,6 +31,8 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+all.dspmulti.com
+dspmulti.com
 aj1015.online
 aj1549.online
 aj1754.online
@@ -100,14 +101,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -122,6 +115,7 @@ ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
@@ -195,6 +189,7 @@ loader-cdn.azureedge.net
 o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -204,6 +199,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -229,6 +225,7 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
+www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
@@ -272,12 +269,12 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
-ad.leadboltapps.net
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -286,8 +283,6 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
-ashoupsu.com
-ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -308,7 +303,6 @@ cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
-chipmanksmochus.com
 citronsstealed.website
 clenchedyouthmatching.com
 colonserve.com
@@ -324,14 +318,15 @@ egraglauvoathog.com
 elderlybean.com
 espionagegardenerthicket.com
 ewhareey.com
+ezula.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
 findcommerce.com
+fnbauniukvi.com
 forspearowor.com
 frightenedpotato.com
 funoriblithe.space
-galaxien.com
 gemmykaraoke.com
 ggz48pxys.com
 gimoqwmikakv.com
@@ -383,7 +378,6 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
-pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
@@ -437,6 +431,7 @@ vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
+wabjcepuqmi.com
 waisheph.com
 wellmadefrog.com
 whairtoa.com
@@ -445,7 +440,6 @@ wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 worshippers.store
-wr.amigojimbang.com
 www.ambleads.com
 www.pro-ads.club
 www.servsave.com
@@ -456,3 +450,4 @@ yb26b.com
 yrhnw7h63.com
 zazmunokpvzi.com
 zikroarg.com
+zumdivdwug.com
