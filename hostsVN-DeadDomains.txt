@@ -31,6 +31,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -50,6 +51,7 @@ ajxx91.online
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -183,6 +185,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -210,7 +214,9 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
+ads.livetv782.me
 ads.livetv785.me
+ads.livetv788.me
 aj2566.bid
 aj2582.bid
 aj2584.bid
@@ -268,7 +274,9 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
+11ssq.com
 1fkx796mw.com
+ad.leadboltapps.net
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
@@ -283,11 +291,13 @@ apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
 ast2ya4ee8wtnax.com
+ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 beplusleor.com
 blueswordksh.com
+blutrumpet.com
 bmycupptafr.com
 bouzechoby.net
 bpacihfabm.com
@@ -323,6 +333,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
 forspearowor.com
+friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 gemmykaraoke.com
@@ -336,6 +347,7 @@ hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
+istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
 jerboasjourney.com
@@ -386,12 +398,14 @@ pro-ads.club
 ptawehex.net
 pyicbcxvs.com
 qa.shboshbok.com
+qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
 richwebmaster.com
 riotousgrit.com
+routeserve.info
 ruvsraaklrih.com
 ruwjkygaxo.com
 scarofnght.com
@@ -412,6 +426,7 @@ taqavmaplont.com
 taughtwandamazingly.com
 thripelbertie.website
 timohtazxazej.website
+toathoule.com
 topmmorpgsites.com
 tranquilside.com
 trblocked.com
@@ -419,6 +434,7 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 uhland24.de
+uitopadxdy.com
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
@@ -430,15 +446,16 @@ vtacibqzopiw.com
 vteskyombq.com
 wabjcepuqmi.com
 waisheph.com
+wellmadefrog.com
 whairtoa.com
 wiwqhootrf.com
 wonderhsjnsd.com
-woovoree.net
 workervanewalk.com
 worshippers.store
 wr.amigojimbang.com
 www.ambleads.com
 www.pro-ads.club
+www.routeserve.info
 www.servsave.com
 xm.geslingclime.shop
 xr.staxisclivias.com
