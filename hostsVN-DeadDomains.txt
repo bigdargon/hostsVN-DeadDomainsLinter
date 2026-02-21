@@ -137,9 +137,7 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
-img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -186,9 +184,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -238,7 +233,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -267,8 +261,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
 airdropcassino.cfd
@@ -276,6 +268,7 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
+ashoupsu.com
 ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
@@ -303,7 +296,6 @@ citronsstealed.website
 clenchedyouthmatching.com
 clickblitzo.xyz
 colonserve.com
-crowdgravity.com
 cwifabvze.com
 cwoamjkma.com
 deckdistant.com
@@ -319,12 +311,10 @@ ewhareey.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
-findcommerce.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
-galaxien.com
 gemmykaraoke.com
 ggz48pxys.com
 gimoqwmikakv.com
@@ -355,7 +345,6 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
-mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -379,7 +368,6 @@ ozqoztrkoaj.com
 palaroleg.guru
 pekajmkimvx.com
 peppaping.xyz
-physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potenza.cz
@@ -430,7 +418,6 @@ v6rxv5coo5.com
 vebo-vast.pages.dev
 vncnu.com
 vr.ringentkenlore.com
-vtacibqzopiw.com
 vteskyombq.com
 wabjcepuqmi.com
 waisheph.com
@@ -452,4 +439,5 @@ xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
 zazmunokpvzi.com
+zikroarg.com
 zumdivdwug.com
