@@ -19,13 +19,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -38,6 +31,7 @@ aj1015.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
@@ -50,7 +44,6 @@ ajxx91.online
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -118,7 +111,9 @@ delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
-bidadx.com
+trackers.voodoo-analytics.io
+voodoo-analytics.io
+www.voodoo-analytics.io
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -154,7 +149,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -171,8 +165,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -228,8 +220,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -286,7 +276,6 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
-ashoupsu.com
 ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
@@ -317,6 +306,7 @@ colonserve.com
 crowdgravity.com
 cwifabvze.com
 cwoamjkma.com
+deckdistant.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
@@ -371,6 +361,7 @@ movie-pass.live
 mt34iofvjay.com
 nasadfgzaq.com
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nycvqozkkmzti.com
 obdshyohcog.com
@@ -461,5 +452,4 @@ xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
 zazmunokpvzi.com
-zikroarg.com
 zumdivdwug.com
