@@ -20,7 +20,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -68,8 +67,6 @@ rtb-eu.adservme.com
 rtb-g.adservme.com
 rtb-uswest.adservme.com
 ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
 www.adservme.com
 xml.adservme.com
 xml-g.adservme.com
@@ -151,7 +148,6 @@ hetartwg.com
 ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
-ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
@@ -189,7 +185,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv788.me
 aj2566.bid
@@ -249,7 +244,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 11ssq.com
 1fkx796mw.com
 1slms.com
-ad.leadboltapps.net
 adgardener.com
 adnetwork.net
 ads.cdn2-img.net
@@ -263,6 +257,7 @@ ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
+ashoupsu.com
 ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
@@ -299,7 +294,6 @@ e5asyhilodice.com
 effacedefend.com
 effectiveperformanceformat.com
 egraglauvoathog.com
-elderlybean.com
 espionagegardenerthicket.com
 ewhareey.com
 facebookad.for88vn.com
@@ -320,6 +314,7 @@ hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
+istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
 jerboasjourney.com
@@ -359,6 +354,7 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
+pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
@@ -418,6 +414,7 @@ wellmadefrog.com
 whairtoa.com
 wiwqhootrf.com
 wonderhsjnsd.com
+woovoree.net
 workervanewalk.com
 worshippers.store
 wr.amigojimbang.com
