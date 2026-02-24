@@ -10,13 +10,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-content.ad
-api.content.ad
-app.content.ad
-media.content.ad
-partners.content.ad
-rest.content.ad
-www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -101,6 +94,7 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -152,6 +146,7 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -189,7 +184,6 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -252,9 +246,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -284,7 +275,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -335,9 +325,7 @@ elderlybean.com
 espionagegardenerthicket.com
 ewhareey.com
 facebookad.for88vn.com
-fadzudvracat.com
 fhsmtrnsfnt.com
-findcommerce.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
@@ -362,7 +350,6 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 kiynew.com
 ksvjmvrjjo.com
 kuqfudazkn.com
