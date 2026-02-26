@@ -35,7 +35,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -169,8 +168,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -282,10 +279,8 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 adgardener.com
-adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
-advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -373,6 +368,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -382,6 +378,7 @@ nessainy.net
 nicksstevmark.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
+obdshyohcog.com
 ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
@@ -472,4 +469,3 @@ yu225.com
 zazmunokpvzi.com
 zikroarg.com
 zumdivdwug.com
-fathomseo.com
