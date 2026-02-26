@@ -1,4 +1,3 @@
-googleads-cn.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -57,10 +56,6 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
-brand.ad
-a.brand.ad
-www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -256,7 +251,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -273,8 +267,6 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
@@ -294,7 +286,6 @@ adnetwork.net
 ads.cdn2-img.net
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -305,7 +296,6 @@ apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
 ashoupsu.com
-ast2ya4ee8wtnax.com
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -332,7 +322,6 @@ citronsstealed.website
 clenchedyouthmatching.com
 clickblitzo.xyz
 colonserve.com
-crowdgravity.com
 cwifabvze.com
 cwoamjkma.com
 deckdistant.com
@@ -353,7 +342,6 @@ forspearowor.com
 friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
-galaxien.com
 gaseousgeneral.com
 gemmykaraoke.com
 ggz48pxys.com
@@ -362,6 +350,7 @@ gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
 gq.binesyorker.com
+hccxwfunnpxngz.com
 hostnetadv.site
 ichachoakiglop.com
 inspirationstarednope.com
@@ -384,7 +373,6 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
-mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -394,7 +382,6 @@ nessainy.net
 nicksstevmark.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
-obdshyohcog.com
 ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
@@ -485,3 +472,4 @@ yu225.com
 zazmunokpvzi.com
 zikroarg.com
 zumdivdwug.com
+fathomseo.com
