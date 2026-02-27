@@ -1,4 +1,3 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -20,6 +19,7 @@ s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -35,11 +35,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-advergine.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
-spf3.advergine.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -48,8 +43,10 @@ aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
+aj2274.online
 aj2307.online
 aj2393.online
 aj2412.online
@@ -170,7 +167,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -208,7 +204,6 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -285,6 +280,7 @@ advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
+ah-ha.com
 ahlcujguphr.com
 airdropcassino.cfd
 ambleads.com
@@ -354,6 +350,7 @@ ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
+joopaish.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
@@ -405,6 +402,7 @@ qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
+railwayrainstorm.com
 rankingchart.de
 rankingscout.com
 richwebmaster.com
@@ -459,6 +457,7 @@ www.pro-ads.club
 www.routeserve.info
 www.servsave.com
 xm.geslingclime.shop
+xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
