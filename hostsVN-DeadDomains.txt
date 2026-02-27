@@ -204,6 +204,7 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -223,7 +224,6 @@ aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2582.bid
-aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -350,7 +350,6 @@ ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
-joopaish.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
@@ -404,7 +403,6 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 richwebmaster.com
 riotousgrit.com
 routeserve.info
@@ -427,7 +425,6 @@ t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
 thripelbertie.website
-timohtazxazej.website
 topmmorpgsites.com
 tranquilside.com
 trblocked.com
