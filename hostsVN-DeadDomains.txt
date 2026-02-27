@@ -1,3 +1,4 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -19,10 +20,14 @@ s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
-image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -35,6 +40,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -42,10 +48,8 @@ aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
-aj1863.online
 aj2142.online
 aj2218.online
-aj2274.online
 aj2307.online
 aj2393.online
 aj2412.online
@@ -53,8 +57,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
-st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -246,10 +248,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -278,9 +277,11 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
+1slms.com
 adgardener.com
 ads.cdn2-img.net
 ads.vnd89.com
+advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -295,7 +296,6 @@ ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
-beplusleor.com
 blueswordksh.com
 blutrumpet.com
 bmycupptafr.com
@@ -352,11 +352,11 @@ inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
-jerboasjourney.com
 jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 kiynew.com
 ksvjmvrjjo.com
 kuqfudazkn.com
@@ -368,7 +368,6 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
-mathcountryside.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -392,6 +391,7 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
+pallet.fm
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
@@ -405,7 +405,6 @@ qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
-railwayrainstorm.com
 rankingchart.de
 rankingscout.com
 richwebmaster.com
@@ -413,7 +412,6 @@ riotousgrit.com
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
-sacwumsf.com
 scarofnght.com
 scripte-monster.de
 septfd2em64eber.com
@@ -461,7 +459,6 @@ www.pro-ads.club
 www.routeserve.info
 www.servsave.com
 xm.geslingclime.shop
-xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yrhnw7h63.com
