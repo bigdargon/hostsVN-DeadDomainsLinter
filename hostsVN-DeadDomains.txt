@@ -29,7 +29,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adnetasia.com
-ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -224,6 +223,7 @@ aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2582.bid
+aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
@@ -280,7 +280,6 @@ advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
-ah-ha.com
 ahlcujguphr.com
 airdropcassino.cfd
 ambleads.com
@@ -425,6 +424,7 @@ t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
 thripelbertie.website
+timohtazxazej.website
 topmmorpgsites.com
 tranquilside.com
 trblocked.com
