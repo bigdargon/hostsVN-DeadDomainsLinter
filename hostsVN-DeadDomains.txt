@@ -1,9 +1,5 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -29,6 +25,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adnetasia.com
+ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
@@ -53,6 +50,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
+whm.asianmedia.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -99,6 +102,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -166,6 +171,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -217,8 +223,8 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
-ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -395,6 +401,7 @@ pokreess.com
 potenza.cz
 potsaglu.net
 pro-ads.club
+ptawehex.net
 pyicbcxvs.com
 qa.shboshbok.com
 qs251.com
@@ -433,6 +440,7 @@ tsiwqtng8huauw30n.com
 tutgcinarlak.com
 uhland24.de
 untidyquestion.com
+upr90.com
 uz.louchefunnel.shop
 v6rxv5coo5.com
 vebo-vast.pages.dev
@@ -460,5 +468,6 @@ yb26b.com
 yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
+zd.midbodyritz.shop
 zikroarg.com
 zumdivdwug.com
