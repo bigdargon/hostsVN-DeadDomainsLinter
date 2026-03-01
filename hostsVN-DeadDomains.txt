@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -7,6 +5,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
@@ -27,6 +29,10 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -45,6 +51,10 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+brand.ad
+a.brand.ad
+www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -124,7 +134,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -160,6 +169,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
@@ -184,11 +194,13 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -209,6 +221,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv760.me
 ads.livetv765.me
+ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -233,6 +246,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -249,7 +263,6 @@ embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -301,6 +314,7 @@ citronsstealed.website
 clenchedyouthmatching.com
 clickblitzo.xyz
 colonserve.com
+creafi.com
 cwifabvze.com
 cwoamjkma.com
 deckdistant.com
@@ -352,6 +366,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mixedreading.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
@@ -387,6 +402,7 @@ potsaglu.net
 pro-ads.club
 ptawehex.net
 pyicbcxvs.com
+pyxiscablese.com
 qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
