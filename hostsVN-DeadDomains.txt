@@ -36,7 +36,6 @@ spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
 all.dspmulti.com
-dspmulti.com
 aj1015.online
 aj1090.online
 aj1549.online
@@ -134,7 +133,6 @@ www.voodoo-analytics.io
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
-click.anymad.com
 stats.anymad.com
 www.anymad.com
 click.showcasethat.com
@@ -273,7 +271,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 adgardener.com
 ads.cdn2-img.net
-ads.vnd89.com
 advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
@@ -400,7 +397,6 @@ ptawehex.net
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
