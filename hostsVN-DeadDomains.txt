@@ -10,7 +10,6 @@ collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
 my-ssl.effectivemeasure.net
-s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
@@ -18,6 +17,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -48,9 +52,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -187,10 +188,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -209,7 +206,10 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv787.me
+ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -329,6 +329,7 @@ frightenedpotato.com
 funoriblithe.space
 gaseousgeneral.com
 gemmykaraoke.com
+ggz48pxys.com
 gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
@@ -382,7 +383,6 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 pallet.fm
-pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
