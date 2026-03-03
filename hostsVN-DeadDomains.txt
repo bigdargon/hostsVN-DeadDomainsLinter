@@ -10,6 +10,7 @@ collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
 my-ssl.effectivemeasure.net
+s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
@@ -194,7 +195,6 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -206,9 +206,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv787.me
-ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -266,6 +264,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 11ssq.com
 1fkx796mw.com
+adaction.de
 adgardener.com
 ads.cdn2-img.net
 ads.vnd89.com
@@ -285,6 +284,7 @@ ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
+blast4traffic.com
 blueswordksh.com
 blutrumpet.com
 bmycupptafr.com
@@ -307,6 +307,7 @@ clenchedyouthmatching.com
 clickblitzo.xyz
 clmcom.com
 colonserve.com
+crowdgravity.com
 cwifabvze.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -358,6 +359,7 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+mathcountryside.com
 mixedreading.com
 moomenog.com
 movie-pass.live
