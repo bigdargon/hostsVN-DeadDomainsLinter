@@ -1,4 +1,10 @@
 blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -23,6 +29,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+content.ad
+api.content.ad
+app.content.ad
+media.content.ad
+partners.content.ad
+rest.content.ad
+www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -35,6 +48,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -55,7 +69,6 @@ aj2503.online
 ajxx91.online
 cdn.bidfilter.com
 aos.gop1.co
-g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
@@ -100,6 +113,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -120,6 +135,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -128,6 +144,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -165,6 +182,7 @@ image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
 int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -178,6 +196,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -186,6 +206,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -198,6 +220,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
@@ -215,7 +238,6 @@ aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
-aj3017.bid
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -225,6 +247,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -242,6 +266,8 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
+app2.jeoway.net
+jana1.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -249,6 +275,8 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
@@ -349,7 +377,6 @@ ksvjmvrjjo.com
 kuqfudazkn.com
 lfeorrzkua.com
 linkads.xyz
-links-ranking.de
 literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
@@ -360,7 +387,6 @@ mixedreading.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
-nasadfgzaq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
 nessainy.net
@@ -368,7 +394,6 @@ nicksstevmark.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
-odqdkealzr.com
 ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
@@ -381,7 +406,6 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
-pallet.fm
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
@@ -398,6 +422,7 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 richwebmaster.com
 riotousgrit.com
 routeserve.info
@@ -415,6 +440,7 @@ sotchoum.com
 stay.decentralappps.com
 swmswjvdpc.com
 swuojrovqf.com
+syndetstermine.com
 synonymdetected.com
 t.easyads28.mobi
 taqavmaplont.com
@@ -430,6 +456,7 @@ tsiwqtng8huauw30n.com
 tutgcinarlak.com
 uhland24.de
 untidyquestion.com
+upr90.com
 uz.louchefunnel.shop
 v6rxv5coo5.com
 vebo-vast.pages.dev
@@ -454,6 +481,7 @@ www.servsave.com
 xm.geslingclime.shop
 xr.staxisclivias.com
 xruamzpanbca.com
+yiopse.com
 yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
