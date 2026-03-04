@@ -29,13 +29,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-content.ad
-api.content.ad
-app.content.ad
-media.content.ad
-partners.content.ad
-rest.content.ad
-www.content.ad
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -62,13 +55,13 @@ aj2218.online
 aj2274.online
 aj2307.online
 aj2393.online
-aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
 cdn.bidfilter.com
 aos.gop1.co
+g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
@@ -206,8 +199,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -215,13 +206,10 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -238,6 +226,7 @@ aj2582.bid
 aj2584.bid
 aj2587.bid
 aj3007.bid
+aj3017.bid
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -483,7 +472,6 @@ xr.staxisclivias.com
 xruamzpanbca.com
 yiopse.com
 yrhnw7h63.com
-yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
 zikroarg.com
