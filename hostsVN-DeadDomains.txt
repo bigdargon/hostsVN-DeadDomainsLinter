@@ -22,11 +22,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -103,9 +98,9 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -128,6 +123,7 @@ www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
+voodoo-analytics.io
 www.voodoo-analytics.io
 anymad.com
 cdn.anymad.com
@@ -166,7 +162,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -180,8 +175,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -230,7 +223,6 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
@@ -291,10 +283,10 @@ bahmemohod.com
 blueswordksh.com
 blutrumpet.com
 bmycupptafr.com
+bouzechoby.net
 bpacihfabm.com
 bpaqzithab.com
 bpipihwhumif.com
-breathelicense.com
 butalksuw9dj10.com
 cagamvnuqhuh.com
 cameesse.net
