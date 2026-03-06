@@ -70,7 +70,6 @@ bbnautid1.ibillboard.com
 bbnautid2.ibillboard.com
 bbnautid3.ibillboard.com
 bbnautid4.ibillboard.com
-bidproxy.ibillboard.com
 clientui-adserver.ibillboard.com
 static-mbrdsp.ibillboard.com
 tracker-adserver.ibillboard.com
@@ -135,7 +134,6 @@ srv.vivaclix.com
 track.vivaclix.com
 vivaclix.com
 c.mstorer.net
-m.mstorer.net
 mstorer.net
 ei.imstks.com
 i.imstks.com
@@ -245,8 +243,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
-ads.livetv787.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -323,7 +319,6 @@ apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
 ashoupsu.com
-aslau-cre.info
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -343,7 +338,6 @@ cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
-chaglihysty.pro
 chaipoksore.com
 chipmanksmochus.com
 citronsstealed.website
@@ -361,7 +355,6 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 effectiveperformanceformat.com
-effusedprankle.com
 elderlybean.com
 espionagegardenerthicket.com
 estat.com
@@ -373,6 +366,7 @@ forspearowor.com
 friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
+gaseousgeneral.com
 gemmykaraoke.com
 ggz48pxys.com
 gimoqwmikakv.com
@@ -444,6 +438,7 @@ pyxiscablese.com
 qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
+railingperformance.com
 railwayrainstorm.com
 rankingchart.de
 rankingscout.com
@@ -453,7 +448,6 @@ ru-traffic.com
 ruwjkygaxo.com
 scarofnght.com
 scripte-monster.de
-sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
@@ -478,7 +472,6 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
-ueikno.com
 uhland24.de
 untidyquestion.com
 uz.louchefunnel.shop
