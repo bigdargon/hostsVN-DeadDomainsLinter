@@ -36,11 +36,6 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
-beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -147,9 +142,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -214,13 +206,12 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
+ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -264,6 +255,7 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
@@ -346,6 +338,7 @@ bpipihwhumif.com
 breathelicense.com
 butalksuw9dj10.com
 cagamvnuqhuh.com
+cameesse.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -442,7 +435,6 @@ physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potenza.cz
-potsaglu.net
 pro-ads.club
 ptawehex.net
 pyicbcxvs.com
