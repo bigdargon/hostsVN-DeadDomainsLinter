@@ -73,7 +73,6 @@ gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
-www.advinci.net
 m.optvx.com
 main.optvx.com
 optvx.com
@@ -116,10 +115,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
-vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -238,7 +233,6 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
@@ -294,6 +288,7 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
+api.boclinkads.com
 ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -391,7 +386,6 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 kiynew.com
 ksvjmvrjjo.com
 kuqfudazkn.com
@@ -435,6 +429,7 @@ physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potenza.cz
+potsaglu.net
 pro-ads.club
 ptawehex.net
 pyicbcxvs.com
