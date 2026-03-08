@@ -10,8 +10,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-api.parrable.com
-h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -61,6 +59,7 @@ aj2503.online
 ajxx91.online
 n.adxxx.info
 st.adxxx.info
+n.popclck.org
 st-n.popclck.org
 brand.ad
 a.brand.ad
@@ -100,6 +99,7 @@ rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
+www.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -232,9 +232,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 js-sdk.analytics-data.io
 track.analytics-data.io
 ads.livetv623.me
@@ -258,19 +255,6 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
-core.polyad.net
-cp.polyad.net
-cpx.polyad.net
-ds.polyad.net
-dst.polyad.net
-dt.polyad.net
-go.polyad.net
-html.polyad.net
-img.polyad.net
-polyad.net
-st.core.polyad.net
-st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -289,7 +273,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -297,9 +280,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 gluco.native-ad.net
@@ -317,7 +297,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
-tracker.thichxemphim.net
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -338,7 +317,6 @@ ads.vnd89.com
 advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
-affiliates.ultrahosting.com
 afrjhanwosa.com
 ahlcujguphr.com
 aiqowflpg.com
@@ -551,4 +529,3 @@ zumdivdwug.com
 comscoreresearch.com
 ping.kitidi.com
 umeng.co
-vizu.com
