@@ -1,4 +1,5 @@
 addthiscdn.com
+cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
@@ -96,6 +97,7 @@ static.adservme.com
 uswest.rtb.adservme.com
 www.adservme.com
 xml.adservme.com
+xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -121,6 +123,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -220,7 +223,6 @@ track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -345,7 +347,6 @@ effectiveperformanceformat.com
 elderlybean.com
 espionagegardenerthicket.com
 estat.com
-ewhareey.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
