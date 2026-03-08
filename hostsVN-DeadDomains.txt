@@ -1,5 +1,4 @@
 addthiscdn.com
-cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
@@ -73,10 +72,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -101,7 +96,6 @@ static.adservme.com
 uswest.rtb.adservme.com
 www.adservme.com
 xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -127,7 +121,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -138,8 +131,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -151,7 +142,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -160,7 +150,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -199,7 +188,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -212,7 +200,6 @@ s385.mxcdn.net
 s400.mxcdn.net
 ad-track.adiiix.com
 ads.adiiix.com
-px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -224,10 +211,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -280,10 +263,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -428,7 +407,6 @@ ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
 oranegfodnd.com
-orb92.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -492,7 +470,6 @@ tutgcinarlak.com
 uhland24.de
 untidyquestion.com
 uz.louchefunnel.shop
-v6rxv5coo5.com
 vebo-vast.pages.dev
 vncnu.com
 vr.ringentkenlore.com
@@ -528,4 +505,3 @@ zikroarg.com
 zumdivdwug.com
 comscoreresearch.com
 ping.kitidi.com
-umeng.co
