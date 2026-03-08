@@ -1,4 +1,8 @@
-blueserving.com
+addthiscdn.com
+cache.addthiscdn.com
+client.addthiscdn.com
+client-uat.addthiscdn.com
+sharebar.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -36,6 +40,7 @@ go.advergine.com
 spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -56,6 +61,11 @@ aj2503.online
 ajxx91.online
 n.adxxx.info
 st.adxxx.info
+st-n.popclck.org
+brand.ad
+a.brand.ad
+www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -90,7 +100,6 @@ rtb-uswest.adservme.com
 ssp.adservme.com
 static.adservme.com
 uswest.rtb.adservme.com
-www.adservme.com
 xml.adservme.com
 xml-g.adservme.com
 a.optimizesrv.com
@@ -151,6 +160,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 anymad.com
 cdn.anymad.com
 cdn1.anymad.com
@@ -188,6 +198,8 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
+int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -196,11 +208,11 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
+s385.mxcdn.net
+s400.mxcdn.net
+ad-track.adiiix.com
+ads.adiiix.com
+px2.4cinsights.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -212,6 +224,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -219,6 +235,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -231,6 +249,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -239,6 +258,19 @@ aj2584.bid
 aj2587.bid
 aj3007.bid
 aj3017.bid
+core.polyad.net
+cp.polyad.net
+cpx.polyad.net
+ds.polyad.net
+dst.polyad.net
+dt.polyad.net
+go.polyad.net
+html.polyad.net
+img.polyad.net
+polyad.net
+st.core.polyad.net
+st.html.polyad.net
+st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -248,6 +280,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -255,10 +289,9 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -284,6 +317,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+tracker.thichxemphim.net
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -296,6 +330,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
+addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
@@ -303,6 +338,7 @@ ads.vnd89.com
 advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
+affiliates.ultrahosting.com
 afrjhanwosa.com
 ahlcujguphr.com
 aiqowflpg.com
@@ -326,6 +362,7 @@ bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
 butalksuw9dj10.com
+caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
@@ -367,11 +404,13 @@ gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
+gocxnnxiy.com
 gq.binesyorker.com
 hccxwfunnpxngz.com
 hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
+ileeckut.com
 inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
@@ -391,11 +430,13 @@ loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
+materialplayground.com
 mixedreading.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
+mutcheng.net
 mybettermb.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
@@ -404,6 +445,7 @@ nicksstevmark.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
+ofleafeona.com
 ojwoqdpiwdt.com
 omciecoa37tw4.com
 ophoacit.com
@@ -425,6 +467,7 @@ pokreess.com
 potenza.cz
 potsaglu.net
 pro-ads.club
+psoroumukr.com
 ptawehex.net
 pyicbcxvs.com
 pyxiscablese.com
@@ -445,6 +488,7 @@ septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
+shoordaird.com
 slidbecauseemerald.com
 snowdayonline.xyz
 soccercadencefridge.com
@@ -459,6 +503,7 @@ synonymdetected.com
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
+techourtoapingu.com
 terra8nb.com
 thripelbertie.website
 timohtazxazej.website
@@ -490,6 +535,7 @@ www.pro-ads.club
 www.routeserve.info
 www.servsave.com
 xclicks.net
+xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
 xr.staxisclivias.com
@@ -504,3 +550,5 @@ zikroarg.com
 zumdivdwug.com
 comscoreresearch.com
 ping.kitidi.com
+umeng.co
+vizu.com
