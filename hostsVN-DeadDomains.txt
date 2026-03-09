@@ -1,3 +1,9 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -33,6 +39,15 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -170,7 +185,6 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -199,6 +213,9 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+analytics.truffle.bid
+cdn.truffle.bid
+matching.truffle.bid
 s385.mxcdn.net
 s400.mxcdn.net
 ad-track.adiiix.com
@@ -223,6 +240,7 @@ track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
@@ -230,7 +248,10 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv785.me
+ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -261,6 +282,7 @@ www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -290,6 +312,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
+22hgc.com
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -324,7 +347,6 @@ butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
-cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -335,6 +357,7 @@ clenchedyouthmatching.com
 clickblitzo.xyz
 clmcom.com
 clodderpickmaw.com
+cmdpeufwwou.com
 colonserve.com
 creafi.com
 deckdistant.com
@@ -347,6 +370,7 @@ effectiveperformanceformat.com
 elderlybean.com
 espionagegardenerthicket.com
 estat.com
+ewhareey.com
 facebookad.for88vn.com
 fadzudvracat.com
 fhsmtrnsfnt.com
@@ -398,6 +422,7 @@ mutcheng.net
 mybettermb.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
+negyuk.com
 nessainy.net
 nicksstevmark.com
 ny.damasseakamai.com
@@ -505,4 +530,5 @@ zd.midbodyritz.shop
 zikroarg.com
 zumdivdwug.com
 comscoreresearch.com
+getstats.org
 ping.kitidi.com
