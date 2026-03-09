@@ -119,7 +119,6 @@ optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
-mobytrks.com
 go.mobytrks.com
 api.pvmax.net
 cdn.pvmax.net
@@ -185,10 +184,10 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
-app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -197,8 +196,6 @@ s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
-truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -347,6 +344,7 @@ butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
+cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
