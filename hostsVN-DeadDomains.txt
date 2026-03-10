@@ -7,6 +7,7 @@ px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
@@ -53,10 +54,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -76,6 +73,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+n.adxxx.info
 st.adxxx.info
 n.popclck.org
 st-n.popclck.org
@@ -121,7 +119,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -134,14 +131,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -154,7 +143,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
@@ -186,7 +174,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -330,7 +317,6 @@ bahmemohod.com
 beabsolom.com
 blueswordksh.com
 blutrumpet.com
-bmycupptafr.com
 bouzechoby.net
 bpacihfabm.com
 bpaqzithab.com
@@ -383,7 +369,6 @@ gocxnnxiy.com
 gq.binesyorker.com
 hccxwfunnpxngz.com
 hwoqshyx.com
-ichachoakiglop.com
 identinsp.pro
 ileeckut.com
 inspirationstarednope.com
@@ -500,7 +485,6 @@ wabjcepuqmi.com
 waisheph.com
 wellmadefrog.com
 whairtoa.com
-witch-counter.de
 wiwqhootrf.com
 wombjingle.com
 wonderhsjnsd.com
