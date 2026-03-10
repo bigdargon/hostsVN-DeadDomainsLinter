@@ -35,6 +35,7 @@ v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
+torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -132,12 +133,6 @@ intranet.faktor.io
 logos.choice.faktor.io
 m.faktor.io
 mobile.faktor.io
-api.pvmax.net
-cdn.pvmax.net
-kuasa.pvmax.net
-monika.pvmax.net
-pvmax.net
-www.pvmax.net
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -292,7 +287,6 @@ www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -309,7 +303,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -336,7 +329,6 @@ afrjhanwosa.com
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
-ambleads.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
@@ -379,13 +371,11 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 effectiveperformanceformat.com
-elderlybean.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
 facebookad.for88vn.com
 fadzudvracat.com
-fhsmtrnsfnt.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
@@ -512,7 +502,6 @@ untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
-vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -526,7 +515,6 @@ wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wr.amigojimbang.com
-www.ambleads.com
 www.pro-ads.club
 www.routeserve.info
 www.servsave.com
