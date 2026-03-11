@@ -65,12 +65,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 n.adxxx.info
 st.adxxx.info
 brand.ad
@@ -111,12 +105,6 @@ uswest.rtb.adservme.com
 www.adservme.com
 xml.adservme.com
 xml-g.adservme.com
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
-static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -132,6 +120,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 appier.xyz
+aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
@@ -189,7 +178,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -291,6 +279,7 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -327,7 +316,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
-advariant.com
 adwitserver.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -495,9 +483,6 @@ soumehoo.net
 spywarenuker.com
 stay.decentralappps.com
 swmswjvdpc.com
-swuojrovqf.com
-syndetstermine.com
-synonymdetected.com
 t.easyads28.mobi
 t.lumupu.xyz
 taqavmaplont.com
