@@ -40,15 +40,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 advergine.com
 go.advergine.com
 spf1.advergine.com
@@ -94,10 +85,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 fadsimz.com
 fadskiz.com
 gadskis.com
@@ -145,7 +132,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
@@ -164,6 +150,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
@@ -202,7 +189,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
@@ -225,8 +211,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -307,7 +291,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
-img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -344,6 +327,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 adwitserver.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -531,7 +515,6 @@ uhland24.de
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
-v6rxv5coo5.com
 vebo-vast.pages.dev
 vr.ringentkenlore.com
 vtacibqzopiw.com
