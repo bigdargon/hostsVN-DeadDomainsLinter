@@ -32,6 +32,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+hb.adomik.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -73,10 +74,14 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 n.adxxx.info
 st.adxxx.info
-n.popclck.org
-st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -89,6 +94,11 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+a.ivstracker.net
+c.ivstracker.net
+ivstracker.net
+r.ivstracker.net
+fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -119,6 +129,7 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
+syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -126,6 +137,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -135,6 +148,10 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
+exelatesync.extend.tv
+sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -143,9 +160,10 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-adsterra.org
+pgmcdn.com
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
@@ -153,6 +171,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -174,6 +193,7 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -184,6 +204,7 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -214,9 +235,20 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
+advert.wiztube.xyz
+cdn.wiztube.xyz
+netu.wiztube.xyz
+wiztube.xyz
+www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -253,6 +285,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediaz.asia
+www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
@@ -262,6 +296,9 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -269,6 +306,13 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -301,6 +345,7 @@ ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
 adwitserver.com
+affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -316,7 +361,7 @@ azrwwodreta.com
 bahmemohod.com
 beabsolom.com
 blueswordksh.com
-blutrumpet.com
+bmycupptafr.com
 bouzechoby.net
 bpacihfabm.com
 bpaqzithab.com
@@ -328,6 +373,7 @@ cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
 cdn.easyads28.mobi
+cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
@@ -342,6 +388,7 @@ colonserve.com
 creafi.com
 deckdistant.com
 detachmentoccasionedarena.com
+disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
@@ -369,6 +416,7 @@ gocxnnxiy.com
 gq.binesyorker.com
 hccxwfunnpxngz.com
 hwoqshyx.com
+ichachoakiglop.com
 identinsp.pro
 ileeckut.com
 inspirationstarednope.com
@@ -381,6 +429,7 @@ kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
 kiynew.com
+koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 lfeorrzkua.com
@@ -388,6 +437,7 @@ linkads.xyz
 literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
+lumupu.xyz
 mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
@@ -413,6 +463,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ophoacit.com
 oranegfodnd.com
+orb92.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -431,6 +482,7 @@ potsaglu.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
+pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
@@ -463,6 +515,7 @@ swuojrovqf.com
 syndetstermine.com
 synonymdetected.com
 t.easyads28.mobi
+t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -470,6 +523,7 @@ terra8nb.com
 thripelbertie.website
 timohtazxazej.website
 tranquilside.com
+trblocked.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
@@ -477,6 +531,7 @@ uhland24.de
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
+v6rxv5coo5.com
 vebo-vast.pages.dev
 vr.ringentkenlore.com
 vtacibqzopiw.com
