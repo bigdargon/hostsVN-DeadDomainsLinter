@@ -37,6 +37,7 @@ api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -73,6 +74,7 @@ aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
+img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
@@ -104,7 +106,6 @@ xml.adservme.com
 xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
-lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -362,6 +363,7 @@ fhsmtrnsfnt.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
+funoriblithe.space
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -377,6 +379,7 @@ hccxwfunnpxngz.com
 hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
+ileeckut.com
 inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
@@ -521,5 +524,6 @@ zazmunokpvzi.com
 zd.midbodyritz.shop
 zikroarg.com
 zumdivdwug.com
+fathomseo.com
 getstats.org
 ping.kitidi.com
