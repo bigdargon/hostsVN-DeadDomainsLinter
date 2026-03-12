@@ -1,9 +1,15 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+addthiscdn.com
+cache.addthiscdn.com
+client.addthiscdn.com
+client-uat.addthiscdn.com
+sharebar.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -32,7 +38,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-hb.adomik.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -65,8 +77,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.adxxx.info
-st.adxxx.info
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -119,12 +129,11 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 c.netund.com
 netund.com
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
@@ -139,6 +148,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
+www.mobisage.cn
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -190,8 +200,6 @@ ongastlya.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -237,13 +245,13 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2582.bid
 aj2584.bid
 aj2587.bid
+aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
@@ -321,6 +329,7 @@ afrjhanwosa.com
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
+amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
 arsnivyr.com
@@ -369,6 +378,7 @@ estat.com
 ewhareey.com
 facebookad.for88vn.com
 fadzudvracat.com
+fhsmtrnsfnt.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
@@ -377,6 +387,7 @@ gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
+giggedguddle.com
 gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
@@ -396,7 +407,6 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 kiynew.com
 koindut.com
 ksvjmvrjjo.com
@@ -411,11 +421,13 @@ mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
 materialplayground.com
+medusaecaptan.com
 mixedreading.com
 moomenog.com
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
+mustardeveningobvious.com
 mutcheng.net
 mybettermb.com
 nationalgausewatrust.com
@@ -423,6 +435,7 @@ nd.prosilyingles.cyou
 negyuk.com
 nessainy.net
 nicksstevmark.com
+nonpareilanticipatedintention.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
@@ -451,7 +464,6 @@ potsaglu.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
-pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
@@ -461,7 +473,6 @@ railingperformance.com
 railwayrainstorm.com
 rankingchart.de
 rankingscout.com
-richwebmaster.com
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
@@ -479,8 +490,10 @@ sotchoum.com
 soumehoo.net
 spywarenuker.com
 stay.decentralappps.com
+sumbreta.com
 swmswjvdpc.com
 swuojrovqf.com
+synapse22.net
 syndetstermine.com
 synonymdetected.com
 t.easyads28.mobi
@@ -532,3 +545,4 @@ zikroarg.com
 zumdivdwug.com
 getstats.org
 ping.kitidi.com
+umeng.co
