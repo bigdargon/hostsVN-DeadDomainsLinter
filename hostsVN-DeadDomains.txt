@@ -31,7 +31,6 @@ t.effectivemeasure.net
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
-v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
@@ -58,7 +57,6 @@ spf1.advergine.com
 spf2.advergine.com
 spf3.advergine.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -77,9 +75,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -148,7 +143,6 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 pgmcdn.com
-www.mobisage.cn
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -364,7 +358,6 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
@@ -464,6 +457,7 @@ potsaglu.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
+pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
@@ -543,6 +537,7 @@ zazmunokpvzi.com
 zd.midbodyritz.shop
 zikroarg.com
 zumdivdwug.com
+fathomseo.com
 getstats.org
 ping.kitidi.com
 umeng.co
