@@ -1,4 +1,3 @@
-blueserving.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
@@ -136,7 +135,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -146,13 +144,11 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -184,9 +180,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -241,19 +234,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-core.polyad.net
-cp.polyad.net
-cpx.polyad.net
-ds.polyad.net
-dst.polyad.net
-dt.polyad.net
-go.polyad.net
-html.polyad.net
-img.polyad.net
-polyad.net
-st.core.polyad.net
-st.html.polyad.net
-st.polyad.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -274,7 +254,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -443,10 +422,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ophoacit.com
 oranegfodnd.com
-orb92.com
 orylhull.com
-orywrjsf.com
-osknimkihvr.com
 oswavmov.com
 outloginequity.com
 ovmhwiccikr.com
@@ -471,7 +447,6 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
@@ -513,7 +488,6 @@ untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
-vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
