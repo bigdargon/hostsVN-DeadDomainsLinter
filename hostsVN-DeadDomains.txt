@@ -117,8 +117,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -144,11 +142,13 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -227,7 +227,6 @@ ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
-aj2582.bid
 aj2584.bid
 aj2587.bid
 aj2629.bid
@@ -254,6 +253,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -295,13 +295,11 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
-1slms.com
 addresseepaper.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
-adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 ahlcujguphr.com
@@ -360,6 +358,7 @@ forspearowor.com
 friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
+g0push.com
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -376,7 +375,6 @@ hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
 ileeckut.com
-inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
@@ -387,6 +385,7 @@ kamwaflmoacd.com
 kiynew.com
 koindut.com
 ksvjmvrjjo.com
+kuno-gae.com
 kuqfudazkn.com
 lfeorrzkua.com
 linkads.xyz
@@ -423,6 +422,8 @@ omciecoa37tw4.com
 ophoacit.com
 oranegfodnd.com
 orylhull.com
+orywrjsf.com
+osknimkihvr.com
 oswavmov.com
 outloginequity.com
 ovmhwiccikr.com
