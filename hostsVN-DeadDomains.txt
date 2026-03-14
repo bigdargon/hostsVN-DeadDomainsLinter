@@ -55,8 +55,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
 cdn.bidfilter.com
@@ -135,7 +133,13 @@ exelatesync.extend.tv
 sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
+service.winadx.com
+syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
+tvc-vpaid.winadx.com
+vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
@@ -233,8 +237,8 @@ ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
+ads.livetv705.me
 ads.livetv708.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -285,7 +289,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
@@ -308,7 +311,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
-22hgc.com
 4info.com
 addresseepaper.com
 ads.cdn2-img.net
@@ -403,7 +405,6 @@ kaisauwoure.net
 kamwaflmoacd.com
 kiynew.com
 koindut.com
-ksvjmvrjjo.com
 kuno-gae.com
 kuqfudazkn.com
 lfeorrzkua.com
@@ -454,6 +455,7 @@ palaroleg.guru
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
+planetactive.com
 playsdonkey.com
 pokreess.com
 potenza.cz
@@ -512,7 +514,6 @@ vebo-vast.pages.dev
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
-wabjcepuqmi.com
 waisheph.com
 waymarkgentiin.com
 wellmadefrog.com
