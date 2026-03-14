@@ -20,7 +20,6 @@ effectivemeasure.net
 my-ssl.effectivemeasure.net
 s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
-t.effectivemeasure.net
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -180,7 +179,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -204,11 +202,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -452,6 +445,7 @@ outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
+pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
