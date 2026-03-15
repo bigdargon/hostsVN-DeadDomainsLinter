@@ -87,7 +87,6 @@ acb.vn-ol.top
 acb.vn-vp.xyz
 acbbank.xyz
 acbvnliin.com
-acbvnlin.com
 acclienquan.vn
 acclienquan24h.vn
 acclienquan365.com
@@ -205,6 +204,7 @@ baohanhdienmayxanhvn.com
 baohiemxahoi.vnagov.com
 baomoivn.net
 baosaoviet24h.net
+baothanhnien.top
 baotienphong.net
 baotrixanhvn.com
 baoviet-vn.cc
@@ -352,6 +352,7 @@ com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
 com.vn-sp.top
+com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
 comptrffc.com
@@ -863,6 +864,7 @@ hdbankfinancc.top
 hdbankfinancc.website
 hdbankfinancc.xyz
 hdbankfinance.agency
+hdbankfinance.club
 hdbankfinance.cyou
 hdbankfinance.icu
 hdbankfinance.live
@@ -1246,6 +1248,8 @@ linkkrutgon.com
 linshopee.com
 liximomo.club
 liximomo.fun
+liximomo.net
+liximomo.top
 lixitetlienquan.com
 llappa.top
 llzd2.com
@@ -1845,7 +1849,6 @@ phieuruttien-247.com
 phieuruttien-thetindungmpos24h.com
 phimhaykiemtien24h.com
 phlazada.vip
-phpmyvpbbank.com
 phukienmaxpro.store
 pi81.shop
 piratespc.net
@@ -2213,6 +2216,7 @@ shopee182.vip
 shopee192.vip
 shopee2.net
 shopee20.com
+shopee2288.com
 shopee24.vip
 shopee27.vip
 shopee298.com
@@ -2950,7 +2954,6 @@ tracuu-thongtin.site
 tracuugiaodichvi.com
 tracuuthenap247.com
 tracuutthvt.com
-traderviet88.com
 trang-chu-vn.com
 trangbaotuoitre.com
 trangchu24-7.com
@@ -3069,13 +3072,11 @@ uudaikhachhangthe-tructuyen-thang9.com.vn
 uudailienquan.com
 uudainapthe.vn
 uudainganhang.com
+uudainganhangso.site
 uudauthekhachhanh-tructuyen-thang10.com.vn
 uyban.club
 v.vl404.cn
 v2s4ku8b.com
-vang11.com
-vang22.com
-vang888.com
 vang999.com
 vangngocnhanh.info
 vangngocrong.com
@@ -3217,6 +3218,7 @@ vaytinchapshinhan247.com
 vaytinchapshinhanbank-vn.com
 vaytinchaptieudungshinhanbank.com
 vaytinchapvpbank.com
+vaytindung-techcombank.online
 vaytindungnhanh.online
 vaytindungshinhan.net
 vaytintam24h.vn
@@ -3380,7 +3382,6 @@ vietgcv.cc
 vietgov.cc
 vietgov0.cc
 vietgov22.cc
-vietgov3.cc
 vietgov4.cc
 vietgov5.cc
 vietgov6.cc

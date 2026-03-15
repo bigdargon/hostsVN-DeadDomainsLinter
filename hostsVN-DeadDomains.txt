@@ -1,9 +1,4 @@
 swift.lifestreet.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
@@ -160,7 +155,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -168,8 +162,6 @@ s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
-truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -189,8 +181,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -300,6 +290,7 @@ addresseepaper.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+adsmart.co.uk
 advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
@@ -323,7 +314,6 @@ blueswordksh.com
 bmycupptafr.com
 bouzechoby.net
 bpacihfabm.com
-bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
 butalksuw9dj10.com
@@ -511,6 +501,7 @@ waymarkgentiin.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+whuwoawain.com
 wiwqhootrf.com
 wombjingle.com
 wonderhsjnsd.com
