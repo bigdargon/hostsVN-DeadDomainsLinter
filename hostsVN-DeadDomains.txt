@@ -13,10 +13,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
@@ -58,7 +54,6 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -100,6 +95,7 @@ xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
+origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
@@ -505,7 +501,6 @@ terra8nb.com
 thripelbertie.website
 timohtazxazej.website
 tranquilside.com
-trblocked.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
