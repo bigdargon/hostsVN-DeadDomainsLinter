@@ -96,6 +96,7 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -205,7 +206,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
@@ -249,7 +249,6 @@ syndication.adlinknetwork.vn
 ads.baodatviet.vn
 ttus.tructiepbongda.me
 log.baodatviet.vn
-log.tapchimattran.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -267,10 +266,10 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
+adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
-ahkapsalz.com
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
@@ -372,7 +371,6 @@ mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meandiminutionhit.com
 medusaecaptan.com
