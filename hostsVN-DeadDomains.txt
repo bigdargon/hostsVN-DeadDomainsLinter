@@ -78,19 +78,8 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
-vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -114,7 +103,6 @@ cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
-syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -149,6 +137,7 @@ app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
+img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -168,11 +157,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -191,8 +175,6 @@ cdn.wiztube.xyz
 netu.wiztube.xyz
 wiztube.xyz
 www.wiztube.xyz
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -217,7 +199,6 @@ ads.livetv708.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
-aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -244,7 +225,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -252,10 +232,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -306,6 +282,7 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 beabsolom.com
+beplusleor.com
 blueswordksh.com
 bmycupptafr.com
 bouzechoby.net
@@ -373,6 +350,7 @@ inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
+jerboasjourney.com
 jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
@@ -394,6 +372,7 @@ mafrarc3e9h.com
 makafdsugxco.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meandiminutionhit.com
 medusaecaptan.com
@@ -467,6 +446,7 @@ soccercadencefridge.com
 sotchoum.com
 soumehoo.net
 spywarenuker.com
+stay.decentralappps.com
 sumbreta.com
 swmswjvdpc.com
 swuojrovqf.com
@@ -500,6 +480,7 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+whuwoawain.com
 wiwqhootrf.com
 wombjingle.com
 wonderhsjnsd.com
