@@ -96,13 +96,13 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
+syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
@@ -199,6 +199,7 @@ ads.livetv708.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
+aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -248,6 +249,7 @@ syndication.adlinknetwork.vn
 ads.baodatviet.vn
 ttus.tructiepbongda.me
 log.baodatviet.vn
+log.tapchimattran.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -265,10 +267,10 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
-adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
+ahkapsalz.com
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
@@ -282,7 +284,6 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 beabsolom.com
-beplusleor.com
 blueswordksh.com
 bmycupptafr.com
 bouzechoby.net
@@ -350,7 +351,6 @@ inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
-jerboasjourney.com
 jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
@@ -414,7 +414,6 @@ peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
 pokreess.com
-potenza.cz
 potsaglu.net
 pro-ads.club
 psoroumukr.com
@@ -465,7 +464,6 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
-uhland24.de
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
@@ -480,7 +478,6 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
-whuwoawain.com
 wiwqhootrf.com
 wombjingle.com
 wonderhsjnsd.com
