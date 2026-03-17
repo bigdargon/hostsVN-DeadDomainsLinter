@@ -47,7 +47,6 @@ aj1015.online
 aj1090.online
 aj1549.online
 aj1754.online
-aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -59,7 +58,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
 st-n.popclck.org
 aos.gop1.co
 g.gop1.co
@@ -223,7 +221,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
+matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -299,7 +297,6 @@ cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
-chipmanksmochus.com
 chitika.net
 citronsstealed.website
 clenchedyouthmatching.com
