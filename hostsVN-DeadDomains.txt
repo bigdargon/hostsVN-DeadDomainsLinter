@@ -185,9 +185,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -227,7 +224,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 adx.vn
-matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -250,9 +246,7 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-ads.baodatviet.vn
 ttus.tructiepbongda.me
-log.baodatviet.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -353,6 +347,7 @@ hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
 ileeckut.com
+inspirationstarednope.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
@@ -378,6 +373,7 @@ makafdsugxco.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+meandiminutionhit.com
 medusaecaptan.com
 mixedreading.com
 movie-pass.live
@@ -398,6 +394,7 @@ ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
 ofleafeona.com
+ojwoqdpiwdt.com
 oljqobudyusf.com
 omciecoa37tw4.com
 ophoacit.com
@@ -413,6 +410,7 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 pekajmkimvx.com
+peppaping.xyz
 physicalblueberry.com
 playsdonkey.com
 pokreess.com
