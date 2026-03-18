@@ -1,10 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -12,6 +6,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
@@ -37,16 +35,13 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
 aj1090.online
 aj1549.online
 aj1754.online
+aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
@@ -58,7 +53,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+n.popclck.org
 st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -91,6 +88,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -100,6 +99,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -111,6 +112,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -119,6 +121,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -150,6 +153,7 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -194,7 +198,8 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
+ads.livetv765.me
+ads.livetv782.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -245,6 +250,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -255,15 +261,16 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
+11ssq.com
 1fkx796mw.com
 1slms.com
-22hgc.com
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 advantagesclotblend.com
+advariant.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -297,6 +304,7 @@ cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
+chipmanksmochus.com
 chitika.net
 citronsstealed.website
 clenchedyouthmatching.com
@@ -305,7 +313,7 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
+crowdgravity.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
@@ -314,6 +322,7 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 effectiveperformanceformat.com
+efficientdescent.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
@@ -370,6 +379,7 @@ makafdsugxco.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+meaese.click
 meandiminutionhit.com
 medusaecaptan.com
 mixedreading.com
@@ -419,7 +429,6 @@ pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
@@ -477,6 +486,7 @@ wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
 wiwqhootrf.com
+wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
@@ -494,6 +504,7 @@ xruamzpanbca.com
 yb26b.com
 yiopse.com
 yrhnw7h63.com
+yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
 zikroarg.com
