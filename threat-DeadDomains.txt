@@ -16,6 +16,7 @@
 1is7m7.cyou
 24-7-vidientu.com
 247-banking.com
+247-bankings.com
 247-napas.com
 247-vidientu.com
 247appbank.com
@@ -73,7 +74,6 @@ acb.chamsocthe-uudaikhachhang.online
 acb.chamsocthe-uudaitructuyen.com.vn
 acb.chamsocthekhachhang-tructuyen-thang8.com.vn
 acb.hotrokhachhang-uudai-tructuyen.com.vn
-acb.uudaikhachhang-chamsocthetructuyen.com
 acb.uudaikhachhang-tructuyen-the.com.vn
 acb.uudaikhachhangthe-tructuyen-thang9.com.vn
 acb.uudauthekhachhanh-tructuyen-thang10.com.vn
@@ -331,7 +331,6 @@ cloud25.xyz
 cloud27.xyz
 cloudshop88.net
 cltx.shop
-cltx19.me
 cltx88.com
 cltx888.me
 cltxmm.us
@@ -492,6 +491,7 @@ dichvucong.lgov.net
 dichvucong.snggov.com
 dichvucong.tgovn.cc
 dichvucong.thongtindancu.org
+dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
@@ -798,6 +798,7 @@ giaodich-quetthetindungvn.com
 giaodichdaquocgia.us
 giaodichphieurutienmposvn.com
 giaodichpostructuyenvn.com
+giaodichquettindungpos247-online.com
 giaodichquettindungvn-online.com
 giaodichquoctes.com
 giaodichvidientu.com.vn
@@ -853,6 +854,7 @@ handico.vaytienmat-nhanh24h.com
 hangairsoft.com
 hanghaiqt.com
 hanmucvn.com
+happykitcr.com
 hashtechlimited.com
 hdb.tang-han-muc-tin-dung-vn.com
 hdb.vntanghanmucvisadebit.com
@@ -863,7 +865,6 @@ hdbankfinancc.space
 hdbankfinancc.top
 hdbankfinancc.website
 hdbankfinancc.xyz
-hdbankfinance.agency
 hdbankfinance.club
 hdbankfinance.cyou
 hdbankfinance.icu
@@ -1212,6 +1213,7 @@ lienkettaikhoan.com
 lienkettaikhoannhanqua.online
 lienketvidientu.com
 lienminh-membership.com
+lienminhhanghieu.com
 lienminhshopgame.com
 lienquan-garena-giftcode.com
 lienquan-garena-member.com
@@ -1483,7 +1485,6 @@ moneyeasily-hk.top
 moneyeasily-tx.top
 moneyloan-vn.com
 moneytracking137.com
-moneyvi.xyz
 moneywallet.cf
 morganbank.online
 morganbank.pw
@@ -1523,7 +1524,6 @@ muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
 mualienquan.org
-muanickgiare.com
 muasamtiki24h.com
 muaso24h.store
 muathietke.com
@@ -1572,7 +1572,6 @@ nanghanmucthe-thetindung.com
 nanghanmucthetindung247.com
 nanghanmucthevib.com
 nanghanmucvisa-vn.com
-nap-the.vn
 napallgame.com
 napasvidientu247.com
 napblockmango.com
@@ -1835,7 +1834,6 @@ phanmemvip.net
 phanqua01vn.com
 phanqua365vn.com
 phanqua7979.com
-phanquavn152.com
 phattai247.com
 phattai6666.com
 phattaimomo.com
@@ -1927,6 +1925,7 @@ quatrianffvn.cf
 quatrianfreefire.cf
 quatrianfreefirevn.club
 quatriangarenavn.com
+quatruykich.vn
 quav8.fun
 quavang123.com
 quaviet01vn.com
@@ -1948,6 +1947,7 @@ quetthe-mpos247.com
 quetthe-mposcard247.com
 quetthe-ruttindung.com
 quetthe-ruttindungvn.com
+quetthe-tindung24h.com
 quetthe-tindungminhpos.com
 quetthe-tindungmpos247.com
 quetthe-tindungnhanh.com
@@ -2015,7 +2015,6 @@ ruttindungpos.com
 rutwdj.id
 rwrb55.com
 rwrb66.com
-rxfspe.ulthi.de
 s-fb.net
 s22khuyenmai.xyz
 s2rjtiki.com
@@ -2129,7 +2128,6 @@ shop-ama-zon.net
 shop.global-selling.top
 shop2727.com
 shop3001.com
-shop3100.com
 shop3322.com
 shop3535.com
 shop3737.com
@@ -2695,6 +2693,7 @@ techcombank.vn-sp.top
 techcombank.vn-sp.xyz
 techcombank.vn-vp.xyz
 techcombank.website
+telaagam.maxisl.vip
 telegram.app0w.ltd
 teleway.top
 tet-lienquangarenavn.com
@@ -3053,6 +3052,7 @@ undertheguid.cfd
 undimangen.cfd
 unixpop.xyz
 upliftrenewables.cc
+upmiles-vpbank.com
 upta16theu.cfd
 uptomscan.cfd
 us.unixpop.xyz
@@ -3093,7 +3093,6 @@ vay-abc8.com
 vay-shb.com
 vay-shb8.com
 vay-tpbank.site
-vay-vang.com
 vay-vib8.com
 vay-vietcombank.biz
 vay-vietcombank.com.vn
@@ -3132,6 +3131,7 @@ vaynganhangvn.com
 vayngay247.com
 vayngay88.online
 vaynhanh-doctordong.com
+vaynhanh-techcombank.com
 vaynhanh247-doctordong.com
 vaynhanh24h.tk
 vaynhanh3t.online
@@ -3821,7 +3821,9 @@ wbk9sohp.jdpz.link
 web-membbership-freefire-garena.com
 web-shopee-vn.com
 web-trackers.com
+webbanklienthong247.com
 webh5.newfastloan.cc
+webinfo-ebank.com
 weblenhangiaivn.com
 webnapgame.com
 webnapthegame.com
