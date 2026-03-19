@@ -9,6 +9,7 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
@@ -155,7 +156,6 @@ app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
-img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -166,7 +166,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
@@ -309,7 +308,6 @@ cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
-chaipoksore.com
 chipmanksmochus.com
 chitika.net
 citronsstealed.website
@@ -432,7 +430,6 @@ ptawehex.net
 pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
-qa.shboshbok.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
