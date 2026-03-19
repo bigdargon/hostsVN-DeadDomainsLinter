@@ -9,7 +9,6 @@ af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
@@ -69,7 +68,6 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -178,11 +176,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -224,6 +217,7 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
