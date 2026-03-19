@@ -1,4 +1,6 @@
 blueserving.com
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -21,7 +23,6 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
-zcoup.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
@@ -34,6 +35,15 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -55,6 +65,9 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+brand.ad
+a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -151,6 +164,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
 int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
@@ -217,6 +231,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -253,7 +269,6 @@ h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
-su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
@@ -311,6 +326,7 @@ colonserve.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
+dombnrs.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
@@ -413,7 +429,6 @@ physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potsaglu.net
-primetime.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
@@ -442,6 +457,7 @@ snowdayonline.xyz
 soccercadencefridge.com
 sotchoum.com
 soumehoo.net
+specially4u.net
 spywarenuker.com
 stay.decentralappps.com
 sumbreta.com
