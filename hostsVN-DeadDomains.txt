@@ -1,7 +1,6 @@
 blueserving.com
 a4.tl
 sdk.a4.tl
-www.advertica.ae
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -104,14 +103,11 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
-service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
@@ -119,6 +115,7 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
+ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -135,7 +132,9 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
+www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -449,6 +448,7 @@ shaughixefooz.net
 shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
+snowdayonline.xyz
 soccercadencefridge.com
 sotchoum.com
 soumehoo.net
@@ -487,7 +487,6 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
-witch-counter.de
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
