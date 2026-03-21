@@ -1,6 +1,5 @@
 googleads-cn.com
 blueserving.com
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -247,7 +246,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -279,7 +277,6 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
-adserver.pl
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -319,7 +316,6 @@ clenchedyouthmatching.com
 clickblitzo.xyz
 clmcom.com
 clodderpickmaw.com
-cmdpeufwwou.com
 colonserve.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -393,6 +389,7 @@ meaese.click
 meandiminutionhit.com
 medusaecaptan.com
 moomenog.com
+mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
@@ -445,7 +442,6 @@ qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
-rankingchart.de
 rankingscout.com
 renderstreamshuttleanalytics.net
 routeserve.info
@@ -498,7 +494,6 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
-witch-counter.de
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
@@ -513,6 +508,7 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
+xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yiopse.com
