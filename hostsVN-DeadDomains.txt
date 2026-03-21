@@ -1,6 +1,5 @@
 googleads-cn.com
 blueserving.com
-a4.tl
 sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
@@ -126,7 +125,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -264,7 +262,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
-tvc.biphim.club
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -282,6 +279,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+adserver.pl
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -323,7 +321,6 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
@@ -396,7 +393,6 @@ meaese.click
 meandiminutionhit.com
 medusaecaptan.com
 moomenog.com
-mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
@@ -419,6 +415,7 @@ ogpriuleifns.com
 ojwoqdpiwdt.com
 oljqobudyusf.com
 omciecoa37tw4.com
+ophoacit.com
 oranegfodnd.com
 orb92.com
 orlotalers.com
@@ -501,6 +498,7 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+witch-counter.de
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
@@ -515,7 +513,6 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
-xr.staxisclivias.com
 xruamzpanbca.com
 yb26b.com
 yiopse.com
