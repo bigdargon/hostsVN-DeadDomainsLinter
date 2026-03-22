@@ -41,7 +41,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
-a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
@@ -60,6 +59,7 @@ aj2307.online
 aj2393.online
 aj2412.online
 aj2430.online
+aj2498.online
 aj2503.online
 ajxx91.online
 n.popclck.org
@@ -89,6 +89,7 @@ main.optvx.com
 optvx.com
 s.optvx.com
 ads.adservme.com
+dsp.adservme.com
 filter.adservme.com
 rtb.adservme.com
 rtb-apac.adservme.com
@@ -176,6 +177,8 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+ak.hetaruwg.com
+hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -185,7 +188,6 @@ ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
-secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
@@ -226,7 +228,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
@@ -293,6 +294,7 @@ addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
+ads.vnd89.com
 adwitserver.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -315,6 +317,7 @@ bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
 butalksuw9dj10.com
+caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
@@ -426,7 +429,6 @@ ogpriuleifns.com
 ojwoqdpiwdt.com
 oljqobudyusf.com
 omciecoa37tw4.com
-ophoacit.com
 oranegfodnd.com
 orb92.com
 orlotalers.com
@@ -510,6 +512,7 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
