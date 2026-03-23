@@ -40,10 +40,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-beacon.statful.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -64,9 +60,6 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -125,9 +118,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -141,7 +133,6 @@ www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
-www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
@@ -188,11 +179,10 @@ ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-beta.tapdb.com
-sense.tapdb.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -248,6 +238,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -256,13 +248,21 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
+mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -288,6 +288,7 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
+11ssq.com
 1fkx796mw.com
 1slms.com
 addresseepaper.com
@@ -295,6 +296,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+advantagesclotblend.com
 adwitserver.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -498,9 +500,10 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
-untidyquestion.com
+upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
+view4cash.de
 vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
@@ -526,8 +529,8 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
-xr.staxisclivias.com
 xruamzpanbca.com
+xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
 yrhnw7h63.com
@@ -538,3 +541,4 @@ zikroarg.com
 zumdivdwug.com
 ping.kitidi.com
 sync2ad.com
+vizu.com
