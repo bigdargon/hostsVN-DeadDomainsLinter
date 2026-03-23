@@ -67,7 +67,6 @@ geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
-log.gop1.co
 offer.gop1.co
 fadsimz.com
 fadskiz.com
@@ -133,6 +132,7 @@ www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
+www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
@@ -238,8 +238,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -275,15 +273,12 @@ cdn.wataads.com
 wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
-su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
@@ -360,6 +355,7 @@ friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
+galaxien.com
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -448,7 +444,6 @@ physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potsaglu.net
-primetime.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
@@ -500,10 +495,10 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
+untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
-view4cash.de
 vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
@@ -529,6 +524,7 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
+xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
