@@ -15,7 +15,6 @@ web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
-cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
@@ -28,6 +27,7 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -260,13 +260,12 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
@@ -313,7 +312,6 @@ breathelicense.com
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
-cameesse.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.lumupu.xyz
@@ -442,7 +440,6 @@ potsaglu.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
-pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
@@ -532,4 +529,3 @@ zikroarg.com
 zumdivdwug.com
 ping.kitidi.com
 sync2ad.com
-vizu.com
