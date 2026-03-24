@@ -1,4 +1,3 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -119,8 +118,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -170,7 +167,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -257,9 +253,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -277,7 +270,6 @@ ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
-m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
@@ -358,7 +350,6 @@ friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
-galaxien.com
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -412,6 +403,7 @@ mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
 mutcheng.net
+mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
@@ -456,7 +448,6 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 renderstreamshuttleanalytics.net
 routeserve.info
 ru-traffic.com
