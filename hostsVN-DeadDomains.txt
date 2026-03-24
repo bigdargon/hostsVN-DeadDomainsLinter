@@ -19,7 +19,6 @@ collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
 my-ssl.effectivemeasure.net
-s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
@@ -58,12 +57,11 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
+gop1.co
 img.gop1.co
 in1.gop1.co
 log.gop1.co
@@ -196,6 +194,7 @@ wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -264,6 +263,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -324,7 +324,6 @@ cmdpeufwwou.com
 colonserve.com
 creafi.com
 csyxnkhvueuh.com
-dalysh.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
@@ -394,8 +393,6 @@ mattockpackall.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
-misqimohlpk.com
-mkejunomqar.com
 mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
@@ -425,7 +422,6 @@ orlotalers.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
-othabqmag.com
 outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
@@ -519,7 +515,6 @@ xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
-yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
