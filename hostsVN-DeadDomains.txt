@@ -64,7 +64,6 @@ cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
-gop1.co
 img.gop1.co
 in1.gop1.co
 log.gop1.co
@@ -197,7 +196,6 @@ wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -248,7 +246,6 @@ kabbmedia.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -270,6 +267,7 @@ ttus.tructiepbongda.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
+m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
@@ -285,7 +283,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-advantagesclotblend.com
 adwitserver.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -326,8 +323,8 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
+dalysh.com
 deckdistant.com
 detachmentoccasionedarena.com
 disrespectpreceding.com
@@ -397,6 +394,8 @@ mattockpackall.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
+misqimohlpk.com
+mkejunomqar.com
 mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
@@ -426,6 +425,7 @@ orlotalers.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
+othabqmag.com
 outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
