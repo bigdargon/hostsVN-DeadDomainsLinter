@@ -15,6 +15,7 @@ web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
+cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
@@ -39,6 +40,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1015.online
@@ -57,6 +59,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -166,6 +170,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -248,7 +253,6 @@ matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
-mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -257,6 +261,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -287,6 +292,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+adtoqbuejunef.com
 advantagesclotblend.com
 adwitserver.com
 afrjhanwosa.com
@@ -327,6 +333,8 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
+creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -350,6 +358,7 @@ friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
+galaxien.com
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -403,7 +412,6 @@ mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
 mutcheng.net
-mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
@@ -479,6 +487,7 @@ t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
+templatein13.net
 terra8nb.com
 thripelbertie.website
 timohtazxazej.website
@@ -488,7 +497,6 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 untidyquestion.com
-upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
@@ -503,7 +511,6 @@ wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
 wiwqhootrf.com
-wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
