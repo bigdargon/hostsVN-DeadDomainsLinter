@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 advertica-cdn.com
@@ -32,7 +26,6 @@ zcoup.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
-static.adthor.com
 v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -289,6 +282,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -328,7 +322,6 @@ clickblitzo.xyz
 clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
-colonserve.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -463,7 +456,6 @@ shaughixefooz.net
 shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
-snowdayonline.xyz
 soccercadencefridge.com
 sotchoum.com
 soumehoo.net
