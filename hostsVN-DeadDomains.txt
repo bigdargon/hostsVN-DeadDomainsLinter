@@ -49,6 +49,7 @@ aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
@@ -70,6 +71,7 @@ log.gop1.co
 offer.gop1.co
 fadsimz.com
 fadskiz.com
+gadsabs.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -167,8 +169,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
-network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -183,8 +183,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -453,6 +451,7 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
+renderstreamshuttleanalytics.net
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
