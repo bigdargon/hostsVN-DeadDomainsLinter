@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -19,6 +21,7 @@ collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
 effectivemeasure.net
 my-ssl.effectivemeasure.net
+s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
 t.effectivemeasure.net
 api.zcoup.com
@@ -46,7 +49,6 @@ aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
-aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
@@ -68,7 +70,6 @@ log.gop1.co
 offer.gop1.co
 fadsimz.com
 fadskiz.com
-gadsabs.com
 gadskis.com
 madsecz.com
 advinci.net
@@ -134,6 +135,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -164,6 +166,10 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.fun
+network.adclickmedia.com
+tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -214,6 +220,8 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
@@ -250,7 +258,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -277,6 +284,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 11ssq.com
 1fkx796mw.com
 1slms.com
+540creative.net
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -284,6 +292,7 @@ ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 ahlcujguphr.com
@@ -322,7 +331,6 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -373,6 +381,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+ketchapp.org
 kiynew.com
 koindut.com
 ksvjmvrjjo.com
@@ -444,7 +453,6 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
-renderstreamshuttleanalytics.net
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
@@ -503,6 +511,7 @@ wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wr.amigojimbang.com
+www.ketchapp.org
 www.pro-ads.club
 www.routeserve.info
 www.servsave.com
