@@ -1,10 +1,3 @@
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -33,10 +26,10 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-aj1015.online
 aj1090.online
 aj1549.online
 aj1754.online
@@ -52,6 +45,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+brand.ad
+a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -115,6 +111,10 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -168,6 +168,11 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
+adn2.adclerks.com
+cdn.adclerks.com
+static.adclerks.com
+www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -225,6 +230,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
+k8s2.testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -297,10 +303,8 @@ cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
-chipmanksmochus.com
 chitika.net
 citronsstealed.website
-clenchedyouthmatching.com
 clickblitzo.xyz
 clmcom.com
 clodderpickmaw.com
@@ -315,6 +319,7 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
+erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
@@ -371,6 +376,7 @@ lumupu.xyz
 lyssapebble.com
 mafrarc3e9h.com
 makafdsugxco.com
+maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
@@ -429,11 +435,11 @@ railingperformance.com
 railwayrainstorm.com
 rankingchart.de
 renderstreamshuttleanalytics.net
+rounddescribe.com
 routeserve.info
 ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
-septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
@@ -467,6 +473,7 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 untidyquestion.com
+upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
