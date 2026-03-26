@@ -19,13 +19,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -261,6 +254,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1slms.com
 540creative.net
 addresseepaper.com
+adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
@@ -284,7 +278,6 @@ bahmemohod.com
 beabsolom.com
 blueswordksh.com
 bmycupptafr.com
-boilhumoristpacifist.com
 bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
@@ -454,7 +447,6 @@ swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
-synonymdetected.com
 t.easyads28.mobi
 t.lumupu.xyz
 taqavmaplont.com
@@ -503,7 +495,6 @@ xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
-yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
 zikroarg.com
