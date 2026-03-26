@@ -27,7 +27,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -45,9 +44,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -146,7 +142,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -230,7 +225,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
-k8s2.testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -267,11 +261,11 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1slms.com
 540creative.net
 addresseepaper.com
-adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -290,6 +284,7 @@ bahmemohod.com
 beabsolom.com
 blueswordksh.com
 bmycupptafr.com
+boilhumoristpacifist.com
 bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
@@ -328,11 +323,13 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
+findcommerce.com
 forspearowor.com
 friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
+galaxien.com
 gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
