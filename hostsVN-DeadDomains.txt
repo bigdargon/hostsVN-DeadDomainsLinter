@@ -90,8 +90,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -173,8 +171,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-delivery.taroads.com
-taroads.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -186,6 +182,7 @@ loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -265,7 +262,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
-540creative.net
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -290,6 +286,7 @@ bahmemohod.com
 beabsolom.com
 blueswordksh.com
 bmycupptafr.com
+bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
@@ -362,7 +359,6 @@ jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
-kamwaflmoacd.com
 kdm8.com
 ketchapp.org
 kiynew.com
@@ -396,6 +392,7 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
+nd.prosilyingles.cyou
 negyuk.com
 nessainy.net
 nicksstevmark.com
