@@ -47,6 +47,7 @@ gop1.co
 img.gop1.co
 in1.gop1.co
 log.gop1.co
+offer.gop1.co
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -185,7 +186,6 @@ loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -195,7 +195,6 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
-ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -273,7 +272,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -292,7 +290,6 @@ bahmemohod.com
 beabsolom.com
 blueswordksh.com
 bmycupptafr.com
-bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
@@ -346,6 +343,7 @@ gkemujoccwin.com
 gketcakpeh.com
 gloarteegnu.com
 gnenuelnn.com
+go1.for3e.com
 gocxnnxiy.com
 gq.binesyorker.com
 graizoah.com
@@ -398,7 +396,6 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
-nd.prosilyingles.cyou
 negyuk.com
 nessainy.net
 nicksstevmark.com
