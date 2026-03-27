@@ -4,6 +4,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
+effectivemeasure.net
 my-ssl.effectivemeasure.net
 s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
@@ -46,7 +47,6 @@ gop1.co
 img.gop1.co
 in1.gop1.co
 log.gop1.co
-offer.gop1.co
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -132,6 +132,7 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
+cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -185,6 +186,7 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
@@ -193,6 +195,7 @@ ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv664.me
+ads.livetv670.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -411,6 +414,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 oranegfodnd.com
 orb92.com
+orlotalers.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
