@@ -4,7 +4,6 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
-effectivemeasure.net
 my-ssl.effectivemeasure.net
 s.effectivemeasure.net
 sg-ssl.effectivemeasure.net
@@ -37,6 +36,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+disp.djaxadserver.com
+premium-adserver.djaxadserver.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -76,10 +77,20 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -121,7 +132,6 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -161,6 +171,8 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
+delivery.taroads.com
+taroads.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -173,7 +185,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
@@ -221,6 +232,7 @@ kabbmedia.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -258,6 +270,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advantagesclotblend.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -311,6 +324,7 @@ estat.com
 ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
+extracthorizontaldashing.com
 facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
@@ -331,6 +345,7 @@ gloarteegnu.com
 gnenuelnn.com
 gocxnnxiy.com
 gq.binesyorker.com
+graizoah.com
 hccxwfunnpxngz.com
 hwoqshyx.com
 ichachoakiglop.com
@@ -339,6 +354,7 @@ ileeckut.com
 impressiondesk.com
 inspirationstarednope.com
 institutehopelessbeck.com
+intorterraon.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
@@ -346,6 +362,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 koindut.com
@@ -394,7 +411,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 oranegfodnd.com
 orb92.com
-orlotalers.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -420,6 +436,7 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
@@ -450,6 +467,7 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
+thaudray.com
 thripelbertie.website
 timohtazxazej.website
 toqdizbfp.com
@@ -467,6 +485,7 @@ vtacibqzopiw.com
 vteskyombq.com
 wabjcepuqmi.com
 waisheph.com
+waufooke.com
 waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
@@ -494,6 +513,7 @@ yiopse.com
 yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
+zeekaihu.net
 zikroarg.com
 zumdivdwug.com
 ping.kitidi.com
