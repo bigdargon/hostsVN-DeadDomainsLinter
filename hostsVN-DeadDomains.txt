@@ -30,13 +30,11 @@ aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
-aj2503.online
 ajxx91.online
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -72,7 +70,6 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -172,11 +169,13 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
+advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
 wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -189,6 +188,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -233,9 +233,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -265,7 +262,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 addresseepaper.com
 adgardener.com
-ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -330,7 +326,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 forspearowor.com
-friendshipmale.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
@@ -365,7 +360,6 @@ jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
 ketchapp.org
-kiynew.com
 koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
@@ -445,6 +439,7 @@ ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 servsave.com
+sfiannzilgi.com
 shaughixefooz.net
 shoordaird.com
 singletplatformgleamenterprises.com
@@ -517,5 +512,6 @@ zd.midbodyritz.shop
 zeekaihu.net
 zikroarg.com
 zumdivdwug.com
+bjdxhs.com
 ping.kitidi.com
 sync2ad.com
