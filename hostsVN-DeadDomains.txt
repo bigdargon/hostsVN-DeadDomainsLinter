@@ -1,5 +1,4 @@
 blueserving.com
-www.advertica.ae
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -17,6 +16,7 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 api.adthor.com
+image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -96,6 +96,7 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
+rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -490,6 +491,7 @@ upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
+vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
 wabjcepuqmi.com
