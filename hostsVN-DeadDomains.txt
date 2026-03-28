@@ -1,3 +1,5 @@
+blueserving.com
+www.advertica.ae
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -15,7 +17,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 api.adthor.com
-image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -39,6 +40,8 @@ aj2503.online
 ajxx91.online
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
+n.popclck.org
+st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -73,6 +76,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -91,7 +96,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
-rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -158,6 +162,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -201,7 +207,6 @@ ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -236,6 +241,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -262,6 +270,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
+540creative.net
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -275,6 +284,7 @@ afrxixlnj.com
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
+alwingulla.com
 amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
@@ -290,6 +300,7 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
+bulrev.com
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -306,6 +317,7 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
+creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -359,7 +371,7 @@ jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
-kdm8.com
+kamwaflmoacd.com
 ketchapp.org
 kiynew.com
 koindut.com
@@ -478,7 +490,6 @@ upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
-vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
 wabjcepuqmi.com
@@ -503,6 +514,7 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
+xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
