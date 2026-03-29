@@ -109,7 +109,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -187,7 +186,6 @@ www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
-wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -197,6 +195,7 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
@@ -229,8 +228,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -262,6 +259,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -281,7 +279,6 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
-adtoqbuejunef.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -326,6 +323,7 @@ colonserve.com
 creafi.com
 csyxnkhvueuh.com
 deckdistant.com
+detachmentoccasionedarena.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
@@ -491,6 +489,7 @@ tutgcinarlak.com
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
+v6rxv5coo5.com
 vebo-vast.pages.dev
 vncnu.com
 vr.ringentkenlore.com
@@ -529,8 +528,10 @@ yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
 zeekaihu.net
+zijaipse.com
 zikroarg.com
 zumdivdwug.com
+bjdxhs.com
 ping.kitidi.com
 sync2ad.com
 vizu.com
