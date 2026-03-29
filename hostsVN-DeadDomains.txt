@@ -77,7 +77,6 @@ go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
-m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
@@ -117,11 +116,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -145,7 +139,6 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
-stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -154,7 +147,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
-asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -178,14 +170,10 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
+wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -194,9 +182,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -259,7 +244,6 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
-tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -279,6 +263,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+adtoqbuejunef.com
 adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -306,7 +291,6 @@ bulrev.com
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
-cameesse.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.lumupu.xyz
@@ -364,7 +348,6 @@ hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
 ileeckut.com
-impressiondesk.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
@@ -489,7 +472,6 @@ tutgcinarlak.com
 untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
-v6rxv5coo5.com
 vebo-vast.pages.dev
 vncnu.com
 vr.ringentkenlore.com
@@ -518,7 +500,6 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
-xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
@@ -528,10 +509,8 @@ yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
 zeekaihu.net
-zijaipse.com
 zikroarg.com
 zumdivdwug.com
-bjdxhs.com
 ping.kitidi.com
 sync2ad.com
 vizu.com
