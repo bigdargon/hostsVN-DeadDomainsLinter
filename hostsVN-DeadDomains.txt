@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -14,7 +16,15 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 beacon.statful.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -30,6 +40,7 @@ aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
+aj2503.online
 ajxx91.online
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
@@ -70,6 +81,7 @@ m.mstorer.net
 mstorer.net
 p.zetadeo.com
 zetadeo.com
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -97,6 +109,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -140,7 +153,9 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
 int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -182,7 +197,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
@@ -196,9 +210,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv782.me
 ads.livetv785.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -217,6 +229,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -243,6 +257,8 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
@@ -262,6 +278,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 addresseepaper.com
 adgardener.com
+ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -292,6 +309,7 @@ bulrev.com
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
+cameesse.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.lumupu.xyz
@@ -308,7 +326,6 @@ colonserve.com
 creafi.com
 csyxnkhvueuh.com
 deckdistant.com
-detachmentoccasionedarena.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
@@ -344,6 +361,7 @@ gocxnnxiy.com
 gq.binesyorker.com
 graizoah.com
 hccxwfunnpxngz.com
+hixwwert.in
 hwoqshyx.com
 ichachoakiglop.com
 identinsp.pro
@@ -360,6 +378,7 @@ jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
 ketchapp.org
+kiynew.com
 koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
@@ -435,7 +454,6 @@ rankingscout.com
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
-ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 servsave.com
@@ -487,6 +505,7 @@ wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
 wiwqhootrf.com
+wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
@@ -512,6 +531,6 @@ zd.midbodyritz.shop
 zeekaihu.net
 zikroarg.com
 zumdivdwug.com
-bjdxhs.com
 ping.kitidi.com
 sync2ad.com
+vizu.com
