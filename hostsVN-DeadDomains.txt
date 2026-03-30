@@ -1,5 +1,12 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
+stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
 detect-survey.effectivemeasure.net
@@ -29,7 +36,6 @@ aj1549.online
 aj1754.online
 aj1855.online
 aj1863.online
-aj2142.online
 aj2218.online
 aj2274.online
 aj2307.online
@@ -76,8 +82,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -146,7 +150,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
 ak.hetaruwg.com
-hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -155,6 +158,7 @@ ak.ongastlya.com
 ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
+sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -218,6 +222,8 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -227,6 +233,7 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -265,6 +272,7 @@ adwitserver.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
+afzotfwramzy.in
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
@@ -290,11 +298,11 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
-cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 chaipoksore.com
+chitika.net
 citronsstealed.website
 clickblitzo.xyz
 clmcom.com
@@ -308,7 +316,6 @@ detachmentoccasionedarena.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
-e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 erpqkcfvsjjyap.com
@@ -355,6 +362,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 koindut.com
@@ -396,7 +404,7 @@ novemberseatsuccession.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
-ofleafeona.com
+oblolrvce.in
 ogpriuleifns.com
 ojwoqdpiwdt.com
 oljqobudyusf.com
@@ -441,6 +449,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
 soccercadencefridge.com
+solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -480,6 +489,7 @@ waufooke.com
 waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
+wgtyvqbfkxg.com
 whairtoa.com
 wiwqhootrf.com
 wmllfxjjnjq.com
@@ -496,11 +506,13 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
+xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
+yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
 zd.midbodyritz.shop
