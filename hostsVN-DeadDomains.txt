@@ -5,6 +5,7 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
+static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
@@ -98,7 +99,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -126,9 +126,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-bc.mobisage.cn
-mobisage.cn
-www.mobisage.cn
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -251,7 +248,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -266,6 +262,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -293,15 +290,19 @@ afzotfwramzy.in
 ahlcujguphr.com
 aiqowflpg.com
 airdropcassino.cfd
+allaqxoh.com
 alwingulla.com
 amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
 ashoupsu.com
+asslfeqadv.com
+atrmkoopdlhu.com
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
+batomqsmoocc.com
 beabsolom.com
 blueswordksh.com
 bmycupptafr.com
@@ -314,6 +315,7 @@ butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
+cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.lumupu.xyz
@@ -335,6 +337,7 @@ detachmentoccasionedarena.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
+ecpms.net
 effacedefend.com
 efficientdescent.com
 erpqkcfvsjjyap.com
@@ -380,6 +383,7 @@ ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
+jwuoxhjuq.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
@@ -387,6 +391,7 @@ ketchapp.org
 kiynew.com
 koindut.com
 ksvjmvrjjo.com
+kuqfudazkn.com
 leafy-feel.com
 lfeorrzkua.com
 lfvvhemghapw.com
@@ -402,11 +407,13 @@ maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+mawptuaz.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
 mountaindriftevolutiontechnologies.net
 movie-pass.live
+mrycibqutoz.com
 mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
@@ -420,10 +427,12 @@ nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
 novemberseatsuccession.com
+nuckinxuco.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 obdshyohcog.com
 oblolrvce.in
+obnoljac.com
 ofleafeona.com
 ogpriuleifns.com
 ojwoqdpiwdt.com
@@ -435,6 +444,7 @@ orlotalers.com
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
+othabqmag.com
 outloginequity.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
@@ -454,6 +464,7 @@ pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
 qs251.com
+qujzruvf.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
@@ -467,6 +478,7 @@ scripte-monster.de
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
+sheltermilligrammillions.com
 shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
@@ -501,6 +513,7 @@ untidyquestion.com
 upr90.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
+vivvuvkra.com
 vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
@@ -512,7 +525,7 @@ waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
-whairtoa.com
+wijwunrcoo.com
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
