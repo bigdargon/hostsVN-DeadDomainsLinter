@@ -5,7 +5,6 @@ cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
 ads.2mdnsys.com
-static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 collector.effectivemeasure.net
@@ -127,6 +126,8 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+bc.mobisage.cn
+mobisage.cn
 www.mobisage.cn
 adsterra.org
 delivery.adsterra.org
@@ -161,11 +162,11 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -213,9 +214,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
-ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -241,12 +239,10 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -391,7 +387,6 @@ ketchapp.org
 kiynew.com
 koindut.com
 ksvjmvrjjo.com
-kuqfudazkn.com
 leafy-feel.com
 lfeorrzkua.com
 lfvvhemghapw.com
@@ -463,7 +458,6 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
