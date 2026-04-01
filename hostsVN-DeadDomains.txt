@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -58,9 +52,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 m.optvx.com
-main.optvx.com
 optvx.com
-s.optvx.com
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -175,8 +167,6 @@ adn2.adclerks.com
 cdn.adclerks.com
 static.adclerks.com
 www.adclerks.com
-delivery.taroads.com
-taroads.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -464,6 +454,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
 soccercadencefridge.com
+solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -478,7 +469,6 @@ syndetstermine.com
 t.easyads28.mobi
 t.lumupu.xyz
 taqavmaplont.com
-taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com

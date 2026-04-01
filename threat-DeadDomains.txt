@@ -357,6 +357,7 @@ com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
 com.vn-rn.biz
+com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
 com.vn-uz.info
@@ -380,7 +381,6 @@ continue.dasboard593-account.com
 continue.dasboard597-account.com
 continue.dasboard914-account.com
 continue.dasboard934-account.com
-continue.dasboard935-account.com
 continue.dasboard945-account.com
 continue.dasboard965-account.com
 continue.dasboard966-account.com
@@ -726,7 +726,6 @@ fullofactivishop.com
 fussboden-elsenhans.de
 fvpvietnam.com
 fxshopeevip99.com
-gaerena.vn
 gameover-shop.de
 gameshopvn.com
 gameshopvn.net
@@ -916,7 +915,6 @@ hocsinh-vn-edu.online
 hocsinhthanhlich.com
 hocsinhthanhlich2020.info
 hocsinhthanhlich2021.online
-hocsinhthanhlich21.xyz
 hoiquanlq.vn
 homecredit1.com
 homecreditvn.net
@@ -990,6 +988,9 @@ icloudvi.com
 idmfullcrack.info
 idnhanquatang.vn
 iesandb.cfd
+igoda.shop
+ihgatms.cfd
+iisacombank.com
 ilsacombank.com
 imperial-oil.ca
 indush.cfd
@@ -1091,7 +1092,6 @@ kiemtien2017.com
 kiemtien24h.vn
 kiemtien4u.com
 kiemtien656.work
-kiemtienaff.com
 kiemtienantoan.info
 kiemtiencv19.pw
 kiemtiendinhcao.net
@@ -1377,6 +1377,7 @@ membershipsvn.com
 membeshipgarena.com
 membeshipp-garenavn.com
 memmberzship.com
+menbershipps-ffvn.com
 menberships-ff-garrena.com
 menhichs.cfd
 meokiemtien.online
@@ -1821,7 +1822,6 @@ payon-rutienmat5.com
 payon-ruttiennhanh5.com
 paypquan.vip
 personals-pc-app.com
-petrovietnam.pro
 petrovietnam.top
 pgbank.info
 phanmem333.com
@@ -2172,8 +2172,6 @@ shopcuadailodanhvong.com
 shopcuade.com
 shopcuadlugaming.com
 shopcuahungff.com
-shopcuahuybom.com
-shopcuaminhchill.vn
 shopcuamon.com
 shopcuchuoi.online
 shopdangym.net
@@ -2381,6 +2379,7 @@ shopne886.com
 shopne988.com
 shopnhanff.com
 shopnhanqua.com
+shopnhanthuong.com
 shopnickninjaschool.com
 shopninjaschool.com
 shopntn03.com
@@ -2535,7 +2534,6 @@ sputrey567rik.cfd
 sql.onlyslq.lol
 sso-garena.vn
 sso-hotro-taikhoan.com
-standardresourcebank.com
 starbucksthai.shop
 stbuyshopoui.com
 stcard-vib.com
@@ -2909,6 +2907,7 @@ tomo5933.vip
 tomo5963.vip
 tongdaifacebook.online
 tongdaitruyenhinhcap.info
+tongdaitruyenhinhcap24h.online
 topdienthoaia72.com
 topmomo.me
 topmomo.net
@@ -3196,7 +3195,6 @@ vaytientinchap-vn.site
 vaytienvietcombank.com.vn
 vaytienvpbank.com
 vaytieudung-shinhan.com
-vaytieudung-vietinbank.com
 vaytieudungtinchaptpbank.com
 vaytieudungvpcredit.com
 vaytinchap-nganhangvcb247.com
@@ -3227,6 +3225,7 @@ vayvon-sacombank.cf
 vayvon-shinhanbank-24h.com
 vayvon-techcombank.biz
 vayvoncgcredit.com
+vayvonlotte.online
 vayvonnganhang-techcombank24h.online
 vayvonnganhangvn.online
 vayvonnhanh.click
@@ -3758,8 +3757,8 @@ vpbank.vn-cr.life
 vpbank.vn-sp.xyz
 vpbban.com
 vpbbank.com
-vpbsvn.com
 vps8449vn.com
+vrichshop.com
 vssid.govvvn.com
 vssid.svgov.cc
 vssidgov.com
@@ -3958,7 +3957,6 @@ yeumomo.me
 yk37wagdg.life
 yl0sj9.cyou
 ymx33.com
-yonmewon.com
 yunduofei.xyz
 zSmhlV.zgbv.tech
 zalo-web.me
