@@ -23,7 +23,6 @@ ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
-yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
 static.cbsileads.com
@@ -44,16 +43,11 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -65,6 +59,7 @@ offer.gop1.co
 fadsimz.com
 fadskiz.com
 gadsabs.com
+gadskis.com
 madsecz.com
 advinci.net
 count.advinci.net
@@ -155,7 +150,10 @@ truepush.com
 www.truepush.com
 b91vip.com
 image.b91vip.com
+www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -179,6 +177,13 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
+adn2.adclerks.com
+cdn.adclerks.com
+static.adclerks.com
+www.adclerks.com
+delivery.taroads.com
+taroads.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -191,6 +196,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -203,6 +211,10 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+amntx1.net
+media.amntx1.net
+srv.amntx1.net
+track.amntx1.net
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -221,6 +233,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -241,6 +255,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
+platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -251,6 +266,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -337,7 +353,6 @@ foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
 g0push.com
-gaseousgeneral.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -370,6 +385,8 @@ kamwaflmoacd.com
 kdm8.com
 ketchapp.org
 kiynew.com
+kneeansweras.com
+koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -461,6 +478,7 @@ soumehoo.net
 specially4u.net
 spywarenuker.com
 stay.decentralappps.com
+stelinnhy.in
 sumbreta.com
 swmswjvdpc.com
 swuojrovqf.com
@@ -497,6 +515,7 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
@@ -521,7 +540,6 @@ yiopse.com
 yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
-zd.midbodyritz.shop
 zeekaihu.net
 zikroarg.com
 zumdivdwug.com
