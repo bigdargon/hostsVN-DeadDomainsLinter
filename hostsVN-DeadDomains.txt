@@ -7,13 +7,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -52,7 +45,9 @@ advinci.net
 count.advinci.net
 www.advinci.net
 m.optvx.com
+main.optvx.com
 optvx.com
+s.optvx.com
 ads.adservme.com
 dsp.adservme.com
 filter.adservme.com
@@ -318,6 +313,7 @@ detachmentoccasionedarena.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
+e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 erpqkcfvsjjyap.com
@@ -382,7 +378,6 @@ lumupu.xyz
 lyssapebble.com
 mafrarc3e9h.com
 makafdsugxco.com
-maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
@@ -469,6 +464,7 @@ syndetstermine.com
 t.easyads28.mobi
 t.lumupu.xyz
 taqavmaplont.com
+taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
