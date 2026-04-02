@@ -7,6 +7,15 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -28,6 +37,9 @@ aj2503.online
 ajxx91.online
 disp.djaxadserver.com
 premium-adserver.djaxadserver.com
+brand.ad
+a.brand.ad
+www.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -134,8 +146,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 asgdfasad.mm-cgnews.com
-ak.hetaruwg.com
-hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -211,14 +221,11 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
-track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
@@ -256,6 +263,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
+1slms.com
 540creative.net
 addresseepaper.com
 adgardener.com
@@ -307,9 +315,11 @@ clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
+creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
+devpeakomegainnovations.com
 disrespectpreceding.com
 dooloust.net
 dulrihaungy.com
@@ -317,7 +327,6 @@ e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 erpqkcfvsjjyap.com
-espionagegardenerthicket.com
 estat.com
 ewhareey.com
 existencethrough.com
@@ -378,6 +387,7 @@ lumupu.xyz
 lyssapebble.com
 mafrarc3e9h.com
 makafdsugxco.com
+maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
@@ -425,6 +435,7 @@ physicalblueberry.com
 playsdonkey.com
 pokreess.com
 potsaglu.net
+primetime.net
 pro-ads.club
 psoroumukr.com
 ptawehex.net
@@ -437,11 +448,13 @@ qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
 rankingchart.de
+refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
 ruwjkygaxo.com
 scripte-monster.de
+septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
@@ -484,7 +497,6 @@ vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
-wabjcepuqmi.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
