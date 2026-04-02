@@ -16,6 +16,7 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -71,7 +72,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -248,6 +248,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 540creative.net
+adaction.de
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -293,7 +294,6 @@ chaipoksore.com
 chitika.net
 citronsstealed.website
 clenchedyouthmatching.com
-clickblitzo.xyz
 clmcom.com
 clodderpickmaw.com
 cmdpeufwwou.com
@@ -488,6 +488,7 @@ websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+witch-counter.de
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
