@@ -140,6 +140,7 @@ ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
+ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -187,10 +188,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv782.me
-ads.livetv785.me
-ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -212,7 +209,6 @@ qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
-www.klick.vn
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -237,7 +233,6 @@ analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -358,14 +353,13 @@ graizoah.com
 hccxwfunnpxngz.com
 hixwwert.in
 hwoqshyx.com
-identinsp.pro
+ichachoakiglop.com
 ileeckut.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
-ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
@@ -402,7 +396,6 @@ movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
-mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -450,6 +443,7 @@ pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+qs251.com
 qzeavzrfaoqn.com
 railingperformance.com
 railwayrainstorm.com
