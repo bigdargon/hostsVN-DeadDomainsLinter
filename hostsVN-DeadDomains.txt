@@ -42,6 +42,7 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
@@ -195,6 +196,7 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
+dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
@@ -436,7 +438,6 @@ nycvqozkkmzti.com
 oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
-odnvkuocmow.in
 ofleafeona.com
 ogpriuleifns.com
 ojwoqdpiwdt.com
