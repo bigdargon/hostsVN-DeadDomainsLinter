@@ -1,3 +1,10 @@
+blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -14,6 +21,18 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -23,6 +42,9 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -107,6 +129,7 @@ click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
+stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
@@ -172,7 +195,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
-dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
@@ -221,6 +243,7 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -341,6 +364,7 @@ giggedguddle.com
 gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
+glersakr.com
 gloaphoo.net
 gloarteegnu.com
 gnenuelnn.com
@@ -366,7 +390,6 @@ jewgn8une.com
 jhukfaosdjfa.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -406,12 +429,14 @@ negyuk.com
 nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
+nossairt.net
 novemberseatsuccession.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
+odnvkuocmow.in
 ofleafeona.com
 ogpriuleifns.com
 ojwoqdpiwdt.com
@@ -426,6 +451,7 @@ orylhull.com
 orywrjsf.com
 osknimkihvr.com
 outloginequity.com
+outrotomr.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -492,6 +518,8 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
+u1pmt.com
+ugroocuw.net
 untidyquestion.com
 usheebainaut.com
 uz.louchefunnel.shop
@@ -536,5 +564,6 @@ zeekaihu.net
 zikroarg.com
 zireemilsoude.net
 zumdivdwug.com
+zunsoach.com
 ping.kitidi.com
 sync2ad.com
