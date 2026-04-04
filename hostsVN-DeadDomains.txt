@@ -42,10 +42,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -290,6 +286,7 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
+ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
@@ -468,7 +465,6 @@ pro-ads.club
 psoroumukr.com
 ptakeemsaifegro.net
 ptawehex.net
-pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
