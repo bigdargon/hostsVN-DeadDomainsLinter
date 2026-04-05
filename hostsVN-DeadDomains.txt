@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -128,8 +126,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -182,8 +178,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
-network.adclickmedia.com
-tracking.adclickmedia.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -467,9 +461,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
-optimost.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orylhull.com
 orywrjsf.com
@@ -579,7 +571,6 @@ xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
 xpihripcao.in
-xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
 yiopse.com
