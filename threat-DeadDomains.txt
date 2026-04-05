@@ -17,6 +17,7 @@
 24-7-vidientu.com
 247-banking.com
 247-bankings.com
+247-napas.com
 247-vidientu.com
 247appbank.com
 247bank-ing.com
@@ -280,7 +281,6 @@ chamsockhachhang-tructuyenuudaithe.online
 chamsockhachhang-uudai-the-truc-tuyen.online
 chamsockhachhang-uudai-tructuyen-thang10.com.vn
 chamsockhachhang-uudai-tructuyenthe.com
-chamsockhachhang-uudaithe-thang6.com
 chamsockhachhang-uudaithecanhan-tructuyen.online
 chamsockhachhang-uudaithetructuyen-thang10.com.vn
 chamsockhachhang-uudaithetructuyen-thang8.online
@@ -397,6 +397,7 @@ cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
 cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
+cskh-vib.nang-han-muc-the-visa.com
 cskhcanhanhd.com
 cskhdienmayxanh.com
 cskhdienmayxanhvn.com
@@ -450,7 +451,6 @@ depandirect.be
 dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
-dg2255.com
 dhl-chuyenphatnhanhquocte.com.vn
 dhl-chuyenphatnhanhquocte.vn
 dhl-vietnam.vn
@@ -494,7 +494,7 @@ dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.snggov.com
 dichvucong.tgovn.cc
-dichvucong.tkgov.com
+dichvucong.thongtindancu.org
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
@@ -784,6 +784,7 @@ getintopc.digital
 ggiao.hangtietkiem.com
 ggzzmm.shop
 ghnn11.com
+ghnn22.com
 ghnn33.com
 ghtk247.com
 giacatloi.info
@@ -869,7 +870,6 @@ hdbankfinance.club
 hdbankfinance.cyou
 hdbankfinance.icu
 hdbankfinance.live
-hdbankfinance.org
 hdbankfinance.shop
 hdbankfinance.space
 hdbankfinance.top
@@ -934,7 +934,6 @@ hotro-taikhoan-garena-lqmb.com
 hotro-vi.net
 hotro-vn.com
 hotro-xacminhtaikhoan-garena-vn.com
-hotro.asia
 hotro.autos
 hotro0nline28.com
 hotrochatluongchuyennghieptoanquoc.click
@@ -1076,6 +1075,7 @@ khoaviphamtaikhoan.com
 khohangdocvip.net
 khoi-khach-hang-ca-nhan-uu-tien-vni.com
 khoi-khach-hang-ca-nhan-vni-diamon.com
+khonapgame.com
 khovang.click
 khuyenmaifreefirex5.com
 khuyenmaii2023.site
@@ -1188,7 +1188,6 @@ lazadamallc.com
 lazadamallz.com
 lazadao13.com
 lazadao14.com
-lazadaord.com
 lazadap14.com
 lazadap15.com
 lazadasds.top
@@ -1224,6 +1223,7 @@ lienquan-member.vn
 lienquan-sukien-garena.vn
 lienquan-sukienqua.com
 lienquan-vgarena.vn
+lienquan-vuihe2021.com
 lienquan.co
 lienquan.garena-vi.ga
 lienquan.garena-vn.store
@@ -1539,7 +1539,6 @@ mxn191102201nm.click
 mxn191102202nm.click
 mxn191102203nm.click
 mxn191102205nm.click
-mxp00338.com
 my-acb-bank.com
 mydiamon-han-muc-ca-nhan-vni.com
 mylotte.me
@@ -1575,6 +1574,7 @@ nap-the.vn
 napallgame.com
 napasvidientu247.com
 napblockmango.com
+napcardplaytogethervn.com
 napchinhthuc.com
 napdaquy.com
 napdaquygame.com
@@ -1713,7 +1713,6 @@ ngandong.com
 nganhang-shinhanvietnam.com
 nganhang-vpbank.com
 nganhang88.online
-nganhang88.store
 nganhanganbinh.com
 nganhangbidv.com
 nganhangsaigon.org
@@ -2362,7 +2361,6 @@ shopmall68.com
 shopmanhcf365.com
 shopmanhcfm.com
 shopmobaviet.net
-shopmsuong.net
 shopmsuong.shop
 shopnagaymeff.com
 shopnamciu.vn
@@ -3058,6 +3056,7 @@ undimangen.cfd
 unixpop.xyz
 upliftrenewables.cc
 upmiles-vpbank.com
+upta16theu.cfd
 uptomscan.cfd
 us.unixpop.xyz
 usdtrating.top
@@ -3073,13 +3072,10 @@ uudainapthe.vn
 uudainganhang.com
 uudainganhangso.site
 uudauthekhachhanh-tructuyen-thang10.com.vn
-uyban.club
-v.vl404.cn
 v2s4ku8b.com
 vang11.com
 vang22.com
 vang888.com
-vang999.com
 vangngocnhanh.info
 vangngocrong.com
 vanmay.co
@@ -3389,7 +3385,6 @@ vietgov22.cc
 vietgov3.cc
 vietgov4.cc
 vietgov5.cc
-vietgov6.cc
 vieticombank.com
 vietiebink.com
 vietimbank.top
@@ -3489,7 +3484,6 @@ vinideal-sale.pro
 vinpearl1.vingroupsny.com
 vip-dien-mayxanh.com
 vip-dienmayxanh.com
-vip.jaccsvn.com
 vip.tpbank84.com
 vip1-droppii.com
 vip8591.net
@@ -3848,7 +3842,6 @@ westgarybank.com
 wetrayn.top
 wietcombank.com
 winmomo.com
-wkkug.vcbnw.de
 wmail-blog.xyz
 wmail-chat.xyz
 woorivn.online
@@ -3918,6 +3911,7 @@ www.thanhtrapcrt.online
 www.tinchapshinhan.online
 www.tpbank84.com
 www.vcbdigeibonk.com
+www.vcbigdank.com
 www.vib84.com
 www.vibvay.com
 www.vibvayvn.com
