@@ -33,6 +33,7 @@ clk.kau.li
 js.kau.li
 pixel.kau.li
 rtb.kau.li
+s.kau.li
 y.kau.li
 all.dspmulti.com
 dspmulti.com
@@ -119,7 +120,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
@@ -204,7 +204,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -539,7 +538,6 @@ wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
-wr.amigojimbang.com
 www.ketchapp.org
 www.pro-ads.club
 www.routeserve.info
