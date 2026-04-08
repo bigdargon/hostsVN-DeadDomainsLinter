@@ -57,7 +57,6 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -91,6 +90,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -104,6 +105,8 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -123,6 +126,11 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -153,6 +161,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
+asgdfasad.mm-cgnews.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -174,6 +183,11 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
+adn2.adclerks.com
+cdn.adclerks.com
+static.adclerks.com
+www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -186,6 +200,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -198,6 +215,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv787.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -232,7 +250,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
@@ -263,6 +280,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 540creative.net
+abvfupqkyaj.in
 addresseepaper.com
 adgardener.com
 ads.cdn2-img.net
@@ -289,7 +307,6 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 beabsolom.com
-blackbrake.com
 blueswordksh.com
 bmycupptafr.com
 boobausauhipsa.net
@@ -309,6 +326,7 @@ cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
+childhoodstudioconversation.com
 chipmanksmochus.com
 chitika.net
 citronsstealed.website
@@ -339,7 +357,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -437,7 +454,6 @@ oranegfodnd.com
 orlotalers.com
 orylhull.com
 orywrjsf.com
-osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
@@ -515,7 +531,6 @@ vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
 waisheph.com
-waufooke.com
 waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
@@ -544,6 +559,7 @@ xruamzpanbca.com
 xymhdmqrjxwl.com
 yiopse.com
 yldbt.com
+yoshdeum.com
 yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
