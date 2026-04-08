@@ -77,12 +77,6 @@ m.optvx.com
 main.optvx.com
 optvx.com
 s.optvx.com
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
-static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -183,11 +177,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-www.adclerks.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
 netu.wiztube.xyz
@@ -250,6 +239,7 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
@@ -357,6 +347,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -404,7 +395,6 @@ kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
-lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
@@ -454,6 +444,7 @@ oranegfodnd.com
 orlotalers.com
 orylhull.com
 orywrjsf.com
+osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
@@ -477,7 +468,6 @@ qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
-rankingchart.de
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
@@ -531,6 +521,7 @@ vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
 waisheph.com
+waufooke.com
 waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
