@@ -85,6 +85,7 @@ syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
+ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -156,10 +157,8 @@ click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 advert.wiztube.xyz
 cdn.wiztube.xyz
-netu.wiztube.xyz
 wiztube.xyz
 www.wiztube.xyz
 fp-cdn.azureedge.net
@@ -256,7 +255,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 abvfupqkyaj.in
 addresseepaper.com
 adgardener.com
-ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -381,6 +379,7 @@ leafy-feel.com
 lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
+literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
 lumupu.xyz
@@ -390,7 +389,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -538,7 +536,6 @@ xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
 yiopse.com
-yldbt.com
 yoshdeum.com
 yrhnw7h63.com
 yu225.com
