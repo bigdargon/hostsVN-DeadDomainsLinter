@@ -87,16 +87,13 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -198,7 +195,6 @@ ads.livetv708.me
 ads.livetv765.me
 amntx1.net
 media.amntx1.net
-srv.amntx1.net
 track.amntx1.net
 aj2556.bid
 aj2557.bid
@@ -238,7 +234,6 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
-tags.fly-ads.net
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
@@ -278,6 +273,7 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 alwingulla.com
+amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
 ashoupsu.com
@@ -402,7 +398,6 @@ meandiminutionhit.com
 medusaecaptan.com
 mountaindriftevolutiontechnologies.net
 movie-pass.live
-mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
 mutcheng.net
@@ -459,7 +454,6 @@ qa.shboshbok.com
 qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
-rankingchart.de
 rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
@@ -487,7 +481,6 @@ stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 sumbreta.com
-swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
@@ -525,6 +518,7 @@ waufooke.com
 waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
+wgtyvqbfkxg.com
 whairtoa.com
 witvfaojpzi.in
 wiwqhootrf.com
