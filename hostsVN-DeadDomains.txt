@@ -1,4 +1,10 @@
 blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -6,6 +12,8 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -27,6 +35,16 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -46,6 +64,9 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+brand.ad
+a.brand.ad
+www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -66,7 +87,6 @@ count.advinci.net
 www.advinci.net
 m.optvx.com
 main.optvx.com
-optvx.com
 s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
@@ -78,6 +98,9 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -94,6 +117,8 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -113,6 +138,11 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -151,11 +181,19 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+analytics.truffle.bid
+cdn.truffle.bid
+matching.truffle.bid
+s385.mxcdn.net
+s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+jg.wensixuetang.com
+wensixuetang.com
+www.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -164,6 +202,7 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
 taroads.com
 advert.wiztube.xyz
 cdn.wiztube.xyz
@@ -188,7 +227,6 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
@@ -205,6 +243,7 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+mntzrlt.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -301,6 +340,7 @@ cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
+cgqcuskbtcusxl.com
 chaipoksore.com
 childhoodstudioconversation.com
 chipmanksmochus.com
@@ -406,7 +446,6 @@ mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
-negyuk.com
 nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
@@ -437,6 +476,7 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
+pay-ads.com
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
@@ -508,7 +548,6 @@ tutgcinarlak.com
 u1pmt.com
 ugroocuw.net
 untidyquestion.com
-upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
@@ -526,6 +565,7 @@ whairtoa.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
+wombjingle.com
 wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
@@ -545,6 +585,7 @@ xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
+yldbt.com
 yoshdeum.com
 yrhnw7h63.com
 yu225.com
@@ -558,3 +599,4 @@ zumdivdwug.com
 zunsoach.com
 ping.kitidi.com
 sync2ad.com
+track.hydro.online
