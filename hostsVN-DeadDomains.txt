@@ -204,11 +204,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 delivery.taroads.com
 taroads.com
-advert.wiztube.xyz
-cdn.wiztube.xyz
-netu.wiztube.xyz
-wiztube.xyz
-www.wiztube.xyz
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -227,6 +222,7 @@ ads.livetv640.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
@@ -464,7 +460,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
-oranegfodnd.com
 orb92.com
 orlotalers.com
 orylhull.com
@@ -501,7 +496,6 @@ refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
-ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
