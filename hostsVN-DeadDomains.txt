@@ -1,10 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -12,8 +6,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-api.parrable.com
-h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -28,13 +20,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-content.ad
-api.content.ad
-app.content.ad
-media.content.ad
-partners.content.ad
-rest.content.ad
-www.content.ad
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -85,9 +70,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -98,9 +80,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -117,8 +96,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -138,7 +115,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -460,6 +436,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
+oranegfodnd.com
 orb92.com
 orlotalers.com
 orylhull.com
