@@ -1,4 +1,8 @@
 blueserving.com
+addthiscdn.com
+cache.addthiscdn.com
+client.addthiscdn.com
+client-uat.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -20,6 +24,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -52,6 +63,10 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+a.ivstracker.net
+c.ivstracker.net
+ivstracker.net
+r.ivstracker.net
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -87,6 +102,8 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+engine.bitmedianetwork.com
+exelatesync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -151,7 +168,6 @@ ongastlya.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -193,6 +209,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -206,7 +223,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-mntzrlt.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -224,11 +240,16 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -266,7 +287,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
 aff2.childish2x2.fun
-affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -299,7 +319,6 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
-cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -339,6 +358,7 @@ forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
+fxclix.com
 g0push.com
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -359,6 +379,7 @@ graizoah.com
 hccxwfunnpxngz.com
 hixwwert.in
 hwoqshyx.com
+hwuhkabi.in
 ichachoakiglop.com
 identinsp.pro
 ileeckut.com
@@ -387,9 +408,11 @@ lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
 littlecutecats.com
+llink.site
 loazuptaice.net
 lumupu.xyz
 lyssapebble.com
+mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
@@ -502,14 +525,17 @@ tkexutqf.in
 top-casting-termine.de
 toqdizbfp.com
 tranquilside.com
+trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
 ugroocuw.net
+unkempt-hand.com
 untidyquestion.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
+ventivmedia.com
 vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
@@ -556,6 +582,8 @@ ztumuvofzbfe.com
 zucoagorsout.com
 zumdivdwug.com
 zunsoach.com
+comscoreresearch.com
 ping.kitidi.com
 sync2ad.com
 track.hydro.online
+umeng.co
