@@ -3,6 +3,7 @@ addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
+sharebar.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -102,8 +103,11 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
+www.bitmedianetwork.com
 exelatesync.extend.tv
+sync.extend.tv
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -168,6 +172,7 @@ ongastlya.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
+s385.mxcdn.net
 s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -219,8 +224,6 @@ aj2557.bid
 aj2566.bid
 aj2584.bid
 aj2587.bid
-aj2629.bid
-aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
@@ -239,6 +242,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -277,6 +282,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
+4info.com
 540creative.net
 abvfupqkyaj.in
 ad.leadboltapps.net
@@ -285,6 +291,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -319,6 +326,7 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cdn.adimo.co
+cdn.easyads28.mobi
 cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -335,7 +343,6 @@ creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
-devpeakomegainnovations.com
 disrespectpreceding.com
 dithodackee.com
 dooloust.net
@@ -555,7 +562,6 @@ wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
-wr.amigojimbang.com
 www.ketchapp.org
 www.pro-ads.club
 www.routeserve.info
@@ -585,5 +591,4 @@ zunsoach.com
 comscoreresearch.com
 ping.kitidi.com
 sync2ad.com
-track.hydro.online
 umeng.co
