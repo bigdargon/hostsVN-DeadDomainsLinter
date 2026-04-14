@@ -19,6 +19,13 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -71,6 +78,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -84,9 +93,14 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -99,6 +113,7 @@ winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
+delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
@@ -121,6 +136,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -146,6 +162,9 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -208,6 +227,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -215,7 +236,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -263,6 +283,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -284,6 +305,7 @@ azrwwodreta.com
 bahmemohod.com
 baithoph.net
 beabsolom.com
+beachinfinitegag.com
 blueswordksh.com
 bmycupptafr.com
 boobausauhipsa.net
@@ -311,6 +333,7 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -337,8 +360,8 @@ forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
-fxclix.com
 g0push.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -381,7 +404,6 @@ koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
-lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
@@ -395,6 +417,7 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -409,6 +432,7 @@ mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -429,6 +453,7 @@ optimal730.com
 oranegfodnd.com
 orb92.com
 orlotalers.com
+orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -446,6 +471,7 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
+primetime.net
 pro-ads.club
 psoroumukr.com
 ptakeemsaifegro.net
@@ -541,6 +567,7 @@ xclicks.net
 xgodpmdczzyza.com
 xm.geslingclime.shop
 xnocffar.com
+xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
