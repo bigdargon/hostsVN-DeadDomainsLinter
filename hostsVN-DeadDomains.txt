@@ -95,7 +95,6 @@ www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
@@ -120,10 +119,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -227,8 +222,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -240,7 +233,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -358,8 +350,8 @@ faqirsgoliard.top
 fibqukktuv.in
 forspearowor.com
 foxtlytvs.com
-frightenedpotato.com
 funoriblithe.space
+fxclix.com
 g0push.com
 galaxien.com
 gemmykaraoke.com
@@ -404,6 +396,7 @@ koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
+lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
@@ -451,7 +444,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
