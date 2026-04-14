@@ -44,9 +44,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
-a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -95,10 +92,8 @@ www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -275,7 +270,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -325,7 +319,6 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -350,10 +343,10 @@ faqirsgoliard.top
 fibqukktuv.in
 forspearowor.com
 foxtlytvs.com
+frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -410,7 +403,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -420,7 +412,6 @@ movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 mustardeveningobvious.com
-mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -436,7 +427,6 @@ oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
 odnvkuocmow.in
-ofleafeona.com
 ogpriuleifns.com
 ojwoqdpiwdt.com
 oljqobudyusf.com
@@ -511,7 +501,6 @@ t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
-templatein13.net
 terra8nb.com
 thanosofcos5.com
 thaudray.com
