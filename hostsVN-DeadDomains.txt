@@ -41,7 +41,6 @@ pixel.kau.li
 rtb.kau.li
 s.kau.li
 y.kau.li
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -108,6 +107,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -262,7 +262,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.japo.vn
 ttus.tructiepbongda.me
-tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -274,6 +273,7 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
+1fkx796mw.com
 1slms.com
 540creative.net
 abvfupqkyaj.in
@@ -321,7 +321,6 @@ cameesse.net
 cb.snoozyhayride.com
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
@@ -333,8 +332,6 @@ clenchedyouthmatching.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -344,7 +341,6 @@ dithodackee.com
 dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
-effacedefend.com
 efficientdescent.com
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
@@ -363,7 +359,6 @@ frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
-ga.looserokaying.shop
 galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com

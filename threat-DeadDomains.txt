@@ -493,7 +493,6 @@ dichvucong-gov.com
 dichvucong.agov.net
 dichvucong.bcavnvnvngov.com
 dichvucong.ccbcavn.cc
-dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
 dichvucong.dancuso.com
 dichvucong.dinhdanhcutru.com
@@ -508,7 +507,6 @@ dichvucong.lgov.net
 dichvucong.snggov.com
 dichvucong.tgovn.cc
 dichvucong.thongtindancu.org
-dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
@@ -728,6 +726,7 @@ freefire-vietnam.com
 freefirehopqua.com
 freefiremembership-garenas.com
 freefiremembershipq.com
+freefiremenbershipvn.com
 freefirenhanqua.com
 freefirervmembership.com
 freelienquan2021.com
@@ -1074,7 +1073,6 @@ kaurroot.com
 kavietnam.xyz
 kdsf11.com
 kerrysexchange.com
-ketban.online
 kfdg22.com
 kfdg55.com
 kh-cn-mrd-f5-tpbank.com
@@ -1159,7 +1157,6 @@ lavas.exchange
 lazada-sale.gq
 lazada-task.cc
 lazada.bbc6666.com
-lazada.gg
 lazada.website
 lazada1.cc
 lazada1.com
@@ -1208,7 +1205,6 @@ lazadamallc.com
 lazadamallz.com
 lazadao13.com
 lazadao14.com
-lazadaord.com
 lazadap14.com
 lazadap15.com
 lazadasds.top
@@ -1522,7 +1518,6 @@ mpvn-checkmoney6868payment.com
 msb.com.vn-sp.top
 msb.msbbsm.com
 msb.vn-cvs.xyz
-msb.vn-iy.life
 msb.vn-jss.vip
 msbfhd.com
 msqpom.sail-away-investments.com
@@ -1623,9 +1618,12 @@ napgameonl.com
 napgameviet.com
 napgamevip.com
 napkame.com
+napkc.net
 napkc1s.com
+napkc66.com
 napkcffx5.com
 napkcx10.com
+napkimcuong234.com
 napkimcuong247.com
 napkimcuongff2022.com
 napkimcuongffx10.vn
@@ -1683,9 +1681,11 @@ naptheplaytogether.games
 naptheplaytogether.vn
 napthequanhuy.com
 napthequocte.com
+napthesukien.ml
 napthesukienlqmb.com
 napthetc.com
 napthetogether.ga
+napthetrian.com
 napthevalorant.com
 napthevn.online
 napthex50.com
@@ -2238,7 +2238,6 @@ shopee18.vip
 shopee182.vip
 shopee192.vip
 shopee2.net
-shopee20.com
 shopee2288.com
 shopee24.vip
 shopee27.vip
@@ -2507,6 +2506,7 @@ sieumomo.win
 sieusao.lienquan-vgarena.com
 sieuthibaby24h.com
 sieuthidark.com
+sieuthidienmayxanh247.com
 sieuthidienmayxanh24h.com
 sieuthidienthoaiso.com
 sieuthimion.com
@@ -2867,6 +2867,7 @@ tikivn668.com
 tikivn68.com
 tikivn84.com
 tikivncareers.com
+tikivnn.com
 tikivv.com
 tikiwork.net
 tikixv.com
@@ -2954,7 +2955,6 @@ tpbank.chamsocthekhachang-truc-tuyen.com
 tpbank.chamsocthekhachhang-thang4.com.vn
 tpbank.chamsocthekhachhang-truc-tuyen.com
 tpbank.vn-cl.xyz
-tpbank.vn-vpb.top
 tpbank84.com
 tpbankc.com
 tpbankdonxuan.click
@@ -3146,8 +3146,6 @@ vaynganhang.world
 vaynganhangagribank.xyz
 vaynganhanglaisuatthap.com
 vaynganhangshinhan.com
-vaynganhangshinhan.online
-vaynganhangvcb.online
 vaynganhangvn.com
 vayngay247.com
 vayngay88.online
@@ -3432,10 +3430,12 @@ vietlotts888.com
 vietmncredit.com
 vietnamaidfund.vip
 vietnamairslines.vn
+vietnamdebd.com
 vietnamdsa.site
 vietnamgbg.com
 vietnamhds.vip
 vietnaminsa.com
+vietnaminsb.com
 vietnaminsc.com
 vietnamkdam.com
 vietnamlo.vip
@@ -3735,7 +3735,6 @@ vongquaysieuphamfreefirevn.club
 vongquaysieuphamfreefirevn.com
 vongquayskinfree.tk
 vongquaysukienff.top
-vongquaythuongfreefire.com
 vongquaytrungthu.com
 voniao.com
 vonocltx.club
