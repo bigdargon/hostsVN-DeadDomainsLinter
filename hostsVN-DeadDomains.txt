@@ -1,3 +1,9 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -26,6 +32,15 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -86,12 +101,13 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -106,6 +122,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -151,6 +168,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -215,6 +234,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -226,6 +246,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -235,10 +256,13 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.japo.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 thongke.opencps.vn
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -250,7 +274,6 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
-1fkx796mw.com
 1slms.com
 540creative.net
 abvfupqkyaj.in
@@ -260,6 +283,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -294,6 +318,7 @@ butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
+cb.snoozyhayride.com
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.lumupu.xyz
@@ -309,6 +334,7 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -337,6 +363,8 @@ frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
+ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -463,6 +491,7 @@ refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
+ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
@@ -510,6 +539,7 @@ u1pmt.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
+upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
