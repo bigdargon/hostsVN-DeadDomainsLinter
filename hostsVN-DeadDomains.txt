@@ -32,12 +32,14 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
+aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
@@ -110,7 +112,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -142,6 +143,9 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
+network.adclickmedia.com
+tracking.adclickmedia.com
+asgdfasad.mm-cgnews.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -191,6 +195,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv788.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -239,8 +244,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.japo.vn
@@ -250,7 +253,6 @@ ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
@@ -266,6 +268,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -277,7 +280,6 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 alwingulla.com
-amhrzucur.com
 apfxpuatkla.com
 arhribadjqp.com
 ashoupsu.com
@@ -344,7 +346,6 @@ frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -354,7 +355,6 @@ gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
 gloaphoo.net
-gloarteegnu.com
 gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
@@ -373,13 +373,13 @@ institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
-ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -555,7 +555,6 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
-yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
