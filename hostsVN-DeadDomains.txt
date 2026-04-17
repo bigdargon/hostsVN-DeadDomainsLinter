@@ -33,7 +33,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 all.dspmulti.com
-dspmulti.com
 aj1090.online
 aj1549.online
 aj1754.online
@@ -99,6 +98,7 @@ www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
+syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
@@ -150,7 +150,6 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
-image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
@@ -386,6 +385,7 @@ ichachoakiglop.com
 identinsp.pro
 ileeckut.com
 inspirationstarednope.com
+institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
@@ -536,6 +536,7 @@ u1pmt.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
+upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
