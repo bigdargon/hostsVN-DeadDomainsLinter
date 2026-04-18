@@ -247,7 +247,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
