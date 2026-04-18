@@ -12,6 +12,7 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -163,7 +164,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 hetartwg.com
 ak.hetartwg.com
@@ -174,11 +174,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -277,6 +272,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.japo.vn
 sbbanner.com
+tvc.biphim.club
 www.sbbanner.com
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -310,6 +306,7 @@ aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 affiliates.ultrahosting.com
 afrjhanwosa.com
+afrxixlnj.com
 afzotfwramzy.in
 ahlcujguphr.com
 ainouzaudre.net
@@ -353,7 +350,6 @@ clenchedyouthmatching.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -472,7 +468,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
