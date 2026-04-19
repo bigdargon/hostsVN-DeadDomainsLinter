@@ -19,22 +19,10 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-rtb.kau.li
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
+dspmulti.com
 aj1090.online
 aj1549.online
 aj1754.online
@@ -165,6 +153,7 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -284,7 +273,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
 aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 affiliates.ultrahosting.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -335,6 +323,7 @@ creafi.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
+devpeakomegainnovations.com
 disrespectpreceding.com
 dithodackee.com
 dooloust.net
@@ -348,7 +337,6 @@ estat.com
 ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
-extracthorizontaldashing.com
 facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
@@ -394,7 +382,6 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -476,7 +463,6 @@ pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
