@@ -27,7 +27,6 @@ partners.content.ad
 rest.content.ad
 www.content.ad
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -233,8 +232,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-api.affmates.com
-storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -271,9 +268,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
-adsmart.co.uk
 adtoqbuejunef.com
-advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.ultrahosting.com
@@ -344,7 +339,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -352,7 +346,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
