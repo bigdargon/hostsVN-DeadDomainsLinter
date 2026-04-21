@@ -141,6 +141,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.fun
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -168,9 +169,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -214,7 +212,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -451,6 +448,7 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
+primetime.net
 pro-ads.club
 psoroumukr.com
 ptakeemsaifegro.net
@@ -465,6 +463,7 @@ refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
+rtbidder.net
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
