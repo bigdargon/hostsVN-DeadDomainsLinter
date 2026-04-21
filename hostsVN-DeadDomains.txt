@@ -7,7 +7,6 @@ aw.advertica-cdn.com
 web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
-stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
@@ -52,7 +51,6 @@ share.asianmedia.com
 whm.asianmedia.com
 cdn.bidfilter.com
 aos.gop1.co
-g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
@@ -81,7 +79,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -198,7 +195,6 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
-qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
@@ -264,6 +260,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.ultrahosting.com
@@ -334,6 +331,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -430,7 +428,6 @@ ommentsere.biz
 optimal730.com
 oranegfodnd.com
 orlotalers.com
-orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -463,7 +460,6 @@ refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
-rtbidder.net
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
