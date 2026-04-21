@@ -93,7 +93,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -434,7 +433,6 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
-pay-ads.com
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
