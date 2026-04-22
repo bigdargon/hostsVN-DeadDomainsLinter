@@ -44,7 +44,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -70,6 +69,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -244,6 +244,7 @@ tags.fly-ads.net
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 qc.japo.vn
 sbbanner.com
 www.sbbanner.com
