@@ -70,7 +70,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -245,7 +244,7 @@ tags.fly-ads.net
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
+qc.japo.vn
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -273,7 +272,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -322,7 +320,6 @@ clenchedyouthmatching.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -346,7 +343,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -496,6 +492,7 @@ sotchoum.com
 soumehoo.net
 specially4u.net
 spywarenuker.com
+stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 sumbreta.com
@@ -545,6 +542,7 @@ witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
+wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
