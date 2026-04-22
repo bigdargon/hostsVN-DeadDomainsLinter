@@ -21,7 +21,6 @@ media.content.ad
 partners.content.ad
 rest.content.ad
 www.content.ad
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -194,6 +193,7 @@ ads.livetv787.me
 ads.livetv790.me
 amntx1.net
 media.amntx1.net
+srv.amntx1.net
 track.amntx1.net
 aj2556.bid
 aj2557.bid
@@ -246,7 +246,6 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-qc.japo.vn
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -265,7 +264,6 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
-1slms.com
 2443march2024.com
 540creative.net
 abvfupqkyaj.in
@@ -275,6 +273,7 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -323,6 +322,7 @@ clenchedyouthmatching.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -346,6 +346,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -495,7 +496,6 @@ sotchoum.com
 soumehoo.net
 specially4u.net
 spywarenuker.com
-stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 sumbreta.com
@@ -545,7 +545,6 @@ witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wombjingle.com
-wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
