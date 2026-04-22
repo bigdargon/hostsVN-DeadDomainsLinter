@@ -93,11 +93,13 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -106,6 +108,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -145,6 +148,11 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -156,6 +164,11 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
+adn2.adclerks.com
+cdn.adclerks.com
+static.adclerks.com
+www.adclerks.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -175,9 +188,12 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv782.me
+ads.livetv785.me
+ads.livetv787.me
+ads.livetv790.me
 amntx1.net
 media.amntx1.net
-srv.amntx1.net
 track.amntx1.net
 aj2556.bid
 aj2557.bid
@@ -197,6 +213,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -209,7 +227,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -260,6 +277,7 @@ ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
 aff2.childish2x2.fun
+affiliates.devilfishpartners.com
 affiliates.ultrahosting.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -316,6 +334,7 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
+elderlybean.com
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -368,6 +387,7 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -433,6 +453,7 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
+pay-ads.com
 pekajmkimvx.com
 peppaping.xyz
 physicalblueberry.com
@@ -448,9 +469,11 @@ ptawehex.net
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
@@ -503,6 +526,7 @@ u1pmt.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
+upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
