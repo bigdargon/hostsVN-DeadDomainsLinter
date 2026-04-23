@@ -4,6 +4,7 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -113,7 +114,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -320,7 +320,6 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -344,7 +343,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -352,7 +350,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -408,7 +405,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -443,7 +439,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
