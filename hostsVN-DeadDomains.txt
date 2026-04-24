@@ -1,6 +1,6 @@
-swift.lifestreet.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -26,10 +26,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -71,6 +67,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 a.optimizesrv.com
+ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -83,7 +80,6 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -188,7 +184,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
@@ -213,6 +208,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
@@ -234,7 +230,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -268,7 +263,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 540creative.net
 abvfupqkyaj.in
-ad-up.com
 ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
@@ -324,7 +318,6 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -348,16 +341,13 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
-funklicks.com
 funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -414,7 +404,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -542,6 +531,7 @@ usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 ventivmedia.com
+visilabs.com
 vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
@@ -555,7 +545,6 @@ wgtyvqbfkxg.com
 whairtoa.com
 witvfaojpzi.in
 wiwqhootrf.com
-wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
