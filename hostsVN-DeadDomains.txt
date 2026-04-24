@@ -1,7 +1,6 @@
 swift.lifestreet.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
@@ -72,7 +71,6 @@ advinci.net
 count.advinci.net
 www.advinci.net
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -159,11 +157,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -220,7 +213,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
 hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
@@ -276,6 +268,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 540creative.net
 abvfupqkyaj.in
+ad-up.com
 ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
@@ -323,6 +316,7 @@ cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
+chaipoksore.com
 childhoodstudioconversation.com
 citronsstealed.website
 clenchedyouthmatching.com
@@ -330,6 +324,7 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -353,13 +348,16 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
+funklicks.com
 funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -416,6 +414,7 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -575,7 +574,6 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
-yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
