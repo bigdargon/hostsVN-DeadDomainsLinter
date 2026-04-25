@@ -19,13 +19,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -43,6 +37,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -136,6 +131,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
+int.vlancaa.site
 int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 hetartwg.com
@@ -147,6 +144,8 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -215,7 +214,6 @@ matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 mautic.serverhub.vn
-mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -236,6 +234,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 sbbanner.com
+ttus.tructiepbongda.me
 www.sbbanner.com
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -253,6 +252,7 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
+1slms.com
 22hgc.com
 2443march2024.com
 540creative.net
@@ -311,6 +311,7 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
@@ -324,7 +325,6 @@ effacedefend.com
 efficientdescent.com
 elderlybean.com
 erpqkcfvsjjyap.com
-espionagegardenerthicket.com
 estat.com
 ewhareey.com
 existencethrough.com
@@ -334,6 +334,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -397,6 +398,7 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -460,7 +462,6 @@ pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -538,6 +539,7 @@ whairtoa.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
+wombjingle.com
 wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
@@ -569,3 +571,4 @@ zumdivdwug.com
 zunsoach.com
 ping.kitidi.com
 sync2ad.com
+vizu.com
