@@ -46,7 +46,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-fadsims.com
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -80,9 +79,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -94,7 +90,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -185,7 +180,6 @@ media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 aj2556.bid
-aj2557.bid
 aj2566.bid
 aj2584.bid
 aj2587.bid
@@ -260,6 +254,7 @@ abvfupqkyaj.in
 ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
+ads.co.com
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -277,16 +272,13 @@ alwingulla.com
 apfxpuatkla.com
 arhribadjqp.com
 ashoupsu.com
-assuremath.com
 ausoafab.net
-axillovely.com
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
 beabsolom.com
 beachinfinitegag.com
-bimlocal.com
 blueswordksh.com
 bmycupptafr.com
 boobausauhipsa.net
@@ -315,16 +307,19 @@ cmdpeufwwou.com
 colonserve.com
 creafi.com
 csyxnkhvueuh.com
+d3jqverr.pro
+dalyio.com
+dalymix.com
 deckdistant.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
 disrespectpreceding.com
 dithodackee.com
+dooloust.net
 dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
-egistonemes.com
 elderlybean.com
 erpqkcfvsjjyap.com
 estat.com
@@ -340,7 +335,6 @@ forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
-fusionquest.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -361,8 +355,6 @@ goomaphy.com
 gq.binesyorker.com
 graizoah.com
 hccxwfunnpxngz.com
-healthsmd.com
-hitlounge.com
 hixwwert.in
 hwoqshyx.com
 hwuhkabi.in
@@ -392,7 +384,6 @@ leafy-feel.com
 lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
-linkrain.com
 literalcorpulent.com
 littlecutecats.com
 llink.site
@@ -407,7 +398,6 @@ mattockpackall.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
-microticker.com
 mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
@@ -447,7 +437,6 @@ outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
-palaroleg.guru
 panclndhgcpktf.com
 pay-ads.com
 pekajmkimvx.com
@@ -457,7 +446,6 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
-premium-offers.com
 primetime.net
 pro-ads.club
 producerplot.com
@@ -485,7 +473,6 @@ sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
 shoordaird.com
-siccash.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
 soccercadencefridge.com
@@ -518,8 +505,6 @@ thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
-topsearcher.com
-toqdizbfp.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
@@ -532,7 +517,6 @@ untidyquestion.com
 upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
-vebadu.com
 vebo-vast.pages.dev
 vncnu.com
 vr.ringentkenlore.com
@@ -542,6 +526,7 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 websponsors.com
+welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
@@ -554,7 +539,6 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
-www.healthsmd.com
 www.ketchapp.org
 www.pro-ads.club
 www.routeserve.info
@@ -573,7 +557,6 @@ yoshdeum.com
 yrhnw7h63.com
 zazmunokpvzi.com
 zeekaihu.net
-zenzuu.com
 zikroarg.com
 zireemilsoude.net
 ztumuvofzbfe.com
@@ -581,5 +564,4 @@ zucoagorsout.com
 zumdivdwug.com
 zunsoach.com
 ping.kitidi.com
-rochesterdata.com
 sync2ad.com
