@@ -10,11 +10,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -179,7 +174,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
@@ -264,12 +258,10 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affcpatrk.com
 affiliates.devilfishpartners.com
-affiliates.ultrahosting.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -338,7 +330,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -346,7 +337,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -392,6 +382,7 @@ leafy-feel.com
 lfeorrzkua.com
 lfvvhemghapw.com
 linkads.xyz
+literalcorpulent.com
 littlecutecats.com
 llink.site
 loazuptaice.net
@@ -415,7 +406,6 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
-native-track.com
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
