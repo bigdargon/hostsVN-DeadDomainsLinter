@@ -66,12 +66,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-api.pvmax.net
-cdn.pvmax.net
-kuasa.pvmax.net
-monika.pvmax.net
-pvmax.net
-www.pvmax.net
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -194,8 +188,6 @@ ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
 ads.livetv787.me
-ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -218,8 +210,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -329,7 +319,6 @@ cmdpeufwwou.com
 colonserve.com
 creafi.com
 csyxnkhvueuh.com
-deckdistant.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
 digitru.st
@@ -351,7 +340,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -359,7 +347,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -431,7 +418,6 @@ mzyvyjsq.com
 nationalgausewatrust.com
 nd.prosilyingles.cyou
 nessainy.net
-nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
@@ -465,15 +451,14 @@ pay-ads.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
-phumagrose.com
 physicalblueberry.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
 primetime.net
+pro-ads.club
 producerplot.com
-ps.bogymentracery.cyou
 psoroumukr.com
 ptakeemsaifegro.net
 ptawehex.net
