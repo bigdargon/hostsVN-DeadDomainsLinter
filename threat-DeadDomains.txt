@@ -171,6 +171,7 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
+app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -323,6 +324,7 @@ chovayfecredit.com
 chovaynhanh.online
 chovaytiengopsg.com
 chovaytieudung.online
+chuyen.net
 chuyengiadinh.org
 chuyentienkieuhoi247.cf
 chuyentienngay.site
@@ -494,7 +496,6 @@ dichvucong.bcavnvnvngov.com
 dichvucong.ccbcavn.cc
 dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
-dichvucong.dancuso.com
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
@@ -575,7 +576,6 @@ e-bankingshopee.vn
 e-sacombank.com
 easyloan-money-th.com
 easywbdesign.com
-easywebmanager.nl
 ebaayshopping.site
 ebank.hlug1k.com
 ebank.wmxba.com
@@ -633,6 +633,7 @@ faceb.pro
 facebookk.life
 facebookvni.com
 faecbooks.com
+fairu-chat.com
 fairu-chat.xyz
 fairu-endpoint.com
 fairu-endpoint.xyz
@@ -642,6 +643,7 @@ fajiafu30.com
 fajiafu50.com
 fasebook.com.vn
 fbviet88.com
+fc.adswt.com
 fcccredit.com
 fccomvn.com
 fd2.hmexchangecentre.com
@@ -740,7 +742,6 @@ fullofactivishop.com
 fussboden-elsenhans.de
 fvpvietnam.com
 fxshopeevip99.com
-gaerena.vn
 gameover-shop.de
 gameshopvn.com
 gameshopvn.net
@@ -843,7 +844,6 @@ goplay88.me
 goshop.vin
 goshop2018.com
 goshopback.vip
-goshopbackvip.vip
 goshopee.cc
 goshopee.club
 goshopee.net
@@ -1029,6 +1029,7 @@ insurancexl.vip
 insurancide.vip
 insuranckjk.com
 insurancoes.vip
+insurancopo.com
 insurancpsd.vip
 insurancud.online
 insurancuyt.com
@@ -1327,6 +1328,7 @@ m.vncongthue.top
 m.vnsc-finhay.com
 macysbyi.com
 magazineshopeeonline.com
+mail.adswt.com
 mail.bomloginset.com
 mail.labtpb.online
 mail.pcygphil.com
@@ -1543,6 +1545,7 @@ muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
 mualienquan.org
+muanickgiare.com
 muasamtiki24h.com
 muaso24h.store
 muataikhoannetflixvn.com
@@ -1887,7 +1890,6 @@ pkkti888.com
 platinum-ruttientindung247.com
 play.appgoogle.cc
 playgooglevn.vip
-playtogethernapthe.com
 playtogetherquabaotri.online
 playtogethershop.com
 playtogethervietnam.com
@@ -1987,10 +1989,6 @@ quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
-quettheruttien-24hmpos.com
-quettheruttienvn.com
-quetthetindung-247mpos.com
-quetthetindung-vnpay.com
 quetthetindungvn-thanhtoan.com
 quettindung247-mpos.com
 quezachieve.cfd
@@ -2493,6 +2491,7 @@ shoptruykich.vn
 shoptuankhaff.com
 shoptungtayto.com
 shopvinhxinhtrai.com
+shopvualq.com
 shopvuhau.com
 shopwaoteam.com
 shopwe1102.com
@@ -2711,10 +2710,12 @@ tasker.shop
 tb55788.com
 tb55988.com
 tc-viet.click
+tcbcanhan.com
 tcvnhomefic.com
 tdkd00.com
 tdkd01.com
 tdkd02.com
+tdkd03.com
 tdkd07.com
 tdke03.com
 tdkt00.com
@@ -3127,7 +3128,6 @@ vay-abc8.com
 vay-shb.com
 vay-shb8.com
 vay-tpbank.site
-vay-vang.com
 vay-vib8.com
 vay-vietcombank.biz
 vay-vietcombank.com.vn
@@ -3434,6 +3434,7 @@ vietinbankis.cc
 vietinbankvis.cc
 vietinbonk.com
 vietjetairlines.vn
+vietjetvn.com
 vietlots789.com
 vietlott.world
 vietlottkeno5d.com
@@ -3482,6 +3483,7 @@ vietnan.online
 vietret.com
 vietsovpetro.biz
 vietsovpetro.cc
+vietsovpetro.top
 vietsovpetro.vip
 viettcombank.com
 viettcredit.online
@@ -3490,6 +3492,7 @@ viettel6.com
 viettelvngroup.com
 viettgov.cc
 vietthanh.club
+vietthanh.xyz
 vietthanh24.xyz
 vietthanh247.com
 vietthanhcredit.com
@@ -3552,7 +3555,6 @@ vn-cl.xyz
 vn-cn.life
 vn-cn.xyz
 vn-cr.life
-vn-cvs.xyz
 vn-dangky.shop
 vn-dienmayxanh.com
 vn-dll.vip
@@ -3801,6 +3803,7 @@ vpbank.vn-cl.xyz
 vpbank.vn-cn.life
 vpbank.vn-cr.life
 vpbank.vn-sp.xyz
+vpbankvn.com
 vpbban.com
 vpbbank.com
 vpbsvn.com
@@ -3880,6 +3883,7 @@ westernbank.vn
 westgarybank.com
 wetrayn.top
 wietcombank.com
+wkkug.vcbnw.de
 wmail-blog.xyz
 wmail-chat.xyz
 woorivn.online
@@ -3987,6 +3991,7 @@ xakhohangtrungbay.site
 xd152.com
 xiaomivietnam.xyz
 xiaosdg.top
+xigua.bet
 xjpakmdcfuqe.ru
 xjrprd.yokayseiy.com
 xn--napth-351b.vn

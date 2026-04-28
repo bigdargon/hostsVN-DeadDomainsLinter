@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -10,6 +12,13 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -29,6 +38,9 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+brand.ad
+a.brand.ad
+www.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -54,13 +66,12 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
+api.pvmax.net
+cdn.pvmax.net
+kuasa.pvmax.net
+monika.pvmax.net
+pvmax.net
+www.pvmax.net
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -139,6 +150,11 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
@@ -152,6 +168,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -175,6 +193,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
+ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 amntx1.net
@@ -199,6 +218,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -228,7 +249,6 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-qc.mhsolution.vn
 sbbanner.com
 ttus.tructiepbongda.me
 www.sbbanner.com
@@ -287,6 +307,7 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
+bt.teparytympan.qpon
 bulrev.com
 butalksuw9dj10.com
 caemajnt.com
@@ -311,6 +332,7 @@ csyxnkhvueuh.com
 deckdistant.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
+digitru.st
 disrespectpreceding.com
 dithodackee.com
 dooloust.net
@@ -329,6 +351,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -336,6 +359,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -351,6 +375,7 @@ go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
+graizoah.com
 hccxwfunnpxngz.com
 hixwwert.in
 hwoqshyx.com
@@ -446,10 +471,9 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
-pq8ithtdw.com
 primetime.net
-pro-ads.club
 producerplot.com
+ps.bogymentracery.cyou
 psoroumukr.com
 ptakeemsaifegro.net
 ptawehex.net
@@ -458,6 +482,7 @@ pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -512,7 +537,6 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
-ueikno.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
@@ -520,7 +544,6 @@ upr90.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
-vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -558,6 +581,7 @@ yiopse.com
 yldbt.com
 yoshdeum.com
 yrhnw7h63.com
+yu225.com
 zazmunokpvzi.com
 zeekaihu.net
 zikroarg.com
