@@ -1,6 +1,4 @@
 blueserving.com
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -102,7 +100,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -129,12 +126,12 @@ ytvpaid.winadx.com
 pgmcdn.com
 adsterra.org
 delivery.adsterra.org
+www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -312,7 +309,6 @@ ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
-ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
@@ -363,8 +359,6 @@ clenchedyouthmatching.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 denetsuk.com
@@ -389,7 +383,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -397,7 +390,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -427,7 +419,6 @@ intorterraon.com
 irncdn.com
 istipaumophy.com
 jailorscoman.cfd
-jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jqvhnbxtwze.com
@@ -441,6 +432,7 @@ ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
 lfeorrzkua.com
+lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
 littlecutecats.com
@@ -452,7 +444,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
