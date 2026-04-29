@@ -89,6 +89,7 @@ lalaping.com
 static.lalaping.com
 media.vivaclix.com
 srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -101,9 +102,11 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
+www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -126,7 +129,6 @@ ytvpaid.winadx.com
 pgmcdn.com
 adsterra.org
 delivery.adsterra.org
-www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
@@ -163,9 +165,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
-network.adclickmedia.com
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 hetartwg.com
 ak.hetartwg.com
@@ -214,6 +213,7 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -226,7 +226,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv787.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -387,6 +386,7 @@ existencethrough.com
 exploreannihilationquicker.com
 extracthorizontaldashing.com
 facebookad.for88vn.com
+fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
 findcommerce.com
@@ -397,6 +397,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -414,6 +415,7 @@ goomaphy.com
 gq.binesyorker.com
 graizoah.com
 hccxwfunnpxngz.com
+hdatssfpxrwbxs.com
 hixwwert.in
 hwoqshyx.com
 hwuhkabi.in
@@ -439,7 +441,6 @@ ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
 lfeorrzkua.com
-lfvvhemghapw.com
 linkads.xyz
 literalcorpulent.com
 littlecutecats.com
@@ -480,6 +481,7 @@ oblolrvce.in
 odnvkuocmow.in
 ofleafeona.com
 ogpriuleifns.com
+ojqbnqdwycws.com
 ojwoqdpiwdt.com
 oljqobudyusf.com
 omciecoa37tw4.com
@@ -523,7 +525,6 @@ qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
@@ -578,7 +579,6 @@ u1pmt.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
-upr90.com
 uselnk.com
 usheebainaut.com
 uz.louchefunnel.shop
