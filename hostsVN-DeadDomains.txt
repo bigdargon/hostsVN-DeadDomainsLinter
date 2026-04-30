@@ -121,8 +121,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -280,10 +278,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -329,7 +323,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
 aff2.childish2x2.fun
-affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -401,6 +394,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -408,7 +402,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -502,7 +495,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
@@ -525,14 +517,12 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
-primetime.net
 pro-ads.club
 producerplot.com
 psoroumukr.com
 ptakeemsaifegro.net
 ptawehex.net
 pttuzodqkbgv.com
-pub.trads.io
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
