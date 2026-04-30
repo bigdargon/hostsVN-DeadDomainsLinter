@@ -124,7 +124,6 @@ cdn.appier.xyz
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -239,7 +238,6 @@ amntx1.net
 media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
-aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2584.bid
@@ -270,7 +268,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -369,7 +366,6 @@ clickcompare.co.uk
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
-crowdgravity.com
 csyxnkhvueuh.com
 deckdistant.com
 denetsuk.com
@@ -402,6 +398,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
