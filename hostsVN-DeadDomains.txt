@@ -20,7 +20,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -38,12 +37,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -78,13 +71,9 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-cdn.pvmax.net
-kuasa.pvmax.net
-monika.pvmax.net
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
-srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
@@ -202,7 +191,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv765.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -283,7 +271,6 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
-adsmart.co.uk
 adtoqbuejunef.com
 adwitserver.com
 aff2.childish2x2.fun
@@ -314,7 +301,6 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
-bulrev.com
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -420,7 +406,6 @@ lumupu.xyz
 mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
-martyrcontrol.com
 materialplayground.com
 mattockpackall.com
 meaese.click
@@ -578,7 +563,6 @@ www.routeserve.info
 www.servsave.com
 xclicks.net
 xgodpmdczzyza.com
-xm.geslingclime.shop
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
