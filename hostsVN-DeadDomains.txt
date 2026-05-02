@@ -1,9 +1,17 @@
 blueserving.com
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 addthiscdn.com
 cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -71,9 +79,17 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
+srv.vivaclix.com
 track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
@@ -137,6 +153,10 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
+network.adclickmedia.com
+tracking.adclickmedia.com
+ak.hetaruwg.com
+hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -191,6 +211,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv765.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -223,6 +244,7 @@ www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -241,7 +263,6 @@ cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-qc.mhsolution.vn
 sbbanner.com
 ttus.tructiepbongda.me
 www.sbbanner.com
@@ -270,6 +291,7 @@ ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
+ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 adwitserver.com
@@ -301,6 +323,7 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 breathelicense.com
+bt.teparytympan.qpon
 butalksuw9dj10.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -335,6 +358,7 @@ effacedefend.com
 efficientdescent.com
 elderlybean.com
 erpqkcfvsjjyap.com
+espionagegardenerthicket.com
 estat.com
 ewhareey.com
 existencethrough.com
@@ -388,6 +412,7 @@ jqvhnbxtwze.com
 jz.thringsettos.cyou
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -406,7 +431,9 @@ lumupu.xyz
 mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
+martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -438,6 +465,7 @@ ofleafeona.com
 ogpriuleifns.com
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
+okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
@@ -477,6 +505,7 @@ qa.shboshbok.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rounddescribe.com
