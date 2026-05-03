@@ -21,15 +21,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -47,12 +38,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -64,10 +49,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -128,10 +109,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -163,8 +140,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
-network.adclickmedia.com
-tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -566,7 +541,6 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
-uselnk.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
@@ -620,5 +594,4 @@ ping.kitidi.com
 rsrly.com
 sync2ad.com
 track.hydro.online
-umeng.co
 vizu.com
