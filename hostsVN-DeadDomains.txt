@@ -5,11 +5,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-addthiscdn.com
-cache.addthiscdn.com
-client.addthiscdn.com
-client-uat.addthiscdn.com
-sharebar.addthiscdn.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -254,7 +249,6 @@ www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -529,6 +523,7 @@ sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
 shoordaird.com
+singletplatformgleamenterprises.com
 slidbecauseemerald.com
 soccercadencefridge.com
 soggy-surround.com
@@ -568,7 +563,6 @@ tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
 ugroocuw.net
-uitopadxdy.com
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
