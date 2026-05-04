@@ -80,9 +80,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-intranet.faktor.io
-logos.choice.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -220,8 +217,6 @@ ads.livetv708.me
 ads.livetv765.me
 ads.livetv782.me
 ads.livetv785.me
-ads.livetv788.me
-ads.livetv790.me
 amntx1.net
 media.amntx1.net
 srv.amntx1.net
@@ -329,7 +324,6 @@ bahmemohod.com
 baithoph.net
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 blueswordksh.com
 bmycupptafr.com
 boobausauhipsa.net
@@ -628,6 +622,7 @@ yrhnw7h63.com
 yu225.com
 zazmunokpvzi.com
 zeekaihu.net
+zenkreka.com
 zikroarg.com
 zireemilsoude.net
 ztumuvofzbfe.com
@@ -638,4 +633,3 @@ ping.kitidi.com
 rsrly.com
 sync2ad.com
 tracker.toolpg.com
-vizu.com
