@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -187,10 +181,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -299,7 +289,6 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -351,6 +340,7 @@ clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
 csyxnkhvueuh.com
+d3jqverr.pro
 deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
@@ -405,6 +395,7 @@ hixwwert.in
 hwoqshyx.com
 hwuhkabi.in
 ichachoakiglop.com
+ieyipznx.art
 ileeckut.com
 inspirationstarednope.com
 institutehopelessbeck.com
@@ -497,7 +488,6 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 petasusawber.com
-phumagrose.com
 physicalblueberry.com
 playsdonkey.com
 poawooptugroo.com
@@ -522,7 +512,6 @@ rankingchart.de
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
-rmvla.rrqwarwrewrlj.top
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
