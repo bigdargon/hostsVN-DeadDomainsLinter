@@ -1,4 +1,3 @@
-blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -26,13 +25,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -105,6 +97,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -173,8 +166,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -196,6 +187,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -246,6 +241,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -291,6 +288,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 11ssq.com
 1fkx796mw.com
 1slms.com
+22hgc.com
 2443march2024.com
 540creative.net
 abvfupqkyaj.in
@@ -301,6 +299,7 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adwitserver.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -311,6 +310,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+allosponsor.com
 alwingulla.com
 antxmmerxmdhu.com
 apfxpuatkla.com
@@ -375,6 +375,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -382,7 +383,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 ggz48pxys.com
@@ -536,6 +536,7 @@ sheecmimty.net
 shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
+snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
@@ -613,6 +614,7 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
+yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
