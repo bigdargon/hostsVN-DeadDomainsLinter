@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -58,6 +60,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -68,12 +73,11 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -144,7 +148,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
@@ -178,6 +181,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -188,6 +193,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -200,7 +207,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -219,6 +225,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -235,9 +243,10 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -269,26 +278,23 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
-11ssq.com
 1fkx796mw.com
 1slms.com
 22hgc.com
 2443march2024.com
+4info.com
 540creative.net
+734map.net
 abvfupqkyaj.in
 ad.leadboltapps.net
 adgardener.com
-adition.de
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
-ads2004.treiberupdate.de
 adtoqbuejunef.com
-adtrading.de
 adwitserver.com
 aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -311,6 +317,7 @@ beabsolom.com
 beachinfinitegag.com
 blueswordksh.com
 bmycupptafr.com
+boldchat.com
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
@@ -362,6 +369,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
+findcommerce.com
 forspearowor.com
 foxtlytvs.com
 frightenedpotato.com
@@ -428,6 +436,7 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -506,6 +515,7 @@ qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
@@ -615,6 +625,7 @@ ztumuvofzbfe.com
 zucoagorsout.com
 zumdivdwug.com
 zunsoach.com
+comscoreresearch.com
 ping.kitidi.com
 rsrly.com
 sync2ad.com
