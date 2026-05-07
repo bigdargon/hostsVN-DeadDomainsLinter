@@ -3,21 +3,6 @@ cache.addthiscdn.com
 client.addthiscdn.com
 client-uat.addthiscdn.com
 sharebar.addthiscdn.com
-a.ligatus.com
-analysis.ligatus.com
-analysis1.ligatus.com
-analysis2.ligatus.com
-a-ssl.ligatus.com
-d.ligatus.com
-directads.ligatus.com
-directads2.ligatus.com
-e.ligatus.com
-i.ligatus.com
-ligatus.com
-reporting.ligatus.com
-self-booking.ligatus.com
-ssl.ligatus.com
-www.ligatus.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -149,9 +134,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
-maxymiser.net
-service.maxymiser.net
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -193,7 +175,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -279,8 +260,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -323,7 +302,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1slms.com
 22hgc.com
 2443march2024.com
-4info.com
 540creative.net
 734map.net
 abvfupqkyaj.in
@@ -334,8 +312,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
-ads.vnumedia.com
-adserver.mgsex.com
 adtoqbuejunef.com
 aff2.childish2x2.fun
 afrjhanwosa.com
@@ -352,7 +328,6 @@ apfxpuatkla.com
 arhribadjqp.com
 ashoupsu.com
 ausoafab.net
-axillovely.com
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
@@ -407,7 +382,6 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
-egistonemes.com
 elderlybean.com
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
@@ -446,7 +420,6 @@ gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 graizoah.com
-gtsmobi.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hixwwert.in
@@ -493,7 +466,6 @@ materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
-mediavenus.com
 medusaecaptan.com
 mixedreading.com
 moonoafy.net
@@ -522,7 +494,6 @@ oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
 odnvkuocmow.in
-offerfusion.com
 ofleafeona.com
 ogpriuleifns.com
 ojqbnqdwycws.com
@@ -694,9 +665,7 @@ zumdivdwug.com
 zunsoach.com
 bjdxhs.com
 comscoreresearch.com
-hairtease.com
 ping.kitidi.com
-redinvestor.com
 rsrly.com
 sync2ad.com
 tracker.toolpg.com
