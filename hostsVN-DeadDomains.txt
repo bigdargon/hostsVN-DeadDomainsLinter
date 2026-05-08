@@ -49,7 +49,6 @@ ajxx91.online
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -85,14 +84,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -170,8 +161,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -186,8 +175,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -207,7 +194,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -295,6 +281,7 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
+adsmart.co.uk
 adtoqbuejunef.com
 aff2.childish2x2.fun
 affcpatrk.com
@@ -308,6 +295,7 @@ aiqowflpg.com
 airdropcassino.cfd
 allosponsor.com
 alwingulla.com
+ancotvpaxoz.com
 antxmmerxmdhu.com
 apfxpuatkla.com
 arhribadjqp.com
@@ -354,7 +342,6 @@ cmdpeufwwou.com
 colonserve.com
 creafi.com
 csyxnkhvueuh.com
-d3jqverr.pro
 deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
@@ -434,6 +421,7 @@ kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
+lfalfehuq.com
 lfeorrzkua.com
 lfvvhemghapw.com
 literalcorpulent.com
@@ -538,7 +526,6 @@ rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
-rmvla.rrqwarwrewrlj.top
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
@@ -645,6 +632,7 @@ zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
 zikroarg.com
+zipazvzu.com
 zireemilsoude.net
 ztumuvofzbfe.com
 zucoagorsout.com
@@ -655,5 +643,4 @@ comscoreresearch.com
 ping.kitidi.com
 rsrly.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
