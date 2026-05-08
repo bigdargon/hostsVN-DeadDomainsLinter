@@ -108,10 +108,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -237,12 +233,9 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-api.affmates.com
-storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -281,7 +274,6 @@ adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
-adsmart.co.uk
 adtoqbuejunef.com
 aff2.childish2x2.fun
 affcpatrk.com
@@ -295,7 +287,6 @@ aiqowflpg.com
 airdropcassino.cfd
 allosponsor.com
 alwingulla.com
-ancotvpaxoz.com
 antxmmerxmdhu.com
 apfxpuatkla.com
 arhribadjqp.com
@@ -308,7 +299,6 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 blueswordksh.com
 bmycupptafr.com
 boldchat.com
@@ -342,6 +332,7 @@ cmdpeufwwou.com
 colonserve.com
 creafi.com
 csyxnkhvueuh.com
+d3jqverr.pro
 deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
@@ -421,7 +412,6 @@ kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
-lfalfehuq.com
 lfeorrzkua.com
 lfvvhemghapw.com
 literalcorpulent.com
@@ -632,7 +622,6 @@ zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
 zikroarg.com
-zipazvzu.com
 zireemilsoude.net
 ztumuvofzbfe.com
 zucoagorsout.com
