@@ -223,7 +223,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -294,7 +293,6 @@ ashoupsu.com
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
-bahmemohod.com
 baithoph.net
 basepush.com
 beabsolom.com
@@ -322,7 +320,6 @@ ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
 childhoodstudioconversation.com
-choupsee.com
 ciksolre.net
 citronsstealed.website
 clenchedyouthmatching.com
@@ -542,7 +539,6 @@ spywarenuker.com
 stay.decentralappps.com
 steerensout.net
 stelinnhy.in
-stootsou.net
 sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
