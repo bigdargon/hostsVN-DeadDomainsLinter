@@ -14,6 +14,13 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -21,15 +28,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -60,10 +58,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 fadsimz.com
 fadskiz.com
 gadsabs.com
@@ -86,8 +80,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -125,6 +117,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -179,6 +175,9 @@ ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
+cdn.js7k.com
+js7k.com
+www.js7k.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -187,6 +186,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -231,6 +232,8 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -238,17 +241,22 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -278,10 +286,10 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 1fkx796mw.com
 1slms.com
-22hgc.com
 2443march2024.com
 540creative.net
 734map.net
+abvfupqkyaj.in
 ad.leadboltapps.net
 adgardener.com
 ads.cdn2-img.net
@@ -289,6 +297,8 @@ ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
 aff2.childish2x2.fun
+affcpatrk.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -369,7 +379,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 faqirsgoliard.top
 fibqukktuv.in
-findcommerce.com
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
@@ -408,7 +417,6 @@ institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
-ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
@@ -496,6 +504,7 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 petasusawber.com
+phoossax.net
 phortaub.com
 phumagrose.com
 physicalblueberry.com
@@ -511,8 +520,8 @@ psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
 ptawehex.net
+ptipsixo.com
 pttuzodqkbgv.com
-pub.trads.io
 pushazam.com
 pushlaram.com
 pushmono.com
@@ -529,6 +538,7 @@ rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
+rmvla.rrqwarwrewrlj.top
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
@@ -582,6 +592,7 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
+uapafuxwnusear.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
@@ -593,6 +604,7 @@ vncnu.com
 vr.ringentkenlore.com
 vtacibqzopiw.com
 vteskyombq.com
+vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
@@ -611,6 +623,7 @@ workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
 www.ketchapp.org
+www.phoossax.net
 www.pro-ads.club
 www.routeserve.info
 www.servsave.com
@@ -642,4 +655,5 @@ comscoreresearch.com
 ping.kitidi.com
 rsrly.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
