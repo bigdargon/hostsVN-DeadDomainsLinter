@@ -91,9 +91,6 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -125,7 +122,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -251,11 +247,12 @@ www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
@@ -306,7 +303,6 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.vnd89.com
 adtoqbuejunef.com
-affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -331,7 +327,6 @@ beabsolom.com
 beachinfinitegag.com
 blueswordksh.com
 bmycupptafr.com
-boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
@@ -573,7 +568,6 @@ steerensout.net
 stelinnhy.in
 sumbreta.com
 surfmusik-adserver.de
-swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
