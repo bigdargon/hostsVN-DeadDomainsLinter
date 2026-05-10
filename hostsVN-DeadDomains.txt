@@ -1,9 +1,3 @@
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -475,7 +469,6 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
-pro-ads.club
 proceduresto3.net
 producerplot.com
 ps.bogymentracery.cyou
@@ -525,7 +518,6 @@ spywarenuker.com
 stay.decentralappps.com
 steerensout.net
 stelinnhy.in
-sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
