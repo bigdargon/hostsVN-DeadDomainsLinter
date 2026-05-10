@@ -143,11 +143,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -238,8 +233,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 qc.mhsolution.vn
@@ -402,7 +395,6 @@ ketchapp.org
 kiynew.com
 kneeansweras.com
 koindut.com
-kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
