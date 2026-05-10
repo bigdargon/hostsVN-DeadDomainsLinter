@@ -20,14 +20,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
-api.sociaplus.com
-static.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -66,9 +58,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -142,11 +131,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.site
-int.vlancaa.fun
-network.adclickmedia.com
-tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -158,8 +143,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -228,10 +211,6 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -374,9 +353,11 @@ faqirsgoliard.top
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
+foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
 fxclix.com
+g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
@@ -530,7 +511,6 @@ renderstreamshuttleanalytics.net
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
-ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
@@ -627,7 +607,6 @@ yiopse.com
 yldbt.com
 yoshdeum.com
 yrhnw7h63.com
-yu225.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
