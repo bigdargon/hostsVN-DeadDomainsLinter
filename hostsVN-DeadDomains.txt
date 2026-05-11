@@ -33,7 +33,6 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -223,7 +222,6 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
-qc.mhsolution.vn
 sbbanner.com
 ttus.tructiepbongda.me
 www.sbbanner.com
@@ -546,6 +544,7 @@ uapafuxwnusear.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
+unugilpcyxoep.com
 upr90.com
 uselnk.com
 usheebainaut.com
