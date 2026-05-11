@@ -5,10 +5,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -32,9 +28,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+n.popclck.org
+st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -70,10 +69,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -125,7 +120,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -207,8 +201,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -304,6 +298,7 @@ ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
 childhoodstudioconversation.com
+choupsee.com
 ciksolre.net
 citronsstealed.website
 clenchedyouthmatching.com
@@ -348,6 +343,7 @@ g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
+get-here-click.xyz
 ggz48pxys.com
 giggedguddle.com
 gimoqwmikakv.com
@@ -376,6 +372,7 @@ institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
+ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
@@ -469,6 +466,7 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
+pro-ads.club
 proceduresto3.net
 producerplot.com
 ps.bogymentracery.cyou
@@ -518,6 +516,8 @@ spywarenuker.com
 stay.decentralappps.com
 steerensout.net
 stelinnhy.in
+stootsou.net
+sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
@@ -546,8 +546,8 @@ uapafuxwnusear.com
 ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
-unugilpcyxoep.com
 upr90.com
+uselnk.com
 usheebainaut.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
