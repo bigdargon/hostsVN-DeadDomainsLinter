@@ -154,6 +154,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -167,6 +169,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
+ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -203,6 +206,7 @@ www.atdnetwork.com
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -210,6 +214,10 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -274,6 +282,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+benzeinlune.com
 blueswordksh.com
 bmycupptafr.com
 bondleapedoasis.com
@@ -320,6 +329,7 @@ e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 elderlybean.com
+enoughturtlecontrol.com
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -489,6 +499,7 @@ rankingchart.de
 rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
+rmmjy.rrbzvmklrzwmk.top
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
