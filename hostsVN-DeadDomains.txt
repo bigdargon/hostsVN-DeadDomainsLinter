@@ -154,8 +154,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-js-sdk.analytics-data.io
-track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -169,7 +167,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -203,7 +200,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 mautic.serverhub.vn
@@ -428,7 +424,6 @@ nationalgausewatrust.com
 native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
-nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -499,7 +494,6 @@ rankingchart.de
 rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
-rmmjy.rrbzvmklrzwmk.top
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
