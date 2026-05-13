@@ -55,7 +55,6 @@ m.optvx.com
 main.optvx.com
 s.optvx.com
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -154,11 +153,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -167,7 +161,6 @@ js7k.com
 www.js7k.com
 ad.samsungadhub.com
 samsungadhub.com
-click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
@@ -184,6 +177,7 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -251,7 +245,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 sbbanner.com
@@ -367,7 +360,6 @@ faqirsgoliard.top
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
-foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
 fxclix.com
@@ -441,11 +433,10 @@ medusaecaptan.com
 mixedreading.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 mumazfqir.in
-mustardeveningobvious.com
-mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -523,7 +514,6 @@ railwayrainstorm.com
 rankingchart.de
 refpa4293501.top
 renderstreamshuttleanalytics.net
-rmvla.rrqwarwrewrlj.top
 rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
