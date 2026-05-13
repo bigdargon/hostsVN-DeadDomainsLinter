@@ -85,7 +85,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -187,7 +186,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -230,10 +228,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -443,7 +437,6 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -499,6 +492,7 @@ psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
 ptawehex.net
+ptipsixo.com
 pttuzodqkbgv.com
 pushazam.com
 pushlaram.com
