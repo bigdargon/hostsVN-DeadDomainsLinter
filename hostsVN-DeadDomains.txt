@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -48,6 +50,10 @@ madsecz.com
 hadsimz.com
 advinci.net
 count.advinci.net
+www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -56,8 +62,24 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
+api.pvmax.net
+cdn.pvmax.net
+kuasa.pvmax.net
+monika.pvmax.net
+pvmax.net
+www.pvmax.net
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -66,6 +88,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -85,6 +108,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -117,6 +141,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -128,6 +154,11 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -153,7 +184,6 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
-ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
@@ -221,6 +251,7 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 sbbanner.com
@@ -275,6 +306,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+bee7.com
 benzeinlune.com
 blueswordksh.com
 bmycupptafr.com
@@ -341,6 +373,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -408,7 +441,6 @@ medusaecaptan.com
 mixedreading.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
-movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 mumazfqir.in
@@ -419,6 +451,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -490,9 +523,12 @@ railwayrainstorm.com
 rankingchart.de
 refpa4293501.top
 renderstreamshuttleanalytics.net
+rmvla.rrqwarwrewrlj.top
+rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
+ru-traffic.com
 ruwjkygaxo.com
 scripte-monster.de
 septfd2em64eber.com
@@ -591,6 +627,7 @@ yiopse.com
 yldbt.com
 yoshdeum.com
 yrhnw7h63.com
+yu225.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
@@ -604,4 +641,6 @@ bjdxhs.com
 ping.kitidi.com
 rsrly.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
+vizu.com
