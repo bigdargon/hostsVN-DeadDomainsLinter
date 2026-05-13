@@ -55,6 +55,7 @@ m.optvx.com
 main.optvx.com
 s.optvx.com
 a.optimizesrv.com
+ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -76,9 +77,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -161,6 +159,7 @@ js7k.com
 www.js7k.com
 ad.samsungadhub.com
 samsungadhub.com
+click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 ads-adaptv.vidible.tv
@@ -360,12 +359,12 @@ faqirsgoliard.top
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
+foxtlytvs.com
 frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -437,6 +436,8 @@ movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 mumazfqir.in
+mustardeveningobvious.com
+mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -498,7 +499,6 @@ psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
 ptawehex.net
-ptipsixo.com
 pttuzodqkbgv.com
 pushazam.com
 pushlaram.com
