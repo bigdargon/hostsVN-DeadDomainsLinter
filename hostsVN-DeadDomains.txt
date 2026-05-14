@@ -18,7 +18,6 @@ v.zcoup.com
 zcoup.com
 all.dspmulti.com
 dspmulti.com
-aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -66,12 +65,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -82,7 +75,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -106,12 +98,11 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-cdn.anymad.com
-stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
 click.showcasethat.com
+images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -139,7 +130,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
@@ -152,7 +142,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-s400.mxcdn.net
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -362,7 +351,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -426,6 +414,7 @@ materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
+medusaecaptan.com
 mixedreading.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
@@ -474,6 +463,7 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
+pay-ads.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
@@ -629,6 +619,4 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
-vizu.com
