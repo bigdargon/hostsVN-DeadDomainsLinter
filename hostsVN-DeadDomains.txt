@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -18,6 +16,7 @@ v.zcoup.com
 zcoup.com
 all.dspmulti.com
 dspmulti.com
+aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -75,6 +74,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
@@ -122,7 +122,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -176,8 +175,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
 ads.livetv782.me
-ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -405,7 +402,6 @@ literalcorpulent.com
 littlecutecats.com
 llink.site
 loazuptaice.net
-lumupu.xyz
 mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
