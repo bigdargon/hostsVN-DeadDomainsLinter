@@ -1,9 +1,6 @@
 medialytics.com
-a.medialytics.com
-c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
-px.cdn.creative.medialytics.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -76,7 +73,6 @@ syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
-static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -91,7 +87,6 @@ service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
-www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
@@ -216,9 +211,8 @@ adx.mediaz.asia
 dsp.mediaz.asia
 js.mediaz.asia
 mediaz.asia
+static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -556,6 +550,7 @@ synapse22.net
 syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
+t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
