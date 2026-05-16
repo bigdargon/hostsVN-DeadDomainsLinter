@@ -169,6 +169,7 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
+app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -228,7 +229,6 @@ beoneviet.com
 bgkjn.tygpzq.bid
 bgtib222.com
 bhxh.co
-bideo-cdn.com
 bideo-chat.xyz
 bideo-endpoint.xyz
 bideo-schnellvpn.com
@@ -351,6 +351,7 @@ clubfiletyc.com
 clubleadershipsolutions.com
 clzl.pro
 cmvietcombank.com
+cn.hothue.top
 cnaptheaz.com
 cnvietcombank.com
 codb2b.shop
@@ -630,6 +631,7 @@ f-b.live
 facabook.id.vn
 faceb.me
 faceb.pro
+facebook.c0m.ltd
 facebookk.life
 facebookvni.com
 faecbooks.com
@@ -1207,7 +1209,6 @@ lazadaj15.com
 lazadal.fit
 lazadamallc.com
 lazadamallz.com
-lazadao13.com
 lazadao14.com
 lazadaord.com
 lazadap14.com
@@ -1388,7 +1389,6 @@ membershipgarenavn-2021.com
 membershipkimcuong.online
 membershipp-garena.com
 membershipp-garenavn.com
-membershippfreefirevn.com
 membershipsfreefire-garena.com
 membershipsgarenaff.com
 membershipsgarenavn-ff.com
@@ -1756,6 +1756,7 @@ nganhangtructuyen24h.com
 nganhangwu.com
 ngayhoilienquan.vn
 ngaytetlienquan.com
+nghiencltx.com
 ngoctu.click
 ngocvang.pw
 nguoilaodong.net
@@ -1827,6 +1828,7 @@ onlinebanking-shopee.vn
 onlineshop666.com
 onlineshop888.com
 onlineshop999.com
+onlinetiki.com
 onzeage.cfd
 oojoictf.iqerm.link
 opencirculation.com
@@ -1969,8 +1971,6 @@ quaysomediamart2024.vip
 quaythuonggamefreefire.com
 quaythuonggarena.com
 quaythuongmembership.com
-quet-the-truc-tuyen-mposvn-paymentcard.com
-quetthe-365pay.com
 quetthe-creditcad.com
 quetthe-minhpos.com
 quetthe-mpos247.com
@@ -1987,6 +1987,7 @@ quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
+quettheruttien-24hmpos.com
 quettheruttienvn.com
 quetthetindung-247mpos.com
 quetthetindung-vnpay.com
@@ -2177,7 +2178,6 @@ shop7759.com
 shop777.vn
 shop80pot.com
 shop849.com
-shop984.com
 shop9933.com
 shop9999kimcuong.com
 shopacc33.com
@@ -2455,7 +2455,6 @@ shopphh.com
 shopphimgiare.com
 shopphucgmff.tk
 shoppjj.com
-shopplaytogether.vn
 shopplaytogethervip.net
 shoppmm.com
 shoppracquy.vn
@@ -3416,6 +3415,7 @@ vietcoombainkk.com
 vietcoombbank.com
 vietcredit.click
 vietcredit.vip
+vietcredit.website
 vietcredit1.net
 vietcredit247.com
 vietcredit9.com
@@ -3911,7 +3911,6 @@ wvvietcombank.com
 wvwfacebook.com
 wvwiietcoombank.com
 www-icloudid.com
-www.333lotte.com
 www.33lotte.com
 www.555lotte.com
 www.55lotte.com
