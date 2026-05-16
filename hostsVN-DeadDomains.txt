@@ -71,11 +71,9 @@ origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
-go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
-m.mstorer.net
 mstorer.net
 ei.imstks.com
 i.imstks.com
@@ -137,7 +135,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -428,7 +425,6 @@ meaese.click
 meandiminutionhit.com
 medusaecaptan.com
 mixedreading.com
-mobixell.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
 movie-pass.live
@@ -442,7 +438,6 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
@@ -534,6 +529,7 @@ singletplatformgleamenterprises.com
 slidbecauseemerald.com
 snugglethesheep.com
 soccercadencefridge.com
+soggy-surround.com
 solutions2000.com
 sorrowfultrouble.com
 sotchoum.com
@@ -551,6 +547,7 @@ swuojrovqf.com
 synapse22.net
 syndetstermine.com
 sysmeasuring.net
+sz.pyrulaupstage.qpon
 t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com

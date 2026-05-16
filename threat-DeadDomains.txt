@@ -169,7 +169,6 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -316,6 +315,7 @@ checkfbviet.tk
 chientich-sinhnhat-lienquanvn.gq
 chientich-sinhnhatlienquangarenavn.ml
 chinhphu.cc
+chinhphu.dulieucutru.org
 chinhphu.hodancu.com
 chinhphu.kbshkdt.org
 chinhphu.thongtincutru.org
@@ -351,7 +351,6 @@ clubfiletyc.com
 clubleadershipsolutions.com
 clzl.pro
 cmvietcombank.com
-cn.hothue.top
 cnaptheaz.com
 cnvietcombank.com
 codb2b.shop
@@ -364,6 +363,7 @@ com.vn-hc.info
 com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
+com.vn-rn.biz
 com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
@@ -630,7 +630,6 @@ f-b.live
 facabook.id.vn
 faceb.me
 faceb.pro
-facebook.c0m.ltd
 facebookk.life
 facebookvni.com
 faecbooks.com
@@ -883,6 +882,7 @@ hdb.vntanghanmucvisadebit.com
 hdbank.tructuyen-uudai-thekhachhang.com
 hdbankfinancc.digital
 hdbankfinancc.icu
+hdbankfinancc.space
 hdbankfinancc.top
 hdbankfinancc.website
 hdbankfinancc.xyz
@@ -1546,7 +1546,6 @@ muakimcuong.net
 muakimcuongx10.com
 mualevang22.com
 mualienquan.org
-muanicklq.com
 muasamtiki24h.com
 muaso24h.store
 muataikhoannetflixvn.com
@@ -1757,7 +1756,6 @@ nganhangtructuyen24h.com
 nganhangwu.com
 ngayhoilienquan.vn
 ngaytetlienquan.com
-nghiencltx.com
 ngoctu.click
 ngocvang.pw
 nguoilaodong.net
@@ -1794,6 +1792,7 @@ nhantienquocte.today
 nhantiensieutoc.com
 nhantienvipay.com
 nhantienvivnpay.com
+nhanvientiki.info
 nhapcode-lienquan-garena.net
 nhapvang.pro
 nhungmiu.me
@@ -1828,7 +1827,6 @@ onlinebanking-shopee.vn
 onlineshop666.com
 onlineshop888.com
 onlineshop999.com
-onlinetiki.com
 onzeage.cfd
 oojoictf.iqerm.link
 opencirculation.com
@@ -1989,7 +1987,6 @@ quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
-quettheruttien-24hmpos.com
 quettheruttienvn.com
 quetthetindung-247mpos.com
 quetthetindung-vnpay.com
@@ -2954,6 +2951,7 @@ tmko1.com
 tmko2.com
 toaaikhoongnhho-352614.click
 tochucthetindung.com
+tomo5933.vip
 tomo5963.vip
 tongdaifacebook.online
 tongdaitruyenhinhcap.info
@@ -3418,7 +3416,6 @@ vietcoombainkk.com
 vietcoombbank.com
 vietcredit.click
 vietcredit.vip
-vietcredit.website
 vietcredit1.net
 vietcredit247.com
 vietcredit9.com
@@ -3669,6 +3666,7 @@ vnambzuon36sc.vip
 vnbitcoin.cc
 vnc63661s.com
 vnc69977s.com
+vnc75635s.com
 vnduthianhgroup.com
 vnebank.xyz
 vneid.vieegovn.cc
@@ -3799,6 +3797,8 @@ vp-nanghanmuc.com
 vp-nanghanmuc.online
 vp111.vip
 vp7811.com
+vpb-hanmuc.com
+vpb-hanmuc.online
 vpb-nanghanmuc.com
 vpb-nanghanmuc.online
 vpb.nanghanmucvisa-vn.com
@@ -4010,6 +4010,7 @@ xiaosdg.top
 xjpakmdcfuqe.ru
 xjrprd.yokayseiy.com
 xn--napth-351b.vn
+xn--shopgcaoth-043e.vn
 xn--shopmllutv-cx3e.vn
 xn--shoptienzombe-mw2g.vn
 xn--shptruongstar-4w2g.com
