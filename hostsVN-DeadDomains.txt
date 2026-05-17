@@ -1,3 +1,14 @@
+blueserving.com
+admax.nexage.com
+ads.nexage.com
+bos.ads.nexage.com
+hb.nexage.com
+nexage.com
+pinger.ads.nexage.com
+reports.nexage.com
+sjc.ads0.nexage.com
+tangerine.nexage.com
+www.nexage.com
 advertica-cdn.com
 ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
@@ -5,6 +16,8 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -19,6 +32,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -47,7 +61,6 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -74,10 +87,12 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -94,6 +109,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -105,6 +122,8 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+maxymiser.net
+service.maxymiser.net
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -158,6 +177,8 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -188,6 +209,9 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
+ads.livetv785.me
+ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -244,7 +268,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
-ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -277,6 +300,7 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+aerodynomach.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -296,10 +320,13 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
+banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+bee7.com
 benzeinlune.com
+blackbrake.com
 blueswordksh.com
 bmycupptafr.com
 bondleapedoasis.com
@@ -344,6 +371,7 @@ dulrihaungy.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
+eghnybyvn.com
 elderlybean.com
 enoughturtlecontrol.com
 erpqkcfvsjjyap.com
@@ -359,6 +387,7 @@ fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
+frightenedpotato.com
 funoriblithe.space
 fxclix.com
 g0push.com
@@ -465,7 +494,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
@@ -513,6 +541,7 @@ qa.shboshbok.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rnofuxgaz.com
@@ -528,6 +557,7 @@ servsave.com
 sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
+shndrktrk.com
 shoordaird.com
 singletplatformgleamenterprises.com
 slidbecauseemerald.com
@@ -609,6 +639,7 @@ www.pro-ads.club
 www.propu.sh
 www.routeserve.info
 www.servsave.com
+www.shndrktrk.com
 xclicks.net
 xgodpmdczzyza.com
 xnocffar.com
@@ -617,7 +648,6 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
-yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
@@ -638,4 +668,5 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
