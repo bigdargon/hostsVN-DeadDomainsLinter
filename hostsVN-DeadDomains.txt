@@ -120,7 +120,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
-www.winadx.com
 ytvpaid.winadx.com
 maxymiser.net
 service.maxymiser.net
@@ -185,6 +184,7 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
+ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
@@ -323,6 +323,7 @@ beachinfinitegag.com
 bee7.com
 benzeinlune.com
 blackbrake.com
+blueswordksh.com
 bmycupptafr.com
 bondleapedoasis.com
 boobausauhipsa.net
@@ -448,9 +449,7 @@ materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
-medusaecaptan.com
 mixedreading.com
-mobixell.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
 movie-pass.live
