@@ -201,11 +201,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-adn1.adclerks.com
-adn2.adclerks.com
-cdn.adclerks.com
-static.adclerks.com
-www.adclerks.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -227,7 +222,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv765.me
-ads.livetv785.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -294,7 +288,6 @@ ad.vkool.net
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
-tracker.thichxemphim.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -348,7 +341,6 @@ banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -565,7 +557,6 @@ qa.shboshbok.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
