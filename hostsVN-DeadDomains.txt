@@ -84,6 +84,13 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -166,17 +173,22 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
-hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 wensixuetang.com
 www.wensixuetang.com
@@ -188,6 +200,13 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+adn1.adclerks.com
+adn2.adclerks.com
+cdn.adclerks.com
+static.adclerks.com
+www.adclerks.com
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -245,6 +264,8 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
+mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -252,6 +273,10 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -371,6 +396,7 @@ efficientdescent.com
 eghnybyvn.com
 elderlybean.com
 enoughturtlecontrol.com
+enterprises550.net
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -399,7 +425,6 @@ gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
 glimtors.net
-gloaphoo.net
 gloarteegnu.com
 gnenuelnn.com
 go1.for3e.com
@@ -421,6 +446,7 @@ institutehopelessbeck.com
 intorterraon.com
 irncdn.com
 istipaumophy.com
+ivdjs.com
 jailorscoman.cfd
 jewgn8une.com
 jhukfaosdjfa.com
@@ -539,6 +565,7 @@ rankingchart.de
 rankingscout.com
 refpa4293501.top
 renderstreamshuttleanalytics.net
+rmmjy.rrbzvmklrzwmk.top
 rnofuxgaz.com
 rosysolvingscallion.com
 rounddescribe.com
@@ -561,7 +588,6 @@ soggy-surround.com
 solutions2000.com
 sorrowfultrouble.com
 sotchoum.com
-soumehoo.net
 specially4u.net
 spywarenuker.com
 stay.decentralappps.com
@@ -576,6 +602,7 @@ synapse22.net
 syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
+t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -598,7 +625,6 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
-uselnk.com
 usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
