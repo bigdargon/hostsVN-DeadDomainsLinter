@@ -35,7 +35,6 @@ beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
-aj1090.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -52,7 +51,9 @@ aj2503.online
 ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
+jp.marketolive.com
 magento.marketolive.com
+partners.marketolive.com
 www.marketolive.com
 n.popclck.org
 st-n.popclck.org
@@ -113,7 +114,6 @@ www.adxoo.com
 ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
@@ -128,7 +128,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -155,12 +154,12 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -197,8 +196,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -314,7 +311,6 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -536,7 +532,6 @@ poawooptugroo.com
 pokreess.com
 potsaglu.net
 pro-ads.club
-proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
@@ -580,7 +575,6 @@ snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
-sorrowfultrouble.com
 sotchoum.com
 soumehoo.net
 specially4u.net
