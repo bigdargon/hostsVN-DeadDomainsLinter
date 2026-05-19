@@ -112,9 +112,9 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-aixq-streamlit.appier.xyz
 c.netund.com
 netund.com
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -168,6 +168,7 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 ak.hetaruwg.com
+hetaruwg.com
 hetartwg.com
 ak.hetartwg.com
 hetaint.com
@@ -214,6 +215,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv765.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -274,6 +276,7 @@ imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+api2.boclinkads.com
 sbbanner.com
 ttus.tructiepbongda.me
 www.sbbanner.com
