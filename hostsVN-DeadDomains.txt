@@ -75,12 +75,6 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 s.optvx.com
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
-static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 faktorid-fid.choice.faktor.io
@@ -178,8 +172,6 @@ ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -310,9 +302,7 @@ adcenter.net
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
-ads.starzd.com
 ads.vnd89.com
-adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -410,7 +400,6 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
@@ -462,6 +451,7 @@ ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
 lfeorrzkua.com
+lfvvhemghapw.com
 literalcorpulent.com
 littlecutecats.com
 llink.site
@@ -599,6 +589,7 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
+syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.lumupu.xyz
