@@ -133,7 +133,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -169,9 +168,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -208,8 +204,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv765.me
-ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -302,7 +296,9 @@ adcenter.net
 adgardener.com
 ads.cdn2-img.net
 ads.kitidi.com
+ads.starzd.com
 ads.vnd89.com
+adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -400,6 +396,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
@@ -439,7 +436,6 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 jqvhnbxtwze.com
 jz.thringsettos.cyou
-kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
 ketchapp.org
@@ -497,7 +493,6 @@ odnvkuocmow.in
 ofleafeona.com
 ogpriuleifns.com
 ojqbnqdwycws.com
-ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
