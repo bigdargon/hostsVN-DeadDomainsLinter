@@ -21,6 +21,7 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
+logger.zcoup.com
 v.zcoup.com
 zcoup.com
 static.cbsileads.com
@@ -124,7 +125,6 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -244,7 +244,6 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 adv.baovemoitruong.org.vn
 sbbanner.com
-ttus.tructiepbongda.me
 www.sbbanner.com
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -264,7 +263,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 104processors.net
 1fkx796mw.com
 1slms.com
-2443march2024.com
 540creative.net
 734map.net
 7777align.net
@@ -423,7 +421,6 @@ koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
-lfeorrzkua.com
 lfvvhemghapw.com
 literalcorpulent.com
 littlecutecats.com
@@ -482,6 +479,7 @@ orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
+osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
