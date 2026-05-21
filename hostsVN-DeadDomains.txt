@@ -21,9 +21,9 @@ stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
-logger.zcoup.com
 v.zcoup.com
 zcoup.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -217,11 +217,11 @@ atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
+track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -239,8 +239,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -327,6 +325,7 @@ ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
 childhoodstudioconversation.com
+choupsee.com
 ciksolre.net
 citronsstealed.website
 clenchedyouthmatching.com
@@ -415,6 +414,7 @@ jqvhnbxtwze.com
 jz.thringsettos.cyou
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
@@ -434,7 +434,6 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -483,7 +482,6 @@ orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
-osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
