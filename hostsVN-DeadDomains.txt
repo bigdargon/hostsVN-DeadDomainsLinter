@@ -47,10 +47,9 @@ ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
+magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-disp.djaxadserver.com
-premium-adserver.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
 brand.ad
@@ -167,6 +166,7 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
+expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -472,7 +472,6 @@ nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
-nuclearads.com
 nv.shunnerencinal.shop
 ny.damasseakamai.com
 nycvqozkkmzti.com
@@ -499,6 +498,7 @@ osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
+ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 pebadu.com
@@ -510,7 +510,6 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
-planetactive.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -543,7 +542,6 @@ renderstreamshuttleanalytics.net
 rmmjy.rrbzvmklrzwmk.top
 rnofuxgaz.com
 rosysolvingscallion.com
-roumaniangravelnot.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
