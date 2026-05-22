@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -24,7 +26,7 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-static.cbsileads.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -45,7 +47,6 @@ ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
-magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
 disp.djaxadserver.com
@@ -79,6 +80,9 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -108,6 +112,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -125,6 +133,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -148,9 +157,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -161,10 +167,11 @@ ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
-expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -186,6 +193,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -219,6 +227,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -267,8 +276,10 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 734map.net
 7777align.net
 abvfupqkyaj.in
+ad.leadboltapps.net
 adcenter.net
 adgardener.com
+adprojekt.pl
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
@@ -307,6 +318,7 @@ boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
+brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
@@ -345,6 +357,7 @@ disrespectpreceding.com
 dithodackee.com
 dooloust.net
 dulrihaungy.com
+dxtnqglxrio.com
 e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
@@ -370,6 +383,7 @@ funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -421,6 +435,7 @@ koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
+lfeorrzkua.com
 lfvvhemghapw.com
 literalcorpulent.com
 littlecutecats.com
@@ -431,6 +446,7 @@ makafdsugxco.com
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -456,6 +472,7 @@ nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
+nuclearads.com
 nv.shunnerencinal.shop
 ny.damasseakamai.com
 nycvqozkkmzti.com
@@ -474,7 +491,6 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
-orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
@@ -483,7 +499,6 @@ osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
-ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 pebadu.com
@@ -495,6 +510,7 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
+planetactive.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -524,8 +540,10 @@ railwayrainstorm.com
 rankingchart.de
 refpa4293501.top
 renderstreamshuttleanalytics.net
+rmmjy.rrbzvmklrzwmk.top
 rnofuxgaz.com
 rosysolvingscallion.com
+roumaniangravelnot.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
