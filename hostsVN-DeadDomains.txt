@@ -31,6 +31,7 @@ static.adthor.com
 v.adthor.com
 beacon.statful.com
 all.dspmulti.com
+dspmulti.com
 aj1090.online
 aj1549.online
 aj1754.online
@@ -153,11 +154,6 @@ ak.ongastlya.com
 ongastlya.com
 s385.mxcdn.net
 s400.mxcdn.net
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
@@ -215,8 +211,6 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -272,6 +266,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 540creative.net
+734map.net
 7777align.net
 abvfupqkyaj.in
 ad.leadboltapps.net
@@ -539,7 +534,6 @@ qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-refpa4293501.top
 renderstreamshuttleanalytics.net
 rnofuxgaz.com
 rosysolvingscallion.com
@@ -591,7 +585,6 @@ thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
-topmmorpgsites.com
 toqdizbfp.com
 traktrafficflow.com
 tranquilside.com
@@ -604,7 +597,6 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
@@ -629,7 +621,6 @@ wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
-workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
 www.ketchapp.org
