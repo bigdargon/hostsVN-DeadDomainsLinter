@@ -23,7 +23,6 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
-zcoup.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -107,10 +106,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -284,6 +279,7 @@ aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
+afzotfwramzy.in
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -348,6 +344,7 @@ deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
+digitru.st
 disrespectpreceding.com
 dithodackee.com
 dooloust.net
@@ -655,7 +652,6 @@ zumdivdwug.com
 zunsoach.com
 bjdxhs.com
 lem-computers.net
-ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
