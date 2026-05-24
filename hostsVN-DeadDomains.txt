@@ -1,6 +1,5 @@
 admax.nexage.com
 ads.nexage.com
-bos.ads.nexage.com
 hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
@@ -23,6 +22,7 @@ api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
+zcoup.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -194,7 +194,6 @@ aj3007.bid
 aj3017.bid
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
@@ -243,7 +242,6 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 sbbanner.com
 www.sbbanner.com
-thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -260,7 +258,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 540creative.net
 734map.net
 7777align.net
@@ -421,7 +418,6 @@ jz.thringsettos.cyou
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
-ketchapp.org
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
@@ -652,6 +648,7 @@ zumdivdwug.com
 zunsoach.com
 bjdxhs.com
 lem-computers.net
+ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
