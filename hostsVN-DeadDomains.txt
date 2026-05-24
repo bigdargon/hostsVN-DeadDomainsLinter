@@ -24,11 +24,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -68,6 +63,12 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+a.optimizesrv.com
+ads.optimizesrv.com
+optimizesrv.com
+origin-ads.optimizesrv.com
+static.optimizesrv.com
+syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 lalaping.com
@@ -87,8 +88,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -110,7 +109,6 @@ voodoo-analytics.io
 www.voodoo-analytics.io
 cdn.anymad.com
 cdn1.anymad.com
-click.anymad.com
 stats.anymad.com
 qrlsx.com
 v3.qrlsx.com
@@ -186,7 +184,9 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv787.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -218,13 +218,13 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -299,7 +299,6 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -335,6 +334,7 @@ ciksolre.net
 citronsstealed.website
 clenchedyouthmatching.com
 clickcompare.co.uk
+clkads.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
@@ -411,10 +411,12 @@ ileeckut.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
+ioredi.com
 irncdn.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
+jappkummodah.in
 jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
@@ -503,7 +505,6 @@ pekajmkimvx.com
 peppaping.xyz
 petasusawber.com
 phoossax.net
-phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
@@ -512,7 +513,6 @@ poawooptugroo.com
 pokreess.com
 potsaglu.net
 pro-ads.club
-proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
@@ -530,7 +530,6 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -540,7 +539,6 @@ rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
-ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
@@ -621,6 +619,7 @@ wmllfxjjnjq.com
 wombjingle.com
 wonderhsjnsd.com
 woovoree.net
+workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
 www.ketchapp.org
