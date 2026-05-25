@@ -53,6 +53,7 @@ in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadsimz.com
+fadskiz.com
 gadskis.com
 madsecz.com
 hadsimz.com
@@ -100,7 +101,6 @@ delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
-trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 qrlsx.com
@@ -147,7 +147,6 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
-s400.mxcdn.net
 ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
@@ -219,7 +218,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -227,10 +225,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -309,7 +303,6 @@ bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
-bpipihwhumif.com
 brazenwholly.com
 breathelicense.com
 brightcriticism.com
@@ -429,7 +422,6 @@ ketchapp.org
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
-koindut.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -440,7 +432,6 @@ littlecutecats.com
 llink.site
 loazuptaice.net
 mafrarc3e9h.com
-makafdsugxco.com
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
@@ -600,6 +591,7 @@ unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
 usheebainaut.com
+uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
@@ -614,7 +606,6 @@ waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
-whairtoa.com
 whazugho.com
 witvfaojpzi.in
 wiwqhootrf.com
