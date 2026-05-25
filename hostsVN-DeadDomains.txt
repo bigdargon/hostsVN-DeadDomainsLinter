@@ -16,10 +16,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -57,7 +53,6 @@ in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadsimz.com
-fadskiz.com
 gadskis.com
 madsecz.com
 hadsimz.com
@@ -68,6 +63,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -540,7 +536,6 @@ qa.shboshbok.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rcyopmpfef.in
 renderstreamshuttleanalytics.net
 rnofuxgaz.com
@@ -605,7 +600,6 @@ unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
 usheebainaut.com
-uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vncnu.com
