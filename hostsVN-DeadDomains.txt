@@ -16,6 +16,8 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -44,6 +46,7 @@ st-n.popclck.org
 brand.ad
 a.brand.ad
 www.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -68,11 +71,14 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+api.pvmax.net
+cdn.pvmax.net
+kuasa.pvmax.net
+monika.pvmax.net
+pvmax.net
+www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -81,10 +87,19 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -101,6 +116,7 @@ delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
+trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 qrlsx.com
@@ -135,6 +151,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
+int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -147,8 +165,12 @@ admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
 s385.mxcdn.net
-ad-track.adiiix.com
-ads.adiiix.com
+s400.mxcdn.net
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -205,6 +227,10 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
+hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -226,9 +252,12 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -238,6 +267,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -261,6 +291,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 734map.net
 7777align.net
+abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
 adcenter.net
@@ -269,7 +300,6 @@ adprojekt.pl
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
-ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
@@ -295,6 +325,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+bee7.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -303,6 +334,7 @@ bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
+bpipihwhumif.com
 brazenwholly.com
 breathelicense.com
 brightcriticism.com
@@ -432,6 +464,7 @@ littlecutecats.com
 llink.site
 loazuptaice.net
 mafrarc3e9h.com
+makafdsugxco.com
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
@@ -524,6 +557,7 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -594,6 +628,7 @@ usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
+vionito.com
 vncnu.com
 vr.ringentkenlore.com
 vsgpxqdqk.com
@@ -606,6 +641,7 @@ waymarkgentiin.com
 websponsors.com
 wellmadefrog.com
 wgtyvqbfkxg.com
+whairtoa.com
 whazugho.com
 witvfaojpzi.in
 wiwqhootrf.com
@@ -652,4 +688,5 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
