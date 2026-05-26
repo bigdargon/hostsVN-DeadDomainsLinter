@@ -16,8 +16,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-api.parrable.com
-h.parrable.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -71,12 +69,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-api.pvmax.net
-cdn.pvmax.net
-kuasa.pvmax.net
-monika.pvmax.net
-pvmax.net
-www.pvmax.net
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -164,8 +156,6 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
-s385.mxcdn.net
-s400.mxcdn.net
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -202,7 +192,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -240,7 +229,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -248,9 +236,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -267,7 +252,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
-ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -300,6 +284,7 @@ adprojekt.pl
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
+ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
@@ -325,7 +310,6 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -688,5 +672,4 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
