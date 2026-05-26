@@ -91,7 +91,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -131,7 +130,6 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
-cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -148,7 +146,6 @@ int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
-ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -303,6 +300,7 @@ appealtime.com
 arhribadjqp.com
 ashoupsu.com
 ausoafab.net
+axillovely.com
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
@@ -558,7 +556,6 @@ scripte-monster.de
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
-shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 shoordaird.com
