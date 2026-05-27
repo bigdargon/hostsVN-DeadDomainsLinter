@@ -53,6 +53,7 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+fadsims.com
 fadsimz.com
 fadskiz.com
 gadskis.com
@@ -130,6 +131,7 @@ xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
+cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
@@ -143,13 +145,16 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
+int.vlancaa.fun
+network.adclickmedia.com
+tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
+ak.hetartwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
-ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
@@ -157,7 +162,6 @@ appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
-supersonic.ironbeast.io
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -167,6 +171,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -189,6 +195,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -213,10 +220,6 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -283,6 +286,7 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advert360.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -299,12 +303,14 @@ apfxpuatkla.com
 appealtime.com
 arhribadjqp.com
 ashoupsu.com
+assuremath.com
 ausoafab.net
 axillovely.com
 azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
+banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -344,6 +350,7 @@ clkads.com
 clodderpickmaw.com
 cmdpeufwwou.com
 colonserve.com
+coveredbetting.com
 creafi.com
 csyxnkhvueuh.com
 d3jqverr.pro
@@ -363,8 +370,10 @@ dulrihaungy.com
 dxtnqglxrio.com
 e5asyhilodice.com
 effacedefend.com
+effectivemeasure.com
 efficientdescent.com
 eghnybyvn.com
+egistonemes.com
 elderlybean.com
 enoughturtlecontrol.com
 enterprises550.net
@@ -389,6 +398,7 @@ ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
+getadx.com
 ggz48pxys.com
 giggedguddle.com
 gimoqwmikakv.com
@@ -398,14 +408,17 @@ glersakr.com
 glimtors.net
 gloaphoo.net
 gloarteegnu.com
+gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 graizoah.com
+gtsmobi.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
+healthsmd.com
 hixwwert.in
 hppvkbfcuq.com
 hwoqshyx.com
@@ -415,11 +428,11 @@ ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
 ileeckut.com
+immensehoney.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
 ioredi.com
-irncdn.com
 istipaumophy.com
 ivdjs.com
 jailorscoman.cfd
@@ -454,10 +467,12 @@ materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
+mediavenus.com
 medusaecaptan.com
 mixedreading.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+moversa.com
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
@@ -486,6 +501,7 @@ obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
+offerfusion.com
 ofleafeona.com
 ogpriuleifns.com
 ojqbnqdwycws.com
@@ -496,6 +512,7 @@ omciecoa37tw4.com
 ommentsere.biz
 optimal730.com
 oranegfodnd.com
+orb92.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
@@ -520,6 +537,7 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 potsaglu.net
+premium-offers.com
 pro-ads.club
 proceduresto3.net
 producerplot.com
@@ -539,6 +557,7 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+qs251.com
 quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
@@ -556,6 +575,7 @@ scripte-monster.de
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
+shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 shoordaird.com
@@ -593,6 +613,7 @@ thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
+topsearcher.com
 toqdizbfp.com
 traktrafficflow.com
 tranquilside.com
@@ -608,12 +629,13 @@ unugilpcyxoep.com
 usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
+vebadu.com
 vebo-vast.pages.dev
 vionito.com
+visitpath.com
 vncnu.com
 vr.ringentkenlore.com
 vsgpxqdqk.com
-vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
 waisheph.com
@@ -633,6 +655,7 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
+www.healthsmd.com
 www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
@@ -642,6 +665,7 @@ www.servsave.com
 www.shndrktrk.com
 xclicks.net
 xgodpmdczzyza.com
+xmafrihkua.in
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
@@ -664,8 +688,10 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
+hairtease.com
 lem-computers.net
 ping.kitidi.com
+redinvestor.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
