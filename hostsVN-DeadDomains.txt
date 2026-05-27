@@ -79,7 +79,6 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
-www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
@@ -145,8 +144,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
-network.adclickmedia.com
-tracking.adclickmedia.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -242,8 +239,6 @@ app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-api.affmates.com
-storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -251,6 +246,7 @@ tags.fly-ads.net
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
+syndication.adlinknetwork.vn
 ad.vkool.net
 sbbanner.com
 www.sbbanner.com
@@ -265,7 +261,6 @@ su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
-wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
@@ -608,7 +603,7 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
-thaudray.com
+therichkids.com
 thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
@@ -656,7 +651,6 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
-www.healthsmd.com
 www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
