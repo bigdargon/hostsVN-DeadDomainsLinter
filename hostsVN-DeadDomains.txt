@@ -40,6 +40,7 @@ aj2498.online
 aj2503.online
 ajxx91.online
 brand.ad
+a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
@@ -58,7 +59,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -148,7 +148,6 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -165,7 +164,6 @@ trk.vidible.tv
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -311,6 +309,7 @@ bpaqzithab.com
 bpipihwhumif.com
 brazenwholly.com
 breathelicense.com
+brightcriticism.com
 bt.teparytympan.qpon
 butalksuw9dj10.com
 bytefrom2010.com
@@ -371,7 +370,9 @@ fadzudvracat.com
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
+foxtlytvs.com
 frightenedpotato.com
+funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -579,6 +580,7 @@ sz.pyrulaupstage.qpon
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
+techourtoapingu.com
 templatein13.net
 terra8nb.com
 thaudray.com
@@ -598,7 +600,6 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
-usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
