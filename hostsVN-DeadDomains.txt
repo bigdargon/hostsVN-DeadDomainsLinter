@@ -40,7 +40,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 brand.ad
-a.brand.ad
 www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
@@ -60,8 +59,6 @@ advinci.net
 count.advinci.net
 www.advinci.net
 m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -165,8 +162,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -190,9 +185,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
-ads.livetv787.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -319,7 +311,6 @@ bpaqzithab.com
 bpipihwhumif.com
 brazenwholly.com
 breathelicense.com
-brightcriticism.com
 bt.teparytympan.qpon
 butalksuw9dj10.com
 bytefrom2010.com
@@ -380,9 +371,7 @@ fadzudvracat.com
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
-foxtlytvs.com
 frightenedpotato.com
-funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -453,7 +442,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -591,7 +579,6 @@ sz.pyrulaupstage.qpon
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
-techourtoapingu.com
 templatein13.net
 terra8nb.com
 thaudray.com
@@ -642,6 +629,7 @@ wr.amigojimbang.com
 www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
+www.propu.sh
 www.routeserve.info
 www.servsave.com
 www.shndrktrk.com
