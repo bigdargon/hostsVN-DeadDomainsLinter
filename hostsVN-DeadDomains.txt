@@ -1,12 +1,10 @@
 blueserving.com
-admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
-sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 advertica-cdn.com
@@ -165,8 +163,6 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -307,7 +303,6 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -606,6 +601,7 @@ timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
 toqdizbfp.com
+traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
