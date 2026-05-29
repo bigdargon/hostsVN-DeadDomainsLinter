@@ -21,7 +21,13 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 beacon.statful.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -69,6 +75,9 @@ mobytrks.com
 go.mobytrks.com
 lalaping.com
 static.lalaping.com
+media.vivaclix.com
+srv.vivaclix.com
+track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -100,6 +109,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -137,7 +147,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -148,6 +157,7 @@ ak.ongastlya.com
 ongastlya.com
 admix.in
 geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -164,6 +174,7 @@ trk.vidible.tv
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -177,12 +188,15 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
+ads.livetv655.me
+ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -216,6 +230,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -223,6 +238,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -289,6 +307,7 @@ appealtime.com
 arhribadjqp.com
 ashoupsu.com
 asifhclod.com
+astraon255.net
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -443,6 +462,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -478,6 +498,8 @@ obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
+offclaydolon.com
+ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
 ojqbnqdwycws.com
@@ -500,6 +522,7 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
+papaneecorche.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
@@ -537,6 +560,7 @@ quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 rcyopmpfef.in
 renderstreamshuttleanalytics.net
 rnofuxgaz.com
@@ -600,6 +624,8 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
+usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
@@ -649,7 +675,6 @@ yldbt.com
 yoshdeum.com
 yrhnw7h63.com
 zazmunokpvzi.com
-zeekaihu.net
 zenkreka.com
 zikroarg.com
 zireemilsoude.net
