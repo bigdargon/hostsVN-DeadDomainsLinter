@@ -1,10 +1,12 @@
 blueserving.com
+admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
+sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 advertica-cdn.com
@@ -14,6 +16,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -43,6 +49,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 brand.ad
 a.brand.ad
 www.brand.ad
@@ -88,6 +100,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -144,6 +158,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetartwg.com
@@ -170,9 +186,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -186,6 +199,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -211,6 +225,8 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -280,6 +296,7 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -328,6 +345,7 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
+cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
@@ -451,6 +469,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -544,7 +563,6 @@ pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
 qs251.com
-quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
@@ -590,6 +608,7 @@ syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
+t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -673,7 +692,6 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
-d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 ping.kitidi.com
 rsrly.com
