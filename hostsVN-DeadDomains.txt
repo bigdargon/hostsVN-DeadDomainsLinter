@@ -234,7 +234,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -296,7 +295,6 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -563,6 +561,7 @@ pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
 qs251.com
+quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
