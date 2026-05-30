@@ -234,6 +234,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
@@ -245,7 +246,6 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -386,7 +386,6 @@ erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
-existencethrough.com
 exploreannihilationquicker.com
 extracthorizontaldashing.com
 facebookad.for88vn.com
@@ -467,7 +466,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -641,7 +639,6 @@ vr.ringentkenlore.com
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
-vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
@@ -666,7 +663,6 @@ www.propu.sh
 www.routeserve.info
 www.servsave.com
 www.shndrktrk.com
-xclicks.net
 xgodpmdczzyza.com
 xmafrihkua.in
 xnocffar.com
