@@ -122,6 +122,8 @@ qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
 click.showcasethat.com
+images.showcasethat.com
+push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
@@ -228,6 +230,7 @@ www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -252,8 +255,8 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
-sbbanner.com
 www.sbbanner.com
+matomo.bantheme.xyz
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -459,7 +462,6 @@ mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
 marasgumpus.com
-martyrcontrol.com
 materialplayground.com
 mattockpackall.com
 meaese.click
@@ -481,7 +483,6 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -559,6 +560,7 @@ qs251.com
 quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
+rankingchart.de
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
@@ -654,7 +656,6 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
-www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
