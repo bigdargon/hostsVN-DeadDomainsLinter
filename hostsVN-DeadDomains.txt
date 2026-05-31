@@ -9,13 +9,8 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-advertica-cdn.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
+api.parrable.com
+h.parrable.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -39,7 +34,6 @@ aj1549.online
 aj1754.online
 aj1855.online
 aj1863.online
-aj2142.online
 aj2218.online
 aj2274.online
 aj2307.online
@@ -75,6 +69,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -83,6 +80,13 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+faktorid-fid.choice.faktor.io
+faktornet.faktor.io
+geo.choice.faktor.io
+intranet.faktor.io
+logos.choice.faktor.io
+m.faktor.io
+mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -138,6 +142,7 @@ www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
+www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -167,6 +172,12 @@ ongastlya.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+analytics.truffle.bid
+cdn.truffle.bid
+matching.truffle.bid
+ad-track.adiiix.com
+ads.adiiix.com
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -182,6 +193,8 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -196,6 +209,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
+ads.livetv787.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -221,8 +235,6 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -230,6 +242,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -244,7 +257,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -257,6 +269,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
@@ -354,7 +367,6 @@ clickcompare.co.uk
 clkads.com
 clodderpickmaw.com
 cmdpeufwwou.com
-colonserve.com
 creafi.com
 csyxnkhvueuh.com
 d3jqverr.pro
@@ -373,6 +385,7 @@ dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eclickz.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
@@ -441,6 +454,7 @@ jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jqvhnbxtwze.com
+jsudwyjduktw.com
 jz.thringsettos.cyou
 kaisauwoure.net
 kamwaflmoacd.com
@@ -476,6 +490,7 @@ mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
+musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mybettermb.com
@@ -483,6 +498,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -532,6 +548,7 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
+pixel.mediaiqdigital.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -561,6 +578,7 @@ qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
 rcyopmpfef.in
+redri.net
 renderstreamshuttleanalytics.net
 rnofuxgaz.com
 rosysolvingscallion.com
@@ -570,7 +588,6 @@ rqjcsnihsje.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
-septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
@@ -613,6 +630,7 @@ timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
 toqdizbfp.com
+trac.mediaiqdigital.com
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -621,6 +639,7 @@ tutgcinarlak.com
 u1pmt.com
 uapafuxwnusear.com
 ugroocuw.net
+unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
 upr90.com
@@ -639,6 +658,7 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 websponsors.com
+welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
@@ -688,4 +708,5 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
+track.hydro.online
 tracker.toolpg.com
