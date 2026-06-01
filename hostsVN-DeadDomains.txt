@@ -22,10 +22,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -183,6 +179,7 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
+ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -227,7 +224,6 @@ www.atdnetwork.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -315,6 +311,7 @@ basepush.com
 beabsolom.com
 beachinfinitegag.com
 bee7.com
+benzeinlune.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
@@ -352,7 +349,6 @@ clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
-crowdgravity.com
 csyxnkhvueuh.com
 d3jqverr.pro
 dalyio.com
@@ -464,7 +460,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -492,10 +487,8 @@ nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
-nucopzqt.in
 nv.shunnerencinal.shop
 ny.damasseakamai.com
-nycvqozkkmzti.com
 oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
@@ -527,6 +520,7 @@ palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 pebadu.com
+pekajmkimvx.com
 peppaping.xyz
 petasusawber.com
 phoossax.net
@@ -534,7 +528,6 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
-pixel.mediaiqdigital.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -542,6 +535,7 @@ potsaglu.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
+propu.sh
 ps.bogymentracery.cyou
 psoroumukr.com
 ptakeemsaifegro.net
@@ -615,7 +609,6 @@ timohtazxazej.website
 tkexutqf.in
 top-casting-termine.de
 toqdizbfp.com
-trac.mediaiqdigital.com
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -629,7 +622,6 @@ untidyquestion.com
 unugilpcyxoep.com
 upr90.com
 usheebainaut.com
-uumkcycj.com
 uz.louchefunnel.shop
 vebo-vast.pages.dev
 vionito.com
@@ -639,7 +631,6 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
-waisheph.com
 waufooke.com
 waymarkgentiin.com
 websponsors.com
