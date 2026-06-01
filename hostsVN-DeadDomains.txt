@@ -1,4 +1,6 @@
 blueserving.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -21,7 +23,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 api.adthor.com
-image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
@@ -75,13 +76,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 lalaping.com
 static.lalaping.com
 media.vivaclix.com
@@ -99,6 +93,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -150,16 +145,19 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
+s385.mxcdn.net
+s400.mxcdn.net
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
@@ -178,8 +176,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-js-sdk.analytics-data.io
-track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -187,7 +183,6 @@ ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
-ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
@@ -220,6 +215,8 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -234,6 +231,7 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -255,8 +253,8 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
+sbbanner.com
 www.sbbanner.com
-matomo.bantheme.xyz
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -316,7 +314,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-benzeinlune.com
+bee7.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
@@ -351,9 +349,10 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clkads.com
 clodderpickmaw.com
+clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
+crowdgravity.com
 csyxnkhvueuh.com
 d3jqverr.pro
 dalyio.com
@@ -391,6 +390,7 @@ fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
+fqboclyjc.com
 frightenedpotato.com
 funoriblithe.space
 fxclix.com
@@ -462,11 +462,14 @@ mafrarc3e9h.com
 makafdsugxco.com
 maltunfaithfulpredominant.com
 marasgumpus.com
+martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
+messagenovice.com
 mixedreading.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
@@ -524,7 +527,6 @@ palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 pebadu.com
-pekajmkimvx.com
 peppaping.xyz
 petasusawber.com
 phoossax.net
@@ -540,7 +542,6 @@ potsaglu.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
-propu.sh
 ps.bogymentracery.cyou
 psoroumukr.com
 ptakeemsaifegro.net
@@ -556,7 +557,6 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qs251.com
 quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
@@ -656,6 +656,7 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
+www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
@@ -667,6 +668,7 @@ xmafrihkua.in
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
+xpwesthmfqphh.com
 xr.staxisclivias.com
 xruamzpanbca.com
 xymhdmqrjxwl.com
@@ -675,6 +677,7 @@ yiopse.com
 yldbt.com
 yoshdeum.com
 yrhnw7h63.com
+yrocvgqilrmowj.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
