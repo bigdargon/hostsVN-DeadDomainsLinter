@@ -81,19 +81,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -214,7 +201,6 @@ wakeup247.klick.vn
 www.klick.vn
 adx.mediaz.asia
 dsp.mediaz.asia
-js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
@@ -257,6 +243,7 @@ ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
+log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -316,7 +303,6 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -370,7 +356,6 @@ dnemkhkbsdbl.com
 dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
-e5asyhilodice.com
 eclickz.com
 effacedefend.com
 efficientdescent.com
@@ -394,7 +379,6 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 funoriblithe.space
-fxclix.com
 g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
@@ -412,6 +396,7 @@ gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
+gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 graizoah.com
@@ -487,6 +472,7 @@ nationalgausewatrust.com
 native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -500,7 +486,6 @@ obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
-odqdkealzr.com
 offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
@@ -558,7 +543,6 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
-qiptamcupl.com
 quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
@@ -696,5 +680,4 @@ ping.kitidi.com
 rsrly.com
 spkoevngk.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
