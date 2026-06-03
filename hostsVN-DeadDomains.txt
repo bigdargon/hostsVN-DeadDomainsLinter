@@ -123,6 +123,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -215,6 +216,8 @@ www.klick.vn
 adx.mediaz.asia
 dsp.mediaz.asia
 js.mediaz.asia
+mediaz.asia
+static.mediaz.asia
 www.mediaz.asia
 adserver.atdnetwork.com
 atdnetwork.com
@@ -278,7 +281,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
-ad.mgd.de
 adcenter.net
 adgardener.com
 admarket.network
@@ -417,6 +419,7 @@ hixwwert.in
 hppvkbfcuq.com
 hwoqshyx.com
 hwuhkabi.in
+hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
@@ -693,7 +696,6 @@ zumdivdwug.com
 zunsoach.com
 bjdxhs.com
 lem-computers.net
-rsrly.com
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
