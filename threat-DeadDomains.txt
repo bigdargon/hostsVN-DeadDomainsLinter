@@ -173,7 +173,6 @@ anzvn.net
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
@@ -461,7 +460,6 @@ dathangdon.com
 dautruongdanhvong.com
 dautukiemtien.net
 dcommerc.cfd
-defi.hsfdefi.com
 demo.sc0mvn.com
 depandirect.be
 dev-checkmoneypayment-mpos.com
@@ -676,6 +674,9 @@ ff-members-garena.vn
 ff-membership-garena.com
 ff-membership-garenal.ga
 ff-membership-grn.com
+ff-membership.shop
+ff-membershipp-garena.net
+ff-membershipp.com
 ff-memberships-garena-vn.com
 ff-membershipz-garena.ga
 ff-membersship-garrena.com
@@ -936,6 +937,9 @@ hishopes.com
 hitiens.com
 hkdbitexchange.com
 hoangkim1.org
+hocsinh-vn-edu.online
+hocsinhthanhlich.com
+hocsinhthanhlich2020.info
 hocsinhthanhlich2021.online
 hocsinhthanhlich21.xyz
 hoiquanlq.vn
@@ -943,7 +947,6 @@ homecreditvn.net
 honapply.vn
 hopquafreefire2021.com
 hopquavn.com
-hoso5032.com
 hosodangkyjookyli.com
 hososonghung.org
 hosothuong22.com
@@ -1237,7 +1240,6 @@ lienkettaikhoan.com
 lienkettaikhoannhanqua.online
 lienketvidientu.com
 lienminh-membership.com
-lienminhhanghieu.com
 lienminhshopgame.com
 lienquan-garena-giftcode.com
 lienquan-garena-member.com
@@ -1282,7 +1284,6 @@ lmht-membership.com
 lmoney01.com
 lo.dama582.com
 loafoushuho.com
-loanmoney-th.com
 locabank.vn
 locmomo.com
 login-applecare.com
@@ -1493,7 +1494,6 @@ momovip.me
 momovip03.com
 momovip88.com
 momovn.me
-momovnd.com
 momovui.club
 momovui.com
 momoxxx.net
@@ -1926,7 +1926,6 @@ quahe-lienminh.ga
 qualienquan-trian.com
 qualienquan.vn
 qualityt56.com
-quamembergarena.com
 quamemberthang9-freefirevn.com
 quamomo.vn
 quandoi-viettel.com
@@ -2204,6 +2203,7 @@ shopbloxfruit.click
 shopcao10sao.com
 shopccv.pro
 shopchienthan.com
+shopclone.net
 shopclonegiare.site
 shopcocphuchoai.com
 shopcodelienquan.com
@@ -2600,6 +2600,7 @@ sukien-giftcode24h-garena.com
 sukien-giftcoded-garena.com
 sukien-latquaff.com
 sukien-lienminh.com
+sukien-lienminhtocchien.site
 sukien-lienquanmobile.com
 sukien-lmht.com
 sukien-lq-garena.com
@@ -3077,7 +3078,6 @@ ttmomo.win
 tuanbansub.ml
 tuanlevang.vn
 tuanlocvang123.com
-tuoitre24h.info
 tututiki.com
 tuvanruttien.com
 tuyendung-shopee.com
@@ -3186,6 +3186,8 @@ vaynhanh247-doctordong.com
 vaynhanh24h.tk
 vaynhanh3t.online
 vaynhanh5p.click
+vaynhanhh.xyz
+vaynhanhhoangphuc.com
 vaynhanhmb.com
 vaynhanhmsb.site
 vaynhanhnamthanh.org
@@ -3383,7 +3385,6 @@ vietcapital.cyou
 vietcapital.online
 vietcapital.vip
 vietcapitalc.top
-vietcapitalv.cc
 vietciombank.com
 vietcoimbank.com
 vietcom-credit.com
@@ -3749,7 +3750,6 @@ vongquaycongnghegarena.com
 vongquayduthuong.com
 vongquayfreefiremembership.com
 vongquaygarena2021.com
-vongquaygarena21.com
 vongquaykimcuongfreefire.com
 vongquaylienminh.vn
 vongquaylienmoba2021.com
@@ -3815,6 +3815,7 @@ vpbank.uudai-tructuyen-chamsockhachhang-the.com.vn
 vpbank.uudaikhachhang-chamsocthetructuyen.com.vn
 vpbank.vn-cl.xyz
 vpbank.vn-cn.life
+vpbank.vn-cr.life
 vpbank.vn-sp.xyz
 vpbankvn.com
 vpbban.com

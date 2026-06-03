@@ -31,7 +31,6 @@ h5.appadhoc.com
 sdk.appadhoc.com
 tracker.appadhoc.com
 www.appadhoc.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -92,6 +91,7 @@ ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
+www.imstks.com
 c.netund.com
 netund.com
 native-vpaid.winadx.com
@@ -123,7 +123,6 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -145,7 +144,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -217,8 +215,6 @@ www.klick.vn
 adx.mediaz.asia
 dsp.mediaz.asia
 js.mediaz.asia
-mediaz.asia
-static.mediaz.asia
 www.mediaz.asia
 adserver.atdnetwork.com
 atdnetwork.com
@@ -282,6 +278,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
+ad.mgd.de
 adcenter.net
 adgardener.com
 admarket.network
@@ -292,7 +289,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -370,7 +366,6 @@ dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
 e5asyhilodice.com
-eclickz.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
@@ -422,7 +417,6 @@ hixwwert.in
 hppvkbfcuq.com
 hwoqshyx.com
 hwuhkabi.in
-hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
@@ -481,6 +475,7 @@ movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
+mumazfqir.in
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
