@@ -194,7 +194,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
-ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -241,10 +240,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-ad.native-ad.net
-beauty.native-ad.net
-gluco.native-ad.net
-vena.native-ad.net
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -261,6 +256,7 @@ ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
+log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -428,6 +424,7 @@ hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
+ileeckut.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
@@ -467,7 +464,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -491,7 +487,6 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
