@@ -1,10 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -24,13 +18,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -48,9 +40,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-brand.ad
+n.popclck.org
+st-n.popclck.org
 a.brand.ad
-www.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -113,6 +105,13 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
+admobclick.com
+pixel.admobclick.com
+www.admobclick.com
 qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
@@ -145,6 +144,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -178,6 +178,8 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+js-sdk.analytics-data.io
+track.analytics-data.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -193,6 +195,8 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv787.me
+ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -238,6 +242,10 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+gluco.native-ad.net
+vena.native-ad.net
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -255,7 +263,6 @@ ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
-log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -273,7 +280,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2443march2024.com
 540creative.net
 734map.net
@@ -352,6 +358,7 @@ clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
+creafi.com
 csyxnkhvueuh.com
 d3jqverr.pro
 dalyio.com
@@ -463,7 +470,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -487,6 +493,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -497,7 +504,6 @@ nucopzqt.in
 nv.shunnerencinal.shop
 ny.damasseakamai.com
 nycvqozkkmzti.com
-oabaubsutha.com
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -552,7 +558,6 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
-pushazam.com
 pushlaram.com
 pushmono.com
 pushqwer.com
@@ -566,13 +571,14 @@ railwayrainstorm.com
 rankingchart.de
 rcyopmpfef.in
 redri.net
-remox.com
 renderstreamshuttleanalytics.net
+rmmjy.rrbzvmklrzwmk.top
 rnofuxgaz.com
 rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
+rtbrennab.com
 ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
