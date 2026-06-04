@@ -4,6 +4,7 @@ ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
 nexage.com
+pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
@@ -192,7 +193,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -246,7 +246,6 @@ beauty.native-ad.net
 gluco.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -262,7 +261,6 @@ ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
-log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -393,6 +391,7 @@ fadzudvracat.com
 fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
+foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 funoriblithe.space
@@ -429,7 +428,6 @@ hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
-ileeckut.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
