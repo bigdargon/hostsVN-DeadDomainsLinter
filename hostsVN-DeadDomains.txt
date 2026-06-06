@@ -107,11 +107,11 @@ ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -540,6 +540,7 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
+planetactive.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -591,7 +592,6 @@ sheecmimty.net
 shndrktrk.com
 shoordaird.com
 singletplatformgleamenterprises.com
-slidbecauseemerald.com
 snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
@@ -633,6 +633,7 @@ tutgcinarlak.com
 u1pmt.com
 uapafuxwnusear.com
 ugroocuw.net
+ultsearch.com
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
