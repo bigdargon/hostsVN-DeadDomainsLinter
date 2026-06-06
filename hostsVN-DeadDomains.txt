@@ -173,6 +173,7 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -222,8 +223,6 @@ static.mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -240,7 +239,6 @@ mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
-www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -260,7 +258,6 @@ ad.vkool.net
 adv.baovemoitruong.org.vn
 ax.mpcdn.top
 sbbanner.com
-ttus.tructiepbongda.me
 www.sbbanner.com
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -546,6 +543,7 @@ pietexture.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
+poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 pro-ads.club
@@ -611,6 +609,7 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
+syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
@@ -669,7 +668,6 @@ wr.amigojimbang.com
 www.admarket.network
 www.ketchapp.org
 www.phoossax.net
-www.pro-ads.club
 www.propu.sh
 www.routeserve.info
 www.servsave.com
