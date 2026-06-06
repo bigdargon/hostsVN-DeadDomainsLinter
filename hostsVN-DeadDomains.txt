@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -24,6 +22,8 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -41,6 +41,13 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+advertiseradserver.djaxadserver.com
+disp.djaxadserver.com
+dm.djaxadserver.com
+mob.djaxadserver.com
+mobilesdk.djaxadserver.com
+premium-adserver.djaxadserver.com
+rtb.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
 cdn.bidfilter.com
@@ -78,8 +85,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-c.netund.com
-netund.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -150,6 +163,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -159,7 +173,6 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -209,6 +222,8 @@ static.mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -242,10 +257,11 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+adv.baovemoitruong.org.vn
 ax.mpcdn.top
 sbbanner.com
+ttus.tructiepbongda.me
 www.sbbanner.com
-log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -263,6 +279,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+2443march2024.com
 540creative.net
 734map.net
 7777align.net
@@ -274,6 +291,7 @@ adgardener.com
 admarket.network
 adprojekt.pl
 ads.cdn2-img.net
+ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -460,6 +478,7 @@ messenger-notify.digital
 mixedreading.com
 mkkvprwskq.com
 moonoafy.net
+mountaindriftevolutiontechnologies.net
 movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
@@ -527,7 +546,6 @@ pietexture.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
-poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 pro-ads.club
@@ -593,7 +611,6 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
-syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
@@ -684,6 +701,7 @@ zumdivdwug.com
 zunsoach.com
 bjdxhs.com
 lem-computers.net
+ping.kitidi.com
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
