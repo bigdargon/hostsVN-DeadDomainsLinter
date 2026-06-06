@@ -107,7 +107,6 @@ ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
-front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
@@ -239,6 +238,7 @@ mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
+www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
@@ -668,6 +668,7 @@ wr.amigojimbang.com
 www.admarket.network
 www.ketchapp.org
 www.phoossax.net
+www.pro-ads.club
 www.propu.sh
 www.routeserve.info
 www.servsave.com
