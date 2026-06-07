@@ -42,7 +42,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 advertiseradserver.djaxadserver.com
-disp.djaxadserver.com
 dm.djaxadserver.com
 mob.djaxadserver.com
 mobilesdk.djaxadserver.com
@@ -67,19 +66,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -128,9 +114,6 @@ www.voodoo-analytics.io
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
-qrlsx.com
-v3.qrlsx.com
-vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -171,6 +154,7 @@ ongastlya.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
@@ -206,7 +190,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -234,7 +217,6 @@ mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
 cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -269,7 +251,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
-adv.baovemoitruong.org.vn
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
@@ -504,9 +485,7 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
-native-track.com
 nativepu.sh
-navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -554,6 +533,7 @@ peppaping.xyz
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
+phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
