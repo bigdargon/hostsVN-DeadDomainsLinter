@@ -67,6 +67,19 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -112,6 +125,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -149,6 +163,7 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
+asgdfasad.mm-cgnews.com
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -171,6 +186,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -194,6 +211,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -229,6 +247,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -276,7 +295,9 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2443march2024.com
+303bus.net
 540creative.net
 734map.net
 7777align.net
@@ -292,12 +313,14 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
 ahlcujguphr.com
+aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
@@ -354,7 +377,6 @@ clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 csyxnkhvueuh.com
 d3jqverr.pro
 dalyio.com
@@ -427,6 +449,7 @@ ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
 ileeckut.com
+industries78.net
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
@@ -489,6 +512,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -540,7 +564,6 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pietexture.com
-planetactive.com
 playsdonkey.com
 poawooptugroo.com
 pokreess.com
@@ -574,6 +597,7 @@ rankingchart.de
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
+rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
 rounddescribe.com
@@ -592,6 +616,8 @@ sheecmimty.net
 shndrktrk.com
 shoordaird.com
 singletplatformgleamenterprises.com
+siweieoyjl.com
+slidbecauseemerald.com
 snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
@@ -624,6 +650,7 @@ timohtazxazej.website
 tkexutqf.in
 toglooman.com
 top-casting-termine.de
+topsite.lv
 toqdizbfp.com
 traktrafficflow.com
 tranquilside.com
@@ -632,8 +659,8 @@ tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
 uapafuxwnusear.com
+ueikno.com
 ugroocuw.net
-ultsearch.com
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
@@ -658,6 +685,7 @@ wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
+whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
