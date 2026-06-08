@@ -43,7 +43,6 @@ premium-adserver.djaxadserver.com
 rtb.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -119,6 +118,7 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -153,7 +153,6 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
-ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -178,8 +177,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv655.me
-ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
@@ -193,6 +190,7 @@ aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2577.bid
+aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -224,7 +222,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -232,8 +229,8 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -377,6 +374,7 @@ erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
+existencethrough.com
 exploreannihilationquicker.com
 extracthorizontaldashing.com
 facebookad.for88vn.com
@@ -400,6 +398,7 @@ gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
+glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
@@ -566,7 +565,6 @@ quicksandear.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
@@ -630,7 +628,6 @@ traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
-tutgcinarlak.com
 u1pmt.com
 uapafuxwnusear.com
 ueikno.com
