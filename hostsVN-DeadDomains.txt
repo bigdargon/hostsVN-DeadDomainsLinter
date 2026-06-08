@@ -17,7 +17,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -93,7 +92,10 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
+service.winadx.com
+syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -117,7 +119,6 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
-cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
@@ -192,7 +193,6 @@ aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2577.bid
-aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -232,7 +232,6 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -318,6 +317,7 @@ benzeinlune.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
+bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
@@ -329,6 +329,7 @@ bt.teparytympan.qpon
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
+cagamvnuqhuh.com
 cameesse.net
 cb.snoozyhayride.com
 cben1.net
@@ -376,7 +377,6 @@ erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 ewhareey.com
-existencethrough.com
 exploreannihilationquicker.com
 extracthorizontaldashing.com
 facebookad.for88vn.com
@@ -385,6 +385,7 @@ fibqukktuv.in
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
+fqboclyjc.com
 frightenedpotato.com
 funoriblithe.space
 fxclix.com
@@ -399,7 +400,6 @@ gimoqwmikakv.com
 gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
-glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
