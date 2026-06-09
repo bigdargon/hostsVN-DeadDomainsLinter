@@ -33,6 +33,7 @@ aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
+ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -75,14 +76,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -159,10 +152,8 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
 p.agentanalytics.com
 t.agentanalytics.com
-u.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -189,6 +180,7 @@ aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2577.bid
+aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -196,7 +188,6 @@ aj3007.bid
 aj3017.bid
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
@@ -283,7 +274,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -359,6 +349,7 @@ digitru.st
 disrespectpreceding.com
 dithodackee.com
 dnemkhkbsdbl.com
+dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
 e5asyhilodice.com
@@ -574,7 +565,6 @@ rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
 rtbrennab.com
-ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
@@ -634,7 +624,6 @@ ugroocuw.net
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uz.louchefunnel.shop
