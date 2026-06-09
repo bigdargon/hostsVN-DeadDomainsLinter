@@ -213,7 +213,6 @@ bao-moi.pro
 baohanhdienmayxanhvn.com
 baohiemxahoi.vnagov.com
 baomoivn.net
-baonhanh.online
 baosaoviet24h.net
 baothanhnien.top
 baotienphong.net
@@ -249,7 +248,6 @@ bm1717.com
 bm3536.com
 bmoney2017.com
 bocongthuong.org
-bsanvietnam.online
 bschuyenkhoamat.biz
 bsoabpxfs.njasu.de
 btcsender.cloud
@@ -405,7 +403,6 @@ cryptominexchange.com
 cryptooexchange.xyz
 cskh-ca-nhan-vpbank.com
 cskh-dienmay-xanh.com
-cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
 cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
@@ -964,6 +961,7 @@ hotro.asia
 hotro.autos
 hotro0nline28.com
 hotrochatluongchuyennghieptoanquoc.click
+hotrodienmayxanh.com
 hotrokhachhang-garena-account.com
 hotrokhachhang-uudai-tructuyen.com.vn
 hotrokhachhangtindungvietinbank.com
@@ -979,6 +977,7 @@ hotrovaynganhang.com
 hotrovaynganhang88.com
 hotrovaytaichinhsg.com
 hotrovaytinchapshinhan.xyz
+hotrovaytinchapvpbank.com
 hotrovayvoneximbak.com
 hotroviet999.com
 hpggroup.net
@@ -1050,7 +1049,6 @@ ipscanneronline.com
 ipscannershop.com
 irduwhojas.ga
 iruiotish.cfd
-isacambank.com
 isacembank.com
 isacombank.net
 isaombank.com
@@ -1063,6 +1061,7 @@ itsdebri.cfd
 iviietcombank.com
 ivvietcombank.com
 ivz7x63ymy.ru
+iyogo.shop
 jaccsc.com
 jaccscom.com
 jaccsn.com
@@ -1859,7 +1858,6 @@ phanmemgiare.club
 phanmemgoc.net
 phanmemmaytinh.net
 phanmemquocte.com
-phanmemvip.net
 phanqua01vn.com
 phanqua365vn.com
 phanqua7979.com
@@ -2134,6 +2132,7 @@ shbfinan.com
 shbfinanoe.com
 shbfinans.com
 shbkhuyenmai.com
+shek66.com
 shilla.skrfgrl.cn
 shinhan.chamsoccanhankhachhangthe-tructuyen.online
 shinhan.chamsocthe-uudaikhachhang.com
@@ -2265,7 +2264,6 @@ shopee320.vip
 shopee323.vip
 shopee33.vip
 shopee33388.cc
-shopee39.vip
 shopee390.vip
 shopee52.com
 shopee5566.com
@@ -2277,6 +2275,7 @@ shopee687.com
 shopee733.com
 shopee7788.com
 shopee866.com
+shopee88.vip
 shopee889.com
 shopee918.com
 shopee99.vip
@@ -2504,7 +2503,6 @@ shopwibugaming.com
 shopxamgaming.com
 shopxu24h.site
 shopxu365.com
-shopy59782.com
 showcrack.com
 showzyeye.com
 shrimpskins.org
@@ -2731,6 +2729,7 @@ tdkt01.com
 tdkt04.com
 tdkt06.com
 tdkt07.com
+techcombank.ngan-hang.net
 techcombank.site
 techcombank.vn-cl.xyz
 techcombank.vn-iy.life
@@ -3214,7 +3213,6 @@ vaythinhvuong.com.vn
 vaythinhvuong.net
 vaytien-sacombank.xyz
 vaytien-techcombank.online
-vaytien1click.online
 vaytien24gio.com
 vaytien3.com
 vaytien365.online
@@ -3796,7 +3794,6 @@ vonsieuytoc.com
 vonsieuztoc.com
 vp-hanmuc.com
 vp-nanghanmuc.com
-vp-nanghanmuc.online
 vp111.vip
 vp7811.com
 vpb-hanmuc.com
@@ -3818,6 +3815,7 @@ vpbank.uudaikhachhang-chamsocthetructuyen.com.vn
 vpbank.vn-cl.xyz
 vpbank.vn-cn.life
 vpbank.vn-cr.life
+vpbank.vn-sp.xyz
 vpbankvn.com
 vpbban.com
 vpbbank.com
@@ -3954,7 +3952,10 @@ www.lottevn896.com
 www.lottevn999.com
 www.lottevn9999.com
 www.naptheffx2.com
+www.nikestorevn.com
+www.samcenter-vn.com
 www.samsungvn.info
+www.sc0mvn.com
 www.seleeashopee.com
 www.sgxcoin.net
 www.shbfina.com
