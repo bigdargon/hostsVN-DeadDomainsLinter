@@ -152,12 +152,8 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-p.agentanalytics.com
-t.agentanalytics.com
 cryptox-ads.io
 mat.cryptox-ads.io
-pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -188,6 +184,7 @@ aj3007.bid
 aj3017.bid
 adv.klick.vn
 demo.klick.vn
+euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
@@ -234,7 +231,6 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
-ttus.tructiepbongda.me
 www.sbbanner.com
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -295,7 +291,6 @@ azoaltou.com
 azrwwodreta.com
 bahmemohod.com
 baithoph.net
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -436,7 +431,6 @@ ketchapp.org
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
-kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -599,7 +593,6 @@ syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
@@ -608,7 +601,6 @@ thaudray.com
 thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
-toglooman.com
 top-casting-termine.de
 topsite.lv
 toqdizbfp.com
