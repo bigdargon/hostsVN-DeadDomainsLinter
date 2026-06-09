@@ -96,8 +96,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-        with:
-         token: ${{ secrets.TOKEN }}
 
       - name: Download all dead-domains artifacts
         continue-on-error: true
