@@ -51,7 +51,6 @@ in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadsimz.com
-fadskiz.com
 gadskis.com
 madsecz.com
 hadsimz.com
@@ -71,7 +70,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -175,6 +173,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -196,7 +195,6 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 adx.mediaz.asia
@@ -206,6 +204,7 @@ mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
 adserver.atdnetwork.com
+atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -214,7 +213,6 @@ www.atdnetwork.com
 kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -458,7 +456,6 @@ martyrcontrol.com
 materialplayground.com
 mattockpackall.com
 meaese.click
-meandiminutionhit.com
 medusaecaptan.com
 messagenovice.com
 messenger-notify.digital
@@ -567,7 +564,6 @@ rnofuxgaz.com
 rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
-rqjcsnihsje.com
 rtbrennab.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
