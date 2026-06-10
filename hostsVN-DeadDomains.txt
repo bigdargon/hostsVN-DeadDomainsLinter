@@ -1,3 +1,4 @@
+blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -8,6 +9,12 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -77,7 +84,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 appier.xyz
-aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
@@ -99,6 +105,11 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -154,6 +165,8 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
+pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -170,6 +183,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -182,6 +196,9 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+litvp.com
+ss15.litvp.com
+ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -209,8 +226,8 @@ www.atdnetwork.com
 kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
-cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
@@ -229,6 +246,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+adv.baovemoitruong.org.vn
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
@@ -289,6 +307,7 @@ astraon255.net
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
+b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 basepush.com
@@ -331,6 +350,7 @@ clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
+creafi.com
 csyxnkhvueuh.com
 d3jqverr.pro
 dalyio.com
@@ -344,6 +364,7 @@ digitru.st
 disrespectpreceding.com
 dithodackee.com
 dnemkhkbsdbl.com
+domaining.in
 dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
@@ -351,6 +372,7 @@ e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
+ejnhhchykjfyyle.com
 elderlybean.com
 enoughturtlecontrol.com
 enterprises550.net
@@ -398,7 +420,6 @@ hits4pay.com
 hixwwert.in
 hppvkbfcuq.com
 hwoqshyx.com
-hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
@@ -409,7 +430,6 @@ inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
 ioredi.com
-irncdn.com
 istipaumophy.com
 itletroec.com
 ivdjs.com
@@ -561,7 +581,6 @@ rqjcsnihsje.com
 rtbrennab.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
-scripte-monster.de
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
@@ -593,6 +612,7 @@ syndetstermine.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
+taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
@@ -601,6 +621,7 @@ thaudray.com
 thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
+toglooman.com
 top-casting-termine.de
 topsite.lv
 toqdizbfp.com
@@ -632,6 +653,7 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 websponsors.com
+webtrackerplus.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
@@ -648,7 +670,6 @@ wounofoarausooy.net
 wr.amigojimbang.com
 www.admarket.network
 www.ketchapp.org
-www.phoossax.net
 www.pro-ads.club
 www.propu.sh
 www.routeserve.info
