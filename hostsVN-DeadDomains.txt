@@ -23,7 +23,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -150,7 +149,6 @@ ak.ongastlya.com
 ongastlya.com
 jg.wensixuetang.com
 ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -167,7 +165,6 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
-ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -193,9 +190,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -265,7 +259,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-2443march2024.com
 303bus.net
 540creative.net
 734map.net
@@ -591,6 +584,7 @@ sheecmimty.net
 shndrktrk.com
 shoordaird.com
 singletplatformgleamenterprises.com
+siweieoyjl.com
 slidbecauseemerald.com
 snugglethesheep.com
 soccercadencefridge.com
@@ -701,7 +695,6 @@ ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
-zunsoach.com
 bjdxhs.com
 lem-computers.net
 logriancesenius.com
