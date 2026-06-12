@@ -110,6 +110,7 @@ stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
+click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
@@ -129,7 +130,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -223,9 +223,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -408,6 +405,7 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
+go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
@@ -542,6 +540,7 @@ physicalblueberry.com
 pietexture.com
 playsdonkey.com
 poawooptugroo.com
+pokreess.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
@@ -577,6 +576,7 @@ rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
+rtbrennab.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
