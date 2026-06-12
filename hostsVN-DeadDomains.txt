@@ -32,7 +32,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
-aj2307.online
 aj2393.online
 aj2412.online
 aj2430.online
@@ -130,6 +129,7 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
+s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -234,14 +234,13 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
+analytics.zatomac.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
