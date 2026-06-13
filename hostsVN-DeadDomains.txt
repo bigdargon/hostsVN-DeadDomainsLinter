@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -119,6 +121,9 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+asdpoi.com
+widgets.asdpoi.com
+www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -146,6 +151,8 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -213,7 +220,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
@@ -535,7 +541,6 @@ phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
-physicalblueberry.com
 pietexture.com
 playsdonkey.com
 poawooptugroo.com
@@ -575,6 +580,7 @@ rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
+rsxekbcl.com
 rtbrennab.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
@@ -614,8 +620,6 @@ t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
-templatein13.net
-terra8nb.com
 thaudray.com
 thripelbertie.website
 timohtazxazej.website
@@ -624,6 +628,7 @@ toglooman.com
 top-casting-termine.de
 topsite.lv
 toqdizbfp.com
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -691,6 +696,7 @@ yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
+yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yu225.com
@@ -704,6 +710,7 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
+d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 spkoevngk.com
