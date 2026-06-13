@@ -10,10 +10,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -186,7 +182,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -415,7 +410,6 @@ gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 graizoah.com
-hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hits4pay.com
 hixwwert.in
@@ -506,7 +500,6 @@ obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
-offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
@@ -541,6 +534,7 @@ phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
+physicalblueberry.com
 pietexture.com
 playsdonkey.com
 poawooptugroo.com
@@ -620,6 +614,8 @@ t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
+templatein13.net
+terra8nb.com
 thaudray.com
 thripelbertie.website
 timohtazxazej.website
