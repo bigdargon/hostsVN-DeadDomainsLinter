@@ -15,7 +15,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -80,7 +79,6 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -148,6 +146,7 @@ ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -266,6 +265,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 7777align.net
 940functions.net
 970vantage.net
+abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
 adcenter.net
@@ -624,7 +624,6 @@ toglooman.com
 top-casting-termine.de
 topsite.lv
 toqdizbfp.com
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -647,7 +646,6 @@ vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
-vr.ringentkenlore.com
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
