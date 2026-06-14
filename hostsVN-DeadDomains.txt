@@ -42,12 +42,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -88,7 +82,6 @@ aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
 cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
 www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -109,10 +102,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -236,7 +225,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -280,6 +268,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 970vantage.net
 abpziztci.in
 abvfupqkyaj.in
+ad.leadboltapps.net
 adcenter.net
 adgardener.com
 admarket.network
@@ -313,11 +302,9 @@ azrwwodreta.com
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
-basepush.com
 beabsolom.com
 beachinfinitegag.com
 benzeinlune.com
-blackbrake.com
 blueswordksh.com
 bmycupptafr.com
 boobausauhipsa.net
@@ -413,7 +400,6 @@ glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
-gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
