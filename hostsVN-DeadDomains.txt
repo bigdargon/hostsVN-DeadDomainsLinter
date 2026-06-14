@@ -10,11 +10,18 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
@@ -79,6 +86,10 @@ www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
+cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -115,9 +126,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-asdpoi.com
-widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -145,6 +153,11 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
@@ -200,6 +213,9 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+brief.mediaz.vn
+proof.mediaz.vn
+report.mediaz.vn
 adx.mediaz.asia
 dsp.mediaz.asia
 js.mediaz.asia
@@ -342,7 +358,6 @@ clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
 colonserve.com
-creafi.com
 csyxnkhvueuh.com
 cutescale.online
 d3jqverr.pro
@@ -362,7 +377,6 @@ domaining.in
 dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
-e5asyhilodice.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
@@ -425,14 +439,15 @@ inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
 ioredi.com
-istipaumophy.com
 itletroec.com
+ivdjs.com
 jailorscoman.cfd
 jappkummodah.in
 jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
+jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jsudwyjduktw.com
 junmediadirect1.com
@@ -453,6 +468,7 @@ lfvvhemghapw.com
 literalcorpulent.com
 littlecutecats.com
 llink.site
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
@@ -461,6 +477,7 @@ marasgumpus.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+mcpuwpush.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
@@ -512,6 +529,7 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -560,6 +578,7 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 qa.shboshbok.com
+qpizuvmta.com
 qs251.com
 quicksandear.com
 qzeavzrfaoqn.com
@@ -594,6 +613,7 @@ snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
+sorrowfultrouble.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -634,7 +654,6 @@ uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
-unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
 upr90.com
@@ -646,6 +665,7 @@ vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
+vr.ringentkenlore.com
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -704,7 +724,6 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
-d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 spkoevngk.com
