@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -37,12 +35,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -78,9 +70,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -274,7 +263,6 @@ ad.leadboltapps.net
 adcenter.net
 adgardener.com
 admarket.network
-adprojekt.pl
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
@@ -372,7 +360,6 @@ efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
-enoughturtlecontrol.com
 enterprises550.net
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
@@ -390,10 +377,10 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsxmidyo.com
+funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -541,6 +528,7 @@ petasusawber.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
+phumagrose.com
 physicalblueberry.com
 pietexture.com
 playsdonkey.com
