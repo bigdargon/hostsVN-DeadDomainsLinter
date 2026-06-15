@@ -10,12 +10,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -26,6 +20,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -42,6 +37,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
+whm.asianmedia.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -71,7 +72,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -102,6 +102,9 @@ www.voodoo-analytics.io
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
+qrlsx.com
+v3.qrlsx.com
+vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -132,7 +135,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -190,6 +192,7 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
@@ -220,6 +223,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -254,6 +260,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -270,6 +277,7 @@ adgardener.com
 admarket.network
 adprojekt.pl
 ads.cdn2-img.net
+ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
@@ -353,6 +361,7 @@ devpeakomegainnovations.com
 digitru.st
 disrespectpreceding.com
 dithodackee.com
+dmdxzdhu.com
 dnemkhkbsdbl.com
 domaining.in
 dooloust.net
@@ -365,7 +374,6 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 enoughturtlecontrol.com
-enterprises550.net
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -381,6 +389,7 @@ fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
+fsxmidyo.com
 funoriblithe.space
 fxclix.com
 g0push.com
@@ -441,10 +450,10 @@ kdm8.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
-knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
+leglikedescantwonder.com
 lfeorrzkua.com
 lfvvhemghapw.com
 literalcorpulent.com
@@ -510,10 +519,8 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
-orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -558,13 +565,14 @@ pushqwer.com
 pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
+pzpvweoxjm.com
 qa.shboshbok.com
 qpizuvmta.com
 qs251.com
 quicksandear.com
 qzeavzrfaoqn.com
-railwayrainstorm.com
 rankingchart.de
+rbergego.com
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
@@ -576,6 +584,7 @@ routeserve.info
 rqjcsnihsje.com
 rsxekbcl.com
 rtbrennab.com
+ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
@@ -589,6 +598,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
+slushhelmetmirth.com
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
@@ -630,7 +640,6 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
-u1pmt.com
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
@@ -671,6 +680,7 @@ woovoree.net
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
+wucdrynukof.in
 www.admarket.network
 www.ketchapp.org
 www.phoossax.net
@@ -708,6 +718,7 @@ zunsoach.com
 bjdxhs.com
 lem-computers.net
 logriancesenius.com
+ping.kitidi.com
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
