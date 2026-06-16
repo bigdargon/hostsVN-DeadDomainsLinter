@@ -70,6 +70,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -124,7 +132,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -170,6 +177,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -206,7 +214,6 @@ www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -283,6 +290,7 @@ alwingulla.com
 antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
+aqauikfd.com
 arhribadjqp.com
 ashoupsu.com
 asifhclod.com
@@ -392,7 +400,6 @@ gketcakpeh.com
 glersakr.com
 glimtors.net
 gloaphoo.net
-gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
@@ -470,12 +477,14 @@ mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
+murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
+native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
 nessainy.net
@@ -512,7 +521,6 @@ orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
-osknimkihvr.com
 outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
@@ -539,6 +547,7 @@ potsaglu.net
 pq8ithtdw.com
 pro-ads.club
 proceduresto3.net
+producerplot.com
 propu.sh
 ps.bogymentracery.cyou
 psoroumukr.com
@@ -555,13 +564,14 @@ pushsar.com
 pyicbcxvs.com
 pyxiscablese.com
 pzpvweoxjm.com
-qa.shboshbok.com
 qpizuvmta.com
 qs251.com
 quicksandear.com
+qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
@@ -625,6 +635,7 @@ toglooman.com
 top-casting-termine.de
 topsite.lv
 toqdizbfp.com
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -713,3 +724,4 @@ ping.kitidi.com
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
+vizu.com
