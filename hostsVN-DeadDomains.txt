@@ -114,6 +114,8 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
+bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -578,7 +580,6 @@ redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
-rosysolvingscallion.com
 rounddescribe.com
 routeserve.info
 rqjcsnihsje.com
@@ -666,6 +667,7 @@ vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
+websponsors.com
 webtrackerplus.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
