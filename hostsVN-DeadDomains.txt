@@ -111,10 +111,9 @@ stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
+static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
-bid.adservercheck.net
-www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -573,7 +572,6 @@ qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
@@ -668,7 +666,6 @@ vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
-websponsors.com
 webtrackerplus.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
