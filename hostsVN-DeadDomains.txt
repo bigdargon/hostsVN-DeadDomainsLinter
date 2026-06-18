@@ -1,3 +1,9 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -79,6 +85,8 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -138,6 +146,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -183,7 +192,9 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -211,6 +222,8 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -316,6 +329,7 @@ benzeinlune.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
+bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
@@ -338,6 +352,7 @@ cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
+charmshoist.com
 childhoodstudioconversation.com
 choupsee.com
 ciksolre.net
@@ -504,6 +519,7 @@ nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
+nucopzqt.in
 nv.shunnerencinal.shop
 ny.damasseakamai.com
 nycvqozkkmzti.com
@@ -525,6 +541,7 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -584,6 +601,7 @@ railwayrainstorm.com
 rankingchart.de
 rbergego.com
 rcyopmpfef.in
+redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
@@ -624,6 +642,7 @@ stootsou.net
 sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
+swuojrovqf.com
 synapse22.net
 syndetstermine.com
 sysmeasuring.net
@@ -634,12 +653,10 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
-thaudray.com
 thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 toglooman.com
-top-casting-termine.de
 topsite.lv
 toqdizbfp.com
 track.getmydeals.net
@@ -709,7 +726,6 @@ xruamzpanbca.com
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
-yldbt.com
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
@@ -721,12 +737,15 @@ zikroarg.com
 zireemilsoude.net
 ztumuvofzbfe.com
 zucoagorsout.com
+zuieggzsdlo.com
 zumdivdwug.com
+zunsoach.com
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 ping.kitidi.com
+sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
