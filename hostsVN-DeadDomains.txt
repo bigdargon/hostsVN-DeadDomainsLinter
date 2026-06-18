@@ -110,6 +110,7 @@ bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -126,7 +127,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -236,9 +236,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -284,7 +281,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 940functions.net
 970vantage.net
 abpziztci.in
-abvfupqkyaj.in
 ad.leadboltapps.net
 adcenter.net
 adgardener.com
@@ -362,6 +358,7 @@ clickcompare.co.uk
 clkads.com
 clodderpickmaw.com
 clustrmaps.com
+cmdpeufwwou.com
 colonserve.com
 csyxnkhvueuh.com
 cutescale.online
@@ -443,7 +440,6 @@ ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
 ileeckut.com
-industries78.net
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
@@ -507,7 +503,6 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
-native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
 nessainy.net
@@ -629,6 +624,7 @@ soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
 sorrowfultrouble.com
+sotchoum.com
 soumehoo.net
 specially4u.net
 spywarenuker.com
@@ -638,6 +634,7 @@ stelinnhy.in
 stootsou.net
 sumbreta.com
 surfmusik-adserver.de
+swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
@@ -697,6 +694,7 @@ whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
+wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
