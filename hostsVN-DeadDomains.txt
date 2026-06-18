@@ -67,8 +67,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-lalaping.com
-static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -77,7 +75,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
@@ -85,8 +82,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -127,6 +122,7 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
+adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -271,7 +267,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -281,10 +276,9 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 940functions.net
 970vantage.net
 abpziztci.in
+abvfupqkyaj.in
 ad.leadboltapps.net
-adcenter.net
 adgardener.com
-admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
@@ -318,8 +312,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 basepush.com
-beabsolom.com
-beachinfinitegag.com
 benzeinlune.com
 blackbrake.com
 blueswordksh.com
@@ -440,6 +432,7 @@ ichachoakiglop.com
 ieyipznx.art
 ik.hatcheskoeri.shop
 ileeckut.com
+industries78.net
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
@@ -491,7 +484,6 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
-movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
@@ -503,6 +495,7 @@ mutcheng.net
 mybettermb.com
 mzyvyjsq.com
 nationalgausewatrust.com
+native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
 nessainy.net
@@ -536,7 +529,6 @@ optimal730.com
 oranegfodnd.com
 orb92.com
 orbor700.com
-orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
