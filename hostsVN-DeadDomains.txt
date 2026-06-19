@@ -24,6 +24,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -59,6 +60,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -67,6 +71,8 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -75,6 +81,7 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
 native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
@@ -82,6 +89,10 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -141,6 +152,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
@@ -203,7 +215,6 @@ aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -226,7 +237,9 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -279,6 +292,7 @@ abpziztci.in
 abvfupqkyaj.in
 ad.leadboltapps.net
 adgardener.com
+admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
@@ -288,7 +302,6 @@ advinci.co
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
-afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
 ahlcujguphr.com
@@ -312,7 +325,10 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 basepush.com
+beabsolom.com
+beachinfinitegag.com
 benzeinlune.com
+biggedchocard.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
@@ -414,7 +430,6 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
-go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
@@ -473,6 +488,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 mcpuwpush.com
 meaese.click
@@ -484,6 +500,7 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
@@ -510,6 +527,7 @@ nv.shunnerencinal.shop
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
+oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -529,6 +547,7 @@ optimal730.com
 oranegfodnd.com
 orb92.com
 orbor700.com
+orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
@@ -584,6 +603,7 @@ qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
@@ -591,7 +611,6 @@ renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
 rounddescribe.com
-routeserve.info
 rqjcsnihsje.com
 rsxekbcl.com
 rtbrennab.com
@@ -643,7 +662,6 @@ thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 toglooman.com
-top-casting-termine.de
 topsite.lv
 toqdizbfp.com
 traktrafficflow.com
@@ -656,6 +674,7 @@ uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
+unheadedsouptotal.com
 unkempt-hand.com
 untidyquestion.com
 unugilpcyxoep.com
@@ -677,6 +696,7 @@ waufooke.com
 waymarkgentiin.com
 websponsors.com
 webtrackerplus.com
+wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
@@ -698,7 +718,6 @@ www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
-www.routeserve.info
 www.servsave.com
 www.shndrktrk.com
 xgodpmdczzyza.com
