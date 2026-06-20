@@ -1,9 +1,11 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -24,8 +26,16 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-beacon.statful.com
-static.cbsileads.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -44,6 +54,7 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -81,17 +92,8 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
 cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
@@ -113,10 +115,6 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -199,7 +197,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -226,8 +223,8 @@ js.mediaz.asia
 mediaz.asia
 static.mediaz.asia
 www.mediaz.asia
-cdn.hbplatform.com
-hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -235,7 +232,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
+kabbmedia.com
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -258,10 +255,10 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
+qc.mhsolution.vn
 sbbanner.com
 www.sbbanner.com
 thongke.opencps.vn
-b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -310,6 +307,7 @@ airdropcassino.cfd
 alwingulla.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
@@ -384,7 +382,6 @@ dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
 domaining.in
-dooloust.net
 dulrihaungy.com
 dxtnqglxrio.com
 e5asyhilodice.com
@@ -607,6 +604,7 @@ rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
+rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rounddescribe.com
 rqjcsnihsje.com
@@ -667,7 +665,6 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
-u1pmt.com
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
@@ -684,6 +681,7 @@ valuesponsor.com
 vebo-vast.pages.dev
 vionito.com
 vityhoughinimal.com
+vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgpxqdqk.com
