@@ -4,7 +4,6 @@ bos.ads.nexage.com
 hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
-reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
@@ -116,7 +115,6 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
-api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -280,6 +278,7 @@ afzotfwramzy.in
 ahlcujguphr.com
 aibsgc.com
 ainouzaudre.net
+aiqowflpg.com
 airdropcassino.cfd
 alwingulla.com
 antxmmerxmdhu.com
@@ -403,6 +402,7 @@ gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
+gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 graizoah.com
@@ -596,7 +596,6 @@ shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
-slushhelmetmirth.com
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
