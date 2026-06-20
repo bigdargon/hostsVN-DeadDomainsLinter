@@ -176,7 +176,6 @@ app.mybigc.net
 app.senaobz.cc
 app.zingmp3.pro
 apphdbank.fun
-apple-vn.shop
 apple.support-maps.live
 applecare-icloud.com
 applestorevn.com
@@ -529,12 +528,9 @@ diem-vietcom-bank.com
 dienlanhdienmayxanh.com
 dienlanhnguyenkim.ctyvn.net
 dienmayxanh-hcm.com
-dienmayxanh-vn.top
 dienmayxanh.cloud
 dienmayxanh.fun
-dienmayxanh24h.com
 dienmayxanh24h.net
-dienmayxanh263.com
 dienmayxanh268.com
 dienmayxanh269.com
 dienmayxanh389.com
@@ -549,6 +545,8 @@ dienmayxanhhcm.com
 dienmayxanhhcm24h.com
 dienmayxanhsuachua.life
 dienmayxanhtrungtam.com
+dienthoaiviet.net
+dinhdanhcutru.com
 dmxprovip.com
 dmxvip.com
 do002.com
@@ -600,6 +598,7 @@ edunetworkonlinevietnam.com
 edunetworkvietnam.com.vn
 eeeesss.xyz
 eeorderso.cfd
+egiontheh.cfd
 egt091102205euc.click
 egt091102207euc.click
 email-apple.support
@@ -675,7 +674,6 @@ ff-membership-garenal.ga
 ff-membership-grn.com
 ff-membership.shop
 ff-membershipp-garena.net
-ff-membershipp.com
 ff-memberships-garena-vn.com
 ff-membershipz-garena.ga
 ff-membersship-garrena.com
@@ -1021,7 +1019,6 @@ igoda.shop
 ihgatms.cfd
 iisacombank.com
 ilsacombank.com
-images.emldn.com
 imperial-oil.ca
 indush.cfd
 inet-ebank.com
@@ -1321,7 +1318,6 @@ m-facebook.com.vn
 m-fb.site
 m.1svi101.com
 m.5u1io.com
-m.duftpe.com
 m.kone365.com
 m.luxurysvip888.com
 m.lxysp94.com
@@ -1371,7 +1367,6 @@ mbfic-plus.com
 mbfn-fic.com
 mbtk-bank.com
 mcfa11.com
-mcnodes.zapto.org
 mcredit.vaynhanh-bankcredits.com
 meetamate.site
 meilemall.com
@@ -1754,6 +1749,7 @@ nganhangsaison.org
 nganhangsaokevnn.com
 nganhangshopeevn.com
 nganhangsk.online
+nganhangso24-7.com
 nganhangso247.com
 nganhangso40.online
 nganhangso40.site
@@ -2753,6 +2749,7 @@ techcombank.vn-jss.vip
 techcombank.vn-ol.top
 techcombank.vn-sp.top
 techcombank.vn-sp.xyz
+techcombank.vn-vp.xyz
 techcombank.website
 telaagam.maxisl.vip
 telegram.app0w.ltd
@@ -2817,6 +2814,7 @@ tienbip.net
 tienbnhanh.com
 tiencnhanh.com
 tiendnhanh.com
+tienfnhanh.com
 tiengia24h.com
 tienich.xyz
 tienichshiinhan.com
@@ -2943,8 +2941,6 @@ tindungpgbank.com
 tindungshb.com
 tindungshinhanbank.com
 tindungshinhanbank.xyz
-tindungtechcombank.online
-tindungtechcombank247.online
 tindungvietcombank.net
 tingiaitrian.com
 tingiovang777.com
@@ -2983,11 +2979,13 @@ topmomo3s.com
 topmomo88.me
 tpb-vayuudai.com
 tpbank-com.com
+tpbank-hanoi.com
 tpbank-vaynhanh.com
 tpbank.chamsockhachhang-uudaithe-thang6.com
 tpbank.chamsockhachhang-uudaitructuyen.online
 tpbank.chamsocthekhachang-truc-tuyen.com
 tpbank.chamsocthekhachhang-thang4.com.vn
+tpbank.chamsocthekhachhang-truc-tuyen.com
 tpbank.vn-cl.xyz
 tpbank.vn-vpb.top
 tpbank84.com
@@ -3006,7 +3004,6 @@ tracuu-thongtin.online
 tracuu-thongtin.site
 tracuugiaodichvi.com
 tracuuthenap247.com
-tracuutthvt.com
 traderviet88.com
 trang-chu-vn.com
 trangbaotuoitre.com
@@ -3369,7 +3366,6 @@ vidientutrangtructuyen247.com
 vidientuvietnam247.com
 vie-tcapital.com
 vieatbank.com
-vieclam12.com
 vieclamdubaiedu.com
 vieclamfptt.one
 vieclamfptt.xyz
@@ -3666,7 +3662,6 @@ vn66733shop.com
 vn667755s.com
 vn66954shp.com
 vn68822s.com
-vn6932shp.com
 vn78223p.com
 vn85548s.com
 vn86414s.com
@@ -3915,7 +3910,6 @@ wmail-blog.xyz
 wmail-cdn.xyz
 wmail-chat.xyz
 woorivn.online
-word.emldn.com
 wutienitme247.info
 wvOntgd.pqmg.bid
 wvietcombank.com
