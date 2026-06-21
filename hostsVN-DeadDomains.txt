@@ -4,6 +4,7 @@ bos.ads.nexage.com
 hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
+reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
@@ -50,9 +51,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -115,6 +113,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -130,7 +129,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -187,6 +185,9 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+litvp.com
+ss15.litvp.com
+ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -217,6 +218,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -251,6 +255,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -341,6 +346,7 @@ cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 csyxnkhvueuh.com
+culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
 dalyio.com
@@ -389,7 +395,6 @@ g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
-get-here-click.xyz
 ggz48pxys.com
 giggedguddle.com
 gimoqwmikakv.com
@@ -441,10 +446,12 @@ kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
+ke.minterhazes.com
 ketchapp.org
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
+kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -484,6 +491,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 new-twinks.com
@@ -596,6 +604,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
+slushhelmetmirth.com
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
@@ -630,6 +639,7 @@ tkexutqf.in
 toglooman.com
 topsite.lv
 toqdizbfp.com
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -640,6 +650,7 @@ uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
+ultsearch.com
 unheadedsouptotal.com
 unkempt-hand.com
 untidyquestion.com
@@ -697,6 +708,7 @@ xpihripcao.in
 xpwesthmfqphh.com
 xr.staxisclivias.com
 xruamzpanbca.com
+xtuohnfwia.in
 xymhdmqrjxwl.com
 yb26b.com
 yiopse.com
