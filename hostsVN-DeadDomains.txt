@@ -44,6 +44,7 @@ log.gop1.co
 offer.gop1.co
 fadsimz.com
 fadskiz.com
+gadskis.com
 madsecz.com
 hadsimz.com
 advinci.net
@@ -151,7 +152,6 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv630.me
@@ -188,12 +188,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-adx.mediaz.asia
-dsp.mediaz.asia
-js.mediaz.asia
-mediaz.asia
-static.mediaz.asia
-www.mediaz.asia
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -245,7 +239,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -543,7 +536,6 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 poshhateful.com
-potsaglu.net
 pq8ithtdw.com
 pro-ads.club
 proceduresto3.net
@@ -680,6 +672,7 @@ whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
+wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
 wounofoarausooy.net
