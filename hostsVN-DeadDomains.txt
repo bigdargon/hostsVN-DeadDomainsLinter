@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -8,6 +10,12 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -18,6 +26,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -34,6 +43,14 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
+n.popclck.org
+st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -70,8 +87,9 @@ t.imstks.com
 www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
+c.netund.com
+netund.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -152,6 +170,7 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 cryptox-ads.io
 mat.cryptox-ads.io
+pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv630.me
@@ -168,6 +187,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -195,6 +215,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -219,9 +241,12 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+an.dongphim.net
 ax.mpcdn.top
+qc.mhsolution.vn
 sbbanner.com
 www.sbbanner.com
+stats.dongphim.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -263,12 +288,14 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
+ahdcrajmzbtvj.com
 ahlcujguphr.com
 aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 alwingulla.com
+ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
@@ -295,7 +322,6 @@ bmycupptafr.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
-bpaqzithab.com
 bpipihwhumif.com
 brazenwholly.com
 breathelicense.com
@@ -402,7 +428,6 @@ hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hits4pay.com
 hixwwert.in
-hppvkbfcuq.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -443,11 +468,13 @@ leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
 lfvvhemghapw.com
+lightningbarrelwretch.com
 literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
+malluktig.in
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
@@ -483,8 +510,9 @@ new-twinks.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
-nossairt.net
 novemberseatsuccession.com
+nsfwinkuhzeo.com
+nuclearads.com
 nucopzqt.in
 nv.shunnerencinal.shop
 ny.damasseakamai.com
@@ -508,6 +536,7 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -536,6 +565,7 @@ playsdonkey.com
 poawooptugroo.com
 pokreess.com
 poshhateful.com
+potsaglu.net
 pq8ithtdw.com
 pro-ads.club
 proceduresto3.net
@@ -680,6 +710,7 @@ wr.amigojimbang.com
 wucdrynukof.in
 www.admarket.network
 www.advinci.co
+www.gamee.forum
 www.ketchapp.org
 www.phoossax.net
 www.pro-ads.club
