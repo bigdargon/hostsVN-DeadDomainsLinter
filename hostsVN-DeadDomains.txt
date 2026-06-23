@@ -42,7 +42,6 @@ aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
-ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
@@ -81,6 +80,7 @@ c.mstorer.net
 m.mstorer.net
 mstorer.net
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -111,7 +111,6 @@ pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
 v3.qrlsx.com
-vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -124,6 +123,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -199,10 +199,12 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
+qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+www.pushdy.vn
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -242,7 +244,6 @@ sbbanner.com
 www.sbbanner.com
 stats.dongphim.net
 thongke.opencps.vn
-tracker.thichxemphim.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -354,9 +355,7 @@ csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
-dalyio.com
-dalymix.com
-dalysv.com
+datatoreplicas.com
 dbancamd.com
 deckdistant.com
 denetsuk.com
@@ -522,8 +521,6 @@ offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
-ojqbnqdwycws.com
-ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
