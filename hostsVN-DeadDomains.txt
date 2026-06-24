@@ -1,5 +1,10 @@
+medialytics.com
+a.medialytics.com
+c.medialytics.com
+cdn.creative.medialytics.com
+p.medialytics.com
+px.cdn.creative.medialytics.com
 a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -26,6 +31,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -42,12 +48,20 @@ aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
+ajxx91.online
 classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
+advertiseradserver.djaxadserver.com
+disp.djaxadserver.com
+dm.djaxadserver.com
+mob.djaxadserver.com
+mobilesdk.djaxadserver.com
+premium-adserver.djaxadserver.com
+rtb.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -84,9 +98,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-c.netund.com
-netund.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -106,11 +117,17 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
 v3.qrlsx.com
+vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -140,7 +157,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
+int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
@@ -161,6 +178,8 @@ expmediadirect1.com
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -168,6 +187,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -181,6 +203,8 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -204,7 +228,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-www.pushdy.vn
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -278,8 +301,10 @@ ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 advinci.co
 aerodynomach.com
+aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -356,7 +381,6 @@ culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
 datatoreplicas.com
-dbancamd.com
 deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
@@ -464,6 +488,7 @@ lfvvhemghapw.com
 lightningbarrelwretch.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 mafrarc3e9h.com
 makafdsugxco.com
@@ -521,6 +546,8 @@ offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
+ojqbnqdwycws.com
+ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
@@ -546,7 +573,6 @@ pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
-phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
@@ -580,8 +606,6 @@ pyxiscablese.com
 pzpvweoxjm.com
 qa.shboshbok.com
 qpbiyued.com
-qpizuvmta.com
-qs251.com
 quicksandear.com
 qxucibukvklk.com
 qzeavzrfaoqn.com
@@ -593,6 +617,7 @@ redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
+rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
 rqjcsnihsje.com
@@ -647,6 +672,7 @@ tkexutqf.in
 toglooman.com
 topsite.lv
 toqdizbfp.com
+toroexoclk.com
 track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
@@ -735,6 +761,7 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
+d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 ping.kitidi.com
