@@ -19,7 +19,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-image.adthor.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -44,13 +43,6 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-advertiseradserver.djaxadserver.com
-disp.djaxadserver.com
-dm.djaxadserver.com
-mob.djaxadserver.com
-mobilesdk.djaxadserver.com
-premium-adserver.djaxadserver.com
-rtb.djaxadserver.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -192,7 +184,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -376,7 +367,6 @@ dbancamd.com
 deckdistant.com
 denetsuk.com
 detachmentoccasionedarena.com
-devpeakomegainnovations.com
 digitru.st
 disrespectpreceding.com
 dithodackee.com
@@ -609,7 +599,6 @@ rankingchart.de
 rbergego.com
 rcyopmpfef.in
 redri.net
-remox.com
 renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
@@ -703,7 +692,6 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
-websponsors.com
 webtrackerplus.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
