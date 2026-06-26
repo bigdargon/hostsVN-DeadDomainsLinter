@@ -1,3 +1,4 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -20,7 +21,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -43,11 +43,11 @@ jp.marketolive.com
 magento.marketolive.com
 partners.marketolive.com
 www.marketolive.com
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
+img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
@@ -179,8 +179,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
-ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -202,6 +200,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -209,7 +209,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
@@ -223,6 +222,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -239,6 +239,7 @@ ads.homedy.net
 an.dongphim.net
 ax.mpcdn.top
 sbbanner.com
+trenddigital.vn
 ttus.tructiepbongda.me
 www.sbbanner.com
 analytics.zatomac.vn
@@ -277,10 +278,12 @@ ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
+adsage.cn
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
 aff2.childish2x2.fun
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -294,12 +297,14 @@ alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
+atdxamakqo.in
 ausoafab.net
 azoaltou.com
 azrwwodreta.com
@@ -332,6 +337,7 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cb.snoozyhayride.com
+cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -422,6 +428,7 @@ hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hits4pay.com
 hixwwert.in
+hppvkbfcuq.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -500,6 +507,7 @@ native-track.com
 nativepu.sh
 nd.prosilyingles.cyou
 nessainy.net
+new-twinks.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -606,6 +614,7 @@ ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
+sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
@@ -733,6 +742,7 @@ zeekaihu.net
 zenkreka.com
 zikroarg.com
 zireemilsoude.net
+zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
