@@ -97,10 +97,6 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -148,7 +144,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -471,7 +466,6 @@ mafrarc3e9h.com
 makafdsugxco.com
 malluktig.in
 maltunfaithfulpredominant.com
-marasgumpus.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
@@ -544,12 +538,12 @@ ovmhwiccikr.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
-papaneecorche.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
+phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
@@ -563,7 +557,6 @@ potsaglu.net
 pq8ithtdw.com
 pro-ads.club
 pro-advertising.com
-proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
@@ -628,7 +621,6 @@ sotchoum.com
 soumehoo.net
 specially4u.net
 spywarenuker.com
-stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 stootsou.net
