@@ -37,7 +37,6 @@ aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
-aj2218.online
 aj2274.online
 aj2393.online
 aj2412.online
@@ -45,12 +44,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -155,7 +148,6 @@ int.vlancaa.site
 ak.hetaruwg.com
 hetaruwg.com
 hetaint.com
-ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
 appcloud.ironbeast.io
@@ -204,9 +196,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -250,13 +239,10 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
-an.dongphim.net
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
-ttus.tructiepbongda.me
 www.sbbanner.com
-stats.dongphim.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -321,6 +307,7 @@ azoaltou.com
 azrwwodreta.com
 azzadgasf.in
 b0oie4xjeb4ite.com
+bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
 basepush.com
@@ -354,6 +341,7 @@ cdn.uponelectabuzzor.club
 ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
+charmshoist.com
 childhoodstudioconversation.com
 choupsee.com
 ciksolre.net
@@ -624,7 +612,6 @@ rounddescribe.com
 rqjcsnihsje.com
 rsxekbcl.com
 rtbrennab.com
-ru-traffic.com
 ruwjkygaxo.com
 satisfactorymetalrub.com
 scripte-monster.de
@@ -668,6 +655,7 @@ templatein13.net
 terra8nb.com
 tharbadir.com
 thaudray.com
+thripelbertie.website
 timohtazxazej.website
 tkexutqf.in
 toglooman.com
@@ -713,7 +701,6 @@ welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
-whazugho.com
 whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
@@ -759,7 +746,7 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
-lem-computers.net
+d19ptbnuzhibkh.cloudfront.net
 logriancesenius.com
 ping.kitidi.com
 sentry.monplayer.org
