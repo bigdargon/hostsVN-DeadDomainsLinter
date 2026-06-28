@@ -43,7 +43,6 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
-aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
@@ -145,7 +144,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -161,9 +159,6 @@ hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
 ongastlya.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -229,8 +224,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -354,7 +347,6 @@ bytefrom2010.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
-caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
@@ -503,7 +495,6 @@ malluktig.in
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 mcpuwpush.com
 meaese.click
@@ -682,7 +673,6 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
-tharbadir.com
 thaudray.com
 thripelbertie.website
 timohtazxazej.website
@@ -765,6 +755,7 @@ yiopse.com
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
+yrocvgqilrmowj.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
@@ -777,7 +768,6 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
-clickyab.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
