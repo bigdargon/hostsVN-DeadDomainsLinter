@@ -43,6 +43,7 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
+aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
@@ -117,7 +118,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -144,6 +144,7 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
+s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -289,7 +290,6 @@ admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
-ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
@@ -438,8 +438,6 @@ gq.binesyorker.com
 graizoah.com
 gtuzanksz.com
 gylxwpwabgp.com
-hccxwfunnpxngz.com
-hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
 hits4pay.com
 hixwwert.in
@@ -623,7 +621,6 @@ rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
-rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
