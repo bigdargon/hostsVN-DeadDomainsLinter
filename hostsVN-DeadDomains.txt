@@ -3,7 +3,6 @@ a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
-px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -154,8 +153,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
-ak.hetaruwg.com
-hetaruwg.com
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -237,7 +234,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -290,6 +286,7 @@ admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.starzd.com
+ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
@@ -307,7 +304,6 @@ alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
@@ -348,7 +344,6 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 cb.snoozyhayride.com
-cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -363,7 +358,6 @@ citronsstealed.website
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
-clkads.com
 clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
@@ -438,6 +432,8 @@ gq.binesyorker.com
 graizoah.com
 gtuzanksz.com
 gylxwpwabgp.com
+hccxwfunnpxngz.com
+hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
 hits4pay.com
 hixwwert.in
@@ -475,7 +471,6 @@ ke.minterhazes.com
 kiynew.com
 kneeansweras.com
 knkkpmtdesg.com
-kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 leafy-feel.com
@@ -667,7 +662,6 @@ sz.pyrulaupstage.qpon
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
-techourtoapingu.com
 templatein13.net
 terra8nb.com
 thaudray.com
