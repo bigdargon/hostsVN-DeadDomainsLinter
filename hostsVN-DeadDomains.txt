@@ -3,6 +3,7 @@ a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
+px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -32,6 +33,7 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 beacon.statful.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -48,7 +50,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
 server.asianmedia.com
@@ -56,6 +57,7 @@ share.asianmedia.com
 whm.asianmedia.com
 n.popclck.org
 st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -98,6 +100,10 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -152,7 +158,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
+int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
 ak.ongastlya.com
@@ -162,6 +168,7 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -194,6 +201,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -215,6 +223,11 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+brief.mediaz.vn
+proof.mediaz.vn
+report.mediaz.vn
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -222,6 +235,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+kabbmedia.com
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -234,6 +248,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -248,6 +263,7 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
 ax.mpcdn.top
+qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 www.sbbanner.com
@@ -358,6 +374,7 @@ citronsstealed.website
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clicktag.de
 clodderpickmaw.com
 clustrmaps.com
 cmdpeufwwou.com
@@ -445,9 +462,11 @@ ieyipznx.art
 ik.hatcheskoeri.shop
 ileeckut.com
 industries78.net
+infinity13.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intorterraon.com
+ionigravida.com
 ioredi.com
 itletroec.com
 ivdjs.com
@@ -458,13 +477,13 @@ jewgn8une.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
+jkykczdwuchq.com
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jsudwyjduktw.com
 junmediadirect1.com
 jz.thringsettos.cyou
 kaffnet.com
-kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
 ke.minterhazes.com
@@ -481,6 +500,7 @@ lightningbarrelwretch.com
 literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
+lwxoothcoq.com
 mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
@@ -488,6 +508,7 @@ malluktig.in
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 mcpuwpush.com
 meaese.click
@@ -515,6 +536,7 @@ nationalgausewatrust.com
 native-track.com
 nativepu.sh
 navelfletch.com
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 new-twinks.com
@@ -527,7 +549,9 @@ novemberseatsuccession.com
 nsfwinkuhzeo.com
 nuclearads.com
 nucopzqt.in
+nuzoqxlu.in
 nv.shunnerencinal.shop
+nwfnsitaes.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
@@ -621,6 +645,7 @@ rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
 rqjcsnihsje.com
+rrejalojkc.in
 rsxekbcl.com
 rtbrennab.com
 ruwjkygaxo.com
@@ -662,9 +687,9 @@ sz.pyrulaupstage.qpon
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
+techourtoapingu.com
 templatein13.net
 terra8nb.com
-thaudray.com
 thripelbertie.website
 timohtazxazej.website
 tirosagalite.com
@@ -696,6 +721,7 @@ uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
 vionito.com
+vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -761,7 +787,6 @@ zunsoach.com
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
-logriancesenius.com
 ping.kitidi.com
 sentry.monplayer.org
 spkoevngk.com
