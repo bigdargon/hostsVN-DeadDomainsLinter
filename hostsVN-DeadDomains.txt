@@ -25,7 +25,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -67,6 +66,7 @@ origin-ads.optimizesrv.com
 static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
+go.mobytrks.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -89,9 +89,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -139,6 +136,7 @@ cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
+sdki.truepush.com
 stats.truepush.com
 truepush.com
 www.truepush.com
@@ -170,9 +168,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -188,7 +183,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -208,7 +202,6 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
-wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 hi-cdn.adsparc.net
@@ -232,6 +225,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -406,6 +400,7 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
+funoriblithe.space
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -433,7 +428,6 @@ gylxwpwabgp.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
-hits4pay.com
 hixwwert.in
 hwoqshyx.com
 hwuhkabi.in
@@ -684,7 +678,6 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
