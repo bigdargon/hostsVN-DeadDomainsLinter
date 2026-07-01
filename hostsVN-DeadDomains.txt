@@ -1,3 +1,4 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -77,14 +78,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -152,7 +145,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-jg.wensixuetang.com
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -183,6 +177,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -202,6 +197,7 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 hi-cdn.adsparc.net
@@ -225,16 +221,16 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -344,7 +340,6 @@ cgqcuskbtcusxl.com
 chaipoksore.com
 charmshoist.com
 childhoodstudioconversation.com
-choupsee.com
 ciksolre.net
 citronsstealed.website
 claroly75.com
@@ -360,6 +355,9 @@ csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
+dalyio.com
+dalymix.com
+dalysv.com
 datatoreplicas.com
 dbancamd.com
 deckdistant.com
@@ -449,6 +447,7 @@ jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jewgn8une.com
+jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
@@ -484,7 +483,6 @@ malluktig.in
 maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
-mattockpackall.com
 mcpuwpush.com
 meaese.click
 meandiminutionhit.com
@@ -561,6 +559,7 @@ ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
+pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
@@ -655,7 +654,6 @@ stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 stootsou.net
-sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
@@ -699,7 +697,6 @@ uumkcycj.com
 uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
-vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
@@ -764,7 +761,6 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 bjdxhs.com
-d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 ping.kitidi.com
