@@ -59,6 +59,7 @@ aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
+img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
@@ -73,19 +74,6 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 s.optvx.com
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -208,7 +196,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -244,7 +231,6 @@ www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -291,6 +277,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 303bus.net
 540creative.net
+734map.net
 7777align.net
 940functions.net
 970vantage.net
@@ -318,6 +305,7 @@ aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ajratgatjav.com
 alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
@@ -330,6 +318,7 @@ ashoupsu.com
 asifhclod.com
 astraon255.net
 atdxamakqo.in
+atrmkoopdlhu.com
 ausoafab.net
 ayrtpmwuymzbbq.com
 azoaltou.com
@@ -494,6 +483,7 @@ jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jsudwyjduktw.com
 junmediadirect1.com
+jwuoxhjuq.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
@@ -515,6 +505,7 @@ literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
 lwxoothcoq.com
+lzoazzruvkze.com
 mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
@@ -523,6 +514,7 @@ maltunfaithfulpredominant.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+mawptuaz.com
 mcpuwpush.com
 meaese.click
 meandiminutionhit.com
@@ -530,7 +522,9 @@ medusaecaptan.com
 messenger-notify.digital
 metanetwork.net
 mfmalergyol.com
+misqimohlpk.com
 mixedreading.com
+mkejunomqar.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
@@ -560,7 +554,6 @@ nossairt.net
 novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
-nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
 nv.shunnerencinal.shop
@@ -606,6 +599,7 @@ pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
+phaimtoata.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -647,10 +641,11 @@ qpizuvmta.com
 qs251.com
 qsocxhfdopwj.com
 quicksandear.com
+qujzruvf.com
 qxucibukvklk.com
 qzeavzrfaoqn.com
+qzyztuwulo.com
 railwayrainstorm.com
-rankingchart.de
 rankingscout.com
 rbergego.com
 rcyopmpfef.in
@@ -665,6 +660,7 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 rtbrennab.com
+ruvsraaklrih.com
 ruwjkygaxo.com
 ryxbowubroqka.online
 satisfactorymetalrub.com
@@ -715,7 +711,6 @@ terra8nb.com
 thanosofcos5.com
 thaudray.com
 thripelbertie.website
-timohtazxazej.website
 tirosagalite.com
 tkexutqf.in
 toglooman.com
@@ -745,6 +740,8 @@ valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
 vityhoughinimal.com
+vivvuvkra.com
+vkeadqoff.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -764,12 +761,14 @@ wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
 whoursie.com
+wiltiqkc.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
+worshippers.store
 wounofoarausooy.net
 wr.amigojimbang.com
 wucdrynukof.in
