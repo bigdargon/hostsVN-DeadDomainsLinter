@@ -1,5 +1,6 @@
 blueserving.com
 medialytics.com
+a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
@@ -58,7 +59,6 @@ aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
-img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
@@ -232,8 +232,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -243,7 +241,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
@@ -270,11 +267,8 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
-ttus.tructiepbongda.me
 www.sbbanner.com
-analytics.zatomac.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -297,7 +291,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 303bus.net
 540creative.net
-734map.net
 7777align.net
 940functions.net
 970vantage.net
@@ -665,6 +658,7 @@ redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
 rnofuxgaz.com
+rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
 rqjcsnihsje.com
