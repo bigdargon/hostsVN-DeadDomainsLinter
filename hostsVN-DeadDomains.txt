@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -48,7 +46,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
@@ -93,6 +90,7 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
+service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -104,7 +102,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -136,7 +133,6 @@ qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
 click.showcasethat.com
-images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -166,7 +162,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
-asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
 ad-track.adiiix.com
@@ -189,8 +184,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -205,8 +198,6 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
-ads.livetv708.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -219,7 +210,6 @@ aj2634.bid
 aj3007.bid
 aj3017.bid
 litvp.com
-ss15.litvp.com
 ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
@@ -248,6 +238,7 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
+img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
@@ -285,7 +276,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 104processors.net
 1fkx796mw.com
 1slms.com
-2021group.com
 2443march2024.com
 303bus.net
 540creative.net
@@ -309,14 +299,12 @@ aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
-afrxixlnj.com
 afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
 aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
-airdropcassino.cfd
 alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
@@ -539,7 +527,6 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
-movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
@@ -683,6 +670,7 @@ shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 shoordaird.com
+singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
 slushhelmetmirth.com
