@@ -93,7 +93,6 @@ t.imstks.com
 www.imstks.com
 adxoo.com
 native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
 vast.adxoo.com
@@ -192,7 +191,6 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -250,7 +248,6 @@ cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
-img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
@@ -313,6 +310,7 @@ aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
+afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
 aibsgc.com
@@ -660,7 +658,6 @@ qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
@@ -686,7 +683,6 @@ shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 shoordaird.com
-singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
 slushhelmetmirth.com
@@ -774,6 +770,7 @@ welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
 whairtoa.com
+whazugho.com
 whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
