@@ -30,7 +30,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -84,6 +83,7 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
+mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -149,12 +149,10 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -162,7 +160,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
 hetaint.com
 ak.hetaint.com
 ad-track.adiiix.com
@@ -189,7 +186,6 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
-ads.livetv639.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -211,9 +207,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-litvp.com
-ss15.litvp.com
-ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -223,7 +216,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -334,7 +326,6 @@ bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
 basepush.com
-beabsolom.com
 beachinfinitegag.com
 benzeinlune.com
 biggedchocard.com
@@ -414,7 +405,6 @@ ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
 enterprises550.net
-erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -475,7 +465,6 @@ industries78.net
 infinity13.com
 inspirationstarednope.com
 institutehopelessbeck.com
-intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 itletroec.com
@@ -506,7 +495,6 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
-ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
@@ -661,7 +649,6 @@ rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
 rkopcipugj.in
-rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
