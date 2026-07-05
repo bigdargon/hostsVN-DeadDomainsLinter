@@ -40,19 +40,13 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
-aj2376.online
 aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
 magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -101,8 +95,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -122,7 +114,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -149,10 +140,12 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
+bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -186,6 +179,7 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
+ads.livetv639.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -326,6 +320,7 @@ bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
 basepush.com
+beabsolom.com
 beachinfinitegag.com
 benzeinlune.com
 biggedchocard.com
@@ -405,6 +400,7 @@ ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
 enterprises550.net
+erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
@@ -465,6 +461,7 @@ industries78.net
 infinity13.com
 inspirationstarednope.com
 institutehopelessbeck.com
+intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 itletroec.com
@@ -487,7 +484,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ke.minterhazes.com
 kiynew.com
 kmfwrqdp.com
@@ -495,6 +491,7 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
