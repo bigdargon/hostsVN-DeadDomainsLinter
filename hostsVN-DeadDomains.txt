@@ -30,6 +30,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -40,12 +41,14 @@ aj1863.online
 aj2142.online
 aj2218.online
 aj2274.online
+aj2376.online
 aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
 infor.marketolive.com
 jp.marketolive.com
 magento.marketolive.com
@@ -53,7 +56,6 @@ partners.marketolive.com
 www.marketolive.com
 n.popclck.org
 st-n.popclck.org
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -82,7 +84,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -133,6 +134,7 @@ qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
 click.showcasethat.com
+images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
@@ -160,7 +162,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.site
 hetaint.com
 ak.hetaint.com
@@ -198,6 +199,7 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
+ads.livetv708.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -210,6 +212,7 @@ aj2634.bid
 aj3007.bid
 aj3017.bid
 litvp.com
+ss15.litvp.com
 ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
@@ -221,7 +224,6 @@ wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -254,6 +256,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ads.homedy.net
 ax.mpcdn.top
 sbbanner.com
 www.sbbanner.com
@@ -276,6 +279,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 104processors.net
 1fkx796mw.com
 1slms.com
+2021group.com
 2443march2024.com
 303bus.net
 540creative.net
@@ -286,6 +290,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 abmkupxixavk.in
 abpziztci.in
 abvfupqkyaj.in
+acsshufxnu.com
 ad.leadboltapps.net
 adgardener.com
 admarket.network
@@ -299,12 +304,14 @@ aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
+afrxixlnj.com
 afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
 aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
+airdropcassino.cfd
 alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
@@ -352,6 +359,7 @@ cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
+cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -366,6 +374,7 @@ citronsstealed.website
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clicksmint.site
 clicktag.de
 clodderpickmaw.com
 cmdpeufwwou.com
@@ -527,6 +536,7 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+movie-pass.live
 mt34iofvjay.com
 mtakpfquym.com
 muermoabject.shop
@@ -542,6 +552,7 @@ nationalgausewatrust.com
 native-track.com
 nativepu.sh
 navelfletch.com
+navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -702,6 +713,7 @@ syochgrqwze.com
 sysmeasuring.net
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
+t84c3srgclc9.com
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -712,6 +724,7 @@ thaudray.com
 thripelbertie.website
 timohtazxazej.website
 tirosagalite.com
+tkddcpuc.com
 tkexutqf.in
 toglooman.com
 topsite.lv
@@ -723,6 +736,7 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
+uaiysnrylsuyx.website
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
@@ -740,6 +754,7 @@ uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
+vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
