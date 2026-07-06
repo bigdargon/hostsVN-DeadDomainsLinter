@@ -14,10 +14,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -80,9 +76,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -167,7 +160,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -275,7 +267,6 @@ ad.leadboltapps.net
 adgardener.com
 admarket.network
 ads.cdn2-img.net
-ads.gamigo.de
 ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
@@ -570,7 +561,6 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -625,6 +615,7 @@ pushsar.com
 pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
+pzpvweoxjm.com
 qa.shboshbok.com
 qmyoclrszpanh.website
 qpbiyued.com
@@ -734,7 +725,6 @@ uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
-vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
@@ -748,7 +738,6 @@ waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
 webtrackerplus.com
-wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
 wgtyvqbfkxg.com
