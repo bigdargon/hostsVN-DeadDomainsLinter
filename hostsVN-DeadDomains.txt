@@ -18,8 +18,6 @@ ylx-a-img.advertica-cdn.com
 ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -83,13 +81,8 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -219,6 +212,7 @@ www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -265,6 +259,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 2021group.com
+22hgc.com
 2443march2024.com
 303bus.net
 540creative.net
@@ -280,6 +275,7 @@ ad.leadboltapps.net
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.gamigo.de
 ads.kitidi.com
 ads.starzd.com
 ads.vnd89.com
@@ -307,6 +303,7 @@ aqauikfd.com
 arhribadjqp.com
 ashoupsu.com
 asifhclod.com
+astraon255.net
 atdxamakqo.in
 ausoafab.net
 ayrtpmwuymzbbq.com
@@ -347,6 +344,7 @@ cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
+ceksevairs.com
 cgqcuskbtcusxl.com
 chaipoksore.com
 charmshoist.com
@@ -467,6 +465,7 @@ jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jgqpddekjd.com
+jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
@@ -485,11 +484,13 @@ kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
+kuno-gae.com
 kuqfudazkn.com
 ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
+lfezjmxldv.com
 lfvvhemghapw.com
 lightningbarrelwretch.com
 literalcorpulent.com
@@ -624,7 +625,6 @@ pushsar.com
 pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
-pzpvweoxjm.com
 qa.shboshbok.com
 qmyoclrszpanh.website
 qpbiyued.com
@@ -649,6 +649,7 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 rtbrennab.com
+ru-traffic.com
 ruwjkygaxo.com
 ryxbowubroqka.online
 satisfactorymetalrub.com
@@ -737,6 +738,7 @@ vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
+vr.ringentkenlore.com
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -755,6 +757,7 @@ whazugho.com
 whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
+wmllfxjjnjq.com
 wonderhsjnsd.com
 woovoree.net
 workervanewalk.com
@@ -769,6 +772,7 @@ www.pro-ads.club
 www.propu.sh
 www.servsave.com
 www.shndrktrk.com
+xcirtefata.in
 xgodpmdczzyza.com
 xmafrihkua.in
 xnocffar.com
@@ -804,4 +808,5 @@ ping.kitidi.com
 sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
+track.unidata.ai
 tracker.toolpg.com
