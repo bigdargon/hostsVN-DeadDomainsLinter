@@ -24,6 +24,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -33,7 +34,6 @@ aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
-aj2274.online
 aj2393.online
 aj2412.online
 aj2430.online
@@ -99,10 +99,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -140,7 +136,9 @@ image.b91vip.com
 www.b91vip.com
 hetaint.com
 ak.hetaint.com
-ad-track.adiiix.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
@@ -160,6 +158,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -175,11 +176,16 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
+ads.livetv787.me
+ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2577.bid
+aj2583.bid
 aj2584.bid
 aj2587.bid
 aj2629.bid
@@ -231,6 +237,7 @@ ad.vkool.net
 ads.homedy.net
 ax.mpcdn.top
 sbbanner.com
+trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
 thongke.opencps.vn
@@ -297,6 +304,7 @@ asifhclod.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
+awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
@@ -305,6 +313,7 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
+banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -365,6 +374,7 @@ db.peshitomohr.qpon
 dbancamd.com
 deckdistant.com
 denetsuk.com
+depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
 digitru.st
@@ -389,7 +399,6 @@ enterprises550.net
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
-estat.com
 ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
@@ -470,6 +479,7 @@ kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
+kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
@@ -479,6 +489,7 @@ ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
+lfezjmxldv.com
 lfvvhemghapw.com
 lightningbarrelwretch.com
 literalcorpulent.com
@@ -494,6 +505,7 @@ marasgumpus.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+mcpuwpush.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
@@ -681,7 +693,6 @@ t84c3srgclc9.com
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
-templatein13.net
 terra8nb.com
 thanosofcos5.com
 thaudray.com
@@ -694,6 +705,7 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
