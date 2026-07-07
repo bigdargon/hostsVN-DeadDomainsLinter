@@ -24,7 +24,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -34,6 +33,7 @@ aj1855.online
 aj1863.online
 aj2142.online
 aj2218.online
+aj2274.online
 aj2393.online
 aj2412.online
 aj2430.online
@@ -139,6 +139,7 @@ ak.hetaint.com
 admix.in
 geoip5m1y07.admix.in
 ssp.admix.in
+ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
@@ -176,7 +177,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -191,7 +191,6 @@ aj2587.bid
 aj2629.bid
 aj2634.bid
 aj3007.bid
-aj3017.bid
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -257,7 +256,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -340,7 +338,6 @@ cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
-cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -376,7 +373,6 @@ deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
-devpeakomegainnovations.com
 digitru.st
 disrespectpreceding.com
 dithodackee.com
@@ -399,6 +395,7 @@ enterprises550.net
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
+estat.com
 ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
@@ -493,7 +490,6 @@ lfezjmxldv.com
 lfvvhemghapw.com
 lightningbarrelwretch.com
 literalcorpulent.com
-littlecutecats.com
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -693,6 +689,7 @@ t84c3srgclc9.com
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
+templatein13.net
 terra8nb.com
 thanosofcos5.com
 thaudray.com
@@ -705,7 +702,6 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
