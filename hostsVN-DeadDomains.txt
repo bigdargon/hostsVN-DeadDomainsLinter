@@ -133,7 +133,6 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
-s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
@@ -142,7 +141,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
@@ -180,6 +178,7 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv639.me
 ads.livetv640.me
 ads.livetv655.me
@@ -204,7 +203,6 @@ aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -254,6 +252,7 @@ sbbanner.com
 trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
+thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -292,7 +291,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
-aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -325,7 +323,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -394,7 +391,6 @@ directpaper.name
 disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
-dnemkhkbsdbl.com
 domaining.in
 dowerlesssightseehow.com
 dulrihaungy.com
@@ -727,7 +723,6 @@ traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
-tutgcinarlak.com
 u1pmt.com
 uaiysnrylsuyx.website
 uapafuxwnusear.com
@@ -782,11 +777,9 @@ www.gamee.forum
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
-www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
-xlx1.com
 xmafrihkua.in
 xnocffar.com
 xp.retinichawks.cyou
