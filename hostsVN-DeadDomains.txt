@@ -40,12 +40,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -114,7 +108,6 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-admobclick.com
 pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
@@ -206,7 +199,6 @@ aj2583.bid
 aj2584.bid
 aj2587.bid
 aj2629.bid
-aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
@@ -218,8 +210,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -315,6 +305,7 @@ api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
+arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -371,6 +362,7 @@ citronsstealed.website
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clicksmint.site
 clicktag.de
 clodderpickmaw.com
 cmdpeufwwou.com
@@ -480,7 +472,6 @@ ionigravida.com
 itletroec.com
 ivdjs.com
 jailorscoman.cfd
-jaixajhu.com
 jappkummodah.in
 jgqpddekjd.com
 jhukfaosdjfa.com
@@ -584,7 +575,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 optimal730.com
 oranegfodnd.com
 orb92.com
@@ -658,7 +648,6 @@ rbergego.com
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
-rkopcipugj.in
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
@@ -794,6 +783,7 @@ xmafrihkua.in
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
+xr.staxisclivias.com
 xruamzpanbca.com
 xtuohnfwia.in
 xymhdmqrjxwl.com
@@ -808,6 +798,7 @@ yu225.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
+zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
 zogfwunf.com
@@ -826,4 +817,3 @@ spkoevngk.com
 sync2ad.com
 track.unidata.ai
 tracker.toolpg.com
-vizu.com
