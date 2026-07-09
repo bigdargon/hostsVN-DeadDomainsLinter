@@ -82,6 +82,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -127,6 +135,7 @@ adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
+api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
@@ -167,6 +176,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+click-v4.jadspro.live
+jadspro.live
+static.jadspro.live
+www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -189,6 +202,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -210,8 +224,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -221,6 +233,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -333,6 +346,7 @@ blackbrake.com
 blueswordksh.com
 bmycupptafr.com
 bondleapedoasis.com
+bonertraffic13.info
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
@@ -508,6 +522,7 @@ lfvvhemghapw.com
 lightningbarrelwretch.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -582,6 +597,7 @@ ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -657,11 +673,13 @@ rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
+rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
 ruwjkygaxo.com
+rvrpushserv.com
 ryxbowubroqka.online
 satisfactorymetalrub.com
 scripte-monster.de
@@ -680,7 +698,6 @@ smptdrf.link
 smptrffc.click
 smptrffc.link
 snuff-brownsprintcountry.com
-snugglethesheep.com
 soccercadencefridge.com
 solutions2000.com
 sorrowfultrouble.com
@@ -821,3 +838,4 @@ spkoevngk.com
 sync2ad.com
 track.unidata.ai
 tracker.toolpg.com
+vizu.com
