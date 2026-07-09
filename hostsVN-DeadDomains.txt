@@ -108,6 +108,7 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+admobclick.com
 pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
@@ -199,6 +200,7 @@ aj2583.bid
 aj2584.bid
 aj2587.bid
 aj2629.bid
+aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
@@ -472,6 +474,7 @@ ionigravida.com
 itletroec.com
 ivdjs.com
 jailorscoman.cfd
+jaixajhu.com
 jappkummodah.in
 jgqpddekjd.com
 jhukfaosdjfa.com
@@ -648,6 +651,7 @@ rbergego.com
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
+rkopcipugj.in
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
