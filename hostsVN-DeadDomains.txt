@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -24,6 +26,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -76,14 +79,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -107,7 +102,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -143,6 +137,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -191,6 +186,9 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
+ads.livetv787.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -266,7 +264,9 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
+11ssq.com
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -307,7 +307,6 @@ api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -386,7 +385,6 @@ denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
 devpeakomegainnovations.com
-digitru.st
 disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
@@ -435,6 +433,7 @@ get-here-click.xyz
 ggz48pxys.com
 giggedguddle.com
 gimoqwmikakv.com
+giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
@@ -481,7 +480,6 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
-jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jsudwyjduktw.com
@@ -489,6 +487,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -637,6 +636,7 @@ pyicbcxvs.com
 pyxiscablese.com
 pzpvweoxjm.com
 qa.shboshbok.com
+qayuwjcpfxusg.website
 qmyoclrszpanh.website
 qpbiyued.com
 qpizuvmta.com
@@ -709,6 +709,7 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
+tevitpcfav.com
 thanosofcos5.com
 thaudray.com
 thripelbertie.website
@@ -720,6 +721,7 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -798,19 +800,20 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
+zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
+zxgkuhqwwtcvc.website
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
