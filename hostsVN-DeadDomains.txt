@@ -26,6 +26,16 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -137,6 +147,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -212,6 +223,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -222,7 +235,6 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -238,6 +250,7 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
+adv.baovemoitruong.org.vn
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
@@ -282,16 +295,17 @@ ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
+aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
-aibsgc.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.offstaryutor.com
 alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
@@ -350,6 +364,7 @@ chaipoksore.com
 charmshoist.com
 childhoodstudioconversation.com
 choupsee.com
+cidtunppinhi.in
 ciksolre.net
 citronsstealed.website
 claroly75.com
@@ -361,7 +376,6 @@ clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
-conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -792,6 +806,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
@@ -804,7 +819,6 @@ ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
-zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
