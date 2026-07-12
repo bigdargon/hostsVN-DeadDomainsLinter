@@ -4,8 +4,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -21,16 +19,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -162,7 +150,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -275,7 +262,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -289,8 +275,6 @@ abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
-aczopdxfy.com
-aczridptoo.com
 ad.leadboltapps.net
 adgardener.com
 admarket.network
@@ -321,8 +305,6 @@ arhribadjqp.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
-atdxamakqo.in
-atrmkoopdlhu.com
 ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
@@ -337,7 +319,6 @@ basepush.com
 beabsolom.com
 beachinfinitegag.com
 benzeinlune.com
-biggedchocard.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
@@ -469,7 +450,6 @@ hdlyfrxtnjpbc.site
 heardaccumulatebeans.com
 hixwwert.in
 hj.combusteschel.shop
-hugazdazst.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -499,7 +479,6 @@ jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jsudwyjduktw.com
-jwuoxhjuq.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
@@ -540,7 +519,6 @@ medusaecaptan.com
 messenger-notify.digital
 metanetwork.net
 mfmalergyol.com
-misqimohlpk.com
 mixedreading.com
 mkkvprwskq.com
 moonoafy.net
@@ -570,7 +548,6 @@ nossairt.net
 novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
-nuckinxuco.com
 nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
@@ -609,7 +586,6 @@ outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
-ozvvmicixrh.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
@@ -619,7 +595,6 @@ pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
-phaimtoata.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -628,7 +603,6 @@ physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
-plusungratefulinstruction.com
 poawooptugroo.com
 pokreess.com
 popjoynorit.cfd
@@ -641,6 +615,7 @@ proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
+psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
@@ -666,7 +641,6 @@ qrafhypxswp.com
 qs251.com
 qsocxhfdopwj.com
 quicksandear.com
-qujzruvf.com
 qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
@@ -684,7 +658,6 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
-ruvsraaklrih.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
@@ -770,7 +743,6 @@ uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
-vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -790,7 +762,6 @@ wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
 whoursie.com
-wiltiqkc.com
 witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
@@ -814,7 +785,6 @@ xgodpmdczzyza.com
 xlx1.com
 xmafrihkua.in
 xnocffar.com
-xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
