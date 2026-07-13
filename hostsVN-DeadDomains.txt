@@ -1,3 +1,4 @@
+blueserving.com
 medialytics.com
 a.medialytics.com
 c.medialytics.com
@@ -36,13 +37,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-advertiseradserver.djaxadserver.com
-disp.djaxadserver.com
-dm.djaxadserver.com
-mob.djaxadserver.com
-mobilesdk.djaxadserver.com
-premium-adserver.djaxadserver.com
-rtb.djaxadserver.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -59,6 +53,7 @@ gadskis.com
 madsecz.com
 hadsimz.com
 advinci.net
+count.advinci.net
 www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
@@ -156,6 +151,8 @@ click.expmediadirect1.com
 expmediadirect1.com
 lampcfads.starbre.net
 lampservice.starbre.net
+ads-adaptv.vidible.tv
+ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
@@ -186,6 +183,10 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
+ads.livetv785.me
+ads.livetv787.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -207,6 +208,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -240,6 +243,7 @@ sbbanner.com
 trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
+analytics.zatomac.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -275,6 +279,7 @@ adgardener.com
 admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
+ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
@@ -283,7 +288,6 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
-ahdcrajmzbtvj.com
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -297,6 +301,7 @@ apfxpuatkla.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
+arrtakhihfze.in
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -351,7 +356,6 @@ choupsee.com
 cidtunppinhi.in
 ciksolre.net
 citronsstealed.website
-claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
@@ -520,7 +524,6 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
-movie-pass.live
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
@@ -564,12 +567,11 @@ ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
-okjmiqaqjakm.in
-oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orb92.com
 orbor700.com
@@ -794,6 +796,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
