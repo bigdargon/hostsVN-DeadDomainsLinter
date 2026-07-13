@@ -12,6 +12,7 @@ nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
+tangerine.nexage.com
 www.nexage.com
 api.zcoup.com
 image.zcoup.com
@@ -60,6 +61,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -165,6 +167,7 @@ statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
+ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv639.me
@@ -260,6 +263,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 734map.net
 7777align.net
+940functions.net
 970vantage.net
 abmkupxixavk.in
 abpziztci.in
@@ -331,7 +335,6 @@ btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
-cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
@@ -377,7 +380,6 @@ disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
-domaining.in
 dowerlesssightseehow.com
 dulrihaungy.com
 duvnihavrob.in
