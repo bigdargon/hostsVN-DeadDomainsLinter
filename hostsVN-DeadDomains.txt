@@ -19,6 +19,12 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -214,6 +220,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -225,6 +232,8 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -238,6 +247,7 @@ ads.homedy.net
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
+ttus.tructiepbongda.me
 www.sbbanner.com
 analytics.moneycat.vn
 thongke.opencps.vn
@@ -275,8 +285,8 @@ adgardener.com
 admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
-ads.starzd.com
 ads.vnd89.com
+adsage.cn
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
@@ -335,6 +345,7 @@ btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
+cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
@@ -569,7 +580,6 @@ omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -640,11 +650,15 @@ qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
+rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
 renderstreamshuttleanalytics.net
+resalag.com
+rizkigkmoa.in
 rkopcipugj.in
+rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
@@ -653,6 +667,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
@@ -680,7 +695,6 @@ sorrowfultrouble.com
 sotchoum.com
 soumehoo.net
 specially4u.net
-spywarenuker.com
 squeegetirret.cyou
 stay.decentralappps.com
 steerensout.net
@@ -714,6 +728,8 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
+tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -741,6 +757,7 @@ viiadr.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
+vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -783,6 +800,7 @@ xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
+xtremeserve.xyz
 xtuohnfwia.in
 xymhdmqrjxwl.com
 yb26b.com
@@ -813,6 +831,7 @@ d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
 ping.kitidi.com
+pymx5.com
 sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
