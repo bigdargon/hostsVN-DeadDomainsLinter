@@ -24,6 +24,9 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+go.advergine.com
+spf1.advergine.com
+spf2.advergine.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -41,7 +44,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+aos.gop1.co
 g.gop1.co
+geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
@@ -243,7 +248,6 @@ analytics.moneycat.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
-h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
@@ -259,7 +263,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 2021group.com
 2443march2024.com
-2explore.com
 303bus.net
 540creative.net
 734map.net
@@ -331,7 +334,6 @@ brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
-btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
@@ -552,8 +554,10 @@ nwfnsitaes.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
+oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
+oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
@@ -738,7 +742,6 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
-valleyhousegallery.com
 valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
@@ -816,7 +819,6 @@ zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
-lem-computers.net
 logriancesenius.com
 ping.kitidi.com
 pymx5.com
