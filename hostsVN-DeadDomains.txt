@@ -24,9 +24,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-go.advergine.com
-spf1.advergine.com
-spf2.advergine.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -44,6 +41,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -78,6 +76,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -101,6 +107,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -136,6 +143,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -143,6 +151,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -185,6 +195,7 @@ ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -215,10 +226,13 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -248,6 +262,7 @@ analytics.moneycat.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
+h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
@@ -261,6 +276,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -283,7 +299,7 @@ ads.vnd89.com
 adtoqbuejunef.com
 advinci.co
 aerodynomach.com
-affiliates.devilfishpartners.com
+aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -315,6 +331,7 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
+banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -334,6 +351,7 @@ brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
+btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
@@ -449,6 +467,7 @@ hdlyfrxtnjpbc.site
 heardaccumulatebeans.com
 hixwwert.in
 hj.combusteschel.shop
+hnzjxjfepbpr.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -498,6 +517,7 @@ lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
 lightningbarrelwretch.com
+lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
 loazuptaice.net
@@ -592,6 +612,7 @@ pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
+petchesa.net
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -635,7 +656,6 @@ qmyoclrszpanh.website
 qpbiyued.com
 qpizuvmta.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
@@ -720,6 +740,7 @@ toglooman.com
 topsite.lv
 toqdizbfp.com
 toroexoclk.com
+tqgyzwquwu.com
 tqvnfnotrhyfl.site
 traktrafficflow.com
 tranquilside.com
@@ -744,7 +765,9 @@ uvopoefe.com
 uz.louchefunnel.shop
 valuesponsor.com
 vebo-vast.pages.dev
+viamariller.com
 viiadr.com
+vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -819,6 +842,7 @@ zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
+lem-computers.net
 logriancesenius.com
 ping.kitidi.com
 pymx5.com
