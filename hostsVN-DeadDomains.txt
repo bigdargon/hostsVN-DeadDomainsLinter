@@ -106,7 +106,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -231,7 +230,6 @@ adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.vmax.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -240,8 +238,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-api.affmates.com
-storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -317,7 +313,6 @@ aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
 ashoupsu.com
-asifhclod.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -334,6 +329,7 @@ banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+benzeinlune.com
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
@@ -420,6 +416,7 @@ ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
 extracthorizontaldashing.com
+facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
 forspearowor.com
@@ -490,6 +487,7 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
+jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jsudwyjduktw.com
@@ -691,7 +689,6 @@ singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
 slushhelmetmirth.com
-smptdrf.link
 smptrffc.click
 smptrffc.link
 snuff-brownsprintcountry.com
@@ -776,7 +773,6 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
-webtrackerplus.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
