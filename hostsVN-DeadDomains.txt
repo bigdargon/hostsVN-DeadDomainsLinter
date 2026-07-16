@@ -3,8 +3,6 @@ medialytics.com
 a.medialytics.com
 c.medialytics.com
 cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -20,10 +18,7 @@ ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
-api.zcoup.com
 image.zcoup.com
-logger.zcoup.com
-v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
@@ -55,7 +50,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
@@ -160,7 +154,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -173,7 +166,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
 www.jadspro.live
@@ -195,7 +187,6 @@ ads.livetv658.me
 ads.livetv662.me
 ads.livetv664.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -217,7 +208,6 @@ aj2634.bid
 aj3007.bid
 aj3017.bid
 adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -241,12 +231,9 @@ matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
-cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
@@ -263,7 +250,6 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 ttus.tructiepbongda.me
@@ -287,7 +273,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 303bus.net
@@ -296,6 +281,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 7777align.net
 940functions.net
 970vantage.net
+abmkupxixavk.in
 abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
@@ -328,7 +314,6 @@ appealtime.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -336,13 +321,10 @@ atdxamakqo.in
 ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
-azoaltou.com
 azrwwodreta.com
-azzadgasf.in
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -355,18 +337,11 @@ bondleapedoasis.com
 bonertraffic13.info
 boobausauhipsa.net
 bouzechoby.net
-bpaqzithab.com
-bpipihwhumif.com
-bqrjotqnqh.com
 brazenwholly.com
 breathelicense.com
-brightcriticism.com
 bt.teparytympan.qpon
 btguqecoelukltw.com
-butalksuw9dj10.com
-bytefrom2010.com
 caemajnt.com
-cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
@@ -443,19 +418,16 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-gadmagckfy.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
 giggedguddle.com
-gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
@@ -464,7 +436,6 @@ glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
-gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -494,7 +465,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itletroec.com
 ivdjs.com
 jailorscoman.cfd
 jaixajhu.com
@@ -542,7 +512,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 mcpuwpush.com
 meaese.click
@@ -572,10 +541,8 @@ nativepu.sh
 navelfletch.com
 nd.prosilyingles.cyou
 nessainy.net
-nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
-nossairt.net
 novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
@@ -600,13 +567,10 @@ oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
 okjmiqaqjakm.in
-oljqobudyusf.com
-omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
 optimal730.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -620,8 +584,6 @@ ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
-pearlysweepoverface.com
-pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
@@ -631,12 +593,7 @@ phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
-physicalblueberry.com
-pi.bogtrotdowning.shop
-pietexture.com
-playsdonkey.com
 poawooptugroo.com
-pokreess.com
 popjoynorit.cfd
 poshhateful.com
 potsaglu.net
@@ -648,6 +605,7 @@ producerplot.com
 propu.sh
 ps.bogymentracery.cyou
 psaltauw.net
+psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
 ptawehex.net
@@ -663,8 +621,6 @@ pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
 pzpvweoxjm.com
-qa.shboshbok.com
-qayuwjcpfxusg.website
 qmyoclrszpanh.website
 qpbiyued.com
 qpizuvmta.com
@@ -675,9 +631,7 @@ qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rbergego.com
-rcyopmpfef.in
 redri.net
 remox.com
 renderstreamshuttleanalytics.net
@@ -688,8 +642,6 @@ rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
-rowvmqqqk.com
-rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
@@ -752,7 +704,6 @@ tirosagalite.com
 tkddcpuc.com
 tkexutqf.in
 toglooman.com
-topsite.lv
 toqdizbfp.com
 toroexoclk.com
 tqgyzwquwu.com
@@ -777,8 +728,6 @@ upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
-uz.louchefunnel.shop
-valuesponsor.com
 vebo-vast.pages.dev
 viiadr.com
 vncnu.com
@@ -788,7 +737,6 @@ vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
-vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
@@ -812,7 +760,6 @@ wucdrynukof.in
 www.admarket.network
 www.advinci.co
 www.gamee.forum
-www.phoossax.net
 www.pro-ads.club
 www.propu.sh
 www.servsave.com
@@ -823,7 +770,6 @@ xgodpmdczzyza.com
 xmafrihkua.in
 xnocffar.com
 xp.retinichawks.cyou
-xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
@@ -851,8 +797,6 @@ zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
-zxgkuhqwwtcvc.website
-bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 logriancesenius.com
