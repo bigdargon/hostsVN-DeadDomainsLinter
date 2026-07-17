@@ -174,7 +174,6 @@ api.bitdefenderupdate.org
 api.simpletra.com
 app.amazon-line.com
 app.mybigc.net
-app.zingmp3.pro
 apphdbank.fun
 apple-vn.shop
 apple.support-maps.live
@@ -241,6 +240,7 @@ bidvsmartbanking2.ihappy.info
 bigc.net.vn
 bilinkexchang.com
 binzdapoet.shop
+bitbank.la
 bitbank6699.com
 bitcoinship.net
 bitdefenderupdate.org
@@ -504,8 +504,10 @@ dichvucong.dancuquocgia.net
 dichvucong.dancuso.com
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
+dichvucong.govnx.com
 dichvucong.hgov.cc
 dichvucong.hgov.net
+dichvucong.hhghv.com
 dichvucong.hhlpa.com
 dichvucong.kgov.net
 dichvucong.lgov.net
@@ -553,6 +555,7 @@ dienmayxanhtrungtam.com
 dienthoaiviet.net
 dinhdanhcutru.com
 dmxprovip.com
+dmxvip.com
 dns-log.d-n-s.org.uk
 dns.g8z.net
 do002.com
@@ -1025,6 +1028,7 @@ igoda.shop
 ihgatms.cfd
 iisacombank.com
 ilsacombank.com
+images.emldn.com
 imperial-oil.ca
 indush.cfd
 inet-ebank.com
@@ -1235,7 +1239,6 @@ lazadaz17.com
 lazd8.com
 lazmail.com.vn
 lditsdebriisar.cfd
-ledgertp.com
 lelong.shop
 letanggiai01.com
 letangqua2022.com
@@ -1423,6 +1426,7 @@ mhshopee.com
 miaoniter.com
 micronsofte-online.com
 miles-card-vpbank.com
+mineon.xin
 miner-linkperfectmoney.com
 minhchinhmega.com
 minhngocc789.com
@@ -1481,6 +1485,7 @@ momochanle.win
 momocltx.xyz
 momofhd.com
 momofld.com
+momogift.asia
 momohanoi.me
 momohen.fun
 momojqk.com
@@ -1570,6 +1575,9 @@ mucquanly247.com
 mucvi-dientu247.com
 mucvidientu24-7.com
 mucvidientuvietnam247.com
+mucvinganhangso247.com
+mxn191102201nm.click
+mxn191102202nm.click
 mxn191102203nm.click
 mxn191102205nm.click
 mxp00338.com
@@ -1735,6 +1743,7 @@ netwo616.com
 new-vietcombank.com
 new-vietcombank.info
 new-vietcombank.net
+newlazada.com
 newshopee.com
 nexpay-ruttientindung.com
 nextpay-mposruttientindung.com
@@ -1839,6 +1848,7 @@ oojoictf.iqerm.link
 opencirculation.com
 optimagroupthuongphuong.net
 ordsexecutiv.cfd
+org.govqp.com
 oughtme.cfd
 oundandk.cfd
 oydiwf.yokayseiy.com
@@ -1854,7 +1864,6 @@ personals-pc-app.com
 petrovietnam.pro
 petrovietnam.top
 pgbank.info
-phanmem111.com
 phanmemchuyennghiep.net
 phanmemcrackaz.com
 phanmemfree.net
@@ -2221,7 +2230,6 @@ shopcuaminhchill.vn
 shopcuamon.com
 shopcuchuoi.online
 shopdangym.net
-shopdat09.com
 shopdegamingff.com
 shopdieulinh.com
 shopdoitien.com
@@ -2361,6 +2369,7 @@ shopfunyff.com
 shopgamedls.com
 shopgamefo4.com
 shopgamelienminh.com
+shopgamelq.com
 shopgamelq247.com
 shopgamepubg.com
 shopgarenavn.com
@@ -2573,7 +2582,6 @@ sp1663p.com
 sp1776p.com
 sp315693vn.com
 sp5188.com
-sp56788.com
 sp61889p.com
 sp6788.com
 sp7335p.com
@@ -2722,6 +2730,7 @@ tanghanmucvisa-vn.com
 tanglikefree.online
 tangnickmienphi.com
 tangqua01vn.com
+taokhienfacebook.com
 taoshop1s.com
 taoshopfreefire.vn
 taoshopsieure.net
@@ -2743,12 +2752,11 @@ tdkt01.com
 tdkt04.com
 tdkt06.com
 tdkt07.com
+techcombank.ngan-hang.net
 techcombank.site
 techcombank.vn-cl.xyz
-techcombank.vn-iy.life
 techcombank.vn-jss.vip
 techcombank.vn-ol.top
-techcombank.vn-sp.top
 techcombank.vn-sp.xyz
 techcombank.vn-vp.xyz
 techcombank.website
@@ -2758,10 +2766,7 @@ teleway.top
 tet-lienquangarenavn.com
 tet2023.shop
 tetlienquan2023.website
-tetquatang.vn
-tffqv.bhszc.de
 tfi1233.com
-tfi6678.com
 thang365g.com
 thanhphomomo.com
 thanhtoanlienquan.com
@@ -2791,6 +2796,7 @@ thisinhthanhlich2022.com
 thisinhthanhlich2024.com
 thongtincutru.org
 thongtindancu.org
+thongtindonhang.com
 thpthuynhthuckhang.edu.vn
 thseaeing.fun
 thshopee.com
@@ -3736,7 +3742,6 @@ vnshop28.com
 vnshop328.com
 vnshop37.com
 vnshop42.com
-vnshop4988.com
 vnshop628.com
 vnshop728.com
 vnshop752.com
@@ -3933,6 +3938,7 @@ wmail-blog.xyz
 wmail-cdn.xyz
 wmail-chat.xyz
 woorivn.online
+word.emldn.com
 wutienitme247.info
 wvOntgd.pqmg.bid
 wvietcombank.com
@@ -4056,7 +4062,6 @@ yk37wagdg.life
 yl0sj9.cyou
 ymx33.com
 youku.vc
-youkuvideo.net
 yunduofei.xyz
 zSmhlV.zgbv.tech
 zalo-web.me
@@ -4069,6 +4074,7 @@ zla963.top
 zloweb.me
 zmomo.cc
 znavidsde.cfd
+zuanqia.com
 zutube.pro
 zvay.online
 zvietcombank.com
