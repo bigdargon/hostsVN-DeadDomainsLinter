@@ -186,8 +186,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -273,7 +271,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
@@ -439,6 +436,7 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
+enterprises550.net
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
@@ -471,7 +469,6 @@ giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
-gketcakpeh.com
 glersakr.com
 glimtors.net
 gloaphoo.net
@@ -555,9 +552,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
-mcpuwpush.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
@@ -571,6 +566,7 @@ mountaindriftevolutiontechnologies.net
 movie-pass.live
 mtakpfquym.com
 muermoabject.shop
+mumazfqir.in
 murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
@@ -582,7 +578,6 @@ nationalgausewatrust.com
 native-track.com
 nativepu.sh
 navelfletch.com
-navigator.io
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -708,7 +703,6 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
-ru-traffic.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
@@ -779,7 +773,6 @@ track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
-tsiwqtng8huauw30n.com
 tutgcinarlak.com
 u1pmt.com
 uaiysnrylsuyx.website
@@ -856,7 +849,6 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
