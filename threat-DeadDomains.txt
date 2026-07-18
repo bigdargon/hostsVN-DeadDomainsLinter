@@ -148,7 +148,6 @@ amazoni2.com
 amazonl0.com
 amazonl3.com
 amazonl4.com
-amazonsg.shop
 amazonxk.com
 amazoul.site
 amazoul.xyz
@@ -418,7 +417,6 @@ cskhcanhanhd.com
 cskhdienmayxanhvn.com
 cskhmayxanh.com
 cskhmbcanhan.com
-cskhxacminhtaikhoangarena-vn.com
 csr110112201eur.click
 csr110112203eur.click
 csr110112204eur.click
@@ -517,6 +515,7 @@ dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
+dichvucong.zlgov.com
 dichvucong.zvgov.com
 dichvucongbaohiemxahoi.com
 dichvudaohantindung.com
@@ -528,6 +527,7 @@ dichvushopee.com
 dichvuvietnam.pw
 didongviet.store
 diem-vietcom-bank.com
+dien-may-xanh.net
 dienlanhdienmayxanh.com
 dienlanhnguyenkim.ctyvn.net
 dienmayxanh-hcm.com
@@ -647,6 +647,7 @@ fairu-chat.com
 fairu-chat.xyz
 fairu-endpoint.com
 fairu-endpoint.xyz
+fairu-schnellvpn.com
 fairu-schnellvpn.xyz
 fajiafu30.com
 fajiafu50.com
@@ -691,7 +692,6 @@ ff.member.garenae.vn
 ff.memberships-garena.id.vn
 ffgarena-membeship.com
 ffgarenavongquay.xyz
-ffmemberrship-garena.com
 ffmembershipggarena.com
 ffmenbershipgarena.com
 ffmenberzship-garena.com
@@ -1053,9 +1053,6 @@ investshopeemall.net
 ionthatco.cfd
 ionvictoriesin.cfd
 iplaytogethershop.com
-ipscanneronline.com
-ipscannershop.com
-irduwhojas.ga
 iruiotish.cfd
 isacambank.com
 isacembank.com
@@ -1089,6 +1086,7 @@ kaurroot.com
 kavietnam.xyz
 kdsf11.com
 kerrysexchange.com
+ketban.online
 kfdg22.com
 kfdg55.com
 kh-cn-mrd-f5-tpbank.com
@@ -1111,6 +1109,7 @@ khonapgame.com
 khovang.click
 khuyenmaifreefirex5.com
 khuyenmaii2023.site
+khuyenmaii2023.website
 khuyenmailq.com
 khuyenmaitanthu.com
 khuyenmaivangonline.club
@@ -1699,7 +1698,6 @@ napthesukien.ml
 napthesukienlqmb.com
 napthetc.com
 napthetogether.ga
-napthetrian.com
 napthevalorant.com
 napthevn.online
 napthex10.net
@@ -1829,6 +1827,7 @@ omtrack.buzz
 onhamuadich.com
 onirybank.com
 online-ibank.com
+online.acbonliine.com
 online.acbvnx.com
 onlinebank-shopee.vn
 onlinebanking-shopee.vn
@@ -2124,7 +2123,6 @@ senopaee.com
 seostar2.xyz
 servevietnam.com
 service.tpbxnk.com
-servsvietnam.com
 sg.unixpop.xyz
 sg1.unixpop.xyz
 sgshopee.top
@@ -2303,6 +2301,7 @@ shopeehethong.com
 shopeehub.online
 shopeeindia.store
 shopeekingden.com
+shopeekx.com
 shopeekx.top
 shopeemallvn.com
 shopeemission.com
@@ -2390,6 +2389,7 @@ shopkingoff.com
 shoplazada.net
 shoplazada19.com
 shoplienquan.click
+shoplienquan.vn
 shoplienquanmienphi.com
 shoplienquanuytin.com
 shoplongsegay.com
@@ -2599,6 +2599,8 @@ stbuyshopoui.com
 stcard-vib.com
 storebinzdapoet.shop
 storehaiyen.com
+suamaylanh.dien-may-xanh.net
+suatulanh.dien-may-xanh.net
 subducgiare.shop
 sukiem-muahe-pubgmobilevn.com
 sukien-2021lmht.ga
@@ -2665,6 +2667,7 @@ sukientrianfreefire2021.ga
 sukientrianfreefirevietnam.club
 sukientriankhachhang2021.com
 sukientrungthu-freefire.net
+sukienvongquay.site
 sukienvuongquocrong.com
 suncitykhuyenmai.click
 sunfarm.net
@@ -2903,6 +2906,7 @@ tikivn668.com
 tikivn68.com
 tikivn84.com
 tikivncareers.com
+tikivnn.com
 tikivv.com
 tikiwork.net
 tikixv.com
@@ -2962,6 +2966,7 @@ tinthuongvietvn.com
 tinthuongvn01.com
 tintrian2022.com
 tintucnganhang.fun
+tinvay.vn
 tinvietttt.com
 titki55.cc
 tmko1.com
@@ -2972,6 +2977,7 @@ tomo5933.vip
 tomo5963.vip
 tongdaifacebook.online
 tongdaitruyenhinhcap.info
+tongdaitruyenhinhcap24h.online
 topdienthoaia72.com
 topmomo.me
 topmomo.net
@@ -3280,6 +3286,7 @@ vaytienvpbank.com
 vaytieudung-shinhan.com
 vaytieudung-vietinbank.com
 vaytieudungtinchaptpbank.com
+vaytieudungvpcredit.com
 vaytinchap-nganhangvcb247.com
 vaytinchap-shinhan.com
 vaytinchap-shinhanbank247.online
@@ -3438,7 +3445,9 @@ vietcombankd.tk
 vietcombankk.com
 vietcomcard.com
 vietcomcredit.com
+vietcomdank.com
 vietcomglobal.com
+vietcomibaink.com
 vietconbank.com
 vietcooimbank.com
 vietcoombainkk.com
@@ -3511,9 +3520,7 @@ vietnamqas.com
 vietnamqqa.vip
 vietnamqsc.vip
 vietnamraa.vip
-vietnamrx.info
 vietnams.vip
-vietnamtsm.vip
 vietnamttt.vip
 vietnamtur.vip
 vietnamuic.vip
@@ -3648,10 +3655,12 @@ vn-sbank.xyz
 vn-scl.life
 vn-shop.click
 vn-sp.top
+vn-sp.xyz
 vn-sukien.online
 vn-taikhoan.online
 vn-thongtin.shop
 vn-tiki.com
+vn-tiki.top
 vn-tiki.vip
 vn-tiki.xyz
 vn-tk.shop
