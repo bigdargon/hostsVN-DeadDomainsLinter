@@ -8,7 +8,6 @@ admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
-nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
@@ -59,6 +58,8 @@ ajxx91.online
 articles.asianmedia.com
 cpanel.asianmedia.com
 lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
 whm.asianmedia.com
 n.popclck.org
 st-n.popclck.org
@@ -105,14 +106,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -121,6 +114,7 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
@@ -177,7 +171,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
-int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -245,6 +238,9 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+adv.klick.vn
+demo.klick.vn
+euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
@@ -283,7 +279,6 @@ tags.fly-ads.net
 cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
 ax.mpcdn.top
@@ -491,7 +486,6 @@ gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
-gq.binesyorker.com
 graizoah.com
 gtuzanksz.com
 gv.habitanchowses.cyou
@@ -534,6 +528,7 @@ jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jsudwyjduktw.com
 jz.thringsettos.cyou
+kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
@@ -704,6 +699,7 @@ rankingchart.de
 rbergego.com
 rcyopmpfef.in
 redri.net
+remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -801,7 +797,6 @@ unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
-unugilpcyxoep.com
 upr90.com
 usheebainaut.com
 uumkcycj.com
@@ -849,9 +844,9 @@ www.shndrktrk.com
 xcirtefata.in
 xclicks.net
 xgodpmdczzyza.com
-xlx1.com
 xmafrihkua.in
 xnocffar.com
+xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
