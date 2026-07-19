@@ -172,6 +172,7 @@ anzvn.net
 api.bitdefenderupdate.org
 api.simpletra.com
 app.amazon-line.com
+app.ledger-lives-desktop.io
 app.mybigc.net
 app.zingmp3.pro
 apphdbank.fun
@@ -323,6 +324,7 @@ chinhphu.cc
 chinhphu.dulieucutru.org
 chinhphu.hodancu.com
 chinhphu.kbshkdt.org
+chinhphu.thongtincutru.org
 chovayfecredit.com
 chovaynhanh.online
 chovaytiengopsg.com
@@ -409,6 +411,7 @@ cskh-ca-nhan-vpbank.com
 cskh-dienmay-xanh.com
 cskh-dienmayxanhvn.com
 cskh-the-vpbank.com
+cskh-vib-canhan.com
 cskh-vib.ho-tro-tin-dung-ca-nhan.com
 cskh-vib.nang-han-muc-the-visa.com
 cskhcanhanhd.com
@@ -684,7 +687,6 @@ ff-membersship-garrena.com
 ff-membersshipp-garenaa.com
 ff-membeship.gairena.com
 ff-memnber-garena.com
-ff-menber-garena.vn
 ff-menbershipgarena.com
 ff.member.garenae.vn
 ff.memberships-garena.id.vn
@@ -720,7 +722,6 @@ fr121102208eur.click
 fr121102209eur.click
 fr131102202eur.click
 fr131102203eur.click
-fr131102204eur.click
 fr131102205eur.click
 fr131102206aced.click
 fr191102203eura.click
@@ -884,6 +885,7 @@ handico.vaytienmat-nhanh24h.com
 hangairsoft.com
 hanghaiqt.com
 hanmucvn.com
+happykitcr.com
 hashtechlimited.com
 hbpnnz.cyou
 hdb.tang-han-muc-tin-dung-vn.com
@@ -945,8 +947,6 @@ hocsinh-vn-edu.online
 hocsinhthanhlich.com
 hocsinhthanhlich2020.info
 hocsinhthanhlich2021.online
-hocsinhthanhlich21.xyz
-hoiquanlq.vn
 homecreditvn.net
 honapply.vn
 hopquafreefire2021.com
@@ -1234,6 +1234,7 @@ lazadaz17.com
 lazd8.com
 lazmail.com.vn
 lditsdebriisar.cfd
+ledger-lives-desktop.io
 lelong.shop
 letanggiai01.com
 letangqua2022.com
@@ -1422,7 +1423,6 @@ miaoniter.com
 micronsofte-online.com
 miles-card-vpbank.com
 miner-linkperfectmoney.com
-minhchinhmega.com
 minhngocc789.com
 minigamemomo.net
 minimomo.club
@@ -1465,7 +1465,6 @@ momo5s.com
 momo678.fun
 momo6789.me
 momo686.win
-momo76.com
 momo79.net
 momo7979.me
 momo91.net
@@ -1479,7 +1478,6 @@ momochanle.win
 momocltx.xyz
 momofhd.com
 momofld.com
-momogift.asia
 momohanoi.me
 momohen.fun
 momojqk.com
@@ -1696,6 +1694,7 @@ naptheplaytogether.games
 naptheplaytogether.vn
 napthequanhuy.com
 napthequocte.com
+napthesieunhanh.com
 napthesukien.ml
 napthesukienlqmb.com
 napthetc.com
@@ -1919,7 +1918,6 @@ promomobilsuzukijakarta.com
 psestwotothr.cfd
 pubgvongquay-2021vng.com
 pvpti222.com
-pwsk11.com
 pwsk88.com
 qjc2vo.cyou
 qqwyihwm.thjen.tech
@@ -2346,6 +2344,7 @@ shopeex.top
 shopeexpress.online
 shopeexs.top
 shopehltd.com
+shopelaie.com
 shopelnie.com
 shopelpie.com
 shopeo.cc
@@ -2629,7 +2628,6 @@ sukienbts2022.com
 sukiendtdv-lienquan-garena.co
 sukienff.me
 sukienffo4.com
-sukienffvn.online
 sukienffvn2021.com
 sukienffvn2021.net
 sukienfreefirervn.com
@@ -2863,13 +2861,19 @@ tiki86.com
 tiki886.vip
 tiki94.com
 tiki98.com
+tiki9833.com
 tikia.vip
 tikib.vip
+tikictv.com
+tikictv1.com
 tikictv12.com
 tikictv2.com
+tikictv3.com
 tikictv5.com
+tikictv6.com
 tikictv7.com
 tikictv9.com
+tikihk.com
 tikiiii.com
 tikijaj2.com
 tikimall.org
@@ -3024,6 +3028,7 @@ tracuu-thongtin.online
 tracuu-thongtin.site
 tracuugiaodichvi.com
 tracuuthenap247.com
+tracuutthvt.com
 traderviet88.com
 trang-chu-vn.com
 trangbaotuoitre.com
@@ -3032,6 +3037,7 @@ trangchu247.com
 trangchusukien.vn
 trangdanhatban.com
 trangdientu24-7.com
+tranggiaivangvn.com
 trangnapthelienquan.com
 trangnganhangdientu247.com
 trangnganhangso247.com
@@ -3955,7 +3961,6 @@ www.abc-vay.com
 www.acs84.com
 www.amadbfk.vip
 www.applestorevn.com
-www.bao-moi.pro
 www.baovietvc.top
 www.checkaccff.com
 www.dangnhaphoso.com
@@ -4013,7 +4018,6 @@ www.vnsendo.net
 www.vongquaymienphi.net
 www.vpbank.chamsockhachhang-uudai-the-truc-tuyen.online
 www.vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
-xa38.xyz
 xacminh-taikhoan-garena.com
 xacminhbank247.com
 xacminhgarenalienquan.com
@@ -4061,6 +4065,7 @@ zSmhlV.zgbv.tech
 zalo-web.me
 zalorashop.com
 zeroshop.cc
+ziefobjq.m0jdq3.me
 zingmp3.pro
 zkika.okyla.de
 zla653.top
