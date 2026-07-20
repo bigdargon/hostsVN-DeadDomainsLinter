@@ -31,16 +31,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -60,7 +50,6 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
-a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -267,8 +256,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -355,9 +342,9 @@ ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
 azzadgasf.in
+b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
-banner.buempliz-online.ch
 banners.dine.com
 basepush.com
 beabsolom.com
@@ -461,7 +448,6 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -520,11 +506,7 @@ jaixajhu.com
 jappkummodah.in
 jdxkcews.com
 jgqpddekjd.com
-jhukfaosdjfa.com
-jijswitreaqv.in
 jitqwooztonj.in
-jkykczdwuchq.com
-jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
@@ -562,7 +544,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -614,6 +595,7 @@ oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
+ofleafeona.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
@@ -623,12 +605,12 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 optimal730.com
 oranegfodnd.com
 orb92.com
 orbor700.com
 orlotalers.com
+orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -813,7 +795,6 @@ vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
-vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
@@ -872,7 +853,6 @@ zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
-zireemilsoude.net
 zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
