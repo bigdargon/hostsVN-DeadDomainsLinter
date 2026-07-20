@@ -50,6 +50,7 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -144,9 +145,6 @@ cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
 s.truepush.com
-sdk.truepush.com
-sdki.truepush.com
-stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -331,7 +329,6 @@ appealtime.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -345,6 +342,7 @@ azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
+banner.buempliz-online.ch
 banners.dine.com
 basepush.com
 beabsolom.com
@@ -506,7 +504,11 @@ jaixajhu.com
 jappkummodah.in
 jdxkcews.com
 jgqpddekjd.com
+jhukfaosdjfa.com
+jijswitreaqv.in
 jitqwooztonj.in
+jkykczdwuchq.com
+jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
@@ -522,12 +524,10 @@ kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
-kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 ldjsypolwypxy.space
 leafy-feel.com
-leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
@@ -683,7 +683,6 @@ rankingchart.de
 rbergego.com
 rcyopmpfef.in
 redri.net
-remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -795,6 +794,7 @@ vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
+vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
@@ -839,7 +839,6 @@ xruamzpanbca.com
 xtremeserve.xyz
 xtuohnfwia.in
 xymhdmqrjxwl.com
-yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
@@ -853,6 +852,7 @@ zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
+zireemilsoude.net
 zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
@@ -864,7 +864,6 @@ zxgkuhqwwtcvc.website
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
-logriancesenius.com
 ping.kitidi.com
 pymx5.com
 sentry.monplayer.org
