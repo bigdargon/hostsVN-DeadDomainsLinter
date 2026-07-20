@@ -4,6 +4,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -47,6 +49,7 @@ aj1549.online
 aj1754.online
 aj1855.online
 aj1863.online
+aj2142.online
 aj2218.online
 aj2274.online
 aj2393.online
@@ -57,6 +60,8 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+a.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -209,13 +214,13 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2577.bid
 aj2583.bid
+aj2584.bid
 aj2587.bid
 aj2629.bid
 aj2634.bid
@@ -230,6 +235,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -239,7 +246,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -272,6 +278,7 @@ sbbanner.com
 trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
+analytics.zatomac.vn
 live.vnpgroup.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -304,6 +311,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 940functions.net
 970vantage.net
 abmkupxixavk.in
+abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
@@ -319,7 +327,6 @@ advinci.co
 aerodynomach.com
 aff2.childish2x2.fun
 afrjhanwosa.com
-afrxixlnj.com
 afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
@@ -331,10 +338,12 @@ alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
+arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -372,7 +381,6 @@ btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
-cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
@@ -425,6 +433,7 @@ duvnihavrob.in
 dxtnqglxrio.com
 e5asyhilodice.com
 eelfpsgnicy.com
+efdldoqzzm.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
@@ -515,6 +524,7 @@ jkykczdwuchq.com
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
+jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
@@ -527,6 +537,7 @@ kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
+kompasads.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 ldjsypolwypxy.space
@@ -548,6 +559,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -570,10 +582,10 @@ mutcheng.net
 mybettermb.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
-nationalgausewatrust.com
 native-track.com
 nativepu.sh
 navelfletch.com
+nbnbewlhy.com
 nd.prosilyingles.cyou
 nessainy.net
 nicksstevmark.com
@@ -640,6 +652,7 @@ physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
+pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
 popjoynorit.cfd
@@ -659,6 +672,7 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
+pub.trads.io
 pumaqmqix.com
 pushazam.com
 pushlaram.com
@@ -701,6 +715,7 @@ rsxekbcl.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
+sanoslkut.in
 satisfactorymetalrub.com
 scripte-monster.de
 septfd2em64eber.com
@@ -760,6 +775,7 @@ tkexutqf.in
 toglooman.com
 topsite.lv
 toqdizbfp.com
+toroexoclk.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
@@ -768,6 +784,7 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
+tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
 uapafuxwnusear.com
