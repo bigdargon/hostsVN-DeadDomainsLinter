@@ -31,13 +31,13 @@ cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
+v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -182,6 +182,7 @@ ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
+secure.ironbeast.io
 supersonic.ironbeast.io
 jg.wensixuetang.com
 ad.samsungadhub.com
@@ -223,7 +224,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -366,7 +366,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -448,7 +447,6 @@ efdldoqzzm.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
-ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
 enterprises550.net
@@ -491,7 +489,6 @@ glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
-gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -522,7 +519,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itletroec.com
 ivdjs.com
 jailorscoman.cfd
@@ -592,6 +588,7 @@ mutcheng.net
 mybettermb.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
+nationalgausewatrust.com
 native-track.com
 nativepu.sh
 navelfletch.com
@@ -659,6 +656,7 @@ phoossax.net
 phortaub.com
 phumagrose.com
 physicalblueberry.com
+pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
 pnhoppacwh.com
@@ -678,6 +676,7 @@ psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
+ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
 pumaqmqix.com
@@ -826,7 +825,6 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
-webmasterplan.de
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
@@ -865,7 +863,6 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yb26b.com
 yiopse.com
 yldbt.com
 yoshdeum.com
