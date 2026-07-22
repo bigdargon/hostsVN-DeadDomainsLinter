@@ -5,8 +5,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -171,8 +169,6 @@ int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
 admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -322,7 +318,6 @@ admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.rpgdot.com
-ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
@@ -399,7 +394,6 @@ childhoodstudioconversation.com
 choupsee.com
 cidtunppinhi.in
 ciksolre.net
-citronsstealed.website
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
@@ -504,7 +498,6 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 ieyipznx.art
-ik.hatcheskoeri.shop
 ileeckut.com
 immizdgmacjvi.space
 industries78.net
@@ -572,7 +565,6 @@ mixedreading.com
 mkkvprwskq.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
-movie-pass.live
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
@@ -607,6 +599,7 @@ nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
+oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
@@ -614,7 +607,6 @@ ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
-ojqbnqdwycws.com
 ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
@@ -630,7 +622,6 @@ orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
-outloginequity.com
 outrotomr.com
 ovmhwiccikr.com
 ozqoztrkoaj.com
@@ -725,7 +716,6 @@ sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
-shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 slidbecauseemerald.com
@@ -775,6 +765,7 @@ tkddcpuc.com
 tkexutqf.in
 toglooman.com
 toqdizbfp.com
+toroexoclk.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
@@ -804,7 +795,6 @@ valuesponsor.com
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
-viamariller.com
 viiadr.com
 vncnu.com
 vnumlkbuujd.com
