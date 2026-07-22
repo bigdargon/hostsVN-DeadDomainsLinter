@@ -17,12 +17,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -38,6 +32,7 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -46,7 +41,6 @@ aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
-aj2218.online
 aj2274.online
 aj2393.online
 aj2412.online
@@ -347,7 +341,6 @@ alwingulla.com
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 aqauikfd.com
 arhribadjqp.com
@@ -447,6 +440,7 @@ efdldoqzzm.com
 effacedefend.com
 efficientdescent.com
 eghnybyvn.com
+ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
 enterprises550.net
@@ -489,6 +483,7 @@ glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
+gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -612,7 +607,6 @@ nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
-oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
@@ -781,7 +775,6 @@ tkddcpuc.com
 tkexutqf.in
 toglooman.com
 toqdizbfp.com
-toroexoclk.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
