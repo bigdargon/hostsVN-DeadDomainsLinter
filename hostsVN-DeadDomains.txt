@@ -25,11 +25,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 ad.kau.li
 analytics.kau.li
 click.kau.li
@@ -187,7 +182,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
@@ -210,10 +204,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -313,7 +303,6 @@ h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
-su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
 t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
@@ -497,6 +486,7 @@ get-here-click.xyz
 ggz48pxys.com
 giggedguddle.com
 gimoqwmikakv.com
+giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
@@ -615,7 +605,6 @@ nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
-novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
 nuclearads.com
@@ -646,7 +635,6 @@ onemboaran.com
 onstunkyr.com
 optimal730.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -676,7 +664,6 @@ phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
-playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
@@ -762,6 +749,7 @@ smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
+solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -814,7 +802,6 @@ uaiysnrylsuyx.website
 uapafuxwnusear.com
 ubbfpm.com
 ueikno.com
-ugroocuw.net
 ugtflnqn.com
 unheadedsouptotal.com
 unkempt-hand.com
@@ -887,7 +874,6 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
@@ -904,7 +890,6 @@ zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
-d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 ping.kitidi.com
 pymx5.com
