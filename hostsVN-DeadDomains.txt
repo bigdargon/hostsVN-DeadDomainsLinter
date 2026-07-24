@@ -13,6 +13,7 @@ nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
+tangerine.nexage.com
 www.nexage.com
 2mdnsys.com
 ads.2mdnsys.com
@@ -155,7 +156,6 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -184,6 +184,7 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -415,7 +416,6 @@ clicktag.de
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
-colonserve.com
 conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
@@ -634,7 +634,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
+optimal730.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -716,6 +716,7 @@ rcyopmpfef.in
 redri.net
 remox.com
 renderstreamshuttleanalytics.net
+resalag.com
 rizkigkmoa.in
 rkopcipugj.in
 rnofuxgaz.com
@@ -835,8 +836,10 @@ waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
 wedgierbirsit.com
+welcomingaccompanyeffort.com
 wellmadefrog.com
 wgkqywcf.com
+wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
 whoursie.com
