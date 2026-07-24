@@ -16,7 +16,6 @@ sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 2mdnsys.com
-ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -156,6 +155,7 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -278,7 +278,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -333,6 +332,7 @@ ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
+advolution.de
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -416,6 +416,7 @@ clicktag.de
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
+colonserve.com
 conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
@@ -728,7 +729,6 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
-ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
 sanoslkut.in
@@ -751,7 +751,6 @@ smptrffc.link
 smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
-soccercadencefridge.com
 solutions2000.com
 sotchoum.com
 soumehoo.net
@@ -899,7 +898,6 @@ bjdxhs.com
 lem-computers.net
 ping.kitidi.com
 pymx5.com
-sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
 track.unidata.ai
