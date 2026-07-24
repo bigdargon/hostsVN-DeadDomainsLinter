@@ -16,6 +16,7 @@ sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 2mdnsys.com
+ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
@@ -176,7 +177,6 @@ www.b91vip.com
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
-hetahien.com
 ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
@@ -278,6 +278,7 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -463,7 +464,6 @@ extracthorizontaldashing.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -572,7 +572,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -729,6 +728,7 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
+ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
 sanoslkut.in
@@ -751,6 +751,7 @@ smptrffc.link
 smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
+soccercadencefridge.com
 solutions2000.com
 sotchoum.com
 soumehoo.net
@@ -824,7 +825,6 @@ vebo-vast.pages.dev
 viiadr.com
 vncnu.com
 vnumlkbuujd.com
-vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
@@ -834,7 +834,6 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
-wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
 wgkqywcf.com
@@ -898,6 +897,7 @@ bjdxhs.com
 lem-computers.net
 ping.kitidi.com
 pymx5.com
+sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
 track.unidata.ai
