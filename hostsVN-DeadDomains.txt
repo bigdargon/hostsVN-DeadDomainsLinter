@@ -5,8 +5,6 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -64,6 +62,8 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
+n.popclck.org
+st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -212,7 +212,6 @@ jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
-mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
@@ -231,7 +230,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv787.me
+ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -277,10 +276,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-analytics.jeoway.com
-jeoway.com
-platform.jeoway.com
-www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -328,7 +323,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 7777align.net
 940functions.net
 970vantage.net
-abmkupxixavk.in
 abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
@@ -359,7 +353,6 @@ antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
 aqauikfd.com
-arhribadjqp.com
 arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
@@ -446,7 +439,6 @@ dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
-dowerlesssightseehow.com
 dulrihaungy.com
 duvnihavrob.in
 dxtnqglxrio.com
@@ -479,6 +471,7 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
+funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
@@ -493,7 +486,6 @@ gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
-glersakr.com
 glimtors.net
 gloaphoo.net
 gloarteegnu.com
@@ -551,7 +543,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
 kmfwrqdp.com
@@ -591,6 +582,7 @@ miserablenobody.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
+mobzeg.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
 mtakpfquym.com
@@ -777,6 +769,7 @@ sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
+synapse22.net
 syndetstermine.com
 syochgrqwze.com
 sysmeasuring.net
@@ -818,7 +811,6 @@ ubbfpm.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
-unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
@@ -851,6 +843,7 @@ wellmadefrog.com
 wgkqywcf.com
 wgtyvqbfkxg.com
 whairtoa.com
+whazugho.com
 whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
