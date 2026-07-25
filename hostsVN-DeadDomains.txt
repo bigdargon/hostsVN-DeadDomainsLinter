@@ -43,7 +43,6 @@ rtb.kau.li
 s.kau.li
 y.kau.li
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -65,8 +64,6 @@ lb.asianmedia.com
 server.asianmedia.com
 share.asianmedia.com
 whm.asianmedia.com
-n.popclck.org
-st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -178,6 +175,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -233,9 +231,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -349,6 +345,7 @@ aerodynomach.com
 aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
+afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
 ainouzaudre.net
@@ -424,7 +421,6 @@ claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
-clicktag.de
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
@@ -475,7 +471,6 @@ extracthorizontaldashing.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -484,7 +479,6 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
@@ -567,6 +561,7 @@ ksvjmvrjjo.com
 kuqfudazkn.com
 ldjsypolwypxy.space
 leafy-feel.com
+leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
@@ -649,7 +644,6 @@ omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -783,7 +777,6 @@ sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
-synapse22.net
 syndetstermine.com
 syochgrqwze.com
 sysmeasuring.net
@@ -852,12 +845,12 @@ vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
+wdqhdqtlxu.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
 wgkqywcf.com
 wgtyvqbfkxg.com
 whairtoa.com
-whazugho.com
 whoursie.com
 witvfaojpzi.in
 wiwqhootrf.com
@@ -903,6 +896,7 @@ zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
+zireemilsoude.net
 zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
