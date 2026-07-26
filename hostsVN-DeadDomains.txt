@@ -87,19 +87,6 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 s.optvx.com
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -119,9 +106,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -139,8 +123,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -157,7 +139,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -166,7 +147,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -211,8 +191,6 @@ int.vlancaa.site
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -298,7 +276,6 @@ www.atdnetwork.com
 kabbmedia.com
 adx.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -307,7 +284,6 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
-app2.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -388,6 +364,7 @@ apfxpuatkla.com
 appealtime.com
 appeaserepose.com
 aqauikfd.com
+arhribadjqp.com
 arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
@@ -507,7 +484,6 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -559,7 +535,6 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
-itheatmoran.com
 itletroec.com
 ivdjs.com
 jabobdfufaqt.in
@@ -717,6 +692,7 @@ pro-ads.club
 pro-advertising.com
 proceduresto3.net
 producerplot.com
+propu.sh
 ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
@@ -755,6 +731,7 @@ rbergego.com
 rcyopmpfef.in
 redri.net
 refpa4293501.top
+remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -843,7 +820,6 @@ trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 tydcybxaxtvpw.site
-u1pmt.com
 uaiysnrylsuyx.website
 uapafuxwnusear.com
 ubbfpm.com
