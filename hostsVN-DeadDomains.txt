@@ -34,6 +34,7 @@ zcoup.com
 api.adthor.com
 image.adthor.com
 logger.adthor.com
+static.adthor.com
 v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -48,6 +49,7 @@ dspmulti.com
 aj1090.online
 aj1549.online
 aj1754.online
+aj1855.online
 aj1863.online
 aj2142.online
 aj2274.online
@@ -57,8 +59,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
-st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -196,7 +196,6 @@ samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
-lampcfads.starbre.net
 lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
@@ -327,7 +326,6 @@ abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
-actualdeals.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
@@ -465,12 +463,10 @@ estat.com
 ewhareey.com
 existencethrough.com
 exploreannihilationquicker.com
-extracthorizontaldashing.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
 findcommerce.com
-flexbanner.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -479,13 +475,13 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -501,7 +497,6 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
-go-rank.de
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -568,7 +563,6 @@ leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
-links-ranking.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
@@ -616,7 +610,6 @@ navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 nessainy.net
-netpool.netbookia.net
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -649,6 +642,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 optimal730.com
 oranegfodnd.com
 orbor700.com
@@ -665,7 +659,6 @@ ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
-passion-4.net
 pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
@@ -701,7 +694,6 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
-pub.trads.io
 pumaqmqix.com
 pushazam.com
 pushlaram.com
@@ -782,7 +774,6 @@ stay.decentralappps.com
 steerensout.net
 stelinnhy.in
 stootsou.net
-sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
@@ -837,14 +828,12 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
-valuesponsor.com
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 ventivmedia.com
 verninchange.com
 viiadr.com
-visual-pagerank.fr
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
