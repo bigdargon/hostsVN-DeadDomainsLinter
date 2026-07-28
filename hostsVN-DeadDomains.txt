@@ -188,6 +188,7 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
@@ -440,7 +441,6 @@ dxtnqglxrio.com
 e5asyhilodice.com
 eelfpsgnicy.com
 efdldoqzzm.com
-effacedefend.com
 efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
@@ -457,7 +457,6 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -472,6 +471,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -547,11 +547,9 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
-ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
-lfezjmxldv.com
 lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
@@ -565,6 +563,7 @@ malluktig.in
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
+materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -694,18 +693,19 @@ pyicbcxvs.com
 pyxiscablese.com
 pzpvweoxjm.com
 qa.shboshbok.com
+qayuwjcpfxusg.website
 qmyoclrszpanh.website
 qpbiyued.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
+qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
-rankingscout.com
 rbergego.com
 rcyopmpfef.in
 redri.net
@@ -819,7 +819,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
-vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
