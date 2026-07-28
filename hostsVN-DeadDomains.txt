@@ -32,13 +32,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -174,7 +167,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
@@ -196,7 +188,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
@@ -279,8 +270,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -336,6 +325,7 @@ ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
+aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -371,7 +361,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
-banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -483,7 +472,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -577,7 +565,6 @@ malluktig.in
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
-materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -634,6 +621,7 @@ odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
+ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
@@ -706,13 +694,11 @@ pyicbcxvs.com
 pyxiscablese.com
 pzpvweoxjm.com
 qa.shboshbok.com
-qayuwjcpfxusg.website
 qmyoclrszpanh.website
 qpbiyued.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
@@ -883,6 +869,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yb26b.com
 ygdragebdimw.com
 yiopse.com
 yldbt.com
