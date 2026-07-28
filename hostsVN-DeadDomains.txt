@@ -5,6 +5,8 @@ c.medialytics.com
 cdn.creative.medialytics.com
 p.medialytics.com
 px.cdn.creative.medialytics.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -15,12 +17,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -187,6 +183,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
@@ -219,6 +217,7 @@ ads.livetv637.me
 ads.livetv639.me
 ads.livetv640.me
 ads.livetv655.me
+ads.livetv658.me
 ads.livetv662.me
 ads.livetv664.me
 ads.livetv687.me
@@ -228,6 +227,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -261,6 +261,8 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
@@ -277,10 +279,12 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ads.homedy.net
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
@@ -304,6 +308,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 22hgc.com
 2443march2024.com
@@ -331,7 +336,7 @@ ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
-aff2.childish2x2.fun
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -430,6 +435,7 @@ deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
+deviatestartblock.com
 devpeakomegainnovations.com
 disrespectpreceding.com
 dithodackee.com
@@ -471,7 +477,6 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -512,6 +517,7 @@ hnzjxjfepbpr.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
+ichachoakiglop.com
 ieyipznx.art
 ileeckut.com
 immizdgmacjvi.space
@@ -538,6 +544,7 @@ jkykczdwuchq.com
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
+jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
@@ -593,6 +600,7 @@ musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mybettermb.com
+myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -626,7 +634,6 @@ odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
 ofleafeona.com
-ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
@@ -674,6 +681,7 @@ popjoynorit.cfd
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
+primetime.net
 pro-ads.club
 pro-advertising.com
 proceduresto3.net
@@ -712,6 +720,7 @@ qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
 rankingscout.com
+rbergego.com
 rcyopmpfef.in
 redri.net
 refpa4293501.top
@@ -761,6 +770,7 @@ soumehoo.net
 specially4u.net
 spurioussteam.com
 spywarenuker.com
+spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
 steerensout.net
@@ -873,7 +883,6 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yb26b.com
 ygdragebdimw.com
 yiopse.com
 yldbt.com
