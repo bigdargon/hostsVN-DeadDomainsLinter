@@ -1,10 +1,4 @@
 blueserving.com
-medialytics.com
-a.medialytics.com
-c.medialytics.com
-cdn.creative.medialytics.com
-p.medialytics.com
-px.cdn.creative.medialytics.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -29,7 +23,6 @@ v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
-logger.adthor.com
 static.adthor.com
 v.adthor.com
 beacon.statful.com
@@ -54,7 +47,6 @@ g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
-in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadskiz.com
@@ -242,14 +234,12 @@ wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 kabbmedia.com
@@ -457,6 +447,7 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -464,7 +455,6 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
-fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -490,7 +480,6 @@ gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
-gq.binesyorker.com
 graizoah.com
 gtuzanksz.com
 gv.habitanchowses.cyou
@@ -547,9 +536,11 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
+lfezjmxldv.com
 lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
@@ -793,7 +784,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
