@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -34,7 +32,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -50,7 +47,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
+n.popclck.org
+st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -66,8 +64,19 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-s.optvx.com
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -131,11 +140,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -161,6 +165,7 @@ app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
+img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
@@ -170,8 +175,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
-int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
@@ -179,6 +182,9 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -259,7 +265,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -270,9 +275,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 app2.jeoway.net
 wiinvent.com.vn
 embed.wiinvent.com.vn
@@ -333,6 +335,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -344,7 +347,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.bymetapodchan.com
 ak.offstaryutor.com
 alwingulla.com
 amare.agency
@@ -356,14 +358,12 @@ appeaserepose.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
 awjojjrimaf.in
-ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
 azzadgasf.in
@@ -387,6 +387,7 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
+braincash.com
 brazenwholly.com
 breathelicense.com
 brightcriticism.com
@@ -455,6 +456,7 @@ efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
+ellcurvth.com
 elmnxeembokgd.space
 enterprises550.net
 erezzydxykqwk.space
@@ -497,7 +499,6 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
-go-rank.de
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -569,6 +570,7 @@ lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -579,9 +581,11 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
+mediacharger.com
 medusaecaptan.com
 messenger-notify.digital
 mfmalergyol.com
@@ -601,6 +605,7 @@ mustardeveningobvious.com
 mutcheng.net
 mybettermb.com
 myesutdnuyddu.com
+mz.proxysmjameson.cfd
 mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
@@ -696,6 +701,7 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
+pub.trads.io
 pumaqmqix.com
 pushazam.com
 pushlaram.com
@@ -745,7 +751,6 @@ rvrpushserv.com
 ryxbowubroqka.online
 sanoslkut.in
 satisfactorymetalrub.com
-scripte-monster.de
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
@@ -819,10 +824,12 @@ ubbfpm.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
+unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
