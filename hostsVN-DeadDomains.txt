@@ -19,10 +19,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -194,7 +190,6 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
-ads.livetv708.me
 ads.livetv782.me
 ads.livetv788.me
 ads.livetv790.me
@@ -230,6 +225,7 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -318,6 +314,8 @@ appeaserepose.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
+ashoupsu.com
+asifhclod.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -438,10 +436,8 @@ fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
-g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -538,7 +534,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -607,7 +602,6 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orb92.com
 orbor700.com
@@ -727,6 +721,7 @@ smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
+solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -795,7 +790,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
-vionito.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
