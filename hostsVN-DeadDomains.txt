@@ -18,15 +18,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
@@ -54,6 +45,7 @@ g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
+in1.gop1.co
 log.gop1.co
 offer.gop1.co
 fadskiz.com
@@ -87,8 +79,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-vast.adxoo.com
-www.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -107,6 +97,7 @@ pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
+www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
@@ -239,7 +230,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -304,7 +294,6 @@ admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.rpgdot.com
-ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
@@ -329,8 +318,6 @@ appeaserepose.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-ashoupsu.com
-asifhclod.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -411,6 +398,7 @@ deviatestartblock.com
 devpeakomegainnovations.com
 disrespectpreceding.com
 dithodackee.com
+dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
@@ -540,7 +528,6 @@ lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
-lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -584,6 +571,7 @@ navelfletch.com
 navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
+nessainy.net
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -739,7 +727,6 @@ smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
-solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
