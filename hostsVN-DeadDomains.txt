@@ -1,3 +1,4 @@
+blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -8,6 +9,12 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -18,6 +25,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -25,16 +37,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -207,6 +209,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -288,11 +291,14 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
+2443march2024.com
 2508june2024.com
 2516june2024.com
 2518june2024.com
 2526june2024.com
+303bus.net
 540creative.net
 734map.net
 7777align.net
@@ -327,6 +333,7 @@ amare.agency
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 appeaserepose.com
 aqauikfd.com
@@ -396,6 +403,7 @@ cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 conopidlanai.qpon
+crowdgravity.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -443,6 +451,7 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -456,6 +465,8 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -540,6 +551,7 @@ leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
+link-booster.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
@@ -553,6 +565,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -637,6 +650,7 @@ ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
+passfixx.com
 pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
@@ -726,7 +740,6 @@ scripte-monster.de
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
-shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 shoordaird.com

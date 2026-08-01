@@ -374,7 +374,6 @@ com.vn-hc.info
 com.vn-iy.info
 com.vn-iz.info
 com.vn-rb.icu
-com.vn-rn.biz
 com.vn-sp.top
 com.vn-sp.xyz
 com.vn-ub.info
@@ -385,7 +384,6 @@ congdientu247.com
 congdong-awc-vongquaylienquan.tk
 congdongvietnam247.com
 congnap-playtogether.com
-congnapfreefire.com
 congnaplienquan.com
 congnghevietmy.com.vn
 congtacvienonline.vn
@@ -466,8 +464,10 @@ datgrabsaigon.com
 dathangdon.com
 dautruongdanhvong.com
 dautukiemtien.net
+dcommerc.cfd
 defi.hsfdefi.com
 demo.sc0mvn.com
+depandirect.be
 dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
@@ -503,7 +503,6 @@ dichvucong.bcavnvnvngov.com
 dichvucong.ccbcavn.cc
 dichvucong.cvgov.com
 dichvucong.dancuquocgia.net
-dichvucong.dancuso.com
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.hgov.cc
@@ -610,6 +609,7 @@ egiontheh.cfd
 egt091102205euc.click
 egt091102207euc.click
 email-apple.support
+emodernst.cfd
 entbymo.cfd
 eqav33.com
 eqav77.com
@@ -1079,6 +1079,7 @@ jetkingncsc.online
 jewvvkh.cyou
 jeyrkyshop.com
 jo9p72.cyou
+jomashopsa.com
 jsivqe.aramco8.com
 jtqqzvqrd.net
 jump.unixpop.xyz
@@ -1498,7 +1499,6 @@ momosieutoc.net
 momoski.me
 momosky.me
 momosky.top
-momosushivancouver.com
 momotudong.net
 momovayi.com
 momovip.club
@@ -1585,6 +1585,7 @@ mylotte.shop
 myscannappo.com
 myscannappo.info
 myscannappo.online
+myshopee13.com
 myshopee7.vip
 nalhajarm.cfd
 nang-cap-hang-vvip-vib.com
@@ -1711,7 +1712,6 @@ napthex50.com
 napthex98.ga
 naptien.site
 naptienfreefire.com
-naptienfreefire.vn
 naptienfreefires.com
 naptienminiworld.com
 naptienminiworld.net
@@ -2171,6 +2171,7 @@ shinhancredit.com
 shinhanfinaco.info
 shinhanfinaco.xyz
 shinhanfnc.com
+shinhanvaytieudung.net
 shinhanvayvon.online
 shipshop99.com
 shogunbovietnam.com
@@ -2286,6 +2287,7 @@ shopee52.com
 shopee5566.com
 shopee585.com
 shopee60.com
+shopee62.com
 shopee666.top
 shopee6688.net
 shopee687.com
@@ -2507,7 +2509,6 @@ shoptindungrobux.com
 shoptinhyeuvn.com
 shoptksoigm.com
 shoptoanquoc247.com
-shoptrau.com
 shoptrumflo.vn
 shoptrumlq.com
 shoptruykich.vn
@@ -2891,8 +2892,6 @@ tikirating-vn.com
 tikiratingvn.com
 tikiratingvn.net
 tikishop.life
-tikishop.shop
-tikishop.top
 tikishop.vip
 tikishop6.com
 tikishopping.shop
@@ -3072,6 +3071,7 @@ triangamethulienquan.com
 trianlienquan.com
 trianlienquan2.club
 trianlienquanvn2021.com
+trianlq.com
 trianqua4052.com
 trianquagarrena.com
 trianquanhuy.com
@@ -3118,7 +3118,6 @@ tuanlevang.vn
 tuanlocvang123.com
 tuoitre24h.info
 tututiki.com
-tuvanruttien.com
 tuyendung-shopee.com
 tuyendung203.com
 tuyendungctvlazada.com
@@ -3605,7 +3604,6 @@ vitri-icloud.com
 viva.exchange
 viva2.exchange
 vivayvnd.com
-viyo.life
 vletcombank.com
 vmayman.com
 vn-banking.xyz
@@ -3841,6 +3839,7 @@ vp-nanghanmuc.com
 vp-nanghanmuc.online
 vp111.vip
 vp7811.com
+vpb-hanmuc.com
 vpb-hanmuc.online
 vpb-nanghanmuc.com
 vpb-nanghanmuc.online
@@ -3972,7 +3971,9 @@ www.baovietvc.top
 www.checkaccff.com
 www.dangnhaphoso.com
 www.e-commercesc.cc
+www.fccomvn.com
 www.findiphone.mobi
+www.fmiphone-apple.com
 www.hdsaison-com.cc
 www.hdsaison-hi.cc
 www.hdsaison-vn.cc
@@ -4014,7 +4015,6 @@ www.vibvay.com
 www.vibvayvn.com
 www.vieclamlazada.com.vn
 www.view-apple.com
-www.viyo.life
 www.vn-findmy.com
 www.vn-scl.life
 www.vn-ub.info
@@ -4081,5 +4081,4 @@ znavidsde.cfd
 zuanqia.com
 zutube.pro
 zvay.online
-zvietcombank.com
 zywjpypco.7hujk.de
