@@ -38,12 +38,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
+a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -159,13 +154,7 @@ int.vlancaa.site
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
-appcloud.ironbeast.io
 lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -209,6 +198,7 @@ ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -220,7 +210,6 @@ aj2587.bid
 aj2629.bid
 aj2634.bid
 aj3007.bid
-aj3017.bid
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -258,6 +247,8 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -267,6 +258,7 @@ sbbanner.com
 trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
+analytics.zatomac.vn
 live.vnpgroup.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -373,6 +365,7 @@ butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
 cagamvnuqhuh.com
+cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
@@ -443,7 +436,6 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -459,6 +451,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -503,6 +496,7 @@ inspirationstarednope.com
 institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
@@ -525,6 +519,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -555,6 +550,7 @@ martyrcontrol.com
 materialplayground.com
 mattockpackall.com
 meaese.click
+meandiminutionhit.com
 mediacharger.com
 medusaecaptan.com
 messagenovice.com
@@ -615,7 +611,6 @@ ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
-ommentsere.biz
 onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
@@ -656,7 +651,6 @@ poawooptugroo.com
 pokreess.com
 popjoynorit.cfd
 popunder.ru
-poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 pro-ads.club
@@ -671,10 +665,8 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
-pumaqmqix.com
 pushazam.com
 pushlaram.com
-pushmono.com
 pushqwer.com
 pushsar.com
 pw.oulapoat.qpon
@@ -700,9 +692,9 @@ redri.net
 refpa4293501.top
 refpa58144.com
 renderstreamshuttleanalytics.net
-resalag.com
 rizkigkmoa.in
 rkopcipugj.in
+rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
@@ -783,7 +775,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -802,6 +793,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -825,6 +817,7 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
+webmasterplan.de
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
