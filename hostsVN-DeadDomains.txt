@@ -1,6 +1,4 @@
 blueserving.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -17,6 +15,7 @@ static.2mdnsys.com
 stats.2mdnsys.com
 cfa.2mdnsys.com
 api.zcoup.com
+image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
@@ -32,10 +31,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -73,19 +68,6 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 s.optvx.com
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -212,7 +194,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
-jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
@@ -224,7 +205,6 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
 ads.livetv637.me
 ads.livetv639.me
 ads.livetv640.me
@@ -342,7 +322,6 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
-ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -359,7 +338,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 alwingulla.com
@@ -448,7 +426,6 @@ dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
-deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
@@ -484,6 +461,7 @@ exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -498,7 +476,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -584,7 +561,6 @@ link-booster.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
-lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -890,6 +866,7 @@ www.pro-ads.club
 www.propu.sh
 www.servsave.com
 www.shndrktrk.com
+xcirtefata.in
 xclicks.net
 xgodpmdczzyza.com
 xlx1.com
@@ -908,7 +885,6 @@ ygdragebdimw.com
 yiopse.com
 yldbt.com
 yoshdeum.com
-yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yu225.com
