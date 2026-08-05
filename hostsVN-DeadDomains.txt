@@ -1,4 +1,3 @@
-blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -194,6 +193,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
+jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
@@ -205,6 +205,7 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
+ads.livetv633.me
 ads.livetv637.me
 ads.livetv639.me
 ads.livetv640.me
@@ -322,6 +323,7 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -426,6 +428,7 @@ dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
+deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
@@ -444,7 +447,6 @@ dxtnqglxrio.com
 e5asyhilodice.com
 eelfpsgnicy.com
 efdldoqzzm.com
-efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
@@ -476,6 +478,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -500,7 +503,6 @@ gv.habitanchowses.cyou
 gylxwpwabgp.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
-hdlyfrxtnjpbc.site
 heardaccumulatebeans.com
 hhbwhgtciqe.com
 hixwwert.in
@@ -716,11 +718,9 @@ redri.net
 refpa4293501.top
 refpa58144.com
 renderstreamshuttleanalytics.net
-resalag.com
 rizkigkmoa.in
 rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
-rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
@@ -885,6 +885,7 @@ ygdragebdimw.com
 yiopse.com
 yldbt.com
 yoshdeum.com
+yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yu225.com
@@ -904,7 +905,6 @@ zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
-d19ptbnuzhibkh.cloudfront.net
 lem-computers.net
 ping.kitidi.com
 pymx5.com
