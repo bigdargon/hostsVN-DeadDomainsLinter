@@ -174,6 +174,7 @@ img.truepush.com
 s.truepush.com
 sdk.truepush.com
 sdki.truepush.com
+stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
@@ -182,7 +183,6 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
-tracking.adclickmedia.com
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
@@ -236,6 +236,7 @@ ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
+aj2576.bid
 aj2577.bid
 aj2583.bid
 aj2584.bid
@@ -256,7 +257,6 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -265,7 +265,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.haproinfo.vn
 mautic.hicity.vn
@@ -295,7 +294,6 @@ sbbanner.com
 trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
-analytics.zatomac.vn
 live.vnpgroup.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -370,7 +368,6 @@ ashoupsu.com
 asifhclod.com
 astraon255.net
 atdxamakqo.in
-ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
@@ -466,7 +463,6 @@ efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
-ellcurvth.com
 elmnxeembokgd.space
 enterprises550.net
 erezzydxykqwk.space
@@ -489,6 +485,7 @@ frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
+fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -506,7 +503,6 @@ gketcakpeh.com
 glersakr.com
 glimtors.net
 gloaphoo.net
-gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
@@ -667,6 +663,7 @@ orbor700.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
+orywrjsf.com
 osknimkihvr.com
 outrotomr.com
 ovmhwiccikr.com
@@ -735,6 +732,7 @@ qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
+qzeavzrfaoqn.com
 railwayrainstorm.com
 rankingchart.de
 rankingscout.com
@@ -841,6 +839,7 @@ uapafuxwnusear.com
 ubbfpm.com
 ueikno.com
 ugroocuw.net
+ugtflnqn.com
 unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
@@ -867,6 +866,7 @@ vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
+wdqhdqtlxu.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
@@ -889,7 +889,6 @@ www.phoossax.net
 www.pro-ads.club
 www.propu.sh
 www.servsave.com
-www.shndrktrk.com
 xcirtefata.in
 xclicks.net
 xgodpmdczzyza.com
