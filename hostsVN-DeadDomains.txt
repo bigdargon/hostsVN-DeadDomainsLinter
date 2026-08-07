@@ -186,9 +186,6 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -263,6 +260,7 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
+adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -273,7 +271,6 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -302,7 +299,6 @@ ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 www.sbbanner.com
-analytics.moneycat.vn
 live.vnpgroup.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -345,7 +341,6 @@ ads.cdn2-img.net
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -369,7 +364,6 @@ appeaserepose.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -494,6 +488,7 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
+ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -595,7 +590,6 @@ malluktig.in
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
-materialplayground.com
 mathcountryside.com
 mattockpackall.com
 meaese.click
@@ -610,6 +604,7 @@ miserablenobody.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
+mobzeg.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
 mtakpfquym.com
@@ -867,6 +862,7 @@ vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
+vteskyombq.com
 vtwvtmsvpav.com
 waisheph.com
 waufooke.com
@@ -933,6 +929,7 @@ zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
+guihua-china.com
 lem-computers.net
 pymx5.com
 sentry.monplayer.org
