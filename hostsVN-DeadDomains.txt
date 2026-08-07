@@ -36,6 +36,7 @@ dspmulti.com
 aj1090.online
 aj1408.online
 aj1549.online
+aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
@@ -66,9 +67,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -129,6 +127,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
@@ -253,7 +252,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-mntzrlt.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -265,7 +263,6 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
@@ -307,7 +304,6 @@ trenddigital.vn
 www.sbbanner.com
 analytics.moneycat.vn
 live.vnpgroup.net
-thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -349,6 +345,7 @@ ads.cdn2-img.net
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
@@ -444,6 +441,7 @@ cutescale.online
 d3jqverr.pro
 dalyio.com
 dalymix.com
+dalysh.com
 dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
@@ -487,6 +485,7 @@ facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -548,7 +547,6 @@ intorterraon.com
 isolatedfrom82.com
 itgiblean.com
 itletroec.com
-ivdjs.com
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -569,6 +567,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -597,6 +596,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -610,7 +610,6 @@ miserablenobody.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
-mobzeg.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
 mtakpfquym.com
@@ -696,6 +695,7 @@ phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
+playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
@@ -708,6 +708,7 @@ pro-ads.club
 proceduresto3.net
 producerplot.com
 propu.sh
+ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
@@ -862,10 +863,10 @@ verninchange.com
 vionito.com
 vityhoughinimal.com
 vnumlkbuujd.com
+vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
-vteskyombq.com
 vtwvtmsvpav.com
 waisheph.com
 waufooke.com
