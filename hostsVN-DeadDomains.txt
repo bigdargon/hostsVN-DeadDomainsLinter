@@ -130,9 +130,7 @@ s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
-front-logs.voodoo-ads.io
 voodoo-ads.io
-trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 cdn.anymad.com
@@ -180,12 +178,8 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
-ak.hetaruvg.com
-hetaruvg.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -233,7 +227,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv790.me
@@ -299,6 +292,7 @@ ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 www.sbbanner.com
+analytics.moneycat.vn
 live.vnpgroup.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -394,7 +388,6 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
-brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
@@ -452,7 +445,6 @@ dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
-dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -479,7 +471,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -540,7 +531,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 isolatedfrom82.com
-itgiblean.com
 itletroec.com
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -590,7 +580,7 @@ malluktig.in
 maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
-mathcountryside.com
+materialplayground.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
