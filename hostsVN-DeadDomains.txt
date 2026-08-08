@@ -26,13 +26,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -109,6 +102,7 @@ cdn.pvmax.net
 kuasa.pvmax.net
 monika.pvmax.net
 pvmax.net
+www.pvmax.net
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -139,7 +133,6 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -164,6 +157,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
@@ -255,7 +249,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -338,7 +331,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 2508june2024.com
@@ -362,7 +354,6 @@ ads.cdn2-img.net
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -381,7 +372,6 @@ amare.agency
 ampmhcbehnapwt.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 aqauikfd.com
@@ -473,6 +463,7 @@ directpaper.name
 disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
+dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
 dulrihaungy.com
@@ -611,7 +602,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -663,7 +653,6 @@ ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
-obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
@@ -793,6 +782,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
+slidbecauseemerald.com
 smptdrf.link
 smptrffc.click
 smptrffc.fyi
@@ -814,7 +804,6 @@ steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
-sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
