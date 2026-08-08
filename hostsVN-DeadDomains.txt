@@ -1,3 +1,6 @@
+blueserving.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -59,6 +62,32 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+aab.adxxx.com
+adxxx.com
+b.adxxx.com
+cn.adxxx.com
+de.adxxx.com
+endpoint.adxxx.com
+es.adxxx.com
+iframe.adxxx.com
+iframe2.adxxx.com
+n.adxxx.com
+pl.adxxx.com
+pr.adxxx.com
+ru.adxxx.com
+scan.adxxx.com
+self-service.adxxx.com
+self-service-adm.adxxx.com
+self-service-pay.adxxx.com
+st.adxxx.com
+static.adxxx.com
+static2-src.adxxx.com
+static-src.adxxx.com
+st-n.adxxx.com
+teasers.adxxx.com
+tr.adxxx.com
+vi.adxxx.com
+www.adxxx.com
 fadsimz.com
 fadskiz.com
 gadskis.com
@@ -71,7 +100,6 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
-static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -111,6 +139,7 @@ netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -130,7 +159,9 @@ s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
+trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 cdn.anymad.com
@@ -153,9 +184,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-asdpoi.com
-widgets.asdpoi.com
-www.asdpoi.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
@@ -289,6 +317,7 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
 ax.mpcdn.top
+qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 www.sbbanner.com
@@ -312,7 +341,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 2021group.com
-22hgc.com
 2443march2024.com
 2508june2024.com
 2516june2024.com
@@ -335,7 +363,9 @@ ads.cdn2-img.net
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
+afcnuchxgo.com
 aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -381,13 +411,13 @@ biggedchocard.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
-bondleapedoasis.com
 bonertraffic13.info
 boobausauhipsa.net
 bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
+brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
@@ -445,6 +475,7 @@ dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
+dowerlesssightseehow.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -465,7 +496,6 @@ erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 evzhzppj5kel.com
-ewhareey.com
 exploreannihilationquicker.com
 facebookad.for88vn.com
 fadzudvracat.com
@@ -479,7 +509,6 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -530,7 +559,6 @@ inspirationstarednope.com
 institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
-isolatedfrom82.com
 itletroec.com
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -571,6 +599,7 @@ link-booster.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lwxoothcoq.com
 mafrarc3e9h.com
@@ -702,7 +731,6 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
-pub.trads.io
 pushazam.com
 pushlaram.com
 pushmono.com
@@ -719,7 +747,6 @@ qpbiyued.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
@@ -845,6 +872,7 @@ vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
+viamariller.com
 vionito.com
 vityhoughinimal.com
 vnumlkbuujd.com
@@ -858,6 +886,7 @@ waisheph.com
 waufooke.com
 waymarkgentiin.com
 wdqhdqtlxu.com
+websponsors.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
@@ -902,7 +931,6 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
@@ -919,6 +947,7 @@ zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
+d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
 pymx5.com
