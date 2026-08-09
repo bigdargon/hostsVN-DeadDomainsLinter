@@ -1,4 +1,3 @@
-blueserving.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -71,6 +70,7 @@ de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
 iframe.adxxx.com
+iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
@@ -137,9 +137,6 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -148,6 +145,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adexpert.pixanalytics.com
@@ -236,9 +234,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -502,7 +497,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -511,6 +505,7 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
+funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
@@ -577,6 +572,7 @@ jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
 jqyryzrbuqpfp.space
+jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
@@ -664,7 +660,6 @@ nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
-oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
@@ -762,7 +757,6 @@ rcyopmpfef.in
 redri.net
 refpa4293501.top
 refpa58144.com
-remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -827,7 +821,6 @@ sysmeasuring.net
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t84c3srgclc9.com
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -852,7 +845,6 @@ track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
-tsiwqtng8huauw30n.com
 tutgcinarlak.com
 tydcybxaxtvpw.site
 u1pmt.com
