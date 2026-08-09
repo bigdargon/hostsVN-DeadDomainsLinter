@@ -31,6 +31,7 @@ s.kau.li
 y.kau.li
 beacon.statful.com
 a.adtechjp.com
+adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
 all.dspmulti.com
@@ -100,7 +101,6 @@ ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -122,14 +122,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
-ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -398,7 +390,6 @@ benzeinlune.com
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
-bmycupptafr.com
 bondleapedoasis.com
 bonertraffic13.info
 boobausauhipsa.net
@@ -419,7 +410,6 @@ cameesse.net
 can-get-so.me
 caribedkurukh.com
 cb.snoozyhayride.com
-cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -439,6 +429,7 @@ clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
+colonserve.com
 conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
@@ -491,7 +482,6 @@ facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -500,14 +490,12 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -697,7 +685,6 @@ petchesa.net
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
-phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
@@ -788,6 +775,7 @@ smptdrf.link
 smptrffc.click
 smptrffc.fyi
 smptrffc.link
+smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
