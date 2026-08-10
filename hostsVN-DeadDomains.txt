@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -77,7 +75,6 @@ endpoint.adxxx.com
 es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
-n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
 ru.adxxx.com
@@ -133,8 +130,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -200,6 +195,7 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
+appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
@@ -307,6 +303,7 @@ ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 ttus.tructiepbongda.me
+tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 analytics.zatomac.vn
@@ -355,7 +352,6 @@ adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -364,7 +360,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.offstaryutor.com
 amare.agency
 ampmhcbehnapwt.com
@@ -507,7 +502,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -867,7 +861,6 @@ verninchange.com
 viamariller.com
 vityhoughinimal.com
 vnumlkbuujd.com
-vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
@@ -901,7 +894,6 @@ www.phoossax.net
 www.pro-ads.club
 www.propu.sh
 www.servsave.com
-www.shndrktrk.com
 xcirtefata.in
 xclicks.net
 xgodpmdczzyza.com
