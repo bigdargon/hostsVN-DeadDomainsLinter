@@ -44,7 +44,6 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -64,6 +63,7 @@ ajxx91.online
 n.popclck.org
 st-n.popclck.org
 a.brand.ad
+aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
@@ -274,7 +274,6 @@ delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
-www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
 adx.vn
@@ -309,7 +308,6 @@ api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
-ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -450,6 +448,7 @@ colonserve.com
 conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
+cutescale.online
 d3jqverr.pro
 dalyio.com
 dalymix.com
@@ -490,6 +489,7 @@ erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
+evzhzppj5kel.com
 ewhareey.com
 exploreannihilationquicker.com
 ezdkixzdkr.com
@@ -505,14 +505,12 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
-ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -566,7 +564,6 @@ jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jdxkcews.com
-jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
@@ -708,7 +705,6 @@ phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
-playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
@@ -867,9 +863,8 @@ uz.louchefunnel.shop
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
-ventivmedia.com
 verninchange.com
-viamariller.com
+viiadr.com
 vityhoughinimal.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -921,6 +916,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+ygdragebdimw.com
 yiopse.com
 yldbt.com
 yoshdeum.com
