@@ -159,7 +159,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -232,8 +231,6 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
-g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -308,14 +305,13 @@ jeoway.com
 platform.jeoway.com
 www.jeoway.com
 api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -328,7 +324,6 @@ sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
-analytics.moneycat.vn
 analytics.zatomac.vn
 clientinfo.phimmoizz.net
 live.vnpgroup.net
@@ -374,6 +369,7 @@ ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 adw9.com
 aerodynomach.com
 afcnuchxgo.com
@@ -386,7 +382,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.offstaryutor.com
 amare.agency
 ampmhcbehnapwt.com
@@ -526,6 +521,7 @@ fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
+fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
@@ -577,7 +573,6 @@ intorterraon.com
 ionigravida.com
 isolatedfrom82.com
 itgiblean.com
-itheatmoran.com
 itletroec.com
 ivdjs.com
 jabobdfufaqt.in
@@ -741,6 +736,7 @@ pro-ads.club
 proceduresto3.net
 producerplot.com
 propu.sh
+ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
@@ -889,7 +885,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
-vionito.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
@@ -918,6 +913,7 @@ wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
+wounofoarausooy.net
 wr.amigojimbang.com
 wucdrynukof.in
 www.admarket.network
