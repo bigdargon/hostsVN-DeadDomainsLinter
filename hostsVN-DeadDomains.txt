@@ -24,6 +24,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -31,15 +36,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -105,6 +101,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -132,6 +131,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -152,6 +159,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -160,6 +168,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -268,6 +280,8 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -293,12 +307,15 @@ app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -332,6 +349,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 2508june2024.com
@@ -356,6 +374,7 @@ ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
+adw9.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -374,11 +393,12 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 appeaserepose.com
+aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -445,6 +465,7 @@ cnawrtrimk.com
 colonserve.com
 conopidlanai.qpon
 csyxnkhvueuh.com
+culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
 dalyio.com
@@ -493,6 +514,7 @@ ezdkixzdkr.com
 facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
+fbgbskzvbvzokr.com
 fibqukktuv.in
 fnzocmpkp.com
 forspearowor.com
@@ -504,10 +526,10 @@ fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
-fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -554,6 +576,8 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
+itgiblean.com
+itheatmoran.com
 itletroec.com
 ivdjs.com
 jabobdfufaqt.in
@@ -579,6 +603,7 @@ kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
+kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
@@ -672,6 +697,7 @@ onemboaran.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -715,7 +741,6 @@ pro-ads.club
 proceduresto3.net
 producerplot.com
 propu.sh
-ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
@@ -752,6 +777,7 @@ rcyopmpfef.in
 redri.net
 refpa4293501.top
 refpa58144.com
+remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -859,10 +885,13 @@ uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
 vcqclbetewdnq.website
+vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
+vionito.com
 vityhoughinimal.com
+vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -889,7 +918,6 @@ wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
-wounofoarausooy.net
 wr.amigojimbang.com
 wucdrynukof.in
 www.admarket.network
@@ -913,6 +941,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yb26b.com
 ygdragebdimw.com
 yiopse.com
 yldbt.com
