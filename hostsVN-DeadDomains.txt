@@ -167,10 +167,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -231,6 +227,8 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
+g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -307,7 +305,6 @@ www.jeoway.com
 api.affmates.com
 storage.affmates.com
 wiinvent.com.vn
-embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -324,6 +321,7 @@ sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
+analytics.moneycat.vn
 analytics.zatomac.vn
 clientinfo.phimmoizz.net
 live.vnpgroup.net
@@ -369,8 +367,6 @@ ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
-adw9.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -489,7 +485,6 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
-eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
 eghnybyvn.com
@@ -552,7 +547,6 @@ hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
-heardaccumulatebeans.com
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
@@ -661,7 +655,6 @@ nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
-novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
 nuclearads.com
@@ -692,7 +685,6 @@ onemboaran.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
