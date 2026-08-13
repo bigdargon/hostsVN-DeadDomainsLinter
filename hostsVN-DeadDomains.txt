@@ -25,11 +25,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -139,7 +134,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
-native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -266,7 +260,6 @@ ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
-aj2566.bid
 aj2576.bid
 aj2577.bid
 aj2583.bid
@@ -276,7 +269,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-aff-track.net
 mntzrlt.net
 adv.klick.vn
 demo.klick.vn
@@ -312,7 +304,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -377,7 +368,6 @@ abvfupqkyaj.in
 acsshufxnu.com
 adgardener.com
 admarket.network
-ads.cdn2-img.net
 ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
@@ -742,6 +732,7 @@ playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
+pop-under.ru
 popjoynorit.cfd
 popunder.ru
 poshhateful.com
@@ -946,6 +937,7 @@ xnhhzlkr.com
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
+xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
 xtuohnfwia.in
