@@ -134,6 +134,7 @@ imstks.com
 t.imstks.com
 www.imstks.com
 adxoo.com
+native-vpaid.adxoo.com
 service.adxoo.com
 syndication.adxoo.com
 tracking.adxoo.com
@@ -204,7 +205,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
 ak.hetaruvg.com
@@ -260,6 +260,7 @@ ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
+aj2566.bid
 aj2576.bid
 aj2577.bid
 aj2583.bid
@@ -368,6 +369,7 @@ abvfupqkyaj.in
 acsshufxnu.com
 adgardener.com
 admarket.network
+ads.cdn2-img.net
 ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
@@ -443,7 +445,6 @@ caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
-cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -522,7 +523,6 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
-fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -547,7 +547,6 @@ gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
-goomaphy.com
 gq.binesyorker.com
 gtuzanksz.com
 gv.habitanchowses.cyou
