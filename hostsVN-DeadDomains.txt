@@ -187,6 +187,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -337,7 +338,6 @@ trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-analytics.zatomac.vn
 clientinfo.phimmoizz.net
 live.vnpgroup.net
 thongke.opencps.vn
@@ -731,6 +731,7 @@ peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
 petchesa.net
+phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
@@ -945,7 +946,6 @@ xnhhzlkr.com
 xnocffar.com
 xp.retinichawks.cyou
 xpihripcao.in
-xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
 xtuohnfwia.in
