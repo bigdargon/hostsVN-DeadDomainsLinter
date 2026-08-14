@@ -228,7 +228,6 @@ delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
-loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -309,8 +308,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -406,7 +403,6 @@ awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
-azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
@@ -485,6 +481,7 @@ dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
+dowerlesssightseehow.com
 dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
@@ -528,7 +525,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -638,7 +634,6 @@ metanetwork.net
 mfmalergyol.com
 miserablenobody.com
 mixedreading.com
-mizckufx.com
 mkkvprwskq.com
 mobzeg.com
 moonoafy.net
@@ -890,7 +885,6 @@ unugilpcyxoep.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
-uz.louchefunnel.shop
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
@@ -903,6 +897,7 @@ vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
+vtwvtmsvpav.com
 waisheph.com
 waufooke.com
 waymarkgentiin.com
