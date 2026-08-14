@@ -52,15 +52,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 n.popclck.org
 st-n.popclck.org
-a.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -125,9 +119,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -145,6 +136,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -211,6 +204,8 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -229,6 +224,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -240,6 +237,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -354,7 +354,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 2508june2024.com
 2516june2024.com
-2518june2024.com
 2526june2024.com
 303bus.net
 540creative.net
@@ -372,6 +371,7 @@ admarket.network
 ads.cdn2-img.net
 ads.kitidi.com
 ads.rpgdot.com
+ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
 advariant.com
@@ -414,6 +414,7 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 banner.buempliz-online.ch
+banners.dine.com
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -445,6 +446,7 @@ caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
+cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -488,6 +490,7 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -523,6 +526,7 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
+fsxmidyo.com
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -547,6 +551,7 @@ gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
+goomaphy.com
 gq.binesyorker.com
 gtuzanksz.com
 gv.habitanchowses.cyou
@@ -601,7 +606,6 @@ kiynew.com
 kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
-knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 ldjsypolwypxy.space
@@ -626,6 +630,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -656,6 +661,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
@@ -695,6 +701,7 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orb92.com
 orbor700.com
@@ -709,7 +716,6 @@ ovmhwiccikr.com
 owbltnxzgxq.com
 oxen.hillcountrytexas.com
 ozqoztrkoaj.com
-palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 passfixx.com
@@ -771,6 +777,7 @@ quicksandear.com
 qxucibukvklk.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
+randxogc.com
 rankingchart.de
 rankingscout.com
 rbergego.com
@@ -864,6 +871,7 @@ toqdizbfp.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
