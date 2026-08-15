@@ -79,6 +79,7 @@ scan.adxxx.com
 self-service.adxxx.com
 self-service-adm.adxxx.com
 self-service-pay.adxxx.com
+st.adxxx.com
 static.adxxx.com
 static2-src.adxxx.com
 static-src.adxxx.com
@@ -95,9 +96,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -117,7 +115,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -152,7 +149,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -257,7 +253,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -272,7 +267,6 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
-mntzrlt.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -376,7 +370,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -489,6 +482,7 @@ devpeakomegainnovations.com
 directpaper.name
 disrespectpreceding.com
 dithodackee.com
+dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
@@ -503,7 +497,6 @@ eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
 eghnybyvn.com
-ejnhhchykjfyyle.com
 elderlybean.com
 ellcurvth.com
 elmnxeembokgd.space
@@ -537,7 +530,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -554,6 +546,7 @@ gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
+gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 gtuzanksz.com
@@ -694,6 +687,7 @@ oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
+ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
@@ -909,7 +903,6 @@ vebo-vast.pages.dev
 ventivmedia.com
 verninchange.com
 viiadr.com
-vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
