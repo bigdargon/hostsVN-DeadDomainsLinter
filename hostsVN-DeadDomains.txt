@@ -1,4 +1,6 @@
 blueserving.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -36,6 +38,7 @@ a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
 prod.adtechjp.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -100,6 +103,19 @@ www.advinci.net
 m.optvx.com
 main.optvx.com
 s.optvx.com
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -154,6 +170,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -163,6 +180,10 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -228,6 +249,7 @@ delivery.taroads.com
 taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
+loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -256,6 +278,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -294,6 +317,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
+mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -316,11 +340,13 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
+adv.baovemoitruong.org.vn
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
+ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -342,9 +368,8 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
-1fkx796mw.com
-1slms.com
 2021group.com
+22hgc.com
 2443march2024.com
 2508june2024.com
 2516june2024.com
@@ -369,6 +394,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -394,6 +420,7 @@ appeaserepose.com
 aqauikfd.com
 arhribadjqp.com
 arrtakhihfze.in
+arswabluchan.com
 ashoupsu.com
 asifhclod.com
 astraon255.net
@@ -402,7 +429,7 @@ ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
-azrwwodreta.com
+azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
@@ -427,6 +454,7 @@ brazenwholly.com
 breathelicense.com
 brightcriticism.com
 bt.teparytympan.qpon
+btbeacdhrdt.com
 btguqecoelukltw.com
 butalksuw9dj10.com
 bytefrom2010.com
@@ -511,11 +539,13 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
+friendlyduck.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
@@ -525,6 +555,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -559,7 +590,9 @@ hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
+idot.cz
 ieyipznx.art
+iifvcfwiqi.com
 ileeckut.com
 immizdgmacjvi.space
 industries78.net
@@ -571,6 +604,7 @@ intorterraon.com
 ionigravida.com
 isolatedfrom82.com
 itgiblean.com
+itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -634,6 +668,7 @@ metanetwork.net
 mfmalergyol.com
 miserablenobody.com
 mixedreading.com
+mizckufx.com
 mkkvprwskq.com
 mobzeg.com
 moonoafy.net
@@ -748,6 +783,7 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
+pub.trads.io
 pushazam.com
 pushlaram.com
 pushmono.com
@@ -764,6 +800,7 @@ qpbiyued.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
+qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qxucibukvklk.com
@@ -774,6 +811,7 @@ rankingchart.de
 rankingscout.com
 rbergego.com
 rcyopmpfef.in
+reconditerake.com
 redri.net
 refpa4293501.top
 refpa58144.com
@@ -885,12 +923,14 @@ unugilpcyxoep.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
+uz.louchefunnel.shop
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
+ventivmedia.com
 verninchange.com
 viiadr.com
-vityhoughinimal.com
+vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -930,6 +970,7 @@ www.shndrktrk.com
 xcirtefata.in
 xclicks.net
 xgodpmdczzyza.com
+xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
@@ -949,6 +990,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zeekaihu.net
@@ -965,13 +1007,16 @@ zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
+counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
 ping.kitidi.com
 pymx5.com
+referer.pixplug.in
 sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
 track.unidata.ai
 tracker.toolpg.com
+visitor.pixplug.in
