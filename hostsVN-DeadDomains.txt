@@ -11,12 +11,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -96,7 +90,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
@@ -115,6 +108,7 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -315,7 +309,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.homedy.net
-adv.baovemoitruong.org.vn
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
@@ -370,6 +363,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -497,6 +491,7 @@ eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
 eghnybyvn.com
+ejnhhchykjfyyle.com
 elderlybean.com
 ellcurvth.com
 elmnxeembokgd.space
@@ -530,6 +525,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -630,7 +626,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -701,7 +696,6 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orb92.com
 orbor700.com
