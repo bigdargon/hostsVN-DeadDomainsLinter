@@ -1,4 +1,5 @@
 a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -39,15 +40,6 @@ origin-marketing.upsight.com
 static.upsight.com
 upsight.com
 www.upsight.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -66,12 +58,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-classic.marketolive.com
-infor.marketolive.com
-jp.marketolive.com
-magento.marketolive.com
-partners.marketolive.com
-www.marketolive.com
 n.popclck.org
 st-n.popclck.org
 cdn.bidfilter.com
@@ -153,7 +139,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -205,7 +190,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -317,7 +301,6 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -348,7 +331,6 @@ api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
-ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -393,18 +375,17 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
-ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 advolution.de
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
 afrxixlnj.com
-afzotfwramzy.in
 ahdcrajmzbtvj.com
 ahlcujguphr.com
 ainouzaudre.net
@@ -442,6 +423,7 @@ banner.buempliz-online.ch
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+belia-glp.com
 benzeinlune.com
 biggedchocard.com
 blackbrake.com
@@ -469,6 +451,7 @@ cameesse.net
 can-get-so.me
 caribedkurukh.com
 cb.snoozyhayride.com
+cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -543,6 +526,7 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -558,6 +542,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -587,6 +572,7 @@ hdlyfrxtnjpbc.site
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
+hnzjxjfepbpr.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -819,6 +805,7 @@ reconditerake.com
 redri.net
 refpa4293501.top
 refpa58144.com
+remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -835,6 +822,7 @@ rupmnmephml.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
+sanoslkut.in
 satisfactorymetalrub.com
 scripte-monster.de
 sensorpluck.com
@@ -924,7 +912,6 @@ unugilpcyxoep.com
 upr90.com
 usheebainaut.com
 uumkcycj.com
-uvopoefe.com
 uz.louchefunnel.shop
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
