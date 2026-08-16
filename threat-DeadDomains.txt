@@ -65,7 +65,6 @@ abb-vnbank.cc
 abbabbbank.com
 abbankpro.com
 abbankquick.com
-abbankvn.com
 abc-vay.com
 abc8-vay.com
 abfishop.com
@@ -97,7 +96,6 @@ acbbank.xyz
 acbvnliin.com
 acbvnlin.com
 acclienquan24h.vn
-acclienquan365.com
 acclienquangiare.shop
 acs84.com
 addatamarket.net
@@ -280,6 +278,7 @@ card-tindung-vp.com
 card-tindung.com
 cardano-ada.live
 cardshinhan.com
+casneon.com
 cathe-tindung247mpos.com
 cb49836.click
 cbfor49836.click
@@ -294,6 +293,7 @@ cgovn.cc
 cham-soc-the-truc-tuyen.com.vn
 chamsockhachhang-the-tructuyen-thang9.com.vn
 chamsockhachhang-tructuyenuudaithe.online
+chamsockhachhang-uudai-the-truc-tuyen.online
 chamsockhachhang-uudai-tructuyen-thang10.com.vn
 chamsockhachhang-uudai-tructuyenthe.com
 chamsockhachhang-uudaithe-thang6.com
@@ -1161,7 +1161,6 @@ la9435.com
 labanga.de
 labtpb.online
 ladsblue.com
-ladyvietnam.online
 laisuatkiemtiencao.com
 lambangcap3giare.net
 langthang7.ml
@@ -1242,7 +1241,6 @@ legder.com-softwares.com
 lelong.shop
 letanggiai01.com
 letangqua2022.com
-letraoquavn.com
 lfb.ink
 lib1.biz
 lienkettaikhoan.com
@@ -1890,7 +1888,6 @@ phattai6666.com
 phattaimomo.com
 phieudangky-quetthetindungvn.com
 phieudangkyquetthetindungvn.com
-phieudangkyquetthevn.com
 phieuquettheruttien-247.com
 phieuquettheruttien-24hmpos.com
 phieuruttien-247.com
@@ -2065,7 +2062,6 @@ ruttiennhanh-payonl.com
 ruttiennthetindugmpos.com
 ruttientaihanoi.com
 ruttienthetindungbienhoa.xyz
-ruttientindung-365vn.com
 ruttientindung-mposonline.com
 ruttientindung-nextpay.com
 ruttientindung-payonline.com
@@ -3396,8 +3392,12 @@ vibbca-nhan.com
 vibcskh.com
 vibvay.com
 vibvayvn.com
+vidientu-247.com
+vidientu.beauty
+vidientu247s.com
 vidientu24h.com
 vidientunganhangso247.com
+vidientusp.vn
 vidientutrangtructuyen247.com
 vidientuvietnam247.com
 vie-tcapital.com
@@ -3478,7 +3478,6 @@ vietgov.cc
 vietgov0.cc
 vietgov22.cc
 vietgov3.cc
-vietgov4.cc
 vietgov5.cc
 vietgov6.cc
 vieticombank.com
@@ -3573,6 +3572,7 @@ viiietcombank.com
 vimomo.fun
 vimomo.me
 vimomo.monster
+vimomo.vip
 vinacombank.com
 vinaconex.org
 vincomonevip.net
@@ -3686,7 +3686,6 @@ vn.vnhao123.xyz
 vn11268shp.com
 vn11568p.com
 vn119shop.com
-vn147258p.com
 vn156475p.com
 vn22647shp.com
 vn277shop.com
