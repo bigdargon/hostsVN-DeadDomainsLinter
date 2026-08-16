@@ -1,6 +1,4 @@
-blueserving.com
 a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -21,6 +19,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -28,6 +31,24 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+imgproxy.upsight.com
+marketing-api.upsight.com
+nexus.upsight.com
+o1.sendgrid.upsight.com
+origin-marketing.upsight.com
+static.upsight.com
+upsight.com
+www.upsight.com
+ad.kau.li
+analytics.kau.li
+click.kau.li
+clk.kau.li
+js.kau.li
+pixel.kau.li
+rtb.kau.li
+s.kau.li
+y.kau.li
+beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -45,6 +66,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 n.popclck.org
 st-n.popclck.org
 cdn.bidfilter.com
@@ -90,6 +117,7 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
@@ -125,8 +153,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -191,13 +218,16 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 int.vlancaa.fun
-ak.hetaruvg.com
-hetaruvg.com
+asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -247,6 +277,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -261,6 +292,7 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+aff-track.net
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -283,7 +315,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.haproinfo.vn
@@ -296,6 +327,7 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -305,6 +337,8 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -336,6 +370,7 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
+11ssq.com
 1fkx796mw.com
 2021group.com
 22hgc.com
@@ -358,16 +393,15 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
+advolution.de
 aerodynomach.com
 afcnuchxgo.com
-aff2.childish2x2.fun
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -376,6 +410,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 amare.agency
@@ -407,7 +442,6 @@ banner.buempliz-online.ch
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-belia-glp.com
 benzeinlune.com
 biggedchocard.com
 blackbrake.com
@@ -426,6 +460,7 @@ brightcriticism.com
 bt.teparytympan.qpon
 btbeacdhrdt.com
 btguqecoelukltw.com
+bttupamp.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
@@ -434,7 +469,6 @@ cameesse.net
 can-get-so.me
 caribedkurukh.com
 cb.snoozyhayride.com
-cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -509,7 +543,6 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -525,7 +558,6 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -555,7 +587,6 @@ hdlyfrxtnjpbc.site
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
-hnzjxjfepbpr.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -572,10 +603,10 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itgiblean.com
 itheatmoran.com
 itletroec.com
+ivdjs.com
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -738,6 +769,7 @@ popunder.ru
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
+primetime.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
@@ -763,9 +795,12 @@ pyxiscablese.com
 pzpvweoxjm.com
 qa.shboshbok.com
 qayuwjcpfxusg.website
+qcinouznrsvnqa.com
 qmyoclrszpanh.website
+qnbeenbgsx.com
 qpbiyued.com
 qpizuvmta.com
+qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
 qs251.com
@@ -779,11 +814,11 @@ rankingchart.de
 rankingscout.com
 rbergego.com
 rcyopmpfef.in
+rdipmrbwgvk.com
 reconditerake.com
 redri.net
 refpa4293501.top
 refpa58144.com
-remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 rizkigkmoa.in
@@ -800,7 +835,6 @@ rupmnmephml.com
 ruwjkygaxo.com
 rvrpushserv.com
 ryxbowubroqka.online
-sanoslkut.in
 satisfactorymetalrub.com
 scripte-monster.de
 sensorpluck.com
@@ -887,6 +921,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -897,6 +932,7 @@ vebo-vast.pages.dev
 ventivmedia.com
 verninchange.com
 viiadr.com
+vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -934,7 +970,6 @@ www.propu.sh
 www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
-xclicks.net
 xgodpmdczzyza.com
 xlx1.com
 xmafrihkua.in
