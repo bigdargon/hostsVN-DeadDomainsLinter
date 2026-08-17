@@ -32,14 +32,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-imgproxy.upsight.com
-marketing-api.upsight.com
-nexus.upsight.com
-o1.sendgrid.upsight.com
-origin-marketing.upsight.com
-static.upsight.com
-upsight.com
-www.upsight.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -60,6 +52,7 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -122,6 +115,9 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+c.zetadeo.com
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -202,7 +198,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
 ads.adiiix.com
 jg.wensixuetang.com
 ad.samsungadhub.com
@@ -246,7 +241,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -261,6 +255,9 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+litvp.com
+ss15.litvp.com
+ss29.litvp.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -300,6 +297,8 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -416,6 +415,7 @@ bouzechoby.net
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
+braincash.com
 brazenwholly.com
 breathelicense.com
 brightcriticism.com
@@ -439,6 +439,7 @@ ceksevairs.com
 centalkochab.com
 cgqcuskbtcusxl.com
 chaipoksore.com
+chalkedretrieval.com
 charmshoist.com
 childhoodstudioconversation.com
 choupsee.com
@@ -520,6 +521,7 @@ fxclix.com
 g0push.com
 ga.looserokaying.shop
 gadmagckfy.com
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -727,9 +729,11 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
+popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
+prayexplodesyndrome.com
 primetime.net
 pro-ads.club
 proceduresto3.net
@@ -862,6 +866,7 @@ tkddcpuc.com
 tkexutqf.in
 toglooman.com
 toqdizbfp.com
+toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
@@ -893,6 +898,7 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 ventivmedia.com
 verninchange.com
+viamariller.com
 viiadr.com
 vncnu.com
 vnumlkbuujd.com
@@ -933,7 +939,6 @@ www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
-xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
