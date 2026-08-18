@@ -395,6 +395,7 @@ continue.dasboard154-account.com
 continue.dasboard174-account.com
 continue.dasboard184-account.com
 continue.dasboard563-account.com
+continue.dasboard593-account.com
 continue.dasboard597-account.com
 continue.dasboard914-account.com
 continue.dasboard934-account.com
@@ -514,17 +515,13 @@ dichvucong.kgov.net
 dichvucong.lgov.net
 dichvucong.snggov.com
 dichvucong.tgovn.cc
-dichvucong.thongtindancu.org
-dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
-dichvucong.zvgov.com
 dichvucongbaohiemxahoi.com
 dichvudaohantindung.com
 dichvudienmay-xanh.online
 dichvugiaohangtietkiem.com
-dichvunhantien-eu.org
 dichvunhantien24h.com
 dichvushopee.com
 dichvuvietnam.pw
@@ -1241,7 +1238,6 @@ lazmail.com.vn
 lditsdebriisar.cfd
 ledger-lives-desktop.io
 ledgertp.com
-legder.com-softwares.com
 lelong.shop
 letanggiai01.com
 letangqua2022.com
@@ -1413,7 +1409,6 @@ membershipp-garenavn.com
 membershippfreefirevn.com
 membershipsfreefire-garena.com
 membershipsgarenaff.com
-membershipsgarenavn-ff.com
 membershipsinhnhatfreefire2021.com
 membershipsvn-garena.com
 membershipsvn.com
@@ -1425,7 +1420,6 @@ menberships-ff-garrena.com
 menhichs.cfd
 meokiemtien.online
 mershadclo.cfd
-metacritic.lol
 metcoin-exchange.com
 mfacebok.com
 mhshopee.com
@@ -1653,6 +1647,7 @@ napkc66.com
 napkcx10.com
 napkimcuong.site
 napkimcuong234.com
+napkimcuong247.com
 napkimcuongff2022.com
 napkimcuongffx10.vn
 napkimcuongffx100.com
@@ -1888,7 +1883,6 @@ phanqua01vn.com
 phanqua365vn.com
 phanqua7979.com
 phanquavn152.com
-phattai247.com
 phattai6666.com
 phattaimomo.com
 phieudangky-quetthetindungvn.com
@@ -2689,7 +2683,6 @@ suncitykhuyenmai.click
 sunmomo88.com
 sup7podthee.cfd
 suppliersbhx.com
-support-maps.live
 support-nganhang.site
 supporttoancau.com
 sv7momo.com
@@ -3089,6 +3082,7 @@ trickervietnam.com
 tronapp.in
 tructuyen-uudai-thekhachhang.com
 trumbemmomo.club
+trumcltx.vip
 trummomo.click
 trummomo.me
 trummomo.pro
@@ -3173,6 +3167,7 @@ vang11.com
 vang22.com
 vangngocnhanh.info
 vangngocrong.com
+vanmay.co
 vanmay.net
 vanmay.win
 vanmay1.net
@@ -3181,6 +3176,7 @@ vanmaymomo.me
 vanmayshoppe.com
 vanthangcltxmomo.xyz
 vatgia306.com
+vavietcombank.cc
 vay-666.com
 vay-abc8.com
 vay-shb.com
@@ -3637,6 +3633,9 @@ vn-iy.info
 vn-iy.life
 vn-iz.info
 vn-jss.vip
+vn-khachhang.click
+vn-kn.vip
+vn-lienket.shop
 vn-lienkettaikhoannhanqua.online
 vn-lk.shop
 vn-llc.top
