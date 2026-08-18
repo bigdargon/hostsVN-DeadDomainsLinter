@@ -10,6 +10,12 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -96,6 +102,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -187,6 +196,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
@@ -238,6 +248,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -255,6 +266,9 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
+ankdoier.com
+click.eu.ankdoier.com
+tracking.eu.ankdoier.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -291,8 +305,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -328,6 +340,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 22hgc.com
 2443march2024.com
@@ -356,6 +369,7 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -401,6 +415,7 @@ benzeinlune.com
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
+bmycupptafr.com
 bondleapedoasis.com
 bonertraffic13.info
 boobausauhipsa.net
@@ -476,6 +491,7 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eb.koaeunhairy.shop
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
@@ -561,7 +577,6 @@ intorterraon.com
 ionigravida.com
 itgiblean.com
 itletroec.com
-ivdjs.com
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -582,6 +597,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -786,6 +802,8 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
+ru.pintidmalmy.cyou
 rupmnmephml.com
 ruwjkygaxo.com
 rvrpushserv.com
@@ -804,6 +822,7 @@ shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
+sl.maundysinon.cyou
 slidbecauseemerald.com
 smptdrf.link
 smptrffc.click
@@ -889,6 +908,7 @@ vebo-vast.pages.dev
 ventivmedia.com
 verninchange.com
 viiadr.com
+vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -976,3 +996,4 @@ sentry.monplayer.org
 spkoevngk.com
 sync2ad.com
 tracker.toolpg.com
+visitor.pixplug.in
