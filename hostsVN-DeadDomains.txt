@@ -22,7 +22,6 @@ logger.zcoup.com
 v.zcoup.com
 zcoup.com
 beacon.statful.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -224,6 +223,7 @@ www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
+sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -304,7 +304,6 @@ ads.homedy.net
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -391,6 +390,7 @@ azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
+banner.buempliz-online.ch
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -553,6 +553,7 @@ immizdgmacjvi.space
 industries78.net
 infinity13.com
 inspirationstarednope.com
+institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
@@ -749,6 +750,7 @@ qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qmyoclrszpanh.website
 qnbeenbgsx.com
+qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
@@ -799,6 +801,7 @@ siweieoyjl.com
 skullhalfway.com
 sl.maundysinon.cyou
 slidbecauseemerald.com
+smeartoassessment.com
 smptdrf.link
 smptrffc.click
 smptrffc.fyi
@@ -899,6 +902,7 @@ websponsors.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
+wgkqywcf.com
 wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
