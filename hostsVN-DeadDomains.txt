@@ -11,11 +11,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 2mdnsys.com
 ads.2mdnsys.com
 static.2mdnsys.com
@@ -26,28 +21,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -99,6 +72,7 @@ static.adxxx.com
 static2-src.adxxx.com
 static-src.adxxx.com
 st-n.adxxx.com
+teasers.adxxx.com
 tr.adxxx.com
 vi.adxxx.com
 www.adxxx.com
@@ -250,7 +224,6 @@ www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
-sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
@@ -298,8 +271,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -307,9 +278,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -320,7 +288,6 @@ customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -408,7 +375,6 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 arhribadjqp.com
@@ -425,7 +391,6 @@ azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
-banner.buempliz-online.ch
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -546,7 +511,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -589,7 +553,6 @@ immizdgmacjvi.space
 industries78.net
 infinity13.com
 inspirationstarednope.com
-institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
@@ -620,6 +583,7 @@ kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
+kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
@@ -740,7 +704,9 @@ perfoliateratchetspecial.com
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
+phortaub.com
 phumagrose.com
+physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
@@ -783,7 +749,6 @@ qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qmyoclrszpanh.website
 qnbeenbgsx.com
-qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
@@ -793,7 +758,6 @@ qzeavzrfaoqn.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
-rankingscout.com
 rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
@@ -843,6 +807,8 @@ smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
+soggy-surround.com
+solutions2000.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -913,7 +879,6 @@ vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
-ventivmedia.com
 verninchange.com
 viiadr.com
 vionito.com
@@ -934,7 +899,6 @@ websponsors.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
-wgkqywcf.com
 wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
