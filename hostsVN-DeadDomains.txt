@@ -10,8 +10,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -239,6 +237,8 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -255,6 +255,7 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
+aff-track.net
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -297,6 +298,8 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -304,6 +307,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ads.6svn.com
 ads.homedy.net
 api.boclinkads.com
 api2.boclinkads.com
@@ -551,10 +555,12 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
+ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
 iifvcfwiqi.com
 ileeckut.com
+im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
 infinity13.com
@@ -636,6 +642,7 @@ mkkvprwskq.com
 mobzeg.com
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+ms.butylicrinsing.qpon
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
@@ -690,6 +697,7 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -787,6 +795,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -805,6 +814,7 @@ sheecmimty.net
 shndrktrk.com
 shoordaird.com
 singletplatformgleamenterprises.com
+siteoid.com
 siweieoyjl.com
 skullhalfway.com
 sl.maundysinon.cyou
