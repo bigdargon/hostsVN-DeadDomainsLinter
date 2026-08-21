@@ -13,6 +13,7 @@ www.nexage.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
+v.zcoup.com
 zcoup.com
 beacon.statful.com
 all.dspmulti.com
@@ -204,8 +205,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -251,7 +250,6 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-track.net
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -294,8 +292,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -314,7 +310,6 @@ tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 clientinfo.phimmoizz.net
-live.vnpgroup.net
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -518,7 +513,6 @@ gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
-gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
@@ -557,6 +551,7 @@ ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
+infamousfine.com
 infinity13.com
 inspirationstarednope.com
 institutehopelessbeck.com
@@ -766,6 +761,7 @@ qqzifkmsifrzll.com
 qrafhypxswp.com
 qsocxhfdopwj.com
 quicksandear.com
+qwertize.com
 qzeavzrfaoqn.com
 railwayrainstorm.com
 randxogc.com
@@ -806,7 +802,6 @@ sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
-shoordaird.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
