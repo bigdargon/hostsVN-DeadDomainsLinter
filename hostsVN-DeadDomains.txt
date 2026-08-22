@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -10,11 +8,24 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -34,6 +45,7 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -181,7 +193,6 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
-image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
 ak.hetaruvg.com
@@ -192,7 +203,6 @@ appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -219,6 +229,7 @@ sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
+ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -261,6 +272,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -268,6 +281,9 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -322,14 +338,14 @@ u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
+z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
 2021group.com
 2443march2024.com
 2508june2024.com
-2518june2024.com
-2526june2024.com
+2516june2024.com
 303bus.net
 540creative.net
 734map.net
@@ -355,7 +371,7 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
-ahkapsalz.com
+ah.eyesnamda.cfd
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -390,6 +406,7 @@ beabsolom.com
 beachinfinitegag.com
 belia-glp.com
 benzeinlune.com
+bergculpae.life
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
@@ -529,7 +546,6 @@ gq.binesyorker.com
 gtuzanksz.com
 gv.habitanchowses.cyou
 gylxwpwabgp.com
-gzaqwebtipm.com
 hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
@@ -580,7 +596,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -613,6 +628,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -644,6 +660,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
@@ -684,7 +701,6 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -695,7 +711,6 @@ osknimkihvr.com
 outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-oxwlhazto.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -726,6 +741,7 @@ poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 prayexplodesyndrome.com
+primetime.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
@@ -741,7 +757,6 @@ ptoushoa.com
 pttuzodqkbgv.com
 pub.trads.io
 pushazam.com
-pushlaram.com
 pushmono.com
 pushqwer.com
 pushsar.com
@@ -765,6 +780,7 @@ qzeavzrfaoqn.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
+rankingscout.com
 rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
@@ -854,14 +870,13 @@ timohtazxazej.website
 tirosagalite.com
 tkddcpuc.com
 tkexutqf.in
-toathoule.com
 toglooman.com
-tomorroweducated.com
 toqdizbfp.com
 toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -892,7 +907,6 @@ viamariller.com
 viiadr.com
 vionito.com
 vityhoughinimal.com
-vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -902,6 +916,7 @@ vteskyombq.com
 vtwvtmsvpav.com
 w.1igzn4xcl7fne6b.cfd
 waisheph.com
+walkingtutor.com
 waufooke.com
 waymarkgentiin.com
 wd.macherabemaim.shop
@@ -932,6 +947,7 @@ www.propu.sh
 www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
+xclicks.net
 xgodpmdczzyza.com
 xmafrihkua.in
 xnhhzlkr.com
@@ -953,7 +969,6 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
 zd.navigcutler.cyou
