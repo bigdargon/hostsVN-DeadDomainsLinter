@@ -60,7 +60,6 @@ b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
-es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
@@ -193,6 +192,7 @@ stats.truepush.com
 truepush.com
 www.truepush.com
 b91vip.com
+image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
 ak.hetaruvg.com
@@ -203,6 +203,7 @@ appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
+supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 ad.samsungadhub.com
@@ -511,6 +512,7 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -524,6 +526,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -585,7 +588,6 @@ jdxkcews.com
 jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
-jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
@@ -675,11 +677,9 @@ nsfwinkuhzeo.com
 nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
-nv.shunnerencinal.shop
 nwfnsitaes.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
-oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
@@ -757,6 +757,7 @@ ptoushoa.com
 pttuzodqkbgv.com
 pub.trads.io
 pushazam.com
+pushlaram.com
 pushmono.com
 pushqwer.com
 pushsar.com
@@ -816,7 +817,6 @@ servsave.com
 sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
-shndrktrk.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
@@ -867,8 +867,6 @@ theeptoah.com
 thripelbertie.website
 tidy-mark.com
 timohtazxazej.website
-tirosagalite.com
-tkddcpuc.com
 tkexutqf.in
 toglooman.com
 toqdizbfp.com
@@ -876,7 +874,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -889,7 +886,6 @@ uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
-unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
