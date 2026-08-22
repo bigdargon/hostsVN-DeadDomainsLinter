@@ -21,6 +21,7 @@ v.zcoup.com
 zcoup.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
+serve.adnetasia.com
 torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
@@ -113,6 +114,7 @@ c.zetadeo.com
 p.zetadeo.com
 zetadeo.com
 ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -161,6 +163,7 @@ stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
+qrlsx.com
 v3.qrlsx.com
 vo2.qrlsx.com
 click.showcasethat.com
@@ -225,9 +228,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -243,7 +243,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -344,7 +343,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2021group.com
 2443march2024.com
 2508june2024.com
-2516june2024.com
 303bus.net
 540creative.net
 734map.net
@@ -365,7 +363,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -377,7 +374,6 @@ aiqowflpg.com
 airdropcassino.cfd
 ak.bymetapodchan.com
 ak.offstaryutor.com
-am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
@@ -423,6 +419,7 @@ brightcriticism.com
 bt.teparytympan.qpon
 btbeacdhrdt.com
 btguqecoelukltw.com
+bttupamp.com
 butalksuw9dj10.com
 bytefrom2010.com
 caemajnt.com
@@ -480,7 +477,6 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
-dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -509,6 +505,7 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -518,10 +515,10 @@ frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
+fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -559,7 +556,6 @@ ichachoakiglop.com
 idot.cz
 ie.purauwede.qpon
 ieyipznx.art
-ih.charvetseedful.shop
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
@@ -626,6 +622,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -886,6 +883,7 @@ ueikno.com
 ugroocuw.net
 ugtflnqn.com
 unheadedsouptotal.com
+unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
@@ -959,7 +957,6 @@ xymhdmqrjxwl.com
 ygdragebdimw.com
 yiopse.com
 yldbt.com
-yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
@@ -969,6 +966,7 @@ zazmunokpvzi.com
 zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
+zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
 zjdpabwmeb.com
@@ -979,7 +977,6 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
-bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
