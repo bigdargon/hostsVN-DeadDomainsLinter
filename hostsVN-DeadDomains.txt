@@ -102,9 +102,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -146,11 +143,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -188,9 +180,6 @@ image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
 int.vlancaa.fun
-asgdfasad.mm-cgnews.com
-ak.hetaruvg.com
-hetaruvg.com
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -200,7 +189,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -283,6 +271,7 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
+static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -344,6 +333,7 @@ abmkupxixavk.in
 abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
+acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
@@ -352,14 +342,12 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
-ah.eyesnamda.cfd
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -376,7 +364,6 @@ appealtime.com
 appeaserepose.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 astraon255.net
 atdxamakqo.in
@@ -441,6 +428,7 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
+cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
@@ -497,7 +485,6 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
-findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -511,7 +498,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -561,8 +547,6 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
-itgiblean.com
-itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -615,7 +599,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -640,6 +623,7 @@ murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
+mw19c3mi5a.com
 mybettermb.com
 myesutdnuyddu.com
 mz.proxysmjameson.cfd
@@ -684,7 +668,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -835,6 +818,7 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
+syndetstermine.com
 syochgrqwze.com
 sysmeasuring.net
 system-notify.app
@@ -887,7 +871,6 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-viamariller.com
 viiadr.com
 vionito.com
 vityhoughinimal.com
@@ -953,7 +936,6 @@ yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
-yx.mousesprepuce.shop
 zazmunokpvzi.com
 zd.navigcutler.cyou
 zeekaihu.net
