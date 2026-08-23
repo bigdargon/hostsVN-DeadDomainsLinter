@@ -21,16 +21,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -139,6 +129,7 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
+vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -202,8 +193,6 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -276,8 +265,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -287,8 +274,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
@@ -298,7 +283,6 @@ dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -360,7 +344,6 @@ abmkupxixavk.in
 abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
-acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
@@ -369,6 +352,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -457,11 +441,9 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
-cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
-corypha.veluredcorveenikko.cfd
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -518,6 +500,7 @@ fibqukktuv.in
 findcommerce.com
 fnzocmpkp.com
 forspearowor.com
+fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
@@ -528,6 +511,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -851,7 +835,6 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
-syndetstermine.com
 syochgrqwze.com
 sysmeasuring.net
 system-notify.app
@@ -920,7 +903,6 @@ waisheph.com
 walkingtutor.com
 waufooke.com
 waymarkgentiin.com
-wd.macherabemaim.shop
 wdlyhnddxm.com
 wdqhdqtlxu.com
 websponsors.com
@@ -976,6 +958,7 @@ zazmunokpvzi.com
 zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
+zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
 zjdpabwmeb.com
