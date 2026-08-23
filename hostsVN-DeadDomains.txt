@@ -262,7 +262,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -342,6 +341,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -498,6 +498,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -588,7 +589,6 @@ literalcorpulent.com
 littlecutecats.com
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
-lu.hymenicshi.qpon
 lvesfrucnt.com
 m.hue2b.com
 mafrarc3e9h.com
@@ -769,7 +769,6 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
-ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -872,7 +871,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
-vionito.com
 vityhoughinimal.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -937,7 +935,6 @@ yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 zazmunokpvzi.com
-zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
