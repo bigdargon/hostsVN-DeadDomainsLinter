@@ -1,3 +1,4 @@
+blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -8,12 +9,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -26,6 +21,16 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -88,9 +93,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -137,7 +139,6 @@ syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
-vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
@@ -146,7 +147,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -196,10 +196,14 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
+int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -207,6 +211,7 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -243,6 +248,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -272,6 +278,8 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -283,7 +291,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -357,6 +364,7 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -384,6 +392,7 @@ appealtime.com
 appeaserepose.com
 arhribadjqp.com
 arrtakhihfze.in
+arswabluchan.com
 ashoupsu.com
 astraon255.net
 atdxamakqo.in
@@ -483,6 +492,7 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eb.koaeunhairy.shop
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
@@ -508,7 +518,6 @@ fibqukktuv.in
 findcommerce.com
 fnzocmpkp.com
 forspearowor.com
-fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
@@ -678,7 +687,6 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
-od.stimefloccus.shop
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
@@ -954,6 +962,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
@@ -962,11 +971,11 @@ yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
+yx.mousesprepuce.shop
 zazmunokpvzi.com
 zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
-zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
 zjdpabwmeb.com
@@ -977,10 +986,12 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 zxgkuhqwwtcvc.website
+bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
+ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 sentry.monplayer.org
