@@ -18,7 +18,6 @@ crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
 torrentz.adnetasia.com
-yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
@@ -119,6 +118,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+www.mobile-10.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -178,6 +178,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
 hetaint.com
@@ -288,8 +289,9 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
-syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
 ads.homedy.net
@@ -341,7 +343,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 affiliates.devilfishpartners.com
@@ -463,6 +464,7 @@ dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
+ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
@@ -485,6 +487,7 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+findcommerce.com
 fnzocmpkp.com
 forspearowor.com
 fovcy1jg.pro
@@ -788,6 +791,7 @@ shndrktrk.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
+sl.maundysinon.cyou
 slidbecauseemerald.com
 smeartoassessment.com
 smptdrf.link
