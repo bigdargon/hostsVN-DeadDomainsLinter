@@ -14,13 +14,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -40,6 +33,7 @@ aj2503.online
 ajxx91.online
 n.popclck.org
 st-n.popclck.org
+a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -119,6 +113,9 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -227,6 +224,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv787.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -254,8 +252,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -288,8 +284,7 @@ embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
+wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -344,6 +339,7 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -352,8 +348,10 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
+am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
@@ -362,6 +360,7 @@ antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
 appeaserepose.com
+appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
 ashoupsu.com
@@ -406,7 +405,6 @@ cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
 caribedkurukh.com
-cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
@@ -429,7 +427,6 @@ clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
-connection1safety.com
 conopidlanai.qpon
 csyxnkhvueuh.com
 culbhiaxntuh.in
@@ -472,6 +469,7 @@ elderlybean.com
 ellcurvth.com
 elmnxeembokgd.space
 enterprises550.net
+epomapps.com
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
@@ -535,6 +533,7 @@ ichachoakiglop.com
 idot.cz
 ie.purauwede.qpon
 ieyipznx.art
+ih.charvetseedful.shop
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
@@ -546,6 +545,7 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+isolatedfrom82.com
 itletroec.com
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -577,7 +577,6 @@ kuqfudazkn.com
 kx.upturnsidoist.cyou
 ldjsypolwypxy.space
 leafy-feel.com
-leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
@@ -652,6 +651,7 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
+od.stimefloccus.shop
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
@@ -686,6 +686,7 @@ pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
+perfoliateratchetspecial.com
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
@@ -797,6 +798,7 @@ snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
+son-in-lawmorbid.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -841,6 +843,7 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -862,6 +865,7 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
+vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
@@ -926,11 +930,13 @@ yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
+yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
+yx.crappininvein.shop
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
