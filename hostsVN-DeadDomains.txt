@@ -8,11 +8,27 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -103,10 +119,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -132,7 +144,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -171,6 +182,8 @@ www.b91vip.com
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -217,6 +230,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 aj2556.bid
 aj2557.bid
@@ -245,6 +259,10 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
+hi-cdn.adsparc.net
+pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -252,7 +270,10 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -283,10 +304,12 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
 ads.homedy.net
+adv.baovemoitruong.org.vn
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
+trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -329,6 +352,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
@@ -372,6 +396,7 @@ beabsolom.com
 beachinfinitegag.com
 benzeinlune.com
 bergculpae.life
+bfwzpynoz.com
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
@@ -421,6 +446,7 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
+crowdgravity.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -488,6 +514,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -541,6 +568,7 @@ ionigravida.com
 itgiblean.com
 itheatmoran.com
 itletroec.com
+iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -623,6 +651,7 @@ mzyvyjsq.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
+navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
@@ -659,7 +688,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -737,6 +765,7 @@ qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
 qzeavzrfaoqn.com
+qzhwkhkpnpjxq.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
@@ -761,6 +790,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -863,6 +893,7 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viamariller.com
+videocdnshop.com
 viiadr.com
 vionito.com
 vityhoughinimal.com
@@ -926,6 +957,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
 zazmunokpvzi.com
 zeekaihu.net
