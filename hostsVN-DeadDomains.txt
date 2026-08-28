@@ -17,11 +17,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -46,8 +41,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
-st-n.popclck.org
 a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
@@ -70,7 +63,6 @@ iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
-ru.adxxx.com
 scan.adxxx.com
 self-service.adxxx.com
 self-service-adm.adxxx.com
@@ -91,13 +83,11 @@ madsecz.com
 hadsimz.com
 advinci.net
 count.advinci.net
-www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -123,8 +113,6 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
-tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -179,7 +167,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
@@ -202,8 +189,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -229,7 +214,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 aj2556.bid
@@ -352,7 +336,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
@@ -446,7 +429,6 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
-crowdgravity.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -514,7 +496,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -565,7 +546,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -672,7 +652,6 @@ ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
-obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
@@ -809,7 +788,6 @@ shndrktrk.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
 skullhalfway.com
-sl.maundysinon.cyou
 slidbecauseemerald.com
 smeartoassessment.com
 smptdrf.link
