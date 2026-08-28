@@ -17,13 +17,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -42,7 +35,6 @@ aj2498.online
 aj2503.online
 ajxx91.online
 a.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -63,6 +55,7 @@ iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
+ru.adxxx.com
 scan.adxxx.com
 self-service.adxxx.com
 self-service-adm.adxxx.com
@@ -83,11 +76,13 @@ madsecz.com
 hadsimz.com
 advinci.net
 count.advinci.net
+www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
+syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -113,6 +108,8 @@ native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
+tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -132,6 +129,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -167,6 +168,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
 hetaint.com
 ak.hetaint.com
 hetahien.com
@@ -216,6 +218,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
 ads.livetv787.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -245,8 +248,6 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -274,6 +275,7 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -311,7 +313,6 @@ v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
-0xon2uo9s.com
 104processors.net
 1fkx796mw.com
 2021group.com
@@ -429,6 +430,7 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
+corypha.veluredcorveenikko.cfd
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -441,6 +443,7 @@ datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
 deckdistant.com
+deityshovedcarriage.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
@@ -459,7 +462,6 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
-ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
@@ -496,6 +498,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -512,7 +515,6 @@ gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
-gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
 gtuzanksz.com
@@ -581,12 +583,12 @@ ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
-lfezjmxldv.com
 lfvvhemghapw.com
 link-booster.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lu.hymenicshi.qpon
 lvesfrucnt.com
@@ -652,10 +654,12 @@ ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
+obdshyohcog.com
 oblolrvce.in
 oclasrv.com
 odnvkuocmow.in
 offclaydolon.com
+offeringchewjean.com
 ofhappinyer.com
 ofleafeona.com
 ogpriuleifns.com
@@ -920,7 +924,6 @@ xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
 xp.retinichawks.cyou
-xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
