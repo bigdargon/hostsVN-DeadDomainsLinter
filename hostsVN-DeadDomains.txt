@@ -99,9 +99,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -118,7 +115,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -167,8 +163,6 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -204,7 +198,6 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -219,7 +212,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv790.me
 aj2556.bid
@@ -267,9 +259,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -304,6 +293,7 @@ www.sbbanner.com
 analytics.moneycat.vn
 clientinfo.phimmoizz.net
 thongke.opencps.vn
+b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
@@ -347,7 +337,6 @@ aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
-ah.eyesnamda.cfd
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -410,8 +399,8 @@ can-get-so.me
 caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
+cdn.adimo.co
 cdn.easyads28.mobi
-cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
 cgqcuskbtcusxl.com
@@ -457,7 +446,6 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
-dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
@@ -500,7 +488,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -529,6 +516,7 @@ hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
 hhbwhgtciqe.com
 hixwwert.in
+hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hwoqshyx.com
@@ -536,7 +524,6 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
-ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
 ileeckut.com
@@ -549,7 +536,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
@@ -764,6 +750,7 @@ refpa4293501.top
 refpa58144.com
 renderstreamshuttleanalytics.net
 resalag.com
+rizkigkmoa.in
 rkopcipugj.in
 rnofuxgaz.com
 roacheenazak.com
@@ -775,7 +762,6 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
-ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
 ruwjkygaxo.com
@@ -802,6 +788,7 @@ smptrffc.fyi
 smptrffc.link
 smptrffc.xyz
 snuff-brownsprintcountry.com
+snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
@@ -809,6 +796,7 @@ son-in-lawmorbid.com
 sotchoum.com
 soumehoo.net
 specially4u.net
+spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
@@ -869,17 +857,14 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
-vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-viamariller.com
 videocdnshop.com
 viiadr.com
 vionito.com
-vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
