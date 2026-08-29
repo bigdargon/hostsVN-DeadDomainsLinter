@@ -158,7 +158,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
 ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
@@ -184,10 +183,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -198,6 +193,7 @@ pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 statsperformdev.com
 dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -421,7 +417,6 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
-corypha.veluredcorveenikko.cfd
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -446,6 +441,7 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
@@ -835,7 +831,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -864,7 +859,6 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vionito.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -930,7 +924,6 @@ yu225.com
 yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
 zazmunokpvzi.com
-zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
