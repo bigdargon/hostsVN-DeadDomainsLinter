@@ -114,6 +114,7 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
+tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -194,7 +195,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
@@ -214,6 +214,7 @@ aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2576.bid
+aj2577.bid
 aj2583.bid
 aj2584.bid
 aj2587.bid
@@ -345,6 +346,7 @@ antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
 appeaserepose.com
+appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
 ashoupsu.com
@@ -583,7 +585,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -654,7 +655,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
