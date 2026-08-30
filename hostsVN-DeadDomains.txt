@@ -114,7 +114,6 @@ service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
 traffic-serv.winadx.com
-tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
@@ -167,8 +166,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-network.adclickmedia.com
-tracking.adclickmedia.com
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -178,8 +175,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-ad.samsungadhub.com
-samsungadhub.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -188,13 +183,12 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
+static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -220,7 +214,6 @@ aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2576.bid
-aj2577.bid
 aj2583.bid
 aj2584.bid
 aj2587.bid
@@ -254,8 +247,6 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.educe.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -354,10 +345,10 @@ antxmmerxmdhu.com
 apfxpuatkla.com
 appealtime.com
 appeaserepose.com
-appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
 ashoupsu.com
+aslau-cre.info
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -540,7 +531,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
@@ -593,6 +583,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -922,6 +913,7 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
+xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
 ygdragebdimw.com
