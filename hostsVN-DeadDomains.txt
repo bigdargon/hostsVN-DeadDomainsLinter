@@ -1,3 +1,4 @@
+blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -13,6 +14,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -30,6 +36,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+n.popclck.org
+st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -91,14 +99,15 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -158,8 +167,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-ak.hetaruvg.com
-hetaruvg.com
+network.adclickmedia.com
+tracking.adclickmedia.com
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -169,7 +178,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -180,20 +188,18 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
-static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -237,8 +243,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -248,8 +252,10 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
+mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -479,6 +485,7 @@ fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
 fsxmidyo.com
+ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
 fxclix.com
@@ -488,6 +495,7 @@ gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
+gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
@@ -532,6 +540,7 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 jabobdfufaqt.in
@@ -654,6 +663,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -728,6 +738,7 @@ qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
+qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
@@ -776,6 +787,7 @@ singletplatformgleamenterprises.com
 siweieoyjl.com
 sj.coemptsruesome.shop
 skullhalfway.com
+sl.maundysinon.cyou
 slidbecauseemerald.com
 smeartoassessment.com
 smptdrf.link
@@ -848,6 +860,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -909,13 +922,12 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xtremeserve.xyz
-xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
+yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
@@ -923,6 +935,7 @@ yrocvgqilrmowj.com
 yu225.com
 yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
+yzybyozmuhh.com
 zazmunokpvzi.com
 zeekaihu.net
 zenkreka.com
@@ -936,6 +949,7 @@ zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
+zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 counter.pixplug.in
