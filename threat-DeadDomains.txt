@@ -95,6 +95,7 @@ acb.vn-jss.vip
 acb.vn-ol.top
 acb.vn-vp.xyz
 acbbank.xyz
+acbvnliin.com
 acbvnlin.com
 acclienquan24h.vn
 acclienquan365.com
@@ -120,14 +121,12 @@ agjevez.ztraks.de
 agpchrgue.mrhw.de
 agrib-vn.com
 agribank.dangkyungtuyen.com
-agribanking.com.vn
 agribanks.space
 ahoravideo-blog.com
 ahoravideo-cdn.com
 ahoravideo-endpoint.xyz
 ahthegha.cfd
 aiagjgqz.njasu.de
-aikguairn.osmt.link
 alibabavip.xyz
 alibabavn.shop
 alibabavnn.com
@@ -467,6 +466,7 @@ dcommerc.cfd
 defi.hsfdefi.com
 demo.sc0mvn.com
 depandirect.be
+dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
 dg2255.com
@@ -500,6 +500,7 @@ dichvucong.agov.net
 dichvucong.bcavnvnvngov.com
 dichvucong.ccbcavn.cc
 dichvucong.cvgov.com
+dichvucong.dancuquocgia.net
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
@@ -562,7 +563,6 @@ do005.com
 docbao24h.net
 doctromtinnhan.com
 doithecaothanhtienmat.com
-doitiengia.com
 domainxnewma.com
 donghothongminh-mienphiship.online
 donhangkiemtra.com
@@ -610,7 +610,6 @@ egt091102205euc.click
 egt091102207euc.click
 email-apple.support
 emodernst.cfd
-emoney2017.com
 entbymo.cfd
 eqav33.com
 eqav77.com
@@ -1093,7 +1092,6 @@ kaurroot.com
 kavietnam.xyz
 kdsf11.com
 kerrysexchange.com
-ketban.online
 kfdg22.com
 kfdg55.com
 kh-cn-mrd-f5-tpbank.com
@@ -1345,7 +1343,6 @@ m.thuecn.top
 m.tot166.com
 m.vncongthue.top
 m.vnsc-finhay.com
-macysbyi.com
 magazineshopeeonline.com
 mail.bomloginset.com
 mail.labtpb.online
@@ -1601,6 +1598,8 @@ nang-cap-qcare-vib.com
 nang-cap-the-vcare-vib.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
+nang-han-muc-vcs1-khcn-vib.com
+nang-han-muc-vip-vpbank.com
 nang-hang-ca-nhan-vib-mrk1.com
 nang-hang-the-vip2-vib.com
 nang-hang-tin-dung-ca-nhan.com
@@ -1611,6 +1610,7 @@ nanghanmuc-vpb.com
 nanghanmuc-vpb.online
 nanghanmucthe-thetindung.com
 nanghanmucthetindung247.com
+nanghanmucthevib.com
 nanghanmucvisa-vn.com
 napallgame.com
 napasvidientu247.com
@@ -1633,6 +1633,7 @@ napfreefirex5-garena.com
 napgame-playtogether.com
 napgame-playtoghether.net
 napgame123.com
+napgame247.tk
 napgame3s.com
 napgameffnew.com
 napgamefreefire.vn
@@ -1946,6 +1947,7 @@ qualityt56.com
 quamembergarena.com
 quamemberthang9-freefirevn.com
 quamomo.vn
+quandoi-viettel.com
 quanhuyfree.cf
 quanhuylqmb.com
 quanhuyx10.com
@@ -2827,6 +2829,7 @@ ticlewesimulate.cfd
 tien8833.com
 tienanhanh.com
 tienbip.net
+tienbnhanh.com
 tiencnhanh.com
 tiendnhanh.com
 tienfnhanh.com
@@ -2881,7 +2884,6 @@ tikictv3.com
 tikictv5.com
 tikictv6.com
 tikictv7.com
-tikictv9.com
 tikiiii.com
 tikijaj2.com
 tikimall.org
@@ -3259,8 +3261,6 @@ vaytien-techcombank.online
 vaytien1click.online
 vaytien24gio.com
 vaytien3.com
-vaytien365.online
-vaytien7s.site
 vaytien9s.online
 vaytiendailoan.com
 vaytiendoctordong.com
@@ -3509,7 +3509,6 @@ vietnamgbg.com
 vietnamhds.vip
 vietnaminsa.com
 vietnaminsb.com
-vietnaminsc.com
 vietnamkdam.com
 vietnamlo.vip
 vietnamlua.vip
@@ -3806,7 +3805,6 @@ vongquayroblox.com
 vongquaysieupham-grnfreefirevietnam.club
 vongquaysieuphamfreefirevn.club
 vongquaysieuphamfreefirevn.com
-vongquayskinfree.tk
 vongquaysukienff.top
 vongquaythuongfreefire.com
 vongquaytrungthu.com
