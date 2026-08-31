@@ -95,7 +95,6 @@ acb.vn-jss.vip
 acb.vn-ol.top
 acb.vn-vp.xyz
 acbbank.xyz
-acbvnliin.com
 acbvnlin.com
 acclienquan24h.vn
 acclienquan365.com
@@ -468,7 +467,6 @@ dcommerc.cfd
 defi.hsfdefi.com
 demo.sc0mvn.com
 depandirect.be
-dev-checkmoneypayment-mpos.com
 dfeenxea.tidc.bid
 dfsshop66.com
 dg2255.com
@@ -502,7 +500,6 @@ dichvucong.agov.net
 dichvucong.bcavnvnvngov.com
 dichvucong.ccbcavn.cc
 dichvucong.cvgov.com
-dichvucong.dancuquocgia.net
 dichvucong.dinhdanhcutru.com
 dichvucong.dulieuquocgia.com
 dichvucong.govnx.com
@@ -518,6 +515,7 @@ dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
+dichvucong.zlgov.com
 dichvucong.zvgov.com
 dichvucongbaohiemxahoi.com
 dichvudaohantindung.com
@@ -1603,8 +1601,6 @@ nang-cap-qcare-vib.com
 nang-cap-the-vcare-vib.com
 nang-cap-vip-vpbank.com
 nang-han-muc-ido-vpbank.com
-nang-han-muc-vcs1-khcn-vib.com
-nang-han-muc-vip-vpbank.com
 nang-hang-ca-nhan-vib-mrk1.com
 nang-hang-the-vip2-vib.com
 nang-hang-tin-dung-ca-nhan.com
@@ -1615,7 +1611,6 @@ nanghanmuc-vpb.com
 nanghanmuc-vpb.online
 nanghanmucthe-thetindung.com
 nanghanmucthetindung247.com
-nanghanmucthevib.com
 nanghanmucvisa-vn.com
 napallgame.com
 napasvidientu247.com
@@ -1638,7 +1633,6 @@ napfreefirex5-garena.com
 napgame-playtogether.com
 napgame-playtoghether.net
 napgame123.com
-napgame247.tk
 napgame3s.com
 napgameffnew.com
 napgamefreefire.vn
@@ -1952,7 +1946,6 @@ qualityt56.com
 quamembergarena.com
 quamemberthang9-freefirevn.com
 quamomo.vn
-quandoi-viettel.com
 quanhuyfree.cf
 quanhuylqmb.com
 quanhuyx10.com
@@ -2497,6 +2490,7 @@ shoprikaki.com
 shoprikaki.net
 shopruu.com
 shopsieucapx5.com
+shopsieupham.com
 shopsimdata4g.online
 shopsonflo.com
 shoptaikhoangame.com
@@ -2833,7 +2827,6 @@ ticlewesimulate.cfd
 tien8833.com
 tienanhanh.com
 tienbip.net
-tienbnhanh.com
 tiencnhanh.com
 tiendnhanh.com
 tienfnhanh.com
@@ -3499,7 +3492,6 @@ vietinbankis.cc
 vietinbankvis.cc
 vietinbonk.com
 vietjet.online
-vietjetair.net.vn
 vietjetairlines.vn
 vietjetvn.com
 vietlots789.com
