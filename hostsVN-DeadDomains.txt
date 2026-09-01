@@ -9,6 +9,12 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -27,9 +33,14 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
+aj1408.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -42,6 +53,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+classic.marketolive.com
+infor.marketolive.com
+jp.marketolive.com
+magento.marketolive.com
+partners.marketolive.com
+www.marketolive.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -119,7 +136,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -173,6 +189,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
+int.vlancaa.site
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -213,6 +231,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 ads.livetv787.me
 aj2556.bid
 aj2557.bid
@@ -248,7 +267,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -325,6 +343,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
@@ -415,6 +434,7 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
+corypha.veluredcorveenikko.cfd
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -445,6 +465,7 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
@@ -521,8 +542,8 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
+ie.purauwede.qpon
 ieyipznx.art
-ih.charvetseedful.shop
 ileeckut.com
 immizdgmacjvi.space
 industries78.net
@@ -563,13 +584,13 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+kx.upturnsidoist.cyou
 ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
-link-booster.de
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
@@ -642,11 +663,9 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
-od.stimefloccus.shop
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
-ofleafeona.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
@@ -712,6 +731,7 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
+pub.trads.io
 pushazam.com
 pushlaram.com
 pushmono.com
@@ -730,7 +750,6 @@ qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
@@ -760,6 +779,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
 ruwjkygaxo.com
@@ -791,8 +811,10 @@ snugglethesheep.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
+son-in-lawmorbid.com
 sotchoum.com
 soumehoo.net
+specially4u.net
 spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
@@ -832,11 +854,11 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
-tutgcinarlak.com
 tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
@@ -849,11 +871,11 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
+vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
@@ -861,6 +883,7 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
+vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -869,7 +892,6 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
-w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
 waufooke.com
@@ -927,6 +949,7 @@ yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
 yzybyozmuhh.com
 zazmunokpvzi.com
+zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
