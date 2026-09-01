@@ -32,10 +32,6 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -181,7 +177,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.site
 hetaint.com
 ak.hetaint.com
@@ -333,6 +328,7 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
+advariant.com
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
@@ -499,7 +495,6 @@ gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
-gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
@@ -831,7 +826,6 @@ tevitpcfav.com
 tharbadir.com
 thaudray.com
 theeptoah.com
-therapistla.com
 thripelbertie.website
 timohtazxazej.website
 tirosagalite.com
