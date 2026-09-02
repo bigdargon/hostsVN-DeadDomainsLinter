@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -14,6 +16,10 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -31,7 +37,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -48,6 +53,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -109,6 +115,9 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+c.zetadeo.com
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -142,6 +151,11 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -178,13 +192,22 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.vlancaa.site
+int.vlancaa.fun
+ak.hetaruvg.com
+hetaruvg.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -197,13 +220,15 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
-jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -217,6 +242,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 aj2556.bid
@@ -254,6 +280,7 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
+mautic.educe.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -286,6 +313,7 @@ api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
+ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -324,6 +352,7 @@ abvfupqkyaj.in
 acsshufxnu.com
 adgardener.com
 admarket.network
+ads.cdn2-img.net
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -347,11 +376,13 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
+arswabluchan.com
 ashoupsu.com
 aslau-cre.info
 astraon255.net
@@ -431,6 +462,7 @@ dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
+dbxexsnxxzwwo.com
 deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
@@ -517,6 +549,7 @@ hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
+hentaicounter.com
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
@@ -539,6 +572,7 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -552,7 +586,6 @@ jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
-jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
@@ -579,10 +612,8 @@ lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
-lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lvesfrucnt.com
-m.hue2b.com
 mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
@@ -671,7 +702,6 @@ osknimkihvr.com
 outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-oxen.hillcountrytexas.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -729,6 +759,7 @@ qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qmyoclrszpanh.website
 qnbeenbgsx.com
+qnenxwwxzav.com
 qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
@@ -839,7 +870,6 @@ tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
 traktrafficflow.com
-tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
@@ -913,6 +943,7 @@ xgodpmdczzyza.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
+xo.gippedtutelo.cyou
 xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
@@ -921,6 +952,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
