@@ -118,6 +118,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -130,7 +138,6 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
-winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adexpert.pixanalytics.com
@@ -193,6 +200,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -202,6 +211,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -232,6 +243,7 @@ ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -273,6 +285,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -304,6 +319,7 @@ ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
+analytics.zatomac.vn
 clientinfo.phimmoizz.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -340,6 +356,7 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -354,6 +371,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
@@ -385,6 +403,7 @@ baithoph.net
 basepush.com
 beabsolom.com
 beachinfinitegag.com
+belia-glp.com
 benzeinlune.com
 bergculpae.life
 bfwzpynoz.com
@@ -508,6 +527,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -635,6 +655,7 @@ mustardeveningobvious.com
 mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
+myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 nationalgausewatrust.com
@@ -881,7 +902,6 @@ vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
-verninchange.com
 videocdnshop.com
 viiadr.com
 vityhoughinimal.com
@@ -938,6 +958,7 @@ xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -969,6 +990,7 @@ counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
+ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 spkoevngk.com
