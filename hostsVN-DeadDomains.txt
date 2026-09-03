@@ -1,4 +1,5 @@
 a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -15,10 +16,6 @@ aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
 web.advertica-cdn.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -91,7 +88,6 @@ advinci.net
 count.advinci.net
 www.advinci.net
 a.optimizesrv.com
-ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -144,7 +140,6 @@ adexpert.pixanalytics.com
 falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
-s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -211,8 +206,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -220,6 +213,7 @@ click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
 www.jadspro.live
+cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
@@ -228,7 +222,6 @@ dynamicads.statsperformdev.com
 smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
-ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
@@ -302,6 +295,7 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
+cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -358,7 +352,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 afrjhanwosa.com
@@ -369,7 +362,6 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ak.atclauncheran.com
-ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -427,7 +419,6 @@ bytefrom2010.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
-can-get-so.me
 caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
@@ -462,6 +453,7 @@ dalyio.com
 dalymix.com
 dalysh.com
 dalysv.com
+datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
@@ -492,7 +484,6 @@ efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
-ellcurvth.com
 elmnxeembokgd.space
 enterprises550.net
 epomapps.com
@@ -568,7 +559,6 @@ immizdgmacjvi.space
 industries78.net
 infamousfine.com
 infinity13.com
-inspirationstarednope.com
 institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
@@ -594,6 +584,7 @@ jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
+kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
@@ -710,6 +701,7 @@ palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 passfixx.com
+pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
@@ -904,6 +896,7 @@ vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
+vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
@@ -949,11 +942,9 @@ xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
-xtremeserve.xyz
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
