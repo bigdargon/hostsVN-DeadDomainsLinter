@@ -1,5 +1,4 @@
 a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -138,6 +137,7 @@ tracking.winadx.com
 traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
+winadx.com
 www.winadx.com
 ytvpaid.winadx.com
 adexpert.pixanalytics.com
@@ -220,7 +220,6 @@ click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
 www.jadspro.live
-cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
@@ -303,7 +302,6 @@ wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
-cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
@@ -315,7 +313,6 @@ api2.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
-ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -411,6 +408,7 @@ biggedchocard.com
 blackbrake.com
 blueswordksh.com
 bmycupptafr.com
+boilhumoristpacifist.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
@@ -464,7 +462,6 @@ dalyio.com
 dalymix.com
 dalysh.com
 dalysv.com
-datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
@@ -565,7 +562,6 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
-ie.purauwede.qpon
 ieyipznx.art
 ileeckut.com
 immizdgmacjvi.space
@@ -598,7 +594,6 @@ jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
-kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
@@ -658,6 +653,7 @@ mybettermb.com
 myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
+nagoverpayreimburse.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
@@ -714,7 +710,6 @@ palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 passfixx.com
-pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
@@ -902,13 +897,13 @@ vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
+verninchange.com
 videocdnshop.com
 viiadr.com
 vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
-vsgdodqfjpdws.space
 vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
