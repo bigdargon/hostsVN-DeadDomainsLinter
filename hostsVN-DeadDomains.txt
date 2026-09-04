@@ -29,16 +29,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -59,7 +49,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -258,7 +247,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -281,7 +269,6 @@ ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 adv.klick.vn
-demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -340,7 +327,6 @@ tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 analytics.zatomac.vn
-clientinfo.phimmoizz.net
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -381,7 +367,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advariant.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -408,6 +393,7 @@ arhribadjqp.com
 arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
+aslau-cre.info
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -993,7 +979,6 @@ yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
 yzybyozmuhh.com
 zazmunokpvzi.com
-zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
