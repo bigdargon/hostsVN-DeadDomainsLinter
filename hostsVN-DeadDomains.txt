@@ -1,3 +1,4 @@
+blueserving.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -28,6 +29,20 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
+a.adtechjp.com
+adserver.adtechjp.com
+adserver-toy.adtechjp.com
+prod.adtechjp.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -87,6 +102,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -126,6 +144,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -186,8 +206,10 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
 int.vlancaa.site
 int.vlancaa.fun
+asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
@@ -239,6 +261,7 @@ ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -266,6 +289,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -273,6 +298,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -331,8 +357,8 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
-22hgc.com
 2443march2024.com
 2508june2024.com
 303bus.net
@@ -358,6 +384,7 @@ adtoqbuejunef.com
 advariant.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -381,7 +408,6 @@ arhribadjqp.com
 arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
-aslau-cre.info
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -496,7 +522,6 @@ erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
-evzhzppj5kel.com
 ewhareey.com
 exploreannihilationquicker.com
 ezdkixzdkr.com
@@ -520,10 +545,12 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
+gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
@@ -558,6 +585,7 @@ hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
 ieyipznx.art
+ih.charvetseedful.shop
 ileeckut.com
 immizdgmacjvi.space
 industries78.net
@@ -572,6 +600,7 @@ itgiblean.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
+iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -619,6 +648,7 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
+mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -628,7 +658,6 @@ messagenovice.com
 messenger-notify.digital
 metanetwork.net
 mfmalergyol.com
-miserablenobody.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
@@ -636,6 +665,7 @@ mobzeg.com
 mocean.mobi
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+ms.butylicrinsing.qpon
 mtakpfquym.com
 muermoabject.shop
 mumazfqir.in
@@ -676,6 +706,7 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
+od.stimefloccus.shop
 odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
@@ -697,6 +728,7 @@ orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
+oustoope.com
 outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
@@ -791,6 +823,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -866,7 +899,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -896,8 +928,7 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vityhoughinimal.com
-vncnu.com
+vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -905,6 +936,7 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
+w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
 waufooke.com
@@ -958,6 +990,7 @@ yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
+yx.mousesprepuce.shop
 yzybyozmuhh.com
 zazmunokpvzi.com
 zd.navigcutler.cyou
