@@ -11,12 +11,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -87,7 +81,6 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
-hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
@@ -196,7 +189,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
 int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 hetaint.com
@@ -246,7 +238,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -269,6 +260,7 @@ ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 adv.klick.vn
+demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -498,7 +490,6 @@ ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
-eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
@@ -531,7 +522,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -585,7 +575,6 @@ ionigravida.com
 itgiblean.com
 itheatmoran.com
 itletroec.com
-ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -634,7 +623,6 @@ maltunfaithfulpredominant.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
-mathcountryside.com
 mattockpackall.com
 meaese.click
 meandiminutionhit.com
@@ -829,7 +817,6 @@ singletplatformgleamenterprises.com
 siweieoyjl.com
 sj.coemptsruesome.shop
 skullhalfway.com
-sl.maundysinon.cyou
 slidbecauseemerald.com
 smeartoassessment.com
 smptdrf.link
@@ -853,7 +840,6 @@ stay.decentralappps.com
 steerensout.net
 steeringsunshine.com
 stelinnhy.in
-stootsou.net
 strivesidewalk.com
 sumbreta.com
 surfmusik-adserver.de
@@ -889,7 +875,6 @@ traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
-tutgcinarlak.com
 tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
