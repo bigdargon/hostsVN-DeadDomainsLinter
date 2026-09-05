@@ -148,7 +148,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -250,6 +249,7 @@ ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
+aj2576.bid
 aj2577.bid
 aj2583.bid
 aj2584.bid
@@ -284,7 +284,6 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -380,7 +379,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -498,7 +496,6 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
-ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 efficientdescent.com
@@ -576,7 +573,6 @@ idot.cz
 ieyipznx.art
 ih.charvetseedful.shop
 ileeckut.com
-im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
 infamousfine.com
@@ -586,7 +582,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -911,6 +906,7 @@ uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vdkdxarnqiaedw.com
+vebo-vast.pages.dev
 verninchange.com
 viamariller.com
 videocdnshop.com
