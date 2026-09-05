@@ -23,6 +23,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+beacon.statful.com
 a.adtechjp.com
 adserver.adtechjp.com
 adserver-toy.adtechjp.com
@@ -43,6 +44,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+n.popclck.org
+st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -145,6 +148,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -153,6 +157,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -193,8 +201,6 @@ int.vlancaa.fun
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -244,7 +250,6 @@ ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
-aj2576.bid
 aj2577.bid
 aj2583.bid
 aj2584.bid
@@ -277,10 +282,13 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -296,6 +304,7 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -313,12 +322,14 @@ ads.homedy.net
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
+qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 analytics.zatomac.vn
+thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -387,6 +398,7 @@ arswabluchan.com
 ashoupsu.com
 aslau-cre.info
 astraon255.net
+atdxamakqo.in
 ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
@@ -408,6 +420,7 @@ blackbrake.com
 blueswordksh.com
 bmycupptafr.com
 boilhumoristpacifist.com
+boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
@@ -432,6 +445,7 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
+cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
 cgqcuskbtcusxl.com
@@ -461,6 +475,7 @@ dalyio.com
 dalymix.com
 dalysh.com
 dalysv.com
+datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
@@ -483,7 +498,6 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
-eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
@@ -562,6 +576,7 @@ idot.cz
 ieyipznx.art
 ih.charvetseedful.shop
 ileeckut.com
+im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
 infamousfine.com
@@ -612,6 +627,7 @@ lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lvesfrucnt.com
 mafrarc3e9h.com
@@ -691,6 +707,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -700,10 +717,10 @@ orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
-oustoope.com
 outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -796,7 +813,6 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru-traffic.com
-ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
 ruwjkygaxo.com
@@ -864,6 +880,7 @@ timohtazxazej.website
 tirosagalite.com
 tkddcpuc.com
 tkexutqf.in
+toeapesob.com
 toglooman.com
 toqdizbfp.com
 toroexoclk.com
@@ -893,10 +910,9 @@ uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
-vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
-vebo-vast.pages.dev
 verninchange.com
+viamariller.com
 videocdnshop.com
 viiadr.com
 vnumlkbuujd.com
@@ -923,6 +939,7 @@ wgtyvqbfkxg.com
 whairtoa.com
 whazugho.com
 whoursie.com
+witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
@@ -943,6 +960,7 @@ xgodpmdczzyza.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
+xo.gippedtutelo.cyou
 xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
@@ -950,10 +968,10 @@ xruamzpanbca.com
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
+yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
