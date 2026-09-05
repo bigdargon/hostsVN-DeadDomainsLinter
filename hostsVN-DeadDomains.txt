@@ -118,13 +118,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
-native-vpaid.adxoo.com
-service.adxoo.com
-syndication.adxoo.com
-tracking.adxoo.com
-vast.adxoo.com
-www.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -295,8 +288,8 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
-code.native-ad.net
 gluco.native-ad.net
+native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
@@ -600,7 +593,6 @@ jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
-kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -682,7 +674,6 @@ nwfnsitaes.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
-oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -751,6 +742,7 @@ ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
+ptauxofi.net
 ptawehex.net
 ptipsixo.com
 ptoushoa.com
@@ -931,7 +923,6 @@ whairtoa.com
 whazugho.com
 whoursie.com
 witvfaojpzi.in
-wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
