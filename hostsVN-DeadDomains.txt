@@ -1,4 +1,3 @@
-blueserving.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -150,6 +149,7 @@ s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
+front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
@@ -319,7 +319,6 @@ ads.homedy.net
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -523,6 +522,7 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
+fsxmidyo.com
 ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
@@ -967,6 +967,7 @@ yiopse.com
 yldbt.com
 yo.hostalpitylus.shop
 yoshdeum.com
+yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
