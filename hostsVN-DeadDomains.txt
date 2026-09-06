@@ -91,9 +91,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -119,14 +116,11 @@ zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
-t.imstks.com
 www.imstks.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 cdn.bitmedianetwork.com
 engine.bitmedianetwork.com
 www.bitmedianetwork.com
@@ -190,9 +184,6 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.fun
-ak.hetaruvg.com
-hetaruvg.com
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -214,10 +205,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -285,7 +272,6 @@ testcentre.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -377,7 +363,6 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ak.offstaryutor.com
-am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
@@ -389,7 +374,6 @@ appeaserepose.com
 appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 aslau-cre.info
 astraon255.net
@@ -693,7 +677,6 @@ odnvkuocmow.in
 offclaydolon.com
 ofhappinyer.com
 ogpriuleifns.com
-oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
 okjmiqaqjakm.in
@@ -701,7 +684,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -907,7 +889,6 @@ vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-viamariller.com
 videocdnshop.com
 viiadr.com
 vnumlkbuujd.com
@@ -971,7 +952,6 @@ yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
-yx.mousesprepuce.shop
 yzamhsczcvjoc.com
 yzybyozmuhh.com
 zazmunokpvzi.com
