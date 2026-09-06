@@ -11,6 +11,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -124,6 +128,9 @@ aixq-streamlit.appier.xyz
 cdn.appier.xyz
 c.netund.com
 netund.com
+cdn.bitmedianetwork.com
+engine.bitmedianetwork.com
+www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -143,15 +150,10 @@ s.pixanalytics.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
-front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -189,6 +191,8 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
+ak.hetaruvg.com
+hetaruvg.com
 hetaint.com
 ak.hetaint.com
 appcloud.ironbeast.io
@@ -210,6 +214,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -234,7 +242,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -288,6 +295,7 @@ img.customers.fptad.com
 static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
+code.native-ad.net
 gluco.native-ad.net
 native-ad.net
 tags.native-ad.net
@@ -515,7 +523,6 @@ foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fsavmklplmddsu.com
-fsxmidyo.com
 ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
@@ -560,6 +567,7 @@ hwuhkabi.in
 hxgqqxopf.com
 ichachoakiglop.com
 idot.cz
+ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
 ileeckut.com
@@ -593,6 +601,7 @@ jsudwyjduktw.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
+kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -619,6 +628,7 @@ magetrigla.com
 makafdsugxco.com
 malluktig.in
 maltunfaithfulpredominant.com
+manpowerspiritualunrented.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
@@ -674,6 +684,7 @@ nwfnsitaes.com
 ny.damasseakamai.com
 nycvqozkkmzti.com
 oabaubsutha.com
+oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -874,6 +885,7 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
+txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
@@ -923,6 +935,7 @@ whairtoa.com
 whazugho.com
 whoursie.com
 witvfaojpzi.in
+wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
@@ -954,11 +967,11 @@ yiopse.com
 yldbt.com
 yo.hostalpitylus.shop
 yoshdeum.com
-yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.mousesprepuce.shop
+yzamhsczcvjoc.com
 yzybyozmuhh.com
 zazmunokpvzi.com
 zeekaihu.net
