@@ -92,6 +92,7 @@ advinci.net
 count.advinci.net
 www.advinci.net
 a.optimizesrv.com
+ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
 static.optimizesrv.com
@@ -121,9 +122,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -214,9 +212,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -295,8 +290,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -333,6 +326,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 104processors.net
 1fkx796mw.com
 2021group.com
+2441march2024.com
 2443march2024.com
 2508june2024.com
 303bus.net
@@ -688,6 +682,7 @@ ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
+ommentsere.biz
 onemboaran.com
 oofmhbmqdn.com
 optimal730.com
@@ -711,6 +706,7 @@ pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
 peppaping.xyz
+perfoliateratchetspecial.com
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
@@ -841,6 +837,7 @@ surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
+syndetstermine.com
 syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
