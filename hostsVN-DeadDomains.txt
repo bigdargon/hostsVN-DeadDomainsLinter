@@ -23,10 +23,6 @@ logger.adthor.com
 static.adthor.com
 v.adthor.com
 beacon.statful.com
-a.adtechjp.com
-adserver.adtechjp.com
-adserver-toy.adtechjp.com
-prod.adtechjp.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -256,8 +252,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -293,8 +287,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -406,12 +398,15 @@ bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
 braincash.com
+brazenwholly.com
 breathelicense.com
+brightcriticism.com
 bt.teparytympan.qpon
 btbeacdhrdt.com
 btguqecoelukltw.com
 bttupamp.com
 butalksuw9dj10.com
+bytefrom2010.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
@@ -454,7 +449,6 @@ dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
-dbxexsnxxzwwo.com
 deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
@@ -551,7 +545,6 @@ ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
 ileeckut.com
-im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
 infamousfine.com
@@ -586,12 +579,12 @@ kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
+kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
-kx.upturnsidoist.cyou
 ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
@@ -904,7 +897,6 @@ walkingtutor.com
 waufooke.com
 waymarkgentiin.com
 wd.macherabemaim.shop
-wdlyhnddxm.com
 wdqhdqtlxu.com
 websponsors.com
 wedgierbirsit.com
@@ -956,7 +948,6 @@ yx.crappininvein.shop
 yzamhsczcvjoc.com
 yzybyozmuhh.com
 zazmunokpvzi.com
-zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
