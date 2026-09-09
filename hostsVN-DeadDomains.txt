@@ -1,5 +1,8 @@
+admax.nexage.com
+ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
+nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
@@ -156,6 +159,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -173,12 +177,14 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-int.vlancaa.site
+int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
 appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
@@ -648,6 +654,7 @@ nessainy.net
 new-twinks.com
 nicksstevmark.com
 nmasyykbucqj.com
+nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
 nsfwinkuhzeo.com
@@ -847,6 +854,7 @@ tevitpcfav.com
 tharbadir.com
 thaudray.com
 theeptoah.com
+thripelbertie.website
 timohtazxazej.website
 tirosagalite.com
 tkddcpuc.com
@@ -858,7 +866,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
