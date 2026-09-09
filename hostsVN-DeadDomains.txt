@@ -5,7 +5,6 @@ hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
-sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 ads.2mdnsys.com
@@ -140,6 +139,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -177,11 +177,11 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
+int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
+hetahien.com
+ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -259,6 +259,11 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+ads.kabbmedia.com
+delivery.kabbmedia.com
+images.kabbmedia.com
+kabbmedia.com
+adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -324,7 +329,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 540creative.net
 734map.net
 7777align.net
-940functions.net
 970vantage.net
 9gg23.com
 abmkupxixavk.in
@@ -352,6 +356,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 am.teindpumpage.cfd
@@ -395,6 +400,7 @@ boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
+boyaidare.club
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
@@ -462,12 +468,14 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
@@ -554,6 +562,7 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -595,6 +604,7 @@ literalcorpulent.com
 littlecutecats.com
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
+lu.hymenicshi.qpon
 lvesfrucnt.com
 mafrarc3e9h.com
 magetrigla.com
@@ -675,6 +685,7 @@ ommentsere.biz
 onemboaran.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -728,6 +739,7 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
+pub.trads.io
 pushazam.com
 pushlaram.com
 pushmono.com
@@ -736,6 +748,7 @@ pushsar.com
 pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
+pzaovfjaja.in
 pzpvweoxjm.com
 qa.shboshbok.com
 qayuwjcpfxusg.website
@@ -790,7 +803,6 @@ sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
-shaughixefooz.net
 sheecmimty.net
 shndrktrk.com
 singletplatformgleamenterprises.com
@@ -831,7 +843,6 @@ syndetstermine.com
 syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
-t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -859,6 +870,7 @@ tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
+twinrdsyte.com
 txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
@@ -880,8 +892,10 @@ vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
+viamariller.com
 videocdnshop.com
 viiadr.com
+vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
