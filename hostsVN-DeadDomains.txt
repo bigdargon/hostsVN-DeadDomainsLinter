@@ -178,6 +178,8 @@ bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
+s.truepush.com
+sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
@@ -185,7 +187,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.fun
 hetaint.com
 ak.hetaint.com
@@ -199,6 +200,7 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
+ads.adiiix.com
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -240,7 +242,6 @@ aj2556.bid
 aj2557.bid
 aj2566.bid
 aj2576.bid
-aj2577.bid
 aj2583.bid
 aj2584.bid
 aj2587.bid
@@ -289,7 +290,6 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -307,7 +307,6 @@ ads.homedy.net
 api.boclinkads.com
 api2.boclinkads.com
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -481,7 +480,6 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
-dozubatan.com
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -558,7 +556,6 @@ hixwwert.in
 hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
-humandemand.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -682,7 +679,6 @@ nycvqozkkmzti.com
 oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
-oblolrvce.in
 oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
@@ -699,7 +695,6 @@ ommentsere.biz
 onemboaran.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -711,7 +706,6 @@ otqmunvibzp.in
 outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-oxen.hillcountrytexas.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -814,7 +808,6 @@ ryxbowubroqka.online
 sanoslkut.in
 satisfactorymetalrub.com
 scripte-monster.de
-sdhfbvd.com
 sensorpluck.com
 septfd2em64eber.com
 servsave.com
@@ -911,11 +904,9 @@ vcqclbetewdnq.website
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-viamariller.com
 videocdnshop.com
 viiadr.com
 vionito.com
-vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
