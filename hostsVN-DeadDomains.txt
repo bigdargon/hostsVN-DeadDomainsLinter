@@ -56,12 +56,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
 n.popclck.org
 st-n.popclck.org
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -127,9 +123,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -205,12 +198,10 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
-asgdfasad.mm-cgnews.com
 hetapus.com
 ak.hetapus.com
 hetaint.com
@@ -228,8 +219,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -283,7 +272,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -356,7 +344,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1slms.com
 2021group.com
 2443march2024.com
-2508june2024.com
 303bus.net
 540creative.net
 734map.net
@@ -400,7 +387,6 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -489,7 +475,6 @@ d3jqverr.pro
 dalyio.com
 dalymix.com
 dalysh.com
-dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
@@ -681,7 +666,6 @@ mustardeveningobvious.com
 mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
-myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 nagoverpayreimburse.com
@@ -763,7 +747,6 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
-popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
@@ -895,7 +878,6 @@ techourtoapingu.com
 templatein13.net
 terra8nb.com
 tevitpcfav.com
-tharbadir.com
 thaudray.com
 theeptoah.com
 thripelbertie.website
