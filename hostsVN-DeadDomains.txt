@@ -24,6 +24,20 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
+appadhoc.com
+cdn-api.appadhoc.com
+count.appadhoc.com
+h5.appadhoc.com
+sdk.appadhoc.com
+tracker.appadhoc.com
+www.appadhoc.com
+crunchyroll.adnetasia.com
+ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
+yasni.adnetasia.com
+zoover.adnetasia.com
 beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
@@ -94,6 +108,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -144,6 +161,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -152,6 +170,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -188,14 +210,15 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+asgdfasad.mm-cgnews.com
+hetapus.com
+ak.hetapus.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
 s385.mxcdn.net
 s400.mxcdn.net
-ad-track.adiiix.com
-ads.adiiix.com
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -205,6 +228,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -226,6 +251,7 @@ ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
@@ -257,6 +283,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -264,6 +291,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -292,6 +321,8 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -351,10 +382,10 @@ adserversolutions.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
+ah.eyesnamda.cfd
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -362,6 +393,7 @@ airdropcassino.cfd
 ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
+am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
@@ -448,6 +480,8 @@ cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
+corypha.veluredcorveenikko.cfd
+creamssicsite.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
@@ -479,6 +513,7 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
@@ -494,6 +529,7 @@ erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
+evzhzppj5kel.com
 ewhareey.com
 exploreannihilationquicker.com
 ezdkixzdkr.com
@@ -521,6 +557,7 @@ gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
+gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
@@ -531,6 +568,7 @@ glimtors.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
+gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
@@ -538,6 +576,7 @@ gq.binesyorker.com
 gtuzanksz.com
 gv.habitanchowses.cyou
 gylxwpwabgp.com
+hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
@@ -553,7 +592,9 @@ hxgqqxopf.com
 ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
+ih.charvetseedful.shop
 ileeckut.com
+im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
 infamousfine.com
@@ -592,6 +633,7 @@ kneeansweras.com
 knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+kx.upturnsidoist.cyou
 ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
@@ -726,6 +768,7 @@ poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 prayexplodesyndrome.com
+primetime.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
@@ -807,6 +850,7 @@ sheecmimty.net
 shndrktrk.com
 singletplatformgleamenterprises.com
 siweieoyjl.com
+sj.coemptsruesome.shop
 skullhalfway.com
 sl.maundysinon.cyou
 slidbecauseemerald.com
@@ -890,7 +934,9 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
+vc.colpwoofell.qpon
 vcqclbetewdnq.website
+vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
@@ -942,6 +988,7 @@ xgodpmdczzyza.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
+xo.gippedtutelo.cyou
 xp.retinichawks.cyou
 xpihripcao.in
 xr.staxisclivias.com
@@ -953,17 +1000,18 @@ yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
+yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
 yzamhsczcvjoc.com
 yzybyozmuhh.com
 zazmunokpvzi.com
+zd.navigcutler.cyou
 zeekaihu.net
 zenkreka.com
 zhoyyibwywgev.one
@@ -980,7 +1028,6 @@ zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 counter.pixplug.in
-d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
 ping.kitidi.com
