@@ -1,3 +1,4 @@
+blueserving.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -38,11 +39,20 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
-aj1408.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -55,6 +65,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+a.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -151,7 +162,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -200,6 +210,9 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+int.vlancaa.site
+ak.hetaruvg.com
+hetaruvg.com
 hetapus.com
 ak.hetapus.com
 hetaint.com
@@ -217,6 +230,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -228,6 +243,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -241,6 +259,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
@@ -303,7 +322,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
@@ -339,6 +357,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 2021group.com
+22hgc.com
 2443march2024.com
 2508june2024.com
 303bus.net
@@ -365,6 +384,7 @@ adserversolutions.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+affcpatrk.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -401,6 +421,7 @@ azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
+barapolaran.shop
 basepush.com
 beabsolom.com
 beachinfinitegag.com
@@ -417,7 +438,6 @@ boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
-boyaidare.club
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
@@ -440,7 +460,6 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -457,6 +476,7 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -586,8 +606,8 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itheatmoran.com
 itletroec.com
+iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
 jaixajhu.com
@@ -676,6 +696,7 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -784,6 +805,7 @@ qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
+qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
@@ -909,13 +931,11 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
-vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
@@ -954,6 +974,7 @@ wonderhsjnsd.com
 workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
+wrothenitent.cyou
 wucdrynukof.in
 www.admarket.network
 www.gamee.forum
