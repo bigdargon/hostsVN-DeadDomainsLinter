@@ -25,13 +25,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -114,9 +107,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -149,6 +139,7 @@ front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
+www.voodoo-analytics.io
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -169,7 +160,6 @@ xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
-adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
@@ -196,8 +186,6 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
-s385.mxcdn.net
-s400.mxcdn.net
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -213,6 +201,7 @@ loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
+www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -235,10 +224,8 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
-ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
-aj2557.bid
 aj2566.bid
 aj2576.bid
 aj2583.bid
@@ -354,7 +341,6 @@ ads.cdn2-img.net
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
-adserversolutions.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
@@ -428,7 +414,6 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
-caribedkurukh.com
 cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
@@ -464,7 +449,6 @@ cutescale.online
 d3jqverr.pro
 dalyio.com
 dalymix.com
-dalysh.com
 dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
@@ -549,7 +533,6 @@ go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
-gtuzanksz.com
 gv.habitanchowses.cyou
 gylxwpwabgp.com
 hardlycompanionelongated.com
@@ -576,6 +559,7 @@ industries78.net
 infamousfine.com
 infinity13.com
 inspirationstarednope.com
+institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
@@ -594,7 +578,6 @@ jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
-jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
@@ -915,7 +898,6 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
