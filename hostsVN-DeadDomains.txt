@@ -25,13 +25,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-appadhoc.com
-cdn-api.appadhoc.com
-count.appadhoc.com
-h5.appadhoc.com
-sdk.appadhoc.com
-tracker.appadhoc.com
-www.appadhoc.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -39,20 +32,10 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
+aj1408.online
 aj1549.online
 aj1754.online
 aj1855.online
@@ -112,9 +95,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -218,7 +198,6 @@ ak.hetapus.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
-ak.hetahien.com
 s385.mxcdn.net
 s400.mxcdn.net
 jg.wensixuetang.com
@@ -231,7 +210,6 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -301,7 +279,6 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
-mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -322,6 +299,7 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
@@ -394,7 +372,6 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ak.atclauncheran.com
-ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -438,6 +415,7 @@ boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
 bouzechoby.net
+boyaidare.club
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
@@ -460,6 +438,7 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
+cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -606,6 +585,7 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
@@ -936,6 +916,7 @@ uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
+vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
