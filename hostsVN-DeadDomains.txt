@@ -149,7 +149,6 @@ front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
-www.voodoo-analytics.io
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -193,11 +192,10 @@ int.akisinn.me
 int.vlancaa.site
 ak.hetaruvg.com
 hetaruvg.com
-hetapus.com
-ak.hetapus.com
 hetaint.com
 ak.hetaint.com
 hetahien.com
+ak.hetahien.com
 s385.mxcdn.net
 s400.mxcdn.net
 jg.wensixuetang.com
@@ -209,14 +207,12 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
-www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -279,6 +275,7 @@ testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
+mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -335,7 +332,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 1fkx796mw.com
 1slms.com
 2021group.com
-22hgc.com
 2443march2024.com
 2508june2024.com
 303bus.net
@@ -428,7 +424,6 @@ btguqecoelukltw.com
 bttupamp.com
 butalksuw9dj10.com
 bytefrom2010.com
-c.srvpcn.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
@@ -581,7 +576,6 @@ industries78.net
 infamousfine.com
 infinity13.com
 inspirationstarednope.com
-institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
@@ -751,7 +745,6 @@ poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 prayexplodesyndrome.com
-primetime.net
 pro-ads.club
 proceduresto3.net
 producerplot.com
@@ -785,7 +778,6 @@ qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
