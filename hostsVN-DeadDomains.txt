@@ -66,8 +66,6 @@ ivstracker.net
 r.ivstracker.net
 aab.adxxx.com
 adxxx.com
-b.adxxx.com
-cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
@@ -117,6 +115,8 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+ei.imstks.com
+i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
@@ -124,8 +124,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -148,12 +146,7 @@ www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
-voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -195,8 +188,6 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
@@ -252,6 +243,7 @@ litvp.com
 ss15.litvp.com
 ss29.litvp.com
 ankdoier.com
+click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 adv.klick.vn
 demo.klick.vn
@@ -260,6 +252,7 @@ klick.vn
 qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
+wakeup247.klick.vn
 www.klick.vn
 adserver.atdnetwork.com
 atdnetwork.com
@@ -337,7 +330,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 2443march2024.com
 2508june2024.com
 303bus.net
-4info.com
 540creative.net
 734map.net
 7777align.net
@@ -351,16 +343,15 @@ abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
 adgardener.com
+adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
-adsmart.co.uk
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-affcpatrk.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -382,13 +373,13 @@ appeaserepose.com
 appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
-arswabluchan.com
 ashoupsu.com
 aslau-cre.info
 astraon255.net
 atdxamakqo.in
 ausoafab.net
 awjojjrimaf.in
+ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
 azzadgasf.in
@@ -617,7 +608,6 @@ leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
-liquidad.narrowcastmedia.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
@@ -718,7 +708,6 @@ osknimkihvr.com
 otqmunvibzp.in
 outoctillerytor.com
 outrotomr.com
-ovmhwiccikr.com
 owbltnxzgxq.com
 oxen.hillcountrytexas.com
 ozqoztrkoaj.com
@@ -872,7 +861,6 @@ syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -923,7 +911,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
-view4cash.de
 viiadr.com
 vityhoughinimal.com
 vnumlkbuujd.com
@@ -1005,10 +992,8 @@ zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
-zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
-zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 counter.pixplug.in
