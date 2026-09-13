@@ -26,15 +26,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -51,7 +42,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-a.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -60,12 +50,10 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 aab.adxxx.com
 adxxx.com
+b.adxxx.com
+cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
@@ -146,6 +134,7 @@ www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
+voodoo-analytics.io
 www.voodoo-analytics.io
 admobclick.com
 pixel.admobclick.com
@@ -184,11 +173,8 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 int.vlancaa.site
-ak.hetaruvg.com
-hetaruvg.com
 hetaint.com
 ak.hetaint.com
-analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 jg.wensixuetang.com
@@ -214,7 +200,6 @@ sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -424,7 +409,6 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -441,7 +425,6 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
-cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -570,7 +553,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -662,7 +644,6 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
-newt1.adultworld.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -708,6 +689,7 @@ osknimkihvr.com
 otqmunvibzp.in
 outoctillerytor.com
 outrotomr.com
+ovmhwiccikr.com
 owbltnxzgxq.com
 oxen.hillcountrytexas.com
 ozqoztrkoaj.com
@@ -735,7 +717,6 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
-popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
@@ -992,8 +973,10 @@ zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
+zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
+zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 bjdxhs.com
 counter.pixplug.in
