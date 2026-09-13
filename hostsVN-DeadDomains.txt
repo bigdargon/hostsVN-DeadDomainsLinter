@@ -42,6 +42,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+a.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -175,6 +176,7 @@ int.akisinn.me
 int.vlancaa.site
 hetaint.com
 ak.hetaint.com
+analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
 jg.wensixuetang.com
@@ -200,6 +202,7 @@ sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -688,7 +691,6 @@ orywrjsf.com
 osknimkihvr.com
 otqmunvibzp.in
 outoctillerytor.com
-outrotomr.com
 ovmhwiccikr.com
 owbltnxzgxq.com
 oxen.hillcountrytexas.com
@@ -717,6 +719,7 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
+popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
