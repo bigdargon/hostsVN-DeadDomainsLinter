@@ -1,5 +1,3 @@
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -38,9 +36,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -116,10 +111,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -259,7 +250,6 @@ images.kabbmedia.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.educe.vn
 mautic.hicity.vn
@@ -790,6 +780,7 @@ resalag.com
 reticencevaliddecoction.com
 rizkigkmoa.in
 rkopcipugj.in
+rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 roacheenazak.com
 rosysolvingscallion.com
@@ -906,7 +897,6 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vityhoughinimal.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
