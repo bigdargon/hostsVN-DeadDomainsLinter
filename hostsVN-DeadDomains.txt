@@ -205,7 +205,6 @@ ads.livetv658.me
 ads.livetv664.me
 ads.livetv687.me
 ads.livetv697.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
@@ -244,10 +243,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-ads.kabbmedia.com
-delivery.kabbmedia.com
-images.kabbmedia.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
@@ -977,7 +972,6 @@ zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
-zumdivdwug.com
 zunsoach.com
 zwecnsakdbr.com
 zxgkuhqwwtcvc.website
