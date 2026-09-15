@@ -8,8 +8,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-api.parrable.com
-h.parrable.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -142,7 +140,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -238,9 +235,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -311,9 +306,7 @@ ad.vkool.net
 ads.6svn.com
 ads.homedy.net
 api.boclinkads.com
-api2.boclinkads.com
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -480,7 +473,6 @@ detachmentoccasionedarena.com
 deviatestartblock.com
 devpeakomegainnovations.com
 directpaper.name
-disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
@@ -529,6 +521,7 @@ fsxmidyo.com
 ftte.xyz
 funoriblithe.space
 fvmfdzpwbm.com
+fxclix.com
 g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
@@ -547,11 +540,11 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
+go-rank.de
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
-gtuzanksz.com
 gv.habitanchowses.cyou
 gylxwpwabgp.com
 hardlycompanionelongated.com
@@ -661,12 +654,12 @@ mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
 myesutdnuyddu.com
+mz.proxysmjameson.cfd
 mzyvyjsq.com
 nagoverpayreimburse.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
@@ -956,6 +949,7 @@ wr.amigojimbang.com
 wrothenitent.cyou
 wucdrynukof.in
 www.admarket.network
+www.gamee.forum
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
