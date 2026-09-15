@@ -140,6 +140,7 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
+traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -297,7 +298,6 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
-wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -305,14 +305,12 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
 ads.homedy.net
-api.boclinkads.com
 ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -473,6 +471,7 @@ detachmentoccasionedarena.com
 deviatestartblock.com
 devpeakomegainnovations.com
 directpaper.name
+disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
@@ -540,11 +539,11 @@ gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
-go-rank.de
 go1.for3e.com
 gocxnnxiy.com
 goomaphy.com
 gq.binesyorker.com
+gtuzanksz.com
 gv.habitanchowses.cyou
 gylxwpwabgp.com
 hardlycompanionelongated.com
@@ -1003,7 +1002,6 @@ zxgkuhqwwtcvc.website
 bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
-event.getblue.io
 guihua-china.com
 lem-computers.net
 ping.kitidi.com
