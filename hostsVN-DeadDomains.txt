@@ -18,13 +18,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adnetasia.com
-ox-d.adnetasia.com
-serve.adnetasia.com
-torrentz.adnetasia.com
-yahoo.adnetasia.com
-yasni.adnetasia.com
-zoover.adnetasia.com
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -112,7 +105,6 @@ lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
-mstorer.net
 c.vi-serve.com
 nv.vi-serve.com
 pb.vi-serve.com
@@ -181,7 +173,6 @@ www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
-bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
 img.truepush.com
@@ -236,7 +227,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -298,6 +288,7 @@ sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
+wataads.com
 cdn.aanetwork.vn
 imgs2.aanetwork.vn
 service.adlinknetwork.vn
@@ -467,7 +458,6 @@ dbxexsnxxzwwo.com
 deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
-detachmentoccasionedarena.com
 deviatestartblock.com
 devpeakomegainnovations.com
 directpaper.name
@@ -829,7 +819,6 @@ sj.coemptsruesome.shop
 skullhalfway.com
 sl.maundysinon.cyou
 slidbecauseemerald.com
-smeartoassessment.com
 smptdrf.link
 smptrffc.click
 smptrffc.fyi
