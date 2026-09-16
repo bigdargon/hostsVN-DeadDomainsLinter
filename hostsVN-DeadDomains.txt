@@ -14,22 +14,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -88,7 +72,6 @@ madsecz.com
 hadsimz.com
 advinci.net
 count.advinci.net
-www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -199,8 +182,6 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-ad-track.adiiix.com
-ads.adiiix.com
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -854,7 +835,6 @@ spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
 steerensout.net
-steeringsunshine.com
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
