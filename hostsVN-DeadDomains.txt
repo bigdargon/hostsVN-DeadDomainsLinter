@@ -96,13 +96,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
@@ -284,8 +277,6 @@ ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 adx.vn
 matomo.hicity.vn
 mautic.educe.vn
@@ -594,7 +585,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -709,6 +699,7 @@ oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
 ofdajwabl.in
+offclaydolon.com
 ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
@@ -808,7 +799,6 @@ qzhwkhkpnpjxq.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
-rankingscout.com
 rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
@@ -943,7 +933,6 @@ verninchange.com
 viamariller.com
 videocdnshop.com
 viiadr.com
-vityhoughinimal.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
