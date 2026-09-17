@@ -40,7 +40,6 @@ ajxx91.online
 c.trazk.com
 f.trazk.com
 localapi.trazk.com
-a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -50,10 +49,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 aab.adxxx.com
 adxxx.com
 b.adxxx.com
@@ -193,13 +188,8 @@ www.b91vip.com
 int.akisinn.me
 int.vlancaa.fun
 asgdfasad.mm-cgnews.com
-hetapus.com
-ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -236,8 +226,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -299,7 +287,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
 sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
@@ -359,7 +346,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-adw9.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -403,7 +389,6 @@ barapolaran.shop
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 belia-glp.com
 benzeinlune.com
 bergculpae.life
@@ -438,7 +423,6 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 ceksevairs.com
 centalkochab.com
@@ -459,7 +443,6 @@ cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
-connection1safety.com
 conopidlanai.qpon
 corypha.veluredcorveenikko.cfd
 creamssicsite.com
@@ -621,7 +604,6 @@ ldjsypolwypxy.space
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
-lfezjmxldv.com
 lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
@@ -878,7 +860,6 @@ syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 techourtoapingu.com
@@ -1029,6 +1010,5 @@ pymx5.com
 referer.pixplug.in
 spkoevngk.com
 sync2ad.com
-track.unidata.ai
 tracker.toolpg.com
 visitor.pixplug.in
