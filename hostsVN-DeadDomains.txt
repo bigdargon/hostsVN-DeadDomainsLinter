@@ -18,9 +18,9 @@ crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
-yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
+adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
@@ -28,15 +28,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-ad.kau.li
-analytics.kau.li
-click.kau.li
-clk.kau.li
-js.kau.li
-pixel.kau.li
-rtb.kau.li
-s.kau.li
-y.kau.li
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -132,7 +123,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -196,7 +186,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
@@ -254,6 +243,7 @@ ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 adv.klick.vn
+demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
@@ -489,6 +479,7 @@ duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
+eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
@@ -580,10 +571,8 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
-ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -598,6 +587,7 @@ jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
+jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
 jz.thringsettos.cyou
@@ -743,7 +733,6 @@ playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
-pop-under.ru
 popjoynorit.cfd
 popunder.ru
 popuserapparatus.com
@@ -880,7 +869,6 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
-tevitpcfav.com
 thaudray.com
 theeptoah.com
 thripelbertie.website
@@ -984,6 +972,7 @@ xruamzpanbca.com
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
