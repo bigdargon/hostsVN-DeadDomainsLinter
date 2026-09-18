@@ -18,6 +18,7 @@ crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
 torrentz.adtrackers.net
+yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
 adnetasia.com
@@ -34,7 +35,6 @@ aj1090.online
 aj1408.online
 aj1549.online
 aj1754.online
-aj1855.online
 aj1863.online
 aj2142.online
 aj2274.online
@@ -123,10 +123,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -464,7 +460,6 @@ denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
 deviatestartblock.com
-devpeakomegainnovations.com
 directpaper.name
 disrespectpreceding.com
 dithodackee.com
@@ -582,7 +577,6 @@ jdxkcews.com
 jf71qh5v14.com
 jgqpddekjd.com
 jhukfaosdjfa.com
-jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
@@ -733,6 +727,7 @@ playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
+pop-under.ru
 popjoynorit.cfd
 popunder.ru
 popuserapparatus.com
@@ -869,6 +864,7 @@ taughtwandamazingly.com
 techourtoapingu.com
 templatein13.net
 terra8nb.com
+tevitpcfav.com
 thaudray.com
 theeptoah.com
 thripelbertie.website
