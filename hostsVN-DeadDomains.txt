@@ -28,13 +28,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-crunchyroll.adtrackers.net
-ox-d.adtrackers.net
-serve.adtrackers.net
-torrentz.adtrackers.net
-yahoo.adtrackers.net
-yasni.adtrackers.net
-zoover.adtrackers.net
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -69,9 +62,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -115,9 +105,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -309,6 +296,7 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
 gluco.native-ad.net
@@ -745,6 +733,7 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
@@ -782,8 +771,6 @@ propu.sh
 ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
-ptakeemsaifegro.net
-ptauxofi.net
 ptawehex.net
 ptipsixo.com
 ptoushoa.com
@@ -913,6 +900,7 @@ timohtazxazej.website
 tirosagalite.com
 tkddcpuc.com
 tkexutqf.in
+toathoule.com
 toeapesob.com
 toglooman.com
 tomorroweducated.com
