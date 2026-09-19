@@ -1,4 +1,5 @@
 blueserving.com
+admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
 hb.nexage.com
@@ -35,16 +36,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -190,7 +181,6 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
-cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -229,9 +219,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -283,10 +270,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-ads.kabbmedia.com
-delivery.kabbmedia.com
-images.kabbmedia.com
-kabbmedia.com
 adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
@@ -461,7 +444,6 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
-cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
@@ -470,9 +452,7 @@ creamssicsite.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
-d3j8pfor58pj90.cloudfront.net
 d3jqverr.pro
-dalyio.com
 dalymix.com
 dalysv.com
 datatoreplicas.com
@@ -512,9 +492,11 @@ elmnxeembokgd.space
 enterprises550.net
 epomapps.com
 erezzydxykqwk.space
+erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
 evzhzppj5kel.com
+ewhareey.com
 exploreannihilationquicker.com
 ezdkixzdkr.com
 facebookad.for88vn.com
@@ -630,6 +612,7 @@ lfvvhemghapw.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lu.hymenicshi.qpon
 lvesfrucnt.com
@@ -691,7 +674,6 @@ nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
 nv.shunnerencinal.shop
-nwfnsitaes.com
 ny.damasseakamai.com
 o3sxhw5ad.com
 oabaubsutha.com
@@ -812,7 +794,6 @@ refpa4293501.top
 refpa58144.com
 renderstreamshuttleanalytics.net
 resalag.com
-reticencevaliddecoction.com
 revstats.com
 rizkigkmoa.in
 rkopcipugj.in
@@ -906,7 +887,6 @@ tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
-traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
@@ -947,6 +927,7 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
+w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
 waufooke.com
