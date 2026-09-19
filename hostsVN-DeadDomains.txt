@@ -9,6 +9,20 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
+web.advertica-cdn.com
+assets.deployads.com
+c.deployads.com
+deployads.com
+e.deployads.com
+frame.deployads.com
+tags.deployads.com
+tags-cdn.deployads.com
+www.deployads.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
@@ -29,6 +43,16 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -119,6 +143,9 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+c.zetadeo.com
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -140,6 +167,7 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -148,6 +176,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -186,6 +218,11 @@ www.b91vip.com
 asgdfasad.mm-cgnews.com
 hetaint.com
 ak.hetaint.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -217,11 +254,12 @@ ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
 ads.livetv664.me
-ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
+ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -271,7 +309,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
 gluco.native-ad.net
@@ -295,8 +332,8 @@ syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
 ads.homedy.net
+adv.autosurf.vn
 ax.mpcdn.top
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -346,6 +383,7 @@ adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -354,6 +392,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -429,6 +468,7 @@ childhoodstudioconversation.com
 choupsee.com
 cidtunppinhi.in
 ciksolre.net
+cjxomyilmv.com
 claroly75.com
 clenchedyouthmatching.com
 clickcompare.co.uk
@@ -436,6 +476,7 @@ clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
+colonserve.com
 connection1safety.com
 conopidlanai.qpon
 corypha.veluredcorveenikko.cfd
@@ -443,6 +484,7 @@ creamssicsite.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
+d3j8pfor58pj90.cloudfront.net
 d3jqverr.pro
 dalyio.com
 dalymix.com
@@ -628,6 +670,7 @@ mfmalergyol.com
 mgyccfrshz.com
 mixedreading.com
 mizckufx.com
+mkkvprwskq.com
 mobzeg.com
 mocean.mobi
 moonoafy.net
@@ -702,7 +745,6 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
@@ -801,6 +843,7 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
+ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -835,6 +878,7 @@ soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
 son-in-lawmorbid.com
+sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -897,6 +941,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
