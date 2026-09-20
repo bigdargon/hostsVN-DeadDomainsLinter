@@ -114,6 +114,7 @@ www.pvmax.net
 1x1.myfastcdn.com
 3x2.myfastcdn.com
 4x3.myfastcdn.com
+d3x2.myfastcdn.com
 myfastcdn.com
 lalaping.com
 static.lalaping.com
@@ -155,10 +156,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -198,14 +195,11 @@ ak.hetaruvg.com
 hetaruvg.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -238,7 +232,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -299,11 +292,8 @@ www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
-tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -517,7 +507,6 @@ fibqukktuv.in
 fnzocmpkp.com
 forflygonom.com
 forspearowor.com
-fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
@@ -536,7 +525,6 @@ ggz48pxys.com
 gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
-giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
@@ -672,6 +660,7 @@ native-track.com
 nativepu.sh
 nbnbewlhy.com
 nd.prosilyingles.cyou
+ndha4sding6gf.com
 nessainy.net
 new-twinks.com
 nicksstevmark.com
@@ -834,7 +823,6 @@ scripte-monster.de
 sensorpluck.com
 septfd2em64eber.com
 servsave.com
-sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
 shitcustody.com
@@ -935,7 +923,6 @@ verninchange.com
 viamariller.com
 videocdnshop.com
 viiadr.com
-vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
