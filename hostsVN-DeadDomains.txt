@@ -36,6 +36,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -113,7 +114,6 @@ www.pvmax.net
 1x1.myfastcdn.com
 3x2.myfastcdn.com
 4x3.myfastcdn.com
-d3x2.myfastcdn.com
 myfastcdn.com
 lalaping.com
 static.lalaping.com
@@ -128,6 +128,8 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -181,6 +183,7 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
+cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -191,9 +194,12 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
+ak.hetaruvg.com
+hetaruvg.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -232,7 +238,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv785.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -250,6 +256,9 @@ ss29.litvp.com
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
+cvt.finallygotthexds.site
+finallygotthexds.site
+i.finallygotthexds.site
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -270,7 +279,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -344,7 +352,6 @@ adgardener.com
 adincube.com
 admarket.network
 ads.cdn2-img.net
-ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -444,6 +451,7 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
+cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
@@ -453,7 +461,9 @@ csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
 d3jqverr.pro
+dalyio.com
 dalymix.com
+dalysh.com
 dalysv.com
 datatoreplicas.com
 db.peshitomohr.qpon
@@ -571,6 +581,7 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -594,6 +605,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -658,10 +670,8 @@ nagoverpayreimburse.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
-ndha4sding6gf.com
 nessainy.net
 new-twinks.com
 nicksstevmark.com
@@ -674,6 +684,7 @@ nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
 nv.shunnerencinal.shop
+nwfnsitaes.com
 ny.damasseakamai.com
 o3sxhw5ad.com
 oabaubsutha.com
@@ -698,6 +709,7 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orb92.com
 orbor700.com
@@ -710,6 +722,7 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -785,6 +798,7 @@ qzhwkhkpnpjxq.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
+rankingscout.com
 rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
@@ -794,6 +808,7 @@ refpa4293501.top
 refpa58144.com
 renderstreamshuttleanalytics.net
 resalag.com
+reticencevaliddecoction.com
 revstats.com
 rizkigkmoa.in
 rkopcipugj.in
@@ -808,7 +823,6 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
-ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
@@ -859,6 +873,7 @@ sumbreta.com
 surfmusik-adserver.de
 swmswjvdpc.com
 swuojrovqf.com
+sympathydistinguish.com
 synapse22.net
 syndetstermine.com
 syochgrqwze.com
@@ -887,6 +902,7 @@ tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
 track.getmydeals.net
+traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
 tsiwqtng8huauw30n.com
@@ -1009,7 +1025,6 @@ counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 guihua-china.com
 lem-computers.net
-ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 spkoevngk.com
