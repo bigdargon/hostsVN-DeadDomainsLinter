@@ -98,6 +98,7 @@ st.adxxx.com
 static.adxxx.com
 static2-src.adxxx.com
 static-src.adxxx.com
+st-n.adxxx.com
 teasers.adxxx.com
 tr.adxxx.com
 vi.adxxx.com
@@ -212,8 +213,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
@@ -272,11 +271,10 @@ demo.klick.vn
 euro.klick.vn
 klick.vn
 qc.klick.vn
+text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 hi-cdn.adsparc.net
 pixel.adsparc.net
 adserver.atdnetwork.com
@@ -375,7 +373,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
@@ -537,6 +534,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+galaxien.com
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -547,7 +545,6 @@ gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
-glersakr.com
 glimtors.net
 gloaphoo.net
 gloarteegnu.com
@@ -613,7 +610,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -667,7 +663,6 @@ mumazfqir.in
 murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
-mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
 myesutdnuyddu.com
@@ -748,6 +743,7 @@ phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
+planetactive.com
 playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
@@ -908,7 +904,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
