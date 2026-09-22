@@ -1,6 +1,4 @@
 blueserving.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -11,12 +9,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -68,9 +60,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -122,7 +111,6 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
-api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
 monika.pvmax.net
@@ -497,7 +485,6 @@ dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
-ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
@@ -567,7 +554,6 @@ hentaicounter.com
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
-hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hwoqshyx.com
 hwuhkabi.in
@@ -749,7 +735,9 @@ pietexture.com
 playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
+pokreess.com
 pop-under.ru
+popjoynorit.cfd
 popunder.ru
 popuserapparatus.com
 poshhateful.com
