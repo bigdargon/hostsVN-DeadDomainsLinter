@@ -68,6 +68,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+c.trazk.com
+f.trazk.com
+localapi.trazk.com
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -194,10 +197,10 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
 int.vlancaa.site
 tok.vlancaa.site
 int.vlancaa.fun
@@ -238,6 +241,8 @@ ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
 ads.livetv664.me
+ads.livetv676.me
+ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -272,8 +277,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-hi-cdn.adsparc.net
-pixel.adsparc.net
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -281,6 +284,10 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+ads.kabbmedia.com
+delivery.kabbmedia.com
+images.kabbmedia.com
+kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -369,6 +376,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -585,6 +593,7 @@ itletroec.com
 ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
+jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jdxkcews.com
@@ -740,9 +749,7 @@ pietexture.com
 playsdonkey.com
 pnhoppacwh.com
 poawooptugroo.com
-pokreess.com
 pop-under.ru
-popjoynorit.cfd
 popunder.ru
 popuserapparatus.com
 poshhateful.com
