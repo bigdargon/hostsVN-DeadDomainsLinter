@@ -111,6 +111,7 @@ static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
+api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
 monika.pvmax.net
@@ -289,7 +290,6 @@ gluco.native-ad.net
 native-ad.net
 tags.native-ad.net
 vena.native-ad.net
-analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
 platform.jeoway.com
@@ -447,7 +447,6 @@ clicksmint.site
 clodderpickmaw.com
 cluster.adultworld.com
 cmdpeufwwou.com
-cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
@@ -485,6 +484,7 @@ dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
+ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
@@ -554,6 +554,7 @@ hentaicounter.com
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
+hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hwoqshyx.com
 hwuhkabi.in
@@ -729,7 +730,6 @@ phfzhmcuazx.com
 phoossax.net
 phortaub.com
 phumagrose.com
-physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
@@ -916,7 +916,6 @@ uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vd.bundthoecake.cyou
-vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viamariller.com
