@@ -122,6 +122,8 @@ d3x2.myfastcdn.com
 myfastcdn.com
 lalaping.com
 static.lalaping.com
+c.mstorer.net
+m.mstorer.net
 mstorer.net
 c.zetadeo.com
 p.zetadeo.com
@@ -164,7 +166,6 @@ pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
 pgmcdn.com
 adsterra.org
-delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
@@ -240,9 +241,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -254,7 +252,6 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv687.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -302,7 +299,6 @@ ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-adx.vn
 matomo.hicity.vn
 mautic.haproinfo.vn
 mautic.hicity.vn
@@ -319,7 +315,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -331,7 +326,6 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
-ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
 ax.mpcdn.top
@@ -368,6 +362,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 940functions.net
 970vantage.net
 9gg23.com
+abmkupxixavk.in
 abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
@@ -382,7 +377,6 @@ ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
 adtoqbuejunef.com
-advolution.de
 aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
@@ -438,6 +432,7 @@ boilhumoristpacifist.com
 boldchat.com
 bondleapedoasis.com
 boobausauhipsa.net
+bouzechoby.net
 boyaidare.club
 bpaqzithab.com
 bpipihwhumif.com
@@ -530,6 +525,7 @@ epomapps.com
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
+estat.com
 evzhzppj5kel.com
 ewhareey.com
 expensivelikeness.com
@@ -823,7 +819,6 @@ qzeavzrfaoqn.com
 qzhwkhkpnpjxq.com
 railwayrainstorm.com
 randxogc.com
-rankingchart.de
 rankingscout.com
 rbergego.com
 rcyopmpfef.in
@@ -910,7 +905,6 @@ sz.pyrulaupstage.qpon
 t.easyads28.mobi
 taqavmaplont.com
 taughtwandamazingly.com
-tb.baimgfroggd.site
 techourtoapingu.com
 templatein13.net
 terra8nb.com
@@ -963,6 +957,7 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
+vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -978,6 +973,7 @@ waymarkgentiin.com
 wd.macherabemaim.shop
 wdlyhnddxm.com
 wdqhdqtlxu.com
+websponsors.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
 wellmadefrog.com
