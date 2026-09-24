@@ -54,13 +54,8 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-n.popclck.org
-st-n.popclck.org
-a.brand.ad
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
-geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
@@ -166,6 +161,7 @@ pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
 pgmcdn.com
 adsterra.org
+delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
@@ -315,6 +311,7 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+wiinvent.com.vn
 embed.wiinvent.com.vn
 ff.imacdn.com
 sponsor.imacdn.com
@@ -606,7 +603,6 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -819,7 +815,7 @@ qzeavzrfaoqn.com
 qzhwkhkpnpjxq.com
 railwayrainstorm.com
 randxogc.com
-rankingscout.com
+rankingchart.de
 rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
@@ -957,7 +953,6 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
