@@ -59,7 +59,6 @@ f.trazk.com
 localapi.trazk.com
 aos.gop1.co
 g.gop1.co
-geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
@@ -207,6 +206,7 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
+www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
@@ -230,8 +230,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -272,7 +270,6 @@ aj3017.bid
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
-aff-track.net
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -389,6 +386,7 @@ afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
 ah.eyesnamda.cfd
+ahkapsalz.com
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -397,11 +395,11 @@ ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
+amare.agency
 ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -438,6 +436,7 @@ boobausauhipsa.net
 bouzechoby.net
 boyaidare.club
 bpaqzithab.com
+bpipihwhumif.com
 bqrjotqnqh.com
 brazenwholly.com
 breathelicense.com
@@ -685,6 +684,7 @@ mustardeveningobvious.com
 mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
+myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 nagoverpayreimburse.com
