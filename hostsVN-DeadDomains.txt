@@ -43,7 +43,6 @@ dspmulti.com
 aj1090.online
 aj1408.online
 aj1549.online
-aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
@@ -54,6 +53,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+c.trazk.com
+f.trazk.com
+localapi.trazk.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -96,6 +98,9 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -141,9 +146,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-cdn.bitmedianetwork.com
-engine.bitmedianetwork.com
-www.bitmedianetwork.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -178,6 +180,8 @@ admobclick.com
 pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
+v3.qrlsx.com
+vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
@@ -207,6 +211,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.akisinn.me
+tok.akisinn.me
 int.vlancaa.fun
 tok.vlancaa.fun
 asgdfasad.mm-cgnews.com
@@ -216,6 +222,8 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
+media.evolv.ai
+participants.evolv.ai
 jg.wensixuetang.com
 click-eu.expmediadirect1.com
 click.expmediadirect1.com
@@ -225,6 +233,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -287,16 +297,16 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
 www.atdnetwork.com
 ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -331,6 +341,7 @@ tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 log.smoney.vn
+thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -348,7 +359,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 104processors.net
 1fkx796mw.com
 2021group.com
-22hgc.com
 2443march2024.com
 2508june2024.com
 303bus.net
@@ -466,13 +476,13 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
-cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
 corypha.veluredcorveenikko.cfd
+crabbychin.com
 creamssicsite.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
@@ -509,6 +519,7 @@ e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
+efdldoqzzm.com
 effectscouncilman.com
 efficientdescent.com
 eghnybyvn.com
@@ -591,6 +602,7 @@ ih.charvetseedful.shop
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
+impactmobile.com
 industries78.net
 infamousfine.com
 infinity13.com
@@ -644,7 +656,6 @@ literalcorpulent.com
 littlecutecats.com
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
-lu.hymenicshi.qpon
 lvesfrucnt.com
 mafrarc3e9h.com
 magetrigla.com
@@ -692,7 +703,6 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
-newt1.adultworld.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -718,6 +728,7 @@ ofdajwabl.in
 offclaydolon.com
 ofhappinyer.com
 ogpriuleifns.com
+oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
 okjmiqaqjakm.in
@@ -725,8 +736,10 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -771,7 +784,6 @@ prayexplodesyndrome.com
 primetime.net
 prinksoncotic.com
 pro-ads.club
-proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
@@ -927,6 +939,7 @@ txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
+uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
@@ -935,7 +948,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1002,8 +1014,6 @@ xruamzpanbca.com
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
-yb26b.com
-yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
