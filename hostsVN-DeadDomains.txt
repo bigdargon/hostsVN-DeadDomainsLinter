@@ -59,6 +59,7 @@ f.trazk.com
 localapi.trazk.com
 aos.gop1.co
 g.gop1.co
+geo.gop1.co
 gop1.co
 img.gop1.co
 in1.gop1.co
@@ -317,8 +318,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -365,7 +364,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 9gg23.com
 abmkupxixavk.in
 abpziztci.in
-abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
@@ -453,7 +451,6 @@ cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
-cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -552,7 +549,6 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
-gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
@@ -691,7 +687,6 @@ nagoverpayreimburse.com
 nationalgausewatrust.com
 native-track.com
 nativepu.sh
-navigator.io
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
@@ -712,7 +707,6 @@ nwfnsitaes.com
 ny.damasseakamai.com
 o3sxhw5ad.com
 oabaubsutha.com
-oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -775,13 +769,11 @@ poshhateful.com
 potsaglu.net
 pq8ithtdw.com
 prayexplodesyndrome.com
-primetime.net
 prinksoncotic.com
 pro-ads.club
 proceduresto3.net
 producerplot.com
 propu.sh
-ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
@@ -843,7 +835,6 @@ rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 rtbidder.net
-ru-traffic.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
