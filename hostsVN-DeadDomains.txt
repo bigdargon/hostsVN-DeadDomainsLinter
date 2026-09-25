@@ -43,6 +43,7 @@ dspmulti.com
 aj1090.online
 aj1408.online
 aj1549.online
+aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
@@ -162,7 +163,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -207,12 +207,9 @@ sdk.truepush.com
 sdki.truepush.com
 stats.truepush.com
 truepush.com
-www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
-tok.akisinn.me
 int.vlancaa.fun
 tok.vlancaa.fun
 asgdfasad.mm-cgnews.com
@@ -297,6 +294,8 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
+static01.atdnetwork.com
+track.atdnetwork.com
 www.atdnetwork.com
 ads.kabbmedia.com
 delivery.kabbmedia.com
@@ -306,7 +305,6 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -399,7 +397,6 @@ ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
-amare.agency
 ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
@@ -441,7 +438,6 @@ boobausauhipsa.net
 bouzechoby.net
 boyaidare.club
 bpaqzithab.com
-bpipihwhumif.com
 bqrjotqnqh.com
 brazenwholly.com
 breathelicense.com
@@ -602,7 +598,6 @@ ih.charvetseedful.shop
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
-impactmobile.com
 industries78.net
 infamousfine.com
 infinity13.com
@@ -612,7 +607,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -656,6 +650,7 @@ literalcorpulent.com
 littlecutecats.com
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
+lu.hymenicshi.qpon
 lvesfrucnt.com
 mafrarc3e9h.com
 magetrigla.com
@@ -690,7 +685,6 @@ mustardeveningobvious.com
 mutcheng.net
 mw19c3mi5a.com
 mybettermb.com
-myesutdnuyddu.com
 mz.proxysmjameson.cfd
 mzyvyjsq.com
 nagoverpayreimburse.com
@@ -784,6 +778,7 @@ prayexplodesyndrome.com
 primetime.net
 prinksoncotic.com
 pro-ads.club
+proceduresto3.net
 producerplot.com
 propu.sh
 ps.bogymentracery.cyou
@@ -1014,6 +1009,7 @@ xruamzpanbca.com
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
 yldbt.com
