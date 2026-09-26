@@ -13,6 +13,7 @@ ylx-aff.advertica-cdn.com
 aff-a.advertica-cdn.com
 af-web.advertica-cdn.com
 aw.advertica-cdn.com
+web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -45,7 +46,6 @@ torrentz.bannertrack.net
 yahoo.bannertrack.net
 yasni.bannertrack.net
 zoover.bannertrack.net
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -130,6 +130,7 @@ www.pvmax.net
 4x3.myfastcdn.com
 d3x2.myfastcdn.com
 myfastcdn.com
+lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -184,7 +185,6 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 admobclick.com
-pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
 v3.qrlsx.com
@@ -232,8 +232,6 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
-ad-track.adiiix.com
-ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -249,7 +247,6 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
-jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
@@ -381,7 +378,6 @@ abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
 adgardener.com
-adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
@@ -545,6 +541,7 @@ estat.com
 evzhzppj5kel.com
 ewhareey.com
 expensivelikeness.com
+exploreannihilationquicker.com
 ezdkixzdkr.com
 facebookad.for88vn.com
 fadzudvracat.com
@@ -687,6 +684,7 @@ mizckufx.com
 mkkvprwskq.com
 mobzeg.com
 mocean.mobi
+moonoafy.net
 mountaindriftevolutiontechnologies.net
 ms.butylicrinsing.qpon
 mtakpfquym.com
@@ -743,7 +741,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 opvanillishan.com
@@ -821,6 +818,7 @@ qmyoclrszpanh.website
 qnbeenbgsx.com
 qnenxwwxzav.com
 qpizuvmta.com
+qqzifkmsifrzll.com
 qrafhypxswp.com
 qs251.com
 qsocxhfdopwj.com
@@ -965,7 +963,6 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-viamariller.com
 videocdnshop.com
 viiadr.com
 vnumlkbuujd.com
@@ -1009,7 +1006,6 @@ www.propu.sh
 www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
-xclicks.net
 xgodpmdczzyza.com
 xmafrihkua.in
 xnhhzlkr.com
