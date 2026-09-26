@@ -62,11 +62,9 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
 f.trazk.com
 localapi.trazk.com
 aos.gop1.co
-g.gop1.co
 geo.gop1.co
 gop1.co
 img.gop1.co
@@ -154,7 +152,6 @@ ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -185,6 +182,7 @@ cdn1.anymad.com
 click.anymad.com
 stats.anymad.com
 admobclick.com
+pixel.admobclick.com
 www.admobclick.com
 qrlsx.com
 v3.qrlsx.com
@@ -247,6 +245,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
+jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
@@ -282,7 +281,6 @@ litvp.com
 ss15.litvp.com
 ss29.litvp.com
 ankdoier.com
-click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 cvt.finallygotthexds.site
 finallygotthexds.site
@@ -378,6 +376,7 @@ abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
 adgardener.com
+adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
@@ -423,7 +422,6 @@ awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
-azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
