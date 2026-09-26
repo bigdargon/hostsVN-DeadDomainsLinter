@@ -8,6 +8,11 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ylx-a-img.advertica-cdn.com
+ylx-aff.advertica-cdn.com
+aff-a.advertica-cdn.com
+af-web.advertica-cdn.com
+aw.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -25,11 +30,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -38,6 +38,14 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+crunchyroll.bannertrack.net
+ox-d.bannertrack.net
+serve.bannertrack.net
+torrentz.bannertrack.net
+yahoo.bannertrack.net
+yasni.bannertrack.net
+zoover.bannertrack.net
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -122,7 +130,6 @@ www.pvmax.net
 4x3.myfastcdn.com
 d3x2.myfastcdn.com
 myfastcdn.com
-lalaping.com
 static.lalaping.com
 c.mstorer.net
 m.mstorer.net
@@ -220,6 +227,13 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -253,7 +267,6 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
@@ -328,7 +341,6 @@ ad.vkool.net
 ads.6svn.com
 adv.autosurf.vn
 adx.hoanggia.net.vn
-ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -364,6 +376,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 9gg23.com
 abmkupxixavk.in
 abpziztci.in
+abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
@@ -371,6 +384,7 @@ adgardener.com
 adincube.com
 admarket.network
 ads.cdn2-img.net
+ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
@@ -389,6 +403,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
@@ -407,6 +422,7 @@ ashoupsu.com
 aslau-cre.info
 astraon255.net
 atdxamakqo.in
+ausoafab.net
 awjojjrimaf.in
 ayrtpmwuymzbbq.com
 azoaltou.com
@@ -451,6 +467,7 @@ cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
+cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 ceksevairs.com
@@ -501,6 +518,7 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dozubatan.com
 dpuplet.net
 dulrihaungy.com
 dummieseardrum.com
@@ -527,7 +545,6 @@ estat.com
 evzhzppj5kel.com
 ewhareey.com
 expensivelikeness.com
-exploreannihilationquicker.com
 ezdkixzdkr.com
 facebookad.for88vn.com
 fadzudvracat.com
@@ -549,6 +566,7 @@ fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
+gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
 ggz48pxys.com
@@ -625,6 +643,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -668,7 +687,6 @@ mizckufx.com
 mkkvprwskq.com
 mobzeg.com
 mocean.mobi
-moonoafy.net
 mountaindriftevolutiontechnologies.net
 ms.butylicrinsing.qpon
 mtakpfquym.com
@@ -707,6 +725,7 @@ nwfnsitaes.com
 ny.damasseakamai.com
 o3sxhw5ad.com
 oabaubsutha.com
+oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 oclasrv.com
@@ -774,6 +793,7 @@ pro-ads.club
 proceduresto3.net
 producerplot.com
 propu.sh
+ps.bogymentracery.cyou
 psaltauw.net
 psoroumukr.com
 ptakeemsaifegro.net
@@ -782,6 +802,7 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
+pub.trads.io
 pushazam.com
 pushlaram.com
 pushmeup.art
@@ -800,7 +821,6 @@ qmyoclrszpanh.website
 qnbeenbgsx.com
 qnenxwwxzav.com
 qpizuvmta.com
-qqzifkmsifrzll.com
 qrafhypxswp.com
 qs251.com
 qsocxhfdopwj.com
@@ -849,6 +869,7 @@ servsave.com
 sfiannzilgi.com
 shaughixefooz.net
 sheecmimty.net
+sheltermilligrammillions.com
 shitcustody.com
 shndrktrk.com
 singletplatformgleamenterprises.com
@@ -944,6 +965,7 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
+viamariller.com
 videocdnshop.com
 viiadr.com
 vnumlkbuujd.com
@@ -1030,6 +1052,7 @@ zumdivdwug.com
 zunsoach.com
 zwecnsakdbr.com
 zxgkuhqwwtcvc.website
+zyuwjxerthht.com
 bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
