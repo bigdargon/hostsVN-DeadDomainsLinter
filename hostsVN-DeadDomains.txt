@@ -10,12 +10,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 ads.2mdnsys.com
 static.2mdnsys.com
 stats.2mdnsys.com
@@ -49,6 +43,7 @@ panel.sociaplus.com
 sociaplus.com
 static.api.sociaplus.com
 tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
 zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
@@ -153,6 +148,7 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
+www.winadx.com
 ytvpaid.winadx.com
 adexpert.pixanalytics.com
 falcon.pixanalytics.com
@@ -613,7 +609,6 @@ jaixajhu.com
 jappkummodah.in
 jdxkcews.com
 jf71qh5v14.com
-jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
 jitqwooztonj.in
@@ -851,7 +846,6 @@ septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
 shaughixefooz.net
-sheecmimty.net
 sheltermilligrammillions.com
 shitcustody.com
 shndrktrk.com
@@ -882,6 +876,7 @@ spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
+steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
@@ -1002,7 +997,6 @@ xpihripcao.in
 xr.staxisclivias.com
 xruamzpanbca.com
 xtuohnfwia.in
-xubchynamm.in
 xymhdmqrjxwl.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
