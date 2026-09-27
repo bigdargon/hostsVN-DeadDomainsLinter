@@ -41,13 +41,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-crunchyroll.bannertrack.net
-ox-d.bannertrack.net
-serve.bannertrack.net
-torrentz.bannertrack.net
-yahoo.bannertrack.net
-yasni.bannertrack.net
-zoover.bannertrack.net
 api.sociaplus.com
 hit.api.sociaplus.com
 image.sociaplus.com
@@ -63,6 +56,7 @@ dspmulti.com
 aj1090.online
 aj1408.online
 aj1549.online
+aj1754.online
 aj1855.online
 aj1863.online
 aj2142.online
@@ -73,9 +67,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
 a.brand.ad
 aos.gop1.co
 g.gop1.co
@@ -137,9 +128,6 @@ pvmax.net
 www.pvmax.net
 16x9.myfastcdn.com
 1x1.myfastcdn.com
-3x2.myfastcdn.com
-4x3.myfastcdn.com
-d3x2.myfastcdn.com
 myfastcdn.com
 lalaping.com
 static.lalaping.com
@@ -190,11 +178,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -230,15 +213,12 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 appcloud.ironbeast.io
 lb.ironbeast.io
 sdk.ironbeast.io
@@ -281,7 +261,6 @@ ads.livetv687.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -330,6 +309,7 @@ adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
+cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
 customers.fptad.com
@@ -359,7 +339,6 @@ tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 log.smoney.vn
-thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -424,7 +403,6 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-appealtime.com
 appeaserepose.com
 appservestar.com
 arhribadjqp.com
@@ -700,7 +678,6 @@ mfmalergyol.com
 mgyccfrshz.com
 mixedreading.com
 mizckufx.com
-mkkvprwskq.com
 mobzeg.com
 mocean.mobi
 moonoafy.net
@@ -940,6 +917,7 @@ tevitpcfav.com
 thaudray.com
 theeptoah.com
 thripelbertie.website
+timohtazxazej.website
 tirosagalite.com
 tkddcpuc.com
 tkexutqf.in
@@ -962,7 +940,6 @@ txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
 uaiysnrylsuyx.website
-uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
