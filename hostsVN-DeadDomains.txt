@@ -33,16 +33,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -107,6 +97,7 @@ a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
 origin-ads.optimizesrv.com
+static.optimizesrv.com
 syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
@@ -126,10 +117,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -146,13 +133,11 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
-trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 admobclick.com
@@ -590,7 +575,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -739,7 +723,6 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
-petasusawber.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -982,7 +965,6 @@ www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
-xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
@@ -1000,6 +982,7 @@ yiopse.com
 yldbt.com
 yo.hostalpitylus.shop
 yoshdeum.com
+yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
