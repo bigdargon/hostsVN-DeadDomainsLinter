@@ -105,6 +105,7 @@ monika.pvmax.net
 pvmax.net
 www.pvmax.net
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -201,7 +202,6 @@ loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
-www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -266,8 +266,6 @@ ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -556,6 +554,7 @@ gv.habitanchowses.cyou
 gxzkljfo.com
 gylxwpwabgp.com
 hardlycompanionelongated.com
+hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
 hentaicounter.com
@@ -564,6 +563,7 @@ hixwwert.in
 hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
+hurarwjrirti.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -619,6 +619,7 @@ kuqfudazkn.com
 kx.upturnsidoist.cyou
 kypwvjoni.com
 ldjsypolwypxy.space
+leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
@@ -868,7 +869,6 @@ steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
-su.sulingvicaire.cyou
 sumbreta.com
 supapush.net
 surfmusik-adserver.de
@@ -904,6 +904,7 @@ tqgyzwquwu.com
 tqvnfnotrhyfl.site
 traktrafficflow.com
 tranquilside.com
+trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 twinrdsyte.com
@@ -923,7 +924,6 @@ unugilpcyxoep.com
 upr90.com
 usheebainaut.com
 uumkcycj.com
-uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
@@ -940,6 +940,7 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
+vwahacrubri.com
 w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
