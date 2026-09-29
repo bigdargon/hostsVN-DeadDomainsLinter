@@ -8,10 +8,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -33,6 +29,7 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -104,10 +101,10 @@ go.mobytrks.com
 api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
+monika.pvmax.net
 pvmax.net
 www.pvmax.net
 lalaping.com
-static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -158,6 +155,7 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
+www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -187,7 +185,6 @@ secure.ironbeast.io
 supersonic.ironbeast.io
 media.evolv.ai
 participants.evolv.ai
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -209,6 +206,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -221,9 +221,11 @@ ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
 ads.livetv687.me
+ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv785.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -266,7 +268,6 @@ images.kabbmedia.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -276,9 +277,17 @@ www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
 static.customers.fptad.com
+ad.native-ad.net
+beauty.native-ad.net
+code.native-ad.net
+gluco.native-ad.net
+native-ad.net
+tags.native-ad.net
+vena.native-ad.net
 analytics.saas-vn.network
 congnb.analytics.saas-vn.network
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -294,6 +303,7 @@ ad.vkool.net
 ads.6svn.com
 adv.autosurf.vn
 adx.hoanggia.net.vn
+ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -388,6 +398,7 @@ belia-glp.com
 benzeinlune.com
 bergculpae.life
 bfwzpynoz.com
+bhjkpnfsgejvo.com
 biggedchocard.com
 blackbrake.com
 blueswordksh.com
@@ -471,10 +482,12 @@ dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
 dpuplet.net
+dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
+e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
@@ -543,7 +556,6 @@ gv.habitanchowses.cyou
 gxzkljfo.com
 gylxwpwabgp.com
 hardlycompanionelongated.com
-hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
 hentaicounter.com
@@ -605,8 +617,8 @@ knkkpmtdesg.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 kx.upturnsidoist.cyou
+kypwvjoni.com
 ldjsypolwypxy.space
-leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
 lfezjmxldv.com
@@ -769,8 +781,10 @@ qa.shboshbok.com
 qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qmyoclrszpanh.website
+qnbeenbgsx.com
 qnenxwwxzav.com
 qpizuvmta.com
+qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
 qsocxhfdopwj.com
@@ -854,6 +868,7 @@ steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
+su.sulingvicaire.cyou
 sumbreta.com
 supapush.net
 surfmusik-adserver.de
@@ -889,7 +904,6 @@ tqgyzwquwu.com
 tqvnfnotrhyfl.site
 traktrafficflow.com
 tranquilside.com
-trustlearningclearly.com
 tsiwqtng8huauw30n.com
 tutgcinarlak.com
 twinrdsyte.com
@@ -906,6 +920,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -918,7 +933,6 @@ vebo-vast.pages.dev
 verninchange.com
 videocdnshop.com
 viiadr.com
-vionito.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -972,6 +986,7 @@ xruamzpanbca.com
 xtuohnfwia.in
 xubchynamm.in
 xymhdmqrjxwl.com
+yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -981,6 +996,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
