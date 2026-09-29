@@ -104,7 +104,6 @@ go.mobytrks.com
 api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
-monika.pvmax.net
 pvmax.net
 www.pvmax.net
 lalaping.com
@@ -138,6 +137,7 @@ delivery.adsterra.org
 www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
+trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 admobclick.com
@@ -158,7 +158,6 @@ static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
-www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
 app.truepush.com
@@ -472,12 +471,10 @@ dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
 dpuplet.net
-dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
-e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
@@ -723,6 +720,7 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
+petasusawber.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -771,7 +769,6 @@ qa.shboshbok.com
 qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qmyoclrszpanh.website
-qnbeenbgsx.com
 qnenxwwxzav.com
 qpizuvmta.com
 qqzifkmsifrzll.com
@@ -890,7 +887,6 @@ toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
