@@ -115,7 +115,6 @@ imstks.com
 t.imstks.com
 www.imstks.com
 native-vpaid.winadx.com
-rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
@@ -192,8 +191,6 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 lampcfads.starbre.net
-lampservice.starbre.net
-ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 fp-cdn.azureedge.net
@@ -202,6 +199,7 @@ loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
+www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
@@ -262,10 +260,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-ads.kabbmedia.com
-delivery.kabbmedia.com
-images.kabbmedia.com
-kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -351,7 +345,6 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-aff2.childish2x2.fun
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -563,7 +556,6 @@ hixwwert.in
 hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
-hurarwjrirti.com
 hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
@@ -662,7 +654,6 @@ murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
-mw19c3mi5a.com
 mybettermb.com
 myesutdnuyddu.com
 mz.proxysmjameson.cfd
@@ -746,7 +737,6 @@ pnhoppacwh.com
 poawooptugroo.com
 pokreess.com
 pop-under.ru
-popjoynorit.cfd
 popunder.ru
 popuserapparatus.com
 poshhateful.com
@@ -800,6 +790,7 @@ rbergego.com
 rcyopmpfef.in
 rdipmrbwgvk.com
 reconditerake.com
+recoverystabilizevarmint.com
 redri.net
 refpa4293501.top
 renderstreamshuttleanalytics.net
@@ -922,8 +913,8 @@ unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
 upr90.com
-usheebainaut.com
 uumkcycj.com
+uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
@@ -931,7 +922,6 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
-videocdnshop.com
 viiadr.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -940,7 +930,6 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
-vwahacrubri.com
 w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
