@@ -38,14 +38,6 @@ torrentz.bannertrack.net
 yahoo.bannertrack.net
 yasni.bannertrack.net
 zoover.bannertrack.net
-crunchyroll.adclixx.net
-ox-d.adclixx.net
-serve.adclixx.net
-torrentz.adclixx.net
-yahoo.adclixx.net
-yasni.adclixx.net
-zoover.adclixx.net
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -168,16 +160,12 @@ bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
-qrlsx.com
-v3.qrlsx.com
-vo2.qrlsx.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -280,8 +268,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -366,7 +352,6 @@ adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
-ads.kitidi.com
 ads.rpgdot.com
 ads.starzd.com
 ads.vnd89.com
@@ -603,6 +588,7 @@ industries78.net
 infamousfine.com
 infinity13.com
 inpage-push.com
+inspirationstarednope.com
 institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
@@ -611,7 +597,6 @@ isolatedfrom82.com
 itgiblean.com
 itheatmoran.com
 itletroec.com
-ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -633,7 +618,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -717,6 +701,7 @@ nv.shunnerencinal.shop
 nwfnsitaes.com
 ny.damasseakamai.com
 o3sxhw5ad.com
+oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
@@ -735,6 +720,7 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 oranegfodnd.com
@@ -798,7 +784,6 @@ pushmeup.art
 pushmono.com
 pushqwer.com
 pushsar.com
-pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
 pzaovfjaja.in
@@ -838,7 +823,6 @@ rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
-roacheenazak.com
 rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
@@ -848,6 +832,7 @@ rrejalojkc.in
 rsxekbcl.com
 rtbidder.net
 ru.pintidmalmy.cyou
+rumadel.com
 rupmnmephml.com
 ruwjkygaxo.com
 ryxbowubroqka.online
@@ -975,6 +960,7 @@ waufooke.com
 waymarkgentiin.com
 wd.macherabemaim.shop
 wdlyhnddxm.com
+wdqhdqtlxu.com
 websponsors.com
 wedgierbirsit.com
 welcomingaccompanyeffort.com
@@ -1036,6 +1022,7 @@ zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
 zireemilsoude.net
+zjdpabwmeb.com
 zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
@@ -1051,7 +1038,6 @@ d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
 lem-computers.net
-ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 spkoevngk.com
