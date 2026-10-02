@@ -10,6 +10,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -54,11 +58,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
-n.popclck.org
-st-n.popclck.org
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -120,11 +120,22 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+c.zetadeo.com
+p.zetadeo.com
+zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
@@ -157,6 +168,10 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -166,6 +181,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -188,6 +204,7 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -238,7 +255,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
 ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -250,6 +266,8 @@ aj2629.bid
 aj2634.bid
 aj3007.bid
 aj3017.bid
+cdn77.ssindserving.com
+ssindserving.com
 litvp.com
 ss15.litvp.com
 ss29.litvp.com
@@ -275,6 +293,7 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -304,17 +323,15 @@ service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
 ads.6svn.com
+ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
-ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-analytics.zatomac.vn
 log.smoney.vn
-thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -382,12 +399,14 @@ appeaserepose.com
 appservestar.com
 arhribadjqp.com
 arrtakhihfze.in
+arswabluchan.com
 ashoupsu.com
 aslau-cre.info
 astraon255.net
 atdxamakqo.in
 ausoafab.net
 awjojjrimaf.in
+axisuptown.com
 ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
@@ -449,6 +468,7 @@ cidtunppinhi.in
 ciksolre.net
 cjxomyilmv.com
 claroly75.com
+clckysudks.com
 clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
@@ -569,7 +589,6 @@ hdlyfrxtnjpbc.site
 hentaicounter.com
 hhbwhgtciqe.com
 hixwwert.in
-hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hwoqshyx.com
@@ -580,6 +599,7 @@ ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
+ihhqwaurke.com
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
@@ -591,7 +611,6 @@ inpage-push.com
 inspirationstarednope.com
 institutehopelessbeck.com
 intendedeasiestlost.com
-intorterraon.com
 ionigravida.com
 isolatedfrom82.com
 itgiblean.com
@@ -624,6 +643,7 @@ kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
+korgiejoinyou.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 kx.upturnsidoist.cyou
@@ -723,6 +743,8 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
+oqhbgxvk.com
 oranegfodnd.com
 orbor700.com
 orlotalers.com
@@ -784,6 +806,7 @@ pushmeup.art
 pushmono.com
 pushqwer.com
 pushsar.com
+pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
 pzaovfjaja.in
@@ -880,6 +903,7 @@ steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
+su.sulingvicaire.cyou
 sumbreta.com
 supapush.net
 surfmusik-adserver.de
@@ -1024,7 +1048,6 @@ zikroarg.com
 zireemilsoude.net
 zjdpabwmeb.com
 zogfwunf.com
-ztumuvofzbfe.com
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
@@ -1041,6 +1064,5 @@ lem-computers.net
 pymx5.com
 referer.pixplug.in
 spkoevngk.com
-sync2ad.com
 tracker.toolpg.com
 visitor.pixplug.in
