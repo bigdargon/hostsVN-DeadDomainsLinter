@@ -125,12 +125,6 @@ tracking.adxoo.com
 vast.adxoo.com
 www.adxoo.com
 ytvpaid.adxoo.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
-c.netund.com
-netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -147,7 +141,6 @@ falcon.pixanalytics.com
 pixanalytics.com
 pixnet-network-falcon.pixanalytics.com
 s.pixanalytics.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -156,10 +149,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -196,9 +185,6 @@ int.akisinn.me
 tok.akisinn.me
 int.vlancaa.site
 tok.vlancaa.site
-int.vlancaa.fun
-tok.vlancaa.fun
-asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -245,7 +231,6 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -274,6 +259,7 @@ euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
+wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 adserver.atdnetwork.com
@@ -357,7 +343,6 @@ abvfupqkyaj.in
 acsshufxnu.com
 adaptationreconsider.com
 adgardener.com
-adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
@@ -367,6 +352,7 @@ ads.vnd89.com
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -376,7 +362,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -479,7 +464,6 @@ csyxnkhvueuh.com
 culbhiaxntuh.in
 cutescale.online
 d3j8pfor58pj90.cloudfront.net
-d3jqverr.pro
 dalyio.com
 dalymix.com
 dalysh.com
@@ -563,6 +547,7 @@ gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
 glimtors.net
+gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
 gnenuelnn.com
@@ -607,7 +592,6 @@ intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
 isolatedfrom82.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -632,6 +616,7 @@ kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
+kiynew.com
 kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
@@ -746,6 +731,7 @@ orywrjsf.com
 osknimkihvr.com
 otqmunvibzp.in
 outoctillerytor.com
+ovmhwiccikr.com
 owbltnxzgxq.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -872,6 +858,8 @@ slidbecauseemerald.com
 smeartoassessment.com
 smptdrf.link
 smptrffc.fyi
+smptrffc.link
+smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
 soccercadencefridge.com
@@ -945,7 +933,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
