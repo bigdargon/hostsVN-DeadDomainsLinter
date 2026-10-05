@@ -8,7 +8,6 @@ nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
-tangerine.nexage.com
 www.nexage.com
 assets.deployads.com
 c.deployads.com
@@ -154,6 +153,7 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -361,6 +361,7 @@ afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
 ah.eyesnamda.cfd
+ahkapsalz.com
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
@@ -373,7 +374,6 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -389,7 +389,6 @@ awjojjrimaf.in
 axisuptown.com
 ayrtpmwuymzbbq.com
 azoaltou.com
-azrwwodreta.com
 azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
@@ -455,6 +454,7 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cluster.adultworld.com
+cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 connection1safety.com
@@ -525,6 +525,7 @@ fibqukktuv.in
 floralrichardapprentice.com
 fnzocmpkp.com
 forflygonom.com
+forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
@@ -557,7 +558,6 @@ gmhyebojlimvqbc.com
 gnenuelnn.com
 go1.for3e.com
 gocxnnxiy.com
-goomaphy.com
 gq.binesyorker.com
 gtuzanksz.com
 gv.habitanchowses.cyou
@@ -583,7 +583,6 @@ ieyipznx.art
 ih.charvetseedful.shop
 ihhqwaurke.com
 ileeckut.com
-im.bailbezetta.cfd
 immizdgmacjvi.space
 imprese.cz
 industries78.net
@@ -756,6 +755,7 @@ pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
 pnhoppacwh.com
+po.zuhgg4cxt6noffj8.rest
 poawooptugroo.com
 pokreess.com
 pop-under.ru
@@ -780,7 +780,6 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
-pub.trads.io
 pushazam.com
 pushlaram.com
 pushmeup.art
@@ -944,7 +943,6 @@ uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
-vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
@@ -1046,6 +1044,6 @@ ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 spkoevngk.com
-stats.ultraffic.info
 sync2ad.com
+tracker.toolpg.com
 visitor.pixplug.in
