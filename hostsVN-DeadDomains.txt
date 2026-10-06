@@ -8,6 +8,7 @@ nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
 sjc.ads0.nexage.com
+tangerine.nexage.com
 www.nexage.com
 assets.deployads.com
 c.deployads.com
@@ -190,6 +191,7 @@ ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -229,6 +231,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -293,6 +296,7 @@ vena.native-ad.net
 analytics.saas-vn.network
 congnb.analytics.saas-vn.network
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -309,6 +313,7 @@ ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
+ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -354,6 +359,7 @@ ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
+adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
@@ -389,6 +395,7 @@ awjojjrimaf.in
 axisuptown.com
 ayrtpmwuymzbbq.com
 azoaltou.com
+azrwwodreta.com
 azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
@@ -465,6 +472,7 @@ creamssicsite.com
 cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
+curioushingefast.com
 cutescale.online
 d3j8pfor58pj90.cloudfront.net
 d3jqverr.pro
@@ -583,6 +591,7 @@ ieyipznx.art
 ih.charvetseedful.shop
 ihhqwaurke.com
 ileeckut.com
+im.bailbezetta.cfd
 immizdgmacjvi.space
 imprese.cz
 industries78.net
@@ -603,7 +612,6 @@ jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jdxkcews.com
-jf71qh5v14.com
 jgqpddekjd.com
 jhukfaosdjfa.com
 jijswitreaqv.in
@@ -735,6 +743,7 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -937,16 +946,19 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
+vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 verninchange.com
 viiadr.com
+vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -1012,6 +1024,7 @@ yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
