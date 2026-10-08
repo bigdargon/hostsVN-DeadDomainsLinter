@@ -47,16 +47,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -73,6 +63,7 @@ aj2412.online
 aj2430.online
 aj2498.online
 aj2503.online
+ajxx91.online
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -81,10 +72,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 aab.adxxx.com
 adxxx.com
 b.adxxx.com
@@ -119,12 +106,6 @@ hadsimz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-a.optimizesrv.com
-ads.optimizesrv.com
-optimizesrv.com
-origin-ads.optimizesrv.com
-static.optimizesrv.com
-syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -135,9 +116,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -177,7 +155,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -231,6 +208,7 @@ sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
 ad-track.adiiix.com
+ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -244,8 +222,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -325,9 +301,7 @@ images.kabbmedia.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -362,7 +336,6 @@ ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
-ax.mpcdn.top
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
@@ -409,7 +382,6 @@ ads.cdn2-img.net
 ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
-ads.starzd.com
 ads.vnd89.com
 adsfac.us
 adtoqbuejunef.com
@@ -459,7 +431,6 @@ barapolaran.shop
 basepush.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 belia-glp.com
 benzeinlune.com
 beplusleor.com
@@ -491,7 +462,6 @@ bttupamp.com
 burkhahemoid.com
 butalksuw9dj10.com
 bytefrom2010.com
-c.srvpcn.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
@@ -500,8 +470,8 @@ cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
+ceksevairs.com
 centalkochab.com
 cgqcuskbtcusxl.com
 chaipoksore.com
@@ -515,6 +485,7 @@ claroly75.com
 clckysudks.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
@@ -555,7 +526,6 @@ dpuplet.net
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
-dvmbarfzhhuyq.com
 dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
@@ -588,6 +558,7 @@ floralrichardapprentice.com
 fnzocmpkp.com
 forflygonom.com
 forspearowor.com
+fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
@@ -724,6 +695,7 @@ messagenovice.com
 messenger-notify.digital
 mfmalergyol.com
 mgyccfrshz.com
+mixedreading.com
 mizckufx.com
 mkkvprwskq.com
 mobzeg.com
@@ -742,6 +714,7 @@ mybettermb.com
 myesutdnuyddu.com
 mz.elapsehorsier.cyou
 mz.proxysmjameson.cfd
+mzyvyjsq.com
 nagoverpayreimburse.com
 nationalgausewatrust.com
 native-track.com
@@ -937,7 +910,6 @@ solutions2000.com
 son-in-lawmorbid.com
 sortable.com
 sotchoum.com
-soumehoo.net
 specially4u.net
 sprayearthy.com
 spurioussteam.com
@@ -961,7 +933,6 @@ syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 tcugibodvow.in
@@ -1014,9 +985,7 @@ vcqclbetewdnq.website
 vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
-viamariller.com
 viiadr.com
-vionito.com
 vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
@@ -1048,12 +1017,12 @@ wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
-wounofoarausooy.net
 wr.amigojimbang.com
 wrothenitent.cyou
 wucdrynukof.in
 www.admarket.network
 www.gamee.forum
+www.pcmclk.com
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
@@ -1114,11 +1083,8 @@ lem-computers.net
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
-sdk.conscent.in
 sentry.monplayer.org
 spkoevngk.com
-stathat.com
 sync2ad.com
-track.unidata.ai
 tracker.toolpg.com
 visitor.pixplug.in
