@@ -10,10 +10,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -47,6 +43,13 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+crunchyroll.bannertrack.net
+ox-d.bannertrack.net
+serve.bannertrack.net
+torrentz.bannertrack.net
+yahoo.bannertrack.net
+yasni.bannertrack.net
+zoover.bannertrack.net
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -116,8 +119,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-c.zetadeo.com
-p.zetadeo.com
 zetadeo.com
 ei.imstks.com
 i.imstks.com
@@ -163,7 +164,6 @@ stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
-static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
@@ -219,6 +219,10 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -313,12 +317,15 @@ congnb.analytics.saas-vn.network
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
+www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -364,6 +371,7 @@ abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
+ad.xmmnsl.com
 adaptationreconsider.com
 adgardener.com
 adincube.com
@@ -379,6 +387,7 @@ aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
 affcpatrk.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -456,6 +465,7 @@ caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
 can-get-so.me
+cb.snoozyhayride.com
 cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
@@ -477,6 +487,7 @@ clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
+cnawrtrimk.com
 colonserve.com
 connection1safety.com
 conopidlanai.qpon
@@ -515,7 +526,6 @@ dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
-dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
@@ -548,6 +558,7 @@ fnzocmpkp.com
 forflygonom.com
 forspearowor.com
 fovcy1jg.pro
+foxtlytvs.com
 fqboclyjc.com
 frightenedpotato.com
 fruhujma.in
@@ -826,7 +837,6 @@ qpizuvmta.com
 qquhzi4f3.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
-qs251.com
 qsocxhfdopwj.com
 quicksandear.com
 qwertize.com
