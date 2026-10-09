@@ -21,7 +21,6 @@ www.deployads.com
 api.zcoup.com
 image.zcoup.com
 logger.zcoup.com
-v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
@@ -43,13 +42,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-crunchyroll.bannertrack.net
-ox-d.bannertrack.net
-serve.bannertrack.net
-torrentz.bannertrack.net
-yahoo.bannertrack.net
-yasni.bannertrack.net
-zoover.bannertrack.net
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -119,7 +111,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-zetadeo.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -164,6 +155,7 @@ stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
 cdnativepush.com
+static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
@@ -188,8 +180,6 @@ int.akisinn.me
 tok.akisinn.me
 int.vlancaa.site
 tok.vlancaa.site
-int.vlancaa.fun
-tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -219,10 +209,6 @@ trk.vidible.tv
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -526,6 +512,7 @@ dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
+dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
@@ -595,7 +582,6 @@ gtuzanksz.com
 gv.habitanchowses.cyou
 gxzkljfo.com
 gylxwpwabgp.com
-hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
@@ -626,7 +612,6 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -974,7 +959,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1051,7 +1035,6 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yqtwaijdussajr.com
 yrhnw7h63.com
-yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
