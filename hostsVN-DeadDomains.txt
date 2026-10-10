@@ -43,6 +43,13 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+crunchyroll.adclixx.net
+ox-d.adclixx.net
+serve.adclixx.net
+torrentz.adclixx.net
+yahoo.adclixx.net
+yasni.adclixx.net
+zoover.adclixx.net
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -178,6 +185,7 @@ b91vip.com
 image.b91vip.com
 www.b91vip.com
 int.akisinn.me
+tok.akisinn.me
 int.vlancaa.site
 tok.vlancaa.site
 ak.hetaruvg.com
@@ -237,6 +245,7 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -269,8 +278,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -309,8 +316,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -355,7 +360,6 @@ abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
-ad.xmmnsl.com
 adaptationreconsider.com
 adgardener.com
 adincube.com
@@ -470,6 +474,7 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -644,7 +649,9 @@ knkkpmtdesg.com
 korgiejoinyou.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+kvkaa.com
 kx.upturnsidoist.cyou
+kypwvjoni.com
 lactolwant.com
 ldjsypolwypxy.space
 lduohrmhrme.com
@@ -705,6 +712,7 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -764,7 +772,6 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
-petasusawber.com
 phfzhmcuazx.com
 phoossax.net
 phortaub.com
@@ -912,6 +919,7 @@ sympathydistinguish.com
 synapse22.net
 syndetstermine.com
 syochgrqwze.com
+sysmeasuring.net
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
@@ -1054,6 +1062,7 @@ zuieggzsdlo.com
 zumdivdwug.com
 zunsoach.com
 zwecnsakdbr.com
+zxgkuhqwwtcvc.website
 zyuwjxerthht.com
 bjdxhs.com
 counter.pixplug.in
