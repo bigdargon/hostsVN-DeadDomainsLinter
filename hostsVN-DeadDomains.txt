@@ -23,12 +23,12 @@ v.zcoup.com
 zcoup.com
 api.adthor.com
 image.adthor.com
+logger.adthor.com
 static.adthor.com
 v.adthor.com
 crunchyroll.adtrackers.net
 ox-d.adtrackers.net
 serve.adtrackers.net
-torrentz.adtrackers.net
 yahoo.adtrackers.net
 yasni.adtrackers.net
 zoover.adtrackers.net
@@ -47,6 +47,16 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -103,6 +113,9 @@ fadskiz.com
 gadskis.com
 madsecz.com
 hadsimz.com
+advinci.net
+count.advinci.net
+www.advinci.net
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -232,6 +245,7 @@ ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv787.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -294,6 +308,7 @@ vena.native-ad.net
 analytics.saas-vn.network
 congnb.analytics.saas-vn.network
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -362,7 +377,6 @@ aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
 affcpatrk.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -371,6 +385,7 @@ ahkapsalz.com
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
+airdropcassino.cfd
 ak.offstaryutor.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
@@ -512,6 +527,7 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
+enterprises550.net
 epomapps.com
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
@@ -620,6 +636,7 @@ jpwrashuzfstxc.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
+jvntctypey.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
@@ -727,6 +744,7 @@ ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
+ommentsere.biz
 onemboaran.com
 oofmhbmqdn.com
 optimal730.com
@@ -788,6 +806,7 @@ ptauxofi.net
 ptawehex.net
 ptipsixo.com
 pttuzodqkbgv.com
+pub.trads.io
 pushazam.com
 pushlaram.com
 pushmeup.art
@@ -870,10 +889,10 @@ smeartoassessment.com
 smptdrf.link
 smptrffc.click
 smptrffc.fyi
-smptrffc.link
 smptrffc.xyz
 snuff-brownsprintcountry.com
 snugglethesheep.com
+soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
@@ -923,7 +942,6 @@ tkexutqf.in
 toeapesob.com
 toglooman.com
 tomorroweducated.com
-toqdizbfp.com
 toroexoclk.com
 tpnads.com
 tqgyzwquwu.com
@@ -946,6 +964,7 @@ unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
+unugilpcyxoep.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
