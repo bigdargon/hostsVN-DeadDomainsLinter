@@ -8,6 +8,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -34,13 +38,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-crunchyroll.adclixx.net
-ox-d.adclixx.net
-serve.adclixx.net
-torrentz.adclixx.net
-yahoo.adclixx.net
-yasni.adclixx.net
-zoover.adclixx.net
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -267,8 +264,10 @@ track.atdnetwork.com
 www.atdnetwork.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -318,7 +317,6 @@ u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
-z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
@@ -369,7 +367,6 @@ ampmhcbehnapwt.com
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -591,9 +588,9 @@ institutehopelessbeck.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
-ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -662,6 +659,7 @@ mgyccfrshz.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
+mobzeg.com
 mocean.mobi
 moonoafy.net
 mountaindriftevolutiontechnologies.net
@@ -710,6 +708,7 @@ od.stimefloccus.shop
 odnvkuocmow.in
 ofdajwabl.in
 offclaydolon.com
+ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
@@ -743,6 +742,7 @@ pcmclk.com
 pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
+pelagicmismate.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
@@ -876,6 +876,7 @@ sotchoum.com
 soumehoo.net
 specially4u.net
 sprayearthy.com
+spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
@@ -949,7 +950,6 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 viiadr.com
-vncnu.com
 vnumlkbuujd.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
@@ -979,6 +979,7 @@ witvfaojpzi.in
 wiwqhootrf.com
 wmllfxjjnjq.com
 wonderhsjnsd.com
+workervanewalk.com
 wounofoarausooy.net
 wr.amigojimbang.com
 wrothenitent.cyou
@@ -1005,7 +1006,6 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -1040,6 +1040,7 @@ zyuwjxerthht.com
 bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
+fathomseo.com
 guihua-china.com
 lem-computers.net
 ping.kitidi.com
