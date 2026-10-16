@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -31,7 +33,6 @@ yasni.adnetasia.com
 zoover.adnetasia.com
 all.dspmulti.com
 dspmulti.com
-aj1090.online
 aj1408.online
 aj1549.online
 aj1754.online
@@ -151,7 +152,6 @@ api.truepush.com
 app.truepush.com
 bid.truepush.com
 cdn.truepush.com
-cdni.truepush.com
 img.truepush.com
 s.truepush.com
 sdk.truepush.com
@@ -174,8 +174,11 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-ad-track.adiiix.com
-ads.adiiix.com
+appcloud.ironbeast.io
+lb.ironbeast.io
+sdk.ironbeast.io
+secure.ironbeast.io
+supersonic.ironbeast.io
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -206,6 +209,7 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -257,7 +261,6 @@ static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
@@ -274,7 +277,6 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.saas-vn.network
-congnb.analytics.saas-vn.network
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -355,7 +357,6 @@ airdropcassino.cfd
 ak.offstaryutor.com
 alia-iso.com
 am.diecasepachas.cyou
-am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
 antananarbdivu.com
@@ -376,15 +377,16 @@ ausoafab.net
 awjojjrimaf.in
 axisuptown.com
 ayrtpmwuymzbbq.com
+azoaltou.com
 azrwwodreta.com
 azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
-banners.dine.com
 barapolaran.shop
 basepush.com
+beabsolom.com
 beachinfinitegag.com
 belia-glp.com
 benzeinlune.com
@@ -510,6 +512,7 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
+floralrichardapprentice.com
 fnzocmpkp.com
 forflygonom.com
 forspearowor.com
@@ -582,6 +585,7 @@ inspirationstarednope.com
 intendedeasiestlost.com
 intorterraon.com
 ionigravida.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -616,10 +620,12 @@ knkkpmtdesg.com
 korgiejoinyou.com
 ksvjmvrjjo.com
 kuqfudazkn.com
+kvkaa.com
 kx.upturnsidoist.cyou
 kypwvjoni.com
 lactolwant.com
 ldjsypolwypxy.space
+lduohrmhrme.com
 leafy-feel.com
 leglikedescantwonder.com
 lfeorrzkua.com
@@ -636,9 +642,7 @@ mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
 malluktig.in
-manpowerspiritualunrented.com
 marasgumpus.com
-martyrcontrol.com
 materialplayground.com
 mattockpackall.com
 meaese.click
@@ -862,6 +866,7 @@ soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
+son-in-lawmorbid.com
 sortable.com
 sotchoum.com
 soumehoo.net
@@ -1033,6 +1038,7 @@ d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
 lem-computers.net
+masasaudi.com
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
