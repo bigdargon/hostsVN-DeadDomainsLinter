@@ -30,11 +30,11 @@ yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 all.dspmulti.com
+dspmulti.com
 aj1090.online
 aj1408.online
 aj1549.online
 aj1754.online
-aj1855.online
 aj1863.online
 aj2142.online
 aj2274.online
@@ -44,7 +44,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
@@ -217,7 +216,6 @@ ads.livetv687.me
 ads.livetv697.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -239,7 +237,6 @@ click.eu.ankdoier.com
 tracking.eu.ankdoier.com
 cvt.finallygotthexds.site
 finallygotthexds.site
-i.finallygotthexds.site
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -260,6 +257,7 @@ matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
 cdn.myad.vn
+dmp.myad.vn
 www.myad.vn
 customers.fptad.com
 img.customers.fptad.com
@@ -272,7 +270,6 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.saas-vn.network
-congnb.analytics.saas-vn.network
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -330,6 +327,7 @@ acsshufxnu.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
+ads.epltalk.com
 ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
@@ -337,6 +335,7 @@ adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -508,7 +507,6 @@ fafeyrfqyxwivk.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
 floralrichardapprentice.com
-fnzocmpkp.com
 forflygonom.com
 forspearowor.com
 fovcy1jg.pro
@@ -577,7 +575,6 @@ infinity13.com
 inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
-intorterraon.com
 ionigravida.com
 isolatedfrom82.com
 itheatmoran.com
@@ -842,7 +839,6 @@ shaughixefooz.net
 sheecmimty.net
 sheltermilligrammillions.com
 shitcustody.com
-shndrktrk.com
 singletplatformgleamenterprises.com
 sinisterbatchoddly.com
 siweieoyjl.com
@@ -1033,7 +1029,6 @@ counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-lem-computers.net
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
