@@ -29,16 +29,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -145,7 +135,6 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
-xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -263,6 +252,7 @@ adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
+static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
 matomo.hicity.vn
@@ -594,7 +584,6 @@ inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
-isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -794,6 +783,7 @@ pushlaram.com
 pushmeup.art
 pushmono.com
 pushqwer.com
+pushsar.com
 pw.oulapoat.qpon
 pyicbcxvs.com
 pyxiscablese.com
