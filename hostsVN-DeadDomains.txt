@@ -115,7 +115,6 @@ traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
-www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
@@ -135,6 +134,7 @@ push.showcasethat.com
 showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
+xml.showcasethat.com
 cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
@@ -241,7 +241,6 @@ finallygotthexds.site
 i.finallygotthexds.site
 adv.klick.vn
 demo.klick.vn
-euro.klick.vn
 klick.vn
 qc.klick.vn
 text1.klick.vn
@@ -277,7 +276,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
@@ -480,7 +478,6 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
-dpuplet.net
 dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
@@ -700,6 +697,7 @@ oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
+obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
@@ -785,7 +783,6 @@ pushmono.com
 pushqwer.com
 pushsar.com
 pw.oulapoat.qpon
-pyicbcxvs.com
 pyxiscablese.com
 pzaovfjaja.in
 pzpvweoxjm.com
@@ -996,7 +993,6 @@ www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
 xmafrihkua.in
-xnhhzlkr.com
 xnocffar.com
 xo.gippedtutelo.cyou
 xp.retinichawks.cyou
