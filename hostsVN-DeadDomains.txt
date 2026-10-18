@@ -72,7 +72,6 @@ localapi.trazk.com
 trazk.com
 n.popclck.org
 st-n.popclck.org
-aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
@@ -165,7 +164,6 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
-app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -570,6 +568,7 @@ get-here-click.xyz
 ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
+giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
@@ -631,7 +630,6 @@ jerboasjourney.com
 jf71qh5v14.com
 jgqpddekjd.com
 jhukfaosdjfa.com
-jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
