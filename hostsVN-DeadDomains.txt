@@ -43,13 +43,6 @@ torrentz.bannertrack.net
 yahoo.bannertrack.net
 yasni.bannertrack.net
 zoover.bannertrack.net
-crunchyroll.adclixx.net
-ox-d.adclixx.net
-serve.adclixx.net
-torrentz.adclixx.net
-yahoo.adclixx.net
-yasni.adclixx.net
-zoover.adclixx.net
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -72,6 +65,7 @@ localapi.trazk.com
 trazk.com
 n.popclck.org
 st-n.popclck.org
+aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
@@ -91,7 +85,6 @@ iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
-ru.adxxx.com
 scan.adxxx.com
 self-service.adxxx.com
 self-service-adm.adxxx.com
@@ -164,6 +157,7 @@ bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
+app.truepush.com
 bid.truepush.com
 cdn.truepush.com
 cdni.truepush.com
@@ -194,6 +188,8 @@ lb.ironbeast.io
 sdk.ironbeast.io
 secure.ironbeast.io
 supersonic.ironbeast.io
+ad-track.adiiix.com
+ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -220,8 +216,10 @@ static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
-pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -239,6 +237,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
+ads.livetv787.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -286,6 +285,7 @@ k8s2.testcentre.vn
 testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -303,6 +303,7 @@ vena.native-ad.net
 analytics.saas-vn.network
 congnb.analytics.saas-vn.network
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -312,6 +313,8 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
+cdn.aanetwork.vn
+imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -321,7 +324,6 @@ adv.autosurf.vn
 adx.hoanggia.net.vn
 sbbanner.com
 trenddigital.vn
-ttus.tructiepbongda.me
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
@@ -373,13 +375,13 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
-agqoshfujku.com
 ah.eyesnamda.cfd
 ahkapsalz.com
 ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.bymetapodchan.com
 ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
@@ -442,6 +444,7 @@ bpipihwhumif.com
 bqrjotqnqh.com
 brazenwholly.com
 breathelicense.com
+bredmykixnaj.com
 brightcriticism.com
 bt.teparytympan.qpon
 btbeacdhrdt.com
@@ -460,6 +463,7 @@ cben1.net
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
+cdrvrs.com
 ceksevairs.com
 centalkochab.com
 cgqcuskbtcusxl.com
@@ -480,7 +484,6 @@ cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 connection1safety.com
-conopidlanai.qpon
 corypha.veluredcorveenikko.cfd
 crabbychin.com
 creamssicsite.com
@@ -630,6 +633,7 @@ jerboasjourney.com
 jf71qh5v14.com
 jgqpddekjd.com
 jhukfaosdjfa.com
+jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
 jpcrtqakzrlqy.space
@@ -665,6 +669,7 @@ lfalfehuq.com
 lfeorrzkua.com
 lfezjmxldv.com
 lfvvhemghapw.com
+lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
@@ -689,6 +694,7 @@ messagenovice.com
 messenger-notify.digital
 mfmalergyol.com
 mgyccfrshz.com
+miserablenobody.com
 mixedreading.com
 mizckufx.com
 mkkvprwskq.com
@@ -696,6 +702,7 @@ mobzeg.com
 mocean.mobi
 moonoafy.net
 mountaindriftevolutiontechnologies.net
+mrycibqutoz.com
 ms.butylicrinsing.qpon
 mtakpfquym.com
 muermoabject.shop
@@ -704,6 +711,7 @@ murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
+mwekuzaj.com
 mybettermb.com
 myesutdnuyddu.com
 mz.elapsehorsier.cyou
@@ -777,6 +785,7 @@ pcmclk.com
 pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
+pelagicmismate.com
 peppaping.xyz
 perfoliateratchetspecial.com
 petasusawber.com
@@ -828,6 +837,7 @@ pyxiscablese.com
 pzaovfjaja.in
 pzpvweoxjm.com
 qa.shboshbok.com
+qahntenkyf.com
 qayuwjcpfxusg.website
 qcinouznrsvnqa.com
 qiptamcupl.com
@@ -998,6 +1008,7 @@ vsgpxqdqk.com
 vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
+vwahacrubri.com
 vz.winkletimburse.cfd
 w.1igzn4xcl7fne6b.cfd
 waisheph.com
@@ -1048,7 +1059,6 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
