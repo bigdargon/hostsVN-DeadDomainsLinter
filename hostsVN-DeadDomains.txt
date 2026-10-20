@@ -29,12 +29,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-crunchyroll.bannertrack.net
-serve.bannertrack.net
-torrentz.bannertrack.net
-yahoo.bannertrack.net
-yasni.bannertrack.net
-zoover.bannertrack.net
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -56,7 +50,6 @@ f.trazk.com
 localapi.trazk.com
 trazk.com
 n.popclck.org
-st-n.popclck.org
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -95,6 +88,9 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
+m.optvx.com
+main.optvx.com
+s.optvx.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -113,6 +109,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -132,6 +132,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+admobclick.com
 pixel.admobclick.com
 www.admobclick.com
 click.showcasethat.com
@@ -163,12 +164,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
-tok.akisinn.me
-int.vlancaa.site
-tok.vlancaa.site
-int.vlancaa.fun
-tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -210,9 +205,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -226,6 +218,7 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv687.me
 ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
@@ -276,6 +269,7 @@ images.kabbmedia.com
 kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -351,6 +345,7 @@ abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
 adgardener.com
+adincube.com
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
@@ -393,6 +388,7 @@ arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
 aslau-cre.info
+asslfeqadv.com
 astraon255.net
 atdxamakqo.in
 ausoafab.net
@@ -420,7 +416,6 @@ bfwzpynoz.com
 bhjkpnfsgejvo.com
 biggedchocard.com
 blackbrake.com
-blast4traffic.com
 blueswordksh.com
 bmycupptafr.com
 boilhumoristpacifist.com
@@ -451,6 +446,7 @@ cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
+cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -493,6 +489,7 @@ datatoreplicas.com
 db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
+deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
@@ -518,6 +515,7 @@ eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
 efficientdescent.com
+effusedprankle.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
@@ -548,6 +546,7 @@ fqboclyjc.com
 frightenedpotato.com
 fruhujma.in
 frykyuoqcto.com
+fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
 futcceabr.com
@@ -605,12 +604,12 @@ ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
-infamousfine.com
 infinity13.com
 inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -632,11 +631,11 @@ jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
 jufbcunisak.com
-jvntctypey.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
+kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -665,6 +664,7 @@ literalcorpulent.com
 littlecutecats.com
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
+lpuodgmca.com
 lu.hymenicshi.qpon
 lvesfrucnt.com
 made2you.com
@@ -677,6 +677,7 @@ marasgumpus.com
 martyrcontrol.com
 materialplayground.com
 mattockpackall.com
+mawptuaz.com
 meaese.click
 meandiminutionhit.com
 medusaecaptan.com
@@ -737,6 +738,7 @@ obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
+odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
 ofhappinyer.com
@@ -749,22 +751,27 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
+othabqmag.com
 otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
 oxen.hillcountrytexas.com
+ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
 panclndhgcpktf.com
@@ -805,7 +812,6 @@ profitableexactly.com
 propu.sh
 ps.bogymentracery.cyou
 psaltauw.net
-psoroumukr.com
 ptakeemsaifegro.net
 ptauxofi.net
 ptawehex.net
@@ -842,6 +848,7 @@ quicksandear.com
 qwertize.com
 qzeavzrfaoqn.com
 qzhwkhkpnpjxq.com
+radxabsah.com
 railwayrainstorm.com
 randxogc.com
 rankingchart.de
@@ -858,6 +865,7 @@ renderstreamshuttleanalytics.net
 resalag.com
 reticencevaliddecoction.com
 revstats.com
+rhiowzaht.com
 rizkigkmoa.in
 rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
@@ -1070,6 +1078,7 @@ zikroarg.com
 zipazvzu.com
 zireemilsoude.net
 zjdpabwmeb.com
+zkyrzoqc.com
 zogfwunf.com
 ztumuvofzbfe.com
 zucoagorsout.com
