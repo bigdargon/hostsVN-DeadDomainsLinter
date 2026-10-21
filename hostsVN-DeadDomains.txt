@@ -1,4 +1,5 @@
-www.megapopads.com
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -9,6 +10,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -134,6 +139,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -181,7 +187,6 @@ ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -218,6 +223,7 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
+ads.livetv689.me
 ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
@@ -225,6 +231,7 @@ ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
 ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -245,6 +252,7 @@ ss29.litvp.com
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
+mntzrlt.net
 cvt.finallygotthexds.site
 finallygotthexds.site
 i.finallygotthexds.site
@@ -257,6 +265,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -292,8 +302,11 @@ analytics.jeoway.com
 app2.jeoway.net
 jeoway.com
 platform.jeoway.com
+www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -305,11 +318,15 @@ ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
+api.boclinkads.com
+api2.boclinkads.com
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
+log.smoney.vn
+thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -366,6 +383,7 @@ airdropcassino.cfd
 ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
+alwxamfivx.com
 am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
@@ -397,6 +415,7 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
+banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -462,9 +481,11 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
+connection1safety.com
 conopidlanai.qpon
 corypha.veluredcorveenikko.cfd
 crabbychin.com
@@ -527,6 +548,7 @@ ezdkixzdkr.com
 facebookad.for88vn.com
 fadzudvracat.com
 fafeyrfqyxwivk.com
+faqlikbid.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
 floralrichardapprentice.com
@@ -542,6 +564,7 @@ frykyuoqcto.com
 fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
+futcceabr.com
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
@@ -709,6 +732,7 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
@@ -726,6 +750,7 @@ o3sxhw5ad.com
 oabaubsutha.com
 oamoameevee.net
 obdshyohcog.com
+oblolrvce.in
 obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
@@ -752,7 +777,6 @@ oranegfodnd.com
 orb92.com
 orbor700.com
 orlotalers.com
-orqmimfug.in
 orylhull.com
 orywrjsf.com
 osknimkihvr.com
@@ -781,6 +805,7 @@ phortaub.com
 phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
+pietexture.com
 playsdonkey.com
 pnhoppacwh.com
 po.zuhgg4cxt6noffj8.rest
@@ -795,7 +820,6 @@ potsaglu.net
 pq8ithtdw.com
 prayexplodesyndrome.com
 prinksoncotic.com
-pro-ads.club
 proceduresto3.net
 producerplot.com
 profitableexactly.com
@@ -809,6 +833,7 @@ ptawehex.net
 ptipsixo.com
 ptoushoa.com
 pttuzodqkbgv.com
+ptuzrywmega.com
 pu3.biz
 pushazam.com
 pushlaram.com
@@ -839,6 +864,7 @@ quicksandear.com
 qwertize.com
 qzeavzrfaoqn.com
 qzhwkhkpnpjxq.com
+qzyztuwulo.com
 radxabsah.com
 railwayrainstorm.com
 randxogc.com
@@ -977,6 +1003,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
