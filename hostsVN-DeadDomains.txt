@@ -27,6 +27,9 @@ zcoup.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
+serve.adnetasia.com
+torrentz.adnetasia.com
+yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
 all.dspmulti.com
@@ -49,8 +52,6 @@ c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
-n.popclck.org
-st-n.popclck.org
 a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
@@ -151,12 +152,12 @@ showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
+cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
 bid.adservercheck.net
 www.adservercheck.net
-xml.adservercheck.net
 api.truepush.com
 app.truepush.com
 bid.truepush.com
@@ -198,6 +199,7 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+us.clickcdn.co
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -225,7 +227,6 @@ ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
-ads.livetv787.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -394,6 +395,7 @@ arrtakhihfze.in
 arswabluchan.com
 ashoupsu.com
 asslfeqadv.com
+astraon255.net
 atdxamakqo.in
 ausoafab.net
 avhkihpfabt.com
@@ -454,6 +456,7 @@ cb.snoozyhayride.com
 cben1.net
 cd-ads.com
 cdn.adimo.co
+cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
 cdrvrs.com
 ceksevairs.com
@@ -483,6 +486,7 @@ creamssicsite.com
 cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
+culmedpasses.cam
 curioushingefast.com
 cutescale.online
 d3jqverr.pro
@@ -491,6 +495,7 @@ dalymix.com
 dalysh.com
 dalysv.com
 datatoreplicas.com
+db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
 deckdistant.com
@@ -548,6 +553,7 @@ forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
 fqboclyjc.com
+free.srcdn.xyz
 frightenedpotato.com
 fruhujma.in
 frykyuoqcto.com
@@ -568,6 +574,8 @@ gi.bagwashhabeas.qpon
 giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
+gkemujoccwin.com
+gketcakpeh.com
 glersakr.com
 glimtors.net
 gloaphoo.net
@@ -723,6 +731,7 @@ nessainy.net
 new-twinks.com
 newt1.adultworld.com
 nicksstevmark.com
+nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
 novel-inevitable.com
@@ -845,7 +854,6 @@ qiptamcupl.com
 qmyoclrszpanh.website
 qnbeenbgsx.com
 qnenxwwxzav.com
-qnfonjdhdpx.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
@@ -854,6 +862,7 @@ quicksandear.com
 qwertize.com
 qzeavzrfaoqn.com
 qzhwkhkpnpjxq.com
+qzyztuwulo.com
 radxabsah.com
 railwayrainstorm.com
 randxogc.com
