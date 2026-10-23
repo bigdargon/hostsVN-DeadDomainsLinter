@@ -59,9 +59,7 @@ aos.gop1.co
 g.gop1.co
 geo.gop1.co
 gop1.co
-img.gop1.co
 in1.gop1.co
-log.gop1.co
 offer.gop1.co
 aab.adxxx.com
 adxxx.com
@@ -101,7 +99,6 @@ go.mobytrks.com
 api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
-monika.pvmax.net
 pvmax.net
 www.pvmax.net
 lalaping.com
@@ -142,10 +139,6 @@ trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
 bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -214,7 +207,6 @@ ads-trk.vidible.tv
 trk.vidible.tv
 delivery.taroads.com
 taroads.com
-fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
@@ -296,9 +288,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -374,7 +363,6 @@ adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-aff2.childish2x2.fun
 affcpatrk.com
 affiliates.devilfishpartners.com
 afrjhanwosa.com
@@ -499,7 +487,6 @@ creamssicsite.com
 cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
-culmedpasses.cam
 curioushingefast.com
 cutescale.online
 d3jqverr.pro
@@ -633,7 +620,6 @@ inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
 isolatedfrom82.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -727,6 +713,7 @@ murkymouse.online
 musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
+mwekuzaj.com
 mybettermb.com
 myesutdnuyddu.com
 mz.elapsehorsier.cyou
@@ -856,8 +843,8 @@ pyxiscablese.com
 pzaovfjaja.in
 pzpvweoxjm.com
 qa.shboshbok.com
-qahntenkyf.com
 qayuwjcpfxusg.website
+qcinouznrsvnqa.com
 qiptamcupl.com
 qmyoclrszpanh.website
 qnbeenbgsx.com
@@ -897,7 +884,6 @@ rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
-rosysolvingscallion.com
 roumaniangravelnot.com
 rounddescribe.com
 rowvmqqqk.com
@@ -930,7 +916,6 @@ sj.coemptsruesome.shop
 skullhalfway.com
 sl.maundysinon.cyou
 slidbecauseemerald.com
-slipheirphysician.com
 smeartoassessment.com
 smptdrf.link
 smptrffc.click
@@ -1129,7 +1114,6 @@ fathomseo.com
 guihua-china.com
 pymx5.com
 referer.pixplug.in
-sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
