@@ -1,4 +1,4 @@
-blueserving.com
+sender.megapopads.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -32,6 +32,23 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+crunchyroll.bannertrack.net
+ox-d.bannertrack.net
+serve.bannertrack.net
+torrentz.bannertrack.net
+yahoo.bannertrack.net
+yasni.bannertrack.net
+zoover.bannertrack.net
+api.sociaplus.com
+hit.api.sociaplus.com
+image.sociaplus.com
+img.sociaplus.com
+panel.sociaplus.com
+sociaplus.com
+static.api.sociaplus.com
+tikivn.api.sociaplus.com
+zaloramy.api.sociaplus.com
+zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -69,6 +86,7 @@ b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
+es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
@@ -120,6 +138,8 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+c.netund.com
+netund.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -197,6 +217,7 @@ ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
+jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -213,6 +234,7 @@ fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
+jadspro.live
 static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
@@ -236,6 +258,7 @@ ads.livetv676.me
 ads.livetv697.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv785.me
 ads.livetv790.me
 aj2556.bid
@@ -381,12 +404,12 @@ ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
 alwxamfivx.com
+am.diecasepachas.cyou
 am.teindpumpage.cfd
 amare.agency
 ampmhcbehnapwt.com
 ancotvpaxoz.com
 anlxwagwa.in
-antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
 api.unthem.com
@@ -550,7 +573,6 @@ forflygonom.com
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
-free.srcdn.xyz
 frightenedpotato.com
 fruhujma.in
 frykyuoqcto.com
@@ -649,6 +671,7 @@ kamwaflmoacd.com
 kdm8.com
 ke.minterhazes.com
 kiynew.com
+kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
@@ -731,7 +754,6 @@ nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
 novel-inevitable.com
-novemberseatsuccession.com
 nsfwinkuhzeo.com
 nuclearads.com
 nucopzqt.in
@@ -811,11 +833,11 @@ popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
+praght.tech
 prayexplodesyndrome.com
 prinksoncotic.com
 pro-ads.club
 proceduresto3.net
-producerplot.com
 profitableexactly.com
 propu.sh
 ps.bogymentracery.cyou
@@ -977,6 +999,7 @@ tomorroweducated.com
 toqdizbfp.com
 toroexoclk.com
 torroclk.com
+tospointor.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
@@ -1070,6 +1093,7 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
+yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
