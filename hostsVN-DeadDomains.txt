@@ -36,16 +36,6 @@ torrentz.bannertrack.net
 yahoo.bannertrack.net
 yasni.bannertrack.net
 zoover.bannertrack.net
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
 beacon.statful.com
 all.dspmulti.com
 dspmulti.com
@@ -61,6 +51,7 @@ aj2393.online
 aj2412.online
 aj2430.online
 aj2498.online
+aj2503.online
 ajxx91.online
 c.trazk.com
 f.trazk.com
@@ -195,7 +186,6 @@ int.vlancaa.site
 tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
-asgdfasad.mm-cgnews.com
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -427,7 +417,6 @@ axisuptown.com
 ayrtpmwuymzbbq.com
 azoaltou.com
 azrwwodreta.com
-azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
@@ -588,7 +577,6 @@ get-here-click.xyz
 ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
-giggedguddle.com
 gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
@@ -634,13 +622,11 @@ immizdgmacjvi.space
 industries78.net
 infamousfine.com
 infinity13.com
-inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
 itheatmoran.com
 itletroec.com
-ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -718,8 +704,8 @@ mgyccfrshz.com
 miserablenobody.com
 mixedreading.com
 mizckufx.com
+mkkvprwskq.com
 mobzeg.com
-moonoafy.net
 mountaindriftevolutiontechnologies.net
 ms.butylicrinsing.qpon
 mtakpfquym.com
@@ -765,6 +751,8 @@ oblolrvce.in
 obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
+odnvkuocmow.in
+odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
 ofhappinyer.com
@@ -892,7 +880,6 @@ remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 reticencevaliddecoction.com
-revstats.com
 rhiowzaht.com
 rizkigkmoa.in
 rkopcipugj.in
@@ -964,7 +951,6 @@ surfmusik-adserver.de
 swan-swan-goose.com
 swmswjvdpc.com
 swuojrovqf.com
-sympathydistinguish.com
 synapse22.net
 syndetstermine.com
 syochgrqwze.com
@@ -1125,7 +1111,6 @@ counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-pymx5.com
 referer.pixplug.in
 sentry.monplayer.org
 smart-dmp.com
