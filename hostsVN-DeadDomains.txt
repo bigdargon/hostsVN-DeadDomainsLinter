@@ -58,9 +58,7 @@ localapi.trazk.com
 trazk.com
 n.popclck.org
 st-n.popclck.org
-brand.ad
 a.brand.ad
-www.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -108,7 +106,6 @@ api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
 monika.pvmax.net
-pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
@@ -123,10 +120,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -140,7 +133,6 @@ www.winadx.com
 ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
-www.adsterra.org
 front-logs.voodoo-ads.io
 voodoo-ads.io
 trackers.voodoo-analytics.io
@@ -238,6 +230,7 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
 ads.livetv785.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -252,6 +245,8 @@ aj3017.bid
 cdn77.ssindserving.com
 ssindserving.com
 litvp.com
+ss15.litvp.com
+ss29.litvp.com
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -267,6 +262,7 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediazcorp.com
 www.mediazcorp.com
 adserver.atdnetwork.com
 atdnetwork.com
@@ -304,8 +300,6 @@ fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
 wataads.com
-cdn.aanetwork.vn
-imgs2.aanetwork.vn
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
@@ -533,7 +527,6 @@ erezzydxykqwk.space
 erpqkcfvsjjyap.com
 espionagegardenerthicket.com
 estat.com
-evzhzppj5kel.com
 ewhareey.com
 expensivelikeness.com
 exploreannihilationquicker.com
@@ -692,7 +685,6 @@ meandiminutionhit.com
 medusaecaptan.com
 messagenovice.com
 messenger-notify.digital
-metaresolver.com
 mfmalergyol.com
 mgyccfrshz.com
 miserablenobody.com
@@ -738,6 +730,7 @@ nuzoqxlu.in
 nv.shunnerencinal.shop
 nwfnsitaes.com
 ny.damasseakamai.com
+nycvqozkkmzti.com
 o3sxhw5ad.com
 oabaubsutha.com
 oamoameevee.net
@@ -957,7 +950,6 @@ terra8nb.com
 tevitpcfav.com
 thaudray.com
 theekedgleamed.com
-theeptoah.com
 thripelbertie.website
 tilqwekuszfa.com
 timohtazxazej.website
@@ -1012,7 +1004,6 @@ vz.winkletimburse.cfd
 w.1igzn4xcl7fne6b.cfd
 waisheph.com
 walkingtutor.com
-waufooke.com
 waymarkgentiin.com
 wd.macherabemaim.shop
 wdlyhnddxm.com
@@ -1058,7 +1049,6 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
