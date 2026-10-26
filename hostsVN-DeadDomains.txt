@@ -97,7 +97,6 @@ cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
-iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
@@ -122,13 +121,6 @@ gadskis.com
 madsecz.com
 mobytrks.com
 go.mobytrks.com
-faktorid-fid.choice.faktor.io
-faktornet.faktor.io
-geo.choice.faktor.io
-intranet.faktor.io
-logos.choice.faktor.io
-m.faktor.io
-mobile.faktor.io
 api.pvmax.net
 cdn.pvmax.net
 kuasa.pvmax.net
@@ -216,11 +208,6 @@ ak.hetaint.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-appcloud.ironbeast.io
-lb.ironbeast.io
-sdk.ironbeast.io
-secure.ironbeast.io
-supersonic.ironbeast.io
 ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
@@ -264,9 +251,7 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
 ads.livetv785.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -796,7 +781,6 @@ ommentsere.biz
 onemboaran.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
@@ -1005,7 +989,6 @@ torroclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.acqvoluum.com
 track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
@@ -1031,6 +1014,7 @@ uvopoefe.com
 uz.louchefunnel.shop
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
+vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
@@ -1104,7 +1088,6 @@ yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
-yzamhsczcvjoc.com
 yzybyozmuhh.com
 zamabholqonh.in
 zazmunokpvzi.com
@@ -1138,6 +1121,5 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
 visitor.pixplug.in
