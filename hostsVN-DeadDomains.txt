@@ -49,7 +49,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -161,6 +160,8 @@ voodoo-analytics.io
 www.voodoo-analytics.io
 cdn.anymad.com
 cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -484,7 +485,6 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
-cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 connection1safety.com
@@ -721,7 +721,6 @@ musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mwekuzaj.com
-mybettermb.com
 myesutdnuyddu.com
 mz.elapsehorsier.cyou
 mz.proxysmjameson.cfd
@@ -755,7 +754,6 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 obnoljac.com
-oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
 odqdkealzr.com
@@ -765,7 +763,6 @@ ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
-ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
@@ -785,7 +782,6 @@ osknimkihvr.com
 othabqmag.com
 otqmunvibzp.in
 outoctillerytor.com
-ovmhwiccikr.com
 owbltnxzgxq.com
 ozmahtadn.com
 ozqoztrkoaj.com
@@ -815,6 +811,7 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
+popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
@@ -893,11 +890,9 @@ rowvmqqqk.com
 rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
-rtbidder.net
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
-ruwjkygaxo.com
 rvjoiedxxq.com
 ryxbowubroqka.online
 sanoslkut.in
@@ -930,11 +925,11 @@ soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
-son-in-lawmorbid.com
 sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
+sprayearthy.com
 spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
@@ -1107,7 +1102,6 @@ guihua-china.com
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
-sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
