@@ -8,10 +8,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -97,6 +93,7 @@ cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
+iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
@@ -169,7 +166,6 @@ www.admobclick.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
-showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -223,7 +219,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -278,13 +273,10 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
-qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-mediazcorp.com
-www.mediazcorp.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -581,7 +573,6 @@ g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
-get-here-click.xyz
 ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
@@ -601,7 +592,6 @@ go1.for3e.com
 gocxnnxiy.com
 goodnesstamper.com
 gq.binesyorker.com
-gtuzanksz.com
 gv.habitanchowses.cyou
 gxzkljfo.com
 gylxwpwabgp.com
@@ -699,7 +689,6 @@ made2you.com
 mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
-malluktig.in
 manpowerspiritualunrented.com
 marasgumpus.com
 martyrcontrol.com
@@ -940,7 +929,6 @@ soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
 son-in-lawmorbid.com
-sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -989,7 +977,6 @@ torroclk.com
 tpnads.com
 tqgyzwquwu.com
 tqvnfnotrhyfl.site
-track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -1061,7 +1048,6 @@ www.pcmclk.com
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
-www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
@@ -1088,6 +1074,7 @@ yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
+yzamhsczcvjoc.com
 yzybyozmuhh.com
 zamabholqonh.in
 zazmunokpvzi.com
