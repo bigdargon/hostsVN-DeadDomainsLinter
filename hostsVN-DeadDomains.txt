@@ -27,13 +27,6 @@ image.adthor.com
 logger.adthor.com
 static.adthor.com
 v.adthor.com
-crunchyroll.adtrackers.net
-ox-d.adtrackers.net
-serve.adtrackers.net
-torrentz.adtrackers.net
-yahoo.adtrackers.net
-yasni.adtrackers.net
-zoover.adtrackers.net
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -168,8 +161,6 @@ voodoo-analytics.io
 www.voodoo-analytics.io
 cdn.anymad.com
 cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -290,6 +281,7 @@ wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 adserver.atdnetwork.com
+atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -382,7 +374,6 @@ adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -529,6 +520,7 @@ dotyruntchan.com
 dowerlesssightseehow.com
 dpuplet.net
 dryhachug.in
+dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
@@ -823,7 +815,6 @@ pokreess.com
 pop-under.ru
 popjoynorit.cfd
 popunder.ru
-popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
@@ -944,7 +935,6 @@ sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
-sprayearthy.com
 spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
@@ -1121,7 +1111,6 @@ sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
-stats.searchftps.net
 sync2ad.com
 tracker.toolpg.com
 visitor.pixplug.in
