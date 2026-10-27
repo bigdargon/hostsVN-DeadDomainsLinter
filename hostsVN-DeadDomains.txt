@@ -1,3 +1,4 @@
+blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -55,6 +56,7 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -137,6 +139,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -166,6 +176,7 @@ www.admobclick.com
 click.showcasethat.com
 images.showcasethat.com
 push.showcasethat.com
+showcasethat.com
 stats.showcasethat.com
 www.showcasethat.com
 xml.showcasethat.com
@@ -201,9 +212,6 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
@@ -244,9 +252,12 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
+ads.livetv687.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
+ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -273,12 +284,12 @@ adv.klick.vn
 demo.klick.vn
 euro.klick.vn
 klick.vn
+qc.klick.vn
 text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
 adserver.atdnetwork.com
-atdnetwork.com
 delivery.atdnetwork.com
 platform.atdnetwork.com
 static01.atdnetwork.com
@@ -320,13 +331,11 @@ ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
-qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-analytics.zatomac.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -344,6 +353,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 2508june2024.com
@@ -397,7 +407,6 @@ anlxwagwa.in
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -420,7 +429,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
-banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -521,7 +529,6 @@ dotyruntchan.com
 dowerlesssightseehow.com
 dpuplet.net
 dryhachug.in
-dulrihaungy.com
 dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
@@ -573,6 +580,7 @@ g0push.com
 ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
+get-here-click.xyz
 ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
@@ -592,6 +600,7 @@ go1.for3e.com
 gocxnnxiy.com
 goodnesstamper.com
 gq.binesyorker.com
+gtuzanksz.com
 gv.habitanchowses.cyou
 gxzkljfo.com
 gylxwpwabgp.com
@@ -626,6 +635,7 @@ inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -689,6 +699,7 @@ made2you.com
 mafrarc3e9h.com
 magetrigla.com
 makafdsugxco.com
+malluktig.in
 manpowerspiritualunrented.com
 marasgumpus.com
 martyrcontrol.com
@@ -929,6 +940,7 @@ soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
 son-in-lawmorbid.com
+sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -995,6 +1007,7 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1048,6 +1061,7 @@ www.pcmclk.com
 www.phoossax.net
 www.pro-ads.club
 www.propu.sh
+www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
@@ -1107,6 +1121,7 @@ sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
+stats.searchftps.net
 sync2ad.com
 tracker.toolpg.com
 visitor.pixplug.in
