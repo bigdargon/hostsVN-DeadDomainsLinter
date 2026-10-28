@@ -64,13 +64,8 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 aab.adxxx.com
 adxxx.com
-b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
@@ -130,7 +125,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -177,8 +171,6 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-hetahien.com
-ak.hetahien.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -344,7 +336,6 @@ admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
-ads.kitidi.com
 ads.rpgdot.com
 ads.vnd89.com
 adsfac.us
@@ -419,7 +410,6 @@ bondleapedoasis.com
 boobausauhipsa.net
 boustahe.com
 bouzechoby.net
-boyaidare.club
 bpaqzithab.com
 bpipihwhumif.com
 bqrjotqnqh.com
@@ -444,7 +434,6 @@ cben1.net
 cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 cdrvrs.com
 ceksevairs.com
@@ -460,6 +449,7 @@ claroly75.com
 clckysudks.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
 cnawrtrimk.com
@@ -646,6 +636,7 @@ kuqfudazkn.com
 kvkaa.com
 kx.upturnsidoist.cyou
 kypwvjoni.com
+kzuocxorfo.com
 lactolwant.com
 ldjsypolwypxy.space
 lduohrmhrme.com
@@ -713,7 +704,6 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
-nicksstevmark.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -760,6 +750,7 @@ orlotalers.com
 orqmimfug.in
 orylhull.com
 orywrjsf.com
+osknimkihvr.com
 othabqmag.com
 otqmunvibzp.in
 outoctillerytor.com
@@ -786,7 +777,6 @@ phumagrose.com
 physicalblueberry.com
 pi.bogtrotdowning.shop
 pietexture.com
-planetactive.com
 playsdonkey.com
 pnhoppacwh.com
 po.zuhgg4cxt6noffj8.rest
@@ -936,7 +926,6 @@ syochgrqwze.com
 system-notify.app
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 tcugibodvow.in
@@ -1056,7 +1045,6 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
 yzamhsczcvjoc.com
@@ -1085,11 +1073,9 @@ counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-ping.kitidi.com
 pymx5.com
 referer.pixplug.in
 sdk.conscent.in
-sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
