@@ -1,4 +1,3 @@
-blueserving.com
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -88,7 +87,6 @@ de.adxxx.com
 endpoint.adxxx.com
 es.adxxx.com
 iframe.adxxx.com
-iframe2.adxxx.com
 n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
@@ -144,7 +142,6 @@ rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
 tracking.winadx.com
-traffic-serv.winadx.com
 tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
@@ -245,7 +242,6 @@ ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
 ads.livetv687.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
@@ -485,6 +481,7 @@ clenchedyouthmatching.com
 clickcompare.co.uk
 clicksmint.site
 clodderpickmaw.com
+cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
 connection1safety.com
@@ -721,6 +718,7 @@ musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mwekuzaj.com
+mybettermb.com
 myesutdnuyddu.com
 mz.elapsehorsier.cyou
 mz.proxysmjameson.cfd
@@ -754,6 +752,7 @@ oamoameevee.net
 obdshyohcog.com
 oblolrvce.in
 obnoljac.com
+oclasrv.com
 od.stimefloccus.shop
 odnvkuocmow.in
 odqdkealzr.com
@@ -763,6 +762,7 @@ ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
+ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
@@ -782,6 +782,7 @@ osknimkihvr.com
 othabqmag.com
 otqmunvibzp.in
 outoctillerytor.com
+ovmhwiccikr.com
 owbltnxzgxq.com
 ozmahtadn.com
 ozqoztrkoaj.com
@@ -893,6 +894,7 @@ rsxekbcl.com
 ru.pintidmalmy.cyou
 rumadel.com
 rupmnmephml.com
+ruwjkygaxo.com
 rvjoiedxxq.com
 ryxbowubroqka.online
 sanoslkut.in
@@ -1081,7 +1083,6 @@ zd.navigcutler.cyou
 zenkreka.com
 zhoyyibwywgev.one
 zikroarg.com
-zipazvzu.com
 zireemilsoude.net
 zjdpabwmeb.com
 zkyrzoqc.com
@@ -1102,6 +1103,7 @@ guihua-china.com
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
+sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
