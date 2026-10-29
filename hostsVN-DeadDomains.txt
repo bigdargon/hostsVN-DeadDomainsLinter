@@ -9,6 +9,7 @@ sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 assets.deployads.com
+c.deployads.com
 deployads.com
 e.deployads.com
 frame.deployads.com
@@ -93,6 +94,19 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
+ads.adservme.com
+dsp.adservme.com
+filter.adservme.com
+rtb.adservme.com
+rtb-apac.adservme.com
+rtb-eu.adservme.com
+rtb-g.adservme.com
+rtb-uswest.adservme.com
+ssp.adservme.com
+static.adservme.com
+uswest.rtb.adservme.com
+xml.adservme.com
+xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -121,7 +135,6 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
-ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -170,7 +183,6 @@ hetaint.com
 ak.hetaint.com
 media.evolv.ai
 participants.evolv.ai
-jg.wensixuetang.com
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -207,7 +219,6 @@ ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -258,6 +269,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -271,6 +285,8 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
+api.affmates.com
+storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -289,6 +305,7 @@ trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
+log.smoney.vn
 thongke.opencps.vn
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -321,6 +338,7 @@ abpziztci.in
 abruptroad.com
 abvfupqkyaj.in
 acsshufxnu.com
+aczopdxfy.com
 adgardener.com
 admarket.network
 ads.cdn2-img.net
@@ -368,6 +386,7 @@ atdxamakqo.in
 ausoafab.net
 avhkihpfabt.com
 awjojjrimaf.in
+awqmgvpbarmhyw.com
 axisuptown.com
 ayrtpmwuymzbbq.com
 azoaltou.com
@@ -420,7 +439,6 @@ cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
-cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -438,6 +456,7 @@ claroly75.com
 clckysudks.com
 clenchedyouthmatching.com
 clickcompare.co.uk
+clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
 cmdpeufwwou.com
@@ -451,7 +470,6 @@ cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 curioushingefast.com
-cutescale.online
 d3jqverr.pro
 dalyio.com
 dalymix.com
@@ -487,6 +505,7 @@ eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
+effectscouncilman.com
 efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
@@ -533,7 +552,6 @@ ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
 giggedguddle.com
-gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
@@ -587,6 +605,7 @@ isolatedfrom82.com
 itgiblean.com
 itheatmoran.com
 itletroec.com
+ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -650,6 +669,7 @@ magetrigla.com
 makafdsugxco.com
 malluktig.in
 manpowerspiritualunrented.com
+maobtqwrqrzxm.com
 marasgumpus.com
 martyrcontrol.com
 materialplayground.com
@@ -717,6 +737,7 @@ odnvkuocmow.in
 odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
+offoonguser.com
 ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
@@ -865,7 +886,6 @@ sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
-shaughixefooz.net
 sheecmimty.net
 sheltermilligrammillions.com
 shndrktrk.com
@@ -897,6 +917,7 @@ spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
+steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
@@ -943,11 +964,11 @@ tutgcinarlak.com
 txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
+uaiysnrylsuyx.website
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
-unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
