@@ -53,7 +53,6 @@ ajxx91.online
 c.trazk.com
 f.trazk.com
 localapi.trazk.com
-trazk.com
 n.popclck.org
 st-n.popclck.org
 aos.gop1.co
@@ -94,19 +93,6 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
-ads.adservme.com
-dsp.adservme.com
-filter.adservme.com
-rtb.adservme.com
-rtb-apac.adservme.com
-rtb-eu.adservme.com
-rtb-g.adservme.com
-rtb-uswest.adservme.com
-ssp.adservme.com
-static.adservme.com
-uswest.rtb.adservme.com
-xml.adservme.com
-xml-g.adservme.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -135,6 +121,7 @@ tvc-vpaid.winadx.com
 vpaid.winadx.com
 winadx.com
 www.winadx.com
+ytvpaid.winadx.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -285,8 +272,6 @@ analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
-api.affmates.com
-storage.affmates.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
 fly-ads.net
@@ -439,6 +424,7 @@ cameesse.net
 can-get-so.me
 cb.snoozyhayride.com
 cben1.net
+cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
 cdn.uponelectabuzzor.club
@@ -454,7 +440,6 @@ cidtunppinhi.in
 ciksolre.net
 claroly75.com
 clckysudks.com
-clenchedyouthmatching.com
 clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
@@ -470,6 +455,7 @@ cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 curioushingefast.com
+cutescale.online
 d3jqverr.pro
 dalyio.com
 dalymix.com
@@ -493,7 +479,6 @@ dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
 dozubatan.com
-dpuplet.net
 dryhachug.in
 dulrihaungy.com
 dummieseardrum.com
@@ -552,6 +537,7 @@ ggz48pxys.com
 ghudhopaxoks.in
 gi.bagwashhabeas.qpon
 giggedguddle.com
+gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
@@ -886,6 +872,7 @@ sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
+shaughixefooz.net
 sheecmimty.net
 sheltermilligrammillions.com
 shndrktrk.com
@@ -969,6 +956,7 @@ uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
 ugtflnqn.com
+unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
