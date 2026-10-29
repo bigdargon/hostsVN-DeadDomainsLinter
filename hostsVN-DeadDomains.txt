@@ -9,7 +9,6 @@ sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
 assets.deployads.com
-c.deployads.com
 deployads.com
 e.deployads.com
 frame.deployads.com
@@ -66,6 +65,7 @@ log.gop1.co
 offer.gop1.co
 aab.adxxx.com
 adxxx.com
+b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
@@ -103,9 +103,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -195,9 +192,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -236,7 +230,6 @@ tracking.eu.ankdoier.com
 cvt.finallygotthexds.site
 finallygotthexds.site
 i.finallygotthexds.site
-pomxd.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -246,8 +239,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -315,7 +306,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
-1slms.com
 2021group.com
 2443march2024.com
 2508june2024.com
@@ -342,7 +332,6 @@ adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
-aff2.childish2x2.fun
 affcpatrk.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -498,7 +487,6 @@ eb.koaeunhairy.shop
 ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
-effectscouncilman.com
 efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
@@ -909,13 +897,11 @@ spurioussteam.com
 spzzsykjwgplod.com
 squeegetirret.cyou
 stay.decentralappps.com
-steerensout.net
 stelinnhy.in
 stootsou.net
 strivesidewalk.com
 su.sulingvicaire.cyou
 sumbreta.com
-supapush.net
 surfmusik-adserver.de
 swan-swan-goose.com
 swmswjvdpc.com
@@ -957,7 +943,6 @@ tutgcinarlak.com
 txjqlpch.com
 tydcybxaxtvpw.site
 u1pmt.com
-uaiysnrylsuyx.website
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
@@ -967,7 +952,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1045,6 +1029,7 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
 yzamhsczcvjoc.com
@@ -1076,6 +1061,7 @@ guihua-china.com
 pymx5.com
 referer.pixplug.in
 sdk.conscent.in
+sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
