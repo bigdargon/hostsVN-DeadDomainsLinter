@@ -3,6 +3,7 @@ sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
+hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
@@ -43,6 +44,7 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
+all.dspmulti.com
 dspmulti.com
 aj1090.online
 aj1408.online
@@ -78,7 +80,6 @@ b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
-es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
@@ -194,9 +195,6 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-admix.in
-geoip5m1y07.admix.in
-ssp.admix.in
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
@@ -214,7 +212,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-hummingbird.mavencoalition.io
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
@@ -244,7 +241,6 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -260,6 +256,8 @@ aj3007.bid
 aj3017.bid
 cdn77.ssindserving.com
 ssindserving.com
+ss15.litvp.com
+ss29.litvp.com
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -275,8 +273,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -368,7 +364,6 @@ ads.vnd89.com
 adsfac.us
 adtoqbuejunef.com
 adw9.com
-aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -533,6 +528,7 @@ ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
+efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
@@ -627,14 +623,12 @@ infinity13.com
 inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
-ionigravida.com
 isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
-jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jdxkcews.com
@@ -658,7 +652,6 @@ kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
 kdm8.com
-ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
 kmfwrqdp.com
@@ -1046,7 +1039,6 @@ whoursie.com
 wijwunrcoo.com
 witvfaojpzi.in
 wiwqhootrf.com
-wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
 wounofoarausooy.net
@@ -1112,8 +1104,8 @@ bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
+guihua-china.com
 ping.kitidi.com
-pymx5.com
 referer.pixplug.in
 sentry.monplayer.org
 smart-dmp.com
@@ -1122,4 +1114,3 @@ stats.ultraffic.info
 sync2ad.com
 track.hydro.online
 tracker.toolpg.com
-visitor.pixplug.in
