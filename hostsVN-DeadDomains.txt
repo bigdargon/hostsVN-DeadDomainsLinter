@@ -8,12 +8,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ylx-a-img.advertica-cdn.com
-ylx-aff.advertica-cdn.com
-aff-a.advertica-cdn.com
-af-web.advertica-cdn.com
-aw.advertica-cdn.com
-web.advertica-cdn.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -40,7 +34,6 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -71,6 +64,7 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+aab.adxxx.com
 adxxx.com
 b.adxxx.com
 cn.adxxx.com
@@ -215,7 +209,6 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv637.me
 ads.livetv640.me
-ads.livetv655.me
 ads.livetv658.me
 ads.livetv664.me
 ads.livetv671.me
@@ -280,7 +273,6 @@ vena.native-ad.net
 analytics.saas-vn.network
 congnb.analytics.saas-vn.network
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -480,7 +472,6 @@ db.peshitomohr.qpon
 dbancamd.com
 dbxexsnxxzwwo.com
 deckdistant.com
-denetsuk.com
 depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
 deviatestartblock.com
@@ -543,6 +534,7 @@ futcceabr.com
 fvmfdzpwbm.com
 fxclix.com
 g0push.com
+ga.looserokaying.shop
 gemmykaraoke.com
 geoqvcybdtn.com
 get-here-click.xyz
@@ -588,7 +580,6 @@ hyoswaxrtfvq.com
 ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
-ih.charvetseedful.shop
 ihhqwaurke.com
 ileeckut.com
 im.bailbezetta.cfd
@@ -632,6 +623,7 @@ kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
+kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
@@ -743,6 +735,7 @@ okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
+onemboaran.com
 oofmhbmqdn.com
 optimal730.com
 opzazcvitci.com
@@ -752,6 +745,7 @@ orbor700.com
 orlotalers.com
 orqmimfug.in
 orylhull.com
+orywrjsf.com
 osknimkihvr.com
 othabqmag.com
 otqmunvibzp.in
