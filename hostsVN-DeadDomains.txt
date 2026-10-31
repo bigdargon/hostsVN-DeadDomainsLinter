@@ -3,7 +3,6 @@ sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
-hb.nexage.com
 nexage.com
 pinger.ads.nexage.com
 reports.nexage.com
@@ -44,7 +43,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-all.dspmulti.com
 dspmulti.com
 aj1090.online
 aj1408.online
@@ -224,6 +222,7 @@ g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
 click-v4.jadspro.live
 jadspro.live
+static.jadspro.live
 www.jadspro.live
 cryptox-ads.io
 mat.cryptox-ads.io
@@ -243,7 +242,6 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv785.me
@@ -262,8 +260,6 @@ aj3007.bid
 aj3017.bid
 cdn77.ssindserving.com
 ssindserving.com
-ss15.litvp.com
-ss29.litvp.com
 ankdoier.com
 click.eu.ankdoier.com
 tracking.eu.ankdoier.com
@@ -537,7 +533,6 @@ ec.ballyaxche.cfd
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
-efficientdescent.com
 eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
@@ -773,6 +768,7 @@ ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
+ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 omciecoa37tw4.com
@@ -795,7 +791,6 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-oxen.hillcountrytexas.com
 ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -963,6 +958,7 @@ swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
+syochgrqwze.com
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
 t.lumupu.xyz
@@ -1116,7 +1112,6 @@ bjdxhs.com
 counter.pixplug.in
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
-guihua-china.com
 ping.kitidi.com
 pymx5.com
 referer.pixplug.in
