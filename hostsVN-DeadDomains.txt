@@ -36,6 +36,14 @@ torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
+bannertrack.net
+crunchyroll.bannertrack.net
+ox-d.bannertrack.net
+serve.bannertrack.net
+torrentz.bannertrack.net
+yahoo.bannertrack.net
+yasni.bannertrack.net
+zoover.bannertrack.net
 adclixx.net
 crunchyroll.adclixx.net
 ox-d.adclixx.net
@@ -44,6 +52,7 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
+static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -64,8 +73,8 @@ c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
-n.popclck.org
-st-n.popclck.org
+a.brand.ad
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -80,6 +89,7 @@ b.adxxx.com
 cn.adxxx.com
 de.adxxx.com
 endpoint.adxxx.com
+es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
 n.adxxx.com
@@ -139,7 +149,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -167,7 +176,6 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
-bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -198,8 +206,6 @@ ak.hetaint.com
 analytics.truffle.bid
 cdn.truffle.bid
 matching.truffle.bid
-ad-track.adiiix.com
-ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 ad.samsungadhub.com
@@ -212,8 +218,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -241,6 +245,7 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -280,8 +285,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -363,7 +366,7 @@ ads.rpgdot.com
 ads.vnd89.com
 adsfac.us
 adtoqbuejunef.com
-adw9.com
+aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
 affiliates.devilfishpartners.com
@@ -389,7 +392,6 @@ anlxwagwa.in
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -451,7 +453,7 @@ bttupamp.com
 burkhahemoid.com
 butalksuw9dj10.com
 bytefrom2010.com
-bzyfzusiqohk.com
+c.srvpcn.com
 caemajnt.com
 cagamvnuqhuh.com
 cameesse.net
@@ -480,6 +482,7 @@ clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -623,12 +626,14 @@ infinity13.com
 inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
+ionigravida.com
 isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
+jailorscoman.cfd
 jaixajhu.com
 jappkummodah.in
 jdxkcews.com
@@ -651,7 +656,7 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
+ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
 kmfwrqdp.com
@@ -733,6 +738,7 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -997,7 +1003,6 @@ unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
 urrfkabrkhxjat.com
-uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1008,9 +1013,10 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
-viamariller.com
 viiadr.com
+vionito.com
 vmmpxl.com
+vncnu.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
@@ -1039,6 +1045,7 @@ whoursie.com
 wijwunrcoo.com
 witvfaojpzi.in
 wiwqhootrf.com
+wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
 wounofoarausooy.net
@@ -1055,6 +1062,7 @@ www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
+xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
@@ -1106,11 +1114,12 @@ d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
 ping.kitidi.com
+pymx5.com
 referer.pixplug.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
-stats.ultraffic.info
 sync2ad.com
 track.hydro.online
 tracker.toolpg.com
+visitor.pixplug.in
