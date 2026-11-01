@@ -129,7 +129,6 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
-ei.imstks.com
 i.imstks.com
 imstks.com
 t.imstks.com
@@ -176,6 +175,7 @@ cdnativepush.com
 static.cdnativepush.com
 www.cdnativepush.com
 adservercheck.net
+bid.adservercheck.net
 www.adservercheck.net
 xml.adservercheck.net
 api.truepush.com
@@ -193,8 +193,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
-tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -229,9 +227,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -247,7 +242,6 @@ ads.livetv705.me
 ads.livetv708.me
 ads.livetv787.me
 ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -338,7 +332,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
-104processors.net
 1fkx796mw.com
 2021group.com
 2443march2024.com
@@ -380,7 +373,6 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ak.offstaryutor.com
-alia-iso.com
 allaqxoh.com
 alwxamfivx.com
 am.diecasepachas.cyou
@@ -453,6 +445,7 @@ bttupamp.com
 burkhahemoid.com
 butalksuw9dj10.com
 bytefrom2010.com
+bzyfzusiqohk.com
 c.srvpcn.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -463,7 +456,6 @@ cben1.net
 cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 cdrvrs.com
 ceksevairs.com
@@ -518,7 +510,6 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
-dozubatan.com
 dryhachug.in
 dulrihaungy.com
 dummieseardrum.com
@@ -773,7 +764,6 @@ oljqobudyusf.com
 omciecoa37tw4.com
 ommentsere.biz
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 opzazcvitci.com
@@ -796,7 +786,6 @@ palaroleg.guru
 panclndhgcpktf.com
 papaneecorche.com
 passfixx.com
-pcmclk.com
 pearlysweepoverface.com
 pebadu.com
 pekajmkimvx.com
@@ -1014,7 +1003,6 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
 viiadr.com
-vionito.com
 vmmpxl.com
 vncnu.com
 vr.ringentkenlore.com
@@ -1062,7 +1050,6 @@ www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
-xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
@@ -1120,6 +1107,5 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
-track.hydro.online
 tracker.toolpg.com
 visitor.pixplug.in
