@@ -66,6 +66,8 @@ c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
+n.popclck.org
+st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -75,6 +77,10 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
+a.ivstracker.net
+c.ivstracker.net
+ivstracker.net
+r.ivstracker.net
 aab.adxxx.com
 adxxx.com
 b.adxxx.com
@@ -206,6 +212,8 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+connect.idocdn.com
+tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -217,6 +225,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -267,6 +278,13 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+ads.kabbmedia.com
+delivery.kabbmedia.com
+images.kabbmedia.com
+kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -306,6 +324,8 @@ www.sbbanner.com
 analytics.moneycat.vn
 log.smoney.vn
 log.tapchimattran.vn
+thongke.opencps.vn
+tracker.anime47.com
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
@@ -351,10 +371,10 @@ ads.wedodemos.com
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
+adw9.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -378,6 +398,7 @@ anlxwagwa.in
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -611,6 +632,7 @@ inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
+isolatedfrom82.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -754,6 +776,7 @@ okjmiqaqjakm.in
 oljqobudyusf.com
 ommentsere.biz
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 opzazcvitci.com
@@ -770,6 +793,7 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -828,7 +852,6 @@ pushmono.com
 pushqwer.com
 pw.oulapoat.qpon
 pyicbcxvs.com
-pyxiscablese.com
 pzaovfjaja.in
 pzpvweoxjm.com
 qa.shboshbok.com
@@ -933,7 +956,6 @@ su.sulingvicaire.cyou
 sumbreta.com
 surfmusik-adserver.de
 swan-swan-goose.com
-swmswjvdpc.com
 swuojrovqf.com
 synapse22.net
 syndetstermine.com
@@ -997,6 +1019,7 @@ vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
 viiadr.com
+vionito.com
 vivvuvkra.com
 vmmpxl.com
 vncnu.com
@@ -1045,6 +1068,7 @@ www.servsave.com
 www.shndrktrk.com
 xcirtefata.in
 xgodpmdczzyza.com
+xlx1.com
 xmafrihkua.in
 xnhhzlkr.com
 xnocffar.com
