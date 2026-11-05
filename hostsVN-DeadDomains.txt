@@ -25,11 +25,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -72,12 +67,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-articles.asianmedia.com
-cpanel.asianmedia.com
-lb.asianmedia.com
-server.asianmedia.com
-share.asianmedia.com
-whm.asianmedia.com
 c.trazk.com
 f.trazk.com
 localapi.trazk.com
@@ -228,17 +217,11 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-delivery.taroads.com
-taroads.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
-o.agentanalytics.com
-p.agentanalytics.com
-t.agentanalytics.com
-u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -247,9 +230,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -261,11 +241,9 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv697.me
 ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
@@ -313,9 +291,7 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
-mautic.haproinfo.vn
 mautic.hicity.vn
-mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -426,7 +402,6 @@ anlxwagwa.in
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
-api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -434,7 +409,6 @@ apzptquixoyr.com
 arhribadjqp.com
 arrtakhihfze.in
 arswabluchan.com
-ashoupsu.com
 asslfeqadv.com
 astraon255.net
 atdxamakqo.in
@@ -464,7 +438,6 @@ bfwzpynoz.com
 bhjkpnfsgejvo.com
 biggedchocard.com
 blackbrake.com
-blast4traffic.com
 blueswordksh.com
 bmycupptafr.com
 boilhumoristpacifist.com
@@ -530,7 +503,6 @@ culbhiaxntuh.in
 culmedpasses.cam
 curioushingefast.com
 cutescale.online
-d3jqverr.pro
 dalyio.com
 dalymix.com
 dalysh.com
@@ -649,7 +621,6 @@ ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
-ihhqwaurke.com
 ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
@@ -660,8 +631,6 @@ inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
-isolatedfrom82.com
-itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -695,7 +664,6 @@ kkdeldurlxjjcz.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
-korgiejoinyou.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 kvkaa.com
@@ -776,6 +744,7 @@ nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
+nsfwinkuhzeo.com
 nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
@@ -1144,17 +1113,13 @@ zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 zyuwjxerthht.com
 bjdxhs.com
-counter.pixplug.in
 fathomseo.com
 guihua-china.com
 ping.kitidi.com
 pymx5.com
-referer.pixplug.in
-sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
 sync2ad.com
 tracker.toolpg.com
-visitor.pixplug.in
