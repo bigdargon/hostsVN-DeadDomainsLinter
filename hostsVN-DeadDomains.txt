@@ -8,6 +8,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -21,6 +25,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -45,6 +54,7 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
+beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -62,6 +72,12 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+articles.asianmedia.com
+cpanel.asianmedia.com
+lb.asianmedia.com
+server.asianmedia.com
+share.asianmedia.com
+whm.asianmedia.com
 c.trazk.com
 f.trazk.com
 localapi.trazk.com
@@ -77,10 +93,6 @@ img.gop1.co
 in1.gop1.co
 log.gop1.co
 offer.gop1.co
-a.ivstracker.net
-c.ivstracker.net
-ivstracker.net
-r.ivstracker.net
 aab.adxxx.com
 adxxx.com
 b.adxxx.com
@@ -135,6 +147,10 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+appier.xyz
+aixq-ps-sdk.appier.xyz
+aixq-streamlit.appier.xyz
+cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -212,11 +228,17 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+delivery.taroads.com
+taroads.com
 connect.idocdn.com
 tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
+o.agentanalytics.com
+p.agentanalytics.com
+t.agentanalytics.com
+u.agentanalytics.com
 click-v4.jadspro.live
 jadspro.live
 static.jadspro.live
@@ -239,10 +261,13 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
+ads.livetv697.me
+ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
+ads.livetv787.me
 ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -262,6 +287,8 @@ tracking.eu.ankdoier.com
 cvt.finallygotthexds.site
 finallygotthexds.site
 i.finallygotthexds.site
+novaonads.com
+www.novaonads.com
 adv.klick.vn
 demo.klick.vn
 euro.klick.vn
@@ -286,7 +313,9 @@ k8s2.testcentre.vn
 testcentre.vn
 adx.vn
 matomo.hicity.vn
+mautic.haproinfo.vn
 mautic.hicity.vn
+mautic.serverhub.vn
 adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
@@ -306,6 +335,8 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -370,7 +401,6 @@ ads.wedodemos.com
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
-adw9.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
@@ -383,7 +413,6 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
-ak.atclauncheran.com
 ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
@@ -457,6 +486,7 @@ btguqecoelukltw.com
 bttupamp.com
 burkhahemoid.com
 butalksuw9dj10.com
+bytefrom2010.com
 bzyfzusiqohk.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -531,6 +561,7 @@ dxtnqglxrio.com
 e5asyhilodice.com
 eb.koaeunhairy.shop
 ec.ballyaxche.cfd
+eclickz.com
 eelfpsgnicy.com
 efdldoqzzm.com
 effectscouncilman.com
@@ -630,6 +661,7 @@ inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
 isolatedfrom82.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 iy.agynarysyun.cyou
@@ -744,7 +776,6 @@ nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
 novemberseatsuccession.com
-nsfwinkuhzeo.com
 nuclearads.com
 nucopzqt.in
 nuzoqxlu.in
@@ -776,6 +807,7 @@ onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
@@ -823,6 +855,7 @@ popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
+praght.tech
 prayexplodesyndrome.com
 prinksoncotic.com
 pro-ads.club
@@ -890,6 +923,7 @@ rizkigkmoa.in
 rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
+rndskittytor.com
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
@@ -1015,11 +1049,11 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
+viamariller.com
 viiadr.com
 vionito.com
 vivvuvkra.com
 vmmpxl.com
-vncnu.com
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
@@ -1077,7 +1111,6 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -1121,6 +1154,7 @@ sdk.conscent.in
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
+stats.ultraffic.info
 sync2ad.com
 tracker.toolpg.com
 visitor.pixplug.in
