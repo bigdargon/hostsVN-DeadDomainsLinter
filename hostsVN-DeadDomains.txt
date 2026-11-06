@@ -1,3 +1,5 @@
+a4.tl
+sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -115,6 +117,9 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -151,6 +156,7 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
+pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -159,6 +165,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 cdn.anymad.com
 cdn1.anymad.com
 click.anymad.com
@@ -195,15 +202,14 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
+tok.vlancaa.site
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-analytics.truffle.bid
-cdn.truffle.bid
-matching.truffle.bid
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -241,11 +247,10 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
-ads.livetv703.me
 ads.livetv705.me
 ads.livetv708.me
+ads.livetv782.me
 ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -276,6 +281,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+mediazcorp.com
+www.mediazcorp.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -296,6 +303,9 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
+customers.fptad.com
+img.customers.fptad.com
+static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -367,7 +377,6 @@ acsshufxnu.com
 aczopdxfy.com
 adgardener.com
 admarket.network
-ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
 ads.kitidi.com
@@ -389,6 +398,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ak.bymetapodchan.com
 ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
@@ -412,6 +422,7 @@ arswabluchan.com
 asslfeqadv.com
 astraon255.net
 atdxamakqo.in
+atp.io
 ausoafab.net
 avhkihpfabt.com
 awjojjrimaf.in
@@ -425,11 +436,13 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
+banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
 beabsolom.com
 beachinfinitegag.com
+bee7.com
 belia-glp.com
 benzeinlune.com
 beplusleor.com
@@ -489,6 +502,7 @@ clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -503,6 +517,8 @@ culbhiaxntuh.in
 culmedpasses.cam
 curioushingefast.com
 cutescale.online
+d3j8pfor58pj90.cloudfront.net
+d3jqverr.pro
 dalyio.com
 dalymix.com
 dalysh.com
@@ -517,6 +533,7 @@ depreciatorybollocksupkitchen.com
 detachmentoccasionedarena.com
 deviatestartblock.com
 devpeakomegainnovations.com
+diguver.com
 directpaper.name
 disrespectpreceding.com
 dithodackee.com
@@ -524,6 +541,7 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dozubatan.com
 dryhachug.in
 dulrihaungy.com
 dummieseardrum.com
@@ -633,6 +651,7 @@ intendedeasiestlost.com
 ionigravida.com
 itheatmoran.com
 itletroec.com
+ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -738,8 +757,10 @@ nativepu.sh
 nbnbewlhy.com
 nd.prosilyingles.cyou
 ndha4sding6gf.com
+neoffic.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -765,18 +786,17 @@ odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
 ofhappinyer.com
-ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
 okjmiqaqjakm.in
 oljqobudyusf.com
 ommentsere.biz
+on-mobi.com
 onemboaran.com
 onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
-opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
@@ -892,7 +912,6 @@ rizkigkmoa.in
 rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
-rndskittytor.com
 rnofuxgaz.com
 rosysolvingscallion.com
 roumaniangravelnot.com
@@ -907,6 +926,7 @@ rumadel.com
 rupmnmephml.com
 ruwjkygaxo.com
 rvjoiedxxq.com
+rwulzuaqsafn.com
 ryxbowubroqka.online
 sanoslkut.in
 satisfactorymetalrub.com
@@ -958,8 +978,6 @@ surfmusik-adserver.de
 swan-swan-goose.com
 swmswjvdpc.com
 swuojrovqf.com
-synapse22.net
-syndetstermine.com
 syochgrqwze.com
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
@@ -1113,6 +1131,7 @@ zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 zyuwjxerthht.com
 bjdxhs.com
+d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
 ping.kitidi.com
@@ -1121,5 +1140,6 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
-sync2ad.com
+track.hydro.online
+track.unidata.ai
 tracker.toolpg.com
