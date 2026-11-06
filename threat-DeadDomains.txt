@@ -523,7 +523,6 @@ dichvucong.tkgov.com
 dichvucong.vgovn.net
 dichvucong.vsgov.com
 dichvucong.xgovn.net
-dichvucong.zlgov.com
 dichvucong.zvgov.com
 dichvucongbaohiemxahoi.com
 dichvudaohantindung.com
@@ -903,7 +902,6 @@ hangairsoft.com
 hanghaiqt.com
 hanmucvn.com
 hashtechlimited.com
-hdb.tang-han-muc-tin-dung-vn.com
 hdb.vntanghanmucvisadebit.com
 hdbank.tructuyen-uudai-thekhachhang.com
 hdbankfinancc.digital
@@ -1560,10 +1558,12 @@ mpos-phieudangkyruttien.com
 mpos-ruttientindungnhanh.com
 mpos-ruttindunguytinvn.com
 mprisesth.cfd
+mpvn-checkmoney6868payment.com
 msb.com.vn-sp.top
 msb.msbbsm.com
 msb.vn-cvs.xyz
 msb.vn-iy.life
+msb.vn-jss.vip
 msbfhd.com
 msqpom.sail-away-investments.com
 muabannhanh.pro
@@ -1933,6 +1933,8 @@ platinum-ruttientindung247.com
 play.appgoogle.cc
 playgooglevn.vip
 playtogethernapthe.com
+playtogetherquabaotri.online
+playtogethershop.com
 playtogethervietnam.com
 playtogethervn-napthe.com
 policeonline.club
@@ -2024,6 +2026,7 @@ quetthe-tindungmpos247.com
 quetthe-tindungnhanh.com
 quetthe-tindungtieudung.com
 quetthe-tindungvn.com
+quetthe-tructuyenmpos.com
 quetthe-tructuyenvn.com
 quetthe247mpos.com
 quetthepos.com
@@ -2059,7 +2062,6 @@ rihcos.com
 rik11.fun
 rikmomo.co
 riobank.asia
-riotgame-khoataikhoan-vn.xyz
 rituationscardb.info
 robloxviet.vn
 rocktrustbank.com
@@ -2154,6 +2156,7 @@ senopaee.com
 seostar2.xyz
 servevietnam.com
 service.tpbxnk.com
+servsvietnam.com
 sg.unixpop.xyz
 sg1.unixpop.xyz
 sgshopee.top
@@ -2269,7 +2272,6 @@ shopee.lienkettaikhoannhanquatang.online
 shopee.luxe
 shopee.maquatang.vn
 shopee.nhanqua.online
-shopee.org.in
 shopee.quatang-sinhnhat.vn
 shopee.sootoou.com
 shopee.vn-cskh.online
@@ -2505,7 +2507,6 @@ shopquynhxinh.com
 shoprbx.com
 shopreview123.com
 shoprex.vn
-shoprgffntn.net
 shoprikaki.com
 shoprikaki.net
 shopruu.com
@@ -2531,18 +2532,14 @@ shoptindungrobux.com
 shoptinhyeuvn.com
 shoptksoigm.com
 shoptoanquoc247.com
-shoptrau.com
 shoptrumflo.vn
 shoptrumlq.com
 shoptruykich.vn
-shoptuankhaff.com
 shoptungtayto.com
 shopvanduc.com
 shopvethan.com
 shopvinhxinhtrai.com
 shopvualq.com
-shopvuhau.com
-shopwaoteam.com
 shopwe1102.com
 shopwibugaming.com
 shopxamgaming.com
@@ -3189,6 +3186,7 @@ vang11.com
 vang22.com
 vangngocnhanh.info
 vangngocrong.com
+vanmay.co
 vanmay.win
 vanmay1.net
 vanmaymm24h.com
@@ -3465,9 +3463,6 @@ vietcombank.one
 vietcombank.top
 vietcombank.vn-cn.xyz
 vietcombank.vn-dll.vip
-vietcombank.vn-jss.vip
-vietcombank.vn-llc.top
-vietcombank.vn-ms.top
 vietcombank.vn-nng.top
 vietcombank.vn-sp.xyz
 vietcombank2022.com
@@ -3485,6 +3480,7 @@ vietcoombbank.com
 vietcredit.click
 vietcredit.vip
 vietcredit1.net
+vietcredit247.com
 vietcredit9.com
 vietcredits.com
 vietel.online
@@ -3857,6 +3853,7 @@ vonsieuvtoc.com
 vonsieuxtoc.com
 vonsieuytoc.com
 vonsieuztoc.com
+vp-hanmuc.com
 vp-nanghanmuc.com
 vp-nanghanmuc.online
 vp111.vip
@@ -4028,8 +4025,6 @@ www.seleeashopee.com
 www.sgxcoin.net
 www.shbfina.com
 www.shbfinan.com
-www.shbfinanoe.com
-www.shbfinans.com
 www.shopeesmarket.com
 www.shopeesop.com
 www.thanhtrapcrt.online

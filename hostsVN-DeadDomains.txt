@@ -117,9 +117,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -130,9 +127,6 @@ pvmax.net
 www.pvmax.net
 lalaping.com
 static.lalaping.com
-media.vivaclix.com
-srv.vivaclix.com
-track.vivaclix.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -156,7 +150,6 @@ vpaid.winadx.com
 winadx.com
 www.winadx.com
 ytvpaid.winadx.com
-pgmcdn.com
 adsterra.org
 delivery.adsterra.org
 www.adsterra.org
@@ -165,11 +158,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -202,8 +190,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
-tok.vlancaa.site
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -281,8 +267,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-mediazcorp.com
-www.mediazcorp.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -290,13 +274,8 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-ads.kabbmedia.com
-delivery.kabbmedia.com
-images.kabbmedia.com
-kabbmedia.com
 k8s2.testcentre.vn
 testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -377,6 +356,7 @@ acsshufxnu.com
 aczopdxfy.com
 adgardener.com
 admarket.network
+ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
 ads.kitidi.com
@@ -442,7 +422,6 @@ basepush.com
 batomqsmoocc.com
 beabsolom.com
 beachinfinitegag.com
-bee7.com
 belia-glp.com
 benzeinlune.com
 beplusleor.com
@@ -483,7 +462,6 @@ cben1.net
 cd-ads.com
 cdn.adimo.co
 cdn.easyads28.mobi
-cdn.lumupu.xyz
 cdn.uponelectabuzzor.club
 cdrvrs.com
 ceksevairs.com
@@ -631,7 +609,6 @@ hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hurarwjrirti.com
-hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
 hyoswaxrtfvq.com
@@ -639,7 +616,6 @@ ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
-ileeckut.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
@@ -655,7 +631,6 @@ ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
-jaixajhu.com
 jappkummodah.in
 jdxkcews.com
 jerboasjourney.com
@@ -671,7 +646,6 @@ jpwrashuzfstxc.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
-jufbcunisak.com
 jvntctypey.com
 jz.thringsettos.cyou
 kaffnet.com
@@ -733,7 +707,6 @@ mizckufx.com
 mkkvprwskq.com
 mobzeg.com
 moonoafy.net
-motricity.com
 mountaindriftevolutiontechnologies.net
 ms.butylicrinsing.qpon
 mtakpfquym.com
@@ -786,6 +759,7 @@ odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
 ofhappinyer.com
+ogpriuleifns.com
 oj.amuletrisquee.cfd
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
@@ -978,10 +952,11 @@ surfmusik-adserver.de
 swan-swan-goose.com
 swmswjvdpc.com
 swuojrovqf.com
+synapse22.net
+syndetstermine.com
 syochgrqwze.com
 sz.pyrulaupstage.qpon
 t.easyads28.mobi
-t.lumupu.xyz
 taqavmaplont.com
 taughtwandamazingly.com
 tcugibodvow.in
@@ -1036,7 +1011,6 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
-viamariller.com
 viiadr.com
 vionito.com
 vivvuvkra.com
@@ -1116,7 +1090,6 @@ zazmunokpvzi.com
 zd.navigcutler.cyou
 zenkreka.com
 zhoyyibwywgev.one
-zikroarg.com
 zipazvzu.com
 zireemilsoude.net
 zjdpabwmeb.com
@@ -1140,6 +1113,5 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
-track.hydro.online
 track.unidata.ai
 tracker.toolpg.com
