@@ -58,7 +58,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -97,6 +96,7 @@ endpoint.adxxx.com
 es.adxxx.com
 iframe.adxxx.com
 iframe2.adxxx.com
+n.adxxx.com
 pl.adxxx.com
 pr.adxxx.com
 ru.adxxx.com
@@ -213,8 +213,6 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
-connect.idocdn.com
-tracker.idocdn.com
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -421,7 +419,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
-banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -655,7 +652,9 @@ jsudwyjduktw.com
 jufbcunisak.com
 jvntctypey.com
 jz.thringsettos.cyou
+kaffnet.com
 kaisauwoure.net
+kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -823,7 +822,6 @@ popuserapparatus.com
 poshhateful.com
 potsaglu.net
 pq8ithtdw.com
-praght.tech
 prayexplodesyndrome.com
 prinksoncotic.com
 pro-ads.club
@@ -1007,7 +1005,6 @@ unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
 urrfkabrkhxjat.com
-uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
