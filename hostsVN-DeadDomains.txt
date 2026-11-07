@@ -27,6 +27,13 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+crunchyroll.adtrackers.net
+ox-d.adtrackers.net
+serve.adtrackers.net
+torrentz.adtrackers.net
+yahoo.adtrackers.net
+yasni.adtrackers.net
+zoover.adtrackers.net
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -51,7 +58,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-beacon.statful.com
 static.cbsileads.com
 all.dspmulti.com
 dspmulti.com
@@ -73,8 +79,6 @@ c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
-n.popclck.org
-st-n.popclck.org
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -135,10 +139,6 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
-appier.xyz
-aixq-ps-sdk.appier.xyz
-aixq-streamlit.appier.xyz
-cdn.appier.xyz
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -190,6 +190,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.fun
+tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
 hetapus.com
@@ -199,6 +201,9 @@ ak.hetaint.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
+adserve.work
+cdn.adserve.work
+www.adserve.work
 ad.samsungadhub.com
 samsungadhub.com
 click-eu.expmediadirect1.com
@@ -361,6 +366,7 @@ ads.epltalk.com
 ads.fortunecity.com
 ads.kitidi.com
 ads.rpgdot.com
+ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
 adsfac.eu
@@ -368,7 +374,9 @@ adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 affcpatrk.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -495,7 +503,6 @@ culbhiaxntuh.in
 culmedpasses.cam
 curioushingefast.com
 cutescale.online
-d3j8pfor58pj90.cloudfront.net
 d3jqverr.pro
 dalyio.com
 dalymix.com
@@ -609,6 +616,7 @@ hj.combusteschel.shop
 hnzjxjfepbpr.com
 hqhxfrcxxky.com
 hurarwjrirti.com
+hwoqshyx.com
 hwuhkabi.in
 hxgqqxopf.com
 hyoswaxrtfvq.com
@@ -631,6 +639,7 @@ ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
+jaixajhu.com
 jappkummodah.in
 jdxkcews.com
 jerboasjourney.com
@@ -646,6 +655,7 @@ jpwrashuzfstxc.com
 jqyryzrbuqpfp.space
 jrmkpvntxat.com
 jsudwyjduktw.com
+jufbcunisak.com
 jvntctypey.com
 jz.thringsettos.cyou
 kaffnet.com
@@ -737,6 +747,7 @@ newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
+novel-inevitable.com
 novemberseatsuccession.com
 nsfwinkuhzeo.com
 nuclearads.com
@@ -768,7 +779,6 @@ oljqobudyusf.com
 ommentsere.biz
 on-mobi.com
 onemboaran.com
-onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
 opzazcvitci.com
@@ -937,6 +947,7 @@ sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
+spitefulmotor.com
 sprayearthy.com
 spurioussteam.com
 spzzsykjwgplod.com
@@ -1001,6 +1012,7 @@ unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
 urrfkabrkhxjat.com
+uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
