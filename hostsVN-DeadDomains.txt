@@ -27,13 +27,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-crunchyroll.adtrackers.net
-ox-d.adtrackers.net
-serve.adtrackers.net
-torrentz.adtrackers.net
-yahoo.adtrackers.net
-yasni.adtrackers.net
-zoover.adtrackers.net
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -78,6 +71,7 @@ c.trazk.com
 f.trazk.com
 localapi.trazk.com
 trazk.com
+a.brand.ad
 cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
@@ -197,6 +191,8 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -224,6 +220,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -235,9 +234,10 @@ ads.livetv664.me
 ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
+ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv782.me
+ads.livetv785.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -269,6 +269,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -276,8 +278,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -322,6 +322,8 @@ www.sbbanner.com
 analytics.moneycat.vn
 log.smoney.vn
 log.tapchimattran.vn
+report.mediahub.vn
+report2.mediahub.vn
 thongke.opencps.vn
 tracker.anime47.com
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -603,7 +605,6 @@ hardlycompanionelongated.com
 hccxwfunnpxngz.com
 hdatssfpxrwbxs.com
 hdlyfrxtnjpbc.site
-hentaicounter.com
 hhbwhgtciqe.com
 hixwwert.in
 hj.combusteschel.shop
@@ -627,6 +628,8 @@ inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
+isolatedfrom82.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -847,6 +850,7 @@ pushmeup.art
 pushmono.com
 pushqwer.com
 pw.oulapoat.qpon
+pwyamrbild.in
 pyicbcxvs.com
 pzaovfjaja.in
 pzpvweoxjm.com
@@ -1019,6 +1023,7 @@ viiadr.com
 vionito.com
 vivvuvkra.com
 vmmpxl.com
+vmweb.net
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
@@ -1117,5 +1122,4 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
-track.unidata.ai
 tracker.toolpg.com
