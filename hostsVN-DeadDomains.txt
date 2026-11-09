@@ -1,6 +1,4 @@
 blueserving.com
-a4.tl
-sdk.a4.tl
 admax.nexage.com
 ads.nexage.com
 bos.ads.nexage.com
@@ -11,10 +9,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -197,8 +191,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.vlancaa.site
-tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -233,9 +225,6 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -298,9 +287,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -316,8 +302,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -336,8 +320,6 @@ www.sbbanner.com
 analytics.moneycat.vn
 log.smoney.vn
 log.tapchimattran.vn
-report.mediahub.vn
-report2.mediahub.vn
 thongke.opencps.vn
 tracker.anime47.com
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
@@ -385,7 +367,6 @@ ads.wedodemos.com
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
-adw9.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
@@ -437,7 +418,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
-banners.dine.com
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -513,7 +493,6 @@ cresfpho2ntesepapillo3.com
 csyxnkhvueuh.com
 culbhiaxntuh.in
 culmedpasses.cam
-curioushingefast.com
 cutescale.online
 d3jqverr.pro
 dalyio.com
@@ -573,7 +552,6 @@ fafeyrfqyxwivk.com
 faqlikbid.com
 fbgbskzvbvzokr.com
 fibqukktuv.in
-floralrichardapprentice.com
 fnzocmpkp.com
 forflygonom.com
 forspearowor.com
@@ -927,7 +905,6 @@ ryxbowubroqka.online
 sanoslkut.in
 satisfactorymetalrub.com
 scripte-monster.de
-sensorpluck.com
 septfd2em64eber.com
 servsave.com
 sfiannzilgi.com
@@ -1023,7 +1000,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-urrfkabrkhxjat.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1102,6 +1078,7 @@ yldbt.com
 yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
+yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
@@ -1134,4 +1111,3 @@ sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
 sync2ad.com
-tracker.toolpg.com
