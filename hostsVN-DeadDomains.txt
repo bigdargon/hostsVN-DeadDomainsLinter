@@ -1,3 +1,4 @@
+blueserving.com
 a4.tl
 sdk.a4.tl
 admax.nexage.com
@@ -27,6 +28,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -132,6 +138,14 @@ i.imstks.com
 imstks.com
 t.imstks.com
 www.imstks.com
+adxoo.com
+native-vpaid.adxoo.com
+service.adxoo.com
+syndication.adxoo.com
+tracking.adxoo.com
+vast.adxoo.com
+www.adxoo.com
+ytvpaid.adxoo.com
 native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
@@ -183,6 +197,8 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
+tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -193,7 +209,6 @@ hetaint.com
 ak.hetaint.com
 media.evolv.ai
 participants.evolv.ai
-jg.wensixuetang.com
 adserve.work
 cdn.adserve.work
 www.adserve.work
@@ -234,9 +249,9 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv683.me
 ads.livetv687.me
+ads.livetv697.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv785.me
 ads.livetv788.me
 aj2556.bid
 aj2557.bid
@@ -370,6 +385,7 @@ ads.wedodemos.com
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
+adw9.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
@@ -382,6 +398,7 @@ ahlcujguphr.com
 ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
+ajratgatjav.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 alia-iso.com
@@ -420,6 +437,7 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
+banners.dine.com
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -567,6 +585,7 @@ frykyuoqcto.com
 fsavmklplmddsu.com
 fsxmidyo.com
 funoriblithe.space
+funpageexchange.com
 futcceabr.com
 fvmfdzpwbm.com
 fxclix.com
@@ -799,6 +818,7 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
+periodpennavigation.com
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
@@ -889,6 +909,7 @@ rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
 rnofuxgaz.com
 rosysolvingscallion.com
+rotabol.com
 roumaniangravelnot.com
 rounddescribe.com
 rowvmqqqk.com
@@ -1081,7 +1102,6 @@ yldbt.com
 yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
-yrocvgqilrmowj.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
@@ -1113,4 +1133,5 @@ pymx5.com
 sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
+sync2ad.com
 tracker.toolpg.com
