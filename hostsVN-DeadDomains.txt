@@ -103,9 +103,6 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
-advinci.net
-count.advinci.net
-www.advinci.net
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -189,6 +186,8 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
+ad-track.adiiix.com
+ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 adserve.work
@@ -228,11 +227,9 @@ ads.livetv673.me
 ads.livetv676.me
 ads.livetv683.me
 ads.livetv687.me
-ads.livetv697.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
-ads.livetv790.me
+ads.livetv782.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -270,6 +267,9 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -542,12 +542,15 @@ fadzudvracat.com
 fafeyrfqyxwivk.com
 faqlikbid.com
 fbgbskzvbvzokr.com
+fhyatbab.in
 fibqukktuv.in
 fnzocmpkp.com
 forflygonom.com
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
+framestighterauthorize.com
+free.srcdn.xyz
 frightenedpotato.com
 fruhujma.in
 frykyuoqcto.com
@@ -649,6 +652,7 @@ klsdee.com
 kmfwrqdp.com
 kneeansweras.com
 knkkpmtdesg.com
+konradsheriff.com
 ksvjmvrjjo.com
 kuqfudazkn.com
 kvkaa.com
@@ -672,6 +676,7 @@ lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
 lu.hymenicshi.qpon
+lufdzaqcoadm.com
 lvesfrucnt.com
 m.hue2b.com
 made2you.com
@@ -730,6 +735,7 @@ nonpareilanticipatedintention.com
 nossairt.net
 novel-inevitable.com
 novemberseatsuccession.com
+nrnanbwkwd.com
 nsfwinkuhzeo.com
 nuckinxuco.com
 nuclearads.com
@@ -751,6 +757,7 @@ odnvkuocmow.in
 odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
+offeringchewjean.com
 ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
@@ -777,6 +784,7 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -923,8 +931,8 @@ snuff-brownsprintcountry.com
 snugglethesheep.com
 soamuylg.com
 soccercadencefridge.com
+soggy-surround.com
 solutions2000.com
-sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -1097,6 +1105,7 @@ zwecnsakdbr.com
 zxgkuhqwwtcvc.website
 zyuwjxerthht.com
 bjdxhs.com
+d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
 lem-computers.net
