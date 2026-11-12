@@ -186,10 +186,9 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
-ad-track.adiiix.com
-ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
+jg.wensixuetang.com
 adserve.work
 cdn.adserve.work
 www.adserve.work
@@ -214,6 +213,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -230,6 +232,7 @@ ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -267,9 +270,6 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
-k8s2.testcentre.vn
-testcentre.vn
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -283,8 +283,6 @@ gluco.native-ad.net
 native-ad.net
 tags.native-ad.net
 vena.native-ad.net
-analytics.saas-vn.network
-congnb.analytics.saas-vn.network
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -298,7 +296,6 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
-ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
@@ -307,7 +304,6 @@ trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-log.smoney.vn
 log.tapchimattran.vn
 thongke.opencps.vn
 tracker.anime47.com
@@ -408,7 +404,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balancebreath.com
-banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -472,6 +467,7 @@ clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
+cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -497,7 +493,6 @@ dbxexsnxxzwwo.com
 deckdistant.com
 denetsuk.com
 depreciatorybollocksupkitchen.com
-detachmentoccasionedarena.com
 deviatestartblock.com
 devpeakomegainnovations.com
 diguver.com
@@ -613,7 +608,6 @@ immizdgmacjvi.space
 industries78.net
 infamousfine.com
 infinity13.com
-inpage-push.com
 inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
@@ -730,6 +724,7 @@ ndha4sding6gf.com
 neoffic.com
 nessainy.net
 new-twinks.com
+newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -933,6 +928,7 @@ soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
 solutions2000.com
+sortable.com
 sotchoum.com
 soumehoo.net
 specially4u.net
@@ -1080,7 +1076,6 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
@@ -1111,6 +1106,6 @@ guihua-china.com
 lem-computers.net
 ping.kitidi.com
 pymx5.com
-sentry.monplayer.org
 smart-dmp.com
 spkoevngk.com
+tracker.toolpg.com
