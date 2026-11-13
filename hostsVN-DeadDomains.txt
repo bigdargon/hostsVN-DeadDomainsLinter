@@ -111,6 +111,12 @@ kuasa.pvmax.net
 monika.pvmax.net
 pvmax.net
 www.pvmax.net
+16x9.myfastcdn.com
+1x1.myfastcdn.com
+3x2.myfastcdn.com
+4x3.myfastcdn.com
+d3x2.myfastcdn.com
+myfastcdn.com
 lalaping.com
 static.lalaping.com
 c.mstorer.net
@@ -186,6 +192,8 @@ hetapus.com
 ak.hetapus.com
 hetaint.com
 ak.hetaint.com
+hetahien.com
+ak.hetahien.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -232,7 +240,6 @@ ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
-ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -263,6 +270,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -289,6 +298,8 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
+ff.imacdn.com
+sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -323,6 +334,7 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 0xon2uo9s.com
 104processors.net
 1fkx796mw.com
+1slms.com
 2021group.com
 2443march2024.com
 2508june2024.com
@@ -345,6 +357,7 @@ ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
 ads.kitidi.com
+ads.nobid.com
 ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
@@ -360,6 +373,7 @@ affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
+agacelebir.com
 ah.eyesnamda.cfd
 ahkapsalz.com
 ahlcujguphr.com
@@ -367,6 +381,7 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ajratgatjav.com
+ak.bymetapodchan.com
 ak.offstaryutor.com
 alia-iso.com
 allaqxoh.com
@@ -505,6 +520,7 @@ dmdxzdhu.com
 dnemkhkbsdbl.com
 dotyruntchan.com
 dowerlesssightseehow.com
+dozubatan.com
 dryhachug.in
 dulrihaungy.com
 dummieseardrum.com
@@ -573,6 +589,7 @@ gkemujoccwin.com
 gketcakpeh.com
 glersakr.com
 glimtors.net
+glizauvo.net
 gloaphoo.net
 gloarteegnu.com
 gmhyebojlimvqbc.com
@@ -605,6 +622,7 @@ ichachoakiglop.com
 ie.purauwede.qpon
 ieyipznx.art
 ih.charvetseedful.shop
+ihhqwaurke.com
 im.bailbezetta.cfd
 immizdgmacjvi.space
 industries78.net
@@ -616,6 +634,7 @@ ionigravida.com
 isolatedfrom82.com
 itheatmoran.com
 itletroec.com
+ivdjs.com
 iy.agynarysyun.cyou
 jabobdfufaqt.in
 jailorscoman.cfd
@@ -755,6 +774,7 @@ odqdkealzr.com
 ofdajwabl.in
 offclaydolon.com
 offeringchewjean.com
+offoonguser.com
 ofhappinyer.com
 ogpriuleifns.com
 oj.amuletrisquee.cfd
@@ -765,8 +785,10 @@ oljqobudyusf.com
 ommentsere.biz
 on-mobi.com
 onemboaran.com
+onstunkyr.com
 oofmhbmqdn.com
 optimal730.com
+opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
@@ -781,7 +803,6 @@ otqmunvibzp.in
 outoctillerytor.com
 ovmhwiccikr.com
 owbltnxzgxq.com
-oxen.hillcountrytexas.com
 ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -844,6 +865,7 @@ pwyamrbild.in
 pyicbcxvs.com
 pzaovfjaja.in
 pzpvweoxjm.com
+qa-ads.nobid.com
 qa.shboshbok.com
 qahntenkyf.com
 qayuwjcpfxusg.website
@@ -853,6 +875,7 @@ qmyoclrszpanh.website
 qnbeenbgsx.com
 qnenxwwxzav.com
 qnfonjdhdpx.com
+qpbiyued.com
 qpizuvmta.com
 qqzifkmsifrzll.com
 qrafhypxswp.com
@@ -1008,6 +1031,7 @@ vd.bundthoecake.cyou
 vdkdxarnqiaedw.com
 vebo-vast.pages.dev
 vfurwydryli.com
+viamariller.com
 viiadr.com
 vivvuvkra.com
 vmmpxl.com
@@ -1109,4 +1133,5 @@ ping.kitidi.com
 pymx5.com
 smart-dmp.com
 spkoevngk.com
+stats.ultraffic.info
 tracker.toolpg.com
