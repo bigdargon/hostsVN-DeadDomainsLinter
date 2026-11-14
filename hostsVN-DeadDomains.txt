@@ -103,6 +103,9 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
+advinci.net
+count.advinci.net
+www.advinci.net
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -180,6 +183,8 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 tok.akisinn.me
+int.vlancaa.site
+tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -222,18 +227,18 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
-ads.livetv658.me
 ads.livetv664.me
 ads.livetv671.me
-ads.livetv676.me
 ads.livetv683.me
 ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
 ads.livetv782.me
+ads.livetv785.me
+ads.livetv788.me
+ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -264,8 +269,6 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 adserver.atdnetwork.com
 atdnetwork.com
 delivery.atdnetwork.com
@@ -273,6 +276,12 @@ platform.atdnetwork.com
 static01.atdnetwork.com
 track.atdnetwork.com
 www.atdnetwork.com
+ads.kabbmedia.com
+delivery.kabbmedia.com
+images.kabbmedia.com
+kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -375,6 +384,7 @@ ainouzaudre.net
 aiqowflpg.com
 airdropcassino.cfd
 ajratgatjav.com
+ak.atclauncheran.com
 ak.bymetapodchan.com
 ak.offstaryutor.com
 alia-iso.com
@@ -421,7 +431,9 @@ beabsolom.com
 beachinfinitegag.com
 belia-glp.com
 benzeinlune.com
+beplusleor.com
 bergculpae.life
+besmeargleor.com
 bfwzpynoz.com
 bhjkpnfsgejvo.com
 biggedchocard.com
@@ -441,6 +453,7 @@ brazenwholly.com
 breathelicense.com
 bredmykixnaj.com
 brightcriticism.com
+bspyoibtwrrc.com
 bt.teparytympan.qpon
 btbeacdhrdt.com
 btguqecoelukltw.com
@@ -551,6 +564,7 @@ fhyatbab.in
 fibqukktuv.in
 fnzocmpkp.com
 forflygonom.com
+forlumineoner.com
 forspearowor.com
 fovcy1jg.pro
 foxtlytvs.com
@@ -624,6 +638,7 @@ inspirationstarednope.com
 intendedeasiestlost.com
 ionigravida.com
 isolatedfrom82.com
+itgiblean.com
 itheatmoran.com
 itletroec.com
 ivdjs.com
@@ -755,6 +770,7 @@ nycvqozkkmzti.com
 o3sxhw5ad.com
 oabaubsutha.com
 oamoameevee.net
+oaphoace.net
 obdshyohcog.com
 oblolrvce.in
 obnoljac.com
@@ -792,6 +808,7 @@ osknimkihvr.com
 othabqmag.com
 otqmunvibzp.in
 outoctillerytor.com
+outsliggooa.com
 ovmhwiccikr.com
 owbltnxzgxq.com
 ozmahtadn.com
@@ -895,6 +912,7 @@ rizkigkmoa.in
 rkopcipugj.in
 rmmjy.rrbzvmklrzwmk.top
 rmvla.rrqwarwrewrlj.top
+rndskittytor.com
 rnofuxgaz.com
 rosysolvingscallion.com
 rotabol.com
@@ -1016,6 +1034,7 @@ usheebainaut.com
 uumkcycj.com
 uvopoefe.com
 uz.louchefunnel.shop
+vabpfbbtzs.com
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
 vd.bundthoecake.cyou
@@ -1117,9 +1136,11 @@ zyuwjxerthht.com
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
+guihua-china.com
 lem-computers.net
 ping.kitidi.com
 pymx5.com
+sdk.conscent.in
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
