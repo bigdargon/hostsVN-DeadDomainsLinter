@@ -204,8 +204,6 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
-ad-track.adiiix.com
-ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 jg.wensixuetang.com
@@ -238,7 +236,6 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv640.me
-ads.livetv655.me
 ads.livetv664.me
 ads.livetv683.me
 ads.livetv687.me
@@ -276,19 +273,10 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-adserver.atdnetwork.com
-atdnetwork.com
-delivery.atdnetwork.com
-platform.atdnetwork.com
-static01.atdnetwork.com
-track.atdnetwork.com
-www.atdnetwork.com
 ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -326,8 +314,6 @@ tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
 log.tapchimattran.vn
-report.mediahub.vn
-report2.mediahub.vn
 tracker.anime47.com
 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
@@ -379,7 +365,6 @@ aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
 affcpatrk.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
