@@ -240,10 +240,8 @@ ads.livetv633.me
 ads.livetv640.me
 ads.livetv664.me
 ads.livetv683.me
-ads.livetv687.me
 ads.livetv705.me
 ads.livetv708.me
-ads.livetv788.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -299,8 +297,6 @@ platform.jeoway.com
 www.jeoway.com
 wiinvent.com.vn
 embed.wiinvent.com.vn
-ff.imacdn.com
-sponsor.imacdn.com
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
@@ -1153,6 +1149,5 @@ pymx5.com
 sdk.conscent.in
 smart-dmp.com
 spkoevngk.com
-stats.ultraffic.info
 suriflowers.com
 tracker.toolpg.com
