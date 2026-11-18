@@ -114,6 +114,12 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+a.optimizesrv.com
+ads.optimizesrv.com
+optimizesrv.com
+origin-ads.optimizesrv.com
+static.optimizesrv.com
+syndication.optimizesrv.com
 mobytrks.com
 go.mobytrks.com
 api.pvmax.net
@@ -234,6 +240,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
+statsperformdev.com
+dynamicads.statsperformdev.com
+smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
@@ -348,6 +357,7 @@ abvfupqkyaj.in
 acsshufxnu.com
 aczopdxfy.com
 adgardener.com
+adigi.icu
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
@@ -456,7 +466,6 @@ btguqecoelukltw.com
 bttupamp.com
 burkhahemoid.com
 butalksuw9dj10.com
-bytefrom2010.com
 bzyfzusiqohk.com
 caemajnt.com
 cagamvnuqhuh.com
@@ -1028,13 +1037,11 @@ uaiysnrylsuyx.website
 uapafuxwnusear.com
 ueikno.com
 ugroocuw.net
-ugtflnqn.com
 unheadedsouptotal.com
 unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 urrfkabrkhxjat.com
 usheebainaut.com
 uumkcycj.com
@@ -1050,6 +1057,7 @@ vfurwydryli.com
 viamariller.com
 viiadr.com
 vivvuvkra.com
+vkeadqoff.com
 vmmpxl.com
 vmweb.net
 vr.ringentkenlore.com
@@ -1083,7 +1091,6 @@ wmllfxjjnjq.com
 wonderhsjnsd.com
 workervanewalk.com
 wounofoarausooy.net
-wr.amigojimbang.com
 wrothenitent.cyou
 wucdrynukof.in
 www.admarket.network
@@ -1143,7 +1150,6 @@ bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-lem-computers.net
 ping.kitidi.com
 pymx5.com
 sdk.conscent.in
