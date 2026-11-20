@@ -124,6 +124,7 @@ mobytrks.com
 go.mobytrks.com
 api.pvmax.net
 cdn.pvmax.net
+kuasa.pvmax.net
 monika.pvmax.net
 pvmax.net
 www.pvmax.net
@@ -247,11 +248,16 @@ smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
+ads.livetv637.me
 ads.livetv640.me
+ads.livetv655.me
+ads.livetv658.me
 ads.livetv664.me
 ads.livetv683.me
-ads.livetv705.me
+ads.livetv687.me
 ads.livetv708.me
+ads.livetv787.me
+ads.livetv788.me
 ads.livetv790.me
 aj2556.bid
 aj2557.bid
@@ -305,6 +311,7 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
+app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -313,10 +320,10 @@ embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
-wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
@@ -380,7 +387,6 @@ adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
 affcpatrk.com
-affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -555,7 +561,6 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
-enterprises550.net
 epomapps.com
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
@@ -651,6 +656,7 @@ infamousfine.com
 infinity13.com
 inspirationstarednope.com
 intendedeasiestlost.com
+intrudefatherinlaw.com
 ionigravida.com
 isolatedfrom82.com
 itgiblean.com
@@ -919,7 +925,6 @@ rdipmrbwgvk.com
 reconditerake.com
 recoverystabilizevarmint.com
 redri.net
-reedunpack.com
 regulationprivilegescan.top
 renderstreamshuttleanalytics.net
 resalag.com
@@ -936,7 +941,6 @@ rotabol.com
 roumaniangravelnot.com
 rounddescribe.com
 rowvmqqqk.com
-rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru.pintidmalmy.cyou
