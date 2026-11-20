@@ -69,10 +69,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-c.trazk.com
-f.trazk.com
-localapi.trazk.com
-trazk.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -204,8 +200,6 @@ image.b91vip.com
 www.b91vip.com
 int.akisinn.me
 tok.akisinn.me
-int.vlancaa.site
-tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -242,13 +236,9 @@ cryptox-ads.io
 mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
-statsperformdev.com
-dynamicads.statsperformdev.com
-smart-ads.statsperformdev.com
 ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
-ads.livetv637.me
 ads.livetv640.me
 ads.livetv655.me
 ads.livetv658.me
@@ -295,8 +285,6 @@ ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-k8s2.testcentre.vn
-testcentre.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -320,10 +308,10 @@ embed.wiinvent.com.vn
 fly-ads.net
 tags.fly-ads.net
 cdn.wataads.com
+wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
-ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
@@ -376,7 +364,6 @@ admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
-ads.kitidi.com
 ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
@@ -561,6 +548,7 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
+enterprises550.net
 epomapps.com
 erezzydxykqwk.space
 erpqkcfvsjjyap.com
@@ -751,7 +739,6 @@ moonoafy.net
 mountaindriftevolutiontechnologies.net
 ms.butylicrinsing.qpon
 mtakpfquym.com
-muermoabject.shop
 mumazfqir.in
 murkymouse.online
 musiccounter.ru
@@ -858,7 +845,6 @@ pi.bogtrotdowning.shop
 pietexture.com
 playsdonkey.com
 pnhoppacwh.com
-po.zuhgg4cxt6noffj8.rest
 poawooptugroo.com
 pokreess.com
 pop-under.ru
@@ -941,6 +927,7 @@ rotabol.com
 roumaniangravelnot.com
 rounddescribe.com
 rowvmqqqk.com
+rqjcsnihsje.com
 rrejalojkc.in
 rsxekbcl.com
 ru.pintidmalmy.cyou
@@ -1020,7 +1007,6 @@ thripelbertie.website
 tilqwekuszfa.com
 timohtazxazej.website
 tirosagalite.com
-tkddcpuc.com
 tkexutqf.in
 toglooman.com
 tomorroweducated.com
@@ -1159,7 +1145,6 @@ bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-ping.kitidi.com
 pymx5.com
 sdk.conscent.in
 smart-dmp.com
