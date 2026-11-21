@@ -15,6 +15,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -28,6 +32,11 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
+api.adthor.com
+image.adthor.com
+logger.adthor.com
+static.adthor.com
+v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -69,6 +78,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -110,6 +120,9 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
+m.optvx.com
+main.optvx.com
+s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -144,7 +157,6 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
-native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -163,6 +175,7 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -221,7 +234,6 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 lampcfads.starbre.net
-lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -240,11 +252,11 @@ ads.livetv623.me
 ads.livetv630.me
 ads.livetv633.me
 ads.livetv640.me
-ads.livetv655.me
 ads.livetv658.me
 ads.livetv664.me
 ads.livetv683.me
 ads.livetv687.me
+ads.livetv703.me
 ads.livetv708.me
 ads.livetv787.me
 ads.livetv788.me
@@ -364,6 +376,7 @@ admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
+ads.nobid.com
 ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
@@ -495,6 +508,7 @@ cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
+conceiveerrandblend.com
 connection1safety.com
 conopidlanai.qpon
 coolingvaluer.com
@@ -810,6 +824,7 @@ opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
+orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -882,6 +897,7 @@ pwyamrbild.in
 pyicbcxvs.com
 pzaovfjaja.in
 pzpvweoxjm.com
+qa-ads.nobid.com
 qa.shboshbok.com
 qahntenkyf.com
 qayuwjcpfxusg.website
@@ -967,7 +983,6 @@ snugglethesheep.com
 soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
-solutions2000.com
 sortable.com
 sotchoum.com
 soumehoo.net
@@ -1000,6 +1015,7 @@ techourtoapingu.com
 templatein13.net
 terra8nb.com
 tevitpcfav.com
+textads.biz
 thaudray.com
 theekedgleamed.com
 theeptoah.com
@@ -1007,6 +1023,7 @@ thripelbertie.website
 tilqwekuszfa.com
 timohtazxazej.website
 tirosagalite.com
+tkddcpuc.com
 tkexutqf.in
 toglooman.com
 tomorroweducated.com
@@ -1035,7 +1052,9 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
+upr90.com
 urrfkabrkhxjat.com
+uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1049,6 +1068,7 @@ vebo-vast.pages.dev
 vfurwydryli.com
 viamariller.com
 viiadr.com
+vionito.com
 vivvuvkra.com
 vkeadqoff.com
 vmmpxl.com
@@ -1077,6 +1097,7 @@ wgkqywcf.com
 wgtyvqbfkxg.com
 whazugho.com
 whoursie.com
+whuwoawain.com
 wijwunrcoo.com
 witvfaojpzi.in
 wiwqhootrf.com
@@ -1109,6 +1130,7 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
+yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -1117,6 +1139,7 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
+yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
@@ -1149,3 +1172,4 @@ pymx5.com
 sdk.conscent.in
 smart-dmp.com
 spkoevngk.com
+stats.ultraffic.info
