@@ -15,10 +15,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -41,7 +37,6 @@ adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
-torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -78,7 +73,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-cdn.bidfilter.com
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -157,6 +151,7 @@ appier.xyz
 aixq-ps-sdk.appier.xyz
 aixq-streamlit.appier.xyz
 cdn.appier.xyz
+native-vpaid.winadx.com
 rewarded.winadx.com
 service.winadx.com
 syndication.winadx.com
@@ -175,7 +170,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-bidadx.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -234,6 +228,7 @@ click-eu.expmediadirect1.com
 click.expmediadirect1.com
 expmediadirect1.com
 lampcfads.starbre.net
+lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
@@ -381,6 +376,7 @@ ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
+adsclick.cc
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
@@ -586,7 +582,6 @@ fnzocmpkp.com
 forflygonom.com
 forlumineoner.com
 forspearowor.com
-fovcy1jg.pro
 foxtlytvs.com
 framestighterauthorize.com
 free.srcdn.xyz
@@ -693,7 +688,6 @@ kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
-kkdeldurlxjjcz.com
 klsdee.com
 kmfwrqdp.com
 kneeansweras.com
@@ -718,6 +712,7 @@ lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lizzworld.site
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
@@ -983,6 +978,7 @@ snugglethesheep.com
 soamuylg.com
 soccercadencefridge.com
 soggy-surround.com
+solutions2000.com
 sortable.com
 sotchoum.com
 soumehoo.net
@@ -1058,7 +1054,6 @@ uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
-uz.louchefunnel.shop
 vabpfbbtzs.com
 vc.colpwoofell.qpon
 vcqclbetewdnq.website
@@ -1162,7 +1157,6 @@ zumdivdwug.com
 zunsoach.com
 zwecnsakdbr.com
 zxgkuhqwwtcvc.website
-zyuwjxerthht.com
 a.master98.com
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
