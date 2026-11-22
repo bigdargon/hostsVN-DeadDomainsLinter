@@ -28,11 +28,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -57,7 +52,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -171,10 +165,6 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
-cdn.anymad.com
-cdn1.anymad.com
-click.anymad.com
-stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -214,10 +204,6 @@ int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
-hetapus.com
-ak.hetapus.com
-hetaint.com
-ak.hetaint.com
 hetahien.com
 ak.hetahien.com
 ad-track.adiiix.com
@@ -383,7 +369,6 @@ ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
-adsclick.cc
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
@@ -443,7 +428,6 @@ azzadgasf.in
 b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
-banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -508,7 +492,6 @@ clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
-cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -545,12 +528,10 @@ disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
-dotyruntchan.com
 dowerlesssightseehow.com
 dozubatan.com
 dryhachug.in
 dulrihaungy.com
-dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
@@ -723,7 +704,6 @@ lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
-lizzworld.site
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
@@ -781,7 +761,6 @@ ndha4sding6gf.com
 neoffic.com
 nessainy.net
 new-twinks.com
-newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
@@ -803,7 +782,6 @@ oamoameevee.net
 oaphoace.net
 obdshyohcog.com
 oblolrvce.in
-obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
 odloqsduxqha.in
@@ -1039,7 +1017,6 @@ toroexoclk.com
 torroclk.com
 tpnads.com
 tqgyzwquwu.com
-tqvnfnotrhyfl.site
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -1143,7 +1120,6 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
