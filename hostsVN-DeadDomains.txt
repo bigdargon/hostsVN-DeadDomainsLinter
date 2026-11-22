@@ -37,6 +37,7 @@ adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
 serve.adnetasia.com
+torrentz.adnetasia.com
 yahoo.adnetasia.com
 yasni.adnetasia.com
 zoover.adnetasia.com
@@ -170,6 +171,10 @@ voodoo-ads.io
 trackers.voodoo-analytics.io
 voodoo-analytics.io
 www.voodoo-analytics.io
+cdn.anymad.com
+cdn1.anymad.com
+click.anymad.com
+stats.anymad.com
 admobclick.com
 pixel.admobclick.com
 www.admobclick.com
@@ -205,8 +210,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
-tok.akisinn.me
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
@@ -217,6 +220,8 @@ hetaint.com
 ak.hetaint.com
 hetahien.com
 ak.hetahien.com
+ad-track.adiiix.com
+ads.adiiix.com
 media.evolv.ai
 participants.evolv.ai
 adserve.work
@@ -232,6 +237,7 @@ lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
+hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -253,6 +259,8 @@ ads.livetv683.me
 ads.livetv687.me
 ads.livetv703.me
 ads.livetv708.me
+ads.livetv782.me
+ads.livetv785.me
 ads.livetv787.me
 ads.livetv788.me
 ads.livetv790.me
@@ -306,7 +314,6 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -382,6 +389,7 @@ adsfac.us
 adtoqbuejunef.com
 aerodynomach.com
 afcnuchxgo.com
+aff2.childish2x2.fun
 affcpatrk.com
 afrjhanwosa.com
 afrxixlnj.com
@@ -558,6 +566,7 @@ eghnybyvn.com
 ejnhhchykjfyyle.com
 elderlybean.com
 elmnxeembokgd.space
+engine.espace.netavenir.com
 enterprises550.net
 epomapps.com
 erezzydxykqwk.space
@@ -582,6 +591,7 @@ fnzocmpkp.com
 forflygonom.com
 forlumineoner.com
 forspearowor.com
+fovcy1jg.pro
 foxtlytvs.com
 framestighterauthorize.com
 free.srcdn.xyz
@@ -688,6 +698,7 @@ kaisauwoure.net
 kamwaflmoacd.com
 ke.minterhazes.com
 kiynew.com
+kkdeldurlxjjcz.com
 klsdee.com
 kmfwrqdp.com
 kneeansweras.com
@@ -1050,7 +1061,6 @@ untidyquestion.com
 unugilpcyxoep.com
 upr90.com
 urrfkabrkhxjat.com
-uselnk.com
 usheebainaut.com
 uumkcycj.com
 uvopoefe.com
@@ -1063,7 +1073,6 @@ vebo-vast.pages.dev
 vfurwydryli.com
 viamariller.com
 viiadr.com
-vionito.com
 vivvuvkra.com
 vkeadqoff.com
 vmmpxl.com
@@ -1157,6 +1166,7 @@ zumdivdwug.com
 zunsoach.com
 zwecnsakdbr.com
 zxgkuhqwwtcvc.website
+zyuwjxerthht.com
 a.master98.com
 bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
@@ -1167,3 +1177,4 @@ sdk.conscent.in
 smart-dmp.com
 spkoevngk.com
 stats.ultraffic.info
+tracker.toolpg.com
