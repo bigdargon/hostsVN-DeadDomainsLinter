@@ -68,6 +68,7 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
+a.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -109,9 +110,6 @@ madsecz.com
 advinci.net
 count.advinci.net
 www.advinci.net
-m.optvx.com
-main.optvx.com
-s.optvx.com
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -200,12 +198,17 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
+int.vlancaa.site
+tok.vlancaa.site
 int.vlancaa.fun
 tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
 hetahien.com
 ak.hetahien.com
+admix.in
+geoip5m1y07.admix.in
+ssp.admix.in
 ad-track.adiiix.com
 ads.adiiix.com
 media.evolv.ai
@@ -245,11 +248,6 @@ ads.livetv683.me
 ads.livetv687.me
 ads.livetv703.me
 ads.livetv708.me
-ads.livetv782.me
-ads.livetv785.me
-ads.livetv787.me
-ads.livetv788.me
-ads.livetv790.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -280,12 +278,13 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
-cdn.hbplatform.com
-hbplatform.com
 ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
+k8s2.testcentre.vn
+testcentre.vn
+adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -299,6 +298,8 @@ gluco.native-ad.net
 native-ad.net
 tags.native-ad.net
 vena.native-ad.net
+analytics.saas-vn.network
+congnb.analytics.saas-vn.network
 analytics.jeoway.com
 jeoway.com
 platform.jeoway.com
@@ -312,6 +313,7 @@ wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
 ad.vkool.net
+ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
@@ -360,15 +362,18 @@ acsshufxnu.com
 aczopdxfy.com
 adgardener.com
 adigi.icu
+adimg.net
 admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
+ads.kitidi.com
 ads.nobid.com
 ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
+adsclick.cc
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
@@ -403,6 +408,7 @@ anlxwagwa.in
 antananarbdivu.com
 antxmmerxmdhu.com
 apfxpuatkla.com
+api.unthem.com
 appealtime.com
 appeaserepose.com
 appservestar.com
@@ -416,7 +422,6 @@ astraon255.net
 atdxamakqo.in
 atp.io
 atrmkoopdlhu.com
-ausoafab.net
 avhkihpfabt.com
 awjojjrimaf.in
 awqmgvpbarmhyw.com
@@ -528,10 +533,12 @@ disrespectpreceding.com
 dithodackee.com
 dmdxzdhu.com
 dnemkhkbsdbl.com
+dotyruntchan.com
 dowerlesssightseehow.com
 dozubatan.com
 dryhachug.in
 dulrihaungy.com
+dummieseardrum.com
 duvnihavrob.in
 dvmbarfzhhuyq.com
 dxtnqglxrio.com
@@ -600,7 +607,6 @@ gimoqwmikakv.com
 giuwikxlkna.com
 gkemujoccwin.com
 gketcakpeh.com
-glersakr.com
 glimtors.net
 glizauvo.net
 gloaphoo.net
@@ -704,6 +710,7 @@ lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lizzworld.site
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
@@ -741,7 +748,6 @@ ms.butylicrinsing.qpon
 mtakpfquym.com
 mumazfqir.in
 murkymouse.online
-musiccounter.ru
 mustardeveningobvious.com
 mutcheng.net
 mwekuzaj.com
@@ -782,6 +788,7 @@ oamoameevee.net
 oaphoace.net
 obdshyohcog.com
 oblolrvce.in
+obnoljac.com
 oclasrv.com
 od.stimefloccus.shop
 odloqsduxqha.in
@@ -808,7 +815,6 @@ opvanillishan.com
 opzazcvitci.com
 oqhbgxvk.com
 oranegfodnd.com
-orb92.com
 orbor700.com
 orlotalers.com
 orqmimfug.in
@@ -821,6 +827,7 @@ outoctillerytor.com
 outsliggooa.com
 ovmhwiccikr.com
 owbltnxzgxq.com
+oxen.hillcountrytexas.com
 ozmahtadn.com
 ozqoztrkoaj.com
 palaroleg.guru
@@ -912,6 +919,7 @@ reconditerake.com
 recoverystabilizevarmint.com
 redri.net
 regulationprivilegescan.top
+remox.com
 renderstreamshuttleanalytics.net
 resalag.com
 reticencevaliddecoction.com
@@ -1017,6 +1025,8 @@ toroexoclk.com
 torroclk.com
 tpnads.com
 tqgyzwquwu.com
+tqvnfnotrhyfl.site
+track.getmydeals.net
 traktrafficflow.com
 tranquilside.com
 trustlearningclearly.com
@@ -1057,7 +1067,6 @@ vmweb.net
 vr.ringentkenlore.com
 vsgdodqfjpdws.space
 vsgpxqdqk.com
-vtacibqzopiw.com
 vteskyombq.com
 vtwvtmsvpav.com
 vwahacrubri.com
@@ -1079,6 +1088,7 @@ wgtyvqbfkxg.com
 whazugho.com
 whoursie.com
 whuwoawain.com
+widow5blackfr.com
 wijwunrcoo.com
 witvfaojpzi.in
 wiwqhootrf.com
@@ -1111,7 +1121,6 @@ xtuohnfwia.in
 xubchynamm.in
 xw.citrenezippier.cfd
 xymhdmqrjxwl.com
-yb26b.com
 yd.yowleytapeta.shop
 ygdragebdimw.com
 yiopse.com
@@ -1148,9 +1157,9 @@ bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
+ping.kitidi.com
 pymx5.com
 sdk.conscent.in
 smart-dmp.com
-spkoevngk.com
 stats.ultraffic.info
 tracker.toolpg.com
