@@ -144,6 +144,7 @@ www.pvmax.net
 d3x2.myfastcdn.com
 myfastcdn.com
 lalaping.com
+static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
@@ -218,7 +219,6 @@ hetahien.com
 ak.hetahien.com
 media.evolv.ai
 participants.evolv.ai
-jg.wensixuetang.com
 adserve.work
 cdn.adserve.work
 www.adserve.work
@@ -293,9 +293,6 @@ adscare.myad.vn
 cdn.myad.vn
 dmp.myad.vn
 www.myad.vn
-customers.fptad.com
-img.customers.fptad.com
-static.customers.fptad.com
 ad.native-ad.net
 beauty.native-ad.net
 code.native-ad.net
@@ -369,7 +366,6 @@ admarket.network
 ads.cdn2-img.net
 ads.epltalk.com
 ads.fortunecity.com
-ads.kitidi.com
 ads.nobid.com
 ads.rpgdot.com
 ads.themovienation.com
@@ -457,6 +453,7 @@ boobausauhipsa.net
 boustahe.com
 bpaqzithab.com
 bpipihwhumif.com
+bqrjotqnqh.com
 brazenwholly.com
 breathelicense.com
 bredmykixnaj.com
@@ -681,7 +678,6 @@ jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
 kamwaflmoacd.com
-kdm8.com
 ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
@@ -708,11 +704,13 @@ lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
+lizzworld.site
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
 lu.hymenicshi.qpon
 lufdzaqcoadm.com
+luxope.com
 lvesfrucnt.com
 m.hue2b.com
 mafrarc3e9h.com
@@ -1036,7 +1034,6 @@ ugroocuw.net
 ugtflnqn.com
 unheadedsouptotal.com
 unkempt-hand.com
-unmalleableredistributeone.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
@@ -1153,9 +1150,7 @@ bjdxhs.com
 d19ptbnuzhibkh.cloudfront.net
 fathomseo.com
 guihua-china.com
-ping.kitidi.com
 pymx5.com
 sdk.conscent.in
 smart-dmp.com
-stats.ultraffic.info
 tracker.toolpg.com
