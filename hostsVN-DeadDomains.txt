@@ -28,11 +28,6 @@ image.zcoup.com
 logger.zcoup.com
 v.zcoup.com
 zcoup.com
-api.adthor.com
-image.adthor.com
-logger.adthor.com
-static.adthor.com
-v.adthor.com
 adnetasia.com
 crunchyroll.adnetasia.com
 ox-d.adnetasia.com
@@ -84,7 +79,6 @@ aj2430.online
 aj2498.online
 aj2503.online
 ajxx91.online
-a.brand.ad
 aos.gop1.co
 g.gop1.co
 geo.gop1.co
@@ -123,6 +117,9 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
+advinci.net
+count.advinci.net
+www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -211,8 +208,6 @@ int.akisinn.me
 tok.akisinn.me
 int.vlancaa.site
 tok.vlancaa.site
-int.vlancaa.fun
-tok.vlancaa.fun
 ak.hetaruvg.com
 hetaruvg.com
 hetahien.com
@@ -231,7 +226,6 @@ lampcfads.starbre.net
 lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
-trk.vidible.tv
 clickcdn.co
 us.clickcdn.co
 hummingbird.mavencoalition.io
@@ -251,7 +245,9 @@ ads.livetv630.me
 ads.livetv633.me
 ads.livetv640.me
 ads.livetv683.me
+ads.livetv697.me
 ads.livetv708.me
+ads.livetv787.me
 aj2556.bid
 aj2557.bid
 aj2566.bid
@@ -282,6 +278,8 @@ text1.klick.vn
 wakeup.klick.vn
 wakeup247.klick.vn
 www.klick.vn
+cdn.hbplatform.com
+hbplatform.com
 ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
@@ -316,6 +314,8 @@ syndication.adlinknetwork.vn
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
+api.boclinkads.com
+api2.boclinkads.com
 qc.mhsolution.vn
 sbbanner.com
 trenddigital.vn
@@ -371,6 +371,7 @@ ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
+adsclick.cc
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
@@ -378,6 +379,7 @@ aerodynomach.com
 afcnuchxgo.com
 aff2.childish2x2.fun
 affcpatrk.com
+affiliates.devilfishpartners.com
 afrjhanwosa.com
 afrxixlnj.com
 afzotfwramzy.in
@@ -429,7 +431,6 @@ b0oie4xjeb4ite.com
 bahmemohod.com
 baithoph.net
 balor-ghn.com
-banner.bw88.io
 barapolaran.shop
 basepush.com
 batomqsmoocc.com
@@ -677,8 +678,6 @@ jwuoxhjuq.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
-kamwaflmoacd.com
-ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
 klsdee.com
@@ -1037,7 +1036,6 @@ unkempt-hand.com
 unsungpolicy.com
 untidyquestion.com
 unugilpcyxoep.com
-upr90.com
 urrfkabrkhxjat.com
 usheebainaut.com
 uumkcycj.com
