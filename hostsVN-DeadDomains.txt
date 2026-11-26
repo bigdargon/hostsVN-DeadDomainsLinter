@@ -52,17 +52,6 @@ torrentz.adclixx.net
 yahoo.adclixx.net
 yasni.adclixx.net
 zoover.adclixx.net
-api.sociaplus.com
-hit.api.sociaplus.com
-image.sociaplus.com
-img.sociaplus.com
-panel.sociaplus.com
-sociaplus.com
-static.api.sociaplus.com
-tikivn.api.sociaplus.com
-zaloramy.api.sociaplus.com
-zalorasg.api.sociaplus.com
-beacon.statful.com
 all.dspmulti.com
 dspmulti.com
 aj1090.online
@@ -226,9 +215,9 @@ lampcfads.starbre.net
 lampservice.starbre.net
 ads-adaptv.vidible.tv
 ads-trk.vidible.tv
+trk.vidible.tv
 clickcdn.co
 us.clickcdn.co
-hummingbird.mavencoalition.io
 fp-cdn.azureedge.net
 g2insights-cdn.azureedge.net
 loader-cdn.azureedge.net
@@ -241,7 +230,6 @@ mat.cryptox-ads.io
 pub.cryptox-ads.io
 sdk-api.cryptox-ads.io
 ads.livetv623.me
-ads.livetv630.me
 ads.livetv633.me
 ads.livetv640.me
 ads.livetv683.me
@@ -284,7 +272,6 @@ ads.kabbmedia.com
 delivery.kabbmedia.com
 images.kabbmedia.com
 kabbmedia.com
-adx.vn
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -678,6 +665,8 @@ jwuoxhjuq.com
 jz.thringsettos.cyou
 kaffnet.com
 kaisauwoure.net
+kamwaflmoacd.com
+ke.minterhazes.com
 kiynew.com
 kkdeldurlxjjcz.com
 klsdee.com
@@ -1150,5 +1139,4 @@ fathomseo.com
 guihua-china.com
 pymx5.com
 sdk.conscent.in
-smart-dmp.com
 tracker.toolpg.com
