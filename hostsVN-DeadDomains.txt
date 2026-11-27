@@ -1,4 +1,3 @@
-blueserving.com
 heyzap.com
 ads.heyzap.com
 android.heyzap.com
@@ -16,10 +15,6 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
-ads.2mdnsys.com
-static.2mdnsys.com
-stats.2mdnsys.com
-cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -234,7 +229,6 @@ sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv633.me
 ads.livetv640.me
-ads.livetv664.me
 ads.livetv683.me
 ads.livetv697.me
 ads.livetv785.me
@@ -271,10 +265,6 @@ wakeup247.klick.vn
 www.klick.vn
 cdn.hbplatform.com
 hbplatform.com
-ads.kabbmedia.com
-delivery.kabbmedia.com
-images.kabbmedia.com
-kabbmedia.com
 matomo.hicity.vn
 mautic.hicity.vn
 adscare.myad.vn
@@ -289,7 +279,6 @@ native-ad.net
 tags.native-ad.net
 vena.native-ad.net
 analytics.jeoway.com
-app2.jeoway.net
 jeoway.com
 platform.jeoway.com
 www.jeoway.com
@@ -313,7 +302,6 @@ trenddigital.vn
 tvc.biphim.club
 www.sbbanner.com
 analytics.moneycat.vn
-log.smoney.vn
 log.tapchimattran.vn
 report.mediahub.vn
 report2.mediahub.vn
@@ -484,7 +472,6 @@ clickcompare.co.uk
 clickedyclick.com
 clicksmint.site
 clodderpickmaw.com
-cluster.adultworld.com
 cmdpeufwwou.com
 cnawrtrimk.com
 colonserve.com
@@ -564,6 +551,7 @@ fhyatbab.in
 fibqukktuv.in
 fixavcha.in
 fnzocmpkp.com
+forflygonom.com
 forlumineoner.com
 forspearowor.com
 fovcy1jg.pro
@@ -578,6 +566,7 @@ fsxmidyo.com
 funoriblithe.space
 funpageexchange.com
 futcceabr.com
+fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -695,7 +684,6 @@ lingamretene.com
 lispaircraftcraziness.com
 literalcorpulent.com
 littlecutecats.com
-lizzworld.site
 lmajm.lbylqerzmzlzq.top
 loazuptaice.net
 lpuodgmca.com
@@ -752,7 +740,6 @@ nd.prosilyingles.cyou
 ndha4sding6gf.com
 neoffic.com
 new-twinks.com
-newt1.adultworld.com
 nmasyykbucqj.com
 nonpareilanticipatedintention.com
 nossairt.net
