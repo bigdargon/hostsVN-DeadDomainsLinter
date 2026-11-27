@@ -1,3 +1,4 @@
+blueserving.com
 heyzap.com
 ads.heyzap.com
 android.heyzap.com
@@ -15,6 +16,10 @@ reports.nexage.com
 sjc.ads0.nexage.com
 tangerine.nexage.com
 www.nexage.com
+ads.2mdnsys.com
+static.2mdnsys.com
+stats.2mdnsys.com
+cfa.2mdnsys.com
 assets.deployads.com
 c.deployads.com
 deployads.com
@@ -106,9 +111,6 @@ fadsimz.com
 fadskiz.com
 gadskis.com
 madsecz.com
-advinci.net
-count.advinci.net
-www.advinci.net
 a.optimizesrv.com
 ads.optimizesrv.com
 optimizesrv.com
@@ -134,6 +136,10 @@ static.lalaping.com
 c.mstorer.net
 m.mstorer.net
 mstorer.net
+read.your-notice.com
+video.your-notice.com
+www.your-notice.com
+your-notice.com
 ei.imstks.com
 i.imstks.com
 imstks.com
@@ -193,10 +199,6 @@ www.truepush.com
 b91vip.com
 image.b91vip.com
 www.b91vip.com
-int.akisinn.me
-tok.akisinn.me
-int.vlancaa.site
-tok.vlancaa.site
 ak.hetaruvg.com
 hetaruvg.com
 hetahien.com
@@ -232,9 +234,10 @@ sdk-api.cryptox-ads.io
 ads.livetv623.me
 ads.livetv633.me
 ads.livetv640.me
+ads.livetv664.me
 ads.livetv683.me
 ads.livetv697.me
-ads.livetv708.me
+ads.livetv785.me
 ads.livetv787.me
 aj2556.bid
 aj2557.bid
@@ -298,6 +301,7 @@ cdn.wataads.com
 wataads.com
 service.adlinknetwork.vn
 syndication.adlinknetwork.vn
+ads.6svn.com
 ads.homedy.net
 adv.autosurf.vn
 adx.hoanggia.net.vn
@@ -358,7 +362,6 @@ ads.rpgdot.com
 ads.themovienation.com
 ads.vnd89.com
 ads.wedodemos.com
-adsclick.cc
 adsfac.eu
 adsfac.us
 adtoqbuejunef.com
@@ -561,7 +564,6 @@ fhyatbab.in
 fibqukktuv.in
 fixavcha.in
 fnzocmpkp.com
-forflygonom.com
 forlumineoner.com
 forspearowor.com
 fovcy1jg.pro
@@ -576,7 +578,6 @@ fsxmidyo.com
 funoriblithe.space
 funpageexchange.com
 futcceabr.com
-fvmfdzpwbm.com
 fxclix.com
 g0push.com
 ga.looserokaying.shop
@@ -653,6 +654,7 @@ jijswitreaqv.in
 jitqwooztonj.in
 jkykczdwuchq.com
 joopaish.com
+joudauhee.com
 jpcrtqakzrlqy.space
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
@@ -681,6 +683,7 @@ kx.upturnsidoist.cyou
 kypwvjoni.com
 kzuocxorfo.com
 lactolwant.com
+lavnkios.in
 ldjsypolwypxy.space
 lduohrmhrme.com
 leglikedescantwonder.com
@@ -821,6 +824,7 @@ pebadu.com
 pekajmkimvx.com
 peppaping.xyz
 perfoliateratchetspecial.com
+perryvolleyball.com
 petasusawber.com
 phfzhmcuazx.com
 phoossax.net
@@ -1038,6 +1042,7 @@ vebo-vast.pages.dev
 vfurwydryli.com
 viamariller.com
 viiadr.com
+vionito.com
 vivvuvkra.com
 vkeadqoff.com
 vmmpxl.com
@@ -1108,7 +1113,6 @@ yo.hostalpitylus.shop
 yoshdeum.com
 yrhnw7h63.com
 yrocvgqilrmowj.com
-yu225.com
 yvcchjdiqzpog.rocks
 yx.crappininvein.shop
 yx.mousesprepuce.shop
